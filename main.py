@@ -102,7 +102,6 @@ cluster_centroids = {}
 clusters = {}
 
 
-
 doc_vectors = generate_tfmatrix(raw_documents)
 # doc_vectors = generate_tfidfmatrix(raw_documents)
 
