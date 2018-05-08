@@ -11,7 +11,6 @@ from pdfminer.pdfpage import PDFPage
 import TextTiling as tt
 import warun as tt2
 from nltk.tokenize.texttiling import TextTilingTokenizer
-import readless.Segmentation
 
 
 
@@ -106,7 +105,8 @@ def get_intro_conclusion(content):
                 (roman_numeral_headers and line.startswith((roman.toRoman(intro_index)).upper() + '.')):
             intro_count += 1
             # break
-        elif (line.strip().find('conclusions') > -1 or
+        elif ((line.strip().find('conclusions') > -1 and line.strip().find('conclusions') < 5) or
+              (line.strip().find('conclusion') > -1 and line.strip().find('conclusion') < 5) or
               (line.strip().find('final remarks') > -1) and (line.strip().find('final remarks') < 10))\
                 and intro_count >= 1:
             period_separator = line.strip().find('.')

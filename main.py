@@ -159,7 +159,23 @@ for id, cluster in list(clusters.items()):
     if len(cluster) == 1:
         singleton_clusters.append(cluster[0])
         del clusters[id]
+        del cluster_centroids[id]
 clusters['others'] = singleton_clusters
+
+# getting the most representative tile from each of the clusters
+# for now, we're only picking THE most similar tile to the cluster centroid
+most_representative_documents = {}
+for cid, cluster in list(clusters.items()):
+    if cid != "others":
+        doc_similarities = collections.OrderedDict()
+        for doc_id, document_vector in list(enumerate(cluster)):
+            document_centroid_similarity = cosine_similarity([cluster_centroids[cid]], [document_vector[list(document_vector.keys())[0]]])
+            doc_similarities[list(document_vector.keys())[0]] = document_centroid_similarity
+
+        doc_similarities = collections.OrderedDict(sorted(doc_similarities.items(), key=lambda x: x[1]))
+        most_representative_documents[cid] = list(doc_similarities.items())[-1]
+
+
 
 for cid, cluster in list(clusters.items()):
     for doc_id, document_vector in list(enumerate(cluster)):

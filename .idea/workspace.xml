@@ -4,6 +4,14 @@
     <list default="true" id="c1a64d5c-3088-461b-8c06-e4b97e7a398c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change beforePath="$PROJECT_DIR$/ok/paper10.pdf" afterPath="$PROJECT_DIR$/papers/paper10.pdf" />
+      <change beforePath="$PROJECT_DIR$/ok/paper5.pdf" afterPath="$PROJECT_DIR$/tried-and-tested/paper5.pdf" />
+      <change beforePath="$PROJECT_DIR$/ok/paper6.pdf" afterPath="$PROJECT_DIR$/tried-and-tested/paper6.pdf" />
+      <change beforePath="$PROJECT_DIR$/ok/paper7.pdf" afterPath="$PROJECT_DIR$/problematic/paper7.pdf" />
+      <change beforePath="$PROJECT_DIR$/papers/paper.pdf" afterPath="$PROJECT_DIR$/tried-and-tested/paper.pdf" />
+      <change beforePath="$PROJECT_DIR$/papers/paper2.pdf" afterPath="$PROJECT_DIR$/tried-and-tested/paper2.pdf" />
+      <change beforePath="$PROJECT_DIR$/papers/paper4.pdf" afterPath="$PROJECT_DIR$/tried-and-tested/paper4.pdf" />
+      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,17 +21,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.7004785">
+    <splitter split-orientation="horizontal" split-proportion="0.18538135">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/main.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="181">
-                  <caret line="101" column="13" lean-forward="false" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+                <state relative-caret-position="357">
+                  <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
                   <folding>
                     <element signature="e#0#11#0" expanded="true" />
-                    <element signature="e#557#1565#0" expanded="false" />
                     <element signature="e#1753#2345#0" expanded="false" />
                     <element signature="e#2396#2943#0" expanded="false" />
                   </folding>
@@ -35,15 +42,14 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
-                  <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+                <state relative-caret-position="306">
+                  <caret line="107" column="97" lean-forward="true" selection-start-line="107" selection-start-column="97" selection-end-line="107" selection-end-column="97" />
                   <folding>
-                    <element signature="e#424#1126#0" expanded="false" />
-                    <element signature="e#1159#1591#0" expanded="false" />
-                    <element signature="e#1633#5835#0" expanded="false" />
+                    <element signature="e#0#9#0" expanded="true" />
+                    <element signature="e#1130#1562#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -64,7 +70,7 @@
           <file leaf-file-name="texttiling.py" pinned="false" current-in-tab="false">
             <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/nltk/tokenize/texttiling.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1853">
+                <state relative-caret-position="405">
                   <caret line="111" column="11" lean-forward="false" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
                   <folding>
                     <element signature="e#181#190#0" expanded="true" />
@@ -72,18 +78,6 @@
                     <element signature="e#7144#7315#0" expanded="false" />
                     <element signature="e#7930#8282#0" expanded="false" />
                     <element signature="e#14218#14525#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/main.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="326">
-                  <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#11#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -102,13 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>xrange</find>
-      <find>xra</find>
-      <find>getBoundaries</find>
-      <find>enumerate</find>
-      <find>paragraph_breaks</find>
-      <find>impo</find>
-      <find>enumer</find>
       <find>getDepthCutoff</find>
       <find>stem_</find>
       <find>approaches</find>
@@ -132,6 +119,13 @@
       <find>cluster</find>
       <find>cosine</find>
       <find>raw_docum</find>
+      <find>cluster_ce</find>
+      <find>systems</find>
+      <find>a simila</find>
+      <find>in this</find>
+      <find>in this paper</find>
+      <find>concli</find>
+      <find>conclusion_flag</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,14 +142,14 @@
         <option value="$PROJECT_DIR$/warun.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/readless/Segmentation/texttiling.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/nltk/tokenize/texttiling.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1372" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -193,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,12 +197,23 @@
             <path>
               <item name="text-summariser" type="b2602c69:ProjectViewProjectNode" />
               <item name="text-summariser" type="462c0819:PsiDirectoryNode" />
+              <item name="ok" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-summariser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-summariser" type="462c0819:PsiDirectoryNode" />
               <item name="papers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="text-summariser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="text-summariser" type="462c0819:PsiDirectoryNode" />
+              <item name="tried-and-tested" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -219,11 +223,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Dissertation\text-summariser\tried-and-tested" />
       <recent name="D:\Projects\Dissertation\text-summariser\papers" />
-      <recent name="D:\Projects\Dissertation\text-summariser\ok" />
       <recent name="D:\Projects\Dissertation\text-summariser\problematic" />
+      <recent name="D:\Projects\Dissertation\text-summariser\ok" />
       <recent name="D:\Projects\Dissertation\text-summariser" />
-      <recent name="D:\Projects\Dissertation\text-summariser\papers\ok" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -366,19 +370,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23277661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09791667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38494167" sideWeight="0.2296875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762313" sideWeight="0.88529414" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3923648" sideWeight="0.72" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29764453" sideWeight="0.7" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29480383" sideWeight="0.7" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4835631" sideWeight="0.7703125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26086956" sideWeight="0.7703125" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -472,8 +475,34 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>170</line>
-          <option name="timeStamp" value="299" />
+          <line>183</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>181</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="368" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>166</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <condition expression="idx==105" language="Python" />
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="371" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -483,7 +512,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="354" />
+      <option name="time" value="378" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -496,56 +525,60 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>clusters</expression-string>
+        <expression-string>line.strip().find('conclusion')</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>document_vectors.values</expression-string>
+        <expression-string>line.strip().find('conclusions')</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>document_vectors = pd.DataFrame(dtm.toarray(), columns=count_vectorizer.get_feature_names())</expression-string>
+        <expression-string>(not roman_numeral_headers and line.startswith(str(intro_index)+'.') and len(line) &lt; 30 and len(line) &gt; 5) or \
+                (not roman_numeral_headers and line.startswith(str(intro_index)) and len(line) &lt; 30 and len(line) &gt; 5) and intro_count == 1 or \
+                (roman_numeral_headers and line.startswith((roman.toRoman(intro_index)).lower()+'.')) or \
+                (roman_numeral_headers and line.startswith((roman.toRoman(intro_index)).upper() + '.'))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>dtm = count_vectorizer.fit_transform(journal_documents)</expression-string>
+        <expression-string>not roman_numeral_headers and line.startswith(str(intro_index)) and len(line) &lt; 30 and len(line) &gt; 5</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>count_vectorizer = CountVectorizer(min_df=1, stop_words='english')</expression-string>
+        <expression-string>not roman_numeral_headers and line.startswith(str(intro_index))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>tfidf</expression-string>
+        <expression-string>not roman_numeral_headers and line.startswith(str(intro_index)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>tfidf = pd.DataFrame(tfidf.toarray(), columns=vectorizer.get_feature_names())</expression-string>
+        <expression-string>content_split</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>tfidf = vectorizer.fit_transform(raw_documents)</expression-string>
+        <expression-string>content_split[430:]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string># Perform Tf-IDF
-vectorizer = TfidfVectorizer(
-    decode_error='ignore', strip_accents='unicode',
-    stop_words='english', lowercase=True,
-    max_df=0.9, max_features=3000)</expression-string>
+        <expression-string>content_split[450:]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>idx==105</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>idx==718</expression-string>
         <language-id>Python</language-id>
@@ -588,11 +621,6 @@ vectorizer = TfidfVectorizer(
       </expression>
       <expression>
         <expression-string>idx==43</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>idx == 122</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -658,7 +686,6 @@ vectorizer = TfidfVectorizer(
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -670,9 +697,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -690,7 +716,6 @@ vectorizer = TfidfVectorizer(
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -702,9 +727,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -722,7 +746,6 @@ vectorizer = TfidfVectorizer(
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -734,9 +757,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -754,7 +776,6 @@ vectorizer = TfidfVectorizer(
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -773,9 +794,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="2006">
           <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -786,7 +806,6 @@ vectorizer = TfidfVectorizer(
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -805,9 +824,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -817,9 +835,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -829,9 +846,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -841,9 +857,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -853,9 +868,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -866,7 +880,6 @@ vectorizer = TfidfVectorizer(
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -878,9 +891,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="415">
           <caret line="78" column="1" lean-forward="false" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -891,7 +903,6 @@ vectorizer = TfidfVectorizer(
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -903,9 +914,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="1380">
           <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -918,7 +928,6 @@ vectorizer = TfidfVectorizer(
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
           </folding>
@@ -932,9 +941,8 @@ vectorizer = TfidfVectorizer(
         <state relative-caret-position="240">
           <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
           <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1019,18 +1027,6 @@ vectorizer = TfidfVectorizer(
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="69" lean-forward="false" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-          <folding>
-            <element signature="e#424#1126#0" expanded="false" />
-            <element signature="e#1159#1591#0" expanded="false" />
-            <element signature="e#1633#5835#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/readless/Segmentation/texttiling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5593">
@@ -1043,7 +1039,7 @@ vectorizer = TfidfVectorizer(
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/nltk/tokenize/texttiling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1853">
+        <state relative-caret-position="405">
           <caret line="111" column="11" lean-forward="false" selection-start-line="111" selection-start-column="11" selection-end-line="111" selection-end-column="11" />
           <folding>
             <element signature="e#181#190#0" expanded="true" />
@@ -1057,7 +1053,7 @@ vectorizer = TfidfVectorizer(
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
+        <state relative-caret-position="373">
           <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
           <folding />
         </state>
@@ -1065,13 +1061,23 @@ vectorizer = TfidfVectorizer(
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="101" column="13" lean-forward="false" selection-start-line="101" selection-start-column="13" selection-end-line="101" selection-end-column="13" />
+        <state relative-caret-position="357">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#557#1565#0" expanded="false" />
             <element signature="e#1753#2345#0" expanded="false" />
             <element signature="e#2396#2943#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="107" column="97" lean-forward="true" selection-start-line="107" selection-start-column="97" selection-end-line="107" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
           </folding>
         </state>
       </provider>
