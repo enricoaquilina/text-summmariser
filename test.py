@@ -69,7 +69,7 @@ def get_intro_conclusion(content):
     intro_index = 0
 
     for idx, line in enumerate(content_split):
-        if len(re.findall('\\babstract\\b', line)) > 0 or len(re.findall('\\ba b s t r a c t\\b', line)) > 0 and abstract_count == 0:
+        if (len(re.findall('\\babstract\\b', line)) > 0 or len(re.findall('\\ba b s t r a c t\\b', line)) > 0) and abstract_count == 0:
             abstract_count += 1
             continue
         # elif ((abstract_count >= 1) or (intro_count >= 1)) and len(line.strip()) == 0:
@@ -93,20 +93,23 @@ def get_intro_conclusion(content):
             else:
                 # some papers' indexes were coming on separate lines
                 index = content_split[idx-2].strip().replace('.', '')
-                try:
-                    intro_index = int(index)
-                except ValueError:
-                    roman_numeral_headers = not roman_numeral_headers
-                    intro_index = roman.fromRoman(index.upper())
+                if len(index) < 5:
+                    try:
+                        intro_index = int(index)
+                    except ValueError:
+                        roman_numeral_headers = not roman_numeral_headers
+                        intro_index = roman.fromRoman(index.upper())
             intro_index += 1
         elif (not roman_numeral_headers and line.startswith(str(intro_index)+'.') and len(line) < 30 and len(line) > 5) or \
-                (not roman_numeral_headers and line.startswith(str(intro_index)) and len(line) < 30 and len(line) > 5) and intro_count == 1 or \
+                (not roman_numeral_headers and line.startswith(str(intro_index)) and len(line) < 40 and len(line) > 5) and intro_count == 1 or \
                 (roman_numeral_headers and line.startswith((roman.toRoman(intro_index)).lower()+'.')) or \
-                (roman_numeral_headers and line.startswith((roman.toRoman(intro_index)).upper() + '.')):
+                (roman_numeral_headers and line.startswith((roman.toRoman(intro_index)).upper() + '.')) or \
+                (intro_index == 1 and line.strip().find('method') > -1 and len(line) < 7):
             intro_count += 1
             # break
-        elif ((line.strip().find('conclusions') > -1 and line.strip().find('conclusions') < 5) or
-              (line.strip().find('conclusion') > -1 and line.strip().find('conclusion') < 5) or
+        elif ((line.strip().find('conclusions') > -1 and line.strip().find('conclusions') < 5 and len(line) < 13) or
+              (line.strip().find('conclusion') > -1 and line.strip().find('conclusion') < 5 and len(line) < 13) or
+              (line.strip().find('contributions') > -1 and line.strip().find('future') > -1) or
               (line.strip().find('final remarks') > -1) and (line.strip().find('final remarks') < 10))\
                 and intro_count >= 1:
             period_separator = line.strip().find('.')
@@ -129,9 +132,10 @@ def get_intro_conclusion(content):
                     conclusion_flag = not conclusion_flag
         elif (line.strip().find('acknowledgment') > -1
               or line.strip().find('acknowledgement') > -1
+              or line.strip().find('acknowledgements') > -1
               or line.strip().find('references') > -1
               or line.strip().find('bibliograph') > -1) \
-                and conclusion_flag:
+                and conclusion_flag and len(line) <= 17:
             conclusion_flag = not conclusion_flag
             break
         elif (abstract_count == 1) or (intro_count == 1) or conclusion_flag:
