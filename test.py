@@ -152,6 +152,7 @@ def get_intro_conclusion(content):
     return to_process
 
 text_tiles = {}
+raw_docs = {}
 
 def run():
     for idx, filename in enumerate(os.listdir(os.getcwd()+'/papers')):
@@ -167,6 +168,7 @@ def run():
             # .replace('-', ' ')\
 
         relevant_text = get_intro_conclusion(content)
+        raw_docs[idx] = relevant_text
 
         relevant_text = relevant_text\
             .replace('.   ', '. ')\
@@ -182,7 +184,7 @@ def run():
 
         text_tiles[idx] = paper_tiles
 
-    return text_tiles
+    return raw_docs, text_tiles
 
 
 

@@ -6,6 +6,7 @@ from nltk.tokenize import word_tokenize
 from stop_words import get_stop_words
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import CountVectorizer
+from levenshtein_simil import Levenshtein_Simil
 import pandas as pd
 import collections
 
@@ -14,8 +15,12 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 
-paper_tiles = test.run()
+raw_docs, paper_tiles = test.run()
 document_lookup = {}
+
+# Calculate Levenshtein distance between a pair of documents
+lev_similarities = Levenshtein_Simil(raw_docs)
+lev_similarities = lev_similarities.compute_similarities()
 
 doc_id = 0
 
@@ -100,6 +105,8 @@ def generate_tfidfmatrix(journal_documents):
 document_vectors = {}
 cluster_centroids = {}
 clusters = {}
+
+
 
 
 doc_vectors = generate_tfmatrix(raw_documents)

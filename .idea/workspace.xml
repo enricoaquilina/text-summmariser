@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1a64d5c-3088-461b-8c06-e4b97e7a398c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/tried-and-tested/paper7.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/levenshtein_simil.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/problematic/indexes.pdf" afterPath="$PROJECT_DIR$/ok/roman1.pdf" />
+      <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
-      <change beforePath="$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/cmapdb.py" afterPath="$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/cmapdb.py" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper.pdf" afterPath="$PROJECT_DIR$/papers/paper.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper10.pdf" afterPath="$PROJECT_DIR$/papers/paper10.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper2.pdf" afterPath="$PROJECT_DIR$/papers/paper2.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper3.pdf" afterPath="$PROJECT_DIR$/papers/paper3.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper4.pdf" afterPath="$PROJECT_DIR$/papers/paper4.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper5.pdf" afterPath="$PROJECT_DIR$/papers/paper5.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper6.pdf" afterPath="$PROJECT_DIR$/papers/paper6.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper7.pdf" afterPath="$PROJECT_DIR$/papers/paper7.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper8.pdf" afterPath="$PROJECT_DIR$/papers/paper8.pdf" />
+      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper9.pdf" afterPath="$PROJECT_DIR$/papers/paper9.pdf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,18 +25,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.34375">
+    <splitter split-orientation="horizontal" split-proportion="0.6002387">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/main.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="197">
-                  <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <state relative-caret-position="119">
+                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#11#0" expanded="true" />
-                    <element signature="e#1753#2345#0" expanded="false" />
-                    <element signature="e#2396#2943#0" expanded="false" />
+                    <element signature="e#1979#2571#0" expanded="false" />
+                    <element signature="e#2622#3169#0" expanded="false" />
+                    <element signature="e#3388#5506#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="levenshtein_simil.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/levenshtein_simil.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="130" />
+                  <folding>
+                    <element signature="e#0#39#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -40,8 +62,8 @@
           <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="256">
-                  <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+                <state relative-caret-position="371">
+                  <caret line="172" column="38" lean-forward="false" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
                     <element signature="e#1130#1562#0" expanded="false" />
@@ -91,9 +113,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>approaches</find>
-      <find>paragraph_brea</find>
-      <find>\w</find>
       <find>block c</find>
       <find>= 10</find>
       <find>=10</find>
@@ -121,6 +140,9 @@
       <find>conclusion_flag</find>
       <find>method a</find>
       <find>autom</find>
+      <find>raw_doc</find>
+      <find>np.</find>
+      <find>sorted</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,16 +159,17 @@
         <option value="$PROJECT_DIR$/warun.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/readless/Segmentation/texttiling.py" />
         <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/nltk/tokenize/texttiling.py" />
-        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/cmapdb.py" />
         <option value="$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/pdffont.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/levenshtein_simil.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="434" />
-    <option name="width" value="1075" />
+    <option name="x" value="-7" />
+    <option name="width" value="1457" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -184,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,23 +218,12 @@
             <path>
               <item name="text-summariser" type="b2602c69:ProjectViewProjectNode" />
               <item name="text-summariser" type="462c0819:PsiDirectoryNode" />
-              <item name="ok" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="text-summariser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="text-summariser" type="462c0819:PsiDirectoryNode" />
               <item name="papers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="text-summariser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="text-summariser" type="462c0819:PsiDirectoryNode" />
-              <item name="tried-and-tested" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -219,15 +232,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MaxBot" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Projects\Dissertation\text-summariser\tried-and-tested" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projects\Dissertation\text-summariser\papers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Dissertation\text-summariser\papers" />
+      <recent name="D:\Projects\Dissertation\text-summariser\tried-and-tested" />
       <recent name="D:\Projects\Dissertation\text-summariser\ok" />
       <recent name="D:\Projects\Dissertation\text-summariser\problematic" />
       <recent name="D:\Projects\Dissertation\text-summariser" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\Dissertation\text-summariser\papers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -371,17 +384,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38494167" sideWeight="0.2296875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762313" sideWeight="0.88529414" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39130434" sideWeight="0.72" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39079228" sideWeight="0.72" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2916225" sideWeight="0.7" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18345705" sideWeight="0.7" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3202545" sideWeight="0.7703125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2640509" sideWeight="0.7703125" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -475,44 +489,28 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>183</line>
+          <line>190</line>
           <option name="timeStamp" value="354" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>181</line>
+          <line>188</line>
           <option name="timeStamp" value="362" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="366" />
+          <line>27</line>
+          <option name="timeStamp" value="402" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>170</line>
-          <option name="timeStamp" value="369" />
+          <url>file://$PROJECT_DIR$/levenshtein_simil.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="419" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>168</line>
-          <option name="timeStamp" value="379" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>159</line>
-          <option name="timeStamp" value="386" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <condition expression="idx==1480" language="Python" />
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>71</line>
-          <option name="timeStamp" value="395" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="396" />
+          <url>file://$PROJECT_DIR$/levenshtein_simil.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="420" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -522,7 +520,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="397" />
+      <option name="time" value="421" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -535,47 +533,52 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>len(line)</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True)).items()</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>line.strip().find('acknowledgment') &gt; -1</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>content_split[1300:]</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True))[0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>line</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1]))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len(line</expression-string>
+        <expression-string>sorted(most_similar_document.values())</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>content_split[1600:]</expression-string>
+        <expression-string>sorted(most_similar_document.iteritems(), key=itemgetter(1), reverse=True)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>content_split[1800:]</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1]), reverse=True)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>content_split[1500:]</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1]), reversed())</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>content_split</expression-string>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.values(), key=lambda x: x[0]))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.values(), key=lambda x: x[1]))</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -634,6 +637,41 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True))[1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True)))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(collections.OrderedDict(sorted(most_similar_document.values(), key=lambda x: x[1], reverse=True)))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>list(collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True)))[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True)).keys()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>collections.OrderedDict(sorted(most_similar_document.items(), key=lambda x: x[1], reverse=True)).items()[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>list(centroid_doc_vectors)</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -644,64 +682,18 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>for doc in centroid_doc_vectors: print(doc)</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>centroid_doc_vectors</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>clusters[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>clusters</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list(similarity_with_clusters.items())[0][0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>clusters[list(similarity_with_clusters.items())[0][0]]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list(similarity_with_clusters.items())[0]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>list(similarity_with_clusters.items())[1]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/summaries.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -730,8 +722,9 @@
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -760,8 +753,9 @@
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -790,8 +784,9 @@
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -864,8 +859,9 @@
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -887,8 +883,9 @@
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -912,8 +909,9 @@
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1011,6 +1009,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/cmapdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="129" column="14" lean-forward="false" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/pdffont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="645" column="49" lean-forward="false" selection-start-line="645" selection-start-column="49" selection-end-line="645" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/readless/Segmentation/texttiling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5593">
@@ -1035,49 +1047,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/cmapdb.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="129" column="14" lean-forward="false" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv2/Lib/site-packages/pdfminer/pdffont.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="645" column="49" lean-forward="false" selection-start-line="645" selection-start-column="49" selection-end-line="645" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="371">
+          <caret line="172" column="38" lean-forward="false" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#1130#1562#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="294">
+          <caret line="311" column="0" lean-forward="true" selection-start-line="311" selection-start-column="0" selection-end-line="311" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1753#2345#0" expanded="false" />
-            <element signature="e#2396#2943#0" expanded="false" />
+            <element signature="e#1979#2571#0" expanded="false" />
+            <element signature="e#2622#3169#0" expanded="false" />
+            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
+    <entry file="file://$PROJECT_DIR$/levenshtein_simil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="130" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#1130#1562#0" expanded="false" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
