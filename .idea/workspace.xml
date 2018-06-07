@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1a64d5c-3088-461b-8c06-e4b97e7a398c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/levenshtein_simil.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper.pdf" afterPath="$PROJECT_DIR$/papers/paper.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper10.pdf" afterPath="$PROJECT_DIR$/papers/paper10.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper2.pdf" afterPath="$PROJECT_DIR$/papers/paper2.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper3.pdf" afterPath="$PROJECT_DIR$/papers/paper3.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper4.pdf" afterPath="$PROJECT_DIR$/papers/paper4.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper5.pdf" afterPath="$PROJECT_DIR$/papers/paper5.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper6.pdf" afterPath="$PROJECT_DIR$/papers/paper6.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper7.pdf" afterPath="$PROJECT_DIR$/papers/paper7.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper8.pdf" afterPath="$PROJECT_DIR$/papers/paper8.pdf" />
-      <change beforePath="$PROJECT_DIR$/tried-and-tested/paper9.pdf" afterPath="$PROJECT_DIR$/papers/paper9.pdf" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,26 +15,24 @@
     <splitter split-orientation="horizontal" split-proportion="0.6002387">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/main.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <state relative-caret-position="320">
+                  <caret line="183" column="0" lean-forward="false" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#11#0" expanded="true" />
-                    <element signature="e#1979#2571#0" expanded="false" />
                     <element signature="e#2622#3169#0" expanded="false" />
-                    <element signature="e#3388#5506#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="levenshtein_simil.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="levenshtein_simil.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/levenshtein_simil.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="130" />
+                <state relative-caret-position="493">
+                  <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
                   <folding>
                     <element signature="e#0#39#0" expanded="true" />
                   </folding>
@@ -62,8 +47,8 @@
           <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="371">
-                  <caret line="172" column="38" lean-forward="false" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
+                <state relative-caret-position="116">
+                  <caret line="157" column="52" lean-forward="false" selection-start-line="157" selection-start-column="52" selection-end-line="157" selection-end-column="52" />
                   <folding>
                     <element signature="e#0#9#0" expanded="true" />
                     <element signature="e#1130#1562#0" expanded="false" />
@@ -167,9 +152,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1457" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="302" />
+    <option name="y" value="84" />
+    <option name="width" value="1032" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -207,7 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,11 +210,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MaxBot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scientific-paper-summarisation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -383,19 +369,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="302" y="84" width="1032" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24015749" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38494167" sideWeight="0.2296875" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762313" sideWeight="0.88529414" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39079228" sideWeight="0.72" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18345705" sideWeight="0.7" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29122055" sideWeight="0.7" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2640509" sideWeight="0.7703125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2640509" sideWeight="0.7703125" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -506,11 +492,6 @@
           <url>file://$PROJECT_DIR$/levenshtein_simil.py</url>
           <line>64</line>
           <option name="timeStamp" value="419" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/levenshtein_simil.py</url>
-          <line>62</line>
-          <option name="timeStamp" value="420" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -691,9 +672,7 @@
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -722,9 +701,7 @@
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -753,9 +730,7 @@
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -784,9 +759,7 @@
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -859,9 +832,7 @@
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -883,9 +854,7 @@
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -909,9 +878,7 @@
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
             <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1049,8 +1016,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="172" column="38" lean-forward="false" selection-start-line="172" selection-start-column="38" selection-end-line="172" selection-end-column="38" />
+        <state relative-caret-position="116">
+          <caret line="157" column="52" lean-forward="false" selection-start-line="157" selection-start-column="52" selection-end-line="157" selection-end-column="52" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#1130#1562#0" expanded="false" />
@@ -1065,25 +1032,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/levenshtein_simil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="493">
+          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <element signature="e#1979#2571#0" expanded="false" />
-            <element signature="e#2622#3169#0" expanded="false" />
-            <element signature="e#3388#5506#0" expanded="false" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/levenshtein_simil.py">
+    <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="62" column="54" lean-forward="false" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="130" />
+        <state relative-caret-position="320">
+          <caret line="183" column="0" lean-forward="false" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#2622#3169#0" expanded="false" />
           </folding>
         </state>
       </provider>

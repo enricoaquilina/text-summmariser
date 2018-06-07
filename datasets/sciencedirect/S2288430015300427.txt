@@ -1,0 +1,695 @@
+@&#MAIN-TITLE@&#Numerical optimization of flow uniformity inside an under body- oval substrate to improve emissions of IC engines
+
+@&#HIGHLIGHTS@&#
+
+
+               
+               
+                  
+                     
+                        
+                           
+                           Optimize the inlet cone design to achieve the optimal flow uniformity.
+
+
+                        
+                        
+                           
+                           Angled cones have been designed with rotating flow inlet plane along the substrate in shorter or longer axis.
+
+
+                        
+                        
+                           
+                           Large improvement in flow uniformity is observed along the direction of 10, 20 and 30mm away from geometrical centre.
+
+
+                        
+                        
+                           
+                           Flow uniformity is optimum when second shift is performed based on second rotation.
+
+
+                        
+                     
+                  
+               
+            
+
+@&#KEYPHRASES@&#
+
+Automotive
+
+CFD
+
+CATIA V5
+
+Uniformity index
+
+Deviation index
+
+Pressure drop
+
+@&#ABSTRACT@&#
+
+
+               
+               
+                  Oval substrates are widely used in automobiles to reduce the exhaust emissions in Diesel oxidation Catalyst of CI engine. Because of constraints in space and packaging Oval substrate is preferred rather than round substrate. Obtaining the flow uniformity is very challenging in oval substrate comparing with round substrate. In this present work attempts are made to optimize the inlet cone design to achieve the optimal flow uniformity with the help of CATIA V5 which is 3D design tool and CFX which is 3D CFD tool. Initially length of inlet cone and mass flow rate of exhaust stream are analysed to understand the effects of flow uniformity and pressure drop. Then short straight cones and angled cones are designed. Angled cones have been designed by two methodologies. First methodology is rotating flow inlet plane along the substrate in shorter or longer axis. Second method is shifting the flow inlet plane along the longer axis. Large improvement in flow uniformity is observed when the flow inlet plane is shifted along the direction of longer axis by 10, 20 and 30mm away from geometrical centre. When the inlet plane is rotated again based on 30mm shifted geometry, significant improvement at rotation angle of 20° is observed. The flow uniformity is optimum when second shift is performed based on second rotation. This present work shows that for an oval substrate flow, uniformity index can be optimized when inlet cone is angled by rotation of flow inlet plane along axis of substrate.
+               
+            
+
+@&#INTRODUCTION@&#
+
+Catalytic converters are more efficient in converting harmful gas of automotive vehicles into harmless gas which is a more important device in reducing emissions. It is important for automotive researchers to optimize the catalytic convertor to meet the stringent emission norms laid by governments from time to time. Particularly, flow uniformity, pressure drop and light-off performance are the most important factors that are to be considered [1–7].
+
+Zygourakis [8] was one of the first who analysed flow distribution in a single 2D converter by using finite element analysis which explained flow mal-distribution and CO light-off. Lai et al. [9] used PHOENICS software for 3D analysis of dual brick catalytic converter. They compared CFD results with experimental results obtained by LDA. Kwangsup Hwang et al. [10] investigated dynamic flow distribution inside CATCON by using laser Doppler velocimetry and high speed flow visualization. Jahn et al. [11] included temperature in 3D modelling of monolith and validated against experimental results. Martin et al. [12] reported flow mal-distribution affect the light-off characteristics by simplified zonal analysis. Jeong and Kim [13] reported the importance of warm up catalyst in light-off performance of a three way catalytic convertor. In latter part of the 1990s, CFD used to study cold flow 2D simulations [14,15]. Taylor [16] investigated on high temperature performance of single converter geometry by using 2D simulation. Michael Breuer et al. [17] optimized flow uniformity in catalyst by using experimental methods. Shi-jin et al. [18] used 2D CFD for varying cone angle with flow distribution device and validated against the experimental results although the agreement was not perfect. Recently Shi-Jin Shuai et al. [19] and Badami et al. [20] used experimental test and numerical simulation to optimize the system. CFD analysis has been evaluated by experimental tests.
+
+Performance of honey comb structure is always directly proportional to the flow uniformity. Uniform flow increases life of CATCON and better performance of DOC. Julia Windmann et al. [21] reported the effect of flow uniformity on engine light off behaviour. Chakravarthy et al. [22] modelled single converter geometry by using algebraic turbulence model in 2D with temperature and reaction and validated the results using the experiments of Holmgren et al. [23], They used representative channel approach with Voltz [24] model for CO and C3H6 oxidation without inclusion of wash coat diffusion. Windmann et al. [25] and Campbell et al. [26] proved the effect of flow distribution on the light-off of a three way converter.
+
+During 2000s, lot of papers were published with reactions using global kinetics without including wash coat diffusion. Realistic reaction chemistry [27–29] inclusion is a major challenge facing the convertor modelling. Tsinoglou et al. [30] included energy and mass balance equations with cold flow simulation and investigated transient flow distributions in the catalytic converter. Flow uniformity inside the CATCON substrate is not only dependent on exhaust manifold [31], inlet and outlet cone design but also substrate dimensions and configuration. There is no constant optimized cone design for different catalytic converters, but optimization of inlet cone gives more flow uniformity. Nowadays CFD is capable are predicting the results more accurately in complicated flow and evolved as the primary tool [32] for flow optimization. Guojiang and Song [33] used CFX software and modelled single converter. They studied flow distribution and its importance in light-off performance. Shuai and Wang [34] used Voltz model kinetics and simulated temperature field. Lun et al. [35] used AVL CFD software and performed CFD analysis with Voltz [24] kinetics on substrate of constant cell density with varying wall thickness and compared results with the experimental velocity profile of Holmgren et al. [23].
+
+In this present work computer numerical simulations have been done for an oval substrate with different inlet cone designs. Analyses are reported in the following areas:
+                        
+                           •
+                           effect of inlet mass flow rate on flow uniformity index
+
+effect of inlet cone length on flow uniformity index
+
+effect of cone angle (along shorter axis) on flow uniformity index
+
+effect of cone angle (along longer axis) on flow uniformity index
+
+Design variants are developed by the following methods:
+                        
+                           •
+                           by rotation or shifting along the shorter axis
+
+by rotation and shifting along the longer axis
+
+Finally the CFD results are compared and inlet cone design for optimal flow uniformity is proposed for this particular CATCON system.
+
+@&#METHODOLOGY@&#
+
+CATIA V5 3D software is used for design purpose. Parametric modelling methodology is used to modify the catalytic converters. Basic sketches have been fully constrained to control the degree of freedom. Various design models have been developed and these models have been associated with assembly. This 3D software helps us to save time for updating models whenever we are changing the design. 
+                        Fig. 1a shows the 3D view of under body oval shaped catalytic converter which is designed by using CATIA V5 software. Fig. 1b shows the schematic diagram of under body oval substrate catalytic converter with inlet cone and outlet cone explanation.
+
+In this present work, ANSYS CFX software is used to conduct 3D CFD simulations. A standard k–epsilon (k–ϵ) turbulence model with standard wall function treatment is implemented. Substrate is considered as porous media [8]. Fully developed laminar flow was assumed inside the substrate [36]. Pressure drop across the substrate is specified with reference to the cells per square inch, wall thickness and coating thickness are as follows:
+                           
+                              (1)
+                              
+                                 
+                                    
+                                       Δ
+                                    
+                                    
+                                       
+                                          P
+                                       
+                                       
+                                          axial
+                                       
+                                    
+                                    
+                                       =
+                                    
+                                    
+                                       a
+                                    
+                                    
+                                       
+                                          e
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          μ
+                                          u
+                                       
+                                       )
+                                    
+                                    
+                                       +
+                                    
+                                    
+                                       b
+                                    
+                                    
+                                       (
+                                    
+                                    
+                                       
+                                          1
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    
+                                       ρ
+                                    
+                                    
+                                       
+                                          u
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    
+                                       )
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (2)
+                              
+                                 
+                                    
+                                       Δ
+                                    
+                                    
+                                       
+                                          P
+                                       
+                                       
+                                          lateral
+                                       
+                                    
+                                    
+                                       =
+                                    
+                                    
+                                       a
+                                    
+                                    
+                                       
+                                          e
+                                       
+                                       
+                                          10
+                                       
+                                    
+                                    
+                                       (
+                                       
+                                          μ
+                                          u
+                                       
+                                       )
+                                    
+                                    
+                                       +
+                                    
+                                    
+                                       b
+                                    
+                                    
+                                       
+                                          e
+                                       
+                                       
+                                          3
+                                       
+                                    
+                                    
+                                       (
+                                    
+                                    
+                                       
+                                          1
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    
+                                       ρ
+                                    
+                                    
+                                       
+                                          u
+                                       
+                                       
+                                          2
+                                       
+                                    
+                                    
+                                       )
+                                    
+                                 
+                              
+                           
+                        
+                     
+
+Based on literature reports, coefficients 1000 times greater than actual are used in the lateral direction to ensure there is no lateral flow inside the substrate. In this study mass flow rate, pressure, substrate cell structure, wall and wash coat thickness are retained as same throughout the analysis for unequivocal comparison. CAD geometries are directly loaded into ICEM CFD software which is being used for meshing. After importing into ICEMCFD, Fluid domain has been extracted. Tetrahedral unstructured mesh has been generated in CATCON fluid domain. Prism layer used on wall of inlet and outlet cone of CATCON to capture boundary layer effect accurately and mesh size is carefully controlled. Very fine meshes are built in the critical regions, such as in the vicinities of the cone walls and in front and back of the substrate to eliminate its effect on results. Inside the substrates, smaller meshes are used in the radial direction toward the substrate boundary wall, as well as in the longitudinal direction toward the front and rear surfaces of the substrate. ANSYS CFX software is used for pre processing, solving and post processing.
+
+Flow uniformity index, which is widely used in the automotive industry to interpret the degree of flow distribution in the front of a substrate, is defined as following:
+                           
+                              (3)
+                              
+                                 
+                                    
+                                       γ
+                                    
+                                    
+                                       =
+                                       1
+                                       .
+                                       0
+                                       −
+                                    
+                                    
+                                       
+                                          ∫
+                                       
+                                       
+                                          
+                                             
+                                                A
+                                             
+                                             
+                                                ο
+                                             
+                                          
+                                       
+                                    
+                                    
+                                       ϕ
+                                       
+                                           
+                                          
+                                             dA
+                                          
+                                       
+                                    
+                                    
+                                       /
+                                       (
+                                       2
+                                    
+                                    
+                                       
+                                          U
+                                       
+                                       
+                                          avg
+                                       
+                                    
+                                    
+                                       
+                                          A
+                                       
+                                       
+                                          ο
+                                       
+                                    
+                                    
+                                       )
+                                    
+                                 
+                              
+                           
+                        
+                        
+                           
+                              (4)
+                              
+                                 
+                                    
+                                       
+                                          w
+                                       
+                                       
+                                          h
+                                       
+                                       
+                                          e
+                                       
+                                       
+                                          r
+                                       
+                                       
+                                          e
+                                       
+                                    
+                                    
+                                    ϕ
+                                    =
+                                    |
+                                    
+                                    |
+                                    
+                                    ∪
+                                    |
+                                    −
+                                    
+                                       
+                                          U
+                                       
+                                       
+                                          a
+                                          v
+                                          g
+                                       
+                                    
+                                    |
+                                    ,
+                                    
+                                    
+                                       
+                                          U
+                                       
+                                       
+                                          a
+                                          v
+                                          g
+                                       
+                                    
+                                    =
+                                    
+                                    
+                                       
+                                          ∫
+                                       
+                                       
+                                          
+                                             
+                                                A
+                                             
+                                             
+                                                ο
+                                             
+                                          
+                                       
+                                    
+                                    U
+                                    
+                                    d
+                                    A
+                                    /
+                                    
+                                       
+                                          A
+                                       
+                                       
+                                          ο
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+
+With reference to the above definition, uniformity index can be as high as 1.0, if flow is uniform on a cross sectional plane inside a substrate which denotes that the magnitudes and directions of local velocity are the same across the entire cross-sectional plane. Higher uniformity index indicates more uniform flow.
+
+Uniformity index can be reached up to 0.98 but small local velocity distribution may be occurring with high velocity magnitude, since it is very small area it does not have significant effect on flow uniformity index. In such cases we should consider velocity deviation index, which represents the local flow velocity deviation from average velocity, which is explained as
+                           
+                              (5)
+                              
+                                 
+                                    Dev
+                                    =
+                                 
+                                 
+                                    
+                                       |
+                                       
+                                          
+                                             U
+                                          
+                                          
+                                             −
+                                          
+                                          
+                                             
+                                                U
+                                             
+                                             
+                                                avg
+                                             
+                                          
+                                       
+                                       |
+                                    
+                                    
+                                       
+                                          
+                                             U
+                                          
+                                          
+                                             avg
+                                          
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+
+A zero deviation index shows that local velocity magnitude is the same as that of average velocity. As we know, the velocity direction is not changed inside the substrate. This means that local flow is perfectly aligned with average flow. Actually, the local deviation index can represent local flow distribution much better than flow uniformity index in the cases where little difference is found in flow uniformity index. The average deviation index is also defined to explain the overall behaviour of flow uniformity inside the substrate as following:
+                           
+                              (6)
+                              
+                                 
+                                    
+                                       D
+                                    
+                                    
+                                       =
+                                       
+                                          (
+                                          
+                                             
+                                                ∫
+                                             
+                                             
+                                                
+                                                   
+                                                      A
+                                                   
+                                                   
+                                                      ο
+                                                   
+                                                
+                                             
+                                          
+                                          
+                                             
+                                                
+                                                   |
+                                                   
+                                                      
+                                                         U
+                                                      
+                                                      
+                                                         −
+                                                      
+                                                      
+                                                         
+                                                            U
+                                                         
+                                                         
+                                                            avg
+                                                         
+                                                      
+                                                   
+                                                   |
+                                                
+                                                
+                                                   
+                                                      
+                                                         U
+                                                      
+                                                      
+                                                         avg
+                                                      
+                                                   
+                                                
+                                             
+                                             
+                                          
+                                          
+                                             dA
+                                          
+                                          )
+                                       
+                                    
+                                    
+                                       
+                                          A
+                                       
+                                       
+                                          ο
+                                       
+                                    
+                                 
+                              
+                           
+                        
+                     
+
+According to the definition, deviation index is inversely proportional to flow uniformity. In this present work, flow uniformity index and velocity deviation index (average) are calculated on the inside cross sectional plane of the substrate located 10mm away from the substrate front surface which is parallel. Since ‘no-lateral-flow’ assumption is very much valid inside the porous media, axial velocity magnitude and overall velocity magnitude will be the same as reported by Zhang et al. [37].
+
+In this present work, CFD analysis have been conducted on Oval under body substrate which is developed by Corning, is shown in 
+                        Fig. 2. Vertical direction is considered as shorter axis and horizontal direction is considered as longer axis. Inlet cone design optimization is the primary focus of this present work for better uniformity index.
+
+We defined base line geometry as 42mm diameter of inlet pipe and 80mm of cone length, exhaust gas temperature 546°C as inlet temperature. To analyse in detail about the effect of inlet mass flow rate, five different mass flow rates are adopted in the range 170–210kg/h in the interval of 5 steps. Gas density and viscosity are calculated based on local gas temperature and pressure distribution. The velocity distributions are compared at the front of substrate and shown in 
+                        Fig. 3 between two extreme cases of the lowest and highest inlet mass flow rates. Since there is large difference in the mass flow rates, the scale of velocity magnitude is different to show relative velocity distributions. Flow uniformity is much better at the very low mass flow rate as shown in Fig. 3a. As shown in Fig. 3b, flow distribution becomes highly localized at high mass flow rate.
+
+
+                        Fig. 3c and d show comparison of local velocity deviation between lowest and highest mass flow rates. Flow uniformity becomes better when the area of the blue region is larger on the cross-section plane. A much bigger blue region is observed in the case with the lowest mass flow rate, but only a narrow strip can be observed in the case with highest inlet mass flow rate as reported by Zhang et al. [37].
+
+Flow uniformity index and velocity deviation index versus inlet mass flow rate are plotted in 
+                        Fig. 4a. The blue line with rectangle markers represents flow uniformity index scaled with the vertical axis on the left. The red line with triangle markers represents average velocity deviation index scaled with the vertical axis on the right. As inlet mass flow rate increases from 170kg/h to 210kg/h, uniformity index decreases linearly and velocity deviation index increases linearly. Flow uniformity index is reduced by almost 10% when mass flow rate increases from 170kg/h to 210kg/h and beyond the mass flow rate of 210kg/h, the rate of change decreases.
+
+
+                        Fig. 4b plots pressure drop 
+                           
+                              (
+                              
+                                 Δ
+                              
+                              
+                                 p
+                              
+                              )
+                           
+                         through the inlet cone. Pressure drop increases exponentially with increase of inlet mass flow rate and can be defined as
+                           
+                              
+                                 
+                                    
+                                       
+                                          Δ
+                                       
+                                       
+                                          p
+                                       
+                                       =
+                                       1327.1
+                                       ×
+                                    
+                                    
+                                       
+                                          m
+                                       
+                                       
+                                          1
+                                          .
+                                          9622
+                                       
+                                    
+                                 
+                              
+                           
+                        where m is the inlet mass flow rate.
+
+Results show that inlet mass flow rate is having significant effect on flow uniformity index. At higher inlet mass flow rates, flow uniformity index becomes lower. With reference to the analysis carried out by Zhang et al. [37], flow distribution should always be analysed at peak inlet mass flow rate for design optimization, because the peak inlet mass flow rate produces the lowest uniformity index.
+
+The length of the inlet cone is analysed with respect to flow uniformity index, velocity deviation index and pressure drop. Apart from baseline geometry, four more straight cones are designed and analysed by moving the flow inlet plane away from or towards the substrate front surface. Cone lengths are 80, 85, 90, 95 and 100mm and inlet gas temperature is maintained same as earlier and exhaust mass flow rate is fixed at 180kg/h, which is a typical peak mass flow for this particular 3 cylinder engine. Engine specification is explained in 
+                        Table 1. Velocity distributions in front of the substrate are plotted in 
+                        Fig. 5 for five different cone (80, 85, 90, 95 and 100mm) designs.
+
+For analysis purpose, the scales of velocity magnitude are same for all different cone length cross section planes and those are all shown in Fig. 5. Not much difference is observed, except that the colour of the lower velocity region (at both ends) changes from yellow to orange when the length of the cone increases from 80mm to 100mm. This is because of more gas flows toward those regions. Flow distribution can be viewed better through local velocity deviation, which is plotted in 
+                        Fig. 6.
+
+Velocity deviation shows much better picture of flow distribution. As shown, in shorter cones of length less than 90mm, a high velocity deviation zone (with more than 50% higher velocity magnitude) is found at the centre of substrate, while it is only 30% higher in 100mm cone. It is observed that velocity deviation at the lower velocity regions at both ends is closer to zero. Flow uniformity and velocity deviation indices versus length of inlet cone are plotted in 
+                        Fig. 7. The blue line with rectangle markers represents uniformity index and the red line with triangle markers average velocity deviation. Primary and secondary vertical axes correspond to flow uniformity index and average velocity deviation index respectively.
+
+Uniformity index increases with increase in cone length, while average velocity index decreases with increase in cone length. For a shorter cone (less than 85mm), uniformity index stays as low as 0.937 and average velocity deviation is close to 24%. Significant improvement is noticed when cone length is increased from 85mm to 90mm. Flow uniformity index jumps from 0.939 to 0.943, the increase is more than 0.6%. However, the overall improvement, which is around 2% in total when cone length is increased from 80mm to 100mm. This is not significant as compared to geometries with smaller aspect ratios, such as a round substrate.
+
+
+                        
+                        Fig. 8 plots inlet cone pressure drop against cone length. Pressure drop through the inlet cone is reduced drastically as cone length increases. More than 20% reduction in pressure drop is observed when cone length increases from 80mm to 100mm. More than half of the total reduction occurs as the cone length increases from 80mm to 85mm. Beyond that, pressure drop decreases linearly with increasing length. 85mm is a threshold of cone length for pressure drop. For this particular oval substrate, although increasing inlet cone length is not an effective way to improve flow uniformity, it still can be considered an effective way to reduce the pressure drop.
+
+If the cone length is long enough, Uniformity index of 0.99 can always be achieved. In practice because of packaging constraints, the catalytic converter cone length has to be very short. Maximum we can keep up to 100mm. Based on current analysis, increasing the length of the inlet cone is not the best way to improve flow distribution in front of the substrate. With reference to the analysis carried out by Zhang et al. [37], an angled cone has to be built to achieve the better flow uniformity in front of an oval substrate.
+
+As discussed in the previous method increasing the inlet cone length is not improving uniformity index in the case of under body oval substrate. So we are focusing on angled cone construction to improve the uniformity index. We can construct the cone in many angled ways. It is important to do all analysis. Based on earlier approach, we are limiting our analysis to uniformity index and pressure drop with different angle inlet cones. As we discussed earlier, cone angle can be formed by rotation of the flow inlet plane with respect to shorter axis, with longer axis as rotational axis. CFD inputs are same as earlier analysis. Angled cone constructions are explained in 
+                        Fig. 9.
+
+As shown in Fig. 9, ‘original’ is the base line of shorter cone with 80mm length. Geometry centre of substrate is located as reference point for rotation. The rotation axis is X, which point out ward from page. For first analysis the inlet cone has been rotated for 15°. Then for continuous analysis the inlet plane has been rotated 10° each time to generate a new angled cone. The maximum angle is 45°, 4 angled (15°, 25°, 35° and 45°) cones are numerically simulated and results are tabulated in 
+                        Table 2.
+
+As shown in Table 2, total flow uniformity index improvement is around 1% when the inlet cone is angled from 0° to 45°. Almost 50% improvement could be noticed in the first 15° of angle.
+
+As the inlet cone was angled, flow distribution changed at the front of substrate as shown in 
+                        Fig. 10a–f. The red region with local centralized higher velocity is diluted and disperses towards one side of substrate. Two regions with lower velocity magnitude form on the other side of the substrate, as shown in green colour in Fig. 10f. Because of consequence of these opposing effects, there is no significant improvement in flow uniformity index.
+
+Local velocity deviations have been plotted in  
+                        Fig. 11. It could be noted that the higher velocity region localized at the centre disappears as the angle of the inlet cone increases from 0° to 45°. Two blue strips spread out toward both ends of the substrate and become bigger with larger cone angle. This is beneficial for flow distribution. Two small red zones of lower velocity magnitude become noticeable as cone angle is increased greater than 35°.
+
+
+                        
+                        Fig. 12 shows flow uniformity and deviation indices, and inlet cone pressure drop versus inlet cone angle. Blue and red lines represent flow uniformity index and deviation index respectively. The biggest enhancement is found when cone angle increases from 0° to 15°, while little improvement is found from 15° to 25°. From 25° to 45°, flow uniformity index increases linearly with cone angle. It is noticed that no additional pressure drop is found when inlet cone angle increases from 0° to 35°. However, a huge increase of pressure drop is observed when inlet cone angle increases from 35° to 45°. Results show that an angle of 35° is best in terms of lower pressure drop and higher uniformity index when the inlet cone is rotated along the shorter axis.
+
+CFD results of the shorter axis angled cone effects show that the maximum flow uniformity index is achieved by angling inlet cone along the shorter axis, which is around 0.945. The actual uniformity index could be much lower, even less than 0.94, when individual runners of the manifold in front of converter and a short outlet cone are considered. For further analysis, the new angled cones are constructed by rotation of the flow inlet plane along the longer axis as illustrated in 
+                        Fig. 13.
+
+From the baseline geometry, the cone has been constructed in such a way that a straight symmetrical cone with 85mm cone length, the flow inlet plane is rotated along the Y-axis, which points into the paper, from the vertical direction (Z-axis) toward the horizontal direction (X-axis). Rotation reference point is located at the centre of the substrate front surface. For our analysis three new cones have been constructed with rotation angles of 10°, 20° and 30°. The comparison of local velocity deviation is shown in 
+                        Fig. 14 which gives clearer picture of local flow distribution.
+
+For baseline geometry, two narrow strips of blue regions are surrounded by a high velocity zone in the centre and low velocity zones on both sides. As cone angle increases to 10°, the blue region spreads out on one side and the area of the red zone shrinks. This is beneficial for flow uniformity. Higher deviation of local velocity from average value is observed on the other side of the substrate front surface; which will reduce overall flow uniformity. This trend exaggerates itself as cone angle is further increased from 10° to 30°, which phenomenon is shown in Fig. 14b–d. As a result of the opposing effects, little improvement in flow distribution is found, as shown in 
+                        Fig. 15a where flow uniformity index is plotted against inlet cone angle. Flow uniformity index decreases with increasing angle, for small angles. Pressure drop through the inlet cone is plotted in Fig. 15b. There is no much difference found between different cone angles.
+
+Since the area of the flow inlet plane is much smaller than that of the substrate front surface, as a result of rotation of the flow inlet plane, bulk of the fluid is swept toward one side of the substrate and small quantity of the fluid on the other side. To increase the sweeping area, the angled cones need to be shifted to the other side of the substrate front surface. For further analysis, based on 35° angled inlet cone which will be referred as baseline-35, three more angled cones are built by shifting the 35° angle cone along the X-axis back to other end of the substrate, as illustrated in 
+                        Fig. 16.
+
+CFD results are shown in Fig. 16. Bulk fluid is swept to a larger area and the lower velocity region is shrunk when the flow inlet plane is shifted 10mm away from baseline-35. Smaller velocity deviation is found at the lower velocity region. This is shown in 
+                        Fig. 17a and b. Because of further shift in the flow inlet plane from 10mm to 20mm and 30mm, the lower velocity zone on one side of substrate disappears, and is replaced by more uniform flow represented by the blue strip close to the edge as shown in Fig. 17d. The uniformity on the larger area on the other side of the substrate front surface deteriorates and the large blue area shrinks to a narrow strip. As the inlet flow plane is shifted from 10mm to 30mm, local velocity in the red zone becomes higher.
+
+
+                        
+                        Fig. 18 explains the flow uniformity and average velocity deviation indices against shift in baseline. A larger improvement is observed for the first 10mm of shifting. Uniformity index increases from 0.937 to 0.952 which is more than 1.5% increment. Beyond 10mm, little improvement is found. Pressure drop is reduced from 2460Pa to 2400Pa for the first 10mm of shifting and small variation from 2400Pa is noticed for the rest of the other cone geometries.
+
+There is no much improvement in flow uniformity index is found with 10–30mm shift. The angled cone geometry with 30mm shift is considered to be a good starting point for further optimization by further inlet flow plane rotations. This special inlet cone geometry will be referenced as baseline-35-30: For the following discussion, the first ‘35’ means 35° rotation and the second ‘30’ means 30mm shift. Based on baseline-35-30 geometry, a new angled cone is constructed by 10 more degrees of rotation along the Y-axis with the reference point in the centre of substrate front surface as explained in 
+                        Fig. 19.
+
+There is no much improvement found in flow uniformity index and velocity deviation index. Very little improvement is found in both uniformity index and velocity deviation index. Uniformity index slightly increases from 0.937 to 0.953 and average deviation index slightly decreases from 0.124 to 0.102. Based on baseline-35-30 geometry, a new set of angled cones are designed for analysis. Rotation axis and direction are the same as before, however the reference point is changed from the centre of the substrate front surface to the edge point on the circumference of the baseline-35-30 inlet plane, where the distance between the circumference and the substrate front surface is found to be nearest as illustrated in 
+                        Fig. 20.
+
+CFD simulations have been performed for three new inlet cone geometries, with 10°, 20° and 30° angles. Velocity distributions in front of the substrate are plotted and compared as shown in 
+                        Fig. 21. Because of the angle increases from the baseline case to 10° and 20°, more fluid is swept from the red spot to the other end of the substrate front surface. A more uniform flow is observed at the front of the substrate. This effect is shown in Fig. 21a–c. Velocity deviation is illustrated as cross sectional pictures in Fig. 21a–d. The blue area is greatly enlarged as cone angle increases from 0° to 10° and 20°. The colour of the high velocity spot is diluted and changed from red (48% local deviation) to light blue (16%). It could be clearly seen when the angle is further increased to 30° that the blue colour on the major part of the surface changes to light blue due to the existence of a higher velocity magnitude (
+                        Fig. 22).
+
+The flow uniformity index has been improved significantly and shown in 
+                        Fig. 23a. Flow uniformity index increases from 0.953 to 0.967 as angle increases to 20°. Also, average velocity deviation index is reduced from 0.102 to 0.085. Flow uniformity index decreases from 0.967 to 0.964 as angle increases further from 20° to 30° and average deviation index increases from 0.085 to 0.092.
+
+Another important observation is that, surprisingly, there is significant reduction in pressure drop through the inlet cone which is actually from 2450Pa to 2375Pa, as angle increases to 20°. This is a very important improvement and it is illustrated in Fig. 23b.
+
+Pressure drop analysis is critical for automotive catalytic convertor application. To analyse the pressure drop and uniformity index variation according to the change of inlet mass flow rate, CFD analysis have been carried out for 5 incremental steps from 170kg/h to 210kg/h.
+
+Uniformity index decreases with increase in mass flow rate. Pressure drop increases when inlet mass flow rate increases. This analysis gives the optimum inlet flow condition for better pressure drop and uniformity index. Effect of inlet mass flow on uniformity index and pressure drop is illustrated in 
+                        Fig. 24. Flow uniformity is much better at the very low mass flow rate.
+
+CFD results are compared with existing straight cone pressure drop experimental data for the verification of the accuracy of simulation results. The pressure drop of the straight cone (base cone) oval substrate catalytic converter which is obtained by the CFD results are compared with the engine test bed pressure drop data. Engine test bed data has been measured at 3300rpm and 210kg/h inlet mass flow rate. The pressure drop obtained by CFD result is 3526Pa. Engine test bed experimental pressure drop value is 3314.4Pa. 
+                     Fig. 25 shows the comparison between pressure drop obtained by CFD and pressure drop measured in engine test bed. The percentage of error is 6%. The comparison of CFD and test bed result of pressure drop for the straight cone oval substrate is tabulated in 
+                     Table 3.
+
+@&#CONCLUSIONS@&#
+
+CFD simulations have been performed systematically for the purpose of optimizing inlet cone design in terms of flow uniformity and pressure drop for an under body oval substrate. CFD results executed at steady-state to show the dependence of flow distribution on inlet mass flow rate. Higher mass flow rate leads to lower flow uniformity index. Study on inlet cone length shows a significant enhancement exists only when the length of the inlet cone is increased from 80mm to 85mm. Starting from baseline geometry, a short and straight cone, a process involving a few sets of rotations and shifting of flow inlet plane is performed in order to design various angled inlet cones. Flow uniformity index of the baseline geometry is below 0.93 (<93%) and average velocity deviation is over 24% even when the effects of outlet cone and manifold runners are not considered. The CFD results for angled inlet cone optimization by rotation and shifting of the flow inlet plane can be summarized as follows:
+                        
+                           •
+                           CFD results for angled cones created by initial rotations of the flow inlet plane along the shorter axis shows that there is no significant enhancement (<1.5%) with angled cones constructed by rotation along the shorter axis of the substrate. Also there is no significant improvement in pressure drop for cone angles of less than 35°.
+
+CFD results for angled cones created by initial rotations of the flow inlet plane along the longer axis shows no distinct improvement in flow uniformity index. A more than 2.0% enhancement is found when the flow inlet plane in the last angled cone is shifted 10mm along the longer axis. A significant enhancement of flow uniformity index (>5%) is observed when the inlet cone is rotated again based on the last shifted geometry with a new reference point. Flow uniformity index is further improved by performing another shift along the longer axis. Finally, flow uniformity index is able to be improved up to 0.975.
+
+It is important to notice that pressure drop in the inlet cone is able to be reduced from 2450Pa to 2375Pa.
+
+CFD simulation results proves that, under body oval substrate can be optimized by involving rotation and shifting of the flow inlet plane which to be adopted to achieve desired flow distribution inside the substrate.
+
+Pressure drop obtained by CFD results for base line straight cone under body oval substrate catalytic convertor compared with engine test bed pressure drop experimental data. The percentage of error is 6%.
+
+@&#REFERENCES@&#
+
