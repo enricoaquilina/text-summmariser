@@ -1,0 +1,296 @@
+
+<DOC>
+<DOCNO> FBIS3-40210 </DOCNO>
+<HT>    "jpcst002___94004" </HT>
+
+
+<HEADER>
+<AU>   JPRS-CST-94-002 </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  China </ABS>
+<DATE1>    25 February 1994 </DATE1>
+<F P=100> Aerospace </F>
+<H3> <TI>   Method for Realizing Spaceborne SAR Digital Imaging </TI></H3>
+<F P=102>  94FE0160A Beijing DIANZI XUEBAO [ACTA ELECTRONICA SINICA] in 
+Chinese Vol 21 No 9, Sep 93 pp 55-58 </F>
+
+<F P=103> 94FE0160A </F>
+<F P=104>  Beijing DIANZI XUEBAO [ACTA ELECTRONICA SINICA] </F>
+
+
+<TEXT>
+Language: <F P=105> Chinese </F>
+Article Type:CSO 
+
+<F P=106> [Article by Li Chunsheng [2621 2504 0581], Li Jingwen [2621 </F>
+2529 2429], and Zhou Yinqing [0719 5593 3237] of the Dept. of 
+Electronic Engineering, Beijing University of Aeronautics and 
+Astronautics, Beijing 100083: ``Method for Realizing Spaceborne 
+SAR Digital Imaging''; MS received Feb 92, revised Nov 92] 
+  [Text] 
+<H5>  Abstract </H5>
+  In this paper, a method of high-resolution digital imaging 
+using spaceborne synthetic aperture radar (SAR) is presented. 
+Computer digital images are generated using raw radar data 
+collected by the U.S. ocean surveillance satellite SEASAT-A. The 
+images cover 2,048 cells in the range direction and two 
+synthetic apertures in the azimuth direction with an imaging 
+area of approximately 38 km x 34 km. The high-quality radar 
+images with a resolution of 25 m x 25 m have demonstrated the 
+effectiveness of the proposed method. 
+<H5>  I. Introduction </H5>
+  During the past 20 years, the use of synthetic aperture 
+radar 
+(SAR) as an advanced microwave remote sensor has attracted a 
+great deal of attention. Since the mid-1970s, SAR technology has 
+evolved from airborne applications to spaceborne applications. 
+In recent years, significant progress has been made in 
+spaceborne SAR technology. Since the launch of the SEASAT-A 
+satellite by the U.S. National Aeronautics and Space 
+Administration in 1978, the U.S. SIR-A, SIR-B, SIR-C, and 
+European ERS-1, the Canadian RADAR SAT and the Japanese JERS-1 
+satellites have all been equipped with advanced SAR imaging 
+systems. 
+  The unique features of spaceborne SAR systems are: high 
+altitude, extended range and coverage, wide bandwidth, and high 
+data rate; also, various error correction and compensation 
+schemes and complex signal processing techniques are used in 
+spaceborne SAR. There are distinct differences between 
+spaceborne SAR and airborne SAR. Because of the relatively low 
+altitude and slow velocity of airborne SAR, the Earth can be 
+regarded as a large planar surface, which makes signal 
+processing relatively easy. In the case of spaceborne SAR, 
+however, the effects of Earth rotation and Earth curvature 
+produce coupling in the radar returns between the range 
+direction and the azimuth direction; as a result, azimuth 
+compression of the radar signal becomes very complicated. In 
+general, digital image processing for spaceborne SAR involves 
+range processing, azimuth processing, motion compensation and 
+multi-look processing, of which the most difficult problems are 
+azimuth processing and motion compensation. In this paper, a 
+method of digital imaging using spaceborne SAR is presented. The 
+effectiveness of this method is demonstrated by the 
+high-resolution images generated using raw radar data collected 
+by the U.S. SEASAT-A satellite. 
+<H5>  II. Mathematical Model of the Radar Signal </H5>
+  The radar transmits a linear frequency-modulated (FM) pulse 
+signal. Let _D_ be the pulse width, T be the pulse repetition 
+period, R(t) be the slant range between the satellite and the 
+ground target, W[.sup]a[/](t) be the azimuth directivity 
+function of the antenna, _s_(x,r) be the scattering coefficient 
+of the ground target, a(t) be a step function of width _D_, 
+_l_ 
+be the wavelength, and c be the speed of light; then the radar 
+return signal can be expressed as:[.sup]1[/] 
+  s(x,r) = _s_(x,r)W[.sup]r[/](r) * h[.sub]1[/](x,r) 
+*[.sup]r[/]h[.sub]2[/](x,r) (1) 
+  where W[.sup]r[/](r) is the range directivity function of 
+the antenna, * is the two-dimensional convolution with respect 
+to azimuth x and range r; *[.sup]r[/] is the one-dimensional 
+convolution with respect to range r. Also, 
+
+  In the above equation, f[.sup]D[/] is the Doppler center 
+frequency, f[.sup]R[/] is the rate of change of Doppler 
+frequency, v is the satellite velocity relative to the ground, 
+and b is the frequency-modulation rate. 
+  One can see from the radar signal model that the radar 
+return 
+is a complicated two-dimensional convolution; the purpose of 
+signal processing is to extract the scattering characteristics 
+of the target from the received signal, and ultimately to form a 
+high-quality radar image. 
+<H5>  III. Range-Compression Processing </H5>
+  Range processing of spaceborne SAR actually implies pulse 
+compression. Digital pulse compression in the range direction 
+uses FFT for matched filter implementation. The processed signal 
+can be expressed as: 
+
+  where c[.sup]0[/] = 2ãb_D_/c. 
+  It is known from the principle of pulse compression that the 
+slant range resolution after pulse compression is: 
+  _r_[.sup]r[/] = c/2B[.sub]r[/] 
+  and the ground range resolution is: 
+
+
+  where B[.sup]r[/] is the signal bandwidth, H is the 
+satellite altitude, R[.sup]e[/] is the mean Earth radius, and 
+_th_ is the antenna viewing angle. The number of samples of the 
+range reference function is 
+
+
+  where f[.sup]s[/] is the sampling frequency. 
+  The raw data collected by SEASAT-A are digital data produced 
+by the A/D converter; prior to range processing, they must first 
+be orthogonalized and then matched-filtered. The 
+orthogonalization process is accomplished in the frequency 
+domain, where a window function is applied and the signal 
+carrier frequency is shifted to zero frequency; finally, a 
+complex IFFT [inverse fast Fourier transform] is performed to 
+complete the process of range digital pulse compression. This 
+process is equivalent to a transformation from real data to 
+complex data; the complex data are stored for azimuth processing. 
+<H5>  IV. Azimuth-Compression Processing </H5>
+  The azimuth reference function is chosen based on the 
+expression of the range-compressed radar signal:[.sup]2[/] 
+
+
+  Due to the effect of range drift, coupling between the range 
+direction and the azimuth direction exists in the radar return; 
+therefore, azimuth processing requires complicated 
+two-dimensional processing. In fact, azimuth processing is 
+actually a two-dimensional matched filtering; the filtered 
+output signal represents the scattering characteristics of the 
+ground target, which is of the form: 
+  _s_[.sup]0[/](x,r) = s[.sub]R[/](x,r) * 
+h[.sup]*[/][.sup]a[/](x,r) (8) 
+  The implementation of two-dimensional matched filtering for 
+azimuth processing is highly computation-intensive. By using a 
+hybrid time-domain and frequency-domain correlation technique, 
+the two-dimensional problem reduces to a one-dimensional 
+problem, and the correction of range drift can be accomplished 
+in the frequency domain; as a result, the amount of computation 
+is greatly reduced. For a second-order curve R(x), the azimuth 
+reference function for range r[.sup]0[/] is: 
+
+
+  where d[.sup]i[/] is the distance of the range reference 
+value r[.sup]0[/], and 
+
+
+  The expression in the frequency domain after azimuth 
+processing is of the form: 
+
+
+  It can be seen from the above expression that the hybrid 
+correlation method uses time-domain correlation in the range 
+direction and frequency-domain correlation in the azimuth 
+direction; this approach takes full advantage of the FFT and 
+therefore provides an efficient way of calculating precision 
+impulse response. 
+  If the above method is applied directly for azimuth 
+compression, the amount of computation will increase with 
+increasing Doppler center frequency. A more efficient way would 
+be to apply correction to the range wander (the linear term of 
+range drift) before azimuth pulse compression, then apply 
+correction to the range bending (the second-order term of range 
+drift) in the frequency domain; this approach requires less 
+computation, and R(x) in the azimuth reference function 
+g[.sup]i[/](x,r[.sub]0[/]) becomes: 
+
+
+  Computer results show that the digital images of spaceborne 
+SAR produced by this method and the previous method are almost 
+identical, but the amount of computation for azimuth compression 
+(at f[.sup]D[/] = 980 Hz) is reduced by one half. 
+<H5>  V. Motion Compensation </H5>
+  Because of antenna pointing error and errors caused by 
+satellite motion, it is difficult to accurately estimate the 
+Doppler center frequency and the rate of change of Doppler 
+frequency from satellite historical data and from SAR 
+parameters. Inaccuracy in the Doppler center frequency and in 
+the rate of change of Doppler frequency will have an adverse 
+effect on SAR images. Inaccuracy in the Doppler center frequency 
+will result in lower signal-to-noise ratio, which in turn will 
+cause an increase in the fuzziness in azimuth and a shift in the 
+target position. Inaccuracy in the rate of change of Doppler 
+frequency will cause defocusing in the radar images and result 
+in a decrease in pixel resolution. An effective method of 
+estimating the Doppler parameters is to estimate the errors in 
+the Doppler parameters directly from the radar return data. 
+  The clutter lock used for estimating the errors in the 
+Doppler center frequency is obtained from the normalized energy 
+difference of the symmetric multi-look sub-images.[.sup]3[/] 
+Experimental results show that the error in the Doppler center 
+frequency is proportional to the normalized energy difference 
+_D_E: 
+  _D_f[.sup]D[/] ÷ f[.sub]R[/]T_D_E (13) 
+  where T is the time required for the satellite to travel the 
+distance of one aperture. 
+  The auto-focusing used for estimating the rate of change of 
+Doppler frequency is determined by the relationships between the 
+multi-look sub-images. The offset between the first-look 
+sub-image and the Nth-look sub-image _D_X can be obtained from 
+the relationship between the two sub-images. Experimental 
+results show that the offset is proportional to the errors in 
+the rate of change of Doppler frequency: 
+  _D_f[.sup]R[/] ÷ f[.sub]R[/] _D_X/vT (14) 
+  Accurate estimates of the Doppler center frequency and the 
+rate of change of Doppler frequency can be obtained by an 
+iterative procedure. For example, for an image around the city 
+of London, the estimation error of the Doppler center frequency 
+is less than 10 Hz, and the estimation error of the rate of 
+change of Doppler frequency is less than 0.3 Hz/sec. 
+<H5>  VI. Spaceborne SAR Digital Imaging </H5>
+  Raw radar data of an area around the city of London have 
+been 
+collected by the U.S. SEASAT-A satellite; the center of the area 
+is located at 51.43ë N. latitude and 0.33ë E. longitude. 
+The radar parameters and signal processing parameters are as 
+follows: 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Sampling frequency                    |45.53 MHz                             | 
+------------------------------------------------------------------------------- 
+|Sampling width                        |300.5 æs                          | 
+------------------------------------------------------------------------------- 
+|Quantization accuracy                 |5 bits                                | 
+------------------------------------------------------------------------------- 
+|Wavelength                            |0.235 m                               | 
+------------------------------------------------------------------------------- 
+|Modulation frequency                  |11.38 MHz                             | 
+------------------------------------------------------------------------------- 
+|Pulse repetition frequency            |1647 Hz                               | 
+------------------------------------------------------------------------------- 
+|Pulse width                           |33.9 æs                           | 
+------------------------------------------------------------------------------- 
+|Signal bandwidth                      |19.0 MHz                              | 
+------------------------------------------------------------------------------- 
+|Average satellite height              |800 km                                | 
+------------------------------------------------------------------------------- 
+|Antenna viewing angle                 |20ë                               | 
+------------------------------------------------------------------------------- 
+
+
+  The estimated Doppler center frequency and the rate of 
+change 
+of Doppler frequency are approximately 940 Hz and 505 Hz/s, and 
+the range drift is 43 range resolution cells. In order to reduce 
+the effect of spot noise during the formation of the radar 
+signal, we use an iterative procedure of non-coherent 
+integration of 4-look sub-images. Figure 1 [photo not 
+reproduced] shows the computer-generated digital image obtained 
+using the method given in this paper. The processed image has a 
+resolution of 25 m x 25 m; the imaging area covers 2,048 range 
+cells and two synthetic apertures in the azimuth direction, 
+which corresponds to an area of approximately 38 km x 34 km. 
+During the imaging process, Doppler parameters are estimated 
+every 128 range cells. 
+<H5>  VII. Conclusion </H5>
+  By applying the spaceborne SAR digital imaging method 
+presented in this paper, we have generated computer images using 
+raw radar data collected by the U.S. SEASAT-A satellite. These 
+are the first high-resolution spaceborne SAR images obtained in 
+this country; the image resolution is 25 m x 25 m. The results 
+of computer images have verified the effectiveness of the 
+proposed method. 
+References 
+  1. Li Chunsheng, Li Jingwen, and Zhou Yinqing, ``Spaceborne 
+Synthetic Aperture Radar Image Processing,'' ACTA ELECTRONICA 
+SINICA, 1991, 19(1): 20-24. 
+  2. Chialin, K. Y. Liu, and Michiel Jin, ``Modeling and a 
+Correlation Algorithm for Spaceborne SAR Signals,'' IEEE TRANS., 
+September 1982, Vol AES-18(5). 
+  3. F. K. Li, D. N. Held, and J. Curlander, ``Doppler 
+Parameter Estimation for Spaceborne Synthetic-Aperture Radars,'' 
+IEEE TRANS., January 1985 on GEOSCIENCE AND REMOTE SENSING, Vol 
+GE-23(1). 
+
+</TEXT>
+
+</DOC>

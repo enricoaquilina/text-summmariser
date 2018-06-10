@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+<case>
+<name>H Lundbeck A/S v Commissioner of Patents [2006] FCA 163 (1 March 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/163.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">patents regulations 1991</catchphrase>
+<catchphrase "id=c1">reg 10.7(7)</catchphrase>
+<catchphrase "id=c2">whether valid</catchphrase>
+<catchphrase "id=c3">whether ultra vires s 228 of the patents act 1990 (cth)</catchphrase>
+<catchphrase "id=c4">whether retrospective subordinate legislation</catchphrase>
+<catchphrase "id=c5">whether amendment of the register as required by reg 10.7(7) affects substantive rights of patentee, by reducing extended term of patent.</catchphrase>
+<catchphrase "id=c6">patents</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 This proceeding is one of three related 'Lundbeck' proceedings before the Court.</sentence>
+<sentence id="s1">2 The first proceeding to be commenced was NSD 1120 of 2005 ('the revocation proceeding'), between Alphapharm Pty Ltd ('Alphapharm') as applicant and the present applicant, H Lundbeck A/S ('Lundbeck'), as respondent.</sentence>
+<sentence id="s2">In that proceeding, Alphapharm seeks a declaration that claims 1 --- 6 of Lundbeck's Australian Patent No 623144 ('the Patent') are invalid and an order that they be revoked, or, in the alternative, an order that the Register of Patents ('the Register') be rectified pursuant to s 192 of the Patents Act 1990 (Cth) ('the Act') to remove an extension of the term of the Patent from the Register.</sentence>
+<sentence id="s3">Alphapharm seeks another supportive declaration related to the extension of the term of the Patent, of which I need say no more.</sentence>
+<sentence id="s4">Lundbeck and its Australian subsidiary, Lundbeck Australia Pty Ltd ('Lundbeck Australia'), the exclusive licensee of the Patent in Australia, cross-claim against Alphapharm for infringement of the Patent.</sentence>
+<sentence id="s5">3 The second proceeding to be commenced is this present proceeding, between Lundbeck and the Commissioner of Patents ('the Commissioner').</sentence>
+<sentence id="s6">Lundbeck seeks relief designed to prevent the Commissioner from amending the entry in the Register in relation to the extension of the term of the Patent.</sentence>
+<sentence id="s7">The Commissioner wishes to consider and decide whether reg 10.7(7) of the Patents Regulations 1991 (Cth) ('the Regulations') requires her to amend it, but Lundbeck contends that reg 10.7(7) is invalid.</sentence>
+<sentence id="s8">(Regulation 10.7(7) is set out at [17] below.</sentence>
+<sentence id="s9">)
+ 
+4 Alphapharm contends that Lundbeck obtained the extension by making a misrepresentation to the Commissioner as to what was the 'first regulatory approval date' for the purposes of s 70 of the Act (s 70 is, so far as relevant, set out at [21]) and of reg 10.7(7).</sentence>
+<sentence id="s10">It was Alphapharm which drew to the attention of the Commissioner the alleged error as to what was the true 'first regulatory approval date'.</sentence>
+<sentence id="s11">The Commissioner takes the position that if Alphapharm is correct in its contention that that date is earlier than the one on which she acted when she entered particulars of the extension in the Register, reg 10.7(7) requires her to amend the entry.</sentence>
+<sentence id="s12">Alphapharm contends that the consequence of the alleged error is that the extension was invalidly granted and that all reference to it should be removed from the Register, whereas the Commissioner contends that the consequence is only that the entry reflects an excessively long extension, and that the Register should be amended only so as to refer to a shorter period.</sentence>
+<sentence id="s13">5 The third proceeding is NSD 1870 of 2005 ('the TGA proceeding') between Lundbeck Australia as applicant and the Secretary of the Department of Health &amp; Ageing of the Commonwealth of Australia as respondent.</sentence>
+<sentence id="s14">In that proceeding, Lundbeck Australia applies for orders restraining the respondent ('the Secretary') from using what it contends is 'protected information' within the meaning of s 25A of the Therapeutic Goods Act 1989 (Cth) ('the TGA') in considering any application made by any third party for registration of therapeutic goods containing (+)-citalopram.</sentence>
+<sentence id="s15">On 15 June 2005, Alphapharm had applied to the Secretary for the registration of such therapeutic goods under the TGA.</sentence>
+<sentence id="s16">6 By orders made on 28 November 2005, I ordered that Alphapharm be joined as second respondent in the TGA proceeding.</sentence>
+<sentence id="s17">On 23 December 2005, I ordered that the revocation proceeding and the TGA proceeding be heard together.</sentence>
+<sentence id="s18">They have been fixed for a 15 day hearing from Monday, 27 November until Friday, December 15 2006.</sentence>
+<sentence id="s19">THE PRESENT PROCEEDING 
+ 
+7 Having been given, by Alphapharm, reason to think that her entry on the Australian Register of Therapeutic Goods ('ARTG') of the extension of the term of the Patent is incorrect, the Commissioner proposes to give Lundbeck an opportunity to be heard on 22 March 2006 on the question whether Alphapharm is correct, and whether she should amend the entry under reg 10.7(7).</sentence>
+<sentence id="s20">(The Commissioner is required to give Lundbeck an opportunity to be heard by reg 10.7(8) --- see [17] below.</sentence>
+<sentence id="s21">)
+ 
+8 Contending that reg 10.7(7) is invalid, Lundbeck, by its application filed on 15 September 2005 in this proceeding, claims: prohibition, alternatively, an injunction, prohibiting the Commissioner from making any decision or doing any act, including the conduct of any hearing, in relation to the extension of the term of the Patent in purported reliance on reg 10.7(7); a declaration that reg 10.7(7) is not authorised by s 228 of the Act, is invalid and is of no force or effect; and a declaration that the Commissioner is functus officio in relation to her decision made to extend the term of the Patent.</sentence>
+<sentence id="s22">FACTS 
+ 
+9 The date of the Patent is 13 June 1989 (so its twenty-year term expires on 13 June 2009) and its title is '(+)-Enantiomer of Citalopram and Process for the Preparation Thereof'.</sentence>
+<sentence id="s23">An Agreed Statement of Facts in this proceeding states, relevantly, as follows:
+ 
+ ' The Patent and listing on the ARTG 
+ 
+ 1.</sentence>
+<sentence id="s24">... 
+ 
+ 2.</sentence>
+<sentence id="s25">Citalopram (International Nonproprietary Name ( INN )) is a compound belonging to the therapeutic category of selective serotonin re-uptake inhibitors.</sentence>
+<sentence id="s26">Citalopram is a racemate which was invented and developed by Lundbeck which (along with its subsidiaries) manufactures and markets citalopram hydrobromide (tablets) under the brand name Cipramil.</sentence>
+<sentence id="s27">Cipramil was first registered on the Australian Register of Therapeutic Goods ( ARTG ) on 9 December 1997.</sentence>
+<sentence id="s28">... 
+ 
+ 3.</sentence>
+<sentence id="s29">The invention the subject of the ... Patent relates to the (+) enantiomer of citalopram ( escitalopram (International Nonproprietary Name)) and processes for preparation thereof.</sentence>
+<sentence id="s30">
+ 
+ 4.</sentence>
+<sentence id="s31">The ... Patent discloses processes for synthesising escitalopram, and data showing that escitalopram is over 100 fold more potent than 
+ (-) citalopram.</sentence>
+<sentence id="s32">
+ 
+ 5.</sentence>
+<sentence id="s33">Lundbeck instructed its subsidiary Lundbeck Australia Pty Ltd ( Lundbeck Australia ) to make an application with the Therapeutic Goods Administration ( TGA ) for registration of escitalopram oxalate on the ARTG.</sentence>
+<sentence id="s34">
+ 
+ 6.</sentence>
+<sentence id="s35">Pursuant to that application, on 16 September 2003, escitalopram oxalate was registered on the ARTG for its various dose strengths under the brand name Lexapro ... 
+ 
+ Extension of term 
+ 
+ 7.</sentence>
+<sentence id="s36">In the absence of any extension of term the ... Patent was due to expire at the end of 13 June 2009.</sentence>
+<sentence id="s37">
+ 
+ 8.</sentence>
+<sentence id="s38">On 22 December 2003, Lundbeck applied to the Commissioner of Patents for an extension of term of the Patent.</sentence>
+<sentence id="s39">... 
+ 
+ 9.</sentence>
+<sentence id="s40">An extension of term of the Patent until 13 June 2014 was granted by the Commissioner of Patents on 27 May 2004.</sentence>
+<sentence id="s41">... 
+ 
+ 10.</sentence>
+<sentence id="s42">No opposition was entered to the grant of this extension within the time provided by the Patents Regulations .</sentence>
+<sentence id="s43">
+ 
+ 11.</sentence>
+<sentence id="s44">On 13 July 2005, D Herald, acting as Deputy Commissioner of Patents, wrote to Lundbeck setting out certain correspondence from Alphapharm Pty Ltd to the Commissioner.</sentence>
+<sentence id="s45">The letter states inter alia: 
+ 
+ (a) the ... Patent claims a specific isomer of a compound; 
+ 
+ 
+ (b) the ARTG registration relied upon to support the extension of term of the ... Patent was in respect of a good containing that specific isomer; 
+ (c) there is an earlier ARTG registration for Cipramil, which the Commissioner understands is the racemic mixture of the isomers having the chemical formula of the substance of the ... Patent; 
+ (d) that "the relevant date for the purpose of extending the term of this patent is the date of inclusion in the ARTG of the substance Cipramil"; 
+ (e) the Commissioner considers that she is obliged to amend the register in relation to the term of the ... Patent from 13 June 2014 to 9 December 2012 under Regulation 10.7(7) of the Patents Regulations 1991 ; and 
+ (f) the letter also states that the Commissioner considers herself " functus officio with respect to any of the considerations required prior to the grant of the extension of term of this patent".</sentence>
+<sentence id="s46">
+ 
+ 
+ 
+ The letter requested Lundbeck either to provide reasons why the Commissioner should not make the amendment or to accede to the amendments proposed.</sentence>
+<sentence id="s47">... 
+ 
+ 12.</sentence>
+<sentence id="s48">By letter dated 3 August 2005, Corrs Chambers Westgarth ( Corrs ), solicitors for Lundbeck wrote to the Commissioner of Patents advising her that Lundbeck does not accede to the proposed amendment to the Register of Patents in respect of the term of the ... Patent.</sentence>
+<sentence id="s49">... 
+ 
+ 13.</sentence>
+<sentence id="s50">Accordingly, the Patents Office set a hearing date of 19 October 2005 for Lundbeck to be heard in relation to the Commissioner of Patents' proposed amendment of the register under Regulation 10.7(7).</sentence>
+<sentence id="s51">Subsequent to the institution by Lundbeck of these proceedings, that hearing date has been rescheduled to 22 March 2006.</sentence>
+<sentence id="s52">' (emphasis in original)
+ 
+
+10 The 'correspondence from Alphapharm Pty Ltd' referred to in para 11 of the Agreed Statement of Facts consisted of a letter dated 7 July 2005 from Mallesons Stephen Jaques ('Mallesons'), the solicitors for Alphapharm, asserting that Lundbeck had obtained the extension 'in circumstances where its application for an extension of time was out of time'.</sentence>
+<sentence id="s53">Lundbeck's request for the extension was filed on 22 December 2003.</sentence>
+<sentence id="s54">The pharmaceutical substance the subject of the Patent is the S-enantiomer of the compound Citalopram.</sentence>
+<sentence id="s55">In its application for the extension, Lundbeck represented that the first goods included on the ARTG containing or consisting of this pharmaceutical substance was Lundbeck's product which bears the brand name, LEXAPRO.</sentence>
+<sentence id="s56">LEXAPRO had been included on the ARTG only since 16 September 2003.</sentence>
+<sentence id="s57">According to Mallesons' letter, however, the first product included in the ARTG containing the S-enantiomer of Citalopram was citalopram hydrobromide, which was registered by Lundbeck under the brand name, CIPRAMIL.</sentence>
+<sentence id="s58">Mallesons' letter claimed that CIPRAMIL had been included in the ARTG since 20 November 1997.</sentence>
+<sentence id="s59">In fact the correct date was 9 December 1997, but nothing turns on this discrepancy.</sentence>
+<sentence id="s60">Alphapharm's contention is that 9 December 1997 was the date of the first inclusion in the ARTG of goods that contained the pharmaceutical substance, the S-enantiomer of Citalopram, because, according to the letter, CIPRAMIL comprises the S-enantiomer of Citalopram and the R-enantiomer of Citalopram.</sentence>
+<sentence id="s61">11 Section 70 of the Act provides for applications for an extension of the term of standard patents relating to pharmaceutical substances.</sentence>
+<sentence id="s62">One condition which must be satisfied in relation to at least one of the pharmaceutical substances disclosed in the complete specification falling within the scope of the claim or claims, is that the period beginning on the date of the patent and ending on the first regulatory approval date for the substance is at least five years: s 70(3)(b).</sentence>
+<sentence id="s63">For this purpose, the expression 'first regulatory approval date' in relation to a pharmaceutical substance is defined in s 70(5).</sentence>
+<sentence id="s64">Paragraph (a) of that subsection has the effect that if, as here, no pre-TGA marketing approval was given in relation to the substance, the first regulatory approval date is the date of commencement of the first inclusion in the ARTG of goods that 'contain, or consist of' the substance.</sentence>
+<sentence id="s65">At the heart of the dispute is whether Lundbeck's product CIPRAMIL satisfies that description.</sentence>
+<sentence id="s66">If so, the first regulatory approval date is 9 December 1997, rather than 16 September 2003.</sentence>
+<sentence id="s67">12 The period from the date of the Patent (13 June 1989) to 9 December 1997 is eight years, five months and twenty-six days.</sentence>
+<sentence id="s68">The period from the date of the Patent (13 June 1989) to 16 December 2003 is fourteen years, six months and three days.</sentence>
+<sentence id="s69">Accordingly, whichever of the competing contentions as to the 'first regulatory approval date' is correct, Lundbeck's application for the extension of term satisfied s 70(3)(b), because each of the periods is a period of at least five years.</sentence>
+<sentence id="s70">13 Subsection 71(2) of the Act provides that an application for an extension of term must be made during the term of the patent and within six months of the latest of the following dates:
+ 
+ '(a) the date the patent was granted; 
+ 
+ 
+ (b) the date of commencement of the first inclusion in the [ARTG] of goods that contain, or consist of, any of the pharmaceutical substances referred to in subs 70(3); 
+ 
+ 
+ (c) the date of commencement of [s 71] .</sentence>
+<sentence id="s71">' 
+ 
+
+In this case, on either of the competing views the latest of those three dates is that referred to in para (b).</sentence>
+<sentence id="s72">If the date referred to in para (b) was, as Lundbeck contends, 16 September 2003, Lundbeck had until 16 March 2004 in which to apply for the extension, and therefore its application made on 22 December 2003 was within time.</sentence>
+<sentence id="s73">If, on the other hand, the date referred to in para (b) was, as Alphapharm contends, 9 December 1997, Lundbeck had only until 9 June 1998 in which to apply for an extension, and, therefore, its application on 22 December 2003 was made out of time.</sentence>
+<sentence id="s74">Accordingly, in the revocation proceeding Alphapharm seeks rectification of the Register by removal from it of any reference to the extension (see [2] above).</sentence>
+<sentence id="s75">14 The term of an extended patent is defined by s 77 of the Act which provides:
+ 
+ 
+ '(1) If the Commissioner grants an extension of the term of a standard patent, the term of the extension is equal to: 
+ 
+ 
+ 
+ 
+ (a) the period beginning on the date of the patent and ending on the earliest first regulatory approval date (as defined by section 70) in relation to any of the pharmaceutical substances referred to in subsection 70(2); 
+ 
+ 
+ 
+ 
+ reduced (but not below zero) by: 
+ (b) 5 years.</sentence>
+<sentence id="s76">
+ 
+ 
+ 
+ (2) However, the term of the extension cannot be longer than 5 years.</sentence>
+<sentence id="s77">' 
+ 
+
+15 If the correct first regulatory approval date is 9 December 1997, the s 77(1) formula yields a calculation of eight years, five months and twenty-six days minus five years, which is three years five months and twenty-six days.</sentence>
+<sentence id="s78">This period, added on to the twenty-year term of the Patent expiring on 13 June 2009, would extend the term of the Patent to 9 December 2012.</sentence>
+<sentence id="s79">This is the period which the Commissioner says, subject to her hearing Lundbeck on 22 March 2006, the Register should reflect if Alphapharm's contention as to the first regulatory approval date is correct.</sentence>
+<sentence id="s80">16 If, on the other hand, the correct first regulatory approval date is 16 September 2003, the s 77(1) formula would give a period of fourteen years, six months and three days minus five years, which is nine years, six months and three days.</sentence>
+<sentence id="s81">But s 77(2) provides that the term of an extension cannot be longer than five years.</sentence>
+<sentence id="s82">This extension of five years, added on to the twenty-year term of the Patent expiring on 13 June 2009, would extend that term to 13 June 2014.</sentence>
+<sentence id="s83">This was the extension which the Commissioner entered in the ARTG, and which Lundbeck continues to support.</sentence>
+<sentence id="s84">17 Sub-regulations 10.7(7), (8) and (9) provide:
+ 
+ '(7) If: 
+ 
+ 
+ 
+ (a) an extension of the term of a standard patent for a pharmaceutical substance has been granted under section 76 of the Act; and 
+ (b) the Commissioner becomes aware that the first regulatory approval date in relation to the pharmaceutical substance is earlier than: 
+ 
+ 
+ 
+ (i) the date of commencement of the first inclusion in the Australian Register of Therapeutic Goods that was supplied, under subregulation 6.9(2), with the application for the extension of the term; or 
+ (ii) the date of the first approval that was supplied, under subregulation 6.10(2), with the application for the extension of the term; 
+ 
+ 
+ the Commissioner must amend the relevant entry in the Register to insert the correct extension of the term of the patent.</sentence>
+<sentence id="s85">
+ 
+ 
+ 
+ 
+ 
+ (8) If the Commissioner proposes to amend an entry in the Register under subregulation (7), the Commissioner must: 
+ (a) give notice to that effect to the patentee; and 
+ 
+ 
+ 
+ 
+ (b) act in accordance with regulations 22.22 to 22.24 as if those regulations applied to a decision to amend an entry.</sentence>
+<sentence id="s86">
+ 
+ 
+ 
+ 
+ 
+ (9) An appeal lies to the Federal Court against a decision of the Commissioner to amend the Register under subregulation (7).</sentence>
+<sentence id="s87">' 
+ 
+ 
+ 
+ 
+ (my emphasis)
+ 
+ 
+ 
+
+ Regulations 22.22 to 22.24 , referred to in subreg (8)(b), provide for the giving of notice and of an opportunity to be heard before the Commissioner exercises a discretionary power adversely to a person.</sentence>
+<sentence id="s88">18 Sub-regulations (7), (8) and (9) of reg 10.7 were introduced by the Patents Amendment Regulations 2005 (No 1) (SLI 51 of 2005).</sentence>
+<sentence id="s89">If subreg (7) is invalid, subregs (8) and (9) will fall with it.</sentence>
+<sentence id="s90">For obvious reasons, Lundbeck does not submit that if subreg (7) is valid, nonetheless subregs (8) and (9) are invalid, and I will say nothing further about them.</sentence>
+<sentence id="s91">19 In her letter dated 13 July 2005 to Watermark, Lundbeck's Patent Attorneys, the Commissioner stated:
+ 
+ 'The term of this patent (as factually determined under s 77 on the basis of the registration of Cipramil) expires on 9 December 2012, and not 13 June 2014 (the date currently included in the Register).</sentence>
+<sentence id="s92">Accordingly the Register does not reflect the correct term of this patent.</sentence>
+<sentence id="s93">' 
+ 
+
+The Commissioner pointed out that in these circumstances, under reg 10.7(7) she must amend the relevant entry in the Register to insert the correct term of the Patent, but not without first giving the patentee an opportunity to be heard: see reg 10.7(8).</sentence>
+<sentence id="s94">LEGISLATION 
+ 
+20 Section 228 of the Act provides, relevantly:
+ 
+ 
+ '(1) The Governor-General may make regulations, not inconsistent with this Act: 
+ 
+ 
+ 
+ 
+ (a) ... ; 
+ (b) prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act; and 
+ (c) prescribing matters necessary or convenient to be prescribed for the conduct of any business relating to the Patent Office; ... 
+ 
+ 
+ 
+ 
+ 
+ (2) Without limiting subsection (1), that subsection includes the power to make regulations: 
+ (a) ... ; 
+ (b) ... ; 
+ (c) ... ; 
+ 
+ 
+ 
+ 
+ (e) making provision for and in relation to the amendment of an entry in the Register to correct a clerical error or an obvious mistake, or for any other purpose; ...' 
+ 
+ 
+ 
+ 
+ 
+ 
+
+It is common ground that reg 10.7(7) is not supportable as a regulation making provision for correction of a clerical error or an obvious mistake, but the Commissioner relies on the words 'or for any other purpose' in para (e) of s 228(2).</sentence>
+<sentence id="s95">21 Section 70 provides for the making of applications for an extension of the term of a patent by the patentee of a standard patent.</sentence>
+<sentence id="s96">The section provides, relevantly:
+ 
+ 
+ '(1) The patentee of a standard patent may apply to the Commissioner for an extension of the term of the patent if the requirements set out in subsections (2), (3) and (4) are satisfied.</sentence>
+<sentence id="s97">
+ 
+ 
+ 
+ (2) Either or both of the following conditions must be satisfied: 
+ 
+ 
+ 
+ (a) one or more pharmaceutical substances per se must in substance be disclosed in the complete specification of the patent and in substance fall within the scope of the claim or claims of that specification; 
+ (b) one or more pharmaceutical substances when produced by a process that involves the use of recombinant DNA technology, must in substance be disclosed in the complete specification of the patent and in substance fall within the scope of the claim or claims of that specification.</sentence>
+<sentence id="s98">
+ 
+ 
+ 
+ 
+ 
+ (3) Both of the following conditions must be satisfied in relation to at least one of those pharmaceutical substances: 
+ 
+ 
+ 
+ 
+ (a) goods containing, or consisting of, the substance must be included in the Australian Register of Therapeutic Goods; 
+ (b) the period beginning on the date of the patent and ending on the first regulatory approval date for the substance must be at least 5 years.</sentence>
+<sentence id="s99">
+ 
+ 
+ 
+ 
+ 
+ 
+ (4) The term of the patent must not have been previously extended under this Division.</sentence>
+<sentence id="s100">
+ 
+ (5) For the purposes of this section, the first regulatory approval date , in relation to a pharmaceutical substance, is: 
+ 
+ 
+ 
+ 
+ (a) if no pre-TGA marketing approval was given in relation to the substance--the date of commencement of the first inclusion in the Australian Register of Therapeutic Goods of goods that contain, or consist of, the substance; or 
+ 
+ 
+ 
+ 
+ (b) ... 
+ 
+ 
+ 
+ (6) ...' 
+ 
+
+It is not disputed that subsections (2), (3) and (4) were satisfied in the present case.</sentence>
+<sentence id="s101">Accordingly, Lundbeck was entitled to apply for an extension of the term of the Patent.</sentence>
+<sentence id="s102">Whether the first regulatory approval date is 9 December 1997 (as Alphapharm contends) or 16 September 2003 (as Lundbeck contends) will arise for determination in the revocation proceeding.</sentence>
+<sentence id="s103">22 Subsections (2), (3) and (4) prescribe conditions of a patentee's being entitled to 'apply' for an extension.</sentence>
+<sentence id="s104">The conditions are stated in objective terms: either they are satisfied and a patentee is entitled to apply, or they are not satisfied and the patentee is not entitled to apply.</sentence>
+<sentence id="s105">23 Section 71 provides for the form and timing of an application.</sentence>
+<sentence id="s106">Subsection (2) of s 71 was referred to at [ 13 ] above.</sentence>
+<sentence id="s107">Paragraph (b) of subs (2), like the definition of 'first regulatory approval date' in para (a) of subs 70(5), refers to an objective state of affairs.</sentence>
+<sentence id="s108">24 Section 72 provides that if a patentee applies for an extension, the Commissioner must publish in the Official Journal a notice that the application has been made and is open to public inspection.</sentence>
+<sentence id="s109">25 Section 73 permits a patentee to withdraw the application for an extension, and requires the Commissioner to publish in the Official Journal a notice of the withdrawal.</sentence>
+<sentence id="s110">26 Section 74 deals with acceptance or refusal of an application for an extension.</sentence>
+<sentence id="s111">It provides:
+ 
+ 'Acceptance 
+ 
+ 
+ (1) If a patentee of a standard patent makes an application for an extension of the term of the patent, the Commissioner must accept the application if the Commissioner is satisfied that the requirements of sections 70 and 71 are satisfied in relation to the application.</sentence>
+<sentence id="s112">
+ 
+ 
+ (2) If the Commissioner accepts the application, the Commissioner must: 
+ 
+ 
+ (a) notify the applicant in writing of the acceptance; and 
+ 
+ 
+ 
+ 
+ (b) publish a notice of the acceptance in the Official Journal.</sentence>
+<sentence id="s113">
+ 
+ 
+ 
+ 
+ Refusal 
+ 
+ 
+ (3) The Commissioner must refuse to accept the application if the Commissioner is not satisfied that the requirements of sections 70 and 71 are satisfied in relation to the application.</sentence>
+<sentence id="s114">
+ (4) If the Commissioner refuses to accept the application, the Commissioner must: 
+ 
+ 
+ 
+ 
+ (a) notify the applicant in writing of the reasons for the refusal; and 
+ 
+ 
+ 
+ 
+ (b) publish a notice of the refusal in the Official Journal.</sentence>
+<sentence id="s115">' 
+ 
+ 
+
+27 Two aspects of this provision may be noted.</sentence>
+<sentence id="s116">First, it is the first provision regulating the Commissioner's response to an application.</sentence>
+<sentence id="s117">The Commissioner must 'accept' or 'refuse to accept' the application.</sentence>
+<sentence id="s118">The acceptance/refusal to accept stage precedes the grant/refusal to grant stage, to be discussed next.</sentence>
+<sentence id="s119">28 Secondly, although s 74 does not expressly indicate the steps the Commissioner must take in order to be satisfied that the requirements of ss 70 and 71 are satisfied, the fact that opposition is provided for in the next stage, coupled with the use of the word 'satisfied', seem to suggest that what is contemplated is a 'formal' checking by the Commissioner that on the information supplied by the patentee, the requirements of those two sections are satisfied.</sentence>
+<sentence id="s120">29 If the Commissioner is satisfied that these requirements are satisfied, she must accept the application to be dealt with further, notify the patentee of the acceptance, and publish notice of the acceptance in the Official Journal: s 74(1), (2).</sentence>
+<sentence id="s121">If the Commissioner is not so satisfied, she must refuse to accept the application, notify the patentee of the reasons for the refusal, and publish notice of the refusal in the Official Journal: s 74(3), (4).</sentence>
+<sentence id="s122">30 There is no provision for a right of appeal against a refusal to accept, which could, however, be made the subject of an application for relief under s 39B of the Judiciary Act 1903 (Cth).</sentence>
+<sentence id="s123">31 Sections 75 and 76 deal with the next stage.</sentence>
+<sentence id="s124">Section 75 provides that the Minister or any other person may, in accordance with the regulations, oppose the grant of the extension on the ground that one or more of the requirements of ss 70 and 71 are not satisfied, but not on any other ground: subs (1).</sentence>
+<sentence id="s125">If the grant of an extension is opposed, the Commissioner must decide the case in accordance with the regulations, having first given the patentee and the opponent a reasonable opportunity to be heard: subss 75(2) and (3).</sentence>
+<sentence id="s126">32 If there is no opposition, or, in spite of opposition, the Commissioner decides that the extension should be granted, the Commissioner must grant an extension: s 76(1).</sentence>
+<sentence id="s127">If the Commissioner grants an extension, the Commissioner must notify the patentee of the grant and publish notice of the grant in the Official Journal: s 76(2).</sentence>
+<sentence id="s128">33 The applicant and any opponent may appeal to this Court against the Commissioner's decision: s 75(4).</sentence>
+<sentence id="s129">34 It follows that, provided an application for an extension, and, in particular, the associated information supplied by the patentee, satisfy the requirements of ss 70 and 71 , the Commissioner must grant 'an extension of the term of a patent' if there is no opposition to the grant.</sentence>
+<sentence id="s130">35 Section 76 does not specify the period of the extension that must be granted, but s 77 , which was set out at [ 14 ] above, does so.</sentence>
+<sentence id="s131">36 While the Commissioner must grant an extension, she is not required to specify the period of the extension granted.</sentence>
+<sentence id="s132">It is not necessarily the period that was applied for.</sentence>
+<sentence id="s133">The period is defined in s 77.</sentence>
+<sentence id="s134">The 'trigger' for which is the granting of 'an extension of the term of a standard patent' by the Commissioner.</sentence>
+<sentence id="s135">37 Section 187 provides that particulars of standard patents in force, and other prescribed particulars relating to standard patents (if any) must be registered in that part of the Register dealing with standard patents.</sentence>
+<sentence id="s136">Regulation 19.1 of the Regulations prescribes in para (c) particulars of 'an extension of the term of a patent'.</sentence>
+<sentence id="s137">It follows that the Commissioner must enter in the Register particulars of the true period of extension referred to in s 77.</sentence>
+<sentence id="s138">38 Section 191 provides that a person must not make a false entry in the Register, or cause a false entry to be made in it.</sentence>
+<sentence id="s139">The stated penalty is imprisonment for two years.</sentence>
+<sentence id="s140">39 Subsection 192(1) provides that a person aggrieved by the omission of an entry from the Register, or an entry made in the Register without sufficient cause, or an entry wrongly existing in the Register or an error or defect in an entry in the Register, may apply to a prescribed court for an order to rectify the Register.</sentence>
+<sentence id="s141">Subsection 192(3) provides that the Commissioner must be given notice of the application, may appear and be heard in the proceeding, and must appear if directed to do so by the court.</sentence>
+<sentence id="s142">40 Clearly, ss 191 and 192 show a general intention that the Register be correct and reliable.</sentence>
+<sentence id="s143">A particular reason underlying this policy is that subs 195(1) provides that the Register is prima facie evidence of any particulars registered in it.</sentence>
+<sentence id="s144">CONSIDERATION 
+ 
+41 Section 228 of the Act provides, relevantly, as follows:
+ 
+ 
+ '(1) The Governor-General may make regulations, not inconsistent with this Act: 
+ 
+ 
+ 
+ 
+ (a) ...; and 
+ (b) prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act; and 
+ (c) prescribing matters necessary or convenient to be prescribed for the conduct of any business relating to the Patent Office; ... 
+ 
+ 
+ 
+ 
+ (2) Without limiting subsection (1), that subsection includes the power to make regulations: 
+ ... 
+ 
+ 
+ 
+ 
+ (e) making provision for and in relation to the amendment of an entry in the Register to correct a clerical error or an obvious mistake or for any other purpose ; ...' (my emphasis)
+ 
+ 
+ 
+ 
+ Lundbeck contends that reg.</sentence>
+<sentence id="s145">10.7(7) is invalid as being ultra vires with regard to s 228, retrospective in its operation, and injurious to substantive rights of the patentee.</sentence>
+<sentence id="s146">
+ (1) Ultra vires 
+ 
+42 The Commissioner does not seek to support reg 10.7(7) as a provision for and in relation to the amendment of an entry in the Register to correct a 'clerical error' or an 'obvious mistake'.</sentence>
+<sentence id="s147">The Commissioner's proposition is quite simple: subs 228(1), when read with subs 228(2)(e), empowers the Governor-General to make regulations making provision for and in relation to the amendment of an entry in the Register for any purpose, and reg 10.7(7) meets that description.</sentence>
+<sentence id="s148">43 Lundbeck did not submit that the words 'for any other purpose' are to be read ejusdem generis with the expressions 'to correct a clerical error' and 'to correct ... an obvious mistake'.</sentence>
+<sentence id="s149">Lundbeck did, however, refer to the words 'not inconsistent with this Act' in the chapeau to subs 228(1), and to the opening provision of subs 228(2) that subs (1) of s 228 'includes' the various powers listed in subs (2).</sentence>
+<sentence id="s150">44 Lundbeck referred to the following authorities for the proposition that, generally speaking, a power to make regulations is not construed so as to authorise the making of regulations which widen, vary or depart from positive provisions of the enabling Act, extend the scope and general operation of that Act, or operate in a way that is otherwise than strictly ancillary: Shanahan v Scott [1957] HCA 4 ; (1957) 96 CLR 245 at 250, 254; Utah Construction and Engineering Pty Ltd v Pataky [1966] AC 629 at 640; Willocks v Anderson [1971] HCA 28 ; (1970) 124 CLR 293 at 298-9; Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 194 CLR 355 at 380; Carbines v Powell [1925] HCA 16 ; (1925) 36 CLR 88 at 92; Morton v Union Steamship Co of New Zealand Ltd [1951] HCA 42 ; (1951) 83 CLR 402 at 410.</sentence>
+<sentence id="s151">However, the starting point in each case is the empowering section.</sentence>
+<sentence id="s152">In the present case, s 228(1)(b) does not stand alone: there is s 228(2)(e) to be considered.</sentence>
+<sentence id="s153">45 Subsections (1) and (2) of s 228, so far as presently relevant, can be paraphrased as follows: the Governor-General may make regulations, not inconsistent with the Act, prescribing matters convenient to be prescribed for carrying out or giving effect to the Act or for the conduct of any business relating to the Patent Office, including regulations making provision for and in relation to the amending of an entry in the Register for any purpose.</sentence>
+<sentence id="s154">46 I do not think that the expression 'for any other purpose' in s 228(2)(e) signifies that a regulation made for literally 'any' purpose would necessarily be valid.</sentence>
+<sentence id="s155">One need only think of a regulation made for a purpose which demonstrated bad faith, or, I suggest, for a purpose totally foreign, even antithetical to, the concerns and objects of the Act.</sentence>
+<sentence id="s156">However, I can think of no purposive limitation to be read into subs 228(2)(e) which would have the effect that reg 10.7(7) is ultra vires .</sentence>
+<sentence id="s157">The purpose of reg 10.7(7) is, after all, the unexceptionable one of ensuring that particulars entered in the Register are not false.</sentence>
+<sentence id="s158">47 On the narrowest construction of s 228, reg 10.7 is intra vires .</sentence>
+<sentence id="s159">That narrowest construction requires that: (1) the regulation make provision for and in relation to the amendment of any entry in the Register for some purpose, not being the correction of a clerical error or of an obvious mistake; (2) the regulation not be inconsistent with the Act; and (3) the regulation prescribe matters convenient to be prescribed for carrying out or giving effect to the Act.</sentence>
+<sentence id="s160">48 The first of these requirements is met.</sentence>
+<sentence id="s161">As to the second, I do not think that reg 10.7(7) is inconsistent with the Act.</sentence>
+<sentence id="s162">Lundbeck points to the right of appeal given by s 75(4) and the right given to an aggrieved party to apply to a prescribed court for an order for rectification of the Register given by s 192.</sentence>
+<sentence id="s163">It is not, however, inconsistent with these provisions that a regulation should require the Commissioner to amend an entry in the Register which does not reflect the true extension of the term of a patent, where the Commissioner has become aware that the entry in the Register fails to do so.</sentence>
+<sentence id="s164">49 Regulation 10.7(7) provides for circumstances not covered by ss 75 and 192.</sentence>
+<sentence id="s165">Assume that:
+ 
+&#8226; a patentee obtained an extension upon a misrepresentation to the Commissioner as to the first regulatory approval date;
+ 
+&#8226; that there was no opposition to the application for the extension; 
+ 
+&#8226; that no aggrieved party applied for rectification of the Register under s 192; and
+ 
+&#8226; that the Commissioner became aware of the misrepresentation.</sentence>
+<sentence id="s166">According to Lundbeck's argument, nothing could be done.</sentence>
+<sentence id="s167">I do not think the Act evinces an intention that nothing should be able to be done in these circumstances or that ss 45 and 192 are intended to be a code in the present respect.</sentence>
+<sentence id="s168">The Act does, however, in ss 187, 191 and 195(1) referred to earlier, reveal a legislative intention that the Register should not contain false entries.</sentence>
+<sentence id="s169">50 As to the third requirement mentioned, I think it was open to the Governor-General to consider that reg 10.7(7) prescribed a matter 'convenient to be prescribed for carrying out or giving effect to [the] Act'.</sentence>
+<sentence id="s170">This was so for the reasons mentioned in the immediately preceding paragraph.</sentence>
+<sentence id="s171">Similarly, para (3) of the Explanatory Statement which accompanied the Patent Amendment Regulations 2005 (No 1) stated:
+ 
+ 'Recently, the Commissioner has become aware that the extensions of term granted in respect of several patents are longer than the patentees are entitled to under the Act.</sentence>
+<sentence id="s172">This appears to be due to the Commissioner having been supplied with incorrect information by the patentees when these extensions of term were requested.</sentence>
+<sentence id="s173">' 
+ 
+
+Why is a regulation providing for mandatory amendment of the entry in the Register in these circumstances not a matter convenient to be prescribed for carrying out or giving effect to the Act?</sentence>
+<sentence id="s174">51 Underlying Lundbeck's submissions, in particular those to be dealt with at (2) and (3) below, is the notion that, by reason of the entry in the Register, the patentee has the benefit of the extension as so entered.</sentence>
+<sentence id="s175">It does not.</sentence>
+<sentence id="s176">By reason of s 77, the term of the extension is as fixed in that section.</sentence>
+<sentence id="s177">To amend the Register to show a shorter extension than that entered on it, would do no more than to remove a false entry and to ensure that the Register reflected the true extension fixed in s 77.</sentence>
+<sentence id="s178">52 Lundbeck also submits that, to amend the Register so as to show an extension down to zero is inconsistent with s 76(1), which provides that the Commissioner must grant an extension if there is no opposition to the grant of it.</sentence>
+<sentence id="s179">However, the notion that the extension might be zero is expressly contemplated by s 77.</sentence>
+<sentence id="s180">The effect of ss 76 and 77 is that in the absence of opposition, the Commissioner must grant an extension yet its term can be zero.</sentence>
+<sentence id="s181">It would be zero (but no less than zero) where the period beginning on the date of the patent and ending on the earliest first regulatory approval date in relation to any of the pharmaceutical substances referred to in subs 70(2), is less than five years.</sentence>
+<sentence id="s182">(2) Retrospectivity of operation and (3) Injurious effect on substantive rights of the patentee 
+ 
+53 As noted in the immediately preceding two paragraphs, Lundbeck's submissions in these respects proceed on the assumption that the patentee is entitled to the benefit of the extension as entered in the Register.</sentence>
+<sentence id="s183">This is not so.</sentence>
+<sentence id="s184">The true extension is that brought about by the operation of s 77.</sentence>
+<sentence id="s185">The Register does not give an indefeasible title and is only prima facie evidence of any particulars registered in it: s 195(1).</sentence>
+<sentence id="s186">A patentee has no right to insist that the Register continue to record an extension greater than it truly is.</sentence>
+<sentence id="s187">CONCLUSION 
+ 
+54 For the above reasons, the application should be dismissed with costs.</sentence>
+<sentence id="s188">I certify that the preceding fifty-four (54) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s189">Associate:
+
+Dated: 1 March 2006
+
+
+
+ Counsel for the Applicant: Mr D Shavin QC and Ms K J Howard 
+ 
+ Solicitor for the Applicant: Corrs Chambers Westgarth 
+ 
+ Counsel for the Respondent: Mr S Lloyd 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ 
+ 
+ 
+ 
+ Date of Hearing: 8 February 2006 
+ 
+ Date of Judgment: 1 March 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/163.html 
+ 
+ </sentence>
+</sentences>
+</case>

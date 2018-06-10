@@ -1,0 +1,409 @@
+<?xml version="1.0"?>
+<case>
+<name>The University of Sydney v ResMed Ltd [2008] FCA 1020 (4 July 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1020.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">discovery</catchphrase>
+<catchphrase "id=c1">relationship between categories of documents and order 15 rule 2 of the federal court rules (cth)</catchphrase>
+<catchphrase "id=c2">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 These reasons relate to a complex discovery dispute.</sentence>
+<sentence id="s1">Over a period the parties have managed to reach agreement in relation to many categories of documents.</sentence>
+<sentence id="s2">Their efforts are to be commended.</sentence>
+<sentence id="s3">The categories on which a decision is required are set out in an annexure to these reasons for judgment.</sentence>
+<sentence id="s4">On the second day of the hearing, the applicant (the University) proposed amendments to a number of those categories on the basis that the University may seek discovery of the original categories at a later date.</sentence>
+<sentence id="s5">The respondent (ResMed) opposed such a course.</sentence>
+<sentence id="s6">I discuss this proposal in more detail at [82]ff below.</sentence>
+<sentence id="s7">2 The University is the registered proprietor of Australian Patent No 643994 for an invention entitled "Nasal mask" (the Patent).</sentence>
+<sentence id="s8">Its priority date is 21 May 1990.</sentence>
+<sentence id="s9">3 At the heart of the parties' dispute is a written agreement dated 17 May 1991 entitled "Licensing Agreement" between the University and ResMed (the Agreement).</sentence>
+<sentence id="s10">In the Agreement ResMed is called "the Licensee".</sentence>
+<sentence id="s11">4 The University sues ResMed for infringement of the Patent and for breach of the Agreement.</sentence>
+<sentence id="s12">The question whether the categories of documents in dispute are discoverable turns largely on the Agreement and on a proper construction of the University's further amended statement of claim (FASOC).</sentence>
+<sentence id="s13">ResMed has filed a further amended defence and an amended cross-claim.</sentence>
+<sentence id="s14">5 ResMed resists discovery on grounds of relevance and oppressiveness, that is to say, that the categories in dispute are not relevant for discovery purposes (see [40] below) to the issues raised on the FASOC, and to the extent that any of them are relevant for those purposes, it would be oppressive for ResMed to have to give discovery of them.</sentence>
+<sentence id="s15">6 In accordance with a suggestion made by ResMed, I have decided to publish these reasons addressing, for the present interlocutory purposes only, certain questions of construction and other issues in the hope that the parties in the light of the reasons may yet be able to agree on the course to be followed.</sentence>
+<sentence id="s16">If they cannot do so, I will deliver the remaining instalment of the reasons and make orders.</sentence>
+<sentence id="s17">7 I decide nothing finally on this interlocutory application.</sentence>
+<sentence id="s18">For one thing, I note that the Agreement is not to be construed in a vacuum, and I do not have before me evidence of the background against which it was entered into and which could bear upon its proper construction.</sentence>
+<sentence id="s19">However, I am required to form tentative views for the purposes of the exercise of my discretion on the discovery of the dispute.</sentence>
+<sentence id="s20">THE AGREEMENT 
+ 
+8 The Agreement provides for the grant of a licence by the University to ResMed to use the "Intellectual Property" as defined in the Agreement for the purposes set forth in the Agreement.</sentence>
+<sentence id="s21">9 The expression "Intellectual Property" is defined in cl 1 of the Agreement to mean:
+ the trademarks, patents, copyrights, processes, know-how, registered designs or other like rights particulars of which are set forth in Schedule 2.</sentence>
+<sentence id="s22">Schedule 2 is as follows:
+ 
+ 
+ (a) Patent Applications in respect of an invention entitled Nasal Mask 
+ Australian Applic No PK0228 Filed 21 May 1990.</sentence>
+<sentence id="s23">
+ 
+ 
+ 
+ (b) Information and know-how relating to the Nasal Mask but not including that information which was known by the Licensee or which was in the public domain prior to 21 May 1990.</sentence>
+<sentence id="s24">
+ 
+
+The reference to PK0228 is a reference to a provisional application (Provisional Application).</sentence>
+<sentence id="s25">In fact the Patent, a standard patent, was granted on a complete application that was associated with the provisional application.</sentence>
+<sentence id="s26">10 Another important definition in the Agreement is that of "Product", which is defined in cl 1 to mean:
+ the products and/or processes set forth in Schedule 4 which incorporate the use of the Intellectual Property.</sentence>
+<sentence id="s27">The expression "Products and/or processes" is defined in cl 1 of the Agreement to include "technologies, products, devices, processes or techniques".</sentence>
+<sentence id="s28">However, Schedule 4, which is headed "The Product", states simply "Nasal Mask".</sentence>
+<sentence id="s29">Notwithstanding the reference to "products and/or processes" in the definition of "Product" and to "technologies, products, devices, processes or techniques" in the definition of "Products and/or processes", it seems clear that the Product is simply the physical Nasal Mask product that was the subject of the invention the subject of the Patent.</sentence>
+<sentence id="s30">11 By cl 3.1 of the Agreement the University granted to ResMed an exclusive world-wide licence to use the Intellectual Property to manufacture and market the Product.</sentence>
+<sentence id="s31">Clearly the "Product" was taken here to be a physical thing.</sentence>
+<sentence id="s32">The term of the licence was from 1 January 1991 to 7 December 1992, but upon ResMed's request the University might grant an extension for a period to be agreed.</sentence>
+<sentence id="s33">12 By cl 3.2 the University undertook to furnish the Intellectual Property to ResMed for the purposes of the Agreement in the manner and at the time stipulated in Schedule 7 to the Agreement.</sentence>
+<sentence id="s34">Schedule 7 stated:
+ The University will supply the Licensee with a copy of the provisional patent specification referred to in Schedule 2, detailed information provided by Associate Professor Colin Sullivan and a working prototype of the Nasal Mask.</sentence>
+<sentence id="s35">13 By cl 3.3 of the Agreement, ResMed undertook not to use the Intellectual Property for any purpose other than that permitted by cl 3.1, which was "to manufacture and market the Product".</sentence>
+<sentence id="s36">Again, "Product" refers to the physical thing.</sentence>
+<sentence id="s37">14 Clause 5 provided for payment of licence fees by ResMed to the University in the manner and at the time set forth in Schedule 3 to the Agreement.</sentence>
+<sentence id="s38">Schedule 3 stated a certain percentage of the "Net Ex-works Selling Price of all Product sold".</sentence>
+<sentence id="s39">15 Clause 11.1 provided that should ResMed or any agent, servant or employee of ResMed make or discover any "improvement" in connection with the Intellectual Property, whether patentable or not, ResMed must forthwith disclose or cause to be disclosed to the University any information concerning that discovery or improvement, and, if so required by the University, must make available or supply to the University all information or data necessary or convenient for the proper understanding or development of the discovery or improvement, which discovery or improvement was to "belong to and be the absolute property of the University".</sentence>
+<sentence id="s40">16 Clause 11.2 of the Agreement provided:
+ The University will if requested by the Licensee grant to the Licensee a licence or licences to use, exercise and develop such discovery or improvement each upon the same terms and conditions as are herein contained but upon payment of such additional royalty or royalties as may be agreed.</sentence>
+<sentence id="s41">THE FURTHER AMENDED STATEMENT OF CLAIM 
+ 
+17 The following is a summary account of the FASOC.</sentence>
+<sentence id="s42">Numbers in bold in brackets indicate paragraphs of those numbers in the FASOC.</sentence>
+<sentence id="s43">Claim pursuant to cl 5 of the Agreement 
+ 
+18 The FASOC begins by pleading both the Patent and various provisions of the Agreement ( 5---13 ).</sentence>
+<sentence id="s44">In particular, it was a term of the Agreement that the University granted to ResMed a licence to use the Intellectual Property as defined in the Agreement to manufacture and market the Product as defined in the Agreement ( 10 ).</sentence>
+<sentence id="s45">19 Commencing in or about August 1997 and continuing to date, ResMed has sold a "Mirage" series of twelve nasal masks ( 14 ).</sentence>
+<sentence id="s46">The names of the masks in the series are set out in particulars to para 14, but the Mirage series is called "the Mirage Mask" in the FASOC.</sentence>
+<sentence id="s47">Inconsistently with this definition, however, at various later points in the FASOC, the term "Mirage Mask" is used to refer to one particular mask in the series, rather than the entire series (for example, in the particulars to para 14 itself, the first mask in the series of twelve nasal masks listed is called "The Mirage Mask").</sentence>
+<sentence id="s48">20 The Mirage Mask is a Product within the meaning of the Agreement, being a nasal mask that incorporates the use of the Intellectual Property ( 15 ).</sentence>
+<sentence id="s49">According to subparas (a) and (b) of para 15, the Mirage Mask consists of or incorporates the use of the Intellectual Property because it consists of or incorporates the invention disclosed in the Provisional Application.</sentence>
+<sentence id="s50">According to subparas (c), (d) and (e) of para 15, the Mirage Mask possesses certain integers of certain claims of the Provisional Application, and this is a further reason why the Mirage Mask incorporates the use of the Intellectual Property.</sentence>
+<sentence id="s51">21 Subparagraph (f) of para 15 alleges, further or in the alternative, that the Mirage Mask incorporates the invention disclosed in the Patent itself, and subpara (g) alleges, further or in the alternative, that the Mirage Mask incorporates "information and know-how relating to the nasal mask, being the nasal mask disclosed in the Provisional Application".</sentence>
+<sentence id="s52">22 Subparagraphs (c), (d) and (e) are akin to a conventional pleading of patent infringement --- the possession of the integers of claims.</sentence>
+<sentence id="s53">But subparas (f) and (g) are broader.</sentence>
+<sentence id="s54">The Mirage Mask is there said to incorporate the invention disclosed in the Patent, or to incorporate "information and know-how relating to the nasal mask ... disclosed in the Provisional Application".</sentence>
+<sentence id="s55">23 The University emphasises that its case is not simply one of patent infringement.</sentence>
+<sentence id="s56">As will be seen, its breach of contract claim depends on a chain of causation from the invention the subject of the Patent and from the other elements of the Intellectual Property irrespective of whether they result in a product involved in an infringement of the Patent or are objectively apparent in any final product.</sentence>
+<sentence id="s57">I discuss this issue in more detail at [60]ff below.</sentence>
+<sentence id="s58">24 In breach of the Agreement, ResMed has not paid the University licence fees in respect of the sales of the Mirage Mask, in consequence of which the University has suffered and continues to suffer loss and damage ( 16 , 17 ).</sentence>
+<sentence id="s59">Claims pursuant to cl 11 of the Agreement 
+ 
+25 Paragraphs 19---26 of the FASOC plead a claim based on cl 11 of the Agreement.</sentence>
+<sentence id="s60">26 After pleading cll 11.1 and 11.2 of the Agreement, ResMed alleges that if, contrary to para 15, any Mirage Mask (the Relevant Mask) is not a Product, the Relevant Mask nonetheless is or incorporates a discovery or improvement in connection with the Intellectual Property, and therefore, pursuant to cl 11.1 of the Agreement, belongs to and is the absolute property of the University ( 22 ).</sentence>
+<sentence id="s61">27 On that basis, ResMed has breached the Agreement in two ways:
+ 
+ 
+ &#8226; by manufacturing, supplying, selling and exporting the Relevant Mask without a licence from the University and without paying a licence fee to the University ( 23 ); and
+ &#8226; by failing to disclose to the University all relevant information concerning the Relevant Mask ( 25 ).</sentence>
+<sentence id="s62">
+ 
+
+28 By reason of those breaches, the University has suffered loss or damage ( 26 ).</sentence>
+<sentence id="s63">29 Further or in the alternative, ResMed has made and incorporated in each Mirage Mask one or more discoveries or improvements in connection with the Intellectual Property as particularised in Annexure B to the FASOC ( 26A ).</sentence>
+<sentence id="s64">Annexure B lists the twelve masks and in respect of each of them one or more alleged discoveries or improvements.</sentence>
+<sentence id="s65">Further or in the alternative, the use by a person other than the University or its licensees of those discoveries or improvements would infringe the Patent ( 26B ).</sentence>
+<sentence id="s66">Particulars of the possession of integers of claims of the Patent are given.</sentence>
+<sentence id="s67">30 All of the discoveries or improvements belong to and are the absolute property of the University ( 26C ), yet in breach of the Agreement:
+ 
+ 
+ &#8226; ResMed has manufactured, supplied, offered for sale, sold and exported each Mirage Mask and has thus used or exercised the discoveries or improvements without the University's licence and without paying any licence fee to it ( 26D ); and
+ &#8226; ResMed has failed to disclose to the University all information concerning the discoveries or improvements ( 26E ).</sentence>
+<sentence id="s68">
+ 
+
+31 By reason of those breaches, the University has suffered loss and damage ( 26F ).</sentence>
+<sentence id="s69">Claim of Patent infringement 
+ 
+32 Further or in the alternative, if, contrary to para 15, any Mirage Mask is a Relevant Mask as defined in para 22 and is therefore not the subject of a licence (to use the Intellectual Property to manufacture and market the Product) under cl 3.1 of the Agreement, ResMed has manufactured, supplied, offered for sale, sold and exported from Australia the Mirage Masks, and each Relevant Mask possesses the integers of certain claims of the Patent, and so ResMed has infringed the Patent ( 27---34 ).</sentence>
+<sentence id="s70">Claim in respect of ResMed's Patents and Designs 
+ 
+33 Paragraphs 35---48 of the FASOC plead a claim in respect of patents and designs that have been registered by ResMed.</sentence>
+<sentence id="s71">In summary, it is alleged that in breach of cl 3 (which, it will be recalled, limits the permitted use of the Intellectual Property) and cl 11 (which, it will be recalled, relates to discoveries or improvements made by ResMed) of the Agreement, ResMed has used the Intellectual Property or the discoveries or improvements by incorporating the Intellectual Property, discoveries or improvements in numerous patents and designs that it (ResMed) has caused to be registered (Patents and Designs).</sentence>
+<sentence id="s72">The Patents and Designs are particularised in Annexure A to the FASOC.</sentence>
+<sentence id="s73">Annexure A identifies in paras (a) to (v), 22 elements that constitute the "elements of the Intellectual Property".</sentence>
+<sentence id="s74">Section 1 of Annexure A lists the Patents and Section 2 of Annexure A lists the Designs, in which the respective elements of the Intellectual Property, discoveries or improvements are said to have been "disclosed", "incorporated" or "included".</sentence>
+<sentence id="s75">34 The University alleges that the University is the rightful owner of the Patents and Designs, and that ResMed holds them on a constructive trust for the University ( 40, 43 ).</sentence>
+<sentence id="s76">35 Further, or in the alternative, the various Australia-related acts pleaded in paras 28---30 amount to the exercise by ResMed of rights in or pursuant to certain of the Patents and Designs, and the making, supplying, offering for sale, and selling of products which incorporate the invention the subject of certain of the Patents and which embody certain of the Designs ( 46 ).</sentence>
+<sentence id="s77">Particulars are set out in Annexure C to the FASOC.</sentence>
+<sentence id="s78">36 ResMed is liable to account to the University for the profits that have accrued to ResMed as a result of any of the activities referred to in para 46 ( 47 ), or the University has suffered loss and damage as a result of the failure of the Respondent to take steps to assign to the University the Patents and Designs ( 48 ).</sentence>
+<sentence id="s79">CONSIDERATION 
+ General --- the Law 
+ 
+37 Discovery in the Court is regulated by O 15 of the Federal Court Rules (Rules).</sentence>
+<sentence id="s80">Practice Note 14 (Discovery) of 1999 is also relevant.</sentence>
+<sentence id="s81">It is the Practice Note that refers to the possible desirability of discovery taking place according to "categories".</sentence>
+<sentence id="s82">38 On 19 December 2007 I directed that each party serve on the other a list of categories of documents of which it would seek discovery, and that each party notify the other of any categories that were disputed.</sentence>
+<sentence id="s83">39 Subject to the amendment mentioned at [1] above, categories of which the University seeks discovery from ResMed and which are disputed are the categories set out in the annexure to these reasons.</sentence>
+<sentence id="s84">40 I had occasion to discuss the relationship between discovery by "categories of documents" and O 15 of the Rules in Australian Competition &amp; Consumer Commission v Advanced Medical Institute Pty Ltd [2005] FCA 366 and Aveling v UBS Capital Markets Australia Holdings Ltd [2005] FCA 415 ( Aveling ).</sentence>
+<sentence id="s85">In Aveling , I observed (at [10]) that the principles that should guide parties in arriving at descriptions of categories of documents for discovery are the very principles that guide the Court when ordering discovery.</sentence>
+<sentence id="s86">Those principles are found in O 15 r 2(3), (4), (5) and (6) of the Rules which provide:
+ 
+ 
+ (3) ..., the documents required to be disclosed are any of the following documents of which the party giving discovery is, after a reasonable search, aware at the time discovery is given:
+ (a) documents on which the party relies; and
+ (b) documents that adversely affect the party's own case; and
+ (c) documents that adversely affect another party's case; and
+ (d) documents that support another party's case.</sentence>
+<sentence id="s87">
+ 
+ 
+ 
+ (4) However, a document is not required to be disclosed if the party giving discovery reasonably believes that the document is already in the possession, custody or control of the party to whom discovery is given.</sentence>
+<sentence id="s88">
+ 
+ (5) For subrule (3), in making a reasonable search, a party may take into account: 
+ 
+ (a) the nature and complexity of the proceedings; and
+ (b) the number of documents involved; and
+ (c) the ease and cost of retrieving a document; and
+ (d) the significance of any document likely to be found; and
+ (e) any other relevant matter.</sentence>
+<sentence id="s89">
+ 
+ 
+ 
+ (6) If the party does not search for a category or class of document, the party must include in the list of documents a statement of the category or class of document not searched for and the reason why.</sentence>
+<sentence id="s90">
+ 
+
+In Aveling , I said at [11]:
+ It may be appropriate for parties to describe categories in terms which do not expressly incorporate the language of O 15 r 2(3), but that subrule should nonetheless govern the formulation of the categories.</sentence>
+<sentence id="s91">Alternatively, of course, the categories may be defined so as to incorporate expressly the terms of the subrule.</sentence>
+<sentence id="s92">Whatever approach is taken, it is important to understand that when, as happened in the present case, the Court orders discovery by categories to be notified by one party to another, the Court does not intend that the notifying party be at liberty to widen the discovery obligation beyond the four classes of documents referred to in O 15 r 2(3).</sentence>
+<sentence id="s93">41 Any description of categories of documents to be discovered should be arrived at, whether by the Court or by the parties, in the light of the standard laid down in the rules set out above.</sentence>
+<sentence id="s94">It is not clear to me that the parties have approached the question in this way.</sentence>
+<sentence id="s95">The question for me on the present motion is whether the disputed categories satisfy the rules.</sentence>
+<sentence id="s96">It is often difficult for the Court to be certain that documents falling within a particular category description fall within the rules.</sentence>
+<sentence id="s97">42 It would be permissible for a category to be identified as documents that satisfy both of two conditions: (1) a description of a class of document; and (2) subrules (3), (4) and (5) of rule 2 (the effect of which subrules could be set out in appropriate form).</sentence>
+<sentence id="s98">This approach would at least ensure that the documents sought did not exceed either the range of documents referred to in the rules, or the bounds of the category descriptions.</sentence>
+<sentence id="s99">43 What I have said in the last two paragraphs may or may not assist the parties in resolving their dispute.</sentence>
+<sentence id="s100">I appreciate that it may not address the question of the "oppressiveness of the search".</sentence>
+<sentence id="s101">General --- the FASOC and the Agreement 
+ 
+44 The FASOC proceeds on the basis that the Agreement, although it expired on 7 December 1992, was replaced or extended.</sentence>
+<sentence id="s102">When I refer to the Agreement, I am referring to the Agreement as originally in force and as extended.</sentence>
+<sentence id="s103">ResMed has pleaded in its further amended defence the facts establishing the renewal of the Agreement which took effect from 7 December 1992.</sentence>
+<sentence id="s104">So far as I know, however, when the Agreement was entered into its contemplated life was only the original term (from 1 January 1991 to 7 December 1992).</sentence>
+<sentence id="s105">45 According to the FASOC, the University makes the following claims:
+ 
+ 
+ (a) The Mirage Mask is a Product in respect of the selling of which ResMed was obliged to pay a licence fee to the University under cl 5 of the Agreement (FASOC paras 10---17);
+ (b) Each Mirage Mask is, or incorporates, an improvement in connection with the Intellectual Property made or discovered by ResMed of which the University became the owner (see cl 11 of the Agreement and paras 19---26F of the FASOC);
+ (c) Each Mirage Mask infringes the Patent (FASOC para 27---34);
+ (d) ResMed used the Intellectual Property for the purpose of applying for and obtaining the Patents and Designs in breach of the Agreement (see cl 3.3 of the Agreement and FASOC paras 35---40);
+ (e) ResMed has made discoveries or improvements in connection with the Intellectual Property (of which the University is the rightful owner) which have led to the obtaining of the Patents and Designs (of which the University is also the rightful owner) (cl 11 of the Agreement and FASOC paras 41---48).</sentence>
+<sentence id="s106">
+ 
+
+46 The parties' submissions referred to the effect of various provisions of the Agreement.</sentence>
+<sentence id="s107">As noted at [7] above, any opinions I express in these reasons as to the proper construction of the Agreement are not final.</sentence>
+<sentence id="s108">They are but an aspect of the exercise of my discretion on the question whether ResMed should be required to give discovery of the documents in the disputed categories.</sentence>
+<sentence id="s109">47 Schedule 2 to the Agreement disappoints as a setting forth of particulars of "trade marks, patents, copyrights, processes, know-how, registered designs and other like rights" (see the definition of "Intellectual Property" in cl 1 of the Agreement).</sentence>
+<sentence id="s110">Although para (a) refers explicitly to the Provisional Application alone, I think it also catches the Patent that was associated with it.</sentence>
+<sentence id="s111">48 Paragraph (b) in Schedule 2 is not limited to integers of the invention the subject of the Patent.</sentence>
+<sentence id="s112">Paragraph (b) refers to information and know-how relating to the "Nasal Mask" (subject to the two carve outs in para (b)).</sentence>
+<sentence id="s113">I cannot, for present purposes, be precise as to the meaning of "relating to", beyond saying that cl 3 of the Agreement suggests that the information and know-how are information and know-how:
+ 
+ 
+ &#8226; which the University possessed and of which it could grant a licence to ResMed on 17 May 1991; and
+ &#8226; which the University had the capacity in 1991 to furnish to ResMed in the ways identified in Schedule 7 to the Agreement (that is, by supplying to ResMed (1) a copy of the Provisional Application, (2) "detailed information" possessed by Associate Professor Colin Sullivan, and (3) a working prototype of the Nasal Mask).</sentence>
+<sentence id="s114">
+ 
+
+49 Schedule 4 similarly disappoints the reader's expectation of a setting forth of products and/or processes that arises from the definition of "Product" in cl 1 of the Agreement.</sentence>
+<sentence id="s115">As will be recalled, Schedule 4 contains only the words "Nasal Mask".</sentence>
+<sentence id="s116">However, the definition of "Product" also contains the words "which incorporate the use of the Intellectual Property".</sentence>
+<sentence id="s117">This raises a question as to whether those words are limiting as to the range of products and/or processes that could be within the term "Products", or are merely descriptive of such products and/or processes.</sentence>
+<sentence id="s118">50 The distinction between the relative pronouns "that" and "which" is discussed in various books on English usage: see, for example, Fowler's Modern English Usage , "that" (relative pronoun) 3, 4; The Penquin Working Words "that/which" and "clause"; Gower's The Complete Plain Words (HMSO 1973), (xiv) "Which" and "that", pp 142---145; Strunk and White, The Elements of Style (4 th edition, 2000) "That.</sentence>
+<sentence id="s119">Which.".</sentence>
+<sentence id="s120">Purists say that the relative pronoun "that" defines, limits, restricts or qualifies, whereas the relative pronoun "which" does not do so but introduces a feature or characteristic of something that has already been defined.</sentence>
+<sentence id="s121">According to this view, the words "which incorporate the use of the Intellectual Property" in the definition of "Product" are not restrictive (as the expression "that incorporate the use of the Intellectual Property" would have been) so that the product is simply "the products and/or processes set forth in Schedule 4".</sentence>
+<sentence id="s122">51 As the books to which I have referred make clear, however, it would be quite unsafe to rely on the that/which distinction.</sentence>
+<sentence id="s123">The English language is not used with close attention to such niceties, even by drafters of contracts.</sentence>
+<sentence id="s124">52 It seems to me that the expression "the Nasal Mask" in para (b) of Schedule 2 and in Schedule 4 is a reference to the "Nasal Mask" mentioned in para (a) of Schedule 2.</sentence>
+<sentence id="s125">In para (a), Nasal Mask is an invention, that invention being the subject of the Provisional Application and later of the Patent itself.</sentence>
+<sentence id="s126">53 On this view, even if the expression "which incorporate the use of the Intellectual Property" were to be considered definitional, the Nasal Mask incorporates at least that part of the Intellectual Property that is the invention that was the subject of the Provisional Application.</sentence>
+<sentence id="s127">54 I need not decide questions of construction now.</sentence>
+<sentence id="s128">They can await the final hearing.</sentence>
+<sentence id="s129">For present purposes, it is important that the definition "Intellectual Property" may include information and know-how, the use of which was not incorporated in the Product, and that merely relates to the Product.</sentence>
+<sentence id="s130">The Product itself need not have incorporated the use of all of the Intellectual Property.</sentence>
+<sentence id="s131">In particular, it need not have incorporated the use of the information and know-how "relating to" the invention (the Nasal Mask) that the University undertook by cl 3.2 to supply to ResMed.</sentence>
+<sentence id="s132">55 The FASOC does not allege that the University supplied any information or know-how to ResMed in performance of its obligation under cl 3.2.</sentence>
+<sentence id="s133">It is conceivable, I suppose, that the University's case will be that ResMed acquired information and know-how that related to the Nasal Mask, whether forming part of the invention or not, otherwise than by being supplied with that information and know-how by the University pursuant to cl 3.2.</sentence>
+<sentence id="s134">The University should be required to clarify what its case is in this respect.</sentence>
+<sentence id="s135">It should be required to plead facts as to the supply of information or know-how by the University to ResMed pursuant to cl 3.2, or as to the acquisition by ResMed of information and know-how outside cl 3.2, if this is indeed the University's case.</sentence>
+<sentence id="s136">56 Although ResMed is critical of the University's FASOC in this respect, ResMed has not sought any relief in respect of the FASOC and it is on the FASOC as it exists that I am required to determine the present discovery dispute.</sentence>
+<sentence id="s137">57 Arguably, contrary to para 15 of the FASOC, each Mirage Mask was not within the expression "Product" because it was not the Nasal Mask referred to in Schedule 4.</sentence>
+<sentence id="s138">On this view, it may incorporate some integers of the invention being the Nasal Mask, but not fall within the term "Nasal Mask" itself.</sentence>
+<sentence id="s139">On this basis, the University's claim for royalties based on cl 5 and Schedule 3 in respect of the sales of the Mirage Masks would be without foundation.</sentence>
+<sentence id="s140">58 If this view were to prevail, attention would still have to be given to the University's claim pursuant to cl 11 of the Agreement (paras 19ff of the FASOC).</sentence>
+<sentence id="s141">That claim is very broad.</sentence>
+<sentence id="s142">Paragraph 22 asserts that if any Mirage Mask is not within the defined term "Product", it nonetheless is or incorporates "a discovery or improvement in connection with the Intellectual Property, whether patentable or not" within cl 11 of the Agreement.</sentence>
+<sentence id="s143">It will be recalled that the Intellectual Property comprises the Nasal Mask, and the University's information and know-how relating to that invention.</sentence>
+<sentence id="s144">The information and know-how relating to the invention is itself a broad concept.</sentence>
+<sentence id="s145">The notion of an "improvement in connection with" that already broad concept is broader still.</sentence>
+<sentence id="s146">ResMed must have made or contributed to the discovery or improvement.</sentence>
+<sentence id="s147">However, unlike the Intellectual Property itself, a discovery or improvement is not limited to the University's Nasal Mask invention and related information and know-how as at 1991 (see [48] above).</sentence>
+<sentence id="s148">59 In relation to discoveries and improvements, the University's claim is framed as one for damages or an accounting for profits, and an order for specific performance of an implied obligation to assign any intellectual property held by ResMed in any discovery or improvement.</sentence>
+<sentence id="s149">It will be recalled that under cl 11.1 of the Agreement, discoveries or improvements made by ResMed "in connection with the Intellectual Property" belong to and are the absolute property of the University.</sentence>
+<sentence id="s150">The University's case is, therefore, that the discoveries and improvements represented in the twelve Mirage Masks belong to and are the absolute property of the University.</sentence>
+<sentence id="s151">60 ResMed sought to distinguish between two cases advanced by the University.</sentence>
+<sentence id="s152">The first was referred to for convenience as "the objective case".</sentence>
+<sentence id="s153">This case was to be established simply by an objective comparison between each Mirage Mask and the Intellectual Property that was alleged to have been furnished by the University to ResMed or otherwise acquired by ResMed.</sentence>
+<sentence id="s154">According to the objective case, it is only the final form of each Mirage Mask that the University needs to have, and documents relating to the development of each Mirage Mask, as are sought in categories 4, 5, 6 and particularly 8, are not relevant.</sentence>
+<sentence id="s155">61 The second case was referred to for convenience as "the subjective case".</sentence>
+<sentence id="s156">This is the case that the University supports in its submissions.</sentence>
+<sentence id="s157">This case was described by the University as being that the Intellectual Property was as a matter of fact used in the creation of each Mirage Mask, notwithstanding that this may not be apparent from an objective comparison of the kind described in the last paragraph.</sentence>
+<sentence id="s158">That is, it suffices that there is a causal link between the Intellectual Property and each Mirage Mask.</sentence>
+<sentence id="s159">62 ResMed submits that the subjective case is not pleaded by the University.</sentence>
+<sentence id="s160">It says that although the University pleads that various elements of the Intellectual Property were "incorporated" into each Mirage Mask, it has pleaded and particularised (whether in the FASOC or in response to a request for further and better particulars) those elements only by reference to physical features of a product.</sentence>
+<sentence id="s161">ResMed submits that in these circumstances, the question of whether those features have been incorporated into each Mirage Mask must be capable of being answered by a comparison involving the final form of each Mirage Mask.</sentence>
+<sentence id="s162">The documents relating to the development of each Mirage Mask, as are sought in categories 4, 5, 6 and particularly 8, are not, so ResMed contends, relevant to the University's case as pleaded.</sentence>
+<sentence id="s163">63 In answer to ResMed's submission, the University says it may be that a simple comparison between each Mirage Mask and the relevant element of Intellectual Property would be enough.</sentence>
+<sentence id="s164">However, it argues that it is not limited to that approach.</sentence>
+<sentence id="s165">It suffices, so the University submits, that ResMed has used the Intellectual Property to formulate or arrive at the final product.</sentence>
+<sentence id="s166">The University therefore contends for a broader reading of the term "incorporates".</sentence>
+<sentence id="s167">64 In my view, the University is not limited to the objective case by the FASOC and the particulars provided.</sentence>
+<sentence id="s168">For example, the FASOC alleges in para 15(g) that the Mirage Mask incorporates "information and know how relating to the nasal mask".</sentence>
+<sentence id="s169">The information and know-how referred to in that para is particularised by the University to be the elements of Intellectual Property referred to in Annexure A of the FASOC (with the exception of para (n)).</sentence>
+<sentence id="s170">Even though ResMed describes those elements as "physical features", their "incorporation" into a product may not be evident from a simple visual comparison.</sentence>
+<sentence id="s171">Similarly, in relation to paras 38 and 41 read with Annexure A, I do not think that the allegation of "incorporation" must be provable exclusively by a visual comparison.</sentence>
+<sentence id="s172">However, whether following discovery or not, the University must make this aspect of its case clearer in its pleading.</sentence>
+<sentence id="s173">(Opportunity should be taken to incorporate in the pleading all particulars, including those presently found in correspondence.</sentence>
+<sentence id="s174">)
+ The categories in dispute 
+ 
+65 I turn now to the categories in dispute.</sentence>
+<sentence id="s175">Category 4 
+ 
+66 There could be documents in this category that satisfy O 15 r 2(3) of the Rules.</sentence>
+<sentence id="s176">Such documents could adversely affect ResMed's case and support the University's case on the use of the Intellectual Property and of "discoveries and improvements".</sentence>
+<sentence id="s177">Category 5 
+ 
+67 The documents within this category could likewise adversely affect ResMed's case and assist the University's case on the use of the Intellectual Property and of "discoveries and improvements".</sentence>
+<sentence id="s178">However, the University must surely already have some evidence of disclosure of information by the University or by Professor Sullivan.</sentence>
+<sentence id="s179">Arguably ResMed should not be required to give discovery of documents in this category until the University has filed its own evidence relevant to the category.</sentence>
+<sentence id="s180">Category 6 
+ 
+68 Similarly, documents within this category could adversely affect ResMed's case and support the University's case on the use of the Intellectual Property and of "discoveries and improvements".</sentence>
+<sentence id="s181">Again, however, perhaps ResMed should be required to give discovery of the documents in this category until the University has filed its evidence relevant to the category.</sentence>
+<sentence id="s182">Category 8 
+ 
+69 The documents in this category could adversely affect ResMed's case or assist the University's case on the use of the Intellectual Property and of "discoveries and improvements".</sentence>
+<sentence id="s183">Category 15 
+ 
+70 According to ResMed's submission, the University has particularised in excess of 80 distinct patents and patent applications and in excess of 70 registered designs in Annexure A to the FASOC (I have not added them up).</sentence>
+<sentence id="s184">As mentioned, I do not propose to deal with issues of oppressiveness in these reasons.</sentence>
+<sentence id="s185">Documents in this category could adversely affect ResMed's case and support the University's case on the use of the Intellectual Property and of "discoveries and improvements".</sentence>
+<sentence id="s186">Category 25 
+ 
+71 I note that ResMed has agreed to provide the University with a list of all its facial masks and a list identifying "the parent of each family of Mirage Mask patents and designs (including applications) and the worldwide patents belonging to each family".</sentence>
+<sentence id="s187">I accept ResMed's submission that subpara (c) of para 25 is too broad.</sentence>
+<sentence id="s188">72 In relation to unpublished patent applications and design applications, ResMed submits that the category is "entirely speculative", because such applications may not have proceeded or may not proceed.</sentence>
+<sentence id="s189">I accept ResMed's submission that there is no pleaded basis for their inclusion.</sentence>
+<sentence id="s190">73 However, ResMed has indicated its willingness to provide to the University a list of the titles of all unpublished patent applications and design applications that concern facial masks, and, upon the relevant request being made, copies of each such application.</sentence>
+<sentence id="s191">The provision of those documents would be subject to appropriate confidentiality undertakings being given.</sentence>
+<sentence id="s192">I accept ResMed's submission that:
+ ... this discovery category should not be the subject of an ongoing obligation of discovery, which would have the effect of imposing an obligation on ResMed to provide to the University details of its research and development program for the duration of these proceedings.</sentence>
+<sentence id="s193">Category 26 
+ 
+74 ResMed submits that the documents in other undisputed categories that it has agreed to discover should satisfy the University's need.</sentence>
+<sentence id="s194">Category 26 goes to quantification of loss.</sentence>
+<sentence id="s195">The licence fees that ResMed was to pay to the University were to be paid in the manner and at the time set forth in Schedule 3 to the Agreement which provided for payment of the licence fee of a certain percentage of the "Net Ex-works Selling Price of all Product sold".</sentence>
+<sentence id="s196">Clause 1 of the Agreement defined "Net Ex-Works Selling Price".</sentence>
+<sentence id="s197">The definition referred to the price charged by ResMed to "arm's length" distributors.</sentence>
+<sentence id="s198">The definition stated that if there was no "arm's length" distributor, the relevant price was to be that at which ResMed and the University agreed the Product would be sold to an arm's length distributor.</sentence>
+<sentence id="s199">75 Counsel for the University explained that ResMed manufactured masks in Sydney but sold them to, inter alia, other companies in the ResMed group, including companies that are not subsidiaries of ResMed but are subsidiaries of an ultimate parent company.</sentence>
+<sentence id="s200">There is a question whether ResMed must pay licence fees in respect of sales to companies within its group or whether it must pay them on sales to third parties outside the group.</sentence>
+<sentence id="s201">The question is thus raised whether other companies in the ResMed group are "arm's length" distributors, or whether that notion refers only to "genuine third parties".</sentence>
+<sentence id="s202">Counsel for the University explains that category 26 "is simply directed to documents which would record the evolution of the corporate structure so that [the University] can just have some information as to how this group is, in fact, arranged now and was [arranged] at relevant times relevant to the proceedings".</sentence>
+<sentence id="s203">He states that the University expected that a corporate structure diagram would suffice.</sentence>
+<sentence id="s204">76 In one way or another, the University is entitled to obtain the information that is sought, but there is a means to achieve the University's objective without the imposition on ResMed of the burden of discovering all documents that exist that describe or summarise the historical evolution of the structure of the ResMed group.</sentence>
+<sentence id="s205">I will direct ResMed to provide an affidavit by a responsible officer setting out, whether in the form of an annexed corporate structure diagram or otherwise, the evolution of the ResMed group of companies including:
+ 
+ 
+ &#8226; the holding of the shares in them; 
+ &#8226; the relationship between ResMed and the companies in the group to which it has supplied any of the Mirage Masks; and 
+ &#8226; the identification of those companies in the group that have sold any of the Mirage Masks emanating from ResMed to third parties outside the group.</sentence>
+<sentence id="s206">
+ 
+ General 
+ 
+77 The University's case promises to be complex, but, as counsel for the University observes, this does not mean that it must be denied discovery.</sentence>
+<sentence id="s207">Counsel for ResMed describes the University's case as "unorthodox".</sentence>
+<sentence id="s208">78 The question for me is how to balance the interests of both parties at this stage of the proceeding, having regard to the demands of justice.</sentence>
+<sentence id="s209">79 I note again that I have not dealt with ResMed's substantial evidence of oppressiveness.</sentence>
+<sentence id="s210">80 I have indicated above that in the case of some of the categories, there is a case for deciding that discovery should await the filing of evidence by the University on particular issues.</sentence>
+<sentence id="s211">The course of requiring evidence prior to discovery is not novel: see, for example, Australian Competition and Consumer Commission v Qantas Airways Ltd [2003] FCA 907 esp at [4].</sentence>
+<sentence id="s212">As Gyles J there observed, experience shows that the filing of affidavits often brings to light many documents.</sentence>
+<sentence id="s213">I appreciate that this may prove to be an exceptional case in this respect and that it is conceivable that it would be appropriate for the University to be granted leave to file further affidavits after discovery has taken place.</sentence>
+<sentence id="s214">81 Another possible course is to give the parties a further opportunity to consider the category descriptions in the light of what I have said, especially at [37]ff above.</sentence>
+<sentence id="s215">ResMed will have to give discovery at some stage and it may be preferable that this take place now rather than later.</sentence>
+<sentence id="s216">82 In the course of the hearing, counsel for the University suggested two variations to the categories of documents to be discovered at this stage.</sentence>
+<sentence id="s217">The first was to limit the documents sought in categories 4, 6 and 8 to those created before 31 December 1998 (category 5 is already limited in this respect).</sentence>
+<sentence id="s218">The second was to limit the documents sought in categories 4, 6 and 8 by reference to the first in the series of Mirage Masks alone (being the "original" Mirage Mask referred to in para 14(i)(A) of the FASOC).</sentence>
+<sentence id="s219">(Counsel also announced that category 15(a) is no longer pressed.</sentence>
+<sentence id="s220">)
+ 
+83 Counsel for ResMed indicated that this suggestion was not particularly helpful so long as the University reserved the right to return to the present categories after the first phase of discovery if the University considered that further discovery was both necessary and useful.</sentence>
+<sentence id="s221">84 Discovery in stages is referred to in Practice Note 14 (Discovery) of 1999 as a device that might reduce the burden of discovery in some cases.</sentence>
+<sentence id="s222">If ResMed believes that there is no possibility of the University's suggestion reducing the burden of discovery, it is not obvious why that suggestion should be forced on ResMed.</sentence>
+<sentence id="s223">However, ResMed should be required to provide a short affidavit as to the difference (in terms of burden) between giving discovery in the proposed first stage and giving discovery of all documents sought in the disputed categories.</sentence>
+<sentence id="s224">85 ResMed has agreed to give discovery of certain other categories not in dispute and to provide certain information, referred to in the above reasons.</sentence>
+<sentence id="s225">It must do so.</sentence>
+<sentence id="s226">86 If the parties find that they cannot reach agreement in the light of my reasons above, I will publish the remainder of my reasons and make orders.</sentence>
+<sentence id="s227">CONCLUSION 
+ 
+87 At this stage, the proceeding will be simply listed for directions.</sentence>
+<sentence id="s228">I certify that the preceding eighty-seven (87) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s229">Associate:
+
+Dated: 4 July 2008
+
+
+
+ Counsel for the Applicant/Cross-Respondent: Mr CA Moore and Mr N Murray 
+ 
+ Solicitor for the Applicant/Cross-Respondent: Mallesons Stephen Jaques 
+ 
+ Counsel for the Respondent/Cross-Claimant: Mr S Burley SC and Mr AR Lang 
+ 
+ Solicitor for the Respondent/Cross-Claimant: Gilbert &amp; Tobin 
+
+ Date of Hearing: 29 May, 10 June 2008 
+ 
+ Date of Judgment: 4 July 2008 
+
+ ANNEXURE A 
+ 
+ Categories for discovery by the Respondent Schedule of contested categories Category Form of category pressed by Applicant at hearing of motion 4 All documents recording, evidencing or comprising: (a) any consideration, assessment, analysis or opinion concerning the provision of a seal between the mask and the face of the wearer of any of the Mirage Masks or of any prototype of any of the Mirage Masks (but not solely concerning head straps or forehead supports); or (b) any comparison between what is described by ResMed as "the Bubble Mask" or "Bubble Cushion" and any of the Mirage Masks.</sentence>
+<sentence id="s230">5 All documents created before 31 December 1998 recording or evidencing the disclosure of any information from the University or Professor Colin Sullivan to ResMed concerning what is described by ResMed as the "Bubble Mask" or "Bubble Cushion", including without limitation: (a) any prototype or example of such a mask; and (b) any information concerning the development of the mask, the development of any prototype of the mask, the operation, features or benefits of the mask, or any methods or materials for the construction or manufacture of the mask.</sentence>
+<sentence id="s231">6 All documents recording or evidencing any development work or other work performed by Professor Colin Sullivan in conjunction with ResMed on: (a) what is described by ResMed as the "Bubble Mask" or "Bubble Cushion", including the Series III; and (b) any of the Mirage Masks or any prototype of those masks.</sentence>
+<sentence id="s232">8 All documents recording, evidencing or concerning the development of the Mirage Masks, or any mask in that series, including any prototypes of those masks, but excluding documents concerning only the materials for use or the manufacturing process.</sentence>
+<sentence id="s233">15 All documents recording, evidencing or comprising: (a) the development of the inventions or designs disclosed in the Patents and Designs; (b) the following, insofar as they concern the provision of a seal between the mask and the face of the wearer: (1) the formulation or drafting of the Australian, European and United States Patents and Designs; (2) the application for and prosecution of the Patents and Designs in Australia, Europe and the United States; (3) the making of any arguments, or provision of any information, in support of (1) or (2); or (4) any internal or other consideration of, or advice received in relation to, (1), (2) or (3).</sentence>
+<sentence id="s234">25 All documents comprising any patent, patent application design or design application for: (a) any Mirage Mask; (b) any mask incorporating a flexible membrane of the same or a similar type to the membrane of any Mirage Mask; or (c) any aspect of any mask in (a) or (b), other than an aspect concerning head straps, forehead supports, air inlet or delivery hose attachment features, or vents for release of expired or delivered air, except that where there are no documents in English in the possession, custody or power of the Respondent comprising these patents, patent applications, designs and design applications, then all English language documents recording or evidencing them.</sentence>
+<sentence id="s235">26 All documents which describe or summarise the historical evolution of the structure of the ResMed Group.</sentence>
+<sentence id="s236">In these categories: 
+ 
+ &#8226; a reference to the Licence Agreement is a reference to the agreement pleaded in paragraph 9 of the Further Amended Statement of Claim, and further or alternatively the agreement described in paragraph 9.2 of the Amended Defence;
+ &#8226; a reference to the Mirage Mask or Mirage Masks is to any of the masks listed in the particulars to paragraph 14 of the Further Amended Statement of Claim;
+ &#8226; a reference to the Patents and Designs is a reference to the patents, patent applications and designs particularised in Annexure A to the Further Amended Statement of Claim; and
+ &#8226; a reference to the ResMed Group is to the group of companies defined in paragraph 4 of the Further Amended Statement of Claim.</sentence>
+<sentence id="s237">
+ 
+ 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1020.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<case>
+<name>Optiver Australia Pty Ltd v Tibra Trading Pty Ltd [2009] FCA 61 (6 February 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/61.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">preliminary discovery</catchphrase>
+<catchphrase "id=c1">form of orders for discovery of documents and computer codes</catchphrase>
+<catchphrase "id=c2">level of discovery which should be made</catchphrase>
+<catchphrase "id=c3">form of confidentiality orders</catchphrase>
+<catchphrase "id=c4">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ These reasons concern the orders (including confidentiality orders) to be made in relation to the preliminary discovery application by Optiver Australia Pty Ltd (Optiver), consequent on the High Court dismissing an application for special leave to appeal from a judgment of the Full Court in Optiver Australia Pty Ltd v Tibra Trading Pty Ltd (2008) 169 FCR 435 , as well as incidental orders as to the costs of the hearings on 3 October 2007 and 30 November 2007.</sentence>
+<sentence id="s1">GENERAL OR PARTICULAR ORDERS 
+ The form of orders sought by Optiver (the proposed Orders) were furnished to the Court on 18 December 2008.</sentence>
+<sentence id="s2">Proposed Order 1 sought an order in the following terms: The Respondents and each of them give verified discovery to the Applicant within 7 days of the making of this Order of all Documents in their possession, custody or power which relate to the question whether the Applicant has the right to obtain relief against the Respondents, or any of them, for any one or more of the following causes of action:
+ (a) infringement of the Applicant's copyright in any Optiver Programs or Documents being related literary works, pursuant to the Copyright Act 1968 (Cth); and (b) breach of confidence in equity relating to, or arising from, directly or indirectly the Optiver Programs.</sentence>
+<sentence id="s3">Order 2 as proposed by Optiver is expressed to be without limiting Order 1, and particularises a series of detailed orders relating to computer program source codes and object codes, to be produced by the Respondents within 7 days.</sentence>
+<sentence id="s4">The first to ninth respondents (Tibra) submit that, in the circumstances, proposed Order 1 is oppressive and unnecessary and that, by formulating proposed Order 2, Optiver in an exhaustive way has identified documents which would provide it with sufficient information to enable a decision to be made whether to commence proceedings.</sentence>
+<sentence id="s5">In my view, the preferable course at this stage is to make specific orders rather than the vague general orders proposed by Optiver, subject to specific subclauses of Proposed Order 2.</sentence>
+<sentence id="s6">If, after this specific discovery has been made, there is shown to be a need for further discovery, a subsequent application can be made by Optiver.</sentence>
+<sentence id="s7">PROPOSED ORDER 2 --- SOURCE CODES AND OBJECT CODES 
+ Optiver seeks in proposed Order 2 a series of documents including all versions, whether current, archived, deleted or otherwise, comprising or relating to source codes and object codes for Optiver Computer programs.</sentence>
+<sentence id="s8">The expression "Optiver programs" is defined to mean twelve specific programs in a definition to the Proposed Minutes of Order, and "documents" is given the meaning in O 1 r 4 of the Federal Court Rules and this covers a broad range of records.</sentence>
+<sentence id="s9">The definition of "functions" in the proposed orders refers to groups of program functions.</sentence>
+<sentence id="s10">Under proposed Order 2, documents relating to source and object codes and any historical source code repository are sought, together with source codes for share auto trading.</sentence>
+<sentence id="s11">Also included in the proposed order are all source code revision logs relating to the development of computer programs and documents evidencing communications as to the location of programs and the source or origin of computer programs that perform any of the functions, as defined.</sentence>
+<sentence id="s12">An affidavit was filed on behalf of Tibra by Mr Andrew King (Mr King), sworn on 17 December 2008.</sentence>
+<sentence id="s13">Mr King is the eighth respondent in the proceedings and he is employed by Tibra Global, the fourth respondent.</sentence>
+<sentence id="s14">He is an experienced software developer.</sentence>
+<sentence id="s15">He points out that the source code repository is an historical facility which stores source codes written by software developers for Tibra Global's computer programs.</sentence>
+<sentence id="s16">During his employment with Optiver, Mr King worked on maintaining an automated trading program for twelve months, and was a team leader of the relevant project for approximately six months.</sentence>
+<sentence id="s17">He says that in relation to the expression "functions as defined in proposed draft orders," the programs did not perform some of those functions mentioned.</sentence>
+<sentence id="s18">In relation to the difficulty, cost and expense of production of the documents sought in Order 2, Mr King says there are approximately 35 software developers world-wide employed at Tibra Global, with many additional staff involved in the production of trading systems, and that there would need to be at least 35 hard disk drives that would need to be duplicated to provide a digital copy for inspection by an independent expert.</sentence>
+<sentence id="s19">He says that approximately 30 percent of the hard disk drives are not located in Australia and that it would take at least one to three hours for each hard disk drive to be imaged in relation to the production to the disk drives data storage disks and memory sticks by the fifth to ninth respondents.</sentence>
+<sentence id="s20">Mr King notes that Optiver has not limited its requests for production of the documents as to time, and says that compliance would involve a major interruption to work performed by each of the fifth to ninth respondents.</sentence>
+<sentence id="s21">Mr King refers to the expression "object code," in respect of which the records are sought.</sentence>
+<sentence id="s22">He explained that computer programs are developed in stages and in the first stage a series of documents in a particular programming language are written in a way similar to writing which can be understood by humans.</sentence>
+<sentence id="s23">These documents are known as the "source code" and cannot be used by a computer.</sentence>
+<sentence id="s24">The second stage involves use of a compiler, which is a computer program that understands the programming language and which converts the source code into an object code.</sentence>
+<sentence id="s25">The latter is only created if the compiler can understand the source code, so that the object code is the final working computer program understandable by a computer which is used to run the computer.</sentence>
+<sentence id="s26">Where development involves a continual compiling of the source code into an object code this can involve carrying out the above process at least twenty times a day.</sentence>
+<sentence id="s27">When a particular code is satisfactorily developed then the change will be committed to the historical source code repository.</sentence>
+<sentence id="s28">Object codes are not stored.</sentence>
+<sentence id="s29">However, source codes are stored and if an object code is required in order to use a program at a later date the source code is run through the compiler.</sentence>
+<sentence id="s30">Mr King's evidence is that to produce an object code for a particular version of the source code it would be necessary to obtain the source code from the historical source repository and run the program.</sentence>
+<sentence id="s31">He says that the automated trading application the subject of this proceeding was developed between June 2006 and December 2008, and there have been approximately 10,000 different versions or iterations of the source code developed collectively, and that in order to produce the object code for each of the 10,000 versions held in the repository of Tibra Global it would take in the order of 20,000 hours.</sentence>
+<sentence id="s32">The evidence of Mr King was not challenged.</sentence>
+<sentence id="s33">In the light of the above, Tibra contend that the discovery sought in Order 2 is excessive.</sentence>
+<sentence id="s34">In relation to a number of the paragraphs in Order 2, no time period is specified.</sentence>
+<sentence id="s35">The relevant time frame is over about two and a half years.</sentence>
+<sentence id="s36">However, in regard to the evidence of various versions of the programs over time and the importance of later versions in determining whether there has been a use of the original programs, I do not consider that the existence of a time limitation is determinative.</sentence>
+<sentence id="s37">The Full Court indicated that the current source code used by Tibra could be relevant but various iterations may, for example, bear the hallmark or footprints of copying from Optiver's program and information by and of indirect copying adaptations from intermediate versions.</sentence>
+<sentence id="s38">I agree that with regard to the continuing period of development of what is now the current Optiver program there may be a number of iterations of that program which may be relevant and I do not think the objection to specific dates or specific versions is appropriate.</sentence>
+<sentence id="s39">That is too restrictive.</sentence>
+<sentence id="s40">I do not therefore accept the submission by Tibra that Optiver's entitlement to inspect source codes should be limited to computer programs which performed the functions for example as at 5 September 2006 and 19 June 2007.</sentence>
+<sentence id="s41">Having regard to the evidence in relation to the close connection between the object code and the source code as stated by Mr King, I do not agree with the proposition that the relevance of the object code to Optiver's case has not been made evident.</sentence>
+<sentence id="s42">In the light of the material provided by Optiver on this application, I am not persuaded that the historical repository of source codes is irrelevant, nor am I persuaded that documents relating to it are unnecessary to enable a proper decision to be made under O 15A r 6 of the Federal Court Rules .</sentence>
+<sentence id="s43">Some objections to Proposed Order 2 were made by Tibra on the basis that some of the sub-paragraphs replicate documents that will be produced under other subparagraphs, however I do not think this is a sufficient ground for objecting to those paragraphs.</sentence>
+<sentence id="s44">Accordingly, my conclusion is that the documents as sought in Proposed Order 2 should be discovered.</sentence>
+<sentence id="s45">PROPOSED ORDER 4 - CONFIDENTIALITY REGIME 
+ Optiver's Short Minutes of Order provide for inspection by its solicitors within 21 days of all documents to be discovered, but specifies that access to computer codes and any documents for which confidentiality is claimed is to be limited to its solicitors and any independent expert Optiver may appoint, provided that those inspecting the documents and codes had signed a specific detailed Confidentiality undertaking.</sentence>
+<sentence id="s46">The role of the independent expert is to consider the material produced and advise Optiver's solicitors whether there is sufficient material to support the making of a claim.</sentence>
+<sentence id="s47">This is to be done on the basis that there is no disclosure of the material to Optiver.</sentence>
+<sentence id="s48">Tibra seek to know the name of the expert before inspection takes place and this, in my view, is a reasonable request.</sentence>
+<sentence id="s49">Tibra also wish to have a copy of the expert's report given to their solicitors, to ensure that the report does not disclose any sensitive information to Optiver.</sentence>
+<sentence id="s50">Again, this in my view is a reasonable request Tibra propose that the discovered material be lodged with an independent third party, such as PriceWaterhouseCooper, to be kept at the premises of the third party and to be inspected by arrangement with the third party.</sentence>
+<sentence id="s51">Optiver objects to this proposal on the basis that it is expensive, time consuming and inconvenient, and submits that custody of the documents and control of access should be given to its solicitors, who have signed a stringent confidentiality undertaking.</sentence>
+<sentence id="s52">In my view, having regard to the matters raised by Optiver, there is no justification or necessity for third party custody in this matter.</sentence>
+<sentence id="s53">Optiver's solicitors will be subject to a confidentiality undertaking, and they are officers of the Court.</sentence>
+<sentence id="s54">This is a sufficient protection of confidentiality.</sentence>
+<sentence id="s55">There is no basis for believing that the solicitors or the expert will fail to fulfil their obligations pursuant the undertaking, or as officers of the Court.</sentence>
+<sentence id="s56">See Seven Network Ltd v News Ltd (No 3) [2004] FCA 836 at [25] .</sentence>
+<sentence id="s57">COSTS 
+ There is basic agreement between the parties as to the costs of the earlier proceedings, and of this proceeding.</sentence>
+<sentence id="s58">The only point of difference is minor and semantic, but for the sake of clarity I would delete the words "applies fully" and substitute the words "has observed its lists of documents" in accordance with the suggestions of the respondent.</sentence>
+<sentence id="s59">I direct the parties to bring in Short Minutes to give effect to these reasons at a suitable time to be arranged with my associate.</sentence>
+<sentence id="s60">I certify that the preceding twenty-six (26) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tamberlin.</sentence>
+<sentence id="s61">Associate:
+ 
+ 
+Dated: 6 February 2009
+ 
+ Counsel for the Applicant: Mr P. W. Flynn 
+ 
+ Counsel for the Respondents: Mr D. M. Yates SC 
+ 
+ Counsel for the Respondents: Mr A.</sentence>
+<sentence id="s62">Fox 
+ Date of Hearing: 18 December 2008 
+ 
+ Date of Judgment: 6 February 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/61.html 
+ 
+ </sentence>
+</sentences>
+</case>

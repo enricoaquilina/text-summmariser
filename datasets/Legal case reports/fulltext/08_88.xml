@@ -1,0 +1,349 @@
+<?xml version="1.0"?>
+<case>
+<name>Cadbury Schweppes Pty Ltd (ACN 004 551 473) v Amcor Limited (ACN 000 017 372) [2008] FCA 88 (19 February 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/88.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">legal professional privilege</catchphrase>
+<catchphrase "id=c1">advice privilege</catchphrase>
+<catchphrase "id=c2">litigation privilege</catchphrase>
+<catchphrase "id=c3">implied undertaking</catchphrase>
+<catchphrase "id=c4">public interest immunity</catchphrase>
+<catchphrase "id=c5">work product</catchphrase>
+<catchphrase "id=c6">draft witness statements and witness proofs</catchphrase>
+<catchphrase "id=c7">whether filing and service, without more, of witness statements constitutes waiver of privilege</catchphrase>
+<catchphrase "id=c8">distinction between privilege and implied undertaking</catchphrase>
+<catchphrase "id=c9">whether encouragement of cartel whistleblowers by protecting confidentiality of statements made to investigators presents a real public interest where there is no evidence that confidentiality was sought or that whistleblowers would be deterred from coming forward by lack of confidentiality</catchphrase>
+<catchphrase "id=c10">whether public regulatory agency's interest in guarding its work product presents a cognisable public interest</catchphrase>
+<catchphrase "id=c11">whether work product doctrine has a separate existence from legal professional privilege in australia</catchphrase>
+<catchphrase "id=c12">privilege</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 As is now well known, Visy Industries Holdings Pty Limited and related entities ("Visy") were ordered to pay approximately $36 million in penalties as a result of those entities colluding with Amcor Limited ("Amcor") to fix prices in the cardboard box market: Australian Competition and Consumer Commission v Visy Industries Holdings Pty Limited (No 3) (2007) ATPR 42-185 ("the ACCC proceeding" or "penalty proceeding").</sentence>
+<sentence id="s1">This proceeding is one of a number of ancillary proceedings in which allegations of the same or similar conduct are made.</sentence>
+<sentence id="s2">It is an action brought by the applicant, Cadbury Schweppes Pty Ltd ("Cadbury"), against Amcor for damages under the Trade Practices Act 1974 (Cth) ("the damages proceedings").</sentence>
+<sentence id="s3">Visy has been joined by Amcor as a respondent to Amcor's cross claim in the damages proceedings.</sentence>
+<sentence id="s4">2 An interlocutory dispute has arisen in the damages proceedings.</sentence>
+<sentence id="s5">The Australian Competition and Consumer Commission ("ACCC") makes a claim for legal professional privilege and public interest immunity privilege in relation to specified documents created in connection with the ACCC proceeding.</sentence>
+<sentence id="s6">Amcor and Visy have discovered the documents in the damages proceedings, but the ACCC seeks to prevent them from producing those documents to Cadbury on discovery.</sentence>
+<sentence id="s7">3 Specifically, the ACCC contends that legal professional privilege held by it prevents Amcor and Visy's production to Cadbury of the following three categories of documents:
+ 
+ (1) Six witness statements - of which three were drafted by Amcor's external solicitors at the direction of the ACCC and three were drafted by ACCC staff and then forwarded to Amcor's in-house counsel.</sentence>
+<sentence id="s8">Copies of the statements were retained by Amcor's external solicitors and Amcor respectively.</sentence>
+<sentence id="s9">Each of the 6 statements summarises statements made by Amcor employees to ACCC investigators in the course of the Visy investigation (Category I);
+ (2) 111 witness proofs, summarizing statements made to ACCC investigators, drafted by the ACCC in the ACCC proceedings and, at the direction of the Court, filed and served on Visy in those proceedings (Category II); and
+ (3) Eight specified witness proofs from Amcor employees which, although a subset of the 111 witness proofs in Category II, are alleged to be protected from disclosure by public interest immunity in addition to legal professional privilege (Category III).</sentence>
+<sentence id="s10">The documents in each category are listed in Appendix A.</sentence>
+<sentence id="s11">
+
+4 Cadbury contends that the claimed privilege either does not exist or has been waived by the ACCC.</sentence>
+<sentence id="s12">5 For the reasons that follow, I reject the ACCC's claims of privilege, except as to the documents in Category I.</sentence>
+<sentence id="s13">However, production of the 111 witness proofs forming Categories II and III will be stayed for further consideration of whether Visy's implied undertaking to the Court not to use documents produced by other parties in the course of the ACCC proceedings except in those proceedings should prevent their disclosure to Cadbury in the damages proceedings.</sentence>
+<sentence id="s14">As these reasons for decision will demonstrate:
+ 
+ (1) Legal professional privilege of the ACCC exists in the Category I documents and has not been waived.</sentence>
+<sentence id="s15">The communications were for the dominant purpose of enabling the ACCC to prosecute the penalty proceedings.</sentence>
+<sentence id="s16">The ACCC's conduct in allowing Amcor and/or its external solicitors to make and retain copies for the purpose of advising Amcor constituted limited waiver of that privilege only;
+ (2) Any legal professional privilege in the Category II documents was waived when the documents were filed and served by the ACCC on Visy; 
+ (3) The ACCC cannot show that disclosure of the Category III documents will harm a real public interest such as to give rise to public interest immunity; and
+ (4) Visy's implied undertaking, an obligation distinct from legal professional privilege, to use the Category II and III documents only for a purpose relating to the ACCC proceedings may or may not still prevent production of those documents to Cadbury in these proceedings.</sentence>
+<sentence id="s17">
+ APPLICABLE LEGAL PRINCIPLES 
+ 
+6 It is clear, as the ACCC and Cadbury acknowledge, that the common law of Australia and not the Evidence Act 1995 (Cth) governs the dispute.</sentence>
+<sentence id="s18">Unfortunately, in the circumstances of this dispute, the precise nature and scope of the common law legal professional privilege is, in a word, unclear.</sentence>
+<sentence id="s19">As will be seen, almost immediately, the cases are not consistent in approach, legal principle or result.</sentence>
+<sentence id="s20">The High Court has not yet had reason to reconcile the particular but differing statements that are found in the cases decided by trial and intermediate courts.</sentence>
+<sentence id="s21">7 It is sufficient for present purposes to begin by stating that in order to maintain a claim of legal professional privilege, a proponent must demonstrate the communication is protected by "advice privilege" or "litigation privilege.</sentence>
+<sentence id="s22">" The relationship between the two types of legal professional privilege is just one of the matters that is unclear in Australian privilege law.</sentence>
+<sentence id="s23">Some cases support the proposition that "litigation privilege is a separate category of legal professional privilege ": Public Transport Authority of Western Australia v Leighton Contractors Pty Ltd [2007] WASCA 151 at [18] ; See also R v King [2007] 2 NZLR 137; Westgold Resources NL v St Barbara Mines Ltd [2007] WASC 47 ; Mitsubishi Electric Australia Pty Ltd v Victorian Work Cover Authority [2002] VSCA 59 ; (2002) 4 VR 332; Southern Equities Corporation Ltd v West Australian Government Holdings Ltd (1993) 10 WAR 1 and Dingle v Commonwealth Development Bank of Australia (1989) 23 FCR 63.</sentence>
+<sentence id="s24">On the other hand, it is also true that the " High Court has yet to make clear whether litigation privilege has an existence and rationale distinct from the advice privilege ": eg, Leighton [2007] WASCA 151 at [20] ; AWB Ltd v Cole [2006] FCA 571 ; (2006) 152 FCR 382; Ingot Capital Investments Pty Ltd v Macquarie Equity Capital Markets Ltd (2006) 67 NSWLR 91; Westpac Banking Corporation v 789Ten Pty Ltd (2005) 55 ACSR 519 and Pratt Holdings Pty Ltd v Commissioner of Taxation [2004] FCAFC 122 ; (2004) 136 FCR 357.</sentence>
+<sentence id="s25">8 With respect to advice privilege it was, until recently, uncontroversial that the proponent had to establish three elements: (1) a confidential communication, (2) between a lawyer and client, (3) made for the dominant purpose of giving or receiving legal advice: see Commissioner of Australian Federal Police v Propend Finance Pty Ltd [1997] HCA 3 ; (1997) 188 CLR 501, 508-09 (stating that a confidential lawyer-client relationship is required) and Esso Australia Resources Ltd v Commissioner of Taxation (Cth) [1999] HCA 67 ; (1999) 201 CLR 49 at [61] (adopting the dominant purpose test).</sentence>
+<sentence id="s26">The Full Court of the Federal Court has now dispensed with the second requirement, holding that third-party communications may come within the ambit of advice privilege: Pratt Holdings [2004] FCAFC 122 ; (2004) 136 FCR 357 at [49] , and [105].</sentence>
+<sentence id="s27">9 However, the witnesses whose statements are at issue here had no express agreement or arrangement relating to confidentiality at the time the statements were made.</sentence>
+<sentence id="s28">Indeed, the ACCC's own witness in the present application confirmed that Amcor made no attempt to seek confidentiality: see [28] below.</sentence>
+<sentence id="s29">And it was not suggested that any implied agreement relating to confidentiality of communications between any of the witnesses and the investigators can be identified.</sentence>
+<sentence id="s30">It follows that advice privilege cannot attach to communications between the witnesses and investigators.</sentence>
+<sentence id="s31">And it also follows that no advice privilege inherently attaches to any documents (ie, the witness statements) summarizing those communications (which is not to say that privilege could never attach to copies or summaries of the communications depending on the purpose for which the copies or summaries were created: see Propend [1997] HCA 3 ; (1997) 188 CLR 501).</sentence>
+<sentence id="s32">Accordingly, a claim of advice privilege fails with respect to all three categories of disputed documents.</sentence>
+<sentence id="s33">10 With respect to litigation privilege, on the other hand, the analysis is not so simple.</sentence>
+<sentence id="s34">It is clear that the privilege applies only to documents or communications if they are made or prepared (1) in anticipation of litigation (or during pending litigation) and (2) for the purpose of the litigation (eg, with a view to obtaining legal advice or evidence for use in the litigation): Leighton [2007] WASCA 151 at [12] .</sentence>
+<sentence id="s35">(That the documents in question here were all prepared at a time when litigation was anticipated or on foot was common ground.</sentence>
+<sentence id="s36">) A lawyer-client relationship is not required: Pratt Holdings [2004] FCAFC 122 ; (2004) 136 FCR 357.</sentence>
+<sentence id="s37">However, in contrast to the settled confidentiality requirement of the advice privilege, the authorities are divided as to whether litigation privilege may attach to communications (or documents summarizing communications) between a third-party, independent witness and a client even where they are not confidential: State of New South Wales v Jackson [2007] NSWCA 179 at [37] ( "There is some controversy over the need for confidentiality in litigation privilege at common law, and the controversy is particularly material to privilege for communications between client and third party" ); Leighton [2007] WASCA 151 at [21] - [30] (collecting and summarizing the conflicting authorities).</sentence>
+<sentence id="s38">The picture becomes even more complicated if one makes a further distinction, as some authorities do, based on whether such witness statements are found in the hands of the witness or in the hands of the lawyer: A Ligertwood, Australian Evidence (4 th ed) at 291-92, quoted in Leighton [2007] WASCA 151 at [26] .</sentence>
+<sentence id="s39">11 It is at this point that the doctrinal relationship between the advice and litigation branches of the privilege becomes relevant.</sentence>
+<sentence id="s40">As McLure JA noted in Leighton , the " High Court has made numerous general statements which, on their face, are capable of applying to all categories of legal professional privilege, to the effect that the privilege only attaches to confidential communications ": Leighton [2007] WASCA 151 at [22] .</sentence>
+<sentence id="s41">In fact, some of those general statements can be fairly read to support the view that confidentiality is required for all categories of legal professional privilege.</sentence>
+<sentence id="s42">For example, in remarks quoted by Brennan CJ in Propend [1997] HCA 3 ; (1997) 188 CLR 501 (at 508-09), Mason J stated in O'Reilly v State Bank of Victoria [1982] HCA 74 ; (1983) 153 CLR 1 at 22-23:
+ 
+ 
+ But if communications in written form are to be privileged they must still be confidential communications between solicitor and client made for the purpose of advice or for the purpose of use in existing or anticipated litigation.</sentence>
+<sentence id="s43">
+ 
+ 
+ 
+
+Be that as it may, I agree with McLure JA that the High Court has never squarely confronted the issue, leaving the field open for lower courts to take opposing views.</sentence>
+<sentence id="s44">12 As it turns out, however, the Court in this case is spared from having to enter the confidentiality thicket surrounding litigation privilege because of a concession made by Cadbury, " that [legal professional privilege] subsisted in each of the [Category II documents] immediately prior to [the documents] being served on Visy.</sentence>
+<sentence id="s45">" In its oral submissions, Cadbury clarified that what had appeared earlier to be a separate argument - that the communications by which the ACCC effected service of the Category II documents, although they may have captured the substance of earlier privileged communications, were not themselves privileged - was not an attempt to qualify or otherwise place conditions on this concession.</sentence>
+<sentence id="s46">In reliance on this concession and clarification, the ACCC refrained from calling evidence about the circumstances in which the "communications" were served and it was agreed between the parties that the only issue to be resolved is whether the ACCC waived privilege when it, at the direction of the Court, filed the documents and served them on Visy.</sentence>
+<sentence id="s47">13 The High Court looked at an aspect of waiver of legal professional privilege in Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1.</sentence>
+<sentence id="s48">The test applied there was whether there was " conduct inconsistent with the maintenance of the confidentiality which the privilege is intended to protect ": Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1 at [29] .</sentence>
+<sentence id="s49">The High Court has not looked directly at the immediate question now in issue.</sentence>
+<sentence id="s50">And decisions of trial and intermediate courts both pre and post Mann v Carnell have looked at the question but have not spoken with one voice.</sentence>
+<sentence id="s51">On the one hand, there is a body of authority supporting the proposition that " statements or affidavits filed and served in proceedings, but not read in open court, remain ... subject to legal professional privilege ": Liberty Funding Pty Ltd v Phoenix Capital Ltd (2005) 218 ALR 283 at [15] (citing Nilsen Industrial Electronics Pty Ltd v National Semiconductor Corporation (1994) 48 FCR 337; State Bank of South Australia v Smoothdale Ltd (No 2) (1995) 64 SASR 224; Akins v Abigroup Ltd (1998) 43 NSWLR 539; Sevic v Roarty [1998] NSWSC 462 ; (1998) 44 NSWLR 287); Spotless Group Ltd v Premier Building &amp; Consulting Pty Ltd [2006] VSCA 201 ; AMP Financial Planning Pty Ltd v CGU Insurance Ltd [2004] FCA 1196 ; Polyaire Pty Ltd v K-Aire Pty Ltd (2003) 226 LSJS 109 and ACCC v Telstra Corp Ltd [2000] FCA 28 ; (2000) 96 FCR 317.</sentence>
+<sentence id="s52">14 Because the Category II (and Category III) documents were never read in open court, the ACCC relies upon this line of authority in support of its contention that the privilege remains intact.</sentence>
+<sentence id="s53">15 On the other hand, there is also authority for the proposition that filing and service, without more, operates as a full or limited waiver: eg, Complete Technology Pty Ltd v Toshiba (Australia) Pty Ltd (1994) 53 FCR 125; Austress v Marlin [2002] NSWSC 958 ; Chief Executive Officer of Customs v Neate (1998) 144 FLR 373; Black &amp; Decker Inc v Flymo Ltd [1991] 1 WLR 753; In the Marriage of Crowe [1988] FLC 91-983 and Leaders Shoes (Aust) Pty Ltd v National Insurance Co of New Zealand Ltd [1968] 1 NSWR 344.</sentence>
+<sentence id="s54">As one would expect, Cadbury relies on these cases.</sentence>
+<sentence id="s55">Cadbury also relies on Liberty Funding (2005) 218 ALR 283, where the Full Court of the Federal Court considered this conflicting authority.</sentence>
+<sentence id="s56">Although the Full Court did not formally decide the issue, it did suggest that the proper approach must recognize the distinction between legal professional privilege and the implied undertaking (with respect to the implied undertaking, see [19-22] below).</sentence>
+<sentence id="s57">The Full Court's criticism of the Smoothdale line of cases (at [25]) was in the following terms:
+ 
+ 
+ The difficulty with the approach in Smoothdale is highlighted by the approach of Barrett J in Austress Freyssinet Pty Ltd v Marlin International Pty Ltd [2002] NSWSC 958 in which his Honour distinguished cases such as Smoothdale on the basis that they were concerned with use in one proceedings of a statement or an affidavit filed and served in another.</sentence>
+<sentence id="s58">Barrett J, on the other hand, was dealing with the question whether a party could tender, as an admission, parts of an affidavit sworn by the opposing party in the same proceeding.</sentence>
+<sentence id="s59">Barrett J said, buttressed by ample authority, that this could be done, because it was within the range of permitted use --- the purpose of the proceedings.</sentence>
+<sentence id="s60">Barrett J was undoubtedly correct.</sentence>
+<sentence id="s61">Thus, it is necessary to posit a limited waiver, within a broad framework of the conduct of proceedings, which may bring about the result (as in Austress ) that it is in the other side's power to destroy the privilege entirely by putting the statement or affidavit into evidence or examining or cross-examining on its contents.</sentence>
+<sentence id="s62">(Emphasis added.</sentence>
+<sentence id="s63">) 
+ 
+
+16 What was said by the Full Court may or may not be regarded as being dicta.</sentence>
+<sentence id="s64">I need not decide that question.</sentence>
+<sentence id="s65">The decision in Liberty Funding (2005) 218 ALR 283 was a decision of the Full Court of the Federal Court.</sentence>
+<sentence id="s66">The reasoning, if I may say so, is both persuasive and sensible.</sentence>
+<sentence id="s67">If it is conceded, as it must be, that a party upon whom a witness statement is served may use that statement in any way within the context of those proceedings (that is the whole reason why it is filed and served), it follows that it is conduct "inconsistent with the maintenance of the confidentiality which the privilege is intended to protect " ( Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1 at [29] ) and an implied waiver of privilege has occurred.</sentence>
+<sentence id="s68">Indeed, if one follows the Full Court's reasoning to its logical conclusion, the filing and service operates as a complete, not simply limited, waiver of legal privilege.</sentence>
+<sentence id="s69">17 To put the proposition in different terms, if " it is in the other side's power to destroy the privilege entirely ," (see [15] above) it can no longer be said that the original holder can reasonably expect any continued confidentiality.</sentence>
+<sentence id="s70">In such circumstances, the existence of the privilege cannot be made to turn on whether the other side in fact places the document into evidence or uses it for examination - either legal privilege exists or it does not, and either the client controls it or they do not: Telstra Corporation Ltd v Minister for Communications, Information Technology and the Arts (No 2) [2007] FCA 1445 at [21] ( "If a communication qualifies for legal professional privilege, the privilege is absolute.</sentence>
+<sentence id="s71">It cannot be overridden by some supposedly greater public interest.</sentence>
+<sentence id="s72">It can be waived by the person, the client entitled to it, and it can be overridden by statute, but it is otherwise absolute.</sentence>
+<sentence id="s73">" ) In other words, once it is found that the original holder of the privilege cannot control further dissemination of the document, the privilege is destroyed as a matter of law without further inquiry into whether the communication was in fact disseminated.</sentence>
+<sentence id="s74">18 This is not to say that there could never be something less than a full waiver of privilege; rather, the point is that for there to be only a limited waiver, the original holder must still retain full control as to further dissemination of the document.</sentence>
+<sentence id="s75">So, for example, providing a witness statement to a party but subject to conditions that the party may use it only for internal purposes, may not read it in court, may not place it into evidence and may not otherwise rely on it in examination or the proceedings generally might constitute a limited waiver only: see Goldberg v Ng [1995] HCA 39 ; (1995) 185 CLR 83, 96 (stating that the waiver "can be limited so that it applies only in relation to particular persons, materials or purposes" ); Goldman v Hesper [1988] 3 All ER 97 (cited in Mann v Carnell [1999] HCA 66 ; (1988) 201 CLR 1 at [29] for the proposition that disclosure "for a limited and specific purpose" will not lead to loss of the privilege).</sentence>
+<sentence id="s76">19 Here, however, Visy was under no constraint as to the purposes for which it could use the witness proofs filed and later served on Visy by the ACCC.</sentence>
+<sentence id="s77">Visy did not need to, and did not, seek the permission of the putative privilege holder (the ACCC) to use the witness proofs or any part of them:
+ 
+ (1) by disclosure to its own witnesses, its lawyers and its officers;
+ (2) to instruct expert witnesses;
+ (3) to determine the evidence that might be given;
+ (4) to assess the merits of its defence of the ACCC proceedings;
+ (4) to draw subpoenas, notices to admit or other interlocutory or trial processes;
+ (5) in the preparation of cross examination of witnesses.</sentence>
+<sentence id="s78">
+
+ Although Visy was bound to limit its use of those statements to the context of the ACCC proceeding, the source of that limitation was its implied undertaking to the court, not any legal privilege held by the ACCC: see [20] below.</sentence>
+<sentence id="s79">Implied Undertaking 
+ 
+20 Although the ACCC waived any legal professional privilege claim it might have had over the Category II and Category III documents by filing the documents and then serving them on Visy, one point previously adverted to requires clarification.</sentence>
+<sentence id="s80">As Cadbury correctly acknowledges, even if the ACCC has no privilege claim over the Category II and Category III documents, Visy may nevertheless be prevented from producing the documents by virtue of its implied undertaking to use the statements only for a purpose relating to the ACCC proceeding.</sentence>
+<sentence id="s81">21 A basic principle of Australian litigation is that parties give an implied undertaking to the court not to use any document produced to them in the course of litigation except in the context of that litigation: Esso Australia Resources Ltd v Plowman [1995] HCA 19 ; (1995) 183 CLR 10, 32, 36-37, 46; see also Harman v Secretary of State for the Home Department [1983] 1 AC 280.</sentence>
+<sentence id="s82">Where other courts have erred doctrinally is in failing to distinguish the implied undertaking analysis from the waiver analysis.</sentence>
+<sentence id="s83">The Full Court in Liberty Funding recognized this error when it stated (at [26]): " This so-called 'limited waiver' by service such that the privilege is waived only for the purpose of the legal proceedings in question might be seen to be no more than the operation of the implied undertaking dealt with in Harman ": Liberty Funding (2005) 218 ALR 283.</sentence>
+<sentence id="s84">In other words, the limitation on Visy's use of the witness proofs stems not from limitations to be inferred from the conduct of the ACCC in serving them, but in Visy's own obligations to the Court.</sentence>
+<sentence id="s85">22 Depending on whether the restrictions on Visy's use of the witness proofs is sourced doctrinally to the legal professional privilege of the ACCC or, instead, the implied undertaking, is vital.</sentence>
+<sentence id="s86">It is vital because the implied undertaking is not absolute but the privilege is.</sentence>
+<sentence id="s87">The Plowman Court in dicta stated (at 33): 
+ 
+ 
+ No doubt the implied obligation must yield to inconsistent statutory provisions and to the requirements of curial process in other litigation, eg, discovery and inspection, but that circumstance is not a reason for denying the existence of the implied obligation.</sentence>
+<sentence id="s88">
+ 
+
+In Patrick v Capital Finance Pty Ltd (No4) [2003] FCA 436 at [15] - [22] , these dicta were applied in support of the proposition that a party is released from the implied undertaking when faced with a conflicting discovery obligation in a subsequent litigation.</sentence>
+<sentence id="s89">23 Moreover, even if the implied undertaking does not automatically give way, a party may still be released from it in the court's discretion upon showing "special circumstances": Liberty Funding (2005) 218 ALR 283 at [31].</sentence>
+<sentence id="s90">Although Cadbury anticipated the implied undertaking issue in its written submissions in these proceedings, the ACCC did not address the implied undertaking in its submissions, nor was the issue fully ventilated in oral submissions by any party .</sentence>
+<sentence id="s91">Accordingly, the parties in the damages proceeding and the ACCC will be invited, though not required, to make further written and oral submissions about whether Visy's implied undertaking in the ACCC proceedings prevents Visy producing the Category II and Category III documents and, if the implied undertaking is not overridden, whether Visy should be released from it.</sentence>
+<sentence id="s92">PUBLIC INTEREST IMMUNITY 
+ 
+24 I now turn to the ACCC's separate claim of public interest immunity with respect to 8 of the 111 witness proofs, the Category III documents.</sentence>
+<sentence id="s93">25 A court will not order the production of a document if disclosure of the document would be injurious to the public interest: Alister v The Queen [1983] HCA 45 ; (1984) 154 CLR 404; Sankey v Whitlam [1978] HCA 43 ; (1978) 142 CLR 1.</sentence>
+<sentence id="s94">The court must undertake a balancing test, considering "whether the public interest which requires that [a] document should not be produced outweighs the public interest that a court of justice in performing its functions should not be denied access to relevant evidence" : Sankey [1978] HCA 43 ; (1978) 142 CLR 1 at 38-39.</sentence>
+<sentence id="s95">As this formulation of the test makes clear, the onus is on the party seeking to prevent disclosure of a document.</sentence>
+<sentence id="s96">26 This onus has been described by Lindgren J as a "heavy burden" requiring the proponent of immunity to "establish a 'real' rather than merely 'some' or 'any' detriment to the public interest from disclosure" of the documents: Somerville v ASC (1995) 60 FCR 319 at 354.</sentence>
+<sentence id="s97">If the proponent cannot establish any such interest as a threshold matter, then the balancing test never arises, and the immunity claim will fail at the outset: As the High Court said in Alister v The Queen [1983] HCA 45 ; (1983) 154 CLR 404 at 412, " the balancing exercise ... can only be taken when it appears that both aspects of the public interest do require consideration " (Emphasis added).</sentence>
+<sentence id="s98">27 The "public interest" claimed by the ACCC to require protection of Category III documents from disclosure was said to be to encourage, by ensuring the confidentiality of information they provide, cartel whistleblowers to come forward.</sentence>
+<sentence id="s99">In ACCC v ABB Power Transmission Pty Ltd [2003] FCA 626 at [43] , the Court suggested in obiter dicta that such a public interest might exist.</sentence>
+<sentence id="s100">In the present case, Counsel for the ACCC put it this way:
+ 
+ 
+ The public interest ... is to induce the Amcors of this world - those who come forward early, under the immunity policy - to give the fullest possible assistance to the [ACCC] to ensure that the cartel is put at an end as quickly as possible, prosecuted, and brought to finality quickly.</sentence>
+<sentence id="s101">The more assistance that Amcor gives the [ACCC] in that regard, the better the quality of the admissions and the evidence ... 
+ 
+ 
+ 
+
+28 Counsel for the ACCC conceded that confidentiality could not be absolute, in that both the ACCC and any potential whistleblower should reasonably expect that the whistleblower might have to testify in open court (ie, the whistleblower's statements might ultimately come into the public domain).</sentence>
+<sentence id="s102">Nevertheless, counsel for the ACCC maintained that this expectation was not inconsistent with a reasonable expectation that statements provided to the ACCC will remain confidential because most cartel cases settle with the result that:
+ 
+ (1) it never becomes necessary for witness statements of whistleblowers to be used in court; and 
+ (2) the entry into the public domain of witness statements of whistleblowers is the exception rather than the rule.</sentence>
+<sentence id="s103">
+
+Without being able to rely on the confidentiality of statements not used in court, counsel for the ACCC submitted that whistleblowers might be dissuaded from coming forward and the public interest in rooting out cartel conduct correspondingly injured.</sentence>
+<sentence id="s104">
+ 
+29 Regardless of whatever theoretical merit the argument may have (which I will address shortly), the force of the ACCC's submission was undercut by the evidence of its own witness Mr Cassidy (the officer in charge of the leniency program for cartel whistleblowers) that in the present case Amcor did not seek confidentiality guarantees in its immunity application.</sentence>
+<sentence id="s105">In ACCC v ABB Power Transmission Pty Ltd [2003] FCA 626 at [44] , the Court suggested that the force of any public interest immunity claim will be vitiated where the independent witnesses cooperating with the ACCC did not even seek confidentiality.</sentence>
+<sentence id="s106">I agree.</sentence>
+<sentence id="s107">Moreover, even the broader factual merit of the claim is suspect, as the ACCC led no evidence that any cartel whistleblower, whether in this case or otherwise, has demonstrated reluctance to come forward based on a concern that information provided might become public.</sentence>
+<sentence id="s108">30 The theoretical merit of the ACCC's confidentiality contentions is even more deficient.</sentence>
+<sentence id="s109">A cartel claim, by definition, involves collusion between two or more actors.</sentence>
+<sentence id="s110">In the same way that it is both inevitable and self-evident that the statements of a cooperating criminal conspirator will be used against (ie, disclosed to) the non-cooperating conspirators, it must be taken for granted that a cartel participant contemplating a confession to the authorities knows, or should know, that his statements will be used by the authorities to prosecute the other party or parties.</sentence>
+<sentence id="s111">As such, the ACCC's claim that a party like Amcor can have a reasonable expectation of confidentiality with respect to statements made to investigators is devoid of substance.</sentence>
+<sentence id="s112">And without such a reasonable expectation, the ACCC's contention that non-disclosure of the documents is required to protect the public interest cannot stand.</sentence>
+<sentence id="s113">31 That the speculation regarding witness reluctance is likely to be unfounded is further supported by the fact, acknowledged by counsel for the ACCC, that even if production of the Category III documents were barred, Cadbury would be free to undertake its own investigation.</sentence>
+<sentence id="s114">As noted by McLure JA in Leighton , " Privilege in respect of [the disputed] communications would not prevent the respondent interviewing [third-party] witnesses and obtaining all relevant information from them concerning the issues in the litigation ": Leighton [2007] WASCA 151 at [31] .</sentence>
+<sentence id="s115">It is perhaps, therefore, unsurprising that counsel for the ACCC ultimately fell back on a "free rider" argument - that is, that Cadbury should not have the benefit of the ACCC's work precisely because it could easily do the work itself.</sentence>
+<sentence id="s116">This argument fails for two reasons.</sentence>
+<sentence id="s117">32 First, there is at least an equal, if not more compelling, public interest in allowing private litigants to rely on the output of regulatory investigations, which are undertaken by public regulators at least in part on their behalf.</sentence>
+<sentence id="s118">The ACCC should be " motivated by a desire to do its duty, both towards the public and towards individual investors " ( ACCC v Michigan Group Pty Ltd [2002] FCA 1439 at [22] ).</sentence>
+<sentence id="s119">It is not motivated by corporate profit motives or competitive concerns.</sentence>
+<sentence id="s120">Indeed, the ACCC often justifies requests for findings of fact, declarations, and injunctions that may be of little or no importance in the matter before the court on the grounds that they will be useful to follow-on private litigants: ACCC v Michigan Group Pty Ltd [2002] FCA 1439 at [24] ; ACCC v Dataline.Net.Au Pty Ltd (2006) 236 ALR 665 at [105]-[107] (discussing s 83 of the Trade Practices Act 1974 (Cth), which outlines the circumstances in which findings made in penalty proceedings under s 77 may be used as prima facie evidence in damages proceedings brought under s 82).</sentence>
+<sentence id="s121">33 Second, the "free rider" argument fails because it is, ultimately, founded on a theory of "work product" privilege not accepted in Australia.</sentence>
+<sentence id="s122">The work product doctrine, recognized by the United States Supreme Court, states that information or material prepared by attorneys reflecting attorney mental impressions, strategy, or other "work product," even though not documenting lawyer-client communications or otherwise within the ambit of ordinary legal professional privilege, may be independently protected from discovery: Hickman v Taylor (1947) 329 US 495.</sentence>
+<sentence id="s123">The problem for the ACCC, however, is that work product is not recognized in Australia as an independent head of privilege: Commissioner of Propend [1997] HCA 3 ; (1997) 188 CLR 501 at 570 (describing the US work product doctrine as part of general privilege law in Australia) (Gummow J); Leighton [2007] WASCA 151 at [17] (stating in Australia that the work product doctrine is recognised in the context of the litigation privilege).</sentence>
+<sentence id="s124">The ACCC itself has acknowledged this state of affairs: ACCC Position Paper, "Review of Leniency Policy for Cartel Conduct" (26 August 2005) at 19 n 21, available at http://www.accc.gov.au/content/item.phtml?itemId=725616&amp;nodeId=3a1faa8ec1e755f25adef02560676bf5&amp;fn=Leniency%20position%20paper.pdf (viewed 1 February 2008).</sentence>
+<sentence id="s125">34 As noted earlier, the ACCC waived any legal professional privilege claim it may have had over the Category II documents, of which the 8 Category III documents are a subset, when it filed and then served the documents on Visy.</sentence>
+<sentence id="s126">Accordingly, the attempt to resurrect such a claim in the guise of a "work product" claim, which has no independent existence, must fail.</sentence>
+<sentence id="s127">35 Where, as here, there is no evidence the independent witnesses either sought or could reasonably have expected that information they provided to the ACCC was or would remain confidential, and where there is no evidence that either those witnesses or others similarly situated have been or would be dissuaded from coming forward without confidentiality, the ACCC has failed to establish a real public interest.</sentence>
+<sentence id="s128">Moreover, the desire of a public regulator to prevent private litigants from relying on its "work product" fails, as a matter of law, to present any cognizable public interest, much less a real one.</sentence>
+<sentence id="s129">To be clear, this second conclusion is not intended to challenge the viability of a "work product" claim when made within the ambit of legal professional privilege.</sentence>
+<sentence id="s130">However, the conclusion does render a claim unviable when the claim is made in the guise of public interest immunity or as an independent theory.</sentence>
+<sentence id="s131">CATEGORY I DOCUMENTS --- AMCOR WITNESS STATEMENTS 
+ 
+36 One final matter remains to be addressed --- the status of the Category I documents.</sentence>
+<sentence id="s132">As noted earlier, the communications of the witnesses themselves are not inherently subject to any advice privilege.</sentence>
+<sentence id="s133">However, in the circumstances here, for the following reasons the six draft Amcor witness statements are not subject to production.</sentence>
+<sentence id="s134">37 For the sake of completeness, I should first note Cadbury's overall argument regarding the Category I documents.</sentence>
+<sentence id="s135">It was based on the fact that the copy witness statements retained by Amcor were just that - copies - and thus under Propend , their privilege status may differ from that of the original.</sentence>
+<sentence id="s136">To the extent that I have correctly understood the argument put by counsel, it misunderstands Propend .</sentence>
+<sentence id="s137">Propend established that the copy of a document may under some circumstances (ie depending on the dominant purpose for which it was created) be privileged even though the original is not privileged: Propend [1997] HCA 3 ; (1997) 188 CLR 501 at 508 per Brennan CJ, 543-544 per Gaudron J, and 554 per McHugh J.</sentence>
+<sentence id="s138">I do not, however, consider that Propend also establishes the converse; that is, the copy of a document may be unprivileged even though the original is.</sentence>
+<sentence id="s139">38 Instead, I understand Propend to say that a copy of a privileged document will also be privileged unless the privilege has been expressly or impliedly waived (although it may be that allowing a copy to be made in certain circumstances is capable of being conduct constituting such a waiver, such as when a copy is made and communicated to a third party for purposes not related to legal advice or litigation): cf Spotless Group Ltd v Premier Building Pty Ltd [2006] VSCA 201 at [60] - [66] (noting that Propend left the issue open but concluding that whether a copy of a privileged document is privileged is distinct from whether privilege has been waived).</sentence>
+<sentence id="s140">As such, Cadbury's argument, notwithstanding the way in which counsel sought to frame it, may be reduced to two questions: (1) are the documents privileged; and (2) has privilege been waived?</sentence>
+<sentence id="s141">Amcor witness statements drafted by Amcor's external solicitors 
+ 
+39 I now turn to consider the first question.</sentence>
+<sentence id="s142">As noted earlier, three of the Amcor witness statements in Category I (specifically, documents numbered A.119.004.0161, A.119.004.0137, and A.119.004.0157) were drafted by Amcor's external solicitors.</sentence>
+<sentence id="s143">Copies of those documents remain in the possession of Amcor's external solicitors.</sentence>
+<sentence id="s144">Preparation of the documents was subject to confidentiality at the request of the ACCC's investigator Mr Williams.</sentence>
+<sentence id="s145">Indeed, the evidence of Amcor's external solicitor was that the three drafts were so confidential that they could not even be shown to Amcor itself, a condition which Amcor understood and agreed to.</sentence>
+<sentence id="s146">Although Amcor (and by extension its external solicitors) was cooperating with the ACCC in order to obtain leniency, there is no basis for finding that Amcor, a party whose interests were adverse to those of the ACCC, was an agent of the ACCC.</sentence>
+<sentence id="s147">On the contrary, Amcor's witnesses remained independent third party witnesses entitled to discuss the issues with the ACCC or any other entity or person.</sentence>
+<sentence id="s148">What they were not entitled to do was explained by Mr Williams, the ACCC investigator in the following terms:
+ 
+ 
+ ...[O]n a number of occasions I and other officers of the ACCC asked such persons and [Amcor's external] solicitors participating in the process of preparing statements or proofs of evidence that information in relation to the interviews and preparation of the statements or proofs be kept confidential.</sentence>
+<sentence id="s149">
+ 
+
+Neither the witness nor Amcor's external solicitor was entitled to disclose that they were being interviewed, what transpired during the course of the interview or the fact or content of the preparation of a statement or document during the course of or as a result of that interview.</sentence>
+<sentence id="s150">40 In Trade Practices Commission v Sterling (1979) 36 FLR 244, 246, Lockhart J described the litigation privilege rule as follows:
+ 
+ 
+ Communications passing between the party and a third person (who is not the agent of the solicitor to receive the communication from the party) if they are made with reference to litigation either anticipated or commenced, and at the request or suggestion of the party's solicitor; or, even without any such request or suggestion, they are made for the purpose of being put before the solicitor with the object of obtaining his advice or enabling him to prosecute or defend an action.</sentence>
+<sentence id="s151">
+ 
+
+See also ACCC v FFE Building Services [2003] ATPR 41-967 at [24]-[33]; Leighton [2007] WASCA 151 at [12] ; Pratt Holdings [2004] FCAFC 122 ; (2004) 136 FCR 357 at [1] , [89] and [96].</sentence>
+<sentence id="s152">41 In this case, the drafts were created not at the request of the ACCC's solicitors (whether in-house or the Australian Government Solicitor), but at the request of the investigator Mr Williams.</sentence>
+<sentence id="s153">Moreover, the drafts were not communicated to an ACCC solicitor, but to Mr Williams.</sentence>
+<sentence id="s154">However, Mr Williams' evidence was that the documents were generated for the dominant purpose of being put before the ACCC's solicitors with the object of obtaining their advice and enabling them to prosecute the penalty proceedings.</sentence>
+<sentence id="s155">Accordingly, the three documents were privileged.</sentence>
+<sentence id="s156">Amcor witness statements drafted by ACCC staff 
+ 
+42 With respect to the three Category I witness statements drafted by ACCC staff (specifically, documents numbered A.119.004.0335, A.119.004.0028, and A.119.004.0048) and forwarded to Amcor's in-house counsel, the evidence of Mr Williams established that the documents were sent for the dominant purpose of settling the contents and thus enabling the ACCC solicitors to prosecute the penalty proceedings.</sentence>
+<sentence id="s157">Cadbury argued, however, that the dominant purpose element could not be made out because the documents were provided to in-house counsel rather than directly to the witness.</sentence>
+<sentence id="s158">I do not see any reason to reject a privilege claim on this basis.</sentence>
+<sentence id="s159">In-house corporate counsel represent individual employees of the corporation in their capacity as employees, which is the capacity in which the Amcor witnesses at issue here were involved in the ACCC investigation.</sentence>
+<sentence id="s160">In this case, the in-house counsel acted as the witnesses' agent, whose role it was simply to pass the draft on to the witnesses and to assist them in settling the contents pursuant to the ACCC request.</sentence>
+<sentence id="s161">In other words, contrary to the contention of counsel for Cadbury, the inference to be drawn from the evidence is that although the documents were passed first to in-house counsel, they were still communications between a party and a third person made for the dominant purpose of settling the contents of a witness proof to be used in or to facilitate prosecution of the penalty proceedings.</sentence>
+<sentence id="s162">As such, these three documents were also privileged.</sentence>
+<sentence id="s163">Waiver 
+ 
+43 Against that background, I now turn to the question of waiver.</sentence>
+<sentence id="s164">Cadbury correctly notes that there is no evidence as to how or why copies of Category I documents were made and retained by Amcor or Amcor's external solicitors.</sentence>
+<sentence id="s165">As noted earlier, Cadbury agitated this argument as a reverse Propend claim.</sentence>
+<sentence id="s166">It is, however, more properly understood as a waiver claim.</sentence>
+<sentence id="s167">That is to say, Cadbury appears to argue that although the original documents may have been created by or provided to Amcor under circumstances of confidentiality and even express claims of privilege, allowing Amcor to make or retain copies for its own use is conduct by ACCC inconsistent with its privilege claim.</sentence>
+<sentence id="s168">
+ 
+44 In this regard, Amcor's solicitor Mr Meadows testified that his firm, Allens Arthur Robinson, was " permitted to advise Amcor [based on knowledge it obtained in witness interviews summarized in the documents now at issue] subject to any confidentiality constraints that had been agreed .</sentence>
+<sentence id="s169">" He added that the firm's copies were not being retained " for the ACCC .</sentence>
+<sentence id="s170">" Thus the argument might go that while Amcor may have been (and may still be) under some equitable or quasi-contractual obligation of confidentiality (ie it may not be free to simply distribute the documents as it sees fit), that cannot override the obligations of compulsory court process in this case: see Leighton [2007] WASCA 151 at [28] (stating that contractual or equitable duties cannot prevail over compulsory court process).</sentence>
+<sentence id="s171">45 To restate the question, it comes down to this: did the ACCC, in allowing Amcor via its solicitors to make and retain copies of the Category I documents, engage in conduct impliedly waiving its privilege?</sentence>
+<sentence id="s172">To answer the question, I return to the analysis employed earlier at [15]-[18].</sentence>
+<sentence id="s173">In contrast to the Category II and III documents, with respect to which the ACCC ceded complete control over disclosure to Visy by filing and serving the documents, the evidence with respect to Category I was that the use to which Amcor's solicitors could put the documents was limited to one purpose and one purpose only: advising the client.</sentence>
+<sentence id="s174">Indeed, as noted earlier, the three documents drafted by Amcor's solicitors could not even be shown to Amcor.</sentence>
+<sentence id="s175">The disclosure to Amcor was for a "limited and specific purpose" (advice to the client) and "applies only in relation to particular persons and materials" .</sentence>
+<sentence id="s176">Amcor employees were the particular persons.</sentence>
+<sentence id="s177">The materials were the communications and documents recording them.</sentence>
+<sentence id="s178">The ACCC's conduct in allowing copies of the documents to be made and retained constitutes only a limited waiver: see [18] above.</sentence>
+<sentence id="s179">It follows that the Category I documents are barred from production to Cadbury.</sentence>
+<sentence id="s180">Approach adopted by the ACCC 
+ 
+46 Strictly speaking, I need go no further.</sentence>
+<sentence id="s181">However, I think it appropriate before concluding to make a general observation about the ACCC's overall interest in this case and whether the courts are the appropriate forum for its resolution.</sentence>
+<sentence id="s182">The ACCC's submissions and the evidence from its witnesses demonstrated a concern that the increasing threat of private suits for damages brought by cartel victims will interfere with the ACCC's ability to obtain the cooperation from cartel participants necessary for it to bring and prosecute penalty actions.</sentence>
+<sentence id="s183">The interference was said to arise because potential cooperators will be deterred from coming forward, notwithstanding offers of leniency, by the prospect of having essentially given away the store in the inevitable damages actions.</sentence>
+<sentence id="s184">In other words, in considering whether to confess, the potential costs in damages may be seen by a cartel player to outweigh the potential savings in penalties.</sentence>
+<sentence id="s185">Distilling the point still further, one can see that the real concern of the ACCC - that is, the real deterrent to cooperation faced by the Amcors of the world - is damages exposure itself.</sentence>
+<sentence id="s186">In my view, the confidentiality and free-rider arguments ostensibly advanced here by the ACCC are, at best, a proxy for that concern, and at worst a smokescreen obscuring it.</sentence>
+<sentence id="s187">To be fair, the appropriate total level of private civil liability (ie, penalties plus damages) an actor should face for cartel conduct is a valid issue, and one which was long ago recognized by authorities and commentators in the United States in the context of cooperation and leniency: see eg, Giancarlo Spagnolo, "Leniency and Whistleblowers in Antitrust," Centre for Economic Policy Research Discussion Paper Series No.</sentence>
+<sentence id="s188">5794 (August 2006) at 15, available at http://www.cepr.org/pubs/dps/DP5794.asp (visited 11 February 2008).</sentence>
+<sentence id="s189">47 But to acknowledge the ACCC's concern is not to approve of its proposed method for resolving that concern.</sentence>
+<sentence id="s190">On the contrary, the ACCC's attempt to use common law privilege doctrine to protect cooperators when they are faced with private suits for damages, albeit partially successful here, appears to me to be misguided.</sentence>
+<sentence id="s191">Whether cartel whistleblowers such as Amcor or those who cooperate with the regulators after the commencement of penalty proceedings (either by settling like Visy or in some other manner) should be rewarded or encouraged by reduced exposure or enhanced protection in damages proceedings is a broad question of policy that should be addressed by the legislature, not by ad hoc judicial tinkering through the backdoor of privilege.</sentence>
+<sentence id="s192">ORDERS 
+ 
+48 The parties and the Australian Competition and Consumer Commission may, if they wish, file and serve written submissions of not more than 10 pages as to: (1) whether Visy is still bound not to produce the Category II and Category III documents by its implied undertaking in the ACCC proceedings; and (2) if so, whether special circumstances exist such that the Court in its discretion ought to release Visy from that undertaking.</sentence>
+<sentence id="s193">The matter will be set down for further hearing, if necessary, at a date to be fixed in consultation with the parties.</sentence>
+<sentence id="s194">
+ 
+ I certify that the preceding forty-eight (48) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.</sentence>
+<sentence id="s195">Associate:
+
+Dated: 19 February 2008
+
+ Counsel for the Applicant: Mr M Wyles
+Mr R Peters
+Mr A Pound 
+ 
+ Solicitor for the Applicant: Mallesons Stephen Jaques 
+ 
+ Counsel for the Respondents: Mr P Anastassiou SC 
+ 
+ Solicitor for the Respondents: Allens Arthur Robinson 
+ 
+ Counsel for the Cross-Respondents: Mr P Crutchfield 
+ 
+ Solicitor for the Cross-Respondents: Arnold Bloch Leibler 
+ 
+ Counsel for the ACCC: Mr N O'Bryan SC
+Mr P Gray 
+ 
+ Solicitor for the ACCC: Australian Government Solicitor 
+ 
+ Date of Hearing: 12, 13 and 20 December 2007 
+ 
+ Date of Judgment: 19 February 2008 APPENDIX A 
+ CATEGORY I DOCUMENTS (*=Document Date Estimated) 
+ Document ID Document Description Date A.119.004.0161 Draft witness statement prepared by Amcor's external lawyers 01-Jan-2005* A.119.004.0137 Draft witness statement prepared by Amcor's external lawyers 29-Jun-2005* A.119.004.0157 Draft witness statement prepared by Amcor's external lawyers 22-Jul-2005 A.119.004.0335 Draft witness statement prepared by the ACCC 01-Jan-2007* A.119.004.0028 Draft witness statement prepared by the ACCC 01-Jun-2007* A.119.004.0048 Draft witness statement prepared by the ACCC 14-Jun-2007 
+ CATEGORY II DOCUMENTS (^ =Document is also in Category III) 
+ Document ID Document Description Date WP.ALL.0001 Unsigned Proof of Evidence of Bruce Allender Undated WP.AMO.0001 Unsigned Proof of Evidence of Jason Amos Undated WP.AND.0001 Unsigned Proof of Evidence of Christopher John Anderson Undated WP.ARH.0001 Unsigned Proof of Evidence of Tamara Arhontissas Undated WP.BAK.0001 Unsigned Proof of Evidence of Jan Dirk Bakker Undated WP.BAM.0001 Unsigned Proof of Evidence of Bernard Norman Bambling Undated WP.BAR.0001 Unsigned Proof of Evidence of Paul Andrew Barbagallo Undated WP.BOE.0001 Unsigned Proof of Evidence of Raymond Boef Undated WP.BOR.0001 Unsigned Proof of Evidence of Joseph Borg Undated ^ WP.BRI.0001 Unsigned Proof of Evidence of Peter Briscoe Undated ^ WP.BRO.0001 Unsigned Proof of Evidence of Peter James Brown Undated WP.CHI.0001 Unsigned Proof of Evidence of Steve Wayne Childs Undated ^ WP.CLA.0001 Unsigned Proof of Evidence of Colin Clayton Undated WP.COM.0001 Unsigned Proof of Evidence of Alexander Stephen Commins Undated WP.CRE.0001 Unsigned Proof of Evidence of Barry Kenneth Crees Undated WP.DAP.0001 Unsigned Proof of Evidence of David Da Pra Undated WP.DAV.0001 Unsigned Proof of Evidence of Colin Davis Undated WP.DRI.0001 Unsigned Proof of Evidence of David James Driver Undated WP.DUR.0001 Unsigned Proof of Evidence of Rick David Duri Undated WP.DWA.0001 Unsigned Proof of Evidence of Peter Ernst Dwan Undated WP.FIN.0001 Unsigned Proof of Evidence of Peter Archie Finlayson Undated WP.FOR.0001 Unsigned Proof of Evidence of Paul Manning Foran Undated WP.FRI.0001 Unsigned Proof of Evidence of Andrew Richard Frick Undated WP.FRO.0001 Unsigned Proof of Evidence of Geoffrey Frost Undated WP.FYF.0001 Unsigned Proof of Evidence of Daniel Charles Fyffe Undated WP.GHK.0001 Unsigned Proof of Evidence of Greig Howard Kely Undated WP.GOD.0001 Unsigned Proof of Evidence of Noel Godfrey Undated WP.GOO.0001 Unsigned Proof of Evidence of Kevin Peter Goos Undated WP.HAG.0001 Unsigned Proof of Evidence of John Hagget Undated WP.HAM.0001 Unsigned Proof of Evidence of Ian Alexander Hamilton Undated WP.HEE.0001 Unsigned Proof of Evidence of Ron Hee Undated WP.HEN.0001 Unsigned Proof of Evidence of David Alan Henry Undated WP.HET.0001 Unsigned Proof of Evidence of Kim James Hetherington Undated WP.HIB.0001 Unsigned Proof of Evidence of Maurice Hibbert Undated WP.HKL.0001 Unsigned Proof of Evidence of Hock Kee Lee Undated WP.HOD.0001 Unsigned Proof of Evidence of James George Hodgson Undated WP.HOD.0022 Unsigned Proof of Evidence of James George Hodgson Undated WP.HOL.0001 Unsigned Proof of Evidence of Craig Anthony Holihan Undated WP.JAC.0001 Unsigned Proof of Evidence of Helen Jackson Undated WP.JOH.0001 Unsigned Proof of Evidence of Kerry Maxwell Johnston Undated ^ WP.JON.0001 Unsigned Proof of Evidence of Russell Haydn Jones Undated WP.KAV.0001 Unsigned Proof of Evidence of Michael Kavanagh Undated WP.KEI.0001 Unsigned Proof of Evidence of John Robert Keir Undated WP.KIL.0001 Unsigned Proof of Evidence of David Kilpatrick Undated WP.KIN.0001 Unsigned Proof of Evidence of John Daniel King Undated WP.KOC.0001 Unsigned Proof of Evidence of David Koch Undated ^ WP.LAI.0001 Unsigned Proof of Evidence of Edward Maxwell Laidlaw Undated WP.LAW.0001 Unsigned Proof of Evidence of John Stanley Law Undated WP.LEE.0001 Unsigned Proof of Evidence of Robert Charles Lee Undated WP.LEW.0001 Unsigned Proof of Evidence of Stephen Frederick Lewis Undated WP.LEX.0001 Unsigned Proof of Evidence of Lex Triffitt Undated WP.LEY.0001 Unsigned Proof of Evidence of Nicholas Leywood Undated WP.MAN.0001 Unsigned Proof of Evidence of Hamish Robert Stanley Manks Undated WP.MAR.0001 Unsigned Proof of Evidence of Daniel Patrick Marshall Undated WP.MCG.0001 Unsigned Proof of Evidence of Paul McGlone Undated WP.MCK.0001 Unsigned Proof of Evidence of Paul Fraser McKee Undated WP.MCS.0001 Unsigned Proof of Evidence of John McShera Undated WP.MEA.0001 Unsigned Proof of Evidence of Gary Meadows Undated WP.MEN.0001 Unsigned Proof of Evidence of Robert David Mense Undated WP.MEZ.0001 Unsigned Proof of Evidence of Avrilia Mezzatesta Undated WP.MID.0001 Unsigned Proof of Evidence of Alfred Wayne Middleton Undated WP.MIL.0001 Unsigned Proof of Evidence of Zane Mills Undated WP.MIM.0001 Unsigned Proof of Evidence of Lou Matthew Mimmo Undated WP.MLW.0001 Unsigned Proof of Evidence of Marvin Louis Weinman Undated WP.MOL.0001 Unsigned Proof of Evidence of Megan Stacy Molenaar Undated WP.MUT.0001 Unsigned Proof of Evidence of Tavis Gilbert Mutch Undated WP.NEE.0001 Unsigned Proof of Evidence of Ian Andrew Neeland Undated WP.OLE.0001 Unsigned Proof of Evidence of John O'Leary Undated WP.OLS.0001 Unsigned Proof of Evidence of Lawrence Olsen Undated WP.OSU.0001 Unsigned Proof of Evidence of Anthony O'Sullivan Undated WP.PAD.0001 Unsigned Proof of Evidence of Samuel Rhandiyanto Padibjo Undated WP.PAF.0001 Unsigned Proof of Evidence of Paul Anthony Pafumi Undated WP.PAN.0001 Unsigned Proof of Evidence of Maria Pierina Pannacchione Undated WP.PAR.0001 Unsigned Proof of Evidence of Mario Lino Parisi Undated WP.PEL.0001 Unsigned Proof of Evidence of Robert Pellizzari Undated WP.POL.0001 Unsigned Proof of Evidence of Barry John Pollard Undated WP.POT.0001 Unsigned Proof of Evidence of Thomas Charles Potter Undated WP.PRE.0001 Unsigned Proof of Evidence of Murray Roy Prebble Undated WP.PRI.0001 Unsigned Proof of Evidence of Remy Anthony Pribilovics Undated ^ WP.PYN.0001 Unsigned Proof of Evidence of Robin James Pyne Undated WP.REI.0001 Unsigned Proof of Evidence of Gary Charles Reid Undated WP.RGB.0001 Unsigned Proof of Evidence of Ronald Gary Brown Undated WP.RIL.0001 Unsigned Proof of Evidence of Howard Riley Undated WP.RIV.0001 Unsigned Proof of Evidence of Martin Paul Rivers Undated ^ WP.ROB.0001 Unsigned Proof of Evidence of Darryl Francis Roberts Undated WP.ROS.0001 Unsigned Proof of Evidence of Andrew Malcolm Ross Undated WP.SAN.0001 Unsigned Proof of Evidence of Ian Russell Sangster Undated WP.SCA.0001 Unsigned Proof of Evidence of Michael Scammel Undated WP.SFM.0001 Unsigned Proof of Evidence of Shane Francis Moloughney Undated WP.SIL.0001 Unsigned Proof of Evidence of Peter Sillcock Undated WP.SIR.0001 Unsigned Proof of Evidence of Michael Sirakoff Undated WP.SMA.0001 Unsigned Proof of Evidence of Ian Gregory Smallwood Undated WP.SMI.0001 Unsigned Proof of Evidence of Caroline Elizabeth Smith Undated WP.STR.0001 Unsigned Proof of Evidence of James Strangio Undated ^ WP.SUT.0001 Unsigned Proof of Evidence of Peter Richard Sutton Undated WP.THO.0001 Unsigned Proof of Evidence of Fyfe Wrixen Thorpe Undated WP.TIT.0001 Unsigned Proof of Evidence of John David Titus-Rees Undated WP.TRE.0001 Unsigned Proof of Evidence of Ronald James Treffene Undated WP.TRI.0001 Unsigned Proof of Evidence of Michael Trinnie Undated WP.TUF.0001 Unsigned Proof of Evidence of Peter David Tuffs Undated WP.TYS.0001 Unsigned Proof of Evidence of Craig Eric Tyson Undated WP.VAN.0001 Unsigned Proof of Evidence of Stefan Van Den Broeke Undated WP.WAR.0001 Unsigned Proof of Evidence of Stephen David Warnett Undated WP.WAT.0001 Unsigned Proof of Evidence of David Watkins Undated WP.WEG.0001 Unsigned Proof of Evidence of Barry William Wegmann Undated WP.WEI.0001 Unsigned Proof of Evidence of Jack Chung Ming Wei Undated WP.WIL.0001 Unsigned Proof of Evidence of Guy Alexander John Wilson Undated WP.WIT.0001 Unsigned Proof of Evidence of Russell Keith Witcombe Undated WP.WOO.0001 Unsigned Proof of Evidence of Paul Wootten Undated WP.YAT.0001 Unsigned Proof of Evidence of Michael Yates Undated WP.ZAC.0001 Unsigned Proof of Evidence of Alexander Zacaropoulos Undated 
+ 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/88.html 
+ 
+ </sentence>
+</sentences>
+</case>

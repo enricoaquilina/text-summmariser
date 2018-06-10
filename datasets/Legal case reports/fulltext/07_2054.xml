@@ -1,0 +1,1112 @@
+<?xml version="1.0"?>
+<case>
+<name>Dais Studio Pty Ltd v Bullet Creative Pty Ltd [2007] FCA 2054 (20 December 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2054.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">computer program</catchphrase>
+<catchphrase "id=c1">content management system for internet web site</catchphrase>
+<catchphrase "id=c2">individual files within such a system</catchphrase>
+<catchphrase "id=c3">whether "set of statements or instructions"</catchphrase>
+<catchphrase "id=c4">whether "used ... to bring about a certain result"</catchphrase>
+<catchphrase "id=c5">whether source code on files a computer program as defined.</catchphrase>
+<catchphrase "id=c6">infringement</catchphrase>
+<catchphrase "id=c7">whether necessary to establish actual copying of work or copy of work</catchphrase>
+<catchphrase "id=c8">whether infringement constituted by copying progenitor or sibling of work.</catchphrase>
+<catchphrase "id=c9">infringement</catchphrase>
+<catchphrase "id=c10">computer program</catchphrase>
+<catchphrase "id=c11">part only copied</catchphrase>
+<catchphrase "id=c12">whether part a substantial part</catchphrase>
+<catchphrase "id=c13">qualitative or quantitative approach to this issue</catchphrase>
+<catchphrase "id=c14">originality of part</catchphrase>
+<catchphrase "id=c15">relevant of failure to explain qualitative aspects of whole work.</catchphrase>
+<catchphrase "id=c16">obligation of confidence</catchphrase>
+<catchphrase "id=c17">information obtained during employment</catchphrase>
+<catchphrase "id=c18">information used after termination of employment</catchphrase>
+<catchphrase "id=c19">whether information had necessary quality of confidentiality</catchphrase>
+<catchphrase "id=c20">circumstances in which information was conveyed to employee.</catchphrase>
+<catchphrase "id=c21">contract of employment containing confidentiality terms</catchphrase>
+<catchphrase "id=c22">whether information acquired by employee was "confidential information" or "proprietary information".</catchphrase>
+<catchphrase "id=c23">obligation of former employee as to use of information acquired during employment</catchphrase>
+<catchphrase "id=c24">whether such use "improper".</catchphrase>
+<catchphrase "id=c25">copyright</catchphrase>
+<catchphrase "id=c26">copyright</catchphrase>
+<catchphrase "id=c27">copyright</catchphrase>
+<catchphrase "id=c28">equity</catchphrase>
+<catchphrase "id=c29">contract</catchphrase>
+<catchphrase "id=c30">corporations</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+ 1 In this proceeding, the applicants sue for infringement of copyright, to restrain the unauthorised use of confidential information, for breach of contract and for breach of certain provisions of the Corporations Act 2001 (Cth).</sentence>
+<sentence id="s1">Each cause of action is said to be based upon the conduct of the second respondent, Mr Ben Petro, who was formerly an employee of the first applicant, Dais Studio Pty Ltd ("Dais"), in which capacity he had access to certain computer files.</sentence>
+<sentence id="s2">It is alleged that, after Mr Petro left that employment, he downloaded those files from an Internet web site of Dais or one of its clients and used them for his own commercial purposes.</sentence>
+<sentence id="s3">The applicants seek declarations, injunctions, orders for delivery up and damages.</sentence>
+<sentence id="s4">2 Dais carries on business in the supply of what was described as "a range of services in relation to design strategy, brand strategy, marketing and Internet strategy and solutions".</sentence>
+<sentence id="s5">One of Dais's lines of business is the design and creation of Internet web sites for commercial clients.</sentence>
+<sentence id="s6">Mr Petro worked for Dais as a web developer between February 2002 and December 2003.</sentence>
+<sentence id="s7">The second applicant, Mr Jacek Perlinski, is the sole shareholder and director of Dais.</sentence>
+<sentence id="s8">However, it is not in that capacity that he is a party to the proceeding; rather, he is a party as trustee of the Perlinski Family Trust, which is the assignee from Dais of certain intellectual property which includes the rights to copyright upon which the applicants sue.</sentence>
+<sentence id="s9">By reason of the way I have determined the substantive issues involved in the applicants' copyright claims, I do not need to refer to that circumstance further.</sentence>
+<sentence id="s10">The first respondent, Bullet Creative Pty Ltd ("Bullet Creative") is a design company which engaged Mr Petro in about August 2005 to build a web site for one of its clients, a business called "Red PR".</sentence>
+<sentence id="s11">The applicants allege that, in the course of building that site, Mr Petro engaged in unlawful or actionable conduct of the kind referred to above.</sentence>
+<sentence id="s12">After the institution of this proceeding, the applicants settled their differences with Bullet Creative and, on 28 May 2007, Dowsett J granted a permanent injunction against Bullet Creative but otherwise ordered that the action against it be dismissed.</sentence>
+<sentence id="s13">
+ THE FACTS IN OUTLINE 
+ 
+ 3 To appreciate the nature of the allegations made by the applicants in this proceeding, it may be useful to commence by considering any commercial web site such as will be familiar to users of the Internet.</sentence>
+<sentence id="s14">The computer data for the images, words, numbers etc that, to the viewer, constitute the site are contained in files located on the server for the site.</sentence>
+<sentence id="s15">So are the functional files which cause the site to operate as intended.</sentence>
+<sentence id="s16">The construction of a commercial site of any complexity is necessarily a specialised task, and one which would normally (at least according to the assumptions by reference to which this proceeding has been conducted by the parties) be carried out by professional web developers (such as Mr Petro) and the organisations which employ them (such as Dais).</sentence>
+<sentence id="s17">Having made a substantial investment in the construction of a new web site, what would the business concerned do if the occasion arose for some details of the site to be changed, as must often be the case?</sentence>
+<sentence id="s18">Absent a product of the kind with which this proceeding has been concerned, the business would again have to engage a web development professional to make the necessary alterations to the files constituting the site.</sentence>
+<sentence id="s19">4 The product in question is what is known as a "content management system" ("CMS").</sentence>
+<sentence id="s20">It is a system of files (resident on the server) which enables the owner of the web site to undertake online editing of the content, and therefore of the appearance, of the site.</sentence>
+<sentence id="s21">The owner may not know that he or she is using a CMS as such, of course, but will know that, as part of the package of services provided by the web developer who built the site, there is the capacity to make all manner of changes to the content thereof.</sentence>
+<sentence id="s22">It seems that the inclusion of a CMS is a common practice in the construction of commercial web sites.</sentence>
+<sentence id="s23">There are many CMSs publicly, freely and legally available on the Internet.</sentence>
+<sentence id="s24">As I understand the evidence, if a web developer such as Mr Petro desired to incorporate a CMS into a web site being built, he or she could readily obtain it from one of these sources.</sentence>
+<sentence id="s25">The developer might then apply some discretionary modifications to suit the particular purposes at hand, but, as I understand it, even a very generic CMS would be expected to have the attributes which would enable incorporation into many web sites.</sentence>
+<sentence id="s26">5 Dais, however, has developed its own CMS, which it incorporates into web sites built for its commercial clients.</sentence>
+<sentence id="s27">The CMS is called "WebStable".</sentence>
+<sentence id="s28">According to Mr Perlinski, WebStable is the result of continuous development since 1999.</sentence>
+<sentence id="s29">It was in that year that he commenced the development of WebStable, then known as WEBS.</sentence>
+<sentence id="s30">Since that time, about 10-15 staff members at Dais --- in roles including senior developer, interface designer and other development roles --- have worked, both full-time and part-time, on WebStable.</sentence>
+<sentence id="s31">Mr Craig Suthers, to whose contribution I shall refer further presently, was employed by Dais as senior software developer from September 2002 to November 2004.</sentence>
+<sentence id="s32">He replaced Mr Shannon Glover, and before him Mr Patrick Cooney held that position.</sentence>
+<sentence id="s33">In recent times (ie, as I understand it, since the departure of Mr Suthers), Mr Mattias Lindgren (who has been employed by Dais since 2001) held, and continues to hold, the position.</sentence>
+<sentence id="s34">The senior software developer was the leader of a team of developers which included Mr Petro (from February 2002 until December 2003) and others from time to time, such as the only other developer whose name was specifically mentioned in the evidence, Mr Grant Trevor.</sentence>
+<sentence id="s35">In addition to the remuneration of staff, Mr Perlinski estimates that, conservatively, the total research and development costs of WebStable to Dais has been of the order of $1,000,000, including the cost of a major modification when the technology was moved from ASP to ASP.NET (terms which I shall explain below).</sentence>
+<sentence id="s36">6 This proceeding is concerned with the source code for the files constituting WebStable, and in particular for two JavaScript files which have been referred to by the parties as a "table file" and an "editor file".</sentence>
+<sentence id="s37">The table file incorporated into WebStable is named "CDAITable.js", and the editor file so incorporated is named "CDAIEditor.js".</sentence>
+<sentence id="s38">The initial "C" in each case is said to be a reference to the fact that the source code in the file is, in the lexicon of information technology, a "class".</sentence>
+<sentence id="s39">The letters "DAI" are an identifier for Dais.</sentence>
+<sentence id="s40">The words "Table" and "Editor" generically indicate the kind of function carried out by the file.</sentence>
+<sentence id="s41">The extension "js" in each case indicates that the file is a "JavaScript" file, an important circumstance to which I shall refer below.</sentence>
+<sentence id="s42">7 As its name implies, the table file is used in situations in which entries appear on a web site in the form of a list or table.</sentence>
+<sentence id="s43">It enables the user to change the appearance of entries in the table, specifically by re-ordering them.</sentence>
+<sentence id="s44">This can be done in two ways.</sentence>
+<sentence id="s45">The first way is by the user selecting (and thereby highlighting) the entry of interest in the table, and then clicking on an adjacent button or the like to move the selected entry up or down in the table.</sentence>
+<sentence id="s46">The second way is available for tables with two or more columns: by clicking at an appropriate point, the user may cause the entries to be re-ordered according to the criterion of a particular column (eg if there were a list of hotels offering a particular standard of accommodation and the prices charged by each, the list could be ordered according to the name of the hotel or the price charged).</sentence>
+<sentence id="s47">8 Other than very generally, the function of the editor file is not so readily inferred from its title.</sentence>
+<sentence id="s48">The file is concerned with text, and is involved in changing the appearance of selected text, eg by rendering the text into italics, into bold letters or the like.</sentence>
+<sentence id="s49">It enables the user to select (ie to highlight) a section of the text on the web page in question and then to click a button or the like which causes the selected text to appear in the form desired.</sentence>
+<sentence id="s50">9 To describe how the table file and the editor file worked in the context of Dais's CMS, and the limitations of those files, it is necessary to say something about the technology of web sites.</sentence>
+<sentence id="s51">At around the first time that Mr Petro worked for Dais, the computer language used to build web sites was called "Active Server Pages", abbreviated to "ASP".</sentence>
+<sentence id="s52">At about the time that he left that employ, Dais was commencing to use an improved technology for this purpose, called "ASP.NET".</sentence>
+<sentence id="s53">Both involve technologies by which HTML code is dynamically generated on the server in a web site system and passed to the browser software on the user's computer, where it will cause the necessary content (text, images etc) to be displayed on the screen.</sentence>
+<sentence id="s54">In cases where it is intended that the user should be able to perform a function with respect to a web site page which he or she is viewing (such as selecting an item from a drop-down list or editing text), a file written in "JavaScript" (or "js") language is automatically downloaded to his or her computer when the site or page is opened.</sentence>
+<sentence id="s55">Each of the files presently in contention --- the table file and the editor file --- was written in JavaScript, reflecting its role in facilitating the performance of a function by the user.</sentence>
+<sentence id="s56">10 As JavaScript files, the table file and the editor file did not contribute to the initial appearance of the web site on the user's screen, or to the provision of data which gave content to the site or page being viewed.</sentence>
+<sentence id="s57">Where a list or table was in use, the structure and appearance thereof was the work of the HTML code dynamically generated on the server (by ASP or ASP.NET), as was the collection, transmission and presentation of data from the underlying database.</sentence>
+<sentence id="s58">In the case of text, the text itself and the text box in which it was presented were again the concern of the HTML code generated on the server, not of the editor file.</sentence>
+<sentence id="s59">It was only in relation to certain modifications being effected by the user upon the presentation of the table or text that the relevant JavaScript file would be brought into play.</sentence>
+<sentence id="s60">Even then, neither of these files would itself make the modifications: rather, they would send commands to the browser software which would then, for example, provide the colour for highlighting or the different font for italicising.</sentence>
+<sentence id="s61">Dais called Mr Scott Carpenter, a consultant software engineer, as an expert witness.</sentence>
+<sentence id="s62">He graduated in December 1998 from the University of Queensland as a Bachelor of Information Technology.</sentence>
+<sentence id="s63">He agreed with the following proposition by counsel for Mr Petro:
+ [I]n these editor files in both examples, that is the DAIS and the Petro editor files, what the file enables is the sending of the command --- it acts as a courier to enable the bolding, highlighting and so on but it is base HTML source code on the browser that actually carries out that function, so the editor file is simply a means of enabling a user to click with the mouse and to request this to be done, is that correct?</sentence>
+<sentence id="s64">
+ 11 As I have said, the table file and the editor file contained source code which represented functions.</sentence>
+<sentence id="s65">Accordingly, they could be used in any situation on a web site in which a list or table, or text, respectively, needed to be modified in the ways indicated above.</sentence>
+<sentence id="s66">This explains why, although each file appears once only in the overall system of files constituting WebStable, each may be called up in a multiplicity of otherwise quite diverse situations across a web site as a whole.</sentence>
+<sentence id="s67">In the case of the table file, there are 12 different source code files (ie files involving data required to be presented in the form of a list or table) which use a file called CDAIAspPage.asp to create a table.</sentence>
+<sentence id="s68">That file in turn uses another file, called CDAITable.asp to allow the table to be generated and displayed on a web browser.</sentence>
+<sentence id="s69">That file references the table file --- CDAITable.js --- when the user initiates the operation to make changes to the list or table.</sentence>
+<sentence id="s70">It is likewise with the editor file.</sentence>
+<sentence id="s71">In WebStable, there are 15 different source code files which use the file called CDAIAspPage.asp to create an editor, which in turn uses the file CDAIEditor.asp to make the editor available to all source code files, and that file references the editor file --- CDAIEditor.js --- when the user initiates the operation to make changes to text.</sentence>
+<sentence id="s72">It will be apparent that the table file and the editor file have roles which are specific to WebStable and are tightly integrated into the system of files as a whole.</sentence>
+<sentence id="s73">It was in this sense that Mr Carpenter said that the two files were an "integral part" of WebStable.</sentence>
+<sentence id="s74">12 Depending on the size and structure of the web site, the uses to which the table file could be put might be extensive.</sentence>
+<sentence id="s75">One of Dais's clients is a business called "AA Co".</sentence>
+<sentence id="s76">A hard copy of every page in its web site was put into evidence, and it appears that tables for the modification of which the table file might be used appear on 118 pages of the site.</sentence>
+<sentence id="s77">On the other hand, it is conceivable that the table file might, in the context of a particular site, have no potential use at all --- the site might contain no tabulated information, or might contain only tables that need never be modified.</sentence>
+<sentence id="s78">Likewise in the case of the editor file.</sentence>
+<sentence id="s79">Of the pages of the "AA Co" web site in evidence, there were 56 which contained text which could, if the site owner so chose, be modified in appearance by use of the editor file.</sentence>
+<sentence id="s80">As with the table file, there may be situations in which the editor file is either absent or unused, for instance when the owner could not foresee any need to change the appearance of text on the pages of the site.</sentence>
+<sentence id="s81">13 I should also say something here about the size of WebStable, and of the table file and editor file within it.</sentence>
+<sentence id="s82">Mr Petro called Mr Andrae Muys, a consultant software engineer, as an expert witness.</sentence>
+<sentence id="s83">He graduated in 2000 from the University of Queensland as a Bachelor of Engineering (Computer Systems Engineering) with honours.</sentence>
+<sentence id="s84">However, he completed the coursework component of that degree in 1996.</sentence>
+<sentence id="s85">Mr Muys had access to a version of WebStable (not the version upon which Dais relies for its copyright claim, but sufficiently equivalent for present purposes) in which he counted a total of 225,674 lines of source code.</sentence>
+<sentence id="s86">Of those, 497 lines, or about 0.22%, constituted the table file and the editor file together.</sentence>
+<sentence id="s87">They were within what Mr Muys referred to as the "display components", as distinct from the "behaviour components", of the code.</sentence>
+<sentence id="s88">If the display components only were looked at, some 2.5% of the lines of code were constituted by these two files.</sentence>
+<sentence id="s89">Mr Petro also called Mr Murray Wood, a system developer, as an expert witness.</sentence>
+<sentence id="s90">He graduated in 1987 from Griffith University as a Bachelor of Informatics.</sentence>
+<sentence id="s91">He too had access to a version of WebStable other than that on which Dais relies in copyright, but again it was one that is sufficiently similar for present purposes.</sentence>
+<sentence id="s92">Although he did not have access to the database source code, he was able to perform a calculation from which he concluded that the "significance of the two JavaScript files in relation to the whole system is 1548/171000 = 0.00905".</sentence>
+<sentence id="s93">Mr Petro conducted his case upon the basis of an assertion that the quantitative contribution of the table file and the editor file, together, in a typical WebStable CMS was slightly less than 1%, and Dais was not heard to take issue with that.</sentence>
+<sentence id="s94">14 I turn next to the process of the development of the table file and the editor file, and of the involvement of Mr Petro therein.</sentence>
+<sentence id="s95">Not long after he joined Dais in September 2002, Mr Suthers needed a "client site table class" for a project on which he was working.</sentence>
+<sentence id="s96">He had previously worked for a company called Softworks Australia Pty Ltd, where he had created, from scratch, a comprehensive table class (ie table file).</sentence>
+<sentence id="s97">Recalling the name and location of that file, he downloaded it from the Internet, deleted some unnecessary functions and, in collaboration with Messrs Petro, Lindgren and Trevor, made such further modifications as were necessary to adapt the file for use in a WebStable project upon which he was then engaged.</sentence>
+<sentence id="s98">In the course of doing so, Mr Suthers wrote some entirely new lines of code.</sentence>
+<sentence id="s99">Neither the downloaded Softworks file nor the version used in the project on which he was then engaged was in evidence.</sentence>
+<sentence id="s100">A file which, in July 2007, was located at the same Internet address as the Softworks file downloaded by Mr Suthers in 2002 was in evidence, but it was, in the expression of its source code, very different from any version of the WebStable table file which was before the court.</sentence>
+<sentence id="s101">Neither party identified what lines of the source code for the table file were written by Mr Suthers from scratch, nor whether (and if so what parts of) the source code in the table file in any reasonably current version of WebStable continued to contain any lines so written from scratch.</sentence>
+<sentence id="s102">Mr Lindgren said that, at some later stage, it was necessary to add further functions to the table file beyond those originally included by Mr Suthers.</sentence>
+<sentence id="s103">15 Mr Lindgren was the developer primarily responsible for the creation of the editor file that subsequently became part of WebStable.</sentence>
+<sentence id="s104">He did so under the supervision of Mr Suthers at about the same time as Mr Suthers himself was creating the table file.</sentence>
+<sentence id="s105">Although Mr Lindgren affirmed two affidavits which were relied on by Dais, in neither did he deal with the subject of his role in the creation of the editor file (or, for that matter, with that of his collaboration with Mr Suthers in relation to the table file).</sentence>
+<sentence id="s106">However, in answering questions from the court as to how he went about the task of creating the editor file, Mr Lindgren said that the first step was to undertake research into "what the different methods will do".</sentence>
+<sentence id="s107">That involved looking at a Microsoft site called MSDN.</sentence>
+<sentence id="s108">Mr Lindgren continued:
+ So what you have to do is hook it up into the Microsoft system so they allow you to do certain things like copy and paste or bold the statement.</sentence>
+<sentence id="s109">All that information is in like a dictionary so you have to look at that dictionary to know which words activate that function.</sentence>
+<sentence id="s110">So what you do is that you go to the Microsoft MSDN website and you look up those words so you know what they are and how they function and what they return back to your own code.</sentence>
+<sentence id="s111">...</sentence>
+<sentence id="s112">I guess also basically when you start writing the code you look at the functionality that the code requires so for the editor, for example, it would have to be able to cut, copy and paste and to do those commands within the browser you have to look at the Microsoft information because it tells you how to perform those functions.</sentence>
+<sentence id="s113">16 As one of the team of developers working under Mr Suthers at Dais, Mr Petro carried out much work on the WebStable source code.</sentence>
+<sentence id="s114">He had regular and ongoing exposure to the files of CMSs being built by Dais for its clients, including the table file and the editor file.</sentence>
+<sentence id="s115">Necessarily, Mr Petro's period in the employ of Dais exposed him to the workings of WebStable, and to the contribution made by the table file and the editor file.</sentence>
+<sentence id="s116">He also became familiar with Dais's file-naming conventions.</sentence>
+<sentence id="s117">Save in one respect, the exact identification of the projects upon which he worked is immaterial.</sentence>
+<sentence id="s118">I shall turn to that exceptional respect when I deal specifically with Dais's claim in copyright below.</sentence>
+<sentence id="s119">17 It will be apparent from what I have said that neither the table file nor the editor file was a fixed, unchanging, entity.</sentence>
+<sentence id="s120">Indeed, although Mr Perlinski referred to "WebStable" as a single, discrete, software product (and the terms in which I have described it above in these reasons assume as much), it was no part of Dais's evidentiary case to identify a single entity that constituted WebStable as such.</sentence>
+<sentence id="s121">Each time some actual source code from a part of WebStable (most commonly the table file and/or the editor file) was referred to in the evidence, it was from a version of WebStable produced for a particular client.</sentence>
+<sentence id="s122">Neither Mr Perlinski nor any of Dais's other witnesses gave evidence, and I could not infer, that the WebStable source code was unchanging.</sentence>
+<sentence id="s123">By contrast, as Mr Lindgren said with reference to the table file, "code grows over time".</sentence>
+<sentence id="s124">I find that both of the subject files were modified by the developers employed by Dais as part of a process of continuous improvement.</sentence>
+<sentence id="s125">As between applications, the files were, or at least may well have been, different by reason of the specific needs of the web sites of particular clients.</sentence>
+<sentence id="s126">Counsel for the applicants described the different variations of the files as "iterations", a description which seems apt enough.</sentence>
+<sentence id="s127">The absence of a single, unchanging, expression of each of the table file and the editor file is a circumstance of some importance for the applicants' claim in copyright, to which I shall refer further in due course.</sentence>
+<sentence id="s128">18 I turn next to the conduct of Mr Petro of which Dais complains.</sentence>
+<sentence id="s129">In 1999 (ie before he commenced his employment with Dais), Mr Petro had built a web site for a business called "Food Direct".</sentence>
+<sentence id="s130">Since then, he maintained what he described as "an ongoing relationship" with Ms Ilana Hannan from that business.</sentence>
+<sentence id="s131">In about May 2004 (ie about 5 months after Mr Petro had left his employment with Dais), Ms Hannan asked Mr Petro to redevelop the Food Direct web site, and he commenced work on that project, on a monthly retainer of $2,000.</sentence>
+<sentence id="s132">For reasons which do not need to be canvassed here, that project was never completed.</sentence>
+<sentence id="s133">In the course of his work for Food Direct, Mr Petro commenced to build an online newsletter system, which would allow Ms Hannan to send a weekly email newsletter to her member-base of over 20,000 users.</sentence>
+<sentence id="s134">That system required a table file and an editor file.</sentence>
+<sentence id="s135">19 In order to obtain the table file and the editor file required for the Food Direct newsletter system, Mr Petro made access to the table file and the editor file on the existing web site of one of Dais's commercial clients.</sentence>
+<sentence id="s136">Mr Petro could not recall the name of the web site to which he had access, but he assumed that it was one of the sites upon which he had been working whilst in the employ of Dais.</sentence>
+<sentence id="s137">It may even have been Dais's own site.</sentence>
+<sentence id="s138">In order to access the site from which he obtained the table file and the editor file, Mr Petro did not require, and did not use, a user name and/or password.</sentence>
+<sentence id="s139">Rather, he keyed into the URL line on his browser the location and name of each file by reference to the file-naming conventions used by Dais.</sentence>
+<sentence id="s140">Had it been Dais's own site, and in the case of the table file, he would have keyed in the following address "www.dais.com.au/_script/admin_script/cdaitable.js".</sentence>
+<sentence id="s141">This took him directly to the files which he needed.</sentence>
+<sentence id="s142">He then saved the files to a directory on his own computer and modified them to suit his own purposes in building the online newsletter system for Food Direct.</sentence>
+<sentence id="s143">As I understood his evidence, the files remain on the server for the Food Direct web site, but Mr Petro thinks it unlikely that they were ever used, since he never completed the project for the construction of the Food Direct newsletter system.</sentence>
+<sentence id="s144">However, from that point, Mr Petro used these files, as modified by him, in the building of a number of subsequent web sites for other clients.</sentence>
+<sentence id="s145">20 In about June 2004, Mr Petro secured casual employment as a web developer with an organisation called "International Education Services" ("IES").</sentence>
+<sentence id="s146">His first task was to rebuild a web site of IES itself called "Foundation Year".</sentence>
+<sentence id="s147">He did so, utilising the table file and the editor file originally obtained from a Dais-built CMS, and modified by him.</sentence>
+<sentence id="s148">Over about the next 22 months, Mr Petro either built or modified some 10 web sites for commercial clients.</sentence>
+<sentence id="s149">On each such occasion, he utilised the table file, and on two such occasions he utilised the editor file, originally obtained from a Dais-built CMS, and subsequently modified by him.</sentence>
+<sentence id="s150">Indeed, for about the latter eight or so such instances, the CMS provided by Mr Petro to his clients was, as I understand his evidence, more or less standardised.</sentence>
+<sentence id="s151">He did not suggest that the table file and (where it was used) the editor file were not in each case at least based upon what he had originally downloaded in about June 2004.</sentence>
+<sentence id="s152">In October 2005, Mr Petro became engaged full-time in the employ of IES.</sentence>
+<sentence id="s153">The occasion for this engagement was the need to build various web sites for an organisation called "PIER Online".</sentence>
+<sentence id="s154">Whilst in the employ of IES, Mr Petro built the PIER Online web site, utilising the table file, but not the editor file.</sentence>
+<sentence id="s155">21 As I mentioned at the outset, one of the web sites built by Mr Petro was for a business called "Red PR".</sentence>
+<sentence id="s156">He did that in about August 2005.</sentence>
+<sentence id="s157">By coincidence, in about April 2006 Red PR was engaged by Dais as its own public relations consultancy.</sentence>
+<sentence id="s158">In March 2007, Red PR engaged Dais to assist them with their brand and corporate identity, an aspect of which was the evaluation, and potential re-development, of their web site (with which Red PR had grown dissatisfied).</sentence>
+<sentence id="s159">This required the staff at Dais to examine the file system and workings of the web site, from which they concluded that the CMS had been substantially copied from WebStable, most probably by Mr Petro.</sentence>
+<sentence id="s160">That conclusion led to the commencement of the present proceeding.</sentence>
+<sentence id="s161">22 Notwithstanding Dais's immediate suspicions upon examining the CMS for the Red PR site, it emerged that the only elements of WebStable that Mr Petro had taken for his own CMS were the table file and the editor file.</sentence>
+<sentence id="s162">Dais's case at trial was that, when he downloaded those files in about June 2004, he reproduced them within the meaning of the Copyright Act 1968 (Cth) and he subsequently used them for his own commercial purposes, including his engagement upon the Red PR project.</sentence>
+<sentence id="s163">Dais also alleged that Mr Petro's use of the information contained in those two files, and of his knowledge as to how to secure access to them after the termination of his employment with Dais, involved breaches of certain obligations of confidence to which I shall later refer.</sentence>
+<sentence id="s164">
+ THE COPYRIGHT WORK 
+ 
+ 23 In its case as pleaded, Dais alleges that WebStable was a computer program within the meaning of s 10 of the Copyright Act :
+ In this Act ... computer program means a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.</sentence>
+<sentence id="s165">
+
+If WebStable was a computer program, it was a literary work, and thus entitled to copyright protection.</sentence>
+<sentence id="s166">However, as explained above, I could not find that there was an unchanging entity called WebStable which constituted a work in the sense required by the Copyright Act .</sentence>
+<sentence id="s167">Dais did not tender any form of WebStable save one that had been built for a particular client.</sentence>
+<sentence id="s168">I was not shown, or told about, a "master file" or the like which existed on Dais's own computer and which spawned all forms which were commercially marketed.</sentence>
+<sentence id="s169">I do not know whether such a thing existed.</sentence>
+<sentence id="s170">The only setting in which I could approach the question whether there was a computer program on which Dais could sue as a copyright work would be one that involved a specific, identified, form or iteration of WebStable as built for a particular client.</sentence>
+<sentence id="s171">
+ 24 Dais conducted its case in copyright by reference to a web site which it had built for a business called "HR Advantage".</sentence>
+<sentence id="s172">It identified the work upon which it sued in two ways (expressed in the alternative).</sentence>
+<sentence id="s173">Each relied upon the definition of "computer program" in the Copyright Act .</sentence>
+<sentence id="s174">In its primary case, Dais contended that the source code for the HR Advantage CMS as a whole was a computer program, and therefore a literary work in the statutory sense.</sentence>
+<sentence id="s175">Mr Petro agreed with those propositions, in which circumstances I so find.</sentence>
+<sentence id="s176">However, against the possibility that I might not find that Mr Petro reproduced all or a substantial part of that work --- a matter to which I shall return in due course --- Dais contended in the alternative that each of the table file and the editor file in the HR Advantage CMS was a computer program, and therefore a literary work, in its own right.</sentence>
+<sentence id="s177">It is to the resolution of that question that I now turn.</sentence>
+<sentence id="s178">25 For the HR Advantage table file or editor file to be a computer program, it had to be "a set of statements or instructions to be used directly or indirectly in a computer to bring about a certain result".</sentence>
+<sentence id="s179">Unaided by authority, I would have no difficulty in holding that each file constituted such a set of statements or instructions.</sentence>
+<sentence id="s180">Each contained at least statements, but I would hold also instructions, in the sense that the commands undoubtedly involved in the lines of source code were instructions for things to happen.</sentence>
+<sentence id="s181">It may be that they were instructions for files or portions of the browser software other than the subject files to do things, but they were instructions nonetheless.</sentence>
+<sentence id="s182">It is no less clear that the instructions (or statements) were used in a computer.</sentence>
+<sentence id="s183">As client-side JavaScript files, this use occurred in the user's computer (ie the computer in which the browser displaying the web site was running).</sentence>
+<sentence id="s184">And the result which they brought about was the activation of the browser software to make the changes in appearance to a table, or to text, as displayed on the user's screen.</sentence>
+<sentence id="s185">26 It was submitted on behalf of Mr Petro, however, that neither the table file nor the editor file was a set of instructions which brought about a certain result.</sentence>
+<sentence id="s186">As I understand the submission, it was not suggested that these files were not instructions as far as they went; rather, it was said that there was no "certain result" which they brought about.</sentence>
+<sentence id="s187">It was submitted that the table file --- 
+ &#8226; "... provides minor aesthetic additions to the display and operation of a table ...";
+ &#8226; "... of itself does not control the function or operation of the table ...";
+ &#8226; "... is only used in a limited way if, and only if, the user wishes, in relation to a pre-existing table, to "highlight one or more lines of the table in a present colour after that line is clicked on by the user, with the assistance of other source code", to "re-order a line in the table by moving it up or down", and to "sort a table into ascending or descending order based upon entries in a column...";
+ &#8226; "... must interact with other code ..."; and
+ &#8226; "... does not do anything useful in its own right".</sentence>
+<sentence id="s188">
+
+It was likewise submitted that the editor file --- 
+ 
+ &#8226; "... provides minor additions to the operation of an on-screen editor used by" the CMS;
+ &#8226; "... of itself does not control the function or operation of the editor ...";
+ &#8226; could not be equated with a word processing program;
+ &#8226; "... simply allows a user to make selected text bold, italics, underlined or similar ...";
+ &#8226; "... must interact with other code ...";
+ &#8226; "... does not input or create the text, carry out the function to select text, create buttons on the screen, create the editor box on the screen, or allow text to be saved ...";
+ &#8226; "... only relates to editing text, and not editing or changing other content of a web site, such as graphics, sounds and movies ..."; and 
+ &#8226; "... needs to work with other code to function.</sentence>
+<sentence id="s189">"
+ 27 In part, Mr Petro's submissions emphasise the smallness of the results arguably brought about by the table file and the editor file.</sentence>
+<sentence id="s190">I do not consider that such is a proper basis upon which to disqualify the files from satisfying the requirements of the definition of "computer program".</sentence>
+<sentence id="s191">In part, however, the submissions make a point of more substance, namely, that the definition requires that the instructions or statements to which it refers actually bring about the result in question, by their own doings and unaided as it were.</sentence>
+<sentence id="s192">The submissions point out that, as client-side functional files, the table file and the editor file play only a role, and a relatively minor role, in bringing a result about.</sentence>
+<sentence id="s193">The submissions call for a consideration of the current statutory definition of "computer program".</sentence>
+<sentence id="s194">28 Under the definition of "computer program" in the Copyright Act before the current definition was introduced in 2000, it was necessary that there be "a set of instructions ... intended ... to cause a device ... to perform a particular function.</sentence>
+<sentence id="s195">" In Powerflex Services Pty Ltd v Data Access Corporation (No 2) (1997) 75 FCR 108, one of the questions with which the Full Court was concerned was whether commands in the nature of "macros", which caused the performance of particular functions in a computer, were themselves computer programs within the meaning of that definition.</sentence>
+<sentence id="s196">Because, relevantly, their Honours held that there had been no infringement, they were not required to determine --- 
+ ... whether the underlying set of instructions to each macro command should be looked at as a separate software program because it performs the particular functions which it is designed to perform, or whether it should be seen merely as a part of the entire Dataflex compilation program.</sentence>
+<sentence id="s197">(75 FCR at 126) 
+ 
+ 
+
+Their Honours did, however, make the following observations (at 127):
+ 
+ However, it seems to us that in the context of copyright law where protection is given for a "work", one should look at the work as a substantial whole rather than at a particular part of a work as involving a separate work.</sentence>
+<sentence id="s198">A poem may consist of a series of stanzas, but copyright exists in the entire poem not separately in each stanza.</sentence>
+<sentence id="s199">The question, however, will clearly be one of fact.</sentence>
+<sentence id="s200">If a particular set of instructions is functionally separate from the entirety of the program, then it seems to us there is no difficulty in treating that set of instructions as being a literary work separate from the balance of the program.</sentence>
+<sentence id="s201">An illustration is the Widget C program in the Autodesk case, where Widget C was a functionally separate part of the entire program in the sense that the balance of the program could function separately from the lock program.</sentence>
+<sentence id="s202">If that is the case, then the relevant program to be considered here would not be that small fragment of program which causes the macro command to perform its function (some 229 lines), but the Dataflex compiler program itself.</sentence>
+<sentence id="s203">On this basis it is doubtful that the macros themselves could be seen as a substantial part of the whole or, to adopt the language of Gaudron J in Autodesk , that they would be described as the "linchpin" of the program.</sentence>
+<sentence id="s204">29 When Powerflex went to the High Court --- see Data Access Corporation v Powerflex Services Pty Ltd [1999] HCA 49 ; (1999) 202 CLR 1 --- it was held that the single word assigned to each of the macros was not, at that level of abstraction, a "computer program" (202 CLR at 36 [100]).</sentence>
+<sentence id="s205">Referring to the Full Court's consideration of the matter whether a particular set of instructions was functionally separate, Gleeson CJ, McHugh, Gummow and Hayne JJ said (202 CLR at 36-37 [102]-[103]):
+ The Full Court stated no statutory basis for taking a "functionally separate" approach.</sentence>
+<sentence id="s206">If there is a statutory basis it must be found in the words of the definition "intended ... to cause a device having digital information processing capabilities to perform a particular function".</sentence>
+<sentence id="s207">If the segment of the larger program in question can be said to have a function which is not merely one of the functions in the set of functions performed by the larger program, but is a separate and distinct particular function, it may be that this segment can be properly viewed as a computer program in and of itself.</sentence>
+<sentence id="s208">The Autodesk example given by the Full Court ((1997) 75 FCR 108 at 127) would illustrate that kind of distinction.</sentence>
+<sentence id="s209">The lock program in Widget C had a function (to prevent use of the software unless the correct key was inserted) which was not merely one of the functions in the set of functions performed by the computer aided design program which was AutoCAD.</sentence>
+<sentence id="s210">The Full Court appears to have concluded in this case that as a matter of fact the function performed by the segment of the Dataflex source code which underlies each Macro is merely one of the functions performed by the larger program, and therefore that segment is not a computer program in and of itself.</sentence>
+<sentence id="s211">We need not consider that conclusion because even if it is not right and the segment of source code which underlies each Macro is a computer program, there was no reproduction and no adaptation of those works.</sentence>
+<sentence id="s212">
+
+Picking up on their Honour's use of the expression "a separate and distinct particular function", and modifying that to fit the terms of the present definition of "computer program", counsel for Mr Petro submitted that neither the table file nor the editor file achieved "a separate and distinct result by itself", and, accordingly, that neither was a computer program as defined.</sentence>
+<sentence id="s213">
+ 30 There are two reasons why I do not consider that the joint judgment in Data Access requires a conclusion in the present case that the table file and the editor file are not computer programs because they do not, alone, produce a certain result.</sentence>
+<sentence id="s214">The first is that the question with which their Honours were concerned was whether a segment of a program could be considered as a program in its own right.</sentence>
+<sentence id="s215">By reference to the then statutory definition, their Honours answered that question by identifying the function which the segment performed: if it was a separate and distinct particular function, the terms of the definition may have been satisfied.</sentence>
+<sentence id="s216">In the present case, by contrast, the table file and the editor file are not merely segments of a larger program; or at least so to regard them begs the question.</sentence>
+<sentence id="s217">Considered as expressions in the sense required by the Copyright Act , they exist on the HR Advantage CMS as discrete files which may be downloaded, and which Mr Petro did download.</sentence>
+<sentence id="s218">31 The second reason why Data Access does not govern the resolution of the present problem is that the terms of the definition of "computer program" have changed since that case was decided.</sentence>
+<sentence id="s219">The previous definition was concerned with a function , and required that the set of instructions be intended to cause the device to perform the function.</sentence>
+<sentence id="s220">The present definition requires that the set of instructions be used , directly or indirectly, to bring about a certain result .</sentence>
+<sentence id="s221">As a matter of ordinary language, a thing might be used to bring about a certain result notwithstanding that it is but a component in a collection or sequence of things which together bring about the result.</sentence>
+<sentence id="s222">It may be accurately said that a brake pedal is used to arrest the progress of a car, notwithstanding that the pedal alone would be incapable of achieving that result.</sentence>
+<sentence id="s223">It may also be accurately said that soap powder is used to clean the family wash, notwithstanding that the desired result could not be brought about by the application of dry powder alone.</sentence>
+<sentence id="s224">32 Is there anything in the decided cases, or in the circumstances which surrounded the amendment of 2000, which would make it appropriate not to construe the definition of "computer program" in the way I have proposed above?</sentence>
+<sentence id="s225">The legislative history of the statutory definition of "computer program" was considered at some length by Emmett J in Australian Video Retailers Association v Warner Home Video Pty Ltd [2001] FCA 1719 ; (2001) 114 FCR 324, 339-342.</sentence>
+<sentence id="s226">Referring to the introduction of the previous definition in 1984, his Honour set out extracts from the then Explanatory Memorandum, including the following (114 FCR at 340): 
+ 
+ 
+ 16.</sentence>
+<sentence id="s227">The phrase 'expression ... of a set of instructions' is intended to make clear that it is not an abstract idea, algorithm or mathematical principle which is protected but rather a particular expression of that abstraction.</sentence>
+<sentence id="s228">The word 'set' indicates that the instructions are related to one another rather than being a mere collection.</sentence>
+<sentence id="s229">...
+ 19.</sentence>
+<sentence id="s230">The phrase 'intended... to cause' is used in preference to words such as 'capable... of causing' to cover the situation where the program, as written, may not operate for technical reasons such as the presence of a programming error.</sentence>
+<sentence id="s231">
+ 
+
+His Honour continued (at 340-341 [75]):
+ 
+ An instruction operates as such only to the extent that it conveys a command to its recipient.</sentence>
+<sentence id="s232">What is required to achieve that result in a given case will vary according to circumstances and according to the knowledge of that recipient.</sentence>
+<sentence id="s233">In general terms, the less knowledgeable the recipient, the greater will be the need for the instruction to be accompanied by information.</sentence>
+<sentence id="s234">Thus, the expression 'set of instructions' in the original form of the definition directs attention to an entire set of instructions, and not merely those parts that consist of bare commands.</sentence>
+<sentence id="s235">The words 'set of instructions' direct attention to instructions in their entirety.</sentence>
+<sentence id="s236">That direction is reinforced by the parenthetical description of the instructions in the original definition as instructions 'whether with or without related information'.</sentence>
+<sentence id="s237">Further the definition is concerned with instructions that 'cause a device having digital information processing capabilities to perform the particular function'.</sentence>
+<sentence id="s238">In many cases it will be necessary for instructions to be accompanied by related information if those devices are to perform quite ordinary computer functions --- Autodesk Inc v Dyason (No.2) at 329.</sentence>
+<sentence id="s239">
+
+And further (at 341 [79]):
+ 
+ Under the 1984 definition, for an item to be a computer program, it must not only be an 'expression... of a set of instructions', but the expression of that set of instructions must also be designed to achieve a particular purpose in that it must be 'intended... to cause a device... to perform a particular function'.</sentence>
+<sentence id="s240">The emphasis on a singular function indicates that it is necessary to identify precisely the relevant function --- see Data Access at 24 [56].</sentence>
+<sentence id="s241">Similarly, in the current definition, it is necessary to identify precisely the 'certain result that the set of statements or instructions' is to be used to bring about.</sentence>
+<sentence id="s242">33 Emmett J then dealt with the 2000 amendment.</sentence>
+<sentence id="s243">His Honour said (at 341 [80]):
+ The words of the current definition are different from the words of the 1984 definition.</sentence>
+<sentence id="s244">However, there is no reason to think that the underlying concept of the 1984 definition was intended to be altered by the amendment that introduced the current definition.</sentence>
+<sentence id="s245">The current definition was substituted by the Copyright Amendment (Digital Agenda) Act 2000 (Cth).</sentence>
+<sentence id="s246">The revised explanatory memorandum circulated by the Attorney-General in connection with the Bill for that Act stated that the new definition was intended to implement a recommendation of the Copyright Law Review Committee (CLRC) in its 1995 report "Computer Software Protection".</sentence>
+<sentence id="s247">
+
+His Honour observed that the CLRC report recommended amending the definition "to clarify some remaining uncertainties and to ensure more comprehensive protection for computer programs.</sentence>
+<sentence id="s248">" (at 341-342 [81]).</sentence>
+<sentence id="s249">That is so, but the actual wording of the new definition was based upon the definition in the legislation of the USA.</sentence>
+<sentence id="s250">The committee said (Report, par 6.32):
+ 
+ The Committee is of the view that any definition of "computer program" should not be unduly restrictive of future developments in programming languages and should be clearly comprehensive in its coverage.</sentence>
+<sentence id="s251">The Committee is mindful that the position adopted in Australia in relation to the extent of the protection afforded to computer programs should, as far as possible, be consistent with that adopted by our major trading partners.</sentence>
+<sentence id="s252">The Committee believes that the US definition, by using the words "to be used directly or indirectly in a computer", covers programs written in source code, object code and microcode.</sentence>
+<sentence id="s253">Accordingly, it disposes of any uncertainty whether protection is limited to when the program code is visible.</sentence>
+<sentence id="s254">Also, the inclusion of the word "statements" clearly extends the scope of the definition to cover programs written in declarative programming languages.</sentence>
+<sentence id="s255">
+
+The committee was not persuaded that the adoption of the USA wording would lead to the widespread citation of authorities from that country in cases coming before Australian courts.</sentence>
+<sentence id="s256">To this point, there is nothing in the history of definition that would require the interrogatory expressed at the start of the previous paragraph to be answered in the affirmative.</sentence>
+<sentence id="s257">Indeed, the committee, and therefore the legislature in 2000, appears to have been concerned with issues quite different from the present.</sentence>
+<sentence id="s258">
+ 34 If my interrogatory is to be answered in the negative, it must be because the requirement of use to bring about a certain result is limiting with respect to what may constitute the "set" of statements or instructions.</sentence>
+<sentence id="s259">In other words, it must be because, as a matter of construction, the set will always be defined by its ability to bring about the result, such that, if some other statement, instruction or the like is also required, the statements or instructions putatively making up the original set could not be regarded as a "set" in the statutory sense.</sentence>
+<sentence id="s260">That there might be a definitional issue of this kind was apprehended by at least some of those who contributed to the work of the committee.</sentence>
+<sentence id="s261">In its report, the committee referred to a submission made to it which drew attention to difficulties which may arise from the inherent uncertainty in the concept of a "set" of statements or instructions.</sentence>
+<sentence id="s262">Referring to the authors of that submission, the committee said (Report, par 6.27):
+ The consequence that they envisaged was that it would be difficult, if not impossible, to determine if there had been a substantial reproduction of a computer program if there was no way of knowing how many instructions or statements make up a set and especially if there were no criteria for establishing the "in-the-set" to the "out-of-the-set" boundaries.</sentence>
+<sentence id="s263">Their submission suggests a resolution of this problem by focusing on the function of a particular statement or instruction.</sentence>
+<sentence id="s264">In their view the appropriate test would be whether a statement or instruction "contributes to, and is an elemental part of the process of performing a specific function" in which case it would be part of the "in-the-set" statements.</sentence>
+<sentence id="s265">
+
+The committee responded to that submission as follows (Report, par 6.28):
+ 
+ In the Committee's view this "test" does not necessarily need to form part of the definition of "computer program" in the Act, especially as it relates to the issue of reproduction more than to the issue of what is being protected.</sentence>
+<sentence id="s266">It is a test that the courts could apply when dealing with cases of alleged reproduction and which in any event they must already apply in determining the subject matter in question.</sentence>
+<sentence id="s267">There are two other reasons for leaving to the courts the determination of what is and what is not part of a computer program.</sentence>
+<sentence id="s268">The definition of "literary work" gives no guidance such as is proposed on what forms part of or does not form part of works other than computer programs.</sentence>
+<sentence id="s269">This could be an issue in relation to, eg, unpublished notes for a draft of a novel.</sentence>
+<sentence id="s270">Second, that definition refers to "a computer program or compilation of computer programs", acknowledging, so it seems, that what is under consideration may constitute a single program or two or more programs.</sentence>
+<sentence id="s271">The facts of the Autodesk case illustrate that possibility.</sentence>
+<sentence id="s272">35 It is difficult, with respect, to appreciate how the committee might have thought that the problem of the "set" related, at least primarily, to the matter of reproduction rather than to the matter of whether some plurality of statements or instructions (which otherwise complied with the definition) constituted a set and therefore a computer program.</sentence>
+<sentence id="s273">The problem does, it seems to me, relate to the establishment of the basal proposition that the phenomena on which an applicant relies together constitute a literary work.</sentence>
+<sentence id="s274">However that may be, the fact is that there was nothing in the committee's report that suggested that statements or instructions should be considered to be a set only if they together, and without contribution from elsewhere, brought about the result to which the new definition refers.</sentence>
+<sentence id="s275">Had it been the view of the committee, or otherwise the proper construction of the new definition which it proposed, that the problem of the "set" was more apparent than real because in every case the matter would be resolved by reference to the result, it might easily have said so, and, indeed, might well be expected to have said so.</sentence>
+<sentence id="s276">36 With respect, I agree with Emmett J that there is no reason to think that the "underlying concept" of the 1984 definition was intended to be altered by the amendment of 2000.</sentence>
+<sentence id="s277">Specifically in the present context, I can think of no reason why the concept of a "set", which was utilised by the 1984 definition, should be differently viewed in the 2000 definition.</sentence>
+<sentence id="s278">As the Explanatory Memorandum for the 1984 amendment stated, the word "set" indicated "that the instructions are related to one another rather than being a mere collection".</sentence>
+<sentence id="s279">It is, therefore, the fact of interrelation, rather than the ability, unaided, to bring about the result, that should be treated as giving a practical connotation to the concept of a "set" in any particular case.</sentence>
+<sentence id="s280">What should be the nature of the relationship?</sentence>
+<sentence id="s281">Clearly, the use to which the statements or instructions are put.</sentence>
+<sentence id="s282">If the statements or instructions are co-operatively used to bring about a certain result, that should be regarded as sufficient to satisfy the definition.</sentence>
+<sentence id="s283">That they require also the participation of other components of software, be they statements, instructions or otherwise, should not, in my view, be regarded as disqualifying.</sentence>
+<sentence id="s284">37 I was not referred to any American authorities on the present question, and my own researches have found none.</sentence>
+<sentence id="s285">Perhaps surprisingly, the question whether a plurality of statements or instructions said to constitute a set should be regarded as being used to bring about a certain result notwithstanding that they do not do so unaided does not seem to have arisen in decided cases in the USA.</sentence>
+<sentence id="s286">38 I was also referred to the judgment of Selway J in Telephonic Communicators International Pty Ltd v Motor Solutions Australia Pty Ltd (2004) 62 IPR 323, but I do not consider that there is anything in his Honour's judgment that requires me to take an approach different from that disclosed by my reasons as set out above.</sentence>
+<sentence id="s287">39 In the result, I would answer the interrogatory set out at the start of par 32 above in the negative.</sentence>
+<sentence id="s288">The definition requires me to accept as a computer program any set of statements or instructions which is used to bring about a certain result.</sentence>
+<sentence id="s289">I consider that the instructions in the table file and the editor file were a set within the terms of the definition.</sentence>
+<sentence id="s290">Those files were discrete manageable entities.</sentence>
+<sentence id="s291">Either could be downloaded and used as such.</sentence>
+<sentence id="s292">Either could be included in, or excluded from, a CMS, depending on the developer's requirements.</sentence>
+<sentence id="s293">Each added functionality, in the sense that results were made possible by its inclusion.</sentence>
+<sentence id="s294">Each file (or either file as the occasion required) was sent as an entity to the user's computer to function co-operatively with the browser's software.</sentence>
+<sentence id="s295">The instructions on each file were related by function, by location and by utilisation.</sentence>
+<sentence id="s296">On any view, those instructions constituted a set.</sentence>
+<sentence id="s297">Further, the results for the bringing about of which the files were used were recognisable and definable.</sentence>
+<sentence id="s298">In the case of the table file, for instance, one result might be the highlighting of a line entry in a table.</sentence>
+<sentence id="s299">Another result might be the re-ordering of the lines in the table.</sentence>
+<sentence id="s300">For each result to be brought about required the participation of HTML software on the browser; but it required also the participation of the relevant instructions in the table file.</sentence>
+<sentence id="s301">That is to say, in the words of the definition, the bringing about of the result in question required the use of those instructions.</sentence>
+<sentence id="s302">And the same conclusion could be drawn, mutatis mutandis , in the case of the instructions in the editor file.</sentence>
+<sentence id="s303">40 For the sake of completeness, I mention here that Mr Muys and Mr Wood expressed the opinion that neither the table file nor the editor file was a computer program.</sentence>
+<sentence id="s304">The question for the court, however, is not whether either file was a computer program as understood by professionals in the field; it is whether either file satisfied the statutory definition.</sentence>
+<sentence id="s305">41 For the above reasons, I hold that each of the table file and the editor file in the HR Advantage CMS was a computer program, and therefore a literary work.</sentence>
+<sentence id="s306">42 Mr Petro accepted that the source code for the HR Advantage CMS and, subject only to his submission that the table file and the editor were not computer programs in their own right, that the source code for those files had the necessary originality to sustain a claim in copyright, and that Dais was the copyright owner in each case.</sentence>
+<sentence id="s307">In other words, subject only to that qualification, the only point that Mr Petro put in issue was infringement.</sentence>
+<sentence id="s308">
+ REPRODUCTION OF COPYRIGHT WORK 
+ 
+ 43 Under the Copyright Act , there will not be reproduction in the absence of "actual use of ... the copyright work": SW Hart &amp; Co Pty Ltd v Edwards Hot Water Systems [1985] HCA 59 ; (1985) 159 CLR 466, 472 per Gibbs CJ.</sentence>
+<sentence id="s309">This includes, of course, indirect copying (ie copying a copy of the work) and so-called subconscious copying.</sentence>
+<sentence id="s310">But, one way or the other, "the copyright work must be shown to be a causa sine qua non of the infringing work": Francis Day &amp; Hunter Ltd v Bron [1963] Ch 589, 624 per Diplock LJ.</sentence>
+<sentence id="s311">It is not sufficient that the putative infringer made a copy of a progenitor, or a sibling, of the copyright work.</sentence>
+<sentence id="s312">In the context of the present case, what is required for Dais to succeed is that Mr Petro copied the HR Advantage CMS, or the table and editor files from that CMS.</sentence>
+<sentence id="s313">It will not be sufficient if what Mr Petro copied was another CMS (or the relevant files from another CMS) not itself a copy of the HR Advantage CMS, even if that other CMS was a progenitor work from which the HR Advantage CMS was derived.</sentence>
+<sentence id="s314">44 Although Mr Petro accepts that he downloaded a table file and an editor file from the site of one of Dais's customers (or, possibly, from Dais itself), he could not recall from which site he did so.</sentence>
+<sentence id="s315">In order to prove that the table file most likely downloaded was that contained in the HR Advantage CMS, Dais put two documents in evidence.</sentence>
+<sentence id="s316">The first was the source code for the table file in a CMS built by Mr Petro in August 2005 for Red PR.</sentence>
+<sentence id="s317">The second was the source code for the table file in HR Advantage.</sentence>
+<sentence id="s318">In each document as tendered, the source code that was identical to the corresponding code in the other document was highlighted.</sentence>
+<sentence id="s319">In the HR Advantage document, a group of 21 sequential lines of code was not highlighted.</sentence>
+<sentence id="s320">Additionally, two lines, and some words and symbols on other lines, were not highlighted.</sentence>
+<sentence id="s321">In the Red PR document, about a quarter of the content was not highlighted.</sentence>
+<sentence id="s322">Mr Petro accepted that he had made changes to the table file that he originally downloaded from a Dais-built site.</sentence>
+<sentence id="s323">Notwithstanding that circumstance, the comparison of the two documents does not of itself justify the inference that the HR Advance file was most probably the one that Mr Petro downloaded.</sentence>
+<sentence id="s324">While Mr Petro undoubtedly added code to the version that he downloaded, the HR Advantage document contains code that does not appear in the Red PR document.</sentence>
+<sentence id="s325">Given what I would hold to be a fairly high degree of standardisation as between the table files on CMSs built by Dais for different clients, I think it no more likely that Mr Petro downloaded the table file from the HR Advantage CMS than that he downloaded a corresponding file from some other Dais-built CMS.</sentence>
+<sentence id="s326">45 A similar documentary comparison was embarked upon in relation to the editor file.</sentence>
+<sentence id="s327">This time the HR Advantage editor file was compared with the editor file in the "Foundation Year" CMS which Mr Petro built in the period June to August 2004.</sentence>
+<sentence id="s328">I would express the same conclusions in this context as I have in the previous paragraph in the context of the table file comparison.</sentence>
+<sentence id="s329">46 The HR Advantage CMS was in the course of development within Dais during Mr Petro's last few months there.</sentence>
+<sentence id="s330">Activity records maintained by Dais --- and relevantly entered up by Mr Petro himself --- show him as having been engaged to some extent upon "testing HR Advantage" on 24 October 2003.</sentence>
+<sentence id="s331">However, Mr Petro could not recall the project at all.</sentence>
+<sentence id="s332">He surmised that "testing" might have meant no more than it said, namely, that he tested a site which had been built by others.</sentence>
+<sentence id="s333">It was put to him that the records of Dais described him as "the person responsible for the HR Advantage Consultant site", to which he responded, "Okay, I accept it, but like I said, I have absolutely no memory of it".</sentence>
+<sentence id="s334">If there were any such records, they were not produced.</sentence>
+<sentence id="s335">It was put to Mr Petro that he had been the "lead developer" for the site, to which he first responded that he had no recollection of it, and, after a short break in the hearing had given him the opportunity to review the Dais activity records, asserted that those records showed only the one entry which linked him with the site.</sentence>
+<sentence id="s336">He added "... so I maintain that I wasn't the lead developer on that site.</sentence>
+<sentence id="s337">" It was put to Mr Petro that, in addition to 24 October 2003, he had spent some time on 1 July and 8 August 2003 working on the HR Advantage site, and he replied that he had "no idea".</sentence>
+<sentence id="s338">It was not established by Dais that Mr Petro did work on the HR Advantage site on those two days.</sentence>
+<sentence id="s339">47 Mr Petro's evidence, both in its substance and in the manner of its giving, was perfectly ingenuous.</sentence>
+<sentence id="s340">He frankly said what he had done, and why.</sentence>
+<sentence id="s341">I gathered that it never occurred to him that he had done anything wrong.</sentence>
+<sentence id="s342">He did not have the demeanour of a witness who attempted to avoid confronting uncomfortable facts by recourse to a pretended inability to recall.</sentence>
+<sentence id="s343">Rather, having worked to various degrees on projects under development during his time at Dais, he said that he had no recollection of having had anything to do with the HR Advantage site.</sentence>
+<sentence id="s344">If he worked on it only to the extent of "testing" on one day as proved by Dais, I can well understand that he would have had no recollection of that circumstance, or of the site generally.</sentence>
+<sentence id="s345">I accept his evidence in these respects.</sentence>
+<sentence id="s346">Mr Petro accepted that the site from which he downloaded a table file and an editor file in about June 2004 was most likely a site upon which he had worked at Dais (ie if it was not the Dais site itself).</sentence>
+<sentence id="s347">Dais too conducted its case on that basis, and it seems very probable that that is what occurred.</sentence>
+<sentence id="s348">I could not find that Mr Petro worked on the HR Advantage site other than very briefly, for the purpose of testing, about two months before he left the employ of Dais.</sentence>
+<sentence id="s349">That circumstance, together with Mr Petro's inability to recall ever having worked on that site, leads me to find that that site was probably not the one from which Mr Petro downloaded the table file and the editor file.</sentence>
+<sentence id="s350">48 In the circumstances, and for the reasons stated above, I could not find, on the probabilities, that Mr Petro reproduced the table file or the editor file from the HR Advantage CMS.</sentence>
+<sentence id="s351">The result must be that Dais's claim in copyright fails, whether the work is regarded as the entire HR Advantage CMS or is regarded as each of the table and editor files contained in that CMS.</sentence>
+<sentence id="s352">49 At this point I should note that, in its case as pleaded, Dais alleged that Mr Petro had made or reproduced an adaptation of "WebStable" or of a substantial part of WebStable.</sentence>
+<sentence id="s353">However, counsel for Dais did not address the question of how Mr Petro's conduct amounted to an adaptation, as distinct from a reproduction, of WebStable itself.</sentence>
+<sentence id="s354">Indeed, the statutory requirements to establish the existence of an adaptation were not dealt with at all by Dais.</sentence>
+<sentence id="s355">In these circumstances, I am not disposed to consider whether Mr Petro's conduct in downloading the table file and the editor file from an unidentified site might have amounted to an adaptation of those files as they appeared in the HR Advantage CMS.</sentence>
+<sentence id="s356">50 Since the matter was argued fully before me, I propose to consider Dais's copyright case upon the supposition that I am wrong in the conclusion that Mr Petro did not reproduce the table file and the editor file from the HR Advantage CMS.</sentence>
+<sentence id="s357">If he did so, Dais's alternative claim in copyright (ie that based upon the proposition that each such file was a work in its own right) must succeed.</sentence>
+<sentence id="s358">However, whether his primary claim (ie as based upon the proposition that the HR Advantage CMS as a whole was the copyright work) succeeds will depend upon whether the table file, the editor file, or both files in combination, constituted a "substantial part" of the CMS as a whole, for the purposes of s 14 of the Copyright Act .</sentence>
+<sentence id="s359">It is to that question that I next turn.</sentence>
+<sentence id="s360">51 To resolve the question whether a part of a copyright work is a "substantial part" requires a consideration of the part against the copyright work as a whole: TCN Channel Nine Pty Ltd v Network Ten Pty Ltd (2005) 145 CLR 35, 45 [27].</sentence>
+<sentence id="s361">In making that comparison, one looks to the quality of what was taken, rather than to its quantity: Data Access (202 CLR at 32 [83]); Gold Peg International Pty Ltd v Kovan Engineering (Aust) Pty Ltd (2005) 225 ALR 57, 103 [187].</sentence>
+<sentence id="s362">In the particular context of a literary work which is a computer program, the matter of substantiality is not resolved by reference to the functional essentiality of the part taken to the operation of the program as a whole.</sentence>
+<sentence id="s363">Rather --- 
+ ...in the context of copyright law, where emphasis is to be placed on the 'originality' of the works expression, the essential or material features of a work should be ascertained by considering the originality of the part allegedly taken.</sentence>
+<sentence id="s364">
+
+( Autodesk Inc v Dyason (No 2) [1993] HCA 6 ; (1993) 176 CLR 300, 305 per Mason J, approved by Data Access , 202 CLR at 32-33 [83]).</sentence>
+<sentence id="s365">With reference to the former definition of "computer program" in the Copyright Act , their Honours in the joint judgment in Data Access said (202 CLR at 33 [85]):
+ 
+ In order for an item in a particular language to be a computer program, it must intend to express, either directly or indirectly, an algorithmic or logical relationship between the function desired to be performed and the physical capabilities of the 'device having digital information processing capabilities'.</sentence>
+<sentence id="s366">It follows that the originality of what was allegedly taken from a computer program must be assessed with respect to the originality with which it expresses that algorithmic or logical relationship or part thereof.</sentence>
+<sentence id="s367">The structure of what was allegedly taken, its choice of commands, and its combination and sequencing of commands, when compared, at the same level of abstraction, with the original, would all be relevant to this inquiry.</sentence>
+<sentence id="s368">
+
+ Under the present definition of computer program, there is no reference to any device, or to the performance of any function.</sentence>
+<sentence id="s369">Rather, what is required is use of statements or instructions, directly or indirectly, to bring about a certain result.</sentence>
+<sentence id="s370">Adapted to the context of the present definition, I think that the principle for which Data Access relevantly stands is that the substantiality of what was allegedly taken must be assessed with respect to the originality with which that part expresses the means by which the result is brought about.</sentence>
+<sentence id="s371">
+ 52 Returning to the facts of the present case, such evidence as there was about the originality of the first table file incorporated into WebStable would not, in my view, sustain the conclusion that the file was a substantial part of the whole.</sentence>
+<sentence id="s372">According to Mr Suthers, he based the file upon equivalent code which he had written in a previous employment.</sentence>
+<sentence id="s373">He made deletions and other changes, including the writing of new code, such as would probably sustain the conclusion that the result was an original work for copyright purposes (and the contrary was not submitted by Mr Petro).</sentence>
+<sentence id="s374">But the further conclusion that the original contributions of Mr Suthers and the other developers employed by Dais were of such a quality as to make the resulting table file a substantial part of WebStable as a whole is not, in my view, established on the evidence.</sentence>
+<sentence id="s375">53 In relation to the editor file, the evidence was that Mr Lindgren based the first version of that file on an earlier file in use of Dais.</sentence>
+<sentence id="s376">As I have set out in par 15 above, Mr Lindgren explained how he went about creating the editor file, but his explanation related substantially to function rather than to expression.</sentence>
+<sentence id="s377">As I pointed out above, notwithstanding Mr Lindgren's contribution to Dais's evidentiary case, he gave no evidence in chief from which I could make any finding about the originality of the expressions of the source code in the earliest version of the editor file as incorporated into WebStable.</sentence>
+<sentence id="s378">54 However these conclusions may be, the question with which I am concerned is not whether the expression of source code in the table file and the editor file was original in any absolute sense; nor even whether that expression was, taking the qualitative dimension of originality, a substantial part of the original WebStable CMS with respect to which that code was written.</sentence>
+<sentence id="s379">Rather, the question is whether the expression of the source code in those files, or in either of them, was a qualitatively substantial part of the entire expression of source code in the HR Advantage CMS.</sentence>
+<sentence id="s380">It is here that Dais's case is in some difficulty.</sentence>
+<sentence id="s381">Exhibited to an affidavit filed on behalf of Dais was a compact disc containing the whole of the source code for the HR Advantage CMS.</sentence>
+<sentence id="s382">While the existence of that exhibit was drawn to my attention, Dais did not present any argumentative case designed to establish that, along the dimension of originality, the table file and the editor file were, or either of them was, a substantial part of the whole body of the source code in the CMS.</sentence>
+<sentence id="s383">It may be one thing to invite a Judge to read a book, and then to submit that a particular chapter is a substantial part thereof, by reference to quality.</sentence>
+<sentence id="s384">It is, however, another thing altogether to invite a Judge to read in excess of two hundred thousand lines of computer code, meaningless to a layperson, with a view to having him or her accept that there is a qualitative respect in which a small part something of the order of one percent thereof should be regarded as a substantial part.</sentence>
+<sentence id="s385">I did not understand that any such invitation was extended to me; had it been, I would not have accepted it.</sentence>
+<sentence id="s386">55 As I have noted elsewhere in these reasons, Mr Carpenter expressed the opinion, without objection, that each of the table file and the editor file was an integral part of the HR Advantage CMS.</sentence>
+<sentence id="s387">That opinion, however, was expressed with reference to the functions performed by those files.</sentence>
+<sentence id="s388">No opinion was given as to the originality with which the statements and instructions in the source code in those files expressed the means by which the results in question were brought about, nor as to how that original quality, if there were one, should be comparatively measured against the original quality to be found in the source code for the CMS as a whole.</sentence>
+<sentence id="s389">56 In the circumstances, where Dais has not established that a degree of skill, labour and judgment has given the table file and the editor file an originality which made them a qualitatively substantial part of the HR Advantage CMS as a whole, it is relevant also to consider the quantitative dimension: Tamawood Ltd v Henley Arch Pty Ltd (2004) 61 IPR 378, 389 [50].</sentence>
+<sentence id="s390">Manifestly, on such a measure the two files were not a substantial part of the CMS.</sentence>
+<sentence id="s391">Based on a line-count, I could not find that the two files were a quantitatively substantial part of the whole source code for the HR Advantage CMS.</sentence>
+<sentence id="s392">Mr Wood expressed the opinion that a line-count was not the ideal way to determine substantiality, since "some routines are used often as they are referenced from many places within the program".</sentence>
+<sentence id="s393">I accept that so far as it goes, but manifestly Mr Wood was referring to function, rather than to expression.</sentence>
+<sentence id="s394">I consider that the only way to take a quantitative measure of expression in a case involving source code is by reference to the proportion of lines of code in the whole work constituted by the part reproduced.</sentence>
+<sentence id="s395">57 For the above reasons, I hold that Dais has not established that the source code in the table file, the editor file, or both, in the HR Advantage CMS was a substantial part of the source code as a whole in that CMS.</sentence>
+<sentence id="s396">It follows that, if otherwise it should be held that Mr Petro reproduced the source code for those files, he did not reproduce a substantial part of the source code for the HR Advantage CMS.</sentence>
+<sentence id="s397">
+ EQUITABLE OBLIGATION OF CONFIDENCE 
+ 
+ 58 Dais contends that Mr Petro's use of the source code in the table file and the editor file which he downloaded in about June 2004 amounted to a breach of an equitable obligation of confidence which arose in the circumstances, and which would be enforced by permanent injunction.</sentence>
+<sentence id="s398">It was that code which, according to Dais, was the confidential information the use of which would be restrained in accordance with the principles referred to by Gummow J in Corrs Pavey Whiting &amp; Byrne v Collector of Customs (1987) 14 FCR 434, 443 and again in Smith Kline &amp; French Laboratories (Aust) Ltd v Secretary, Department of Community Services and Health (1990) 22 FCR 73, 87.</sentence>
+<sentence id="s399">In Smith Kline , Gummow J said (22 FCR at 87):
+ A general formulation apt for the present case of an equitable obligation of confidence has four elements: (i) the plaintiff must be able to identify with specificity, and not merely in global terms, that which is said to be the information in question, and must be able to show that (ii) the information has the necessary quality of confidentiality (and is not, for example, common or public knowledge), (iii) the information was received by the defendant in such circumstances as to import an obligation of confidence, and (iv) there is actual or threatened misuse of that information, without the consent of the plaintiff.</sentence>
+<sentence id="s400">
+
+Gummow J left open the question whether there was an additional element, that the breach of confidence would inflict or be likely to inflict "detriment", as had been suggested by Megarry J in Coco v AN Clark (Engineers) Ltd [1969] RPC 41, 47-48.</sentence>
+<sentence id="s401">However, his Honour did opine, obiter , that the existence of detriment was not necessary (22 FCR at 111-112).</sentence>
+<sentence id="s402">
+ 59 The first and fourth of his Honour's elements may be dealt with shortly.</sentence>
+<sentence id="s403">As to the first, it was not submitted on behalf of Mr Petro that the relevant source code was not information identified with the requisite specificity.</sentence>
+<sentence id="s404">Although I might otherwise have thought there was a question whether some parts or segments of the code had a greater claim to confidentiality than others, both sides conducted their cases upon the basis that the code as a whole either was, or was not, entitled to protection, and I shall likewise adopt that basis for the purposes of these reasons.</sentence>
+<sentence id="s405">As to the fourth element, counsel for Dais submitted that, in Smith Kline , "Gummow J discounted the detriment requirement".</sentence>
+<sentence id="s406">Counsel for Mr Petro did not submit the contrary, in which circumstances I think I should regard Dais's title to relief as complete upon demonstration of unauthorised use of the information found to be confidential.</sentence>
+<sentence id="s407">60 Before turning to consider the second and third elements in Smith Kline , there are some additional facts, specific to the matter of confidentiality, which should be mentioned.</sentence>
+<sentence id="s408">In his affidavit sworn on 24 April 2007, Mr Perlinski devoted a group of 16 paragraphs to the subject "Commercial loss to Dais if WebStable product is used by others".</sentence>
+<sentence id="s409">One of those paragraphs contained the following passage:
+ Each application of WebStable has a written license [sic] agreement, entered into by each client, which enable [sic] the client to utilise the site with no restriction for the term of their own business purposes.</sentence>
+<sentence id="s410">The license [sic] has been put in place by DAIS to protect the code and restrict the client from disclosing the code and administrative access to the code to a third party or competitor.</sentence>
+<sentence id="s411">
+
+Mr Perlinski exhibited a copy of "the template or pro forma written licence agreement Dais enters into with each of its clients by way of licensing arrangements.</sentence>
+<sentence id="s412">" This agreement is drafted very favourably for Dais, and contains wide and tight requirements as to confidentiality.</sentence>
+<sentence id="s413">A client who executed this agreement could be in no doubt but that the source code for all the files that made up the CMS in WebStable was not to be disclosed to third parties.</sentence>
+<sentence id="s414">
+ 61 There is a question whether licence agreements of this kind were used by Dais at the time that Mr Petro was employed, and if so whether he knew thereof.</sentence>
+<sentence id="s415">There was evidence that, during the time of his employment with Dais, Mr Petro was involved in a client liaison to a significant degree.</sentence>
+<sentence id="s416">In his affidavit sworn on 24 April 2007, Mr Perlinski referred to 8-10 projects where Mr Petro, and another staff member there mentioned, "had an intimate knowledge of the client's circumstances, the project details and the financial details of the project.</sentence>
+<sentence id="s417">" Mr Petro himself gave evidence that, for a lot of the Dais projects, his was "a client liaison role".</sentence>
+<sentence id="s418">He said he was "quite good with clients".</sentence>
+<sentence id="s419">This line of evidence caused me to wonder whether Mr Petro knew of the terms of the agreements into which Dais entered with its clients, as mentioned in the previous paragraph.</sentence>
+<sentence id="s420">I say "wonder", since the subject was not broached by either side, either in the cross-examination of Mr Perlinski or Mr Petro, or in submissions.</sentence>
+<sentence id="s421">In these circumstances, I do not think I should find that Mr Petro had such knowledge.</sentence>
+<sentence id="s422">In the first place, Mr Perlinski's evidence as to terms of the agreements is expressed in the present tense --- it speaks as at April 2007.</sentence>
+<sentence id="s423">Mr Petro left the employ of Dais in December 2003.</sentence>
+<sentence id="s424">There is no evidence of any similar agreement that was in place during the period of Mr Petro's employment.</sentence>
+<sentence id="s425">Next, there is the absence of any direct evidence as to Mr Petro's knowledge, or likely knowledge, of the agreements.</sentence>
+<sentence id="s426">Had it been part of his role to procure the execution of such agreements with clients, or otherwise to liaise on contractual aspects, it would, I infer, have been a fairly simple matter for Mr Perlinski to have said so in his evidence.</sentence>
+<sentence id="s427">And finally, there is the absence of any submission on behalf of Dais that I should find that Mr Petro in fact knew of the terms of these agreements.</sentence>
+<sentence id="s428">It is true that counsel for Mr Petro also left this area untouched, but it was a matter upon which Dais bore the onus of proof, and of persuasion, and I am bound to conclude that it made no attempt to satisfy either.</sentence>
+<sentence id="s429">I proceed, therefore, on the basis that, however tight and protective Dais's contractual arrangements with its clients may have been, they were unknown to Mr Petro.</sentence>
+<sentence id="s430">62 In his affidavit sworn on 24 April 2007, Mr Perlinski also referred to the steps which Dais took to ensure that its employees, including Mr Petro, maintained business confidentiality in a number of respects.</sentence>
+<sentence id="s431">Exhibited to the affidavit was a copy of each of Mr Petro's employment agreement and of a "confidentiality agreement" referred to therein.</sentence>
+<sentence id="s432">The employment agreement (in the form of a letter written on behalf of Dais in which the "you" was Mr Petro) contained the following provisions:
+ We have great pleasure in offering you the fulltime position of Web Developer at DAIS with DAIS Studio Pty Ltd.
+ 
+ We would like you to sign, before your proposed commencement date, the attached copy of this letter indicating your acceptance of the employment conditions, including DAIS policies, set out below.</sentence>
+<sentence id="s433">Please read the document carefully and seek advice with the Studio Manager if there is anything you need clarified.</sentence>
+<sentence id="s434">....</sentence>
+<sentence id="s435">CONFIDENTIALITY AGREEMENT
+ In your position, you will have access to a significant amount of confidential and sensitive business information about DAIS, its operations and business plans.</sentence>
+<sentence id="s436">It is a condition of your employment that you agree to be bound by the provisions of DAIS Confidentiality Agreement which is attached to this letter of appointment.</sentence>
+<sentence id="s437">Your signing of this DAIS Confidentiality Agreement will indicate your acceptance of the terms and conditions contained within the agreement.</sentence>
+<sentence id="s438">....
+ 
+ INVENTIONS, PATENTS, DESIGNS, COPYRIGHT AND TRADE MARKS
+ An invention, discovery, improvement, design or trademark you use or make while employed by DAIS and in connection with its business will remain the property of DAIS.</sentence>
+<sentence id="s439">Ben, it gives us great pleasure to offer your employment with DAIS and we look forward to a rewarding association.</sentence>
+<sentence id="s440">Would you please sign this letter and the Confidentiality Agreement, as acceptance of our offer and the terms and conditions of employment and return them to DAIS as soon as possible.</sentence>
+<sentence id="s441">
+
+The confidentiality agreement contained the following provisions:
+ 
+ WHEREAS:
+ 
+ 
+ 
+ A.</sentence>
+<sentence id="s442">You are employed as a Web Developer by DAIS Studio Pty Ltd and in that capacity have access to and acquire knowledge of valuable trade secret [sic], confidential and proprietary information including, but not limited to DAIS and DAIS related parties (as hereafter defined) marketing and business methodology and their financial condition (hereafter "Confidential Information").</sentence>
+<sentence id="s443">In this agreement "Related Party" and "Related Parties" shall mean and include any related corporation or business entity of DAIS (as such from is defined in the Corporations Law as amended) or any other company, organisation or institution in any way associated with or connected with or which enjoys a special course of dealings with DAIS or any client of DAIS.</sentence>
+<sentence id="s444">
+ 
+ 
+ 
+ 
+ 
+ B.</sentence>
+<sentence id="s445">You agree that all such Confidential Information is disclosed to you in confidence and you undertake to hold same as strictly confidential and secret under the term of this agreement.</sentence>
+<sentence id="s446">
+ 
+ 
+ 
+ NOW THIS AGREEMENT WITNESSETH AND IT IS HEREBY AGREED AND DECLARED as follows:
+ 
+ 
+ 
+ 1.</sentence>
+<sentence id="s447">To protect DAIS and it's Related Parties interests in maintaining the confidentiality of Confidential Information, you shall not without the written consent of DAIS at any time either during or after the termination of your employment for whatever reason directly or indirectly publish or reveal in any way whatsoever or use for your own or another's benefit, any of the Confidential Information which you may acquire whilst an employee of DAIS and you shall maintain such secrecy in respect of all Confidential Information and shall take all necessary and proper precautions to prevent any unauthorised disclosure or use thereof.</sentence>
+<sentence id="s448">
+ 
+ 
+ 
+ 
+ 
+ 2.</sentence>
+<sentence id="s449">Without limiting the terms of Clause 1:- 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) You shall make no use of any Confidential Information except as necessary in performing your obligations as an employee of DAIS;
+ (b) You shall not without obtaining the prior written consent of DAIS disclose to any Third Party or permit and Third Party access to any materials or information containing the Confidential Information except for those employees of DAIS with a specific operational need to have such access or knowledge;
+ (c) You shall at all times keep, use or maintain any materials containing the Confidential Information in secure locations;
+ (d) You shall make no unauthorised copies of any materials embodying the Confidential Information.</sentence>
+<sentence id="s450">
+ 
+ 
+ 
+ 
+ ....
+ 
+ 
+ 
+ 8.</sentence>
+<sentence id="s451">All improvements, discoveries, ideas and inventions made or conceived along or in conjunction with others arising out of or in the course of your employment, whether or not the proper subject of a trademark, patentable or copyrightable (hereinafter called "the inventions") will be the sole and exclusive property of DAIS and you will promptly disclose in writing to DAIS all the inventions.</sentence>
+<sentence id="s452">You will, upon request and at the employer's expense (notwithstanding that your employment has ceased for any reason), execute any agreements or documents and do all such further acts as DAIS may reasonably require in order to assign it to any right, title and interest in any or all of the inventions.</sentence>
+<sentence id="s453">
+ 
+ 
+ 63 Mr Perlinski referred also to the practices and protocols of Dais, which were said to be calculated to maintain the confidentiality of information to which employees became privy from time to time.</sentence>
+<sentence id="s454">He said that "[o]nly certain DAIS development team members have access to the coding scripts, backup files and development servers at DAIS".</sentence>
+<sentence id="s455">He said that other staff were restricted from access by password security and by reason that the computer drives on which the confidential material was contained could not be accessed from their work stations.</sentence>
+<sentence id="s456">The "creative team" were additionally excluded from access to the WebStable login system on the development servers because they used Macintosh computers.</sentence>
+<sentence id="s457">Mr Perlinski continued:
+ The security of registers, passwords and confidentiality management protocols is documented in written procedure manuals, provided to all employees both in hard copy and electronic version.</sentence>
+<sentence id="s458">
+
+He exhibited relevant extracts from the procedure manuals.</sentence>
+<sentence id="s459">
+ 64 The first such extract was a pro-forma letter of offer of employment, seemingly in the same terms as the letter written to Mr Petro (which I have mentioned above).</sentence>
+<sentence id="s460">The second extract was a table headed "employment checklist" which apparently had the purpose of assisting the person responsible for engaging a new employee to cover all necessary documents and procedures in that process.</sentence>
+<sentence id="s461">It contained a sub-heading "Make sure all forms are in paper file", under which the entry included "letter of offer" and "confidentiality agreement", but there was nothing otherwise presently relevant.</sentence>
+<sentence id="s462">The third extract was a document headed "Employment Record Tracking Sheet", which dealt with matters of personnel administration and is not presently relevant.</sentence>
+<sentence id="s463">The fourth extract was a pro-forma leave application form.</sentence>
+<sentence id="s464">The fifth extract was a list of 11 items headed "Team Conduct".</sentence>
+<sentence id="s465">It made no reference to confidential information or to anything with which I am presently concerned.</sentence>
+<sentence id="s466">The sixth extract was a workplace bullying policy.</sentence>
+<sentence id="s467">The seventh extract was a document headed "Dais Internet Policy".</sentence>
+<sentence id="s468">It was concerned with Dais's staff standards with respect to staff usage of the Internet and email facilities.</sentence>
+<sentence id="s469">There is a passage which may be relevant to the present case, but which is not altogether clear.</sentence>
+<sentence id="s470">It reads:
+ Employees may not transmit DAIS or client information/documentation to third parties without the express permission of DAIS management or the client, as appropriate Spam is a menace and on no account should users click on links within spam messages.</sentence>
+<sentence id="s471">They should delete them.</sentence>
+<sentence id="s472">
+
+The eighth extract consisted of passages on the subject of building security.</sentence>
+<sentence id="s473">None of this material was explained in submissions made on behalf of Dais.</sentence>
+<sentence id="s474">Neither is any of it so self-evidently relevant to the question whether there was an equitable obligation of confidence in relation to the source code for the table file and the editor file as to require its consideration in that context in the absence of such an explanation.</sentence>
+<sentence id="s475">
+ 65 I turn then to consider the second of the four elements referred to by Gummow J in Smith Kline , namely, whether the information used by Mr Petro had "the necessary quality of confidentiality".</sentence>
+<sentence id="s476">Here the cases have referred to a number of indicators, or "lines of inquiry" ( Deta Nominees Pty Ltd v Viscount Plastic Products Pty Ltd [1979] VR 167, 193).</sentence>
+<sentence id="s477">Recognising that there is nothing prescriptive in these indicators, I note that reference has been made to the skill and effort that were expended to acquire the information; the extent to which the information was known both inside and outside the employer's business; the ease or difficulty with which the information could be properly acquired or duplicated by others; the steps taken by the employer jealously to guard the information; the commercial value of the information and the usages and practices of the industry concerned: see Ansell Rubber Co Ltd v Allied Rubber Industries Pty Ltd [1967] VR 37; Mense &amp; Ampere Electrical Manufacturing Co Pty Ltd v Milenkovic [1973] VR 784, 796-798; Secton Pty Ltd v Delawood Pty Ltd (1991) 21 IPR 136, 149; Wright v Gasweld Pty Ltd (1991) 22 NSWLR 317, 334; Del Casale v Artedomus (Aust) Pty Ltd (2007) 165 IR 148, 160.</sentence>
+<sentence id="s478">66 I accept Mr Perlinski's evidence that Dais has invested very considerably in the development of WebStable as a whole.</sentence>
+<sentence id="s479">However, Dais's evidentiary case did not deal directly with the skill, effort or expense associated with the development of the table file and the editor file as such.</sentence>
+<sentence id="s480">For all I could tell from the evidence of Mr Suthers, Mr Petro and Mr Lindgren, the development of the code for those files was an unremarkable part of an ordinary week's work.</sentence>
+<sentence id="s481">As I have said above in another context, the origin of the table file was a similar file which Mr Suthers downloaded from elsewhere.</sentence>
+<sentence id="s482">Mr Lindgren, who was called by Dais and who was the lead developer for the editor file, said nothing on which I could base any meaningful conclusions as to the skill and effort which was involved in the writing of the source code for that file.</sentence>
+<sentence id="s483">67 The evidence which Dais did call on the point was by way of an inference stated by Mr Carpenter.</sentence>
+<sentence id="s484">In his second affidavit sworn on 4 July 2007, Mr Carpenter said that he had read the complete body of source code for the HR Advantage web site three times.</sentence>
+<sentence id="s485">He said that the code for the table file was "a critical part of the WebStable program due to it being used as part of the source code that retrieves and displays web site content from the WebStable database.</sentence>
+<sentence id="s486">" He said that writing that code "took a high degree of skill and labour on the part of the author", a conclusion which he drew "by reviewing the type of functions available", which he said included "a means to re-order the table rows and searching for specific text in a table column".</sentence>
+<sentence id="s487">Mr Muys disagreed with Mr Carpenter in this respect.</sentence>
+<sentence id="s488">In his affidavit sworn on 18 July 2007, Mr Muys referred to these passages in Mr Carpenter's affidavit.</sentence>
+<sentence id="s489">He said that the table file in WebStable added only three features to the behaviour of the HTML TABLE visual element, namely, the ability to re-order rows, the ability to search for specific text in a table column and the ability to notify any associated scrollbar to ensure a search result was visible.</sentence>
+<sentence id="s490">He noted that Mr Carpenter had referred to the first two of those features.</sentence>
+<sentence id="s491">68 As to the first feature --- the means to re-order the table rows --- Mr Muys set out in his affidavit the 21 lines of code that gave effect to that feature.</sentence>
+<sentence id="s492">He continued:
+ The sort algorithm implemented by the above code is referred to as Bubble Sort.</sentence>
+<sentence id="s493">It is well known as the most trivial sort algorithm known to computer science, and routinely taught to first or second year undergraduates as an example of how not to implement a sort operation.</sentence>
+<sentence id="s494">The amount of labour required to implement this sort feature is minimal.</sentence>
+<sentence id="s495">I would expect a Bubble Sort implementation to require no more than 30 minutes effort.</sentence>
+<sentence id="s496">The amount of skill required to implement this feature is comparable to that of a second year undergraduate tutorial question in any IT degree.</sentence>
+<sentence id="s497">
+
+Under cross-examination, Mr Carpenter agreed that these lines of code were "a well-known trivial algorithm to first or second year undergraduate IT students", which was "taught as an implementation not to use as a sort operation".</sentence>
+<sentence id="s498">He agreed that it would take a reasonably competent programmer about 30 minutes to write these lines of code, in addition to the time spent testing it and ensuring that it worked within the whole program.</sentence>
+<sentence id="s499">
+ 69 As to the second feature --- searching for specific text in a table column --- Mr Muys set out in his affidavit the 13 lines of code that gave effect to that feature.</sentence>
+<sentence id="s500">He continued:
+ The search algorithm used in this function has been given the name "Sequential Search" by computer scientists; however it is the na&iuml;ve 'one at a time from start to finish' search technique we are all familiar with.</sentence>
+<sentence id="s501">It is so trivial that it is only ever taught for the sake of completeness, and it would be considered an easy first year undergraduate tutorial question within any IT degree.</sentence>
+<sentence id="s502">The amount of labour required to implement this is trivial, of the order of five to ten minutes effort.</sentence>
+<sentence id="s503">As mentioned above, the amount of skill required to implement this feature is comparable to that of a first year undergraduate tutorial question in any IT degree.</sentence>
+<sentence id="s504">
+
+Under cross-examination, Mr Carpenter agreed that these lines of code meant that the entries on the list in the table were looked at one a time from start to finish, and that the approach involved was something that, when he was an undergraduate, might form part of a first-year tutorial.</sentence>
+<sentence id="s505">For a reasonably competent programmer, writing this code might occupy 20-30 minutes.</sentence>
+<sentence id="s506">
+ 70 As to the third feature --- notifying any associated scrollbar to ensure a search result was visible --- Mr Muys said that it involved a single line of code that re-used the standard behaviour of the HTML element defined in the W3C standards and implemented by the browser.</sentence>
+<sentence id="s507">He continued:
+ The amount of labour required to implement this feature is miniscule.</sentence>
+<sentence id="s508">The skill required consists of the basic familiarity with the W3C Standards to be expected of any entry level web developer.</sentence>
+<sentence id="s509">
+
+Under cross-examination, Mr Carpenter effectively agreed with Mr Muys, but added that the important point was to know that such a function existed.</sentence>
+<sentence id="s510">A junior programmer who did not know of the function --- a "time-saving feature" --- would write more code than was necessary.</sentence>
+<sentence id="s511">
+ 71 On the strength of the evidence to which I have referred, and noting particularly that it was Dais which had it within its power to lead more satisfactory evidence of the actual development of the table file and the editor file, I could not find that any significant degree of skill and effort went into that process of development.</sentence>
+<sentence id="s512">I do not take into account the means by which the files were integrated into WebStable as a whole since, although that was undoubtedly a central aspect of the files' utility in WebStable, it was not taken or used by Mr Petro.</sentence>
+<sentence id="s513">He took only the files themselves.</sentence>
+<sentence id="s514">As to those files, clearly there was skill, and some effort, involved in the writing of the relevant code, but only in the sense that this was done by employees whose expertise lay in that area.</sentence>
+<sentence id="s515">For those employees, and others like them in the industry, I rather gathered that the writing of the relevant code was much towards the lower end of the spectrum of difficulty.</sentence>
+<sentence id="s516">72 To what extent was the source code for the table file and the editor file known both inside and outside Dais's business?</sentence>
+<sentence id="s517">In the context of the type of business which Dais conducted, the "inside" part of this question should be applied to the source code in the form in which it existed on Dais's own computer system (ie the question is not, I take it, concerned with the knowledge which employees of Dais may have had of the code as located on a computer or computer system external to the business).</sentence>
+<sentence id="s518">The answer is that the code was known only to the developers.</sentence>
+<sentence id="s519">It was not known to designers and others.</sentence>
+<sentence id="s520">As to the "outside" part of the question, there was no evidence that the code as located on a computer --- or server --- external to Dais was in fact known to anyone other than a Dais-employed developer and the authorised administrator of the server of the commercial client concerned.</sentence>
+<sentence id="s521">However, there was much evidence as to the potential for such knowledge, such that I would be inclined to infer that, if no-one in these circumstances in fact knew the code, it was more because the subject was not generally of interest than because such knowledge could not have been acquired.</sentence>
+<sentence id="s522">I shall advert to that evidence below.</sentence>
+<sentence id="s523">73 Coming next to the ease or difficulty with which the source code for the table file and the editor file could be properly acquired or duplicated by others, there are two aspects of the relevant technology which bear directly on the point.</sentence>
+<sentence id="s524">The first concerns the ability to locate and download the relevant files, as Mr Petro himself did in about June 2004.</sentence>
+<sentence id="s525">To provide more detail on that subject, I set out the following passage from the cross-examination of Mr Petro:
+ Is it your evidence, Mr Petro, that you recalled the DAIS file naming convention from your time with DAIS?---Yes.</sentence>
+<sentence id="s526">It was based on knowing that convention that after you left DAIS, you were able then to go straight to a DAIS client website and to obtain both the editor file and the list table file?---Yes, that is what I assume that I did.</sentence>
+<sentence id="s527">But you can't recall which particular site it was?---I have no idea.</sentence>
+<sentence id="s528">It may well have been the DAIS site itself.</sentence>
+<sentence id="s529">So it could be the DAIS site.</sentence>
+<sentence id="s530">Now, to get that from the DAIS site, you wouldn't need to access the back end, would you?---No.</sentence>
+<sentence id="s531">So you could just literally type in the URL for DAIS?---That is right.</sentence>
+<sentence id="s532">Execute some functions and voila, there it is?---Voila.</sentence>
+<sentence id="s533">Type in www.dais.com.au/_script/admin_script/cdaitable.js and voila.</sentence>
+<sentence id="s534">And that would give you literally the table file source code?---The code would be shown on the browser, that is right.</sentence>
+<sentence id="s535">You would have highlighted it?---Most likely file, save as, and that is when I would have changed it to the file name that I desired, which I think was list table.</sentence>
+<sentence id="s536">
+
+Likewise, in his first affidavit sworn on 24 April 2007, Mr Carpenter said:
+ 
+ The two Foundation Year source code files ("FY") are publicly available files.</sentence>
+<sentence id="s537">On 18 April, 2007 I accessed these files, after provision to me of these files by DAIS, via the two internet web addresses (URLs [Uniform Resource Locator]), http://www.foundationyear.com/admin/_script/CDAIEditor.js and http://www.foundationyear.com/admin/_script/CATable.js.</sentence>
+<sentence id="s538">
+
+As I have mentioned above, the "Foundation Year" web site was one built by Mr Petro.</sentence>
+<sentence id="s539">The table and the editor file referred to in the extract set out above were one of Dais's points of reference in their copyright infringement case against him.</sentence>
+<sentence id="s540">In his affidavit sworn on 18 July 2007, Mr Muys referred to that extract and said:
+ 
+ Paragraph 35 the First Carpenter Affidavit notes that the two Foundation Year source-code files examined by Carpenter, being CATable.js ("FY Table File") and CDAIEditor.js ("FY Editor File") were publicly available files, that Carpenter was able to access on 18 April 2007.</sentence>
+<sentence id="s541">Left unstated in that the respective DAIS WebStable files CDAITable.js ("DAIS Table File") and CDAIEditor.js ("DAIS Editor File") remain publicly available files accessible at the locations: http://hradvantage.com.au/_script/CDAITable.js and http://www.hradvantage.com.au/_script/CDAIEditor.js.</sentence>
+<sentence id="s542">74 It will be noticed in that the URL address had at least two components --- the file location (eg www.dais.com.au/_script/admin-script/) and the file name (eg cdaitable.js).</sentence>
+<sentence id="s543">There is a question whether the file location, the file name, or both would be obvious to a competent programmer of reasonable experience such that he or she could have done what Mr Petro did, without his prior knowledge of such things from his employment with Dais.</sentence>
+<sentence id="s544">A passage of the cross-examination of Mr Carpenter (Dais's expert) ran as follows:
+ And it wouldn't be very difficult to guess even if you didn't know the file name to guess the type of file names that a particular client would use for editing tables or list?---Respectfully, Mr Crowe, I would have trouble guessing the file names themselves.</sentence>
+<sentence id="s545">Where I would have success with is guessing what directory the files live under.</sentence>
+<sentence id="s546">There are standard names such as scripts or underscore script.</sentence>
+<sentence id="s547">I would be able to find that but given the variety of editors available or the editor may have been written in house.</sentence>
+<sentence id="s548">I would pat myself on the back if I was able to guess the file name.</sentence>
+<sentence id="s549">So utilising the method you just suggested you could then go down a list of the sub files and find the likely one?---Not for most websites.</sentence>
+<sentence id="s550">For security if I am trawling around and trying to visit specific directories a website will say I am not going to show the individual files.</sentence>
+<sentence id="s551">If I could guess the file name correctly it would open it but if I was just to type in scripts it would say virtual directory not allowing content displayed.</sentence>
+<sentence id="s552">It will not show me what files are in there for obvious security reasons.</sentence>
+<sentence id="s553">All good websites will have that in place.</sentence>
+<sentence id="s554">So I can't peruse the files for most websites.</sentence>
+<sentence id="s555">It would prevent a listing of the individual source code files.</sentence>
+<sentence id="s556">
+
+Clearly Mr Carpenter would have no difficulty making an intelligent guess as to the directory --- ie the location --- of the file in question, but finding the file itself would be another matter.</sentence>
+<sentence id="s557">Mr Muys said that he had, without prompting or assistance from anyone, accessed and downloaded the table file and the editor file from the HR Advantage site simply by directing his browser to the following addresses: www.hradvantage.com.au/_script/CDAITable.js and www.hradvantage.com.au/_script/CDAIEditor.js.</sentence>
+<sentence id="s558">Under cross-examination, however, Mr Muys accepted that he already knew the file names and that it did not present a difficulty for someone as qualified as he to work out the path, intuitively as it were.</sentence>
+<sentence id="s559">
+ 75 Using the location and names of the subject files, therefore, I consider that there would be some difficulty involved in a developer or programmer, not otherwise privy to the names of the files, securing access to the source code.</sentence>
+<sentence id="s560">However, it could be done.</sentence>
+<sentence id="s561">For someone who happened upon the files by chance, or who, having a working appreciation of the kind of generic names apparently used in such matters, was prepared to persevere by trial and error, the files, and therefore the codes, would have to be regarded as publicly available.</sentence>
+<sentence id="s562">If so, I do not think there would be any impropriety in a third party acquiring the relevant information.</sentence>
+<sentence id="s563">A person who leaves information in a place which, while concealed to a point, is nonetheless accessible to members of the public without breach of the law, cannot, in my estimation, be heard to assert that there was some impropriety in a stranger viewing and absorbing that information and using it to his or her own lawful advantage.</sentence>
+<sentence id="s564">76 The other aspect under this heading relates to the nature of the subject files as JavaScript code.</sentence>
+<sentence id="s565">Each time the web site in question was opened in a browser, the JavaScript code was sent to the browser and, if the user were technically knowledgeable in relevant respects, he or she might have secured access to the code, and read it.</sentence>
+<sentence id="s566">The cross examination of Mr Carpenter by counsel for Mr Petro contains the following sequence of questions and answers:
+ You know as a programmer that if you create some JavaScript code it's all but impossible to protect it once it has gone out to a client who uses it in a website.</sentence>
+<sentence id="s567">It's almost impossible in those circumstances to restrict its use in terms of other programmers being able to access it and use that source code?---There are some libraries and utilities available that can encrypt the JavaScript code; not widely used though.</sentence>
+<sentence id="s568">No, but if you didn't use them you know it's really out there?---Yes, that's correct.</sentence>
+<sentence id="s569">Once it's gone to your client and your client is using it on a website the JavaScript code in particular is vulnerable to being able to be accessed and used by other programmers?---As well as the HTML and other images --- any other multimedia.</sentence>
+<sentence id="s570">
+
+In his affidavit, Mr Muys said:
+ 
+ Budding web developers are routinely encouraged to experiment and learn the various client-side technologies involved, by reading, utilising and modifying other peoples source-code.</sentence>
+<sentence id="s571">A JavaScript tutorial located at
+ http://www.tripod.lycos.com/build/better_builders/newsletters/news_8.html includes the following quote: 
+ 
+ 
+ This first piece of advice is something you'll hear a lot from Webmonkeys: Examine the code.</sentence>
+<sentence id="s572">You'll be surprised what you can learn by simply studying a few lines of someone else's JavaScript.</sentence>
+<sentence id="s573">Remember, if you see something really cool on a Web page, you can always see how they did it.</sentence>
+<sentence id="s574">Just view source.</sentence>
+<sentence id="s575">At http://ph.answers.yahoo.com/question/index?qid=20070607123346AAPRjiK Yahoo Answers' top voted answer to the question "Can anyone give me any info on how to get my own web site going.</sentence>
+<sentence id="s576">" included the following: 
+ 
+ 
+ 
+ 
+ If you see something you like on another web page, right-click and View Source to see how they did it.</sentence>
+<sentence id="s577">
+ 
+ 
+
+The technical accuracy of this evidence was not challenged by Dais, and I accept it.</sentence>
+<sentence id="s578">It follows that I must find that any knowledgeable user of a web browser would be able to view the code for the two subject files by "right-clicking" and then selecting "view source".</sentence>
+<sentence id="s579">
+ 77 I consider next how easy, or difficult, it would have been for Dais to recreate the table file and the editor file, or for an outsider such as Mr Petro to do so, as an alternative to copying them from the code of a Dais-built site.</sentence>
+<sentence id="s580">Mr Muys drew attention to what he described as "the marginal functionality provided by ... [the table and editor files] over the default functionality provided by the web browser" and to "the ease with which alternative independent implementation could be obtained or developed".</sentence>
+<sentence id="s581">With respect to the table file, Mr Muys said that the file provided "aesthetic improvements, but not any fundamental or necessary functionality".</sentence>
+<sentence id="s582">Under cross-examination, he accepted that aesthetics were very important for an enterprise like Dais which was helping people "leverage" or develop their brands, and were an important part of the Dais business model.</sentence>
+<sentence id="s583">As to the matter of alternative implementation, Mr Muys said that there were numerous open-source program components that were available providing the same aesthetic improvements as achieved by the WebStable table file.</sentence>
+<sentence id="s584">He exhibited to his affidavit a similar file which found on the Internet in 15 minutes, using Google.</sentence>
+<sentence id="s585">78 In his second affidavit, Mr Carpenter said that a web browser based text editor was "a common part of the source code for most CMS products".</sentence>
+<sentence id="s586">Mr Muys said that he was unaware of any "modern CMS product", proprietary or open-source, that did not provide a web browser based text editor.</sentence>
+<sentence id="s587">Under cross-examination, Mr Carpenter agreed that open-source text editors were readily available, but added a qualification as to the necessity for the developer to make sure that the file in question had a licence or was "released under public domain such that it could be used" He said:
+ ... nobody owns any sort of rights to producing an editor file and that is the reason why there is a strong market with open source, commercial and other editors.</sentence>
+<sentence id="s588">
+
+Mr Muys was cross-examined about the ease with which an open-source table file or editor file might be adapted for use in an existing CMS such as WebStable and built into the system.</sentence>
+<sentence id="s589">Commencing with the editor file, he said:
+ 
+ I would expect that to be a very straightforward operation.</sentence>
+<sentence id="s590">I would expect --- because the editing function is quite separate it's a stage in the workflow process that the user is going through and therefore most editors tend to be very stand-alone as far as their interactions with the rest of the program so they are instantiated by the program, provided with information.</sentence>
+<sentence id="s591">When they can finish they're then provided information back.</sentence>
+<sentence id="s592">So having done that I would expect that would be a matter of probably only a couple of hours work to actually connect --- to actually, you know, use the interface that that editor provided me to load the file and use that interface to extract the final content.</sentence>
+<sentence id="s593">With the table file, the table file because it is --- because the table functionality is more close aligned with the actual display of information rather than just the direct editing and information that would probably require a little bit more work but I would be very surprised if it took me any more than half a day worth of modification in order to actually integrate a replacement table file and if I was fortunate to find a good table file online --- on the Internet it could also likely only be a couple of hours.</sentence>
+<sentence id="s594">
+
+If for some reason he had to write the code for a table file from scratch, Mr Muys said that the task would take "of the order of between two days and a week depending on the skill and level of the programmer who was providing it".</sentence>
+<sentence id="s595">
+ 79 Mr Wood also gave evidence about these subjects.</sentence>
+<sentence id="s596">He said:
+ I have examined the JavaScript source code of both the Table and Editor Files in the DAIS Code.</sentence>
+<sentence id="s597">By a normal programmer's standard, these two files represent only a small amount of code.</sentence>
+<sentence id="s598">There really is not that much to them.</sentence>
+<sentence id="s599">They appear to already be at a very basic level.</sentence>
+<sentence id="s600">I think it would be hard to make these files simpler than what they already are.</sentence>
+<sentence id="s601">As they are so basic I do not see anything particularly clever in them.</sentence>
+<sentence id="s602">Anything that these source code files do can also be done by third-party products available on the Internet.</sentence>
+<sentence id="s603">
+
+He said that it would be easy to replace the source code for the editor file with "a freely available component" that had the same or similar functionality.</sentence>
+<sentence id="s604">He gave an example of such a component, and where it might be found on the Internet.</sentence>
+<sentence id="s605">He described it as "a comprehensive and feature-rich product".</sentence>
+<sentence id="s606">After inspecting the table file, Mr Wood said it was not "a highly innovative or significant piece of source code".</sentence>
+<sentence id="s607">He expected that an IT graduate with three years of experience in JavaScript would be able "to generate this source code from scratch in under 24 man-hours including testing.</sentence>
+<sentence id="s608">" Under cross-examination, Mr Wood said that such an estimate involved a degree of generosity towards the graduate: "Basically, if the graduate couldn't do it in that amount of time, I think he'd be out on the street again if he was on my project.</sentence>
+<sentence id="s609">"
+ 
+ 80 The question with which I am presently concerned relates to the table file and the editor file as such, not to their integration into WebStable.</sentence>
+<sentence id="s610">On the strength of the evidence referred to above, I am bound to find that these two files, or files substantially performing the same functions, could have been re-created from scratch by a developer of reasonable experience in about a week of normal work.</sentence>
+<sentence id="s611">Indeed, similar files might, and I would find probably could, be downloaded readily, freely and legally from open-source sites on the Internet.</sentence>
+<sentence id="s612">I do not, therefore, think that the files had any element of confidentiality about them by reason of the difficulty or expense associated with re-creating them or something similar.</sentence>
+<sentence id="s613">81 Turning to the question whether the source code for the subject files was jealously guarded by Dais, there are, I consider, three relevant considerations.</sentence>
+<sentence id="s614">The first relates to the steps taken by Dais to make it clear to the developers employed by it that these files were confidential.</sentence>
+<sentence id="s615">That is relevant under the third element to which Gummow J referred in Smith Kline , and I shall turn to it presently.</sentence>
+<sentence id="s616">82 The second consideration relates to the steps which Dais took, as between itself and its clients, to ensure that the files remained confidential.</sentence>
+<sentence id="s617">This aspect must be considered against an understanding that, when completed, a new web site will be loaded onto the client's server, located (in the case of highly sophisticated or well-resourced companies) at the premises of the client itself or (more usually) at the premises of the Internet service provider utilised by the client.</sentence>
+<sentence id="s618">The administrator in either case will have a user name and password by reference to which he or she will be able to access all the source code in the relevant CMS, including that in the table file and the editor file.</sentence>
+<sentence id="s619">In this context, the licence agreement which Dais extracts from its clients (see par 60 above) makes a deal of sense.</sentence>
+<sentence id="s620">I find that Dais goes to considerable lengths to ensure that strangers do not have access to the CMS in WebStable including, quite obviously, the source code.</sentence>
+<sentence id="s621">However, as mentioned above, I could not find that Dais's practices in relevant respects were the same when Mr Petro was employed as they were in April 2007 or that, if they were, that Mr Petro knew of them.</sentence>
+<sentence id="s622">83 The third consideration relates to the specific steps which Dais might have taken, but did not take, to keep the relevant information confidential.</sentence>
+<sentence id="s623">Mr Muys noted that the code for the WebStable product which he viewed contained no copyright or other proprietary notice.</sentence>
+<sentence id="s624">By way of contrast, he referred to a project of which he was the lead maintainer, and which used 75 separate and distinct third-party components.</sentence>
+<sentence id="s625">In relation to that project, he gave the following evidence under cross examination:
+ Every source file in the project has a 30 to 50 line header that contains a synopsis of the licence, the copyright notice, the authorship, the list of modifications and who modified it.</sentence>
+<sentence id="s626">Where copyrights to different parts of the file are owned by different developers because they've developed them independently, it lists --- it identifies which parts of the file are copyright to which individuals or which organisations and it contains a link to an external file in the top level of the project directory that contains the full text of the licences involved for the entire project.</sentence>
+<sentence id="s627">
+
+With respect to the absence of any copyright or proprietary notice on the WebStable code, Mr Muys said in his affidavit, without objection:
+ 
+ This would suggest to me a lackadaisical attitude to the protection of copyright and proprietary information by DAIS and their employees.</sentence>
+<sentence id="s628">84 Save with respect to the licence agreement which it executed with its clients (and subject to its dealings and communications with its own developers, a matter to which I shall turn presently), I could not find that Dais took any relevant steps to keep confidential the source code of the table file and the editor file.</sentence>
+<sentence id="s629">Of its nature, that code was intrinsically susceptible to inspection and appropriation by strangers.</sentence>
+<sentence id="s630">It seems that encryption may have been a technique by which Dais could have protected the security of these files, but, according to Mr Carpenter, that practice was uncommon.</sentence>
+<sentence id="s631">However, the absence of any copyright or proprietary endorsement on or in relation to the subject files shows that there was a step which might have been taken, and which, apparently, was commonly taken, but which Dais did not take.</sentence>
+<sentence id="s632">In these circumstances, and with reference particularly to the technology of client-side JavaScript code, I am disposed to give little weight to the protection which Dais secured for itself by the terms of the licence agreements into which it may have entered with its clients.</sentence>
+<sentence id="s633">In the nature of things, it is not a particular client, who had paid for the construction of a web site, that would be likely to appropriate source code on that web site for other purposes.</sentence>
+<sentence id="s634">If there were to be an unwanted appropriation, it would, I infer, most likely be done by a web developer, computer professional or well-informed amateur who had the purpose of building his or her own web site.</sentence>
+<sentence id="s635">In this setting, I could not find that Dais took any serious steps to protect the confidentiality of the files on which it sues in this proceeding.</sentence>
+<sentence id="s636">85 As for the commercial value of the table file and the editor file, I accept, of course, that they are an integral part of WebStable, and that a Dais-built CMS --- at least one that required the relevant functions --- would not operate as intended without them.</sentence>
+<sentence id="s637">I am, however, concerned with the value of the two files as such.</sentence>
+<sentence id="s638">If Dais were minded to "sell" these files, how much might it expect to receive in return?</sentence>
+<sentence id="s639">There was no evidence of a market for such things, in which circumstances I must assume that a willing buyer would pay no more than it would cost him or her to build an equivalent product from scratch.</sentence>
+<sentence id="s640">Mr Muys' evidence was that "the ready availability of zero-cost alternatives" for the files would justify the conclusion that "the licence sale value" of them is "only marginally above $0".</sentence>
+<sentence id="s641">Mr Wood's evidence as to the value of the editor file is as I have set it out in par 79 above.</sentence>
+<sentence id="s642">In effect, his evidence was that the commercial value of that file was nothing.</sentence>
+<sentence id="s643">As to the table file, he said that he did not find it to be "a highly innovative or significant piece of source code".</sentence>
+<sentence id="s644">Based on the wages that would be required to be paid to a developer to re-create that file, his estimate of the value thereof was of the order of $1,680.</sentence>
+<sentence id="s645">86 To an extent, the usages and practices of the industry in relevant respects are also illuminated by what I have written above.</sentence>
+<sentence id="s646">They do not support Dais's assertions of confidentiality.</sentence>
+<sentence id="s647">When he needed a table file in 2002, Mr Suthers commenced by downloading one from a site upon which he had worked in his previous employment.</sentence>
+<sentence id="s648">Dais was the beneficiary of that.</sentence>
+<sentence id="s649">Whether or not Mr Perlinski knew what was happening at that time, the fact is that Mr Suthers' actions demonstrated what appeared to be accepted by developers as a quite uncontroversial practice.</sentence>
+<sentence id="s650">Absent issues of copyright, and without begging the question now being considered, I cannot appreciate why it should be regarded otherwise.</sentence>
+<sentence id="s651">87 I accept that the ability to view (and to copy) source code is a commonplace in the relevant technology, and the evidence of Mr Wood that trainee programmers are encouraged to exhibit curiosity about such matters.</sentence>
+<sentence id="s652">I accept the evidence led by Mr Petro that the endorsement of a copyright notice upon source code is a practice which is commonly resorted to, and that this practice removes such element of ambiguity as might otherwise surround the question of the entitlement of a stranger to copy or use the code.</sentence>
+<sentence id="s653">I also take into account the nature and function of the two subject files.</sentence>
+<sentence id="s654">They operate in the way of utilities: important and ever-available, but without involving anything particularly special or unique in their own right.</sentence>
+<sentence id="s655">In these respects the files are rather like the electrical wiring in a new house.</sentence>
+<sentence id="s656">There was nothing in the evidence to suggest that if these files became unavailable, other similar files would not do equally as well.</sentence>
+<sentence id="s657">The impression I gathered from the evidence as a whole is that programmers and developers in the industry regarded files of this kind much in the way of a generic resource required for a new web site, but one that could normally, and without impropriety, be downloaded from any available source.</sentence>
+<sentence id="s658">88 For the above reasons, I cannot conclude that the source code for the table file or the editor file had the necessary quality of confidentiality about it within the terms of Gummow J's second element in Smith Kline .</sentence>
+<sentence id="s659">89 Turning next to the third element --- receipt of the information by the defendant in such circumstances as to import an obligation of confidence --- Dais led no evidence that Mr Petro was told, orally or in writing, that the table file and the editor file were confidential, or the like.</sentence>
+<sentence id="s660">It is true that Dais procured him to execute a confidentiality agreement (to which I have referred in par 62 above) but that imposed no more specific an obligation than that Mr Petro should not use, disclose, etc confidential information as generically defined.</sentence>
+<sentence id="s661">In that sense the agreement begged the present question.</sentence>
+<sentence id="s662">Mr Suthers, to whom Mr Petro reported during the time that the table file and the editor file were under early development at Dais, was never told to keep the code for the two files confidential.</sentence>
+<sentence id="s663">To Mr Petro's observation, Mr Suthers obtained the initial version of the table file from a web site which he had built in a previous employment.</sentence>
+<sentence id="s664">These circumstances do not bespeak a working environment in which a requirement to keep the two files confidential was implicit.</sentence>
+<sentence id="s665">As I have said, no such requirement was ever made explicit.</sentence>
+<sentence id="s666">90 I recognise, of course, that the very fact that Mr Petro first obtained an awareness of the table file and the editor file during the course of his employment is relevant to the third element of Gummow J.</sentence>
+<sentence id="s667">Nothing I have said in these reasons should be taken to deny the proposition that it might well have been a breach of Mr Petro's duty of good faith for him to have revealed to a competitor of Dais the code in these files while he remained in that employment: see Faccenda Chicken Limited v Fowler [1987] Ch 117, at 136-137.</sentence>
+<sentence id="s668">But the question with which I am concerned is whether information obtained by a person during his or her employment may, consistently with the equitable obligation of confidence, be used by the person after the employment has ended.</sentence>
+<sentence id="s669">The mere fact that the information was obtained during the employment is relevant in such a context, but is not determinative.</sentence>
+<sentence id="s670">91 I do not consider that the circumstances in which Mr Petro received the details of the source code for the table file and the editor file were such as to import an obligation of confidence.</sentence>
+<sentence id="s671">92 For the above reasons, I do not consider that Mr Petro was under an equitable obligation of confidence with respect to his knowledge of the existence, content and location of the source code for the table file and the editor file, or with respect to his use of that code for his own purposes.</sentence>
+<sentence id="s672">
+ THE CLAIM IN CONTRACT 
+ 
+ 93 I consider next Dais's claims under Mr Petro's contract of employment and the confidentiality agreement to which I have referred (see par 62 above).</sentence>
+<sentence id="s673">Undoubtedly Mr Petro used for his own benefit information which he had acquired in the employ of Dais, namely, the location (by reference to Dais's file naming conventions) of the table file and editor file in a Dais-built CMS.</sentence>
+<sentence id="s674">He also used the source code for those two files, and at least the availability, content and utility of that code should also be regarded as "information" in this context.</sentence>
+<sentence id="s675">The contrary was not submitted by Mr Petro.</sentence>
+<sentence id="s676">The question to be resolved is whether any of that information was "confidential information" within the terms of the confidentiality agreement.</sentence>
+<sentence id="s677">That term is defined in Recital A thereto as trade secrets, confidential and proprietary information.</sentence>
+<sentence id="s678">94 In the light of my findings above as to the absence of any equitable obligation of confidence with respect to the source code in the table file and the editor file, it is clear that the code in question could not be regarded as a trade secret.</sentence>
+<sentence id="s679">Neither, in the light of those findings, do I regard it as "confidential information".</sentence>
+<sentence id="s680">The cases show that there is a category of information which, although not sufficiently confidential to attract the operation of the equitable obligation of confidence, is such as would justify the imposition of a contractual restraint, operating after the termination of the employment in question: see Faccenda at first instance [1984] ICR 589, 598-600, and on appeal [1987] Ch at 135-138; Wright v Gasweld , 22 NSWLR at 333-334 and 339.</sentence>
+<sentence id="s681">The principle for which these cases stand, however, is one that informs the making of a judgment as to whether a particular contractual restraint should be regarded as valid.</sentence>
+<sentence id="s682">It does nothing to provide a connotation for the term "confidential information" in an existing contract, the validly of which is not challenged.</sentence>
+<sentence id="s683">Put another way, although the cases may recognise that there is a category of what might be called "confidential information", the post-employment use or disclosure of which might be the subject of a valid contractual restraint, they necessarily assume the existence of a contract which specifies the information in question.</sentence>
+<sentence id="s684">That is not this case.</sentence>
+<sentence id="s685">95 The confidentiality agreement was, of course, a document of Dais's own drafting.</sentence>
+<sentence id="s686">Rather than specify the separate categories of information which it desired to be covered by that agreement, Dais chose to refer to the information generically and must, I consider, live with the consequences of such ambiguity as may be involved in its choice of words.</sentence>
+<sentence id="s687">I can envisage two categories of information that would obviously, and appropriately, be described as "confidential information" within the meaning of the agreement.</sentence>
+<sentence id="s688">The first is information to which the equitable obligation of confidence attaches, notwithstanding that such information might also be regarded as a trade secret in the narrow sense.</sentence>
+<sentence id="s689">The second is information which Dais identified, by a communication to Mr Petro, as being confidential for the purposes of the agreement.</sentence>
+<sentence id="s690">Beyond these two categories, however, I consider that Dais shouldered the burden of persuading the court that information which happened to come to the attention of Mr Petro during the course of his employment should be regarded as "confidential".</sentence>
+<sentence id="s691">Largely by reason of the facts and circumstances which I have canvassed earlier in these reasons, I do not consider that the source code for the table file or the editor file, or the names of those files which enabled Mr Petro to locate that code, was confidential information within the terms of the agreement.</sentence>
+<sentence id="s692">96 There remains the question whether any of the information to which I have just referred was "proprietary information".</sentence>
+<sentence id="s693">Information as such, of course, is not property: see TS &amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (2003) 57 IPR 530, 537, and the authorities there cited; Farah Constructions Pty Ltd v Say-Dee Pty Ltd (2007) 236 ALR 209, 246 [120].</sentence>
+<sentence id="s694">When information is secret or truly confidential in fact, there is a sense in which the person by whom the information is known might be said to own the information.</sentence>
+<sentence id="s695">At times, the concept of property has been used --- metaphorically as I appreciate it --- to describe the position existing when information cannot be used or revealed without breach of the equitable obligation of confidence: see Deta Nominees [1979] VR at 193.</sentence>
+<sentence id="s696">However, it is difficult, if not impossible, in my view, to consider how any, even metaphorical, invocation of the concept of property could be legitimately made in circumstances where there was no obligation, equitable or contractual, to keep the information confidential.</sentence>
+<sentence id="s697">97 But I cannot dispose of the "proprietary information" aspect of the confidentiality agreement simply by holding that the term is legally meaningless.</sentence>
+<sentence id="s698">It is a term which the parties have chosen, and I should strive to give it meaning.</sentence>
+<sentence id="s699">From the structure of Recital A to the agreement, it seems that the proprietary information may be something less than confidential information, but something the dissemination of which Dais has a legitimate interest in restricting.</sentence>
+<sentence id="s700">Counsel for Dais submitted that proprietary information, in context, meant "intellectual property" or "industrial property".</sentence>
+<sentence id="s701">Expressed as barely as that, the submission would seem to require the existence of an established entitlement to a recognised intellectual property right, a bar which I have held Dais is unable to cross in this proceeding.</sentence>
+<sentence id="s702">There is, however, another sense in which the submission may have substance.</sentence>
+<sentence id="s703">Mr Petro's contract of employment contained a paragraph headed "inventions, patents, designs, copyright and trade marks".</sentence>
+<sentence id="s704">The paragraph itself stated that a number of things, including an "improvement", used or made by Mr Petro in the course of his employment would "remain the property of DAIS".</sentence>
+<sentence id="s705">The use of the word "property" in this context has the potential at least to give some meaning to the words "proprietary information" in the confidentiality agreement which Mr Petro was required to execute at the same time as he entered into the contract of employment.</sentence>
+<sentence id="s706">98 I consider that the paragraph in Mr Petro's contract of employment to which I have referred was concerned with the ownership, as between Mr Petro and Dais, of the rights there referred to.</sentence>
+<sentence id="s707">That is to say, if there were an invention or a new design (for example) developed as a result of Mr Petro's work for Dais, it would be Dais, rather than Mr Petro, that owned it.</sentence>
+<sentence id="s708">In my view, this was most probably the kind of thing that the drafter of the confidentiality agreement contemplated when he or she used the term "proprietary information".</sentence>
+<sentence id="s709">I recognise, of course, that this involves a degree of grammatical looseness that would never do in legislation, but it works within the confines of the text chosen by the parties to the agreement and gives that text some reasonably intelligible operation.</sentence>
+<sentence id="s710">As so construed, the agreement means that Mr Petro was not to use any information which came to him during his employment with Dais and which related to one of the rights referred to in this paragraph of his contract of employment.</sentence>
+<sentence id="s711">Relevantly to Mr Petro's use of the table file and the editor file, there were no such rights.</sentence>
+<sentence id="s712">It follows that he has not acted in breach of so much of the confidentiality agreement as was involved in the reference to "proprietary information".</sentence>
+<sentence id="s713">99 For the above reasons, Dais's claim in contract must be dismissed.</sentence>
+<sentence id="s714">
+ THE CORPORATIONS ACT CLAIM 
+ 
+ 100 Dais contends that, when Mr Petro downloaded the source code for the table file and the editor file in about June 2004 and subsequently used that information, he contravened s 183(1) of the Corporations Act .</sentence>
+<sentence id="s715">That subsection is as follows:
+ A person who obtains information because they are, or have been, a director or other officer or employee of a corporation must not improperly use the information to:
+ (a) gain an advantage for themselves or someone else; or
+ (b) cause detriment to the corporation.</sentence>
+<sentence id="s716">
+
+It seems clear that the location, names and contents of the two subject files were "information" within the meaning of this provision, and had been obtained by Mr Petro because he was an employee of Dais.</sentence>
+<sentence id="s717">Neither is there any serious argument but that he used this information to gain an advantage for himself, or for his own clients.</sentence>
+<sentence id="s718">The substantial question which I must decide, therefore, is whether Mr Petro's use of the information was improper within the meaning of s 183(1).</sentence>
+<sentence id="s719">
+ 101 Speaking of s 124(2) of the Companies Act 1962 (SA) (which was in terms relevantly similar to those of s 183(1) of the Corporations Act , but it did not apply to former officers or employees) in Grove v Flavel (1986) 43 SASR 410, 416-417 Jacobs J said (with the assent of the other members of the Full Court):
+ It will be observed that sub-s (1) of this section speaks in terms of a director in the discharge of his duties, sub-ss (2) and (3) speak of an officer, and sub-s (6) speaks in terms of duty of a director or officer.</sentence>
+<sentence id="s720">By s 5 of the Act an "officer" is defined to include a director, but it also includes many other persons, eg the secretary of the corporation, an employee, a receiver and manager appointed under a power contained in an instrument (but not a receiver who is not also a manager, nor a receiver and manager appointed by the court), an official manager and a liquidator appointed in a voluntary winding up (but not a liquidator appointed by the court or by the creditors).</sentence>
+<sentence id="s721">It seems to me, therefore, that what is "improper" for the purposes of s 124(2) cannot be determined by reference to some common, uniform, or inflexible standard which applies equally to every person who is an officer, but rather must be determined by reference to the particular duties and responsibilities of the particular officer whose conduct is impugned.</sentence>
+<sentence id="s722">102 A provision relevantly the same as the present s 183(1) appeared in s 232(5) of the Corporations Law.</sentence>
+<sentence id="s723">That provision came before Young J in the Equity Division of the Supreme Court of New South Wales in Rosetex Company Pty Ltd v Licata (1994) 12 ACSR 779.</sentence>
+<sentence id="s724">His Honour referred to the original precursor of s 232, s 107 of the Companies Act 1958 (Vic), and to the parliamentary materials which accompanied the enactment of that section.</sentence>
+<sentence id="s725">Those materials suggested that the intention was "to introduce a general statutory provision which would be declaratory of the existing law" (12 ACSR at 784).</sentence>
+<sentence id="s726">His Honour continued (at 794):
+ The content of what is now s 232 has grown from its initial appearance in company statute law, but in one sense the subsections after subs (2) are expansions of the general principle which is set out in subs (2), that is, a duty to act honestly.</sentence>
+<sentence id="s727">It seems to me that in this schema the proper interpretation is to take the word 'information' in subs (5) as referring to that type of information which equity would restrict the director from using to his personal profit.</sentence>
+<sentence id="s728">...</sentence>
+<sentence id="s729">Accordingly, in my view, 'information' in s 232(5) means the sort of information which equity would protect by injunction if a director used it in breach of his fiduciary duties.</sentence>
+<sentence id="s730">'Improper' use of that information is in much the same plight as a breach of fiduciary duty under the general law.</sentence>
+<sentence id="s731">It follows that as there is not here any breach of fiduciary duty in the current circumstances there is no infringement of s 232(5).</sentence>
+<sentence id="s732">103 In R v Byrnes [1995] HCA 1 ; (1995) 183 CLR 501, the High Court was concerned with an appeal from a conviction for breaches of s 229(4) of the Companies (South Australia) Code , a provision which was the equivalent of the present s 182(1) of the Corporations Act .</sentence>
+<sentence id="s733">Brennan, Deane, Toohey and Gaudron JJ referred, apparently with approval, to what Jacobs J had said in Grove v Flavel , and held that, for the conduct in question to be improper, it was not necessary that the offender be conscious of the impropriety.</sentence>
+<sentence id="s734">Their Honours continued (183 CLR at 514):
+ Impropriety consists in a breach of the standards of conduct that would be expected of a person in the position of the alleged offender by reasonable persons with knowledge of the duties, powers and authority of the position and the circumstances of the case.</sentence>
+<sentence id="s735">When impropriety is said to consist in an abuse of power, the state of mind of the alleged offender is important Hindle v John Cotton Ltd (1919) 56 SLR 625 at 630-631: the alleged offender's knowledge or means of knowledge of the circumstances in which the power is exercised and his purpose or intention in exercising the power are important factors in determining the question whether the power has been abused.</sentence>
+<sentence id="s736">But impropriety is not restricted to abuse of power.</sentence>
+<sentence id="s737">It may consist in the doing of an act which a director or officer knows or ought to know that he has no authority to do.</sentence>
+<sentence id="s738">
+
+In AG Australia Holdings Limited v Burton [2002] NSWSC 170 ; (2002) 58 NSWLR 464, Campbell J held that the comments of Jacobs J in Grove v Flavel and of their Honours in the High Court in R v Byrnes were equally applicable to the construction of s 183 of the Corporations Act .</sentence>
+<sentence id="s739">
+ 104 In R v Cook; ex parte Commonwealth Director of Public Prosecutions (1996) 20 ACSR 618, the Queensland Court of Appeal held, for purposes of a provision equivalent to the present s 182 of the Corporations Act , that an impropriety was constituted by an act done without authority, and which the accused should have known he had no authority to do (20 ACSR at 622).</sentence>
+<sentence id="s740">105 Two judgments given in 2000 in the Supreme Court of New South Wales bear upon the present question.</sentence>
+<sentence id="s741">First, in Forkserve Pty Ltd v Pacchiarotta (2000) 50 IPR 74, 79 [28], Young J said:
+ As I said in Rosetex Company Pty Ltd v Licata (1994) 12 ACSR 779, the general coverage of the obligations under s 232 are not to any major extent wider than the duties under the general rules of equity.</sentence>
+<sentence id="s742">There are some extensions made by the statute in that there is taken away some problems of privity, there is conferred a statutory right to receive damages or compensation where under the general law there would only be an account of profits and other ancillary advantages.</sentence>
+<sentence id="s743">However, generally speaking, if there has been no improper use of information under the general equitable principles, there is no improper use of information under the statute.</sentence>
+<sentence id="s744">This is logically so when one remembers that sections like s 232 were originally taken by the drafters of the 1958 Victorian Companies Act and the 1961 New South Wales Companies Act from the equitable duties set out by Romer J in Re City Equitable Fire Insurance Company Ltd [1925] Ch 407.</sentence>
+<sentence id="s745">
+
+Secondly, in Forkserve Pty Ltd v Jack (2000) 19 ACLC 299, Santow J referred to Rosetex , and to a "broader view" of the relevant section for which Grove v Flavel was considered to be authority, namely, that the provision "would allow the application of the section to use of information obtained by virtue of the individual's position, irrespective of whether that information is confidential in equity.</sentence>
+<sentence id="s746">" (19 ACLC at 322 [116]).</sentence>
+<sentence id="s747">
+ 106 I was not much assisted by the submissions made on behalf of the parties with respect to the matter of impropriety under s 183(1) of the Corporations Act .</sentence>
+<sentence id="s748">Counsel for Mr Petro did not deal with the section at all.</sentence>
+<sentence id="s749">Counsel for Dais contented himself with submitting, in his written outline, that the "information" to which s 183 refers is not confined to information that would be protected by the equitable obligation of confidence, that Mr Petro had provided "IT/computing services" to Bullet Creative, and that neither applicant had consented to "third party use of WebStable".</sentence>
+<sentence id="s750">It was not submitted that the interests of Dais's unidentified client, or former client, from whose web site it may be assumed that Mr Petro downloaded the subject files, were to any extent involved in a consideration of the question whether his having done so was improper.</sentence>
+<sentence id="s751">107 On the findings I have made above, it is not at all obvious how I might come to the conclusion that Mr Petro's use of the relevant information was improper.</sentence>
+<sentence id="s752">No breach of any fiduciary obligation was involved in what Mr Petro did.</sentence>
+<sentence id="s753">As a former rather than a present employee, no suggestion of excess of authority on Mr Petro's part could be sustained.</sentence>
+<sentence id="s754">Mr Petro had not held a senior position with Dais, and the information which he used was not, I have held, confidential.</sentence>
+<sentence id="s755">Posing the question in accordance with the broad formulation of their Honours in the High Court in Byrnes --- was there a breach of the standards of conduct that would be expected of a person in the position of the alleged offender by reasonable persons with knowledge of the duties, powers and authority of the position and the circumstances of the case?</sentence>
+<sentence id="s756">--- it is hard to find a satisfactory answer which would favour the position for which Dais contended.</sentence>
+<sentence id="s757">Absent a finding of infringement of copyright, its counsel did not propose any.</sentence>
+<sentence id="s758">For my own part, in the light of the findings I have made above as to copyright, confidential information and breach of contract, and taking into account the practices and usages of the industry, I could not conclude that a reasonable person with knowledge of all the relevant circumstances would consider that Mr Petro had breached the standards of conduct which pertained to a person who had been, but was no longer, employed in a subordinate role as a web developer in a business of the kind conducted by Dais.</sentence>
+<sentence id="s759">108 For the above reasons, Dais's claim under the Corporations Act must be dismissed.</sentence>
+<sentence id="s760">
+ DAMAGES 
+ 
+ 109 Although I have not found that Dais should succeed on any cause of action that would entitle it to an award of damages, for the sake of completeness I shall set out the findings which I would otherwise have made as to loss and damage.</sentence>
+<sentence id="s761">110 Dais alleged that it suffered damage to the extent of revenue forgone by its inability to exploit WebStable as a result of the activities of Mr Petro.</sentence>
+<sentence id="s762">In his affidavit sworn on 1 July 2007, Mr Perlinski set out the revenue that Dais might reasonably have expected to receive --- broken up according to development costs, licence fees and profit margins --- had each of the then known web sites built by Mr Petro been built, supplied and serviced instead by Dais.</sentence>
+<sentence id="s763">He provided his workings in each instance, and his calculations were supported by quotations prepared by Mr Lindgren.</sentence>
+<sentence id="s764">Mr Petro challenged the assumption of causation upon which these calculations were based.</sentence>
+<sentence id="s765">It was submitted on his behalf that it had not been established that his use of the table file and the editor file led to Dais forgoing any revenue from the exploitation of WebStable.</sentence>
+<sentence id="s766">For reasons which follow, I would accept that submission.</sentence>
+<sentence id="s767">111 As made clear earlier in these reasons, the table file and the editor file were minor, though functionally important, elements of WebStable.</sentence>
+<sentence id="s768">They were in the nature of utilities that facilitated the making of aesthetic modifications in a web site.</sentence>
+<sentence id="s769">If they were not available in their WebStable form, they, or files of equivalent functionality, might have been obtained from elsewhere, or written from scratch as a last resort, without expense or inconvenience.</sentence>
+<sentence id="s770">There was no suggestion that Dais was the only supplier in the industry from whom a CMS incorporating files which provided that functionality could be obtained; rather, the contrary was manifestly the case.</sentence>
+<sentence id="s771">Neither was there any suggestion that any of Mr Petro's clients took their business to him because these files were part of the CMS which he provided.</sentence>
+<sentence id="s772">Had any such suggestion been made, I would have regarded it as far-fetched.</sentence>
+<sentence id="s773">Had he not had access to these files, Mr Petro would have been able to provide his clients with web site products every bit as pleasing and functional as those that he did provide.</sentence>
+<sentence id="s774">He would simply have obtained equivalent functionality from elsewhere.</sentence>
+<sentence id="s775">Even if he could not have done so, and even if this caused his clients to take their business elsewhere, there is no way that I could assume that they most probably would have taken it to Dais rather than to other similar service providers in the industry.</sentence>
+<sentence id="s776">112 The conclusions expressed in the previous paragraph should not really be a matter of evidence in themselves.</sentence>
+<sentence id="s777">However, without objection, Mr Wood gave the following evidence, which was not subject to cross-examination:
+ I would not expect that customers of these systems would see anything particularly innovative or valuable from the functions provided by the two JavaScript files.</sentence>
+<sentence id="s778">The customers just want to know that the system works and is easy to use.</sentence>
+<sentence id="s779">I would not expect a customer to base any part of their purchasing decision on the source code in the two JavaScript files.</sentence>
+<sentence id="s780">
+
+In this passage, Mr Wood expresses the conclusion which I would in any event reach from a consideration of all the evidence in the case.</sentence>
+<sentence id="s781">
+ 113 To the above findings I would add a reference to such evidence as there was from Mr Petro's own clients in period June 2004-April 2006.</sentence>
+<sentence id="s782">In relation to a number of them, Mr Perlinski's affidavit of 1 July 2007 estimated the general dimensions and requirements of a web site that they might have had built by Dais had they not gone to Mr Petro, and the charges that Dais would have imposed for its services.</sentence>
+<sentence id="s783">A witness from each of three of the organisations in question gave evidence to the effect that they were very happy with Mr Petro's work for reasons unrelated to the functions in which the table file and the editor file were involved.</sentence>
+<sentence id="s784">They left no doubt but that they would not in any event have obtained services from Dais.</sentence>
+<sentence id="s785">114 In relation specifically to its claim in copyright, it was submitted on behalf of Dais that its damages might be assessed by considering the notional licence fee that ought to have been its reasonable expectation for exploitation of WebStable: see eg Nominet UK v Diverse Internet Pty Ltd (2005) 68 IPR 131, 142 [47].</sentence>
+<sentence id="s786">However, the present is not a case in which I could find that there was any commercial value in the particular form of expression taken by the source code in the table file and the editor file.</sentence>
+<sentence id="s787">I can think of no reason why a web developer would contemplate paying good money to Dais for the use of those files when equivalent functionality might just have readily been obtained elsewhere at no cost, or effectively so.</sentence>
+<sentence id="s788">115 For the above reasons, I would find that Dais did not lose any revenue as a result of the use of the table file and the editor file by Mr Petro.</sentence>
+<sentence id="s789">It would not have made good its claim for damages.</sentence>
+<sentence id="s790">
+ DISPOSITION OF THE PROCEEDING 
+ 
+ 116 For reasons stated above, the application must be dismissed.</sentence>
+<sentence id="s791">
+
+
+ I certify that the preceding one hundred and sixteen (116) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jessup.</sentence>
+<sentence id="s792">Associate:
+
+Dated: 20 December 2007
+
+
+ Counsel for the Applicant: Mr Fisher 
+ 
+ Solicitor for the Applicant: Kenny &amp; Co Solicitors 
+ 
+ Counsel for the Respondent: Mr Crowe 
+ 
+ Solicitor for the Respondent: Mallesons Stephen Jaques 
+ 
+ Date of Hearing: 23, 24, 25 July, 22 August 2007 
+ 
+ Date of Judgment: 20 December 2007 
+
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2054.html 
+ 
+ </sentence>
+</sentences>
+</case>

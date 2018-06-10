@@ -1,0 +1,9 @@
+task4.sentences.tar.gz 
+
+ - contains a file for each topic. Each such file contains only the
+relevant sentences from the documents associated with that topic (see
+topic file for the list of those documents). The sentences are ordered
+first by the ranking of the document they came from and within that by
+the sequence in which they appeared in that document. The relevant
+sentences which were deemed novel (when read in the order given) are
+tagged NOVEL.

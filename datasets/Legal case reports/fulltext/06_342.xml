@@ -1,0 +1,889 @@
+<?xml version="1.0"?>
+<case>
+<name>Lawrance v President, Administrative Appeals Tribunal [2006] FCA 342 (5 April 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/342.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">review of decision of administrative appeals tribunal ("aat")</catchphrase>
+<catchphrase "id=c1">application for confidentiality orders</catchphrase>
+<catchphrase "id=c2">whether failure to take into account relevant considerations</catchphrase>
+<catchphrase "id=c3">whether wednesbury unreasonable</catchphrase>
+<catchphrase "id=c4">principle of open justice</catchphrase>
+<catchphrase "id=c5">public interest</catchphrase>
+<catchphrase "id=c6">real issues in substantive proceeding</catchphrase>
+<catchphrase "id=c7">no error in aat decision</catchphrase>
+<catchphrase "id=c8">jurisdiction</catchphrase>
+<catchphrase "id=c9">whether officer of commonwealth</catchphrase>
+<catchphrase "id=c10">whether acting in capacity as an officer</catchphrase>
+<catchphrase "id=c11">whether matter arising under laws made by the parliament</catchphrase>
+<catchphrase "id=c12">administrative law</catchphrase>
+<catchphrase "id=c13">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+ Introduction 
+ 
+1 In April 2004, the applicant brought a number of proceedings in the Administrative Appeals Tribunal ("the AAT"), five of which sought review of decisions by various government bodies to refuse requests for documents made by the applicant under the Freedom of Information Act (1982) (Cth) (" FOI Act" ).</sentence>
+<sentence id="s1">The requests were refused in each case pursuant to s 24A of the FOI Act because each relevant body was satisfied that all reasonable steps had been taken to find the documents and that they did not exist.</sentence>
+<sentence id="s2">2 The government agencies or bodies named in the AAT proceedings, the fifth to tenth respondents in these proceedings, are CRS Australia ("CRS"), the Social Security Appeals Tribunal ("SSAT"), Centrelink ("Centrelink"), the Refugee Review Tribunal ("the RRT"), the Department Of Family And Community Services ("the Department") and the Human Rights And Equal Opportunity Commission ("HREOC").</sentence>
+<sentence id="s3">3 CRS provides vocational rehabilitation under the Disability Services Act (1986) (Cth) (" DSA ").</sentence>
+<sentence id="s4">A finding of fact has been made by the AAT that CRS does not provide rehabilitation services without the consent of a client and that CRS does not conduct surveillance.</sentence>
+<sentence id="s5">4 Nevertheless, the applicant believes that, without her consent, CRS has been providing non-consensual treatment to her for a psychiatric disorder which she says she does not have, and that she has been subject to covert surveillance by CRS.</sentence>
+<sentence id="s6">5 The FOI requests which the applicant made were for all personal information and health information held which related to her, spanning a lengthy period from 1986 to 2004.</sentence>
+<sentence id="s7">The information sought included email records of a number of persons including the fourth respondent ("Ms Smith"), as well as a Ms Louise Perrottet ("Ms Perrottet") and a Ms Andrea Howard ("Ms Howard").</sentence>
+<sentence id="s8">6 Ms Smith was an employee of CRS, at least up until 2002.</sentence>
+<sentence id="s9">She was also a personal friend of the applicant during the period from 1992 to 1999, when the friendship ceased.</sentence>
+<sentence id="s10">The applicant believes that during the time when Ms Smith was employed by CRS, she provided or was involved in the unauthorised provision by CRS of "eligible services" to the applicant under the DSA and that CRS has documents, including electronic material, which record that activity.</sentence>
+<sentence id="s11">The applicant also believes that Ms Smith lied to the AAT when she gave evidence on 1 November 2004 that her relationship with the applicant was purely personal and that there are no such documents.</sentence>
+<sentence id="s12">7 The applicant firmly believes that Ms Smith has wrongly imputed a psychiatric disorder to her and that Ms Smith has, in breach of various Commonwealth statutes, including the DSA Act , the Sex Discrimination Act 1984 (Cth) (the " Sex Discrimination Act "), and privacy legislation, made contact with the applicant's family.</sentence>
+<sentence id="s13">8 Ms Smith was a friend of Ms Perrottet.</sentence>
+<sentence id="s14">Ms Perrottet was also at one time an employee of CRS, having apparently left in 1994.</sentence>
+<sentence id="s15">She is not a party to these proceedings but she gave evidence in the AAT, which was accepted, that she was unaware of any activity by CRS concerning the applicant.</sentence>
+<sentence id="s16">9 Ms Howard was a friend of the applicant and of Ms Perrottet.</sentence>
+<sentence id="s17">It appears that Ms Howard was not a friend of Ms Smith and she may not have known her.</sentence>
+<sentence id="s18">10 The applicant has given sworn evidence that in 1999, Ms Howard told the applicant that "Bev Smith was no friend to you".</sentence>
+<sentence id="s19">This brief remark, the evidence on which does not establish the context in which it was made, eventually became the source of the applicant's belief that CRS, through Ms Smith, had engaged in unauthorised treatment and surveillance of her.</sentence>
+<sentence id="s20">11 The applicant was, at various times, employed by some of the respondents.</sentence>
+<sentence id="s21">She was employed by the Department of Social Security (which is now Centrelink) from 1986 to 1992.</sentence>
+<sentence id="s22">She was a member of the SSAT from 1992 to 1997; she was employed by Centrelink from November 1997 to August 1998 and by the RRT from August 1998 to January 2001.</sentence>
+<sentence id="s23">She was never employed by CRS.</sentence>
+<sentence id="s24">12 In January 2001, the applicant resigned from the RRT, or was, as she contends, constructively dismissed.</sentence>
+<sentence id="s25">At that time she believed that she had been discriminated against by the RRT, and from about 1995, in her employment with the SSAT.</sentence>
+<sentence id="s26">She believes that she was discriminated against on the basis of her marital status and because people wrongly attributed to her a disability or incapacity, that is to say, a psychiatric condition.</sentence>
+<sentence id="s27">13 The FOI requests to which I referred above were made to CRS, the SSAT, Centrelink, the RRT, the Department, and HREOC in about early 2004.</sentence>
+<sentence id="s28">Applications for review by the AAT were filed in or about April 2004.</sentence>
+<sentence id="s29">14 In about September 2004, the applicant sought, in each of the proceedings in the AAT, a direction pursuant to s 35(2) of the Administrative Appeals Tribunal Act 1975 (Cth) (" AAT Act ") , that the hearing of her application take place in private, that her name and the names of witnesses not be published, that evidence given at the hearings be prohibited from publication, and that any written decision of the AAT have a restricted distribution.</sentence>
+<sentence id="s30">15 The reason given by the applicant for this request was:-
+ 
+ "I have been and continue to be subject to unlawful discrimination and victimisation; because publication of inaccurate or defamatory material --- should such be forthcoming --- is prejudicial to me and my reputation and may be unfairly prejudicial to other proceedings including court proceedings; and because owing to false and misleading information I have been unable to obtain a fair hearing to date in other jurisdictions.</sentence>
+<sentence id="s31">" 
+ 
+
+16 On 27 October 2004, the third respondent to these proceedings ("Senior Member Allen") handed down a joint set of reasons in the six applications refusing to make the orders sought by the applicant.</sentence>
+<sentence id="s32">17 On 1 November 2004, the applicant's proceeding against CRS in the AAT was before the second respondent to the present proceeding ("Senior Member Kelly") for hearing.</sentence>
+<sentence id="s33">The applicant made a further request under s 35(2) of the AAT Act for the hearing to take place in private and for suppression orders.</sentence>
+<sentence id="s34">Senior Member Kelly refused the request.</sentence>
+<sentence id="s35">18 Evidence was given before Senior Member Kelly by a number of persons including Ms Smith and Ms Perrottet.</sentence>
+<sentence id="s36">19 On 13 January 2005, before Senior Member Kelly had handed down her decision, the applicant commenced the present proceedings in the Federal Court.</sentence>
+<sentence id="s37">On 10 February 2005 she was given leave to file an amended application dated 14 January 2005.</sentence>
+<sentence id="s38">Relief is sought under s 39B of the Judiciary Act (1903) (Cth) (" Judiciary Act ") .</sentence>
+<sentence id="s39">20 The amended application seeks four categories of orders against the various respondents.</sentence>
+<sentence id="s40">21 The first category relates to the decision of Senior Member Allen dated 27 October 2004 refusing the applicant's application for orders under s 35(2) of the AAT Act .</sentence>
+<sentence id="s41">She seeks orders quashing the decision and removing it from publication.</sentence>
+<sentence id="s42">She also seeks an order of mandamus, requiring the President of the AAT to make orders under s 35(2) prohibiting the publication of the names of witnesses and their evidence in the various AAT proceedings.</sentence>
+<sentence id="s43">22 The second category arises out of the application heard by Senior Member Kelly on 
+1 November 2004.</sentence>
+<sentence id="s44">The applicant seeks an order prohibiting the learned member from making her decision and orders removing her from the conduct of the review.</sentence>
+<sentence id="s45">However, I refused to grant interlocutory relief which sought to prevent Senior Member Kelly from making her decision; see [2005] FCA 79.</sentence>
+<sentence id="s46">Leave to appeal from my judgment was refused by Hely J; see [2005] FCA 541.</sentence>
+<sentence id="s47">The request for such orders in the present proceedings has thus been overtaken by the publication of Senior Member Kelly's decision on 24 May 2005.</sentence>
+<sentence id="s48">23 The third category is an order of mandamus directed to the President of the AAT ordering him to compel the attendance of witnesses who have been issued with summonses in the various AAT proceedings.</sentence>
+<sentence id="s49">24 The fourth category is directed against Ms Smith.</sentence>
+<sentence id="s50">The applicant seeks orders preventing Ms Smith from giving false evidence in the AAT as well as an order prohibiting Ms Smith from imputing to the applicant a disability which she does not have.</sentence>
+<sentence id="s51">25 Ms Smith's actions are said to be in breach of the Sex Discrimination Act , the Disability Discrimination Act 1992 (Cth) (" DDA ")and the DSA .</sentence>
+<sentence id="s52">A real question arises as to whether the Federal Court has jurisdiction in respect of the claims against Ms Smith.</sentence>
+<sentence id="s53">26 The essence of Senior Member Kelly's decision of 24 May 2005 was that all reasonable steps had been taken by CRS to find the documents the subject of the applicant's request and that the documents do not exist.</sentence>
+<sentence id="s54">
+ 
+27 The learned Senior Member accepted the evidence of Ms Smith that her relationship with the applicant was purely one of friendship.</sentence>
+<sentence id="s55">She found that any emails created by Ms Smith during her time at CRS were personal and would have been deleted.</sentence>
+<sentence id="s56">She also found that, apart from the applicant's belief, there was no evidence to suggest any connection between CRS and the applicant.</sentence>
+<sentence id="s57">28 The applicant has filed a separate proceeding in this Court purportedly to appeal on a question of law from the decision of Senior Member Kelly.</sentence>
+<sentence id="s58">I heard that application immediately after the conclusion of the hearing in the present matter.</sentence>
+<sentence id="s59">It is the subject of a separate judgment.</sentence>
+<sentence id="s60">The Decision of Senior Member Allen 
+ 
+29 In late September 2004, the applicant requested a directions hearing in the AAT, to take place before the final hearing on 1 November 2004, for the purpose of considering her request for orders under s 35(2) of the AAT Act .</sentence>
+<sentence id="s61">30 All six matters in the AAT came before Senior Member Allen to determine the request for confidentiality orders.</sentence>
+<sentence id="s62">As I have said, the learned Senior Member handed down a joint decision on all the applications on 27 October 2004.</sentence>
+<sentence id="s63">31 The reasons for Senior Member Allen's decision are short.</sentence>
+<sentence id="s64">He saw no authority in s 35 for a direction that an applicant's name be suppressed and that she be known by an acronym; see at [6].</sentence>
+<sentence id="s65">32 Senior Member Allen said at [8], that apart from specific legislative requirements such as under the Taxation Administration Act 1953 (Cth) and a number of other provisions, 
+ s 35(3) of the AAT Act must be given its full force and effect.</sentence>
+<sentence id="s66">33 I will refer in more detail to that provision below.</sentence>
+<sentence id="s67">It is sufficient to observe that 
+ s 35(3) provides that in considering an application for confidentiality, the AAT is to take the principle of open justice as the basis for its consideration, but is required to pay due regard to reasons put by an applicant against that principle.</sentence>
+<sentence id="s68">34 As to the principles to be applied, Senior Member Allen referred to the judgment of Brennan J in Re Pochi and Minister for Immigration and Ethnic Affairs (1979) 26 ALR 247 (" Re Pochi") at 272 --- 273.</sentence>
+<sentence id="s69">His Honour said that an order excluding the public may be more justified than an order excluding a party but that strict criteria govern the making of such an order.</sentence>
+<sentence id="s70">There must appear to be a real possibility of injustice to, or a serious disadvantage upon, a party or a witness or it must clearly appear that publication of the proceeding would be contrary to the public interest.</sentence>
+<sentence id="s71">35 Senior Member Allen also referred to the judgment of Merkel J in Herald &amp; Weekly Times Limited v Williams [2003] FCAFC 217 ; (2003) 130 FCR 435 (" Herald &amp; Weekly Times") in which his Honour adopted the observations of Kirby P in John Fairfax Group Pty Ltd (Receivers and Managers Appointed) v Local Court of New South Wales (1991) 26 NSWLR 131 (" John Fairfax" ).</sentence>
+<sentence id="s72">There, the learned President, as he then was, pointed out at 142 that:-
+ 
+ "A significant reason for adhering to a stringent principle, despite sympathy for those who suffer embarrassment, invasions of privacy or even damage by publicity of their proceedings is that such interests must be sacrificed in the greater public interest in adhering to an open system of justice.</sentence>
+<sentence id="s73">" 
+ 
+
+36 Senior Member Allen observed that the policy reasons for adhering to an open system of justice were stated by Lord Atkinson and Lord Shaw in Scott v Scott [1913] AC 417 at 463 and 484-485 respectively.</sentence>
+<sentence id="s74">37 The reasons for Senior Member Allen's decision were then stated at [11] --- [13] as follows:-
+ 
+ "Notwithstanding practical difficulties, there must be shown some reason as to why justice cannot be done between the parties without the making of an order pursuant to s 35 before the Tribunal can make such an order.</sentence>
+<sentence id="s75">I do not regard possible embarrassment to an Applicant as a sufficient reason; see Kirby P (as he then was) in John Fairfax v Local Court (supra).</sentence>
+<sentence id="s76">
+ 
+ In particular, the AAT as a superior Tribunal should be very loath to consent to its proceedings taking place in private.</sentence>
+<sentence id="s77">It is not uncommon that during an AAT hearing some maladministration will be evidenced and it is proper that such bureaucratic failures be exposed.</sentence>
+<sentence id="s78">Similarly, errors of administration exposed in one matter may be applicable to numerous other matters.</sentence>
+<sentence id="s79">Invariably one of the parties to any review before the AAT is a government department or instrumentality therefore proceedings before the AAT should be in public, for to use the words of Lord Atkinson quoted above, the hearing of a case in public is 'the best security for pure, impartial and efficient administration of justice, the best means for winning for it public confidence and respect'.</sentence>
+<sentence id="s80">To create a review body that restricts, or worse denies, legal representation and then sits in private is to recreate the Star Chamber.</sentence>
+<sentence id="s81">
+ 
+ 
+ 
+ 
+ 
+ In this matter the Applicant has failed to demonstrate that the failure to make an order under ss 35(2) AAT Act would in any way prejudice her case and I refuse the application.</sentence>
+<sentence id="s82">" 
+
+
+ Background including request for records under the FOI Act 
+ 
+38 On 23 February 2004, the applicant made a request to CRS for full access to all records of personal information about her or referring to her that were held by CRS.</sentence>
+<sentence id="s83">She said that she had serious concerns about the reasons for personal information ever being collected and the lawful basis of CRS for doing so.</sentence>
+<sentence id="s84">39 The applicant stated in her request that she had no disability or psychiatric condition or disorder and accordingly that she did not meet the criteria stated in s 18 of the DSA for the provision of services by CRS.</sentence>
+<sentence id="s85">40 The applicant went on to say:-
+ 
+ "However I now believe, in hindsight, that there has been some sort of CRS involvement in my employment and indeed possibly in my present circumstances.</sentence>
+<sentence id="s86">If this is the case, I wish to make it clear that I am requesting under s 21A of the DSA the cessation immediate of any and all CRS involvement with me.</sentence>
+<sentence id="s87">I am also requesting that CRS, and certain officers like Bev Smith and Louise Perrottet and, (I am not sure if she has been a CRS employee), Anne Brimson (who still has to respond to complaints about her), respond to the complaints of unlawful discrimination under the Disability Discrimination Act (Cth) 1992 (the DDA) and the Sex Discrimination Act (Cth) 1984 (the SDA) that I lodged with the Human Rights &amp; Equal Opportunity Commission on 16 September 2003.</sentence>
+<sentence id="s88">" 
+ 
+
+41 The applicant then said that she had reason to believe that Ms Smith had involved herself with the applicant's employment during her time at the SSAT.</sentence>
+<sentence id="s89">She said that it came as a shock to her to learn that Ms Smith was "pursuing a friendship with me with a well hidden financial interest or ulterior motive in mind".</sentence>
+<sentence id="s90">She continued:-
+ 
+ "I believe that CRS, Bev Smith and Louise Perrottet in particular, have involved themselves in my employment at the SSAT, and that Anne Brimson has involved herself with my employment at Centrelink and the RRT, and that CRS has involved itself with my circumstances generally since my departure from the public service.</sentence>
+<sentence id="s91">That involvement has included a belated and unsuccessful attempt to have me diagnosed (and thereby try to justify years of unlawful activity).</sentence>
+<sentence id="s92">I believe that Anne Brimson and Andrea Taylor have been involved very heavily in attempts to classify me as a person with particular psychiatric disabilities (such as dissociative disorder; schizophrenia; a manic or a bipolar disorder) and that this occurred with a great momentum when I commenced working at the RRT.</sentence>
+<sentence id="s93">I believe her activity has been encouraged by persons associated with a campaign of victimisation waged by Annette O'Neill, Jenny D'Arcy, Stephen Hodges, Lyn Rogers, Angela Becket and Amanda MacDonald of the SSAT, because of my 1995 complaint against Stephen Hodges.</sentence>
+<sentence id="s94">Indeed, I believe that CRS have become a vehicle for that victimisation.</sentence>
+<sentence id="s95">Anne Brimson's conduct and the related activity of CRS has been unlawful under both the DDA and the SDA, and unauthorized by the DSA and any other applicable legislation.</sentence>
+<sentence id="s96">If a person does not fall within the target group then no CRS activity can be lawfully undertaken.</sentence>
+<sentence id="s97">" 
+ 
+
+42 The applicant said she believed that CRS had covertly contacted her family and a wide range of relatives, friends and acquaintances.</sentence>
+<sentence id="s98">This she said was done without any lawful basis.</sentence>
+<sentence id="s99">Reference was made to the DSA, the DDA , the Privacy Act 1988 (Cth), the Information Privacy Principles and the National Privacy Principles.</sentence>
+<sentence id="s100">43 The applicant summarised her request for information as follows:-
+ 
+ "In summary, I am seeking access to all personal information, including sensitive personal information and health information, held on me by CRS, from 1986 to 2004, whether such documents are at the Darlinghurst CRS Unit, Sussex St or elsewhere, and including but not limited to records of all email activity and other communications in particular those engaged in by Bev Smith, Anne Brimson and Louise Perrottet, A Taylor, L Howe and A Howard ..." 
+ 
+
+44 The applicant then set out a lengthy series of questions apparently designed to elicit information from CRS as to whether it had collected personal information and health information about her and to whom such information had been disclosed.</sentence>
+<sentence id="s101">45 The questions included "why did Andrea Howard say in 1999 'Bev Smith was no friend to you'?</sentence>
+<sentence id="s102">" and other questions concerning what health information CRS had about medication administered to the applicant without her consent and what surveillance had been conducted on her.</sentence>
+<sentence id="s103">46 Other requests for information in wide terms appear to have been made to the other relevant respondents; see Lawrance v Administrative Appeals Tribunal [2005] FCA 1318.</sentence>
+<sentence id="s104">47 On 8 March 2004, CRS replied to the applicant's request.</sentence>
+<sentence id="s105">CRS said:-
+ 
+ " - CRS Australia provides vocational rehabilitation, under the Disability Services Act (Cth) 1986.</sentence>
+<sentence id="s106">Vocational rehabilitation is a voluntary process and all CRS Australia vocational rehabilitation programs are provide (sic) in consultation with the client; 
+ - CRS Australia does not conduct surveillance, and does not endorse the collection of personal information without the individual's knowledge and consent; 
+ - Following searches of CRS Australia electronic records, using the details provided in your letter, I can confirm that CRS Australia has no record of you being a CRS Australia client, employee or contractor; 
+ - If you had been a CRS Australia client at anytime between 1986 and 2004; an electronic record of your involvement with CRS Australia would have been made; 
+ - CRS Australia does not hold personal or health information about individuals who are not CRS Australia clients, employees or contractors; 
+ - All correspondence about clients, including correspondence via e-mail and facsimile, is kept in hard copy on the client's CRS Australia file.</sentence>
+<sentence id="s107">" 
+ 
+ 
+
+48 CRS concluded by saying that in accordance with s 24A of the FOI Act , CRS was unable to provide the information requested.</sentence>
+<sentence id="s108">CRS stated that all reasonable steps had been taken to find the documents and that none could be found or did not exist.</sentence>
+<sentence id="s109">49 On 15 March 2004, the applicant requested an internal review from CRS under s 54 of the FOI Act of its decision to refuse access.</sentence>
+<sentence id="s110">50 On 16 April 2004, CRS informed the applicant that it had conducted an internal review but that its decision under s 24A of the FOI Act was that all reasonable steps had been taken and that the documents could not be found or did not exist.</sentence>
+<sentence id="s111">51 The applicant appears to have taken similar steps in respect of her other applications for information.</sentence>
+<sentence id="s112">52 The applicant lodged her application for review by the AAT of CRS's decision on 29 April 2004.</sentence>
+<sentence id="s113">Applications for review by the AAT of the other decisions were made at about the same time.</sentence>
+<sentence id="s114">53 On 10 May 2004, a conversation took place between the applicant and Ms Janine Wood ("Ms Wood"), the Legal Policy Manager for National Service Delivery Support for CRS.</sentence>
+<sentence id="s115">Ms Wood was the person who supervised the processing of requests for information under the FOI Act made to CRS.</sentence>
+<sentence id="s116">Ms Wood made a file note of the conversation as follows:-
+ 
+ "10/5/04 Return call from Bev Smith.</sentence>
+<sentence id="s117">Bev stated she had been a friend of Ms Lawrance some years back dating from when they studied law together.</sentence>
+<sentence id="s118">She stated her only contact had been on a personal basis, through studying &amp; then a friendship.</sentence>
+<sentence id="s119">At some point Ms Lawrance's behaviour changed and she accused Bev of interfering.</sentence>
+<sentence id="s120">Bev cut contact with Ms Lawrance and has not had any dealings with her since 1999.</sentence>
+<sentence id="s121">She recalls a letter from Ms Lawrance being passed on by a colleague 2 years ago, which had been sent to CRS.</sentence>
+<sentence id="s122">Bev left CRS permanently in 2002.</sentence>
+<sentence id="s123">She does not wish Ms Lawrance to know her contact details or home address, but would provide a statement regarding her dealings with Ms Lawrance if required.</sentence>
+<sentence id="s124">She would not wish to meet up with or face Ms Lawrance.</sentence>
+<sentence id="s125">Bev can state: 
+ 
+ 
+ 
+ 
+ &#8722; she had no dealings with Ms Lawrance as a CRS employee 
+ &#8722; all contact was personal (social) 
+ &#8722; she had no email dealing with Ms Lawrance that she can remember 
+ 
+ 
+ 
+ 
+ 
+ Bev stated that Louise Perrottet (named in Ms Lawrance's letter and a previous employee of CRS) was also a friend.</sentence>
+<sentence id="s126">She &amp; Louise had discussed their concerns re Ms Lawrance's behaviour &amp; mental state.</sentence>
+<sentence id="s127">Louise's background is social work), but when confronted by Bev with their concerns and suggestions that Ms Lawrance obtain professional help/support, Ms Lawrance became abusive.</sentence>
+<sentence id="s128">" 
+ 
+
+54 At some time prior to the hearing of the applications in the AAT, the deputy registrar, at the request of the applicant, issued a large number of summonses to persons to give evidence.</sentence>
+<sentence id="s129">The summonses were issued under s 40 of the AAT Act .</sentence>
+<sentence id="s130">The persons to whom summonses were issued included Ms Smith.</sentence>
+<sentence id="s131">55 On 6 October 2004, Ms Wood telephoned the AAT.</sentence>
+<sentence id="s132">The officer of the AAT who took the call made a note of the conversation.</sentence>
+<sentence id="s133">The note included the following:-
+ 
+ "One of the people summonsed, Bev Smith, has told us she wishes to remain confidential in this matter and does not want A. Lawrance to have access to her address or even to meet during the hearing.</sentence>
+<sentence id="s134">She has provided a lengthy written statement, in evidence, that sets out her involvement as she sees relevant in this matter, and hopes that this is sufficient.</sentence>
+<sentence id="s135">Janine wants to know what her obligations re the summonses are in this circumstance.</sentence>
+<sentence id="s136">" 
+ 
+
+ The Evidence in the AAT 
+ 
+56 The applicant filed a number of affidavits affirmed by her in support of her application.</sentence>
+<sentence id="s137">The affidavits included a 77 page handwritten affidavit which set out her history of complaints.</sentence>
+<sentence id="s138">57 The applicant's history, as set out in the lengthy affidavit, commenced with a complaint made by the applicant in 1995 of sexual harassment by a male colleague who was employed in the SSAT at that time.</sentence>
+<sentence id="s139">The applicant contends that having made this complaint, she encountered unlawful discrimination from that time onward.</sentence>
+<sentence id="s140">58 The applicant stated in her affidavit that she has come to realise, with hindsight, as a result of the comment in 1999 said to have been made by Ms Howard, that from 1995 onwards, people were changing their behaviour toward her.</sentence>
+<sentence id="s141">She said she realised, again with hindsight, that this change of behaviour was due to a decision to impute her, "wrongly of course", with a psychiatric disorder.</sentence>
+<sentence id="s142">59 The 1999 conversation between the applicant and Ms Howard, to which I referred earlier, was recorded in the affidavit.</sentence>
+<sentence id="s143">This was the conversation in which the applicant contends that Ms Howard said to the applicant "Bev Smith was no friend to you".</sentence>
+<sentence id="s144">The affidavit goes on to say that the applicant confronted Ms Smith about the conversation but that Ms Smith refused to discuss it and hung up on her.</sentence>
+<sentence id="s145">60 The applicant gave evidence in the affidavit of a number of conversations with psychiatrists.</sentence>
+<sentence id="s146">She said she had two conversations with Dr McMurdo, one in December 1995 when Dr McMurdo said "there is no diagnosis", the other in April 2000 when the applicant says that Dr McMurdo told her "I do not think you are schizophrenic.</sentence>
+<sentence id="s147">" The applicant also refers in her affidavit to a conversation with Dr Margaret Pickles in 2002.</sentence>
+<sentence id="s148">The applicant says that the doctor told her "Canberra needs a diagnosis".</sentence>
+<sentence id="s149">The context in which these comments are said to have been made was not apparent on the evidence.</sentence>
+<sentence id="s150">61 The effect of the affidavit is that the applicant has come to realise that people are wrongly imputing a psychiatric disorder to her, that CRS has conducted a program of treatment against her without her consent, and that CRS has her under surveillance.</sentence>
+<sentence id="s151">These acts are said to amount to unlawful discrimination, breaches of privacy and the provision of eligible services by CRS in breach of the provisions of the DSA.</sentence>
+<sentence id="s152">
+ 
+62 CRS filed affidavits affirmed in August 2004 by Ms Wood and Ms Margaret Carmody ("Ms Carmody"), who was CRS' Deputy General Manager for Service Delivery.</sentence>
+<sentence id="s153">63 Ms Wood affirmed that CRS only collects information about individuals who are CRS clients, employees or contractors, and that all its programs are registered.</sentence>
+<sentence id="s154">She said that where no file had been registered, no other documentation relating to an individual exists in the possession of CRS.</sentence>
+<sentence id="s155">64 Ms Wood went on to affirm that extensive enquiries were made by CRS in response to the applicant's requests for information.</sentence>
+<sentence id="s156">She said that no records were retrieved for Ms Perrottet.</sentence>
+<sentence id="s157">She also said that Ms Smith's electronic documentation amounted to approximately 300 floppy discs.</sentence>
+<sentence id="s158">She said that a manual search of these documents would have to be made but that searches already conducted by CRS demonstrated that information about the applicant was unlikely to be found in Ms Smith's records.</sentence>
+<sentence id="s159">65 The affidavit of Ms Carmody included the following:-
+ 
+ "Following the applicant's request on 15 March 2004 for a review of the decision to refuse access to documents, I requested that further searches be made in relation to e-mails and other documentation that might still exist in CRS Australia's possession of any of the former employees mentioned by the applicant in her letters.</sentence>
+<sentence id="s160">The equivalent of 300 floppy disks' worth of information was found to exist in relation to one former employee.</sentence>
+<sentence id="s161">Based on the amount of documentation and the fact that no evidence exists to indicate that any of the documentation may be linked to the applicant, I believe that it was not reasonable to search further for documents requested by the applicant.</sentence>
+<sentence id="s162">I wrote to the applicant on 16 April 2004 to affirm the decision to refuse documents under section 24A of the FOI Act.</sentence>
+<sentence id="s163">" 
+ 
+
+66 Ms Carmody went on to say that vocational rehabilitation under the DSA is voluntary, and that all of CRS' rehabilitation programs are provided in consultation with the client and with the client's informed consent.</sentence>
+<sentence id="s164">She said that the applicant has informed her that she (the applicant) does not have a disability and is not eligible for services under the DSA .</sentence>
+<sentence id="s165">Ms Carmody concluded by saying:-
+ 
+ "As CRS Australia does not collect, record or store an individual's personal information except if they are an employee, contractor or client, and on the basis of the investigations carried out, I believe that CRS holds no records relating to the applicant .</sentence>
+<sentence id="s166">" 
+ 
+
+67 A number of persons to whom the applicant issued summonses to give evidence in the AAT failed to appear.</sentence>
+<sentence id="s167">They included Ms Howard and Mr Kessels.</sentence>
+<sentence id="s168">Ms Howard wrote to the AAT on 11 October 2004 stating that she had never had contact with CRS or the Department in relation to the applicant.</sentence>
+<sentence id="s169">She said the applicant had been continually issuing her with summonses and subpoenas about matters on which she had no knowledge.</sentence>
+<sentence id="s170">68 By letter dated 13 October 2004, Mr Kessels asked to be discharged from his summons, stating that to his knowledge, he had no connection with the cases.</sentence>
+<sentence id="s171">On 25 October 2004, he sought indication as to whether the summons had been discharged, and stated that he would be prepared to give evidence by telephone.</sentence>
+<sentence id="s172">The transcript of evidence of 1 November 2004 
+ 
+69 At the start of the hearing on 1 November 2004, the applicant renewed her request for suppression orders and confidentiality under s 35(2) of the AAT Act .</sentence>
+<sentence id="s173">70 Senior Member Kelly then stated that she was aware of the previous application for suppression orders, which was dealt with by Senior Member Allen.</sentence>
+<sentence id="s174">Upon hearing the applicant's submissions on the issue, she observed that the applicant had not put anything new of a nature that would cause her to make a different ruling from Senior Member Allen.</sentence>
+<sentence id="s175">71 Ms Wood gave oral evidence.</sentence>
+<sentence id="s176">She said that CRS had found approximately 400 megabytes of electronic material for projects in which Ms Smith was involved, and that a manual search of the information would take, on a conservative estimate, approximately 100 hours to complete.</sentence>
+<sentence id="s177">72 Ms Smith attended to give evidence in answer to a summons issued by the applicant.</sentence>
+<sentence id="s178">The transcript recorded that Ms Smith stated that her occupation was "HR Manager for Australian Quarantine Inspection Service.</sentence>
+<sentence id="s179">" She confirmed that she and the applicant were "very close personal friends" for a number of years, from about 1992 onwards.</sentence>
+<sentence id="s180">73 The applicant then asked whether "from your experience of our friendship, I was the sort of friend who indulged in gossip or rumour mongering?".</sentence>
+<sentence id="s181">74 Senior Member Kelly asked how such a question was relevant and, the witness having left the room, a debate took place between the learned Senior Member and the applicant about relevance.</sentence>
+<sentence id="s182">Senior Member Kelly drew the applicant's attention to what the learned Senior Member considered to be the real issue on the application in terms of Ms Smith's evidence; namely, did Ms Smith have any information about the applicant which she had recorded on CRS documents.</sentence>
+<sentence id="s183">75 Senior Member Kelly said:-
+ 
+ "What she might say outside CRS does not assist me.</sentence>
+<sentence id="s184">All I want to know is whether she has created any records or any records about you on the CRS system.</sentence>
+<sentence id="s185">" 
+ 
+
+76 The learned Senior Member observed that the hearing was not an opportunity for the applicant to explore what had happened in her personal relationship with Ms Smith.</sentence>
+<sentence id="s186">77 Senior Member Kelly also said:-
+ 
+ "Now, while this Tribunal may inform itself as it sees fit, the touchstone of this is procedural fairness but also relevance.</sentence>
+<sentence id="s187">I'm not going to wander off around the country in terms of speculation about what might have been said here and there.</sentence>
+<sentence id="s188">What I am concerned with is what may be on the records which you seek access to.</sentence>
+<sentence id="s189">" 
+ 
+
+78 After some further exchange, Ms Smith returned to the witness box.</sentence>
+<sentence id="s190">The applicant then asked whether Ms Smith recalled making a joke that Ms Smith was "paranoid about something".</sentence>
+<sentence id="s191">Senior Member Kelly interrupted and said "Ms Lawrance, I don't think so".</sentence>
+<sentence id="s192">79 A debate then took place between the learned Senior Member and the applicant about relevance.</sentence>
+<sentence id="s193">Senior Member Kelly stated:-
+ 
+ "Can I just explain, Ms Lawrance, I am concerned, where there's been a breakdown of personal relationships, to the extent that it's not relevant, I do not want to hear about it.</sentence>
+<sentence id="s194">It's not a matter for the Tribunal.</sentence>
+<sentence id="s195">So you may ask Ms Smith about matters which you think have given rise to this information, but it has to be relevant.</sentence>
+<sentence id="s196">" 
+ 
+
+80 The applicant tried to ask Ms Smith a further question about the use of the word "paranoid" in a personal conversation, but she was again stopped by Senior Member Kelly.</sentence>
+<sentence id="s197">81 The learned Senior Member then herself asked a number of questions of Ms Smith about the conversation between Ms Smith and Ms Wood of 10 May 2004, which was recorded in the file note referred to above.</sentence>
+<sentence id="s198">82 The applicant then asked Ms Smith about the conversation in which the applicant confronted Ms Smith on the telephone about the conversation with Ms Howard.</sentence>
+<sentence id="s199">Ms Smith agreed that she responded with anger and that she hung up the phone.</sentence>
+<sentence id="s200">Ms Smith said in her evidence that she considered that the applicant was accusing her of something of which Ms Smith had no knowledge and that she had not done.</sentence>
+<sentence id="s201">She said that she had given the applicant a lot of support over the years, and that she was angry about the applicant's accusation.</sentence>
+<sentence id="s202">83 After some further debate, Senior Member Kelly permitted the applicant to ask questions about Ms Smith's recollection of the conversation recorded by Ms Wood in the file note.</sentence>
+<sentence id="s203">84 The following exchange then took place between Ms Smith and the applicant:-
+ 
+ "MS LAWRANCE: What is your recollection of that conversation with Ms Wood then?</sentence>
+<sentence id="s204">--- Okay.</sentence>
+<sentence id="s205">Yes, I did --- I did discuss with Ms Wood that --- during the period of our friendship that I did become concerned about you.</sentence>
+<sentence id="s206">Essentially, again, it was the concern of a friend.</sentence>
+<sentence id="s207">I remember we were studying --- we were supposed to be studying law together one day.</sentence>
+<sentence id="s208">I think it was when you had moved with my friends over to Clovelly and it was in your apartment --- it was in the apartment at Clovelly.</sentence>
+<sentence id="s209">And I remember you describing to me that --- that someone had been taking pictures of you naked in Grace Brothers or something along those lines.</sentence>
+<sentence id="s210">
+ 
+ I've never said anything of the kind.</sentence>
+<sentence id="s211">I'm sorry, can you just repeat that again?</sentence>
+<sentence id="s212">
+ 
+ MS KELLY: Well, it's been recorded and I heard it.</sentence>
+<sentence id="s213">Unless it's necessary for you to hear it again.</sentence>
+<sentence id="s214">
+ 
+ MS LAWRANCE; Yes.</sentence>
+<sentence id="s215">Can you say that again exactly when --- are you saying I said something like that?</sentence>
+<sentence id="s216">--- Yes.</sentence>
+<sentence id="s217">You said something along those lines.</sentence>
+<sentence id="s218">
+ 
+ What?</sentence>
+<sentence id="s219">--- You thought that something was coming in to Sydney Harbour and I don't recall what it was.</sentence>
+<sentence id="s220">You were concerned that --- that you had been in Grace Brothers and someone had been taking pictures of you in the shop.</sentence>
+<sentence id="s221">The other thing --- 
+ 
+ You are lying?</sentence>
+<sentence id="s222">--- The other thing that you said to me was --- we were sitting down and we were looking at my textbook and I don't recall which legal subject it was but you were concerned that the textbook had been changed; that someone had changed the textbook because they wanted you to fail the exam.</sentence>
+<sentence id="s223">
+ 
+ Oh, my God, I would dispute that as well?</sentence>
+<sentence id="s224">--- The other reason I became concerned was that you brought documents over to my house one night and you asked me to hold them in safe-keeping and my girlfriend had reported to me at the same time that she had come home and found you burning documents in the bedroom in the flat.</sentence>
+<sentence id="s225">
+ 
+ That's not correct either, but it's --- if I could explain these things.</sentence>
+<sentence id="s226">" 
+ 
+
+85 Shortly afterward Senior Member Kelly asked the following questions and received the following answers:-
+ 
+ "Okay.</sentence>
+<sentence id="s227">Can I just ask you, Ms Smith, have you created any documents when you were working at CRS that related to Ms Lawrance?</sentence>
+<sentence id="s228">--- No.</sentence>
+<sentence id="s229">
+ 
+ Any emails?</sentence>
+<sentence id="s230">--- No.</sentence>
+<sentence id="s231">Not that I'm aware of, no.</sentence>
+<sentence id="s232">The only thing I said to Janine is --- and I'm not even sure if email existed then.</sentence>
+<sentence id="s233">I used to pick Aroha up on the way to our legal studies from work and so I may have sent her an email to say, "I will pick you up at 5 o'clock", but I'm not even sure of that type of email.</sentence>
+<sentence id="s234">But, no, I've never created any other type of document at all relating to Aroha.</sentence>
+<sentence id="s235">
+ 
+ Are you aware of any program which has been carried out by CRS in relation to Ms Lawrance?</sentence>
+<sentence id="s236">--- No.</sentence>
+<sentence id="s237">No.</sentence>
+<sentence id="s238">My relationship with her was purely personal.</sentence>
+<sentence id="s239">It was a personal friendship.</sentence>
+<sentence id="s240">" 
+ 
+
+86 The applicant then proceeded to ask questions which confirmed the personal nature of the conversations between Ms Smith and Ms Perrottet about their concerns over the applicant's behaviour and mental state.</sentence>
+<sentence id="s241">87 The following exchange then took place:-
+ 
+ "MS LAWRANCE: Okay.</sentence>
+<sentence id="s242">I would also put it to you, Bev, that what happened in 1999 appears to be something along the lines of people like Andrea Howard and possibly Andrea Taylor; no more about what you've been doing than I do and did not think very highly of you.</sentence>
+<sentence id="s243">But they have --- 
+ 
+ MS KELLY: No, Ms Lawrance.</sentence>
+<sentence id="s244">No.</sentence>
+<sentence id="s245">
+ 
+ MS LAWRANCE: Because I have just heard the biggest load of --- 
+ 
+ MS KELLY: No.</sentence>
+<sentence id="s246">
+ 
+ MS LAWRANCE: --- fiction from this witness and she is not telling the truth and she's doing it because she has a vested interest in imputing --- 
+ 
+ MS KELLY: Ms Lawrance.</sentence>
+<sentence id="s247">
+ 
+ MS LAWRANCE: --- a psychiatric disorder --- 
+ 
+ MS KELLY: Ms Lawrance, this is not helping the Tribunal.</sentence>
+<sentence id="s248">" 
+ 
+
+88 There was further debate about relevance.</sentence>
+<sentence id="s249">Senior Member Kelly reminded the applicant that what was relevant was what evidence Ms Smith had about CRS documents.</sentence>
+<sentence id="s250">Ms Smith stated that she may at one stage have sent a personal email to the applicant about picking her up by car on their way to Sydney University.</sentence>
+<sentence id="s251">89 The balance of Ms Lawrance's questions involved debates with Senior Member Kelly about relevance.</sentence>
+<sentence id="s252">90 There was then cross-examination by the representative for CRS.</sentence>
+<sentence id="s253">Ms Smith stated that any email about giving the applicant a lift would have been deleted from the CRS computer, commenting "I would have no reason to keep it.</sentence>
+<sentence id="s254">It was of a purely personal nature".</sentence>
+<sentence id="s255">91 The applicant was then allowed to re-examine Ms Smith.</sentence>
+<sentence id="s256">The applicant put it to Ms Smith that she was still trying to impute a psychiatric disorder to the applicant.</sentence>
+<sentence id="s257">Senior Member Kelly interrupted, rejecting the question as irrelevant.</sentence>
+<sentence id="s258">In the exchange that ensued, the learned Senior Member said that she did not want Ms Smith to be harassed.</sentence>
+<sentence id="s259">92 The re-examination concluded with the following exchange:-
+ 
+ "MS LAWRANCE: It's quite difficult when a Commonwealth employee or a former Commonwealth employee has done what Ms Smith has done --- and you are looking at person who has no psychiatric disorder --- 
+ 
+ MS KELLY: Ms Lawrance, please sit down.</sentence>
+<sentence id="s260">I will adjourn if you continue to behave in that way.</sentence>
+<sentence id="s261">
+ 
+ MS LAWRANCE: Well --- 
+ 
+ MS KELLY: Ms Lawrance, you have no further questions?</sentence>
+<sentence id="s262">
+ 
+ MS LAWRANCE: No.</sentence>
+<sentence id="s263">" 
+ 
+
+93 Ms Perrottet then gave evidence in answer to a summons from the applicant.</sentence>
+<sentence id="s264">In the course of examination in chief, there was debate between Senior Member Kelly and the applicant about the relevance of questions concerning matters outside CRS.</sentence>
+<sentence id="s265">The learned Senior Member interrupted to reject a number of such questions.</sentence>
+<sentence id="s266">94 Ms Annette O'Neill ("Ms O'Neill") was called by the applicant.</sentence>
+<sentence id="s267">Ms O'Neill was a Senior Member of the SSAT from 1992 to 1997.</sentence>
+<sentence id="s268">The applicant asked her whether she had imputed a psychiatric disorder to the applicant.</sentence>
+<sentence id="s269">Senior Member Kelly ruled that the question was irrelevant.</sentence>
+<sentence id="s270">In any event, Ms O'Neill gave evidence in those proceedings that she had no knowledge of CRS involvement in any program concerning the applicant.</sentence>
+<sentence id="s271">95 The applicant then gave evidence herself.</sentence>
+<sentence id="s272">She was asked a series of questions by Senior Member Kelly designed to elicit from the applicant whether she had any evidence indicating the provision to the applicant of eligible services by CRS under the DSA.</sentence>
+<sentence id="s273">
+ 
+96 The representative of CRS asked only three questions in cross-examination of the applicant.</sentence>
+<sentence id="s274">The applicant's answers established that she had never been contacted by CRS, that she had not been invited to participate in an assessment program with CRS and that she had not been asked to participate in a rehabilitation program with CRS.</sentence>
+<sentence id="s275">
+ 
+97 Ms Carmody gave evidence by telephone.</sentence>
+<sentence id="s276">During examination in chief, she was asked whether consent was required for the provision of services by CRS.</sentence>
+<sentence id="s277">Ms Carmody stated that consent is "a critical element of our whole program".</sentence>
+<sentence id="s278">She said that a lot of clients are mental health clients and that CRS would not go to their places of work without their consent.</sentence>
+<sentence id="s279">98 Ms Carmody also gave the following evidence:-
+ 
+ MS KELLY: Ms Carmody, are you aware of CRS having an assessment undertaken without the client's knowledge?</sentence>
+<sentence id="s280">--- No.</sentence>
+<sentence id="s281">It's not.</sentence>
+<sentence id="s282">The client is present in their initial needs assessment.</sentence>
+<sentence id="s283">
+ 
+ So, is it possible, in your view, for CRS to put somebody in to do an assessment without the client knowing?</sentence>
+<sentence id="s284">---No.</sentence>
+<sentence id="s285">No, it's not.</sentence>
+<sentence id="s286">The clients --- when they attend their initial needs assessment, we have quite a structured process that we go through... and explain very clearly what rehabilitation entails and also their rights and responsibilities.</sentence>
+<sentence id="s287">It is in fact a --- for rehabilitation to be effective, it's a two way process, not only do we work with them to address the barriers and focus on what they can do, but we also need them to cooperate and participate in the program.</sentence>
+<sentence id="s288">So if those two elements aren't there, we're wasting government money.</sentence>
+<sentence id="s289">
+ 
+ MS LAWRANCE: Could I just ask you one more question.</sentence>
+<sentence id="s290">What would be the case if someone was an employee in a workplace and someone else, other than CRS, might be undertaking assessment services --- diagnostic and assessment services?</sentence>
+<sentence id="s291">Is there any scope in that situation for CRS to place people in the workplace to monitor the situation?</sentence>
+<sentence id="s292">For example, if it was a Commonwealth Employment workplace?</sentence>
+<sentence id="s293">--- A Commonwealth workplace?</sentence>
+<sentence id="s294">
+ 
+ Commonwealth workplace?--- Someone else is doing the assessment?</sentence>
+<sentence id="s295">
+ 
+ Well, just in theory, if that was scenario and --- 
+ 
+ MS KELLY: I think you better spell it out again clearly, Ms Lawrance.</sentence>
+<sentence id="s296">
+ 
+ MS LAWRANCE: If there was a Commonwealth employee in a Commonwealth workplace who might have been subject to some sort of assessment in the course of their employment ---?</sentence>
+<sentence id="s297">--- So their employer had organised that?</sentence>
+<sentence id="s298">
+ 
+ Yes, but it might have been done through CRS.</sentence>
+<sentence id="s299">Is there scope for CRS to have people in a workplace to monitor that kind of situation?</sentence>
+<sentence id="s300">--- No.</sentence>
+<sentence id="s301">No.</sentence>
+<sentence id="s302">We don't have a role there.</sentence>
+<sentence id="s303">We do a whole range of work for Commonwealth agencies but it's very clearly on a purchaser and provider arrangement.</sentence>
+<sentence id="s304">If there isn't a clear agreement where we have a clear role in undertaking the assessment or providing the program, then we have no role to be there.</sentence>
+<sentence id="s305">" 
+ 
+
+99 The transcript concludes with submissions made by the applicant and by the representative for CRS.</sentence>
+<sentence id="s306">Correspondence after 1 November 2004 
+ 
+100 After Senior Member Kelly reserved her decision, the AAT wrote to the applicant on 10 January 2005.</sentence>
+<sentence id="s307">The AAT said that two letters from Mr Kessels had come to the AAT's attention.</sentence>
+<sentence id="s308">These were the letters to which I referred earlier in which Mr Kessels sought to be discharged from his summons or to give evidence by telephone.</sentence>
+<sentence id="s309">101 The letter requested the applicant to advise Senior Member Kelly's associate whether she wished to reopen the hearing to take Mr Kessel's evidence.</sentence>
+<sentence id="s310">The letter went on to say that if the applicant wished to reopen, Senior Member Kelly would hold a directions hearing to argue that question.</sentence>
+<sentence id="s311">102 The letter also stated that Senior Member Kelly's associate had left a message about the matter on the applicant's mobile phone.</sentence>
+<sentence id="s312">The decision of Senior Member Kelly 
+ 
+103 Senior Member Kelly observed that the issues in the case were whether all reasonable steps had been taken to find the documents requested by the applicant and whether Senior Member Kelly was satisfied that the documents were either in the possession of CRS and could not be found, or did not exist; see at [6].</sentence>
+<sentence id="s313">104 The learned Senior Member observed at [7] that under s 61(1) of the AAT Act , the onus of proving these matters was on CRS.</sentence>
+<sentence id="s314">105 Senior Member Kelly set out at [8] --- [18] a full consideration of the applicant's evidence.</sentence>
+<sentence id="s315">For convenience, I will repeat it as follows:-
+ 
+ "8.</sentence>
+<sentence id="s316">Ms Lawrance provided comprehensive affidavit evidence (Exhibits A1 and A2) as well as giving oral evidence.</sentence>
+<sentence id="s317">She believes "in hindsight" that CRS has collected information about her unlawfully without her knowledge, that the information collected is inaccurate and that it has been unlawfully disclosed.</sentence>
+<sentence id="s318">She now believes that CRS had an involvement in her employment during her period with the Commonwealth of Australia and generally since she left that employment, including attempting to have her diagnosed with a disability such as schizophrenia and/or a personality disorder.</sentence>
+<sentence id="s319">She believes that CRS has become a 'vehicle' for her victimisation by various individuals during her employment on the SSAT and the RRT.</sentence>
+<sentence id="s320">She believes that CRS has contacted friends of hers who have no connection to her employment, and relatives, without her knowledge.</sentence>
+<sentence id="s321">
+ 
+ 9.</sentence>
+<sentence id="s322">She formed these views after reading the Disability Services Act (1986) (Cth) in 2004.</sentence>
+<sentence id="s323">Having perused the Act she states 'I considered the drastic change in behaviour of ex-friends ... and the incredible unlawful discrimination that I encountered' (at two specified workplaces in 2001 and 2002), 'and in the provision of education, good &amp; services and accommodation in 2002-2004, and the radical change in conduct of my relatives in the last few years, it occurred to me that I had been wrongly placed on some sort of programme under (the Act).</sentence>
+<sentence id="s324">It has occurred to me that this may have happened during my Commonwealth employment as well as currently'.</sentence>
+<sentence id="s325">(Exhibit A2) 
+ 
+ 10.</sentence>
+<sentence id="s326">She believes that various individuals, including employees of CRS and other Commonwealth bodies have involved themselves in her employment at the SSAT, Centrelink and the RRT.</sentence>
+<sentence id="s327">
+ 
+ 11.</sentence>
+<sentence id="s328">She learnt of 'the existence of some form of public service surveillance .. mid 1999'.</sentence>
+<sentence id="s329">She did not know whether she had been under surveillance before that time.</sentence>
+<sentence id="s330">I understand the reference to 'mid 1999' to be to when a former friend told her 'Bev Smith is no friend to you'.</sentence>
+<sentence id="s331">Ms Lawrance had never introduced the two and they had never met or spoken.</sentence>
+<sentence id="s332">She was "astounded" by the comment and was given no explanation for it and still does not understand what was meant.</sentence>
+<sentence id="s333">According to Ms Lawrance when asked about that comment, Ms Smith's reaction was extraordinarily defensive and she hung up.</sentence>
+<sentence id="s334">It was that comment that has caused Ms Lawrance to believe that Ms Smith had a 'professional interest in her'.</sentence>
+<sentence id="s335">Ms Smith was formerly employed by CRS.</sentence>
+<sentence id="s336">
+ 
+ 12.</sentence>
+<sentence id="s337">Ms Lawrance does not know 'who was undertaking the surveillance nor what it was done for.</sentence>
+<sentence id="s338">I still do not know these things, however it seems that it may have been undertaken by CRS ... either alone or in conjunction with the NSW Department of Health'.</sentence>
+<sentence id="s339">In relation to her employment at the RRT she says:- 
+ 
+ 
+ 
+ 'In essence, whatever organisation was behind the circulation of these lies is liable for the conduct of these two women, and if it is CRS Australia, then they are guilty of victimisation.</sentence>
+<sentence id="s340">' 
+ 
+ 
+ 
+ 13.</sentence>
+<sentence id="s341">Ms Lawrance also asserted that the same friend who had made the comment to her about Ms Smith had told her in 2000 that another friend had been in contact with her employers, although she had never expanded upon what it was that the other friend was doing in emailing people about her.</sentence>
+<sentence id="s342">
+ 
+ 14.</sentence>
+<sentence id="s343">She had never expected that had been the case.</sentence>
+<sentence id="s344">Further remarks were made to her in 2004 to similar effect which have led Ms Lawrance to believe that that other friend had been involved in 'information-sharing about me, with employers of mine or with an agency like CRS Australia, or some other similar agency'.</sentence>
+<sentence id="s345">
+ 
+ 15.</sentence>
+<sentence id="s346">Ms Lawrance has referred to many further dealings and conversations with friends and work colleagues, and circumstances in various work places from 1995 to 2004 which have caused her to believe that she was: 
+ 
+ 
+ 
+ 'being mislead (sic) by former friends.</sentence>
+<sentence id="s347">I can state that this has only occurred because of the activity of CRS Australia.</sentence>
+<sentence id="s348">It is very obvious not onloy that [a friend] had a source of information about my workplace that was not I, but that that source of information (and lies) wsas in all probability CRS Australia.</sentence>
+<sentence id="s349">There is no way that my friends in the past would ever have treated me like this.</sentence>
+<sentence id="s350">Their mistakes in so doing are attributable to the conduct of CRS and the lies whidch that organisation have disseminated about me.</sentence>
+<sentence id="s351">' 
+ 
+ 
+ 
+ 16.</sentence>
+<sentence id="s352">She believes that 'this may have something to do with Bev Smith'.</sentence>
+<sentence id="s353">
+ 
+ 17.</sentence>
+<sentence id="s354">Ms Lawrance also set out comments and reactions of other friends, relatives and doctors apparently unconnected wsith her employment, which support her belief that someone has been spreading lies about her.</sentence>
+<sentence id="s355">She referred to a relative making comments which wrongly imputed a psychiatric disorder to her.</sentence>
+<sentence id="s356">In 2002 a doctor told her 'Canberra needs a diagnosis'.</sentence>
+<sentence id="s357">That doctor never treated her and did not have consent to treat or assess her.</sentence>
+<sentence id="s358">In 2003 another doctor whom she had seen once before in 1994 and from whom she sought file notes, told her that a close relative was observing her.</sentence>
+<sentence id="s359">She asserted that doctor's file notes indicated that a third person had consulted with the doctor in 1994 when a considerable amount of false information had been given about her and that the file notes also referred to an assessment having been undertaken of Ms Lawrance of which she was unaware and to which she had not consented.</sentence>
+<sentence id="s360">
+ 
+ 18.</sentence>
+<sentence id="s361">At paragraph 42 of her affidavit Exhibit A1 she refers to various matters mentioned above, plus one other, and states 'it is evident that CRS Australia have a substantial number of documents about and in relation to me'.</sentence>
+<sentence id="s362">
+ 
+
+106 The learned Senior Member then turned to the evidence of Ms Smith and Ms Perrottet She found both had been employees of CRS; that Ms Perrottet left in 1994 and that Ms Smith left in 2002.</sentence>
+<sentence id="s363">The Senior Member also found that both were former friends of the applicant; see [19].</sentence>
+<sentence id="s364">107 Senior Member Kelly referred to the evidence of Ms Wood's file note of a conversation between Ms Wood and Ms Smith.</sentence>
+<sentence id="s365">The effect of her findings at [20] was that Ms Smith had no dealings with the applicant as a CRS employee but only on a personal level.</sentence>
+<sentence id="s366">She also found that any email about arranging a lift to university would have been deleted.</sentence>
+<sentence id="s367">108 Senior Member Kelly found at [21] that no document was created following a discussion between Ms Smith and Ms Perrottet about the applicant's behaviour and mental state.</sentence>
+<sentence id="s368">109 The effect of Senior Member Kelly's findings about Ms O'Neill's evidence was that CRS was not aware of any program of treatment of the applicant under the DSA.</sentence>
+<sentence id="s369">
+ 
+110 Senior Member Kelly also referred to the correspondence from Mr Kessels and to the enquiry made of the applicant as to whether she wished to have a directions hearing to determine whether the applicant wished to reopen to have him give evidence.</sentence>
+<sentence id="s370">Senior Member Kelly said at [24] that "[i]nitially she said yes, but later said no".</sentence>
+<sentence id="s371">111 The learned Senior Member then turned to consider the question of whether all reasonable steps were taken by CRS to find the documents requested by the applicant.</sentence>
+<sentence id="s372">She made a series of findings in favour of CRS at [26] --- [36].</sentence>
+<sentence id="s373">112 Senior Member Kelly's findings on the question of whether reasonable steps were taken are critical and I will set them out in full as follows:-
+ 
+ "26.</sentence>
+<sentence id="s374">I find on the evidence that CRS does not collect or store an individual's sensitive personal or health information unless that person is a client, employee or contractor of CRS.</sentence>
+<sentence id="s375">Vocational rehabilitation is a voluntary process and all CRS vocational rehabilitation programs are provided in consultation with the client.</sentence>
+<sentence id="s376">The service would not be provided with the consent of a third party only.</sentence>
+<sentence id="s377">The informed consent of the client is necessary.</sentence>
+<sentence id="s378">CRS does not conduct surveillance.</sentence>
+<sentence id="s379">It is not an investigative agency.</sentence>
+<sentence id="s380">
+ 
+ 27.</sentence>
+<sentence id="s381">CRS conducted searches of documents for employees, contractors and clients.</sentence>
+<sentence id="s382">No records were found relating to Ms Lawrance.</sentence>
+<sentence id="s383">Searches were also made of the client databases (Nexus and its predecessor, CRMIS) which contain an index identifying files held relating to clients, human resources/employees and finance records of contractors/vendors.</sentence>
+<sentence id="s384">There are various retention periods for different categories of client records.</sentence>
+<sentence id="s385">However, the records of Nexus go back to 1999 and are not destroyed when the documents are destroyed.</sentence>
+<sentence id="s386">It includes historical data from its predecessors CRSMIS and RUMS dating back to 1987.</sentence>
+<sentence id="s387">A number of variants of Ms Lawrance's name were searched unsuccessfully.</sentence>
+<sentence id="s388">
+ 
+ 28.</sentence>
+<sentence id="s389">Inquiries were made of CRS Payroll and Finance teams to find out whether she had ever been an employee, contractor or vendor.</sentence>
+<sentence id="s390">No records were retrieved.</sentence>
+<sentence id="s391">
+ 
+ 29.</sentence>
+<sentence id="s392">If Ms Lawrance had been a client of CRS between 1986 and 2004, an electronic record of her involvement would have been created.</sentence>
+<sentence id="s393">All correspondence about clients, including correspondence via e-mail and facsimile is kept in hard copy on the client file, until disposed of in accordance with the CRS Records Disposal Authority.</sentence>
+<sentence id="s394">
+ 
+ 30.</sentence>
+<sentence id="s395">Searches were unable to find any contact with relatives of Ms Lawrance.</sentence>
+<sentence id="s396">Two difficulties were knowing the surname of the relatives,, and where they might have contacted CRS.</sentence>
+<sentence id="s397">
+ 
+ 31.</sentence>
+<sentence id="s398">CRS searched its electronic archives for relevant e-mails and other documentation in relation to Ms Smith and Ms Perrottet.</sentence>
+<sentence id="s399">No records were found relating to Ms Perrottet.</sentence>
+<sentence id="s400">Electronic holdings relating to Ms Smith were found.</sentence>
+<sentence id="s401">They included e-mail and other documentation, amounting to approximately 400 megabytes of material.</sentence>
+<sentence id="s402">A manual search would be required to determine whether any of the material was relevant.</sentence>
+<sentence id="s403">Each e-mail would have to be opened and each attachment as well.</sentence>
+<sentence id="s404">Other documents would have to be reviewed individually.</sentence>
+<sentence id="s405">I accept Ms Wood's oral evidence that the process of reviewing the material to identify matches to requested information and suitable for release is a lengthy one.</sentence>
+<sentence id="s406">It would take four days to recover the material from IT services and on a conservative estimate 100 hours to review it.</sentence>
+<sentence id="s407">
+ 
+ 32.</sentence>
+<sentence id="s408">I do not consider it reasonable to require a search of the electronic records relating to Ms Smith.</sentence>
+<sentence id="s409">I accept her evidence that her relationship with Ms Lawrance was purely one of friendship.</sentence>
+<sentence id="s410">Any e-mail records which Ms Smith created would have been to Ms Lawrance about giving her a lift and in all probability would have been deleted.</sentence>
+<sentence id="s411">Ms Smith was not involved in any activity relating to CRS activities and Ms Lawrance.</sentence>
+<sentence id="s412">Apart from Ms Lawrance's belief, arrived at in hindsight, there is no other evidence to suggest that there was any connection between CRS and Ms Lawrance.</sentence>
+<sentence id="s413">
+ 
+ 33.</sentence>
+<sentence id="s414">I am satisfied on the evidence that all reasonable steps have been made to find the documents the subject of Ms Lawrance's request.</sentence>
+<sentence id="s415">In coming to that conclusion I have borne in mind Deputy President McDonald's discussion of s 24A in Re Cristovao and Secretary, Department of Social Security (1998) 53 ALD 138 at 145.</sentence>
+<sentence id="s416">It is not reasonable to require further searches for the information to which Ms Lawrance seeks access.</sentence>
+<sentence id="s417">Her belief was formed in 2004 when she found the Disability Services Act (Cth) 1986.</sentence>
+<sentence id="s418">For her, that legislation provided a coherent explanation of various comments and incidents which had occurred in her private and working life over a number of years.</sentence>
+<sentence id="s419">
+ 
+ 34.</sentence>
+<sentence id="s420">Given CRS's role as a provider of vocational rehabilitation services, its practices, the information it stores and its storage procedures, I am satisfied that if it held information about a program or service relating to Ms Lawrance, it would have been found by the searches it undertook.</sentence>
+<sentence id="s421">
+ 
+ 35.</sentence>
+<sentence id="s422">I accept that Ms Lawrance genuinely holds the belief that CRS may have had an involvement in her life, however, I am satisfied on the evidence that CRS has never had any such involvement.</sentence>
+<sentence id="s423">
+ 
+ 36.</sentence>
+<sentence id="s424">I find that the documents to which Ms Lawrance has requested access do not exist.</sentence>
+<sentence id="s425">" 
+ 
+
+113 The learned Senior Member concluded by finding pursuant to s 24A of the FOI Act that she was satisfied that CRS had taken all reasonable steps to find the documents to which the applicant sought access and that the documents do not exist.</sentence>
+<sentence id="s426">She affirmed the decision of CRS made on the internal review in April 2004.</sentence>
+<sentence id="s427">Statement of Ms Smith 
+ 
+114 On 20 February 2006, Ms Wood provided the applicant with a copy of an undated statement headed "Statement --- Beverly Smith".</sentence>
+<sentence id="s428">The statement was annexed to an affidavit sworn by the applicant on 2 March 2006 and tendered as part of her case.</sentence>
+<sentence id="s429">115 Although the applicant does not accept that this be so, it is plain that the statement was provided by Ms Smith to Ms Wood between the date of the two file notes referred to above; that is, 10 May 2004 and 6 October 2004.</sentence>
+<sentence id="s430">It was provided for the purpose of the hearing in the AAT but it was not used at the hearing.</sentence>
+<sentence id="s431">The first file note states that Ms Smith would provide a statement.</sentence>
+<sentence id="s432">The second states that Ms Smith "has provided" a written statement.</sentence>
+<sentence id="s433">116 The statement describes the friendship between the applicant and Ms Smith, how it developed and how it ended.</sentence>
+<sentence id="s434">The statement describes the onset of Ms Smith's concerns about the applicant's mental state and the discussions Ms Smith had with Ms Perrottet in an effort to assist the applicant.</sentence>
+<sentence id="s435">117 The statement also contains a recollection that Ms Smith contacted the applicant's sister to express her concerns for the applicant's welfare.</sentence>
+<sentence id="s436">118 The statement is to the same effect as Ms Smith's oral evidence in the AAT.</sentence>
+<sentence id="s437">Orders 1---3: Certiorari and other relief in respect of the decision of Senior Member Allen 
+ 
+119 The effect of the applicant's affidavit evidence and her written and oral submissions is that she alleges that Senior Member Allen's decision is vitiated by jurisdictional error on the grounds that:-
+ 
+(i) the learned Senior Member failed to have regard to relevant considerations, in particular that the cases involved sensitive personal information which would cause damage to her reputation, and, further, that the applicant is not suffering from any impairment or incapacity;
+ 
+(ii) Senior Member Allen took into account irrelevant considerations, namely that he proceeded on the basis that the applicant is suffering from a disability which she does not have;
+ 
+(iii) the applicant was denied procedural fairness because Senior Member Allen conducted one hearing and gave one decision instead of dealing separately with the six applications;
+ 
+(iv) the decision was unreasonable in the Wednesbury sense; and
+ 
+(v) in refusing her applications, Senior Member Allen failed to take into account the public interest when there was no psychiatric evidence that the applicant was suffering from a disability.</sentence>
+<sentence id="s438">120 In considering the applicant's attack on Senior Member Allen's decision, it is to be borne in mind that the applicant's requests for orders under s 35(2) of the AAT Act were made in extremely wide terms.</sentence>
+<sentence id="s439">What the applicant sought was complete suppression of the fact of the hearing and everything related to it.</sentence>
+<sentence id="s440">She sought orders directing that the hearing take place in private, that her name and the names of witnesses be prohibited from publication, and that evidence and any documents filed in the AAT not be published.</sentence>
+<sentence id="s441">121 Although she did not say so expressly in her s 35(2) application, the effect of it would also have been to seek prohibition of publication of decisions of the AAT, and the reasons therefor.</sentence>
+<sentence id="s442">122 The application was supported by generalised assertions in terms set out in the excerpts from the letter of 30 September 2004 set out at [15] above.</sentence>
+<sentence id="s443">The assertions were to the effect that the applicant continues to be the subject of unlawful discrimination and inaccurate defamatory material that is prejudicial to her reputation.</sentence>
+<sentence id="s444">123 On the basis of the applicant's generalised assertions, Senior Member Allen was of the view that no reason had been shown why justice could not be done without the making of a suppression order.</sentence>
+<sentence id="s445">124 Senior Member Allen took into account the embarrassment and damage which may flow to the applicant from publication.</sentence>
+<sentence id="s446">This is evident from his quotes from Re Pochi , Herald &amp; Weekly Times and the remarks of Kirby P in John Fairfax .</sentence>
+<sentence id="s447">125 The learned Senior Member specifically stated that he did not regard embarrassment as a sufficient reason for an order, citing John Fairfax in support.</sentence>
+<sentence id="s448">126 The essence of Senior Member Allen's reasons for refusing the order was that he was not satisfied that the assertions made by the applicant outweighed the public interest in the open administration of justice.</sentence>
+<sentence id="s449">127 There is no basis for an assertion by the applicant that Senior Member Allen failed to have regard to relevant considerations, nor her assertion that he failed to have regard to her submissions.</sentence>
+<sentence id="s450">The learned member took into account all of the matters to which the applicant points, including the public interest and his reasons are not open to attack.</sentence>
+<sentence id="s451">128 Insofar as the applicant asserts that Senior Member Allen failed to take account that the applicant was not suffering a disability or alternatively that he took into account an irrelevant consideration by proceeding on the basis that she was under a disability, this complaint is unsupportable.</sentence>
+<sentence id="s452">So too is the submission that the Senior Member erred in failing to take into account whether the applicant had been the subject of eligible services by CRS.</sentence>
+<sentence id="s453">The issue on the s 35(2) application was not whether the applicant did, or did not, suffer from a disability, nor the alleged CRS services.</sentence>
+<sentence id="s454">129 Rather, the issue was whether the public interest in open justice must give way to another public interest, namely the real possibility of doing injustice in a particular case or of inflicting a serious disadvantage on a party or a witness.</sentence>
+<sentence id="s455">This was evident from Senior Member Allen's reference to the well established authorities on this question.</sentence>
+<sentence id="s456">130 The applicant also complains that she was not provided copies of the letters of Ms Howard, Mr Kessels, and another witness seeking to be discharged from their summons to give evidence.</sentence>
+<sentence id="s457">The applicant submits that this amounts to a denial of procedural fairness and a breach of s 39 of the AAT Act , as she was not given the opportunity of inspecting and making submissions in relation to the letters.</sentence>
+<sentence id="s458">However, the submission cannot succeed, for the letters were irrelevant to the issue before the Senior Member.</sentence>
+<sentence id="s459">131 So too was the fact that the Applicant was not cross examined on her affidavit.</sentence>
+<sentence id="s460">The AAT did not have a duty to resolve factual differences between the Applicant and witnesses on questions of fact which were irrelevant.</sentence>
+<sentence id="s461">132 Nor is there any basis for the complaint that the joint hearing and joint reasons of Senior Member Allen constituted a denial of procedural fairness.</sentence>
+<sentence id="s462">133 Section 33(1)(a) of the AAT Act provides that the procedure of the AAT is, subject to the AAT Act and the regulations and any other enactment, within the discretion of the AAT.</sentence>
+<sentence id="s463">Mr Marcus, for the fifth to ninth respondents, properly accepts that the discretion must be exercised lawfully and that it cannot be exercised in a way which would amount to a denial of procedural fairness to a party.</sentence>
+<sentence id="s464">134 However, on the material before me, there is nothing to make good the assertion that there was a denial of procedural fairness in the approach adopted by Senior Member Allen.</sentence>
+<sentence id="s465">No transcript of the hearing of the application was put before me, and there is nothing to suggest otherwise than that all of the applications for suppression orders were made on the same basis and on the same material.</sentence>
+<sentence id="s466">It would follow that the legal and factual issues were identical in each application under s 35(2).</sentence>
+<sentence id="s467">See NAOA v Minister for Immigration, Multicultural and Indigenous Affairs [2004] FCAFC 241 at [21] ; cf Minister for Immigration, Multicultural and Indigenous Affairs v NAMW [2004] FCAFC 264 ; (2004) 140 FCR 572 at [121] --- [122].</sentence>
+<sentence id="s468">135 It may have been open to Senior Member Allen to conduct separate hearings and write separate reasons.</sentence>
+<sentence id="s469">But to do so may well have been inefficient and hence in conflict with s 33(1)(b) of the AAT Act .</sentence>
+<sentence id="s470">136 In any event, there was no material detriment to the applicant in the course adopted.</sentence>
+<sentence id="s471">Acccordingly, there was no breach of the rules of natural justice.</sentence>
+<sentence id="s472">137 Finally, the Wednesbury unreasonableness complaint cannot be sustained.</sentence>
+<sentence id="s473">Section 35(3) of the AAT Act provides that the basis of the consideration of an application is that hearings should be held in public.</sentence>
+<sentence id="s474">What Senior Member Allen was required to do was to "pay due regard to any reasons given to the Tribunal" for a suppression order.</sentence>
+<sentence id="s475">138 Even if it be assumed that different decision makers might have come to different views in the balancing of public and private interests, this is at odds with any attack on the decision of Senior Member Allen in a Wednesbury sense.</sentence>
+<sentence id="s476">139 Moreover, bearing in mind the real issues in the substantive hearing, namely whether the relevant agencies had conducted adequate searches for documents and the generalised assertions of the applicant as to the effect on her reputation and the damage she would suffer, it cannot be suggested that the decision was unreasonable.</sentence>
+<sentence id="s477">140 Senior Member Allen was required to pay due regard to the matters put by the applicant.</sentence>
+<sentence id="s478">As I have said, it is clear that he did so.</sentence>
+<sentence id="s479">Similarly, there was no error on the part of Senior Member Kelly in declining to make suppression orders on 1 November 2004.</sentence>
+<sentence id="s480">No new matters were put to the learned senior member and the decision was not assailable.</sentence>
+<sentence id="s481">141 As to the orders sought by the application in the nature of mandamus, requiring the President of the AAT to make suppression orders under s 35(2) , I do not propose to make such orders; this follows from my conclusions above.</sentence>
+<sentence id="s482">Orders 4-5: Prohibition against Senior Member Kelly 
+ 
+142 The applicant's complaints about what she contends to have been an unfair hearing before Senior Member Kelly have been overtaken by the delivery of the learned Senior Member's decision of 24 May 2005.</sentence>
+<sentence id="s483">143 Accordingly, the applicant's complaints must turn upon her appeal on questions of law under s 44(1) of the AAT Act .</sentence>
+<sentence id="s484">She has lodged an appeal which is matter NSD 909 of 2005.</sentence>
+<sentence id="s485">I heard the appeal immediately after the conclusion of the present matter.</sentence>
+<sentence id="s486">It will be the subject of a separate judgment.</sentence>
+<sentence id="s487">Order 6: Mandamus to ensure that witnesses attend hearings 
+ 
+144 The applicant relies on ss 61 and 63 of the AAT Act for orders of mandamus directed to the President of the AAT to take steps to ensure that all witnesses issued with summonses to attend hearings comply with the summonses.</sentence>
+<sentence id="s488">This is apparently intended to ensure the attendance of witnesses such as Ms Howard.</sentence>
+<sentence id="s489">145 Section 61 of the AAT Act provides that a person is guilty of an offence if the person is given a prescribed summons and fails to attend or to appear, unless excused.</sentence>
+<sentence id="s490">Section 63 creates an offence for conduct amounting to contempt.</sentence>
+<sentence id="s491">146 The application for mandamus cannot be sustained.</sentence>
+<sentence id="s492">Both of these sections are offence provisions.</sentence>
+<sentence id="s493">They do not impose any duty on the AAT or any officer, let alone the President.</sentence>
+<sentence id="s494">There is nothing which could properly be made the subject of an order of mandamus; M Aronson, B Dyer and M Groves, Judicial Review of Administrative Action (3 rd Ed 2004) ("Aronson") at 329.</sentence>
+<sentence id="s495">Orders 7-8 
+ 
+147 These orders are directed against Ms Smith and seek to restrain her from making false statements about the applicant's mental condition and from imputing to the applicant a disability which she says she does not have.</sentence>
+<sentence id="s496">148 The applicant contends that the Court's jurisdiction is enlivened pursuant to s 75(v) of the Constitution and s 39B(1) of the Judiciary Act , upon the ground that Ms Smith is an officer of the Commonwealth.</sentence>
+<sentence id="s497">149 Alternatively, she relies upon s 39B(1A)(c) of the Judiciary Act , contending that she has a matter arising under laws made by the Parliament.</sentence>
+<sentence id="s498">She points to the provisions of the DSA and the other laws of the Commonwealth to which I have referred, which she says have been breached in imputing to her a disability.</sentence>
+<sentence id="s499">150 I will deal first with the question of whether the Court has jurisdiction on the basis that an injunction is sought against Ms Smith as an officer of the Commonwealth.</sentence>
+<sentence id="s500">151 The transcript of 1 November 2004 records that Ms Smith gave her occupation as the Human Resources Manager for the Australian Quarantine Inspection Services ("AQIS").</sentence>
+<sentence id="s501">The applicant disputes the accuracy of the transcript.</sentence>
+<sentence id="s502">This is nothing more than an assertion.</sentence>
+<sentence id="s503">But even if I draw the inference which the applicant asks me to do in the absence of evidence from Ms Smith, namely that Ms Smith is still employed by CRS, that does not confer jurisdiction on the Court.</sentence>
+<sentence id="s504">152 I should add that the inference the applicant asks me to draw flies in the face of a statement in the file note of 10 May 2004 that Ms Smith left CRS permanently in 2002.</sentence>
+<sentence id="s505">153 The reason why the Court does not have jurisdiction pursuant to s 75(v) is that even assuming Ms Smith was an officer of the Commonwealth (which she may have been as an employee of AQIS), she did not act in her capacity as such an officer.</sentence>
+<sentence id="s506">154 It is plain from the discussion in Aronson at 27-33 that it is a requirement for jurisdiction under s 75(v) that the person against whom the constitutional writ is sought be an officer of the Commonwealth and act in that capacity.</sentence>
+<sentence id="s507">155 As Aronson observes at 28, the ground of judicial review which is embraced within s 75(v) is that the officer has acted without power.</sentence>
+<sentence id="s508">This may be because the officer's action is unconstitutional or unauthorised by statute or by law or is otherwise committed in jurisdictional error.</sentence>
+<sentence id="s509">156 Thus, although persons may be officers of the Commonwealth for some purposes, eg as employees of a government agency, that will be irrelevant where the impugned decision is that of the body corporate; see Vietnam Veterans' Affairs Association of Australia NSW Branch Inc v Cohen (1996) 70 FCR 419 at 432 per Tamberlin J; see also Aronson at 31.</sentence>
+<sentence id="s510">157 As Aronson states at 33, the main point of s 75(v) is to ensure judicial supervision of the execution of Commonwealth statutes and the exercise by the Commonwealth of common law and executive powers.</sentence>
+<sentence id="s511">158 Nothing which Ms Smith is said to have done falls within this description.</sentence>
+<sentence id="s512">She was summonsed by the applicant to give evidence on an application to review the decision of CRS to refuse access to documents.</sentence>
+<sentence id="s513">What Ms Smith said in the witness box, or in her statement given to CRS in connection with the application, had no connection whatsoever with her duties or functions as an officer of the Commonwealth.</sentence>
+<sentence id="s514">No issue of want of power or want of jurisdiction was in any way involved in Ms Smith's actions.</sentence>
+<sentence id="s515">159 Nor is jurisdiction enlivened by the applicant's assertion that Ms Smith's statements or actions amount to a matter arising under laws made by the Parliament within s 39B(1A)(c) of the Judiciary Act .</sentence>
+<sentence id="s516">160 It is true that the applicant claims rights under Federal laws such as the DSA and that she claims breaches of rights or duties which owe their existence to Federal laws; see the discussion of the well established authorities in Transport Workers Union of Australia v Lee (1998) 84 FCR 60 at 65-67 (Black CJ, Ryan and Goldberg JJ).</sentence>
+<sentence id="s517">161 However, the following remarks of Menzies J in Felton v Mulligan [1971] HCA 39 ; (1971) 124 CLR 367 at 382 show why s 39B(1A)(c) is not enlivened:-
+ 
+ "A matter arises under a law of the Parliament when in a proceeding it is necessary that there should be a decision upon a claim made by one of the parties to the litigation which is based upon that law.</sentence>
+<sentence id="s518">" 
+ 
+
+162 Here, the issue before Senior Member Kelly was whether the relevant government agencies had made adequate searches for the documents.</sentence>
+<sentence id="s519">The questions explored by the applicant with Ms Smith as to the circumstances in which their friendship ceased, the imputation of a disability, and contact with relatives, were irrelevant to that issue.</sentence>
+<sentence id="s520">163 It was therefore not necessary for there to be a decision on those questions and no matter arose under the DSA or the other Federal statutes to which the applicant referred.</sentence>
+<sentence id="s521">164 Nothing that was said by the High Court in the recent decision on federal jurisdiction in Sweedman v Transport Accident Commission [2006] HCA 8 assists the applicant in the present case.</sentence>
+<sentence id="s522">There the Court was concerned with choice of law rules applicable in the County Court of Victoria in respect of a motor accident.</sentence>
+<sentence id="s523">The accident occurred in New South Wales between vehicles registered respectively in Victoria and New South Wales and driven respectively by Victorian and New South Wales resident drivers.</sentence>
+<sentence id="s524">165 The majority Justices observed at [33] that the County Court was exercising federal jurisdiction and that federal law controlled and required under s 80 of the Judiciary Act the applicable law.</sentence>
+<sentence id="s525">No such questions arise in the present case.</sentence>
+<sentence id="s526">166 Here, no debate as to whether there may be the excessive long-arm jurisdiction, which concerned Callinan J in dissent at [102], is triggered.</sentence>
+<sentence id="s527">This is a case in which no issue of federal jurisdiction is engaged by the complaints made against Ms Smith.</sentence>
+<sentence id="s528">167 Moreover, as Hely J observed in Lawrance v Administrative Appeals Tribunal [2005] FCA 541 at [39] there is an additional problem with the applicant's claim.</sentence>
+<sentence id="s529">A witness appearing before the AAT has the protection conferred by s 60(3) of the AAT Act .</sentence>
+<sentence id="s530">As his Honour said, the applicant's claim for an injunction would run counter to the immunity given by that section even if it were established that Ms Smith lied at the hearing before Senior Member Kelly.</sentence>
+<sentence id="s531">168 In any event, Senior Member Kelly accepted the evidence of Ms Smith.</sentence>
+<sentence id="s532">That was a finding of fact made within jurisdiction.</sentence>
+<sentence id="s533">Request for an order under s 50 of the Federal Court of Australia 
+ 
+169 The applicant asks me to make an order under s 50 of the Federal Court of Australia Act 1976 (Cth) that the Court suppress her name and refrain from publishing its decision in this matter.</sentence>
+<sentence id="s534">170 The applicant has made a number of similar applications on interlocutory motions and I have declined to make such orders.</sentence>
+<sentence id="s535">171 As Bowen CJ said in Australian Broadcasting Commission v Parish (1980) 29 ALR 228 at 234, open justice is the underlying assumption of s 50.</sentence>
+<sentence id="s536">There is nothing to suggest that publication of my reasons, or even publication of the applicant's name, would frustrate the administration of justice or any other public interest.</sentence>
+<sentence id="s537">172 Whilst publication may affect the applicant's reputation or cause her embarrassment or perhaps even damage, those factors are essentially of a private nature.</sentence>
+<sentence id="s538">Even if they bear on matters of public interest, they cannot tip the scales against the public interest in open justice.</sentence>
+<sentence id="s539">173 I decline to make the order sought.</sentence>
+<sentence id="s540">Costs 
+ 
+174 The applicant submitted that if she fails in the proceeding I ought not to make a costs order against her.</sentence>
+<sentence id="s541">175 Her reasons include submissions that the respondents have behaved unreasonably, that her claim is made in public interest litigation and that the case involves her personal liberty; see Ruddock v Vadarlis (No 2) [2001] FCA 1865 ; (2001) 115 FCR 229 at [29] .</sentence>
+<sentence id="s542">176 I reject the applicant's submissions.</sentence>
+<sentence id="s543">Nothing has been put to persuade me that costs ought not to follow the event.</sentence>
+<sentence id="s544">Orders 
+ 
+177 I will order that the application be dismissed and that the applicant pay the costs of the fifth to ninth respondents; otherwise it seems appropriate that there be no order as to costs of the remaining respondents.</sentence>
+<sentence id="s545">
+ 
+
+
+ I certify that the preceding one hundred and seventy seven (177) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jacobson.</sentence>
+<sentence id="s546">Associate:
+Dated: 5 April 2006
+
+ Counsel for the Applicant: The Applicant appeared in person 
+ 
+ Solicitor for the 5 th to 9 th Respondents: Australian Government Solicitor 
+ 
+ Date of Hearing: 16 March 2006 
+ 
+ Date of Judgment: 5 April 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/342.html 
+ 
+ </sentence>
+</sentences>
+</case>

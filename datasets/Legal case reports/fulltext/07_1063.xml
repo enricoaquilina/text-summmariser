@@ -1,0 +1,1087 @@
+<?xml version="1.0"?>
+<case>
+<name>ABB Australia Pty Limited v Commissioner of Taxation [2007] FCA 1063 (20 July 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1063.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">withholding tax under div 11a of pt iii of income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase "id=c1">australian resident company wholly owned subsidiary of swiss parent company</catchphrase>
+<catchphrase "id=c2">australian company declares dividend payable 22 days after date of declaration</catchphrase>
+<catchphrase "id=c3">swiss parent contracts to sell right to receive dividend to english company</catchphrase>
+<catchphrase "id=c4">english company contracts to sell right to receive dividend to australian resident company</catchphrase>
+<catchphrase "id=c5">swiss company directs australian subsidiary to pay dividend to end purchaser australian resident company by paying into its bank account in sydney</catchphrase>
+<catchphrase "id=c6">when date for payment arrives, australian subsidiary does so</catchphrase>
+<catchphrase "id=c7">whether income consisting of dividend was "derived" by swiss parent upon declaration of dividend</catchphrase>
+<catchphrase "id=c8">in alternative, whether swiss company derived income consisting of dividend by payment made to end purchaser australian resident company</catchphrase>
+<catchphrase "id=c9">relevance of evidence of business and accounting practice relating to derivation of dividend income</catchphrase>
+<catchphrase "id=c10">whether liability to withholding tax can be avoided by assignment of assignment of right to receive dividend without assignment of underlying shares. held : (1) evidence of business and accounting practice admissible; (2) income consisting of dividend derived by swiss parent upon declaration of dividend by australian subsidiary; (3) alternatively, income consisting of dividend derived by swiss parent upon payment to australian end buyer.</catchphrase>
+<catchphrase "id=c11">" paid ", " derived "</catchphrase>
+<catchphrase "id=c12">income tax</catchphrase>
+<catchphrase "id=c13">words and phrases</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 This proceeding concerns the liability to withholding tax of a non-resident company, the second applicant (ABB Zurich), which is a shareholder in a resident company, the first applicant (ABB Australia).</sentence>
+<sentence id="s1">2 ABB Australia declared a dividend payable on a specified future date.</sentence>
+<sentence id="s2">Before that date arrived, ABB Zurich, for valuable consideration, contracted to assign its right to receive the dividend to another non-resident, Barclays de Zoete Wedd Limited (BZW).</sentence>
+<sentence id="s3">BZW, in turn, and still before the date fixed for payment, and again for valuable consideration, contracted to assign the right to receive the dividend to a resident company, Barclays Australia Limited (now called ABN Amro Facilities Australia Limited) (BAL).</sentence>
+<sentence id="s4">BAL paid BZW and BZW paid ABB Zurich the amounts of the respective considerations.</sentence>
+<sentence id="s5">ABB Zurich directed ABB Australia to pay the amount of the dividend to BAL.</sentence>
+<sentence id="s6">When the date for payment of the dividend arrived, ABB Australia did so.</sentence>
+<sentence id="s7">3 
+ 
+In a little more detail, 
+ 
+ 
+ (a) on 30 May 1996, the members of ABB Australia declared a dividend of $49 million payable on 21 June 1996;
+ (b) by a contract made orally in Switzerland on 3 June 1996, ABB Zurich, for valuable consideration, undertook to assign its right to receive payment of the dividend to BZW, a company incorporated in the United Kingdom; 
+ (c) by a contract made orally on 4 June 1996, BZW, for valuable consideration, undertook to assign that right to BAL, an Australian resident company;
+ (d) on 5 June 1996:
+ (i) BAL paid the consideration payable by it to BZW;
+ (ii) BZW paid the consideration payable by it to ABB Zurich; 
+ 
+ 
+ 
+ 
+ (iii) BAL gave notice to ABB Zurich of the assignment from BZW to itself (BAL), and requested ABB Zurich to instruct ABB Australia to pay the amount of the dividend into BAL's bank account in Sydney; 
+ 
+ 
+ 
+ 
+ (e) on 6 June 1996 ABB Zurich directed ABB Australia to pay the amount of the dividend into BAL's bank account in Sydney;
+ (f) on 21 June 1996, ABB Australia paid the amount of the dividend into that bank account.</sentence>
+<sentence id="s8">
+ 
+
+4 The application is made pursuant to s 39B of the Judiciary Act 1903 (Cth) against the respondent ("the Commissioner") who is an officer of the Commonwealth, and concerns matters arising under a law made by the Parliament, namely the Income Tax Assessment Act 1936 (Cth) (the Act).</sentence>
+<sentence id="s9">The applicants seek declarations that ABB Zurich is not liable to withholding tax on the dividend of $49 million paid by ABB Australia on 21 June 1996, and that ABB Australia was not required to make a deduction from that sum in respect of withholding tax.</sentence>
+<sentence id="s10">LEGISLATION 
+ 
+5 In May/June 1996 the legislation that provided for liability to withholding tax, and for the making of a deduction from a dividend in respect of it, was as outlined below.</sentence>
+<sentence id="s11">Dividends paid included in assessable income 
+ 
+6 Section 44(1) of the the Act provided:
+ 
+ the assessable income of a shareholder in a company (whether the company is a resident or a non-resident) shall, subject to this section and to section 128D 
+ 
+ 
+ (a) if he is a resident --- include dividends paid to him by the company out of profits derived by it from any source; and
+ (b) if he is a non-resident --- include dividends paid to him by the company to the extent to which they are paid out of profits derived by it from sources in Australia.</sentence>
+<sentence id="s12">
+ 
+ 
+ (Emphasis added.</sentence>
+<sentence id="s13">)
+ 
+
+7 Section 128D, referred to in this provision, provided, so far as relevant, that income upon which withholding tax (see below) was payable was not included in the assessable income of a person.</sentence>
+<sentence id="s14">Accordingly, subject to exceptions not presently relevant, dividend income is subject to either the assessable income r&eacute;gime including s 44(1) or the withholding tax r&eacute;gime of Div 11A of Pt III of the Act, but not to both.</sentence>
+<sentence id="s15">It will be noted that it is an express condition of the operation of s 44(1) that the dividend be paid to the shareholder.</sentence>
+<sentence id="s16">As will appear below, this is not an express condition of the operation of the withholding tax provisions.</sentence>
+<sentence id="s17">8 Section 6(1) of the Act defined "dividend" to include:
+ 
+ 
+ (a) any distribution made by a company to any of its shareholders, whether in money or other property;
+ (b) any amount credited by a company to any of its shareholders as shareholders; and
+ (c) the paid-up value of shares issued by a company to any of its shareholders to the extent to which the paid-up value represents a capitalization of profits [there followed exceptions not presently relevant].</sentence>
+<sentence id="s18">
+ 
+
+This definition immediately raises the question whether a payment of the amount of the dividend in the present case, if it should be regarded as not having been made to ABB Zurich, was the payment of a "dividend".</sentence>
+<sentence id="s19">I will address this question below.</sentence>
+<sentence id="s20">9 Section 6(1) defined the word "paid" in relation to dividends as including "credited or distributed".</sentence>
+<sentence id="s21">Section 19 provided:
+ 
+ Income or money shall be deemed to have been derived by a person although it is not actually paid over to him but is reinvested, accumulated, capitalized, carried to any reserve, sinking fund or insurance fund however designated, or otherwise dealt with on his behalf or as he directs.</sentence>
+<sentence id="s22">
+
+The expressions "dividend", "paid" and "derived" are used in the withholding tax provisions now to be noted.</sentence>
+<sentence id="s23">Liability to withholding tax 
+ 
+10 The expression "withholding tax" was defined in s 6(1) to mean "income tax payable in accordance with section 128B".</sentence>
+<sentence id="s24">Thus, withholding tax is a form of income tax, although, as noted above, the income that is the subject of it lies outside the assessable income r&eacute;gime.</sentence>
+<sentence id="s25">11 Section 128B was within Div 11A of Pt III of the Act.</sentence>
+<sentence id="s26">Division 11A introduced withholding tax into the Australian tax r&eacute;gime as from 1 July 1960.</sentence>
+<sentence id="s27">It was introduced by the Income Tax and Social Services Contribution Assessment Act (No 3) 1959 (Cth) (No 85 of 1959).</sentence>
+<sentence id="s28">At the relevant time it comprised ss 128A-128TF.</sentence>
+<sentence id="s29">The same Act of 1959 introduced into Pt VI of the Act a new Div 4 (discussed below) providing for the collection of withholding tax.</sentence>
+<sentence id="s30">12 Prior to the introduction of withholding tax, the system of annual returns of income and the making of formal assessments applied to non-residents and residents alike.</sentence>
+<sentence id="s31">There was a considerable lapse of time between receipt of the income and the fixing of rates of tax and forwarding of a notice of assessment, finality being reached only with the subsequent payment of the tax.</sentence>
+<sentence id="s32">In several countries, including the United States of America, Canada and South Africa, a flat rate of tax was levied on various forms of investment income derived by non-residents of the country concerned.</sentence>
+<sentence id="s33">In those countries the resident making the payment to the non-resident retained the amount of tax payable and subsequently remitted it to the taxation authority.</sentence>
+<sentence id="s34">In addition to the problem of delay mentioned earlier, there was the additional problem that some non-residents of Australia who were familiar with such a withholding tax system and who received dividends from Australian companies, were doubtful as to their responsibility to furnish returns to the Commissioner.</sentence>
+<sentence id="s35">13 The Explanatory Memorandum relating to the Income Tax and Social Services Contribution Assessment Bill (No 3) 1959 (Cth) described the principal features of the proposed dividend withholding tax as being:
+ 
+ 
+ (1) the levying of a flat rate of tax on dividends paid by Australian companies to shareholders not resident in [Australia];
+ (2) the withholding from the dividends of the tax payable, so enabling the tax to be collected almost concurrently with the payment of the dividends.</sentence>
+<sentence id="s36">
+ 
+ 
+ 
+
+14 Section 128A(3) provided, relevantly:
+ 
+ For the purposes of this Division, a beneficiary who is presently entitled to a dividend ... included in the income of a trust estate shall be deemed to have derived income consisting of that dividend ... at the time when he became so entitled.</sentence>
+<sentence id="s37">
+
+The provision contained in s 128A(3), on which the applicants place some reliance, was within Div 11A from its commencement in relation to income derived on or after 1 July 1960 (it was then subs 128A(2)).</sentence>
+<sentence id="s38">15 Section 128B(1) is one of two pivotal provisions in the present case.</sentence>
+<sentence id="s39">It provided:
+ 
+ Subject to subsections (3) and (3A), this section applies to income that: 
+ 
+ 
+ (a) is derived, on or after 1 January 1968, by a non-resident;
+ (b) consists of a dividend paid by a company that is a resident.</sentence>
+<sentence id="s40">
+ 
+
+It will be noted that s 128B(1) does not, in terms, require that the dividend be paid to the non-resident.</sentence>
+<sentence id="s41">However, as will be noted below, the applicants submit that payment was necessarily the only mode of derivation recognised in the case of the present dividend, with the result that it could not be "derived" before it was paid, and it could not be derived by a person to whom it was not paid.</sentence>
+<sentence id="s42">It is common ground that it was not paid by ABB Australia until 21 June 1996.</sentence>
+<sentence id="s43">According to the applicants, on that date it was paid to BAL and not to ABB Zurich.</sentence>
+<sentence id="s44">According to one of the Commissioner's submissions, on that date it was paid to BAL but that payment was also payment to ABB Zurich.</sentence>
+<sentence id="s45">16 By the time of the events of present concern, subs (3A) of s 128B had been omitted from the Act by No 105 of 1989, although the drafter had not removed the reference to it in subs (1).</sentence>
+<sentence id="s46">However, subs (3), that was also referred to in s 128B(1), provided, relevantly:
+ 
+ (3) This section does not apply to:
+ ... 
+ 
+ 
+ 
+ (d) income in respect of which a trustee is liable to be assessed under section 99 or section 99A;
+ (e) income that is derived by a trustee, being a trustee in relation to a trust created by a person who, at the time the income is derived, is a resident and in respect of which the Commissioner is empowered, under section 102, to assess the trustee to pay income tax;.... 
+ 
+ 
+ 
+ 
+ 
+ 
+
+17 Section 128B(4), the other pivotal provision, created the liability to pay withholding tax:
+ 
+ A person who derives income to which this section applies that consists of a dividend is liable to pay income tax upon that income at the rate declared by the Parliament in respect of income to which this subsection applies.</sentence>
+<sentence id="s47">
+
+Parliament declares a single flat rate in respect of all dividend income that is subject to withholding tax.</sentence>
+<sentence id="s48">18 Section 128C provided for payment and recovery of withholding tax and for payment of additional tax by way of penalty on unpaid withholding tax.</sentence>
+<sentence id="s49">Subsection (1) made withholding tax due and payable at the expiration of 21 days after the end of the month in which the income to which the tax related was derived or of such further period as allowed.</sentence>
+<sentence id="s50">When it becomes due and payable, withholding tax was a debt due to the Queen on behalf of the Commonwealth and payable to the Commissioner (subs (2)).</sentence>
+<sentence id="s51">If any withholding tax remained unpaid at the expiration of 60 days after the time when it became due and payable, additional tax, by way of penalty, was due and payable at the rate of 16 percent per annum on the amount unpaid, computed from the expiration of that period (subs (3)).</sentence>
+<sentence id="s52">Subsection (4) of s 128C, however, empowered the Commissioner to remit additional tax in certain circumstances.</sentence>
+<sentence id="s53">Subsection (5) provided for the Commissioner or a Deputy Commissioner to sue for and recover unpaid withholding tax and additional tax in a court of competent jurisdiction.</sentence>
+<sentence id="s54">Subsection (6) provided that an ascertainment of withholding tax was not deemed to be an assessment within the meaning of any provisions of the Act.</sentence>
+<sentence id="s55">19 Section 128D provided, relevantly, that subject to certain exceptions, income upon which withholding tax was payable, was not to be included in the assessable income of a person.</sentence>
+<sentence id="s56">Accordingly, s 44(1)(b) of the Act (noted at [6] above) could not have the effect of including the dividend in the assessable income of ABB Zurich if withholding tax under s 128B was payable on the income constituted by that dividend.</sentence>
+<sentence id="s57">Obligation on company paying dividend to make deduction 
+ 
+20 As noted above, Div 4 was also inserted into Pt VI of the Act by No 85 of 1959.</sentence>
+<sentence id="s58">Div 4 was headed "Collection of Withholding Tax" and, at the relevant time, comprised ss 221YJ---221YY.</sentence>
+<sentence id="s59">Section 221YJ provided that the object of Div 4 was to facilitate the collection of withholding tax and that the Division was to be construed and administered accordingly.</sentence>
+<sentence id="s60">21 Sections 221YL and 221YN, respectively, imposed obligations on a resident company that paid a dividend subject to withholding tax to deduct the tax from the dividend and to pay the amount deducted to the Commissioner.</sentence>
+<sentence id="s61">Subsections 221YL(1) and (3) provided:
+ 
+ (1) Where: 
+ 
+ (a) the holder, or (if there is more than one holder) any holder, of a share or stock in a company that is a resident is shown, in relation to the share or stock, in the register of members of the company as having an address outside Australia; or
+ (b) the holder of a share or stock in a company that is a resident has authorized or directed the company to pay dividends in respect of the share or stock to himself, or to any other person, at a place outside Australia; 
+ 
+ 
+ the company shall, subject to this section and to section 221YM, before or at the time when a dividend of the company is paid by the company in respect of the share or stock, make a deduction from the dividend of an amount determined in accordance with the regulations.</sentence>
+<sentence id="s62">
+ 
+ 
+ (2) ... 
+ 
+ 
+ (3) A person is not required to make a deduction from a dividend ... under this section: 
+ 
+ 
+ (a) if withholding tax is not payable in respect of the dividend ... 
+ 
+
+Subsection 221YL(4) provided that s 221YL did not apply to a dividend that was not paid in money or was not credited to a person.</sentence>
+<sentence id="s63">22 It follows that ABB Australia was not required to make a deduction from the dividend in the present case (as it did not do) if withholding tax was not payable by ABB Zurich in respect of it.</sentence>
+<sentence id="s64">23 Section 221YN(1) provided for remission to the Commissioner of amounts deducted from a dividend by the company paying the dividend and making the deduction:
+ 
+ Where a person has made a deduction from a dividend ... and that deduction was made, or purports to have been made, under section 221YL -- 
+ 
+ 
+ (a) that person shall, within 21 days after the end of the month in which the deduction was made, pay to the Commissioner an amount equal to the deduction; and
+ (b) that person shall, before the expiration of 4 months after the end of the financial year in which the deduction was made or within such further time as the Commissioner allows, furnish to the Commissioner a statement with respect to the deduction, in a form authorized by the Commissioner, signed by or on behalf of the person who made the deduction.</sentence>
+<sentence id="s65">
+ 
+ 
+ 
+
+24 Subject to certain exceptions, s 221YN(2) made persons who did not comply with s 221YN(1)(a) guilty of an offence and punishable accordingly.</sentence>
+<sentence id="s66">Subsection (4) provided for payment of additional tax and subs (5) for its remission by the Commissioner.</sentence>
+<sentence id="s67">25 Where withholding tax was not deducted from a dividend, s 221YQ(1) imposed on the company paying the dividend an obligation to pay to the Commissioner an amount equal to any unpaid withholding tax and an amount equal to any unpaid additional tax payable under s 128C(3) in respect of that withholding tax.</sentence>
+<sentence id="s68">26 Withholding tax is not assessed (see s 128C(6) noted at [18] above).</sentence>
+<sentence id="s69">The liability arises directly once the factual circumstances identified in the Act exist, although it is the Commissioner's practice, as occurred in the present case, to send a letter of demand before seeking to recover the tax as a debt.</sentence>
+<sentence id="s70">27 The applicants seek a declaration that ABB Australia was not required by s 221YL(1) of the Act to make a deduction in respect of withholding tax from the dividend of $49 million paid by it on 21 June 1996 (to BAL), and a declaration that ABB Zurich is not liable to withholding tax under s 128B(4) and s 128C of the Act on that dividend.</sentence>
+<sentence id="s71">INTRODUCTION TO THE PARTIES' CONTENTIONS 
+ 
+28 The applicants draw attention to the fact that both s 44(1) and s 128B(1) seize upon payment as the ultimate circumstance that, in the one case makes a dividend assessable income, and in the other case gives rise to a liability to withholding tax.</sentence>
+<sentence id="s72">They submit that the only payment made by ABB Australia was the payment it made to the resident company, BAL, on 21 June 1996.</sentence>
+<sentence id="s73">29 According to the applicants, the word "derived" in s 128B(1)(a) and "derives" in s 128B(4) refer to a derivation that is constituted by a receipt of payment.</sentence>
+<sentence id="s74">They submit that s 128B(1) must be read as a whole and that what must be derived is income that is or has been paid.</sentence>
+<sentence id="s75">Moreover, in the case of dividend income, it is established law, according to the applicants' submission, that it is not derived until received.</sentence>
+<sentence id="s76">30 The applicants submit that although ABB Zurich did derive a profit or gain from the sale of its right to receive the dividend, it did not derive, because it did not receive payment of, "income consisting of a dividend".</sentence>
+<sentence id="s77">31 Further, according to the applicants, the giving of the direction by ABB Zurich to ABB Australia, and the subsequent payment by ABB Australia to BAL, occurred at times when ABB Zurich was a bare trustee of the right to receive the dividend, and a taxpayer derives as income only amounts to which it is beneficially entitled.</sentence>
+<sentence id="s78">32 The Commissioner puts his case in three alternative ways.</sentence>
+<sentence id="s79">First, he submits that upon the declaration of the dividend by ABB Australia on 30 May 1996, ABB Zurich derived income consisting of the dividend with the consequence that para (a) of s 128B ( 1 ) was then satisfied, and that later on 21 June 1996 the dividend was paid by ABB Australia, "a company that is a resident", with the consequence that para (b) of s 128B(1) was then satisfied.</sentence>
+<sentence id="s80">According to this submission, it is not required that payment be to the non-resident who derived the income consisting of the dividend.</sentence>
+<sentence id="s81">33 In relation to derivation, the Commissioner submits that in accordance with generally accepted accounting principles as established by expert evidence adduced in the case, the dividend was income derived by ABB Zurich at the time of its declaration.</sentence>
+<sentence id="s82">ABB Zurich was an accruals basis taxpayer, and derived as income the amount of the dividend when the dividend was declared, and became, as it is common ground it then did, a debt owed by ABB Australia to ABB Zurich.</sentence>
+<sentence id="s83">According to the Commissioner's submission, the words "derived" in s 128B(1)(a) and "derives" in s 128B(4) are not to be read down as limited by reference to the requirement of payment: derivation and payment may occur at different times.</sentence>
+<sentence id="s84">34 The second and alternative way in which the Commissioner puts his case is that if the dividend could not be derived by ABB Zurich until it was paid, then in all of the circumstances surrounding the declaration of the dividend and implementation of the two assignment transactions, the dividend was paid to ABB Zurich at some time after 30 May 1996 and at the latest by 21 June 1996.</sentence>
+<sentence id="s85">According to the Commissioner, there are two alternative limbs to this argument.</sentence>
+<sentence id="s86">The first limb is that the dividend was derived beneficially by ABB Zurich "in that there was the arrangement involving a carefully planned sequence of steps to ensure that ABB Zurich obtained the benefit of the dividend".</sentence>
+<sentence id="s87">The second and alternative limb is that, even if the dividend was not derived beneficially and was derived by ABB Zurich exclusively as trustee, derivation by a non-resident as trustee is within s 128B(1).</sentence>
+<sentence id="s88">35 The third, and further alternative way in which the Commissioner put his case, is that under the statutory r&eacute;gime, ABB Zurich could not, without assigning the underlying shares, effect an assignment of the debt that would avoid derivation by it of the "dividend".</sentence>
+<sentence id="s89">This third submission depends largely, though not entirely, on Norman v Federal Commissioner of Taxation [1963] HCA 21 ; (1963) 109 CLR 9 ( Norman ).</sentence>
+<sentence id="s90">36 I will elaborate on the parties' submissions below.</sentence>
+<sentence id="s91">THE FACTS IN MORE DETAIL 
+ 
+37 In their outline of opening, the applicants set out the following facts which, although elaborated upon by the Commissioner as noted below, were not in issue between the parties:
+ 
+ Parties 
+ 
+ [ABB Australia] (formerly called Asea Brown Boveri Pty Limited) ... is a company:
+ (a) incorporated pursuant to the laws of New South Wales; 
+ 
+ 
+ (b) the issued capital of which during the period from (at least) 1 May 1996 to 30 June 1996 comprised 53,072,944 ordinary shares of A$1.50 each and 42,827,055 ordinary shares of A$1.00 each, all of which were registered in the name of the Second Applicant (as beneficial owner) except for 1 ordinary share of $1.00 which was registered in the name of Patelhold Patentverwertungs --- und --- Elektro Holding AG on bare trust for the Second Applicant (as beneficial owner);
+ (b) which is, and was at all material times, a resident of Australia for the purposes of [the 1936 Act].</sentence>
+<sentence id="s92">
+ 
+ 
+ [ABB Zurich] is a company:
+ (a) incorporated pursuant to the laws of Switzerland; 
+ 
+ 
+ (b) which is, and was at all material times, a non-resident of Australia for the purposes of the 1936 Act.</sentence>
+<sentence id="s93">
+ 
+ 
+ [BZW] is a company:
+ (a) incorporated pursuant to the laws of England and Wales; 
+ 
+ 
+ (b) which was at all material times a non-resident of Australia for the purposes of the 1936 Act.</sentence>
+<sentence id="s94">
+ 
+ 
+ [BAL] is a company:
+ (a) incorporated pursuant to the laws of New South Wales; 
+ 
+ 
+ (b) which was at all material times a resident of Australia for the purposes of the 1936 Act.</sentence>
+<sentence id="s95">
+ 
+ 
+ Declaration of the Dividend 
+ On 22 May 1996, the directors of ABB Australia resolved that the declaration and payment of a final dividend of A$49,000,000 for the year ended 31 December 1995 payable on 21 June 1996 to the registered shareholders of the company as at 30 May 1996 be recommended to the shareholders at an annual general meeting.</sentence>
+<sentence id="s96">On 30 May 1996, in accordance with Article 82 of the Articles of Association of ABB Australia, the members of the company resolved at an annual general meeting that a final dividend of A$49,000,000 be paid to members holding shares in the company as at 30 May 1996 and that the dividend be payable on 21 June 1996 (the " Dividend ").</sentence>
+<sentence id="s97">Assignment of the right to the Dividend 
+ On 3 June 1996 in Zurich, Switzerland: 
+ 
+ 
+ (a) ABB Zurich made an offer in writing to BZW (the " First Offer ") to assign to BZW absolutely all of ABB Zurich's right to receive the Dividend on the terms set out in the First Offer; and
+ (b) the First Offer was accepted by Mr Althans, as attorney for BZW, orally in accordance with its terms.</sentence>
+<sentence id="s98">
+ 
+ 
+ The First Offer, which was expressed to be governed by English law, included terms to the following effect: 
+ 
+ 
+ (a) the consideration payable by BZW to ABB Zurich for the assignment was a sum payable in Australian dollars calculated in accordance with the formula set out in Appendix 1 to the First Offer (the " Price "), which was ultimately determined to be A$48,816,995;
+ (b) the Price was payable to ABB Zurich by wire transfer no later than 5 June 1996;
+ (c) following acceptance of the offer, ABB Zurich would give a direction to ABB Australia to pay the Dividend to such bank account as shall be designated by BZW or a "Permitted Assign";
+ (d) ABB Zurich agreed that BZW may without the consent of ABB Zurich, assign to a Permitted Assign the benefit of all or any of ABB Zurich's obligations under the First Offer and/or any benefit arising under or out of the First Offer.</sentence>
+<sentence id="s99">
+ 
+ 
+ BZW did not give notice to ABB Australia of the assignment of ABB Zurich's right to receive the Dividend.</sentence>
+<sentence id="s100">On 4 June 1996, in Zurich, Switzerland: 
+ 
+ 
+ (a) BZW made an offer in writing to BAL (the " Second Offer ") to assign to BAL all of BZW's right to receive the Dividend and the benefits of the First Offer;
+ (b) the Second Offer was accepted by Mr B Gill, as attorney for BAL, orally in accordance with its terms.</sentence>
+<sentence id="s101">
+ 
+ 
+ The Second Offer, which is also expressed to be governed by English law, provided that the consideration payable by BAL to BZW for the assignment was the amount of A$48,826,480.</sentence>
+<sentence id="s102">On 5 June 1996: 
+ 
+ 
+ (a) BAL paid the consideration for the assignment under the Second Offer (being the amount of A$48,826,480) to BZW;
+ (b) BZW paid the Price (being the amount of A$48,816,995) to ABB Zurich;
+ (c) BAL gave to ABB Zurich written notice of the assignment under the Second Offer and a written request that ABB Zurich instruct ABB Australia to pay the amount of A$49,000,000 in respect of the Dividend to an identified bank account of BAL at the National Australia Bank in Sydney "for value 21 June 1996".</sentence>
+<sentence id="s103">
+ 
+ 
+ On 6 June 1996, ABB Zurich gave to ABB Australia a written direction which provided relevantly as follows: 
+ 
+ 
+ "You are irrevocably directed to pay the debt of AUD 49,000,000 due and owing by you to ABB Asea Brown Boveri Ltd, Zurich, Switzerland, to Barclays Australia Limited, 22 nd Floor, 255 George Street, GPO Box 4675, Sydney NSW 2001, Australia.</sentence>
+<sentence id="s104">The payment must be made for value 21 June 1996 to the following account [there followed particulars of an agreement at the National Australia Bank in Sydney].</sentence>
+<sentence id="s105">
+ 
+ 
+ Payment of the Dividend 
+ On 20 June 1996, ABB Australia, by special resolution passed at a duly convened meeting of its members, amended its Articles of Association by the addition of a new Article 82(3) as follows: 
+ 
+ 
+ "Members may at any time by way of a written notice direct the Company to pay the amount of any dividend declared pursuant to Article 82(1) to a party nominated in that Notice.</sentence>
+<sentence id="s106">The company shall on receipt of any such Notice pay the dividend in accordance with the terms of the Notice.</sentence>
+<sentence id="s107">" 
+ 
+ 
+ On 21 June 1996, ABB Australia paid the amount of $49,000,000 to BAL in accordance with the direction referred to ... above.</sentence>
+<sentence id="s108">On or about 30 June 1996, the payment of the Dividend was recorded in the accounts of ABB Australia by the following journal entry: 
+ 
+ 
+ Dr Retained Earnings --- Dividend Paid $49,000,000
+ Cr Monies on deposit --- ABB $49,000,000.</sentence>
+<sentence id="s109">
+ 
+ 
+ Apart from the accounting entry referred to in the previous paragraph, no other originating entry (being a debit or credit entry) was made in the books of ABB Australia in respect of the debt arising on the declaration of the Dividend or its payment.</sentence>
+<sentence id="s110">Dispute with the Respondent 
+ On 16 December 2003 the Respondent sent a letter to ABB Australia which stated that ABB Australia was obliged pursuant to s.221YL(1) of the 1936 Act to make a deduction from the Dividend when it was paid on 21 June 1996 which was not made, and required ABB Australia to pay to him pursuant to s.221YQ(1) of the 1936 Act an amount of $15,540,581.40 comprising unpaid withholding tax of $7,350,000, unpaid additional tax by way of penalty of $3,082,367.90 and unpaid general interest charge of $5,108,213.50.</sentence>
+<sentence id="s111">Also on 16 December 2003, the Respondent sent a letter to ABB Zurich which stated that ABB Zurich was liable to pay withholding tax, pursuant to s.128B and s.128C of the 1936 Act, in respect of the Dividend, and required ABB Zurich to pay to him the amount of $15,540,581.40 comprising unpaid withholding tax of $7,350,000, unpaid additional tax by way of penalty of $3,082,367.90 and unpaid general interest charge of $5,108,213.50.</sentence>
+<sentence id="s112">
+
+38 I will elaborate a little on the facts recounted above.</sentence>
+<sentence id="s113">39 ABB Zurich's written offer of assignment to BZW (the First Offer) stated that it was able to be accepted verbally on the day on which it was made, namely, 3 June 1996.</sentence>
+<sentence id="s114">It was accepted verbally on that day in Switzerland by BZW's duly appointed attorney.</sentence>
+<sentence id="s115">According to the terms of the First Offer, upon acceptance ABB Zurich and BZW became immediately bound to perform their respective obligations set out in the First Offer document.</sentence>
+<sentence id="s116">Accordingly, ABB Zurich became bound to assign the dividend of $49 million to BZW, and BZW became bound to pay the price of $48,816,995 (a sum calculated according to a formula attached to the First Offer document) by wire transfer to ABB Zurich or at its direction, no later than 5 June 1996.</sentence>
+<sentence id="s117">40 There are two other terms of the First Offer that are of present interest.</sentence>
+<sentence id="s118">First, ABB Zurich undertook to give a direction to ABB Australia to pay the dividend to such bank account as should be designated by BZW or to a "Permitted Assign" (defined as being a subsidiary of BZW).</sentence>
+<sentence id="s119">Second, ABB Zurich agreed that the benefit of the offer was given to BZW for itself, its successors in title, and Permitted Assigns, but it was stipulated that a Permitted Assign might not itself assign any of the benefits of the First Offer.</sentence>
+<sentence id="s120">41 BZW's written offer dated the following day, 4 June 1996, to assign its right to receive the dividend to BAL (the Second Offer) also stated that it was able to be accepted verbally.</sentence>
+<sentence id="s121">It was accepted verbally by BAL's duly appointed attorney on 4 June 1996.</sentence>
+<sentence id="s122">It was expressed as an offer to assign to BAL absolutely all of BZW's right to receive the dividend.</sentence>
+<sentence id="s123">It was a term of the Second Offer that if BAL should accept it, BAL must to give notice "to the beneficial owner of the shares or [to ABB Australia] of the assignment by [BZW] to [BAL] of its right to receive the Dividends".</sentence>
+<sentence id="s124">42 BAL was not a Permitted Assign of BZW within the definition of that expression contained in the First Offer because BAL was not a subsidiary of BZW.</sentence>
+<sentence id="s125">43 On 5 June 2006 BZW paid ABB Zurich and BAL paid BZW (we do not know in what sequence the payments were made but this is of no consequence).</sentence>
+<sentence id="s126">Also on 5 June 1996 BAL wrote to ABB Zurich advising it that pursuant to the Second Offer, a copy of which was attached to BAL's letter, and which, BAL advised, it had accepted on 4 June 1996, BZW had assigned to BAL all of BZW's "rights to receive ... a final dividend of A$49 million which was duly declared by [ABB Australia] on 30 May 1996 ... due and payable in Australian Dollars on 21 June 1996".</sentence>
+<sentence id="s127">By its letter, BAL requested ABB Zurich to instruct ABB Australia to pay the dividend by transferring $49 million in immediately available cleared funds to BAL's bank account in Sydney (which it identified) "for value 21 June 1996".</sentence>
+<sentence id="s128">44 The next day, 6 June 1996, ABB Zurich gave a written notice to ABB Australia, purportedly irrevocably, directing it to pay the debt of $49 million due and owing by it to ABB Zurich to BAL by paying that amount into BAL's bank account in Sydney, which ABB Zurich identified.</sentence>
+<sentence id="s129">45 There is in evidence an "Acknowledgement of receipt" at the foot of the notice dated 6 June 1996 from ABB Zurich to ABB Australia, in which Mr PM Kinsey, a director and a secretary of ABB Australia, acknowledged on behalf of ABB Australia receipt of the notice and agreed to be bound by its terms, but without prejudice to any rights ABB Australia might have against ABB Zurich in relation to the subject matter of the assignment.</sentence>
+<sentence id="s130">46 On 11 June 1996, Mr Kinsey responded in writing to ABB Zurich's direction, advising ABB Zurich that in his opinion, under ABB Australia's articles of association, he was unable to comply with ABB Zurich's direction until the articles of association were altered to require ABB Australia to do so.</sentence>
+<sentence id="s131">He asked whether ABB Zurich wished him to convene a general meeting of ABB Australia to enable the articles of association to be amended.</sentence>
+<sentence id="s132">ABB Zurich replied that it did.</sentence>
+<sentence id="s133">47 As a result, on 20 June 1996, there was a meeting of the members of ABB Australia at which it was resolved that its articles of association be amended by the addition of the new Article 82(3) that was set out at [37] above.</sentence>
+<sentence id="s134">ABB Zurich did not give a further direction to ABB Australia between the making of the amendment and the making of the payment by ABB Australia into BAL's bank account the following day.</sentence>
+<sentence id="s135">48 The Commissioner submits, and the contrary was not suggested, that express notice in writing for the purposes of s 12 of the Conveyancing Act 1919 (NSW) (s 136(1) of the Law of Property Act 1925 (UK) was relevantly in the same terms), was not given by any person to ABB Australia of any absolute assignment by writing under the hand of ABB Zurich of the debt of $49 million.</sentence>
+<sentence id="s136">The parties approached the case as one concerning contracts for valuable consideration to assign a legal chose in action, and on the basis that the only express written notice that was given to the debtor, ABB Australia, was the direction that ABB Zurich gave it on 6 June 1996 to pay to BAL.</sentence>
+<sentence id="s137">Therefore I need not consider the requirements that inhere in the expression "absolute assignment by writing under the hand of the assignor" or the expression "of which express notice in writing has been given to the debtor ..." in s 12 of the Conveyancing Act 1919 (NSW) (and in s 136(1) of the Law of Property Act 1925 (UK)).</sentence>
+<sentence id="s138">CONSIDERATION 
+ The declaration of the final dividend gave rise to a debt owed by ABB Australia to ABB Zurich 
+ 
+49 On 22 May 1996 the directors of ABB Australia resolved that a general meeting of the members of the company be called for the purpose of considering the directors' recommendation that a final dividend of $49 million be declared in favour of those who were members of the company as at the date of the meeting.</sentence>
+<sentence id="s139">In fact, the directors' preceding resolution was expressed as a resolution that a final dividend of $49 million "be declared" for the year ended 31 December 1995 payable on 21 June 1996 to be paid to the holders of ordinary shares named on the register of members as at 30 May 1996 "the date of the Annual General Meeting be recommended to the shareholders at an Annual General Meeting".</sentence>
+<sentence id="s140">Notwithstanding the confusion that characterised this preceding resolution, it is clear that the directors intended only to make a recommendation to the members.</sentence>
+<sentence id="s141">50 At the meeting of members held on 30 May 1996, the members resolved that in accordance with the directors' recommendation, a final dividend of $49 million be paid to members holding shares in the company as at the date of the meeting (30 May 1996) and that the dividend be payable on 21 June 1996.</sentence>
+<sentence id="s142">51 As at May 1996, article 82 of ABB Australia's articles of association provided:
+ 
+ (1) Subject to any preferential, special, deferred or other rights upon which any shares may be issued or may from time to time be held, the company in general meeting may from time to time declare dividends or interim dividends to be paid to members, but no dividend shall exceed that recommended by the directors .</sentence>
+<sentence id="s143">(2) The directors may authorise payment by the company to the members of such interim dividends as appear to the directors to be justified by the profits of the company.</sentence>
+<sentence id="s144">(Emphasis added.</sentence>
+<sentence id="s145">)
+ 
+
+52 The dividend was declared by the company in general meeting and the amount of it did not exceed that recommended by the directors.</sentence>
+<sentence id="s146">53 The dividend was declared before ss 254U and 254V were introduced into the predecessor to the Corporations Act 2001 (Cth), the Corporations Law , by the Company Law Review Act 1998 (Cth) (No 61 of 1998) with effect on and from 1 July 1998.</sentence>
+<sentence id="s147">Therefore I need not discuss the purpose and effect of those provisions.</sentence>
+<sentence id="s148">See the discussion of them in Bluebottle UK Ltd v Deputy Commissioner of Taxation [2006] NSWSC 706 ; (2006) 233 ALR 747 at [14] ---[45] and, on appeal, Deputy Commissioner of Taxation v Bluebottle UK Ltd [2006] ATC 4803 at [35]---[53] per Santow JA, [105]---[112] per Basten JA.</sentence>
+<sentence id="s149">(Special leave to appeal to the High Court was granted on 25 May 2007.</sentence>
+<sentence id="s150">)
+ 
+54 Prior to the introduction of those provisions, there was a well established distinction between final and interim dividends.</sentence>
+<sentence id="s151">A declaration of a final dividend by the shareholders gave rise to an immediate debt owed by the company to the shareholders, whereas a resolution by the directors to pay an interim dividend did not do so: Potel v Inland Revenue Commissioners [1971] 2 All ER 504 at 511---512; Industrial Equity Limited v Blackburn [1977] HCA 59 ; (1977) 137 CLR 567 at 572; Marra Developments Ltd v BW Rofe Pty Ltd [1977] 2 NSWLR 616 at 625; Brookton Co-operative Society Limited v Commissioner of Taxation [1981] HCA 28 ; (1981) 147 CLR 441 at 455.</sentence>
+<sentence id="s152">Thus, a declaration of a final dividend could not be revoked and the company's indebtedness to its shareholders eliminated, if profits ceased to be available to fund the dividend between the time of the declaration and the time fixed for payment.</sentence>
+<sentence id="s153">A decision of the directors to pay an interim dividend, on the other hand, could always be revoked down to the time fixed for payment.</sentence>
+<sentence id="s154">
+ 
+55 When the members of ABB Australia declared the final dividend of $49 million on 30 May 1996, s 201(1) of the Corporations Law provided simply that no dividend should be payable to a shareholder of a company except out of profits or under s 191.</sentence>
+<sentence id="s155">Section 191 is not presently relevant, and it has not been suggested that as at 30 May 1996 ABB Australia did not have profits out of which the dividend of $49 million was lawfully able to be paid.</sentence>
+<sentence id="s156">56 The declaration of the final dividend on 30 May 1996 created a debitum in praesenti solvendum in futuro --- a present indebtedness payable in the future.</sentence>
+<sentence id="s157">That debt was a legal chose in action capable of being assigned at law under s 12 of the Conveyancing Act 1919 (NSW) and its counterparts in other jurisdictions, before as well as after the time fixed for payment arrived.</sentence>
+<sentence id="s158">The effect of the subsequent transactions in accordance with general law principles relating to assignments, in particular equitable assignments, of legal choses in action 
+ 
+57 It was a term of the First Offer and of the Second Offer that they were governed by, and to be construed in accordance with, English law.</sentence>
+<sentence id="s159">58 The applicants read an affidavit of the Rt Hon Lord Millett who, as is well known, is a former member of the Appellate Committee of the House of Lords and Judicial Committee of the Privy Council.</sentence>
+<sentence id="s160">He was not cross-examined.</sentence>
+<sentence id="s161">His affidavit answered questions that had been put to him by the solicitors for the applicants relating to the effect in English law of the transactions and events in question.</sentence>
+<sentence id="s162">The answers that his Lordship gave do not suggest any difference between English and Australian law in relation to those questions.</sentence>
+<sentence id="s163">59 The following summary account of general principles is in accord with his Lordship's affidavit.</sentence>
+<sentence id="s164">
+ (1) The English legislation that made a "debt or other legal thing in action" assignable in law was s 25(6) of the Supreme Court of Judicature Act 1873 (UK) and the provision is now found in s 136(1) of the Law of Property Act 1925 (UK).</sentence>
+<sentence id="s165">(2) Although the common law did not recognise assignments of legal choses in action, equitable assignments of them were recognised.</sentence>
+<sentence id="s166">Lord Millett states that "[e]quitable assignments of legal choses in action are of great antiquity".</sentence>
+<sentence id="s167">I note that in his recent scholarly work, The Assignment of Contractual Rights (Hart Publishing, 2006), Dr Tolhurst states (at [2.16]): 
+ 
+ 
+ By the beginning of the eighteenth century, it was settled that equity would recognise the assignment of a legal chose in action and viewed the common law's position as "absurd" [ Master v Miller (1791) 4 TR 320 at 340 (100 ER 1042 at 1053) per Buller J].</sentence>
+<sentence id="s168">
+ 
+ 
+ 
+ (3) The statutory provision did not impair the efficacy of equitable assignments, and neither the equitable assignment nor notice of it to the debtor (if notice of it was given) was required to be expressed in any particular manner, and might be written or oral in form, so long as the intention to assign and (if notice of it was given) the intention to give notice of an assignment were plain: William Brandt's Sons &amp; Co v Dunlop Rubber Company Limited [1905] AC 454 at 462 per Lord Macnaghten.</sentence>
+<sentence id="s169">(4) Notice to the debtor was not a requirement of a valid equitable assignment, as it is in the case of a valid legal assignment under the statutory provision: Gorringe v Irwell India Rubber and Gutta Percha Works (1866) 34 Ch D 128; Ward and Pemberton v Duncombe [1893] AC 369 at 392.</sentence>
+<sentence id="s170">As between assignor and assignee, an equitable assignment is complete and binding from the time when it is made or when the assignor has agreed, for valuable consideration, to make it.</sentence>
+<sentence id="s171">(5) The debtor's state of mind is irrelevant.</sentence>
+<sentence id="s172">However, the debtor's liability will be discharged if it pays the assignor before receiving notice of the assignment.</sentence>
+<sentence id="s173">In such a case, the assignor will hold the amount paid to it upon trust for the assignee.</sentence>
+<sentence id="s174">(6) Notice to the debtor need not be in any particular form and may be given by any party.</sentence>
+<sentence id="s175">Lord Millett states: "The question is whether the debtor has notice of the assignment or has been put on enquiry whether there has been an assignment.</sentence>
+<sentence id="s176">If he goes ahead without enquiry and pays the assignor, he is at risk of having to pay twice.</sentence>
+<sentence id="s177">"
+ (7) Because a debt cannot be sold in a ready market elsewhere, a contract to assign a debt is, subject to impediments that may exist, specifically enforceable in equity.</sentence>
+<sentence id="s178">Accordingly, an equitable assignment need not purport to be an actual present assignment, and may take the form of a contract, for valuable consideration, to assign: see Cotton v Heyl [1930] 1 Ch 510 at 520---521; In Re Warren; ex parte Wheeler v The Trustee in Bankruptcy [1938] Ch 725 at 734---6; and see Tolhurst, op cit at [7.16].</sentence>
+<sentence id="s179">(8) Whether or not it is correct to say that the assignor holds the legal chose in action on trust for the assignee before the promised consideration is paid, once the promised consideration is paid, it does.</sentence>
+<sentence id="s180">It will then hold the benefit of the obligor's undertaking upon a constructive trust for the assignee, even if specific performance of the contract to assign between assignor and assignee could not have been obtained by the assignee previously.</sentence>
+<sentence id="s181">As Lord Millett summarises the position, "[t]he trust ceases to be defeasible or contingent; the vendor becomes a fiduciary; and the purchaser has all the remedies of a beneficiary under an ordinary trust", citing Rose v Watson (1864) 10 HLCas 672 (11 ER 1187) esp per Lord Cranworth at 683---4 (ER 1192), and see also Lake v Bayliss [1974] 2 All ER 1114.</sentence>
+<sentence id="s182">
+
+60 With reference to the eighth proposition, I note that the idea that the legal chose in action is held on trust after the consideration is paid in full is well accepted in the case law; see for example, the Australian cases Palette Shoes Pty Ltd v Krohn [1937] HCA 37 ; (1937) 58 CLR 1 at 26---27 and McIntyre v Gye (1994) 51 FCR 472 at 480---481, and the cases referred to in Meagher RP, Heydon JD and Leeming MJ, Meagher Gummow and Lehane's Equity Doctrines and Remedies (4 th ed, Butterworths, 2002) at [6-050].</sentence>
+<sentence id="s183">The operative principle is that equity regards as done that which ought to be done, the assignor's conscience being bound to that end: Holroyd v Marshall (1862) 10 HLCas 191 (11 ER 999); Tailby v Official Receiver (1888) 13 App Cas 523.</sentence>
+<sentence id="s184">There is, however, criticism of descriptions of the purchaser's equitable interest between contract and payment of the purchase money as that of a beneficiary under a trust; see for example Heydon JD and Loughlan PL, Cases and Materials on Equity and Trusts (6 th ed, Butterworths, 2002) at [6.7], [6.16]---[6.18].</sentence>
+<sentence id="s185">Dr Tolhurst goes further and suggests (op cit, [4.07]) an "assignment analysis" according to which, even in the former class of case (where the consideration for the assignment has been paid), a trust of the legal chose is unnecessary except as a remedial device granted by the court.</sentence>
+<sentence id="s186">In such a case, however, the case law is all one way in favour of a constructive trust arising as a matter of substantive law.</sentence>
+<sentence id="s187">In any event, his Lordship's evidence to that effect was not challenged.</sentence>
+<sentence id="s188">61 I turn now to the application of these general principles to the facts of the present case.</sentence>
+<sentence id="s189">
+ (i) BZW and BAL, through their respective attorneys, verbally accepted the First Offer and the Second Offer respectively.</sentence>
+<sentence id="s190">(ii) On verbal acceptance of the First Offer, ABB Zurich became contractually bound to assign the dividend to BZW, and BZW became bound to pay the price, which proved to be $48,816,995, to ABB Zurich.</sentence>
+<sentence id="s191">(iii) Similarly, on verbal acceptance of the Second Offer, BZW became contractually bound to assign the dividend to BAL, and BAL became bound to pay the price of $48,826,480 to BZW.</sentence>
+<sentence id="s192">(iv) Upon payment of the respective prices of $48,816,995 to ABB Zurich and $48,826,480 to BZW, both on 5 June 1996, those two companies became trustees for BZW and BAL respectively under constructive trusts of that which they had respectively contracted to assign, namely, the right to receive payment from ABB Australia of the amount of the dividend.</sentence>
+<sentence id="s193">If the amount of the dividend had been paid to ABB Zurich on 21 June 1996, it would have held the amount on trust.</sentence>
+<sentence id="s194">(v) It does not matter which of the two payments was made first.</sentence>
+<sentence id="s195">If BAL paid BZW first, the assignment from BZW to BAL may have temporarily operated as an equitable assignment of future property.</sentence>
+<sentence id="s196">(vi) On the same day, 5 June 1996, BAL gave notice to ABB Zurich of the further assignment of the dividend by BZW to BAL.</sentence>
+<sentence id="s197">There being no question as to the effectiveness of the two assignments, ABB Zurich was constituted a constructive trustee for BAL of ABB Australia's indebtedness to it in the sum of $49 million and if the amount of the dividend had been paid to ABB Zurich, ABB Zurich would not have been entitled to pay it to BZW; it would have obtained a good discharge only by paying it to BAL.</sentence>
+<sentence id="s198">(vii) When BAL notified ABB Zurich on 5 June 1996 of the assignment to it (BAL) by BZW, it also requested ABB Zurich to instruct ABB Australia to pay the amount ($49 million) into BAL's bank account in Sydney.</sentence>
+<sentence id="s199">(viii) When, on 6 June 1996, ABB Zurich complied with BAL's request of the preceding day by directing ABB Australia to pay the dividend into the BAL bank account, ABB Zurich demonstrated that it consented to the assignment by BZW to BAL, even though BAL was not a "Permitted Assign" of BZW within the terms of the First Offer.</sentence>
+<sentence id="s200">Any difficulty that may have previously existed on that account was thus overcome on 6 June 1996.</sentence>
+<sentence id="s201">(ix) The direction given by ABB Zurich to ABB Australia on 6 June 1996 had no dispositive effect on the right to receive the dividend, but operated as a revocable mandate, which authorised, but did not compel, ABB Australia to pay the amount into BAL's bank account in Sydney.</sentence>
+<sentence id="s202">However, unless and until the mandate was revoked by ABB Zurich, ABB Australia could discharge its indebtedness to ABB Zurich by paying the amount into BAL's bank account as ABB Zurich had directed.</sentence>
+<sentence id="s203">(x) The amendment of ABB Australia's articles of association on 20 June 1996 had the effect of obliging ABB Australia to pay the amount of the dividend in accordance with a direction of the kind that ABB Zurich had given to it on 6 June 1996.</sentence>
+<sentence id="s204">When ABB Australia paid $49 million into BAL's bank account on 21 June 1996, it complied both with the direction from ABB Zurich and with the newly introduced art 82(3) of its own articles of association, and discharged its indebtedness to its shareholder, ABB Zurich.</sentence>
+<sentence id="s205">(xi) Because ABB Australia was never given notice of any assignment of its indebtedness to ABB Zurich, the legal right to be paid the dividend remained vested in ABB Zurich throughout (until the payment made on 21 June 1996).</sentence>
+<sentence id="s206">However, from, at the latest, 6 June 1996 when it demonstrated that it consented to the assignment from BZW to BAL, ABB Zurich had no beneficial interest in ABB Australia's indebtedness to it but held the right to be paid upon trust for BAL.</sentence>
+<sentence id="s207">By that date the purchase prices payable under the respective contracts to assign had been fully paid.</sentence>
+<sentence id="s208">
+ Was the dividend income derived by ABB Zurich when the members of ABB Australia declared the dividend on 30 May 1996?</sentence>
+<sentence id="s209">
+ 
+ The parties' submissions 
+ 
+62 The applicants referred to authorities in support of their submission that non-trading income, such as investment income, including dividend income, is ordinarily derived only when it is paid and received.</sentence>
+<sentence id="s210">They submit that, ordinarily, "income" signifies an "incoming" or "receipt", and that trading income is treated as exceptional only because in that case it is impracticable and would give rise to distortion to use a cash or receipts, rather than an earnings or accruals, basis of accounting to reflect income.</sentence>
+<sentence id="s211">63 The authorities cited by the applicants are St Lucia Usines and Estates Company Limited v Colonial Treasurer of St Lucia [1924] AC 508 ( St Lucia ) at 512; Commissioner of Taxes (SA) v The Executor Trustee and Agency Company of South Australia Limited [1938] HCA 69 ; (1938) 63 CLR 108 ( Carden's Case ) at 155; Permanent Trustee Co v Federal Commissioner of Taxation (1940) 6 ATD 5 ( Prior's Case ) at 13; South Australia v Commonwealth [1992] HCA 7 ; (1992) 174 CLR 235 at 253; and Bowaters Sales Co Ltd v Commissioners of Inland Revenue (1958) 38 TC 593 ( Bowaters ) at 597---599.</sentence>
+<sentence id="s212">As well, the applicants refer to the Commissioner's Public Ruling TR 98/1 at [19], in which the Commissioner has said that as a general rule, the receipts method is appropriate to determine income derived from investments, although there are exceptions, such as in the case of interest from a business of money lending carried on by the taxpayer.</sentence>
+<sentence id="s213">64 The applicants submit that the giving of the direction by ABB Zurich and the subsequent payment of the dividend to BAL occurred at a time when ABB Zurich was a bare trustee of the legal right to receive the dividend, both as a matter of Australian law (they refer to Commissioner of Taxation v Everett [1980] HCA 6 ; (1980) 143 CLR 440 at 450) and as a matter of English law (the proper law of the contracts to assign) as explained in the evidence of Lord Millett.</sentence>
+<sentence id="s214">They submit that a taxpayer derives as income only amounts to which it is beneficially entitled (citing Countess of Bective v Federal Commissioner of Taxation [1932] HCA 22 ; (1932) 47 CLR 417 at 423; Shepherd v Commissioner of Taxation [1965] HCA 70 ; (1965) 113 CLR 385 at 397; Zobory v Commissioner of Taxation (1995) 64 FCR 86 at 89; Service v Commissioner of Taxation [2000] FCA 188 ; (2000) 97 FCR 265 at [73] ; and Reiter v Commissioner of Taxation [2001] FCA 1068 ; (2001) 113 FCR 492 at [23] ---[24]).</sentence>
+<sentence id="s215">Finally, they submit that s 128A(3) (set out [14] above) was enacted "to maintain a corresponding principle in relation to withholding tax for dividends or interest paid to non-resident beneficiaries", citing the Explanatory Memorandum to the Income Tax Assessment Bill (No 4) 1967 , p 25.</sentence>
+<sentence id="s216">65 The Commissioner submits that it is inadequate to characterise ABB Zurich's shareholding in ABB Australia simply as "an investment" for the purpose of determining when the dividend could be "derived".</sentence>
+<sentence id="s217">Rather, it is necessary to recognise ABB Zurich's position as a holding company.</sentence>
+<sentence id="s218">The evidence shows that in May/June 1996 ABB Zurich was owned in equal shares by ABB AB, Stockholm (Sweden) and ABB AG Baden (Switzerland), and was the holding company within the ABB Group of approximately 1,000 companies around the world, including ABB Australia.</sentence>
+<sentence id="s219">66 The Commissioner submits that for the purposes of identifying the appropriate basis of accounting, the authorities show or suggest that a holding company is classified as a trading company.</sentence>
+<sentence id="s220">He cites Carapark Holdings Ltd v Commissioner of Taxation [1967] HCA 5 ; (1966) 115 CLR 653 ( Carapark ) at 663---664; Esquire Nominees Limited v Federal Commissioner of Taxation [1972] HCA 32 ; (1973) 129 CLR 177 ( Esquire Nominees ) at 212 per Barwick CJ, 221 per Menzies J; Brookton Co-operative Society Limited v Commissioner of Taxation [1981] HCA 28 ; (1981) 147 CLR 441 ( Brookton ) at 469 per Aickin J; and Broken Hill Pty Co Ltd v Federal Commissioner of Taxation (1999) 99 ATC 5193 ( BHP v FCT ) at [48] per Kenny J.</sentence>
+<sentence id="s221">67 The Commissioner submits that as a company carrying on business through its some 1,000 subsidiaries, ABB Zurich was prima facie an accruals basis taxpayer; that its trading activities were conducted for the purpose of deriving dividend income from its subsidiaries; and that its dividend income was directly the product of its trading activities and was therefore trading income, not investment income.</sentence>
+<sentence id="s222">68 Like the applicants, the Commissioner relies on the seminal judgment of Dixon J in Carden's Case [1938] HCA 69 ; 63 CLR 108.</sentence>
+<sentence id="s223">The Commissioner refers to his Honour's statements to the effect that the tendency of judicial decision has been to place increasing reliance upon the conceptions of business and the principles and practices of commercial accountancy (at 153), and that unless some definite direction is discoverable in the statute, the choice of the method of ascertaining "the true income" must depend upon the method's "actual appropriateness" (at 154).</sentence>
+<sentence id="s224">69 The Commissioner distinguishes Bowaters 38 TC 593 on the basis that Harman J noted (at 597) that "[t]here is no evidence here that the function of this Company was mainly the holding of investments".</sentence>
+<sentence id="s225">The Commissioner suggests that his Lordship was intending to distinguish holding companies from purely passive investment companies.</sentence>
+<sentence id="s226">The evidence 
+ 
+70 The Commissioner relies on two forms of evidence as being relevant to the question whether ABB Zurich derived income consisting of the dividend when the dividend was declared.</sentence>
+<sentence id="s227">The first is evidence relating to the international group of companies known as the ABB Group and its accounting practices.</sentence>
+<sentence id="s228">This evidence is found in an affidavit of Alfred Storck of the ABB Group and documentary exhibits.</sentence>
+<sentence id="s229">The second class of evidence is expert evidence of an accountant, Brigid Therese Curran, adduced by the Commissioner.</sentence>
+<sentence id="s230">The Commissioner read Ms Curran's affidavit subject to objection by the applicants on the ground of relevance.</sentence>
+<sentence id="s231">71 Mr Storck is the Deputy Chief Financial Officer and the person responsible for Corporate Finance and Taxes for the ABB Group.</sentence>
+<sentence id="s232">In 1996, he was employed by ABB Zurich as head of its Taxation Division.</sentence>
+<sentence id="s233">Mr Storck states that ABB Group "specialises in the engineering of power and automation technologies" and "supplies products and services to utility and industrial customers around the world".</sentence>
+<sentence id="s234">72 Since 1999 the ultimate parent company of the ABB Group has been ABB Limited, a publicly listed company whose shares are listed on the Swiss, New York and Stockholm Stock Exchanges.</sentence>
+<sentence id="s235">ABB Limited owns ABB Zurich which is the holding company for the various companies within the ABB Group.</sentence>
+<sentence id="s236">73 The structure of the ABB group was somewhat different in 1996, however, when, as noted earlier, ABB Zurich was owned as to 50 percent by ABB AB of Sweden and 50 percent by ABB AG of Switzerland.</sentence>
+<sentence id="s237">That was the position until a corporate restructuring in 1999 in which the shareholders in ABB AB and ABB AG exchanged their shares in those companies for shares in the new company, ABB Limited.</sentence>
+<sentence id="s238">It was at that time that ABB Zurich became a wholly owned subsidiary of ABB Limited.</sentence>
+<sentence id="s239">ABB Zurich continued as before, however, to hold the shares in the some 1,000 ABB Group companies around the world.</sentence>
+<sentence id="s240">74 In 1996, ABB Australia was the holding company of the Australian companies within the ABB Group, and apparently has continued to fulfil that role.</sentence>
+<sentence id="s241">Thus, ABB Australia derived dividend income from its subsidiaries, and ABB Zurich derived dividend income from ABB Australia.</sentence>
+<sentence id="s242">75 Subject to an objection on the ground of relevance, copies of the financial statements of ABB Australia for the calendar years 1993, 1994, 1995, 1996 and 1997 are in evidence.</sentence>
+<sentence id="s243">All contain the following note:
+ 
+ Recognition of Dividend Income 
+ Dividend income is taken into profit when the dividend is declared payable unless the declaration is made after year end but before the financial statements of the investing company are completed in which case the income is taken to profit in the preceding year.</sentence>
+<sentence id="s244">
+
+The financial statements for 1996 and 1997 contained in addition the following note:
+ 
+ Recognition of Dividend Payments 
+ Dividend payments are recognised in the accounts in the year in which the dividend is approved.</sentence>
+<sentence id="s245">
+
+76 The former note relates to dividend income of ABB Australia, being dividends declared by its subsidiaries.</sentence>
+<sentence id="s246">The latter note relates to dividends declared by ABB Australia (I treat "declared" and "approved" as synonyms).</sentence>
+<sentence id="s247">The effect of the latter note is that ABB Australia recognises dividends it pays in its accounts of the year in which it declares them.</sentence>
+<sentence id="s248">Thus ABB Australia treated the time of declaration as the time at which it recognised in its accounts both dividends from its subsidiaries and dividends to its parent.</sentence>
+<sentence id="s249">The Directors' Report contained in ABB Australia's Annual Report for 1996 disclosed that ABB Australia had paid a dividend of $49 million "to the parent company during the year".</sentence>
+<sentence id="s250">Thus, notwithstanding the transactions described, the Directors' Report stated that ABB Australia had paid the dividend of $49 million to ABB Zurich.</sentence>
+<sentence id="s251">77 I turn now to the evidence of Ms Curran.</sentence>
+<sentence id="s252">78 Ms Curran was retained by the Commissioner as an independent expert.</sentence>
+<sentence id="s253">Ms Curran is a chartered accountant specialising in the provision of financial reporting advice.</sentence>
+<sentence id="s254">She operates as a self-employed financial reporting consultant.</sentence>
+<sentence id="s255">Until 2001 she was a partner with PricewaterhouseCoopers, and was the National Technical Partner in the Audit and Business Assurance Services Division of the firm.</sentence>
+<sentence id="s256">She was responsible for the provision of technical financial reporting advice on the application and interpretation of financial reporting requirements, in particular in relation to the application and interpretation of Accounting Standards, both Australian and international.</sentence>
+<sentence id="s257">79 Ms Curran is a member of CPA Australia and of The Institute of Chartered Accountants in Australia.</sentence>
+<sentence id="s258">She was a member of the Australian Accounting Standards Board from 2000 to 2003, and since 2006, has been a member of the Audit Quality Review Board.</sentence>
+<sentence id="s259">80 Four questions were put to Ms Curran on behalf of the Commissioner.</sentence>
+<sentence id="s260">I will not set out the questions and her answers to them but will summarise the general effect of her evidence.</sentence>
+<sentence id="s261">81 Ms Curran states that in 1996 there was no Australian Accounting Standard dealing specifically with the accounting treatment for the recognition of dividend income, and that dividend revenue was required to be recognised in Australia in accordance with the general principles prescribed by Accounting Standard AASB 1001: Accounting Policies ( AASB 1001 ).</sentence>
+<sentence id="s262">Ms Curran quotes from paras 6.1.5 and 6.1.6 of AASB 1001 as follows:
+ 
+ the going concern and accrual bases of accounting are so generally adopted in the preparation of financial reports that their use can be assumed in the absence of any statement to the contrary.</sentence>
+<sentence id="s263">
+
+Ms Curran quotes from AASB 1001 a statement to the effect that a summary of accounting policies must be presented in the initial section of the notes to the financial report, and must:
+ 
+ identify the fact and reasons for not applying the going concern or accrual accounting bases, where the financial report has been prepared otherwise than in accordance with the going concern or accrual accounting bases.</sentence>
+<sentence id="s264">(Paragraph 6.1, AASB 1001 .</sentence>
+<sentence id="s265">)
+ 
+
+82 Ms Curran states:
+ 
+ 28.</sentence>
+<sentence id="s266">In relation to the receipt of dividends from an investment, application of the accrual basis of accounting necessitates that the dividend revenue be recognised by the shareholder when the entitlement is established.</sentence>
+<sentence id="s267">This will usually be when the declaration of a dividend is approved by the shareholders of the company.</sentence>
+<sentence id="s268">29.</sentence>
+<sentence id="s269">At the point in time when the dividend declaration is approved, the shareholder has an entitlement to receive the dividend, such entitlement qualifying as an asset.</sentence>
+<sentence id="s270">Similarly, the company declaring the dividend has an obligation at that time, such obligation qualifying as a liability.</sentence>
+<sentence id="s271">Under the principles of accrual accounting, the shareholder and the company declaring the dividend would each need to record their respective entitlement or obligation, as the case may be, in their financial reports.</sentence>
+<sentence id="s272">
+
+83 Ms Curran explains that "the declaration and approval of a dividend usually occurs separately from the receipt such that there are two discrete transactions or events requiring recognition in the financial statements of the shareholder".</sentence>
+<sentence id="s273">She states that this "text-book" recognition of two separate transactions or events is implemented by the raising of separate journal entries, but that if both occur in the same financial accounting period there is no loss of information if a single accounting entry is made, and this departure from the text-book approach is common.</sentence>
+<sentence id="s274">If, however, the transactions or events occur in different financial periods, the dividend receivable will be shown as income in the earlier period, and it will be shown as converted to cash in the later period after the dividend is received.</sentence>
+<sentence id="s275">84 Ms Curran states that if ABB Zurich had been an Australian entity for the calendar year ended 31 December 1996, it would have been required under Australian Accounting Standards to recognise the $49 million dividend revenue as at 30 May 1996 when the dividend was approved for payment, but that since ABB Zurich's 1996 financial reporting year did not end between 30 May 1996 and 21 June 1996, ABB Zurich would have been permitted to recognise the dividend revenue upon receipt, without being in breach of any Australian Accounting Standard and without any loss of information in its financial statements.</sentence>
+<sentence id="s276">85 According to Ms Curran, not only was the accrual basis of accounting, and therefore the recognition of dividends receivable as income when declared, required by AASB 1001 : it in fact reflected the ordinary practice of Australian companies in 1996.</sentence>
+<sentence id="s277">Ms Curran acknowledges, however, that when declaration and receipt occurred within the same financial reporting period, it could have been a common practice to make just a single journal entry.</sentence>
+<sentence id="s278">Ms Curran states that although the relevant Accounting Standard reference has changed since 1996, and the more generic AASB 1001 has yielded to "the development and promulgation of Accounting Standards that prescribe specific recognition, measurement and disclosure requirements applicable to an extensive range of transactions", the substance of the accounting requirement regarding recognition of dividend revenue remains unchanged, as does the practice of Australian companies in applying the accrual basis of accounting in that respect.</sentence>
+<sentence id="s279">86 Ms Curran also states that the direction given by ABB Zurich to ABB Australia to pay the dividend of $49 million to BAL and ABB Australia's subsequent compliance with that direction constituted a transaction distinct from the establishment of the entitlement to the dividend, and should be accounted for separately.</sentence>
+<sentence id="s280">No revenue or expense item arising from the subsequent transaction was permitted to be combined with or offset against the dividend revenue itself.</sentence>
+<sentence id="s281">87 As evidence of company accounting practice in 1996, Ms Curran quotes from the 1996 financial statements of ABB Australia, Note 1 (Summary of Significant Accounting Policies), the first of the two extracts set out at [75] above.</sentence>
+<sentence id="s282">88 Ms Curran was not cross-examined on her affidavit.</sentence>
+<sentence id="s283">The applicants submitted that her evidence was irrelevant because it relates to company accounting practice, not the terms of the Act.</sentence>
+<sentence id="s284">In substance, the applicants submit that the notion of the time of derivation of income consisting of a dividend is established by the Act, and authoritative judicial expositions of it, as being the time of receipt, so that there is no scope for evidence of business and accounting practice.</sentence>
+<sentence id="s285">I will address the applicants' objection to Ms Curran's evidence below.</sentence>
+<sentence id="s286">89 The applicants raise a second objection to Ms Curran's evidence.</sentence>
+<sentence id="s287">This is that the assumptions that the "Background Facts &amp; Assumptions" that she identified in her report did not exhaust all of the relevant background facts, and, in particular, did not include reference to the assignment by ABB Zurich to BZW or by BZW to BAL.</sentence>
+<sentence id="s288">The Commissioner responds by pointing to Appendix C to Ms Curran's report which lists her "sources of information" as including documents which described those two transactions.</sentence>
+<sentence id="s289">90 I do not sustain this second objection raised by the applicants.</sentence>
+<sentence id="s290">Ms Curran's testimony is directed primarily to the accounting treatment in 1996 of dividends declared and later received, first in the Australian Accounting Standards at that time, and, second, in commercial practice at that time.</sentence>
+<sentence id="s291">Her evidence is clear that any subsequent transaction dealing with the right to receive the dividend would have to be accounted for separately.</sentence>
+<sentence id="s292">She addressed what might be conceived of as one such subsequent transaction, namely, the giving of the direction to pay by ABB Zurich to ABB Australia, and ABB Australia's compliance with that direction.</sentence>
+<sentence id="s293">It is implicit that the contract to sell between ABB Zurich and BZW would have to be accounted for separately in the financial statements of those respective companies and would post-date derivation by ABB Zurich.</sentence>
+<sentence id="s294">91 The assumptions stated by Ms Curran were adequate for the purpose of the particular opinions that she expressed.</sentence>
+<sentence id="s295">Indeed, her opinions relating to the appropriate time (time of declaration or time of payment) at which dividends should be and were treated in commercial accounting as "income" were expressed at such a level of generality or abstraction that it is difficult to see that assumptions concerning the facts of the present case had any role to play for her.</sentence>
+<sentence id="s296">Ms Curran's evidence was framed by the questions she was asked.</sentence>
+<sentence id="s297">She was asked questions in relation to "reporting entities" generally in Australia in respect of the calendar year ended 31 December 1996.</sentence>
+<sentence id="s298">Consideration 
+ 
+92 Section 128B(1)(a) of the Act tells us that the income to which it refers can be "derived" and that it consists of a dividend paid by an Australian resident company.</sentence>
+<sentence id="s299">The applicants would accept that if, on 21 June 1996, the dividend had been paid to ABB Zurich rather than to BAL, s 128B(1) would have been enlivened, albeit on that date and not earlier.</sentence>
+<sentence id="s300">93 The applicants make two submissions: first, the dividend is "investment income" and, in accordance with general principles, investment income is derived when it is received; and, second, on the true construction of s 128B(1), the same item of income must, by some moment of time, satisfy both the descriptions of "derived" and "paid".</sentence>
+<sentence id="s301">According to this second submission, even if ABB Zurich derived income consisting of the dividend on 30 May 1996, it was not that same item of income that consisted of the dividend that was paid to BAL on 21 June 1996.</sentence>
+<sentence id="s302">94 The Commissioner contests both submissions.</sentence>
+<sentence id="s303">He submits that whatever may be the position in other circumstances, in this case income consisting of a dividend was derived by ABB Zurich within para (a) of s 128B(1) when the dividend was declared on 30 May 1996, and the payment by ABB Australia on 21 June 1996 was a payment that satisfied para (b) of s 128B(1).</sentence>
+<sentence id="s304">95 Before I turn to the authorities on the derivation of income to which I was referred, it is useful to note the following matters.</sentence>
+<sentence id="s305">96 First, ABB Zurich became absolutely, indefeasibly and beneficially entitled on 30 May 1996 to be paid to the amount of the dividend on 21 June 1996: it satisfied on 30 May 1996 the only condition of entitlement, namely, being a member of ABB Australia on that date.</sentence>
+<sentence id="s306">97 Secondly, unlike s 44(1) of the Act (set out at [6] above), s 128B(1) does not expressly require that the dividend be paid to the "shareholder".</sentence>
+<sentence id="s307">Whereas s 44(1) includes in the assessable income of a taxpayer "dividends paid to him by the company", s 128B does not identify the payee.</sentence>
+<sentence id="s308">It would have been possible for s 128B(4) to make the payee of the dividend the person liable to pay withholding tax, but it did not do so.</sentence>
+<sentence id="s309">It identified the person liable to pay withholding tax simply as a "person who derives income to which [s 128B] applies".</sentence>
+<sentence id="s310">In my opinion, the terms of s 128B(1) do not require that at the time of derivation, income must already satisfy the description "consists of a dividend paid by a company that is a resident".</sentence>
+<sentence id="s311">The primary concept is simply "income", and it is only once something that is income satisfies both paras (a) and (b) that s 128B(1) is satisfied.</sentence>
+<sentence id="s312">The terms of s 128B(1) leave open the possibility that para (a) will be satisfied before para (b), that para (b) will be satisfied before para (a), or that both will be satisfied simultaneously.</sentence>
+<sentence id="s313">98 The applicants submit, however, that by reference to more general principles there is no derivation without payment, so the declaration of the dividend by ABB Australia on 30 May 1996 did not satisfy para (a) of s 128B(1).</sentence>
+<sentence id="s314">If there is no derivation without payment, in order for ABB Zurich to be liable to pay withholding tax, the only payment that was made by ABB Australia, namely that made on 21 June 2007 to BAL, would have had to be also a payment to ABB Zurich for s 128B(1) to apply.</sentence>
+<sentence id="s315">As noted earlier and discussed below, the Commissioner's alternative submission is, indeed, to that effect.</sentence>
+<sentence id="s316">99 I turn now to consider, in chronological sequence, the cases to which I was referred.</sentence>
+<sentence id="s317">100 St Lucia [1924] AC 508 concerned the question whether interest on unpaid purchase money, payable but not paid, was "income arising or accruing" to the creditor for the purposes of the Income Tax Ordinance 1910 of St Lucia.</sentence>
+<sentence id="s318">After selling its estates and business in St Lucia, the taxpayer company did not reside or carry on business there, but was owed part of the purchase price at interest.</sentence>
+<sentence id="s319">Twelve months' interest fell due on 30 November 1921 but was not paid.</sentence>
+<sentence id="s320">Whether the company was liable to pay income tax in respect of the year 1921 on that interest depended on whether that interest was "income arising or accruing" to the company derived from a source in the colony.</sentence>
+<sentence id="s321">101 The Privy Council rejected the Colonial Treasurer's contention that the interest accrued to the company in 1921.</sentence>
+<sentence id="s322">Their Lordships stated (at 512---513):
+ 
+ The words "income arising or accruing" are not equivalent to the words "Debts arising or accruing".</sentence>
+<sentence id="s323">To give them that meaning is to ignore the word "income".</sentence>
+<sentence id="s324">The words mean "money arising or accruing by way of income".</sentence>
+<sentence id="s325">There must be a coming in to satisfy the word "income".</sentence>
+<sentence id="s326">This is a sense which is assisted or confirmed by the word "received" in the proviso at the end of s 4, subs 1.</sentence>
+<sentence id="s327">If the taxpayer be the holder of stock of a foreign Government carrying say 5 per cent interest, and the Government is that of a defaulting State which does not pay the interest, the taxpayer has neither received nor has there accrued to him any income in respect of that stock.</sentence>
+<sentence id="s328">A debt has accrued to him but income has not.</sentence>
+<sentence id="s329">It does not follow that income is confined to that which the taxpayer actually receives.</sentence>
+<sentence id="s330">Where income tax is deducted at the source the taxpayer never receives the sum deducted but it accrues to him.</sentence>
+<sentence id="s331">It is said, and truly, that a commercial company, in preparing its balance sheet and profit and loss account, does not confine itself to its actual receipts --- does not prepare a mere cash account --- but values its book debts and its stock in trade and so on and calculates its profits accordingly.</sentence>
+<sentence id="s332">From the practice of commerce and of accountants and from the necessity of the case this is so.</sentence>
+<sentence id="s333">But this is far from establishing that income arises or accrues from ... an investment which fails to pay the interest due.</sentence>
+<sentence id="s334">
+
+I do not think it necessary to refer further to s 4(1)'s reference to "received" that is mentioned in this passage.</sentence>
+<sentence id="s335">102 The sale that gave rise to the liability to pay the interest appears to have been a one off, indeed a final, sale of the company's estates in St Lucia.</sentence>
+<sentence id="s336">The facts are therefore far removed from those of the present case in which ABB Australia was one of 1,000 wholly owned subsidiaries of ABB Zurich, and the latter company, in its role as shareholder, declared the dividend and framed the terms of payment.</sentence>
+<sentence id="s337">On the other hand, the passage does distinguish between money falling due and payable (in the present case, the amount of the dividend had not fallen due and payable as at 30 May 1996) and money coming in.</sentence>
+<sentence id="s338">103 I turn next to the judgment of Dixon J in Carden's Case [1938] HCA 69 ; 63 CLR 108 --- a seminal judgment on the question of the appropriateness of the receipts or accrual method of tax accounting for income derived.</sentence>
+<sentence id="s339">104 The case concerned the income of a medical practitioner subsequently deceased.</sentence>
+<sentence id="s340">The issue arose under the Taxation Act 1927 --- 1935 (SA).</sentence>
+<sentence id="s341">A question before the Court was whether the earnings or accruals method of identifying the deceased's fees income was appropriate.</sentence>
+<sentence id="s342">105 Dixon J, with whom Rich and McTiernan JJ agreed (Latham CJ dissenting), held that the receipts basis of accounting (on which Dr Carden had furnished returns) had been the appropriate method in relation to the complete years of income during Dr Carden's lifetime (the earnings basis was held appropriate for the broken period from 1 July 1935 to his death on 15 November 1935).</sentence>
+<sentence id="s343">Accordingly, Dr Carden had not been required to return as income fees earned during those years but not paid during them, which were outstanding as "book debts" at the end of those years.</sentence>
+<sentence id="s344">106 The following propositions are to be found in the judgment of Dixon J:
+ 
+ (1) The question which of rival methods of accounting should be employed in identifying taxable income falls for the courts to determine according to legal principles, but it is a mistake to search only the legislative text for an answer, because such notions as income, profits and gains are conceptions of the world of affairs, and particularly of business, covering an infinite variety of activities, for which no single formula can be devised (at 151---152).</sentence>
+<sentence id="s345">(2) "... in nearly every department of enterprise and employment the course of affairs and the practice of business have developed methods of estimating or computing in terms of money the result over an interval of time produced by the operations of business, by the work of the individual, or by the use of capital.</sentence>
+<sentence id="s346">The practice of these methods of computation and the general recognition of the principles upon which they proceed are responsible in a great measure for the conceptions of income, profit and gain and, therefore, may be said to enter into the determination or definition of the subject which the legislature has undertaken to tax.</sentence>
+<sentence id="s347">The courts have always regarded the ascertainment of income as governed by the principles recognized or followed in business and commerce, unless the legislature has itself made some specific provision affecting a particular matter or question" (at 152).</sentence>
+<sentence id="s348">(3) "The tendency of judicial decision has been to place increasing reliance upon the conceptions of business and the principles and practices of commercial accountancy ...</sentence>
+<sentence id="s349">But the process by which the principles and practices evolved in business or general affairs are drawn upon for the solution of questions presented to courts of law almost inevitably leads to a development in the law itself.</sentence>
+<sentence id="s350">For, under our system of precedent, a decision adopting or resorting to any given accounting principle or application of principle is almost bound to settle for the future the rule to be observed and the rule thus comes to look very like a proposition of law" (at 153---154).</sentence>
+<sentence id="s351">(4) "Unless in the statute itself some definite direction is discoverable, ... the admissibility of the method which in fact has been pursued must depend upon its actual appropriateness ... [t]he inquiry should be whether in the circumstances of the case it is calculated to give a substantially correct reflex of the taxpayer's true income.</sentence>
+<sentence id="s352">We are so accustomed to commercial accounts of manufacturing or trading operations, where the object is to show the gain upon a comparison of the respective positions at the beginning and end of a period of production or trading, that it is easy to forget the reasons which underlie the application of such a method of accounting to the purpose of ascertaining taxable income.</sentence>
+<sentence id="s353">Although the field of profit-making which it covers in practice is probably much greater than any other among the manifold forms of income or revenue, it is a system of accounting which does not represent the primary or basal position from which an investigation of income for taxation purposes begins.</sentence>
+<sentence id="s354">Speaking generally, in the assessment of income the object is to discover what gains have during the period of account come home to the taxpayer in a realized or immediately realizable form" (at 154---155).</sentence>
+<sentence id="s355">(5) The expressions "derived" and "arising or accruing" ordinarily signify receipt, but not in relation to debts due to a trading company, in which case debts due but not paid must be included as income.</sentence>
+<sentence id="s356">With regard to non-trading income there must be something "coming in", that is to say, "for income tax purposes receivability without receipt is nothing" (at 155 quoting from Sir Houldsworth Shaw &amp; Baker, Law of Income Tax p111).</sentence>
+<sentence id="s357">(6) "The reasons which underlie the practice of estimating for taxation purposes the income from trade or manufacture by means of a commercial profit and loss account consist in the impracticability of computing income in any other way and in the adoption for fiscal purposes of recognized commercial principles.</sentence>
+<sentence id="s358">The computation of profits from manufacture and trading has always proceeded upon the principle that profit may be contained in stock-in-trade and 'outstandings'" (at 155).</sentence>
+<sentence id="s359">(7) "... a tax upon the profits or income of such a business [a manufacturing or trading business] must be understood as a tax upon the profits or income computed according to the system, because, according to common understanding and commercial principles, that is the method of determining the profits" (at 156).</sentence>
+<sentence id="s360">(8) The word "derived" is the equivalent of "arising or accruing" ( Harding v Federal Commissioner of Taxation [1917] HCA 13 ; (1917) 23 CLR 119 at 133), and none of these three words, nor the words "income", "profit" or "gain" in the statute, throw any light on the question of which basis of accounting is appropriate to reflect income in the circumstances of a particular case (at 157).</sentence>
+<sentence id="s361">(9) "Where there is nothing analogous to a stock of vendible articles to be acquired or produced and carried by the taxpayer, where outstandings on the expenditure side do not correspond to, and are not naturally connected with, the outstandings on the earnings side, and where there is no fund of circulating capital from which income or profit must be detached for actual enjoyment, but where, on the contrary, the receipts represent in substance a reward for professional skill and personal work to which the expenditure on the other side of the account contributes only in a subsidiary or minor degree, then I think according to ordinary conceptions the receipts basis forms a fair and appropriate foundation for estimating professional income.</sentence>
+<sentence id="s362">But this is subject to one qualification.</sentence>
+<sentence id="s363">There must be continuity in the practice of the profession" (at 157---158).</sentence>
+<sentence id="s364">
+
+107 The factual circumstances of Carden's Case [1938] HCA 69 ; 63 CLR 108 are also far removed from those of the present case.</sentence>
+<sentence id="s365">Dixon J's reasons suggest, however, three things.</sentence>
+<sentence id="s366">First, we should expect to be able to identify the meaning and timing of the derivation of dividend income, not necessarily simply by exploring the text of the Act, such as the term "income" or the term "derived", but by reference to relevant business and accounting practice.</sentence>
+<sentence id="s367">Second, trading and manufacturing companies have particular features that make an accrual or earnings basis appropriate for them, that are not features of a group holding company such as ABB Zurich, namely, a depletion in a stock of vendible articles on one side of the ledger that would be apt to give a misleading picture as to the company's gain or loss over a period if the corresponding earnings (book debts) arising from the depletion during that period were not shown as income on the other side of the ledger.</sentence>
+<sentence id="s368">Third, generally speaking, in order to see whether income has been derived, we should ask whether the income has come home to the taxpayer in a realised or immediately realisable form.</sentence>
+<sentence id="s369">108 Carden's Case [1938] HCA 69 ; 63 CLR 108 suggests that in the absence of features taking the case out of the ordinary or evidence of business and accounting practice pointing to a different result, I should treat the present dividend as income derived if and when it came home to ABB Zurich in a realised or immediately realisable form.</sentence>
+<sentence id="s370">109 Prior's Case 6 ATD 5 was concerned with the application of s 19 of the Income Tax Assessment Act 1922---33 to a capitalisation by a Deed of Dissolution of Partnership dated 13 August 1932, and therefore within the financial year ended 30 June 1933, of an amount of &#8356;2,097 that represented a balance of interest outstanding by one former partner to the other.</sentence>
+<sentence id="s371">The sum of &#8356;2,097 was included in a sum of &#8356;8,388 that was agreed to represent the total amount owing by the former partner to the other.</sentence>
+<sentence id="s372">As part of the agreement on dissolution, the amount of &#8356;8,388 was secured by a charge "on property already heavily mortgaged and quite incapable of producing a surplus out of which the amount representing interest could be paid" (at 13).</sentence>
+<sentence id="s373">110 The interest was not paid but was carried to a capital account, and in that sense capitalised.</sentence>
+<sentence id="s374">Section 19 of the Income Tax Assessment Act 1922---1933 was all but identical to s 19 of the Act (set out at [9] above --- the words "or money" did not appear in the earlier version).</sentence>
+<sentence id="s375">Rich J, with whom Starke and McTiernan JJ agreed, considered that the facts showed that the taxpayer got nothing except a new obligation to pay in exchange for the existing obligation to pay, which made him "no nearer getting his money or of transferring it into anything of any value" (at 12).</sentence>
+<sentence id="s376">Rather colourfully, his Honour said: "[a]ll that happened in this case was to change a forlorn hope of interest into a still more forlorn hope of capital" (ibid).</sentence>
+<sentence id="s377">Rich J thought that in order to see whether income is being derived, "one must look to realities", adding that while usually payment of interest by cheque involves receipt of income, "payment by a valueless cheque does not" (at 13).</sentence>
+<sentence id="s378">Like Dixon J in Carden's Case [1938] HCA 69 ; 63 CLR 108, his Honour also quoted from Sir Houldsworth Shaw &amp; Baker, Law of Income Tax , p111: "for income tax purposes receivability without receipt is nothing".</sentence>
+<sentence id="s379">111 Prior's Case 6 ATD 5 stands for the proposition that s 19 is not engaged where there is no increase in the taxpayer's resources.</sentence>
+<sentence id="s380">There was such an increase in the resources of ABB Zurich upon declaration of the dividend.</sentence>
+<sentence id="s381">It was certain that the dividend would be paid; it was ABB Zurich's decision to fix a future date for payment; and immediately after declaration of the dividend ABB Zurich was able to sell the right to be paid it.</sentence>
+<sentence id="s382">Prior's Case is therefore of little relevance to the present case.</sentence>
+<sentence id="s383">112 Arthur Murray (NSW) Pty Ltd v Commissioner of Taxation [1965] HCA 58 ; (1965) 114 CLR 314 ( Arthur Murray ) was, in a sense, the converse of Carden's Case [1938] HCA 69 ; 63 CLR 108.</sentence>
+<sentence id="s384">The taxpayer company received fees for dancing lessons yet to be given.</sentence>
+<sentence id="s385">It placed the fees in a suspense account until the lessons were given, when it transferred them to its revenue account.</sentence>
+<sentence id="s386">The High Court held that the fees were not assessable income at the time of receipt.</sentence>
+<sentence id="s387">113 In their joint judgment, Barwick CJ, Kitto and Taylor JJ said that Dixon J's reference in Carden's Case [1938] HCA 69 ; 63 CLR 108 to monies having "come home" to the taxpayer, was a reference, not simply to receipt, but to the reaching of a situation in which monies received might properly be counted as gains completely made, so that there was neither legal nor business unsoundness in regarding them, without qualification, as income derived.</sentence>
+<sentence id="s388">Their Honours stated (at 318):
+ 
+ The ultimate inquiry in either kind of case, of course, must be whether that which has taken place, be it the earning or the receipt, is enough by itself to satisfy the general understanding among practical business people of what constitutes a derivation of income.</sentence>
+<sentence id="s389">A conclusion as to what that understanding is may be assisted by considering standard accountancy methods, for they have been evolved in the business community for the very purpose of reflecting received opinions as to the sound view to take of particular kinds of items.</sentence>
+<sentence id="s390">... A judicial decision as to whether an amount received but not yet earned or an amount earned but not yet received is income must depend basically upon the judicial understanding of the meaning which the word conveys to those whose concern it is to observe the distinctions it implies.</sentence>
+<sentence id="s391">What ultimately matters is the concept; book-keeping methods are but evidence of the concept.</sentence>
+<sentence id="s392">
+
+Their Honours noted that it was agreed that according to established accountancy and commercial principles, in the case of a business selling goods or supplying services, amounts received in advance of the goods being delivered or the services supplied are not regarded as income until the goods are delivered or the services supplied.</sentence>
+<sentence id="s393">114 Their Honours recognised that where statute lays down a test for the inclusion of particular kinds of receipts in assessable income, commercial and accounting practice cannot be substituted for the test, but said there was no such test in the case before the Court, the only relevant word being "income", which was to be understood according to "the vocabulary of business affairs" (at 320).</sentence>
+<sentence id="s394">115 Subsection (1) of s 128B does not, in my view, lay down a test of the kind contemplated by their Honours.</sentence>
+<sentence id="s395">The subsection invokes the notion of "income ... derived", and I am required to have regard to general commercial and accounting practice, if evidence of it is put before the Court, as to when income consisting of a dividend declared in the circumstances of the present case is regarded as having "come home" to the parent company.</sentence>
+<sentence id="s396">116 In South Australia v Commonwealth [1992] HCA 7 ; (1992) 174 CLR 235, Dixon J's judgment in Carden's Case was again referred to by the High Court.</sentence>
+<sentence id="s397">In a joint judgment, Mason CJ, Deane, Toohey and Gaudron JJ said (at 252) that in accordance with Dixon J's statement in Carden's Case [1938] HCA 69 ; 63 CLR 108 at 152 (see [106] (1), (2) above), "the courts have placed reliance upon the conceptions of business and the principles and practices of commercial accountancy in order to arrive at an assessment of income, the object being 'to discover what gains have during the period of account come home to the taxpayer in a realised or immediately realizable form'" (their Honours were quoting from Dixon J in Carden's Case [1938] HCA 69 ; 63 CLR 108 at 155).</sentence>
+<sentence id="s398">117 In relation to interest on money lent, their Honours observed that it was not the vesting of the chose in action, but the derivation of the interest by the taxpayer that resulted in its inclusion in assessable income.</sentence>
+<sentence id="s399">They stated (at 253):
+ 
+ The time of derivation is not the same as and, in many cases, will not coincide with the time of vesting of the chose in action.</sentence>
+<sentence id="s400">In the case of income by way of interest, the income is derived when the interest payment is received or, if the taxpayer's taxation accounts are compiled on an accruals basis when the interest payment accrues, that is, when the amount of the interest becomes due and payable.</sentence>
+<sentence id="s401">
+
+This passage has reference to two points of time: the time when the contract of loan was made, and the time when, following the effluxion of time, interest either becomes due and payable or is in fact paid.</sentence>
+<sentence id="s402">Although the debt for interest is a chose separate from the debt for the principal sum, the chose in action in respect of the interest comes into being upon the making of the loan.</sentence>
+<sentence id="s403">Interest is earned, however, by money being made available over time in accordance with the contract of loan.</sentence>
+<sentence id="s404">118 I do not regard the passage quoted as pointing to one answer or the other as to whether ABB Zurich derived income consisting of the dividend on 30 May 1996.</sentence>
+<sentence id="s405">Moreover, the applicants' contention is that derivation occurred on 21 June 1996, not because the dividend became due and payable on that date, but because dividend income is derived only when the dividend is paid.</sentence>
+<sentence id="s406">Consistently with their submission, if the dividend in the present case had not been paid until, say, 29 June 1996, they would contend that derivation could not have occurred before that date, and, in particular, that it could not have occurred on 21 June 1996 when the dividend had fallen due and payable.</sentence>
+<sentence id="s407">119 The last of the cases principally relied on by the applicants, Bowaters 38 TC 593, concerned a dividend declared by an Australian subsidiary of a United Kingdom parent.</sentence>
+<sentence id="s408">The case concerned provisions of the Finance Act 1937 (UK) and the Finance Act 1952 (UK).</sentence>
+<sentence id="s409">The dividend in question was declared on 16 December 1953 but not paid until 28 January 1954.</sentence>
+<sentence id="s410">The relevant accounting period commenced on 1 October 1953 and ended on 31 December 1953.</sentence>
+<sentence id="s411">Accordingly, the dividend was declared during that chargeable accounting period, but paid after it.</sentence>
+<sentence id="s412">120 The taxpayer company was the main selling company of the Bowaters organisation and was the principal member of a group of companies.</sentence>
+<sentence id="s413">It had two subsidiaries that were ordinarily resident in the United Kingdom and a number of non-resident subsidiaries, including the Australian company that declared the dividend.</sentence>
+<sentence id="s414">At the annual general meeting of the Australian company held on 16 December 1953, the dividend was declared, in respect of its accounting year ended 30 September 1953, payable forthwith.</sentence>
+<sentence id="s415">Bowaters' accounts for the year ended 30 September 1953 anticipated the dividend to be declared by the Australian company.</sentence>
+<sentence id="s416">121 The particular dividend was not included in Bowaters' computation of its profits for the purposes of Excess Profits Levy for the period of three months to 31 December 1953, on the ground that it was received after 31 December 1953.</sentence>
+<sentence id="s417">However, the Crown included it in the assessment of profits to Excess Profits Levy for that three month period on the ground that the income arose during that period.</sentence>
+<sentence id="s418">It was against that assessment that Bowaters appealed.</sentence>
+<sentence id="s419">The Crown affirmed the assessment.</sentence>
+<sentence id="s420">As required by Bowaters, a case was stated for the opinion of the High Court.</sentence>
+<sentence id="s421">122 Section 19 of the Finance Act 1937 (UK) charged a tax on the profits arising in each "chargeable accounting period" from any trade or business to which that section applied.</sentence>
+<sentence id="s422">Subsection (2) of s 19 made the tax chargeable on "all trades or businesses of any description carried on in the United Kingdom", and from 1947 the tax applied only to corporations.</sentence>
+<sentence id="s423">Subsection (4) of s 19 provided that where a company's functions consisted wholly or mainly in the holding of investments, the holding of them was deemed, for the purposes of s 19, to be a business carried on by the company.</sentence>
+<sentence id="s424">123 The Finance Act 1952 (UK) introduced an "Excess Profits Levy", which, as events transpired, existed only for the years 1952 and 1953.</sentence>
+<sentence id="s425">For Bowaters, there were three "chargeable accounting periods" during that two year period: the first nine months of 1952; the year ended 30 September 1953; and the last three months of 1953.</sentence>
+<sentence id="s426">It was during this final period that the dividend was declared by the Australian subsidiary.</sentence>
+<sentence id="s427">124 Harman J noted that there was no evidence that the functions of Bowaters was mainly the holding of investments.</sentence>
+<sentence id="s428">Rather its business was mainly that of trading in paper, although it also had a number of wholly owned subsidiaries from which it might draw dividends.</sentence>
+<sentence id="s429">Accordingly, s 19(4) had no application.</sentence>
+<sentence id="s430">125 His Lordship considered that various English authorities to which he referred established that "excepting the case of receipts from trade or receipts analogous to trading receipts, the [fundamental conception of Income Tax legislation] is ... receipt and not receivability" (at 599).</sentence>
+<sentence id="s431">His Lordship rejected the Crown's submission that the dividends were as much a part of Bowaters' trade as were the profits of its trading activities.</sentence>
+<sentence id="s432">126 It followed that the expression "income arising" in the context before his Lordship (a dividend declared and paid by an Australian subsidiary to its United Kingdom parent) and in every context except that of trade debts, meant income received.</sentence>
+<sentence id="s433">The company's appeal was allowed.</sentence>
+<sentence id="s434">127 Harman J expressed the opinion (at 599) that the method by which Bowaters kept its accounts had no relevance for tax purposes.</sentence>
+<sentence id="s435">128 Bowaters 38 TC 593 is said to be against the Commissioner's contention in the present case.</sentence>
+<sentence id="s436">I note that I do not see any relevant distinction between the concepts "arising" in ss 19 and 20(1) of the Finance Act 1937 (UK) and "derived" in the Australian s 128B(1): see Harding v Federal Commissioner of Taxation [1917] HCA 13 ; 23 CLR 119 at 133 noted at [106] above.</sentence>
+<sentence id="s437">129 Unlike Bowaters, ABB Zurich would apparently have qualified for the purposes of s 19(4) of the Finance Act 1937 (UK) as a company whose functions consisted wholly or mainly in the "holding of investments".</sentence>
+<sentence id="s438">Indeed, the only business of ABB Zurich was that of managing the affairs of its some 1,000 subsidiaries.</sentence>
+<sentence id="s439">It appears, although not clearly so, that the reason why Harman J did not accept a submission by the Crown that the receipt of dividends was as much a part of Bowaters' trade as was the profit from its trading activity, was that s 19(4) did not apply (at 599).</sentence>
+<sentence id="s440">In other words, if s 19(4) had applied, as it apparently would have done to the circumstances of ABB Zurich, his Lordship would have treated a dividend from its subsidiary in the same way as he would have done a trading receipt.</sentence>
+<sentence id="s441">It seems that his Lordship would have treated the dividend as derived when the debt for it arose, that is to say, when the subsidiary declared the dividend (at 598).</sentence>
+<sentence id="s442">130 Before returning to consider the evidence, in particular that of Ms Curran, I will refer to the authorities called in aid of the Commissioner.</sentence>
+<sentence id="s443">131 In Carapark [1967] HCA 5 ; 115 CLR 653, the taxpayer was a holding company which had a contract of insurance providing for payment to it of a lump sum in the event of death by air accident of its employee or the employee of an associated or subsidiary company.</sentence>
+<sentence id="s444">An employee of a subsidiary was killed when an aeroplane in which he was travelling in the course of his employment crashed.</sentence>
+<sentence id="s445">The proceeds of the policy were paid to the taxpayer company.</sentence>
+<sentence id="s446">The Commissioner contended that the amount was received as "income" in the ordinary sense of the word.</sentence>
+<sentence id="s447">It will be noted that there was no question that the amount was received, the issue being as to its proper characterisation.</sentence>
+<sentence id="s448">132 The High Court held that the amount was in the nature of income because it was intended to provide against loss of dividend income the taxpayer might suffer in consequence of the death or disablement of employees of its subsidiaries.</sentence>
+<sentence id="s449">In their joint judgment, Kitto, Taylor and Owen JJ said (at 663---664) that the insurance monies must be considered as having been gained in the course of the parent company's business, using "business" in "the broad sense which makes it relevant to the tax problem, that is to say as meaning the continuous course of conduct which the appellant was following for the derivation of income".</sentence>
+<sentence id="s450">133 It is common ground that the dividend of $49 million was "income" and I accept that ABB Zurich was carrying on business.</sentence>
+<sentence id="s451">I do not see, however, how these circumstances or the decision in Carapark determine the criterion by virtue of which, and therefore the time at which, ABB Zurich derives income consisting of dividends declared by its subsidiaries.</sentence>
+<sentence id="s452">Neither Carapark nor any other authority of which I am aware equates any form of "carrying on of business" at all with the trading or manufacturing activity that has been referred to as exceptional in the cases.</sentence>
+<sentence id="s453">134 The Commissioner relies on a statement in Esquire Nominees [1972] HCA 32 ; 129 CLR 177 by Barwick CJ (at 212) that a company may make profits without trading in goods or commodities, or, for that matter, in securities, and that it may do so simply through its investment portfolio, indeed, through investment in a single subsidiary.</sentence>
+<sentence id="s454">135 Esquire Nominees [1972] HCA 32 ; 129 CLR 177 concerned an issue over the location of the source from which income was derived.</sentence>
+<sentence id="s455">The taxpayer company, Esquire Nominees Ltd, was incorporated in Norfolk Island, as was Mitchell Credits Ltd. Each had its registered office and central management and control in Norfolk Island.</sentence>
+<sentence id="s456">In the year ended 30 June 1969, Esquire Nominees Ltd received a dividend from Mitchell Credits Ltd. Mitchell Credits Ltd derived the funds for the payment of the dividend from a dividend which it received from Pharmaceutical Investments Ltd, which was also incorporated in Norfolk Island.</sentence>
+<sentence id="s457">That company paid the dividend to Mitchell Credits Ltd from funds constituted by a dividend it received from an Australian company, whose income came from dividends paid to it by another Australian company carrying on business in Australia.</sentence>
+<sentence id="s458">136 Barwick CJ (at 212) said that the place where a company makes its investment income is the place where it has its central management and control, whereas the place where a trading or manufacturing company makes its income is the place where its trading or manufacturing activities are carried on.</sentence>
+<sentence id="s459">137 The High Court held that Esquire Nominees Ltd was a resident of Norfolk Island and that the source of the dividend, the fund out of which Mitchell Credits Ltd declared it, was within Norfolk Island.</sentence>
+<sentence id="s460">138 With respect, in my view the case has nothing to do with the meaning, and therefore the timing, of "derivation of income consisting of a dividend" in s 128B(1).</sentence>
+<sentence id="s461">139 The Commissioner also refers to a passage in the judgment of Aickin J in Brookton [1981] HCA 28 ; 147 CLR 441.</sentence>
+<sentence id="s462">His Honour stated (at 469) that in the case of a company that had no activity other than the receipt of dividends from shares that it had purchased, it would ordinarily be regarded as carrying on a business, even if it did not actively manage its portfolio of investments, whereas an individual in the same circumstances would not necessarily be regarded as carrying on such a business.</sentence>
+<sentence id="s463">Aickin J cited Esquire Nominees [1972] HCA 32 ; 129 CLR 177 at 212 per Barwick CJ and 221 per Menzies J.</sentence>
+<sentence id="s464">Again, the statement is relevant only to the question whether ABB Zurich carried on a business.</sentence>
+<sentence id="s465">I accept that it did.</sentence>
+<sentence id="s466">140 Finally, the Commissioner relies on BHP v FCT 99 ATC 5193, in which Kenny J said (at [48]) that the taxpayer company carried on businesses which included holding shares in, and managing, its subsidiaries.</sentence>
+<sentence id="s467">Her Honour stated, citing Esquire Nominees [1972] HCA 32 ; 129 CLR 177 and Brookton [1981] HCA 28 ; 147 CLR 441, that the holding of shares in subsidiaries can of itself constitute the carrying of a business for the purposes of s 51(1) of the Act.</sentence>
+<sentence id="s468">141 Clearly ABB Zurich was carrying on a very substantial business in May/June 1996.</sentence>
+<sentence id="s469">That business can be described as one of managing its investments in, and the affairs of, some 1,000 subsidiaries around the world.</sentence>
+<sentence id="s470">It was far removed from the position of a passive investor, whether corporate or non-corporate.</sentence>
+<sentence id="s471">142 I return now to Ms Curran's evidence relating to the accounting treatment of dividends.</sentence>
+<sentence id="s472">Ms Curran's evidence, summarised at [78]---[87] above, is evidence both of the contents of Accounting Standards that applied in 1996, notably, AASB 1001 , and of the extent to which AASB 1001 reflected the ordinary business practices of companies in Australia at that time.</sentence>
+<sentence id="s473">Ms Curran's evidence is that the practice was to use the accrual basis of accounting in the recognition of dividend revenue.</sentence>
+<sentence id="s474">I refer, in particular, to paras 28 and 29 of her report set out at [82] above.</sentence>
+<sentence id="s475">143 Her evidence in this respect is consistent with evidence relating to the ABB Group.</sentence>
+<sentence id="s476">We know that ABB Australia took dividend income from its own subsidiaries into profit when the subsidiaries declared a dividend, and recognised its dividends to ABB Zurich when they were declared.</sentence>
+<sentence id="s477">It seems reasonable to infer on the basis of this evidence that ABB Zurich would similarly have treated dividends declared by its subsidiaries around the world as its income upon their being declared.</sentence>
+<sentence id="s478">I draw that inference.</sentence>
+<sentence id="s479">I also infer that ABB Zurich would cause its subsidiaries to declare dividends only at times when they were able to pay them out of profits, that is to say, at times when the subsidiaries were able lawfully to pay them.</sentence>
+<sentence id="s480">144 The Accounting Standards were relevant to the profit and loss account required by s 292 of the Corporations Law .</sentence>
+<sentence id="s481">That section, which was in force in 1996, required a company's directors to cause to be made out a profit and loss account for each accounting period that gave a "true and fair view of the company's profit or loss for that accounting period".</sentence>
+<sentence id="s482">Section 292 fell within Pt 3.6 ("Accounts") of the Corporations Law .</sentence>
+<sentence id="s483">Accounting standards were authorised to be made only for the purposes of Pt 3.6 or Pt 3.7 ("Audit") of the Corporations Law : s 285A.</sentence>
+<sentence id="s484">145 Business and accounting practice relevant to the preparation of the profit and loss account may be taken to have influenced and been influenced by the Accounting Standards.</sentence>
+<sentence id="s485">I do not think, however, that this necessarily deprives evidence of when a particular class of income is recognised for profit and loss account purposes of relevance to the question of when that class of income is regarded as having "come home".</sentence>
+<sentence id="s486">146 In Commissioner of Taxation v Citibank Ltd (1993) 44 FCR 434, Hill J, with whom Jenkinson and Einfeld JJ agreed, cautioned against a too ready reliance on business and accounting practice relating to preparation of the company's profit and loss account required in accordance with s 269(1) of the Companies (New South Wales) Code (at 443---446).</sentence>
+<sentence id="s487">His Honour stated (at 445---446):
+ 
+ With respect to his Honour, who presumably must be taken as having decided otherwise, I do not think that the accounting evidence in the present case establishes that the amount derived each year by applying the financial or actuarial method represents income in ordinary concepts.</sentence>
+<sentence id="s488">What that evidence establishes is that the outcome of the finance or actuarial method is an appropriate figure to be used in the preparation of the profit and loss account of the respondent for the year in accordance with the Companies (New South Wales) Code : s 269(1).</sentence>
+<sentence id="s489">If the relevant issue were the determination of the profit of the respondents, or whether that profit was to be seen as on revenue account, the evidence would clearly be most cogent.</sentence>
+<sentence id="s490">But it must be remembered that the role of the accounting standards is in the determination of profit so as to ensure that financial statements, required to be prepared by statute, give a true and fair view and not the determination of "income", notwithstanding that those two concepts may, as will be seen, sometimes overlap.</sentence>
+<sentence id="s491">Thus Professor Walker [an expert witness] states that he has been asked to advise as to the correct method of accounting in relation to the leases in question.</sentence>
+<sentence id="s492">But his affidavit and subsequent explanation makes it clear that he has answered that question by reference to the companies law for the purposes of which the relevant standards have been prepared and with which of course each of the respondents was obliged to comply.</sentence>
+<sentence id="s493">Mr Westworth's affidavit [regarding accounting practices] makes clear that he too has addressed himself to that issue, not relevant in the present proceedings.</sentence>
+<sentence id="s494">All that may be said is that if there be no impediment in the Act to bringing into account, in a case such as the present, a net profit figure as gross income, then that profit figure will need to be calculated in accordance with the accounting standards.</sentence>
+<sentence id="s495">The real issue for decision is rather a question of construction of the Act, namely, whether in a case such as the present, the scheme of the Act precludes treating as gross income the net profit calculated in accordance with the financial or actuarial method.</sentence>
+<sentence id="s496">
+
+ Hill J noted earlier, however, that accounting evidence was often relevant and often highly significant in resolving issues under the Act.</sentence>
+<sentence id="s497">He gave as an example the issue whether a cash receipts or accruals basis of accounting will give "a true reflex of the income derived by a taxpayer" (at 443, citing Carden's Case [1938] HCA 69 ; 63 CLR 108 --- his Honour also cited Arthur Murray [1965] HCA 58 ; 114 CLR 314).</sentence>
+<sentence id="s498">147 Ms Curran's evidence as to the ordinary business practice of companies in Australia in 1996 was that dividend revenue was recognised by "the application of the accrual basis of accounting as required in AASB 1001 ".</sentence>
+<sentence id="s499">On the specific question whether dividend income is derived when a parent company causes its subsidiaries to declare dividends, I see no basis for distinguishing as entirely irrelevant the preparation of profit and loss accounts for profit and loss purposes under the companies legislation.</sentence>
+<sentence id="s500">For profit and loss purposes, the question is whether the amount has been fully earned so as to be reflected in profit, whereas for income tax purposes the question is whether it has "come in" or "come home", but when it is recalled that a gain can come home in an "immediately realisable form" as well as in a "realised form", the distinction is not determinative of the question of relevance.</sentence>
+<sentence id="s501">148 Evidence of business and accounting practice in the present respect would, of course, be irrelevant if the terms of the Act made it so by themselves making it clear what the answer is, because evidence could not accepted that was inconsistent with the Act.</sentence>
+<sentence id="s502">In my view, however, the "open textured" nature of the terms "income" and "derived" in s 128B(1) invites evidence of business and accounting treatment of a specific class of income such as a company's derivation of dividend income from another company.</sentence>
+<sentence id="s503">149 In Commissioner of Taxation (Commonwealth) v Sun Alliance Investments Pty Limited (in liq) [2005] HCA 70 ; (2005) 225 CLR 488, the High Court in a joint judgment, drew attention to the fact that the meaning of the word "derived" in a particular provision could not be ascertained without at least some reference to the thing said to be derived (in that case, the profits of the company) (at [42]).</sentence>
+<sentence id="s504">In particular their Honours cautioned against conflating the concept of derivation of income with derivation of profits.</sentence>
+<sentence id="s505">Their Honours referred to the fact that for the most part the notion of "income" directs attention to "receipts" by a taxpayer.</sentence>
+<sentence id="s506">Their Honours further referred to the late Professor RW Parsons's work, Income Taxation in Australia (The Law Book Company, 1985) in which the learned author stated (at [2.10]): "For the most part, the law expresses an ordinary usage notion of derivation of a receipt".</sentence>
+<sentence id="s507">I do not think that their Honours or the late learned author were intending to exclude the possibility that business and accounting practice might demonstrate, in the case of the particular category of income, that it is derived at a time other than upon receipt.</sentence>
+<sentence id="s508">Arthur Murray [1965] HCA 58 ; 114 CLR 314 stands against the existence of any such universal rule.</sentence>
+<sentence id="s509">150 Generally speaking dividend income is derived when it is received.</sentence>
+<sentence id="s510">But generally speaking the shareholder is passive, does not control the declaration of the dividend, and is not carrying on a business of which the very act of declaring the dividend forms part.</sentence>
+<sentence id="s511">ABB Australia was wholly owned and controlled by ABB Zurich; ABB Zurich's business was that of managing its investments, and the affairs of, some 1,000 subsidiaries around the world including ABB Australia; the decision to declare the dividend and to defer payment of it was entirely that of ABB Zurich; immediately upon declaration of the dividend, ABB Australia became indebted to ABB Zurich for $49 million; and that indebtedness was an immediately realisable asset of ABB Zurich and was in fact immediately realised by it.</sentence>
+<sentence id="s512">151 I am required to decide only whether the dividend was derived by ABB Zurich when it was declared in the circumstances of this case.</sentence>
+<sentence id="s513">I do not think it is ignoring the separate legal personalities of the two companies to take all of the circumstances to which I have just referred into account.</sentence>
+<sentence id="s514">Those circumstances, supported by the evidence that ABB Australia and, I infer, ABB Zurich, recognised dividends at the time of declaration, and to less extent the general evidence of Ms Curran, lead me to conclude that ABB Zurich derived income consisting of the dividend when it was declared by ABB Australia on 30 May 1996.</sentence>
+<sentence id="s515">152 I do not think that Taxation Ruling TR98/1 is inconsistent with this conclusion.</sentence>
+<sentence id="s516">Paragraph 1 of the Ruling indicates that the Ruling is concerned with assessable income, and para 7 states that the Ruling does not apply to income that is subject to specific provisions of the Act.</sentence>
+<sentence id="s517">It gives as illustrations dividends assessable under s 44(1) or securities assessable under Div 16E of Pt III of the Act.</sentence>
+<sentence id="s518">Paragraph 7 adds that the Ruling "applies to income assessable under subsections 6-5(2) and (3) of the [ Income Tax Assessment Act 1997 (Cth)]".</sentence>
+<sentence id="s519">153 Income derived by a non-resident consisting of a dividend paid by a resident is not assessable income and is, moreover, the subject of specific provisions of the Act, namely, those found in Div 11A.</sentence>
+<sentence id="s520">Was the dividend income derived by ABB Zurich after 30 May 1996 but on or before 21 June 1996?</sentence>
+<sentence id="s521">
+ 
+154 Under this heading I consider an alternative way in which the Commissioner puts his case.</sentence>
+<sentence id="s522">I assume here, contrary to my conclusion above, that the only way in which ABB Zurich could derive income consisting of the dividend was by the payment of the dividend to it.</sentence>
+<sentence id="s523">ABB Australia did not pay the dividend to anyone prior to the payment it made on 21 June 1996.</sentence>
+<sentence id="s524">Accordingly, the question is whether ABB Australia paid the dividend to ABB Zurich on that date.</sentence>
+<sentence id="s525">155 On the assumption stated, in my view ABB Zurich derived income consisting of that dividend on 21 June 1996 because ABB Australia paid the dividend of $49 million to ABB Zurich on that date.</sentence>
+<sentence id="s526">In outline, my reasons for this conclusion are as follows:
+ 
+ (1) On 30 May 1996 ABB Zurich became entitled as against ABB Australia to a debitum in praesenti solvendum in futuro .</sentence>
+<sentence id="s527">(2) Notwithstanding the two equitable assignments, legal title to that debt remained in ABB Zurich throughout.</sentence>
+<sentence id="s528">(3) Associated with the equitable assignment from ABB Zurich to BZW, ABB Zurich undertook various contractual obligations (described below).</sentence>
+<sentence id="s529">(4) The arrangement was that the payment made on 21 June 1996: 
+ 
+ 
+ (a) should discharge the indebtedness $49 million of ABB Australia to ABB Zurich; 
+ (b) should discharge the various contractual obligations ABB Zurich had undertaken; and
+ (c) should be treated as the payment of a "dividend" to a shareholder.</sentence>
+<sentence id="s530">
+ 
+ 
+ (5) The arrangement was that the discharges referred to in (4) were effected by payment that ABB Australia was to be treated as having made to ABB Zurich and with which ABB Zurich was credited in its dealings with BZW and BAL.</sentence>
+<sentence id="s531">
+
+156 The only additional evidentiary material relevant to these issues to which I need to refer is that relating to the contractual obligations undertaken by ABB Zurich in association with its contract with BZW.</sentence>
+<sentence id="s532">157 I have previously described the First Offer (see [39]---[40] above).</sentence>
+<sentence id="s533">Following payment of the price of $48,816,995 by BZW to ABB Zurich on 5 June 1996, ABB Zurich remained under contractual obligations to BZW under the First Offer.</sentence>
+<sentence id="s534">The primary obligation was to "assign the Dividends to the Assignee" (cl 3.1), but ABB Zurich also gave warranties and representations to BZW in cl 4 as to its title to the shares in ABB Australia.</sentence>
+<sentence id="s535">It had undertaken to give a direction to ABB Australia to pay the dividend to such bank account as BZW or its Permitted Assign should designate (cl 5).</sentence>
+<sentence id="s536">BZW had a right to assign the benefit of the First Offer to any Permitted Assign, and, by implication, ABB Zurich was obliged to recognise and not to detract from the existence of that right or from any exercise of it by BZW.</sentence>
+<sentence id="s537">158 In addition to these personal obligations arising from the unilaterally executed First Offer document, ABB Zurich incurred obligations under two other associated documents.</sentence>
+<sentence id="s538">They were a Guarantee and Indemnity Agreement and an Offshore Custody Deed, each executed also on 3 June 1996 by both ABB Zurich and BZW.</sentence>
+<sentence id="s539">By the Guarantee and Indemnity Agreement, ABB Zurich guaranteed to BZW that if ABB Australia should not pay the sum of $49 million into such bank as should be designated by BZW, its successor in title, or a Permitted Assign, as the case might be, on 21 June 1996, ABB Zurich would on demand pay the amount together with interest as from 21 June 1996 until payment (cl 2.1).</sentence>
+<sentence id="s540">By cl 3, ABB Zurich agreed to indemnify BZW in respect of any non-payment of the dividend in the event that for any reason the guarantee in cl 2 should not be enforceable against ABB Zurich.</sentence>
+<sentence id="s541">By cl 10, ABB Zurich agreed that the benefits of the Guarantee and Indemnity Agreement were given to BZW, its successors in title and its Permitted Assigns.</sentence>
+<sentence id="s542">159 By the Offshore Custody Deed, ABB Zurich and BZW agreed generally to the effect that the First Offer document and the Guarantee and Indemnity Agreement were not to be brought into the United Kingdom or Australia, unless BZW was required to bring one or more of the documents into the United Kingdom for the purpose of enforcement, in which case ABB Zurich undertook to pay to BZW the amount of any stamp duty payable.</sentence>
+<sentence id="s543">160 In summary, while, from the time of payment of the purchase price of $48,816,995 by BZW to ABB Zurich on 5 June 1996, ABB Zurich held its legal right to be paid the dividend upon trust for BZW, and while it subsequently came to hold the debt on trust for BAL, ABB Zurich had ongoing contractual obligations to BZW for the non-performance of which it would be liable in damages to BZW.</sentence>
+<sentence id="s544">Payment by ABB Australia on 21 June 1996 discharged its indebtedness to ABB Zurich and the contractual obligations that ABB Zurich had undertaken 
+ 
+161 Clearly, the debt owed by ABB Australia to ABB Zurich was discharged.</sentence>
+<sentence id="s545">First, ABB Zurich directed ABB Australia to pay BAL.</sentence>
+<sentence id="s546">Second, ABB Australia's articles of association were amended (in effect by ABB Zurich) to require ABB Australia to pay the amount of any dividend to any person nominated in writing by the shareholder.</sentence>
+<sentence id="s547">(On discharge of the obligor's obligation to the assignor where there is nothing more than an equitable assignment, see Tolhurst, op cit [8.06].</sentence>
+<sentence id="s548">)
+ Was the discharge of the debt effected by payment to the assignor, that is to say, was the payment to BAL also payment to ABB Zurich?</sentence>
+<sentence id="s549">
+ 
+162 Section 6(1) of the Act defined "paid" in relation to dividends to include amounts "credited" or "distributed".</sentence>
+<sentence id="s550">The word "paid" is used in the Act in relation to dividends in both ss 44(1) and 128B(1)(b).</sentence>
+<sentence id="s551">The present question, however, is not one of the construction of the word as used in the Act.</sentence>
+<sentence id="s552">Rather, the question is whether, assuming that a dividend is derived only when it is paid, the dividend was paid to, and therefore derived by, ABB Zurich on 21 June 1996.</sentence>
+<sentence id="s553">This question involves general law notions of payment.</sentence>
+<sentence id="s554">163 In Charter Reinsurance Co Ltd v Fagan [1997] AC 313 Lord Mustill described the word "paid" as a "slippery" word (at 384).</sentence>
+<sentence id="s555">In the present case, it is not in dispute that the debtor, ABB Australia, paid the amount of its indebtedness on 21 June 1996: the question is whether the payment it then made to BAL was also payment to ABB Zurich.</sentence>
+<sentence id="s556">164 Essential to the notion of payment is the agreement of a creditor to accept something as payment.</sentence>
+<sentence id="s557">If a creditor directs the debtor to pay to a third party to whom the creditor has an obligation and the debtor does so, the payment to the third party is payment to the creditor because the creditor has consented to treat it as such.</sentence>
+<sentence id="s558">Take the ordinary case of the application of s 44(1) of the Act to the declaration of a final dividend payable immediately.</sentence>
+<sentence id="s559">Could it be seriously suggested that it was not paid to the shareholder because it was paid to a third party at the direction of the shareholder?</sentence>
+<sentence id="s560">It would have been paid to the shareholder even absent the inclusory definition of "paid" in s 6(1).</sentence>
+<sentence id="s561">165 Even a payment into a creditor's bank account is a payment to a third party, namely, the bank.</sentence>
+<sentence id="s562">The payment is made on the basis that the amount will be credited to the creditor's account with the bank, and we have no difficulty in saying that the debtor has "paid" the creditor.</sentence>
+<sentence id="s563">166 It is said that in order for payment to occur, there must be a monetary obligation, the offer of an act by the debtor in discharge of it, and an acceptance of that offer by the creditor; see Proctor C, Mann on the Legal Aspect of Money (6 th ed, Oxford University Press, 2005) at [7.04]; Brindle M and Cox R (eds), The Law of Bank Payments (3 rd ed, Sweet &amp; Maxwell, 2004) at [1-002] ff, and cases referred to in those works, including Libyan Arab Foreign Bank v Bankers Trust Co [1989] QB 728 at 764 per Staughton J; Goode RM, Payment Obligations in Commercial and Financial Transactions (London, Sweet &amp; Maxwell, 1983) at 11 ff; and Derham SR, The Law of Set-Off (3 rd ed, Oxford University Press, 2003) at [16.01] and fn 2.</sentence>
+<sentence id="s564">These conditions are satisfied in the present case.</sentence>
+<sentence id="s565">ABB Australia had a monetary obligation to ABB Zurich; these companies were in agreement that that monetary obligation should be discharged by ABB Australia's paying the amount to BAL.</sentence>
+<sentence id="s566">167 Cases on the statutory definition of "paid" similarly suggest that the word "paid", even standing alone, refers to the making over of a benefit that is accepted in discharge of the dividend debt.</sentence>
+<sentence id="s567">Brookton [1981] HCA 28 ; 147 CLR 441 concerned s 44(1)(a) of the Act (set out at [6] above).</sentence>
+<sentence id="s568">It will be recalled that s 44(1) referred to dividends paid to a shareholder.</sentence>
+<sentence id="s569">Mason J said (at 456) that the purpose of the extended definition of "paid" in s 6 is 
+ 
+ to guard against the possibility, perhaps remote , that the word "paid" might be so narrowly construed that dividends credited or distributed to shareholders in circumstances where they can no longer be revoked or rescinded by the company would not constitute assessable income in the hands of shareholders.</sentence>
+<sentence id="s570">
+ 
+ (Emphasis added.</sentence>
+<sentence id="s571">) 
+
+ Once declared, the present dividend could not be revoked.</sentence>
+<sentence id="s572">I do not construe the word "paid" in art 82(1) of ABB Australia's articles of association (see [51] above) or understand the general law notion of payment so narrowly that the effectuation of the dividend declared in favour of ABB Zurich by payment could take no form other than the transfer of money to it.</sentence>
+<sentence id="s573">168 In Jolly v Federal Commissioner of Taxation [1933] HCA 63 ; (1934) 50 CLR 131 ( Jolly ), Dixon J summarised the effect of two earlier High Court decisions on the description of income in s 14(b) of the Income Tax Assessment Act 1915-1921 (Cth), to include "dividends, interest, profits or bonus credited or paid to any member, shareholder, or debentureholder of a company which derives income from a source in Australia" (the two earlier cases were Webb v Federal Commissioner of Taxation [1922] HCA 27 ; (1922) 30 CLR 450 and James v Federal Commissioner of Taxation [1924] HCA 34 ; (1924) 34 CLR 404).</sentence>
+<sentence id="s574">His Honour stated that whatever else the provision might include, it extended to "all profits that a company allocated as such to all or some class of its members severally, and, under lawful authority appropriates in discharge of claims to which they are individually liable" (at 142).</sentence>
+<sentence id="s575">169 In Commissioner of Taxation (NSW) v Stevenson [1937] HCA 72 ; (1937) 59 CLR 80 ( Stevenson ), Evatt J stated in relation to s 11(b) of the Income Tax (Management) Act 1928 (NSW), which referred to "dividends ... credited, paid, or distributed to the member or shareholder", that the words "credited", "paid" and "distributed" were concerned with the manner in which a shareholder "receives the benefit of the dividend" (at 108).</sentence>
+<sentence id="s576">170 I acknowledge that Jolly [1933] HCA 63 ; 50 CLR 131 and Stevenson [1937] HCA 72 ; 59 CLR 80 concerned more than simply the word "paid", and that Jolly involved the discharge of indebtedness of the shareholder to the company.</sentence>
+<sentence id="s577">I suggest, however, that the general tenor of the passages quoted is that "payment" can take such form of satisfaction of the dividend debt as the shareholder may have agreed to accept, whether that agreement is contained in the company's articles of association or is external to them.</sentence>
+<sentence id="s578">171 The articles of association of ABB Australia provided (art 82(1)) that "the company in general meeting may from time to time declare dividends ... to be paid to members".</sentence>
+<sentence id="s579">Similarly, under the Corporations Law the company could lawfully pay a "dividend" to its members.</sentence>
+<sentence id="s580">As noted at [76] above, ABB Australia's financial statements for the year ended 31 December 1996 disclosed that it had paid a "dividend" of $49 million during that year, and the Directors' Report contained in its Annual Report for 1996 disclosed that ABB Australia paid that dividend to the "parent company" during that year.</sentence>
+<sentence id="s581">So long as ABB Australia is to be regarded as having paid a "dividend" rather than having made a different kind of payment, it must be found to have "paid" the amount of $49 million to ABB Zurich on 21 June 1996.</sentence>
+<sentence id="s582">172 In my view, in the alternative to my conclusion that ABB Zurich derived income consisting of the dividend when it was declared on 30 May 1996, it derived it on 21 June 1996 because it was then "paid" to ABB Zurich.</sentence>
+<sentence id="s583">It was paid to ABB Zurich because the payment ABB Australia made to BAL on that date (a) was, as between ABB Australia and ABB Zurich, the agreed mode of discharge of ABB Australia's monetary obligation to ABB Zurich, (b) was an amount with which ABB Zurich was to be credited in its dealings with BZW and BAL, and (c) was the payment of a "dividend", necessarily paid to a shareholder.</sentence>
+<sentence id="s584">173 The payment on 21 June 1996 benefited ABB Zurich personally to the extent that it discharged its contractual obligations referred to above.</sentence>
+<sentence id="s585">The Commissioner submits, however, that even if the payment was to ABB Zurich exclusively as trustee, this does not matter because ss 128B(1) and (4) impose withholding tax in respect of a derivation by a non-resident shareholder in its capacity as a trustee.</sentence>
+<sentence id="s586">The applicants, on the other hand, submit that withholding tax is imposed only where income consisting of a dividend is derived by, and paid to, a non-resident beneficially.</sentence>
+<sentence id="s587">174 The applicants rely on s 96 of the Act which provided that except as provided in the Act, a trustee was not liable as trustee to pay income tax upon the income of the trust estate.</sentence>
+<sentence id="s588">As noted earlier, s 6(1) of the Act defined "withholding tax" as a form of income tax.</sentence>
+<sentence id="s589">175 The first response to be made to the applicants' submission is that in its application to the present case, s 96 could signify only that a trustee is not liable to pay withholding tax in so far as the dividend in question was income of a trust estate.</sentence>
+<sentence id="s590">But the dividend of $49 million was not income of a trust estate.</sentence>
+<sentence id="s591">It was the income of ABB Zurich's shareholding in ABB Australia, and that shareholding was not held on trust.</sentence>
+<sentence id="s592">176 The expression "trust estate" was not defined in the Act, but the many references in Div 6 to "income of the trust estate" show that the trust estate and its income are distinct concepts, the income being the product of the estate.</sentence>
+<sentence id="s593">177 The applicants refer to ss 99, 99A and 102 as descriptions of the exceptional circumstances in which a trustee is made assessable and liable to pay tax on the income of the trust estate.</sentence>
+<sentence id="s594">They submit that the effect of ss 128A(3) and 128B(3)(d) and (e) is to ensure that "a corresponding principle" applies to withholding tax (they cite the Explanatory Memorandum for the Income Tax Assessment Bill (No 4) 1967 p 25).</sentence>
+<sentence id="s595">178 The Commissioner submits that when the Act speaks of derivation of income, it contemplates, unless there is an indication to the contrary, both a beneficial derivation and derivation by a person in the capacity of trustee.</sentence>
+<sentence id="s596">The Commissioner refers to s 25(1)'s reference to "the gross income derived directly or indirectly from all sources whether in or out of Australia".</sentence>
+<sentence id="s597">No one suggests that this expression does not encompass income derived by a person as a trustee.</sentence>
+<sentence id="s598">The Commissioner points out that in some instances the Act expressly refers to a derivation by a person in the capacity of trustee, eg s 102AG(4).</sentence>
+<sentence id="s599">179 The Commissioner's submission is that the express exclusion of income in the specific trust situations described in paras (d) and (e) of s 128B(3) indicates that income consisting of a dividend that is derived by a non-resident as trustee in other circumstances was intended to fall within s 128B.</sentence>
+<sentence id="s600">180 The applicants, on the other hand, rely, in support of their construction, on s 128A(3) (set out at [14]).</sentence>
+<sentence id="s601">They submit that the express inclusion of a beneficiary presently entitled to a dividend included in the income of a trust estate, suggests that where there is no beneficiary presently entitled, dividends included in the income of a trust estate are excluded from the withholding tax r&eacute;gime.</sentence>
+<sentence id="s602">181 The Commissioner responds to this particular submission by suggesting that the purpose of s 128A(3) is to catch a situation in which, while the beneficiary presently entitled is a non-resident, arrangements are made to ensure that the trustee is a resident: without the provision, ensuring that the trustee was a resident would provide a simple and straightforward means of escaping liability to withholding tax.</sentence>
+<sentence id="s603">182 Section 128B(4) imposes liability to pay income tax on "a person who derives income to which [s 128B] applies".</sentence>
+<sentence id="s604">The notion of income to which s 128B applies is given content by the earlier subsections of s 128B.</sentence>
+<sentence id="s605">Subsections (1), (2), (2A) and (2B) identify the classes of income to which s 128B applies and subs (3) identifies classes of income to which it does not apply.</sentence>
+<sentence id="s606">Subsection (3) has the appearance of excluding classes from subss (1), (2), (2A) and (2B), that is to say, of presupposing that the classes of income referred to in it would or could otherwise fall within the earlier subsections.</sentence>
+<sentence id="s607">183 The effect of s 128B(3)(d) and (e) (set out at [16]) above is that ss 128B(1) and (4) do not apply to income consisting of a dividend on which a trustee is assessable under ss 99, 99A or 102.</sentence>
+<sentence id="s608">184 I accept the Commissioner's submission that s 128A(3) does not tell against the approach outlined above.</sentence>
+<sentence id="s609">But for that provision, a non-resident beneficiary presently entitled would not be within subss (1), (2), (2A) or (2B) of s 128B where the trustee was a resident.</sentence>
+<sentence id="s610">The policy underlying s 128A(3) is, as the Commissioner submits, to prevent circumvention of the withholding tax r&eacute;gime by the interposition of a resident trustee between the resident company and the non-resident beneficiary presently entitled.</sentence>
+<sentence id="s611">185 In my opinion, ss 128B(1) and (4) apply to income consisting of a dividend derived by a person as trustee, unless one of the exceptions to be found in Div 11A applies.</sentence>
+<sentence id="s612">Thus, if a non-resident beneficiary is presently entitled to the dividend that is included in the income of a trust estate, it is the beneficiary rather than the trustee who is deemed to have derived the income (s 128A(3)).</sentence>
+<sentence id="s613">With this provision may be compared ss 97 and 98 within Div 6.</sentence>
+<sentence id="s614">186 Although I do not think s 96 could apply in the circumstances of this case because the dividend was not income of a trust estate, if I should be wrong in that view, I would hold that the r&eacute;gime of provisions in Div 11A to which I have referred provides, as an exception to s 96, for circumstances in which a trustee is liable as trustee to pay tax upon the income of a trust estate.</sentence>
+<sentence id="s615">187 The withholding tax r&eacute;gime applies, subject to the exclusions referred to, to income consisting of a dividend derived by a non-resident in the capacity of trustee.</sentence>
+<sentence id="s616">The Commissioner's submission that ABB Zurich could not, by an equitable assignment of the right to receive the dividend, avoid the consequence that it derived income consisting of the dividend when it was paid on 21 June 1996 
+ 
+188 The Commissioner submits, independently of his arguments recounted above, that ABB Zurich could not, by an equitable assignment of the dividend debt, avoid the consequence that it derived income consisting of a dividend.</sentence>
+<sentence id="s617">It is important to appreciate that for the purpose of considering this submission, one must assume, contrary to my view earlier expressed, that ABB Zurich did not derive income consisting of the dividend either (1) by virtue of the declaration of the dividend on 30 May 1996, or (2) by virtue of the amount of the dividend having been paid to ABB Zurich on 21 June 1996 (in the latter case either because the payment was not to ABB Zurich, or because, although it was, it was to ABB Zurich as trustee, and ss 128B(1) and (4) do not catch payment to a non-resident shareholder in the capacity of trustee).</sentence>
+<sentence id="s618">189 The Commissioner relies, first, on Norman [1963] HCA 21 ; 109 CLR 9 at 16 per Dixon CJ.</sentence>
+<sentence id="s619">190 In Norman , by deed dated 21 December 1956 a taxpayer purported to assign to his wife by way of gift, relevantly, all the interest, dividends and other income arising from two estates in which the taxpayer had a beneficial interest.</sentence>
+<sentence id="s620">Subsequently, company shares representing the taxpayer's interest in the estates were transferred to him and he was registered as the shareholder in respect of them.</sentence>
+<sentence id="s621">In the year of income ended 30 June 1958, after the shares had been transferred to the taxpayer, dividends were declared on them.</sentence>
+<sentence id="s622">The companies posted to the taxpayer cheques for the dividends drawn in his favour.</sentence>
+<sentence id="s623">He endorsed them when necessary and had them paid into his wife's bank account --- a practice of which his wife was aware.</sentence>
+<sentence id="s624">The companies had no notice of the deed.</sentence>
+<sentence id="s625">191 The amounts of the dividends were returned as income of the taxpayer's wife, but the Commissioner contended that they should have been returned as income of the taxpayer.</sentence>
+<sentence id="s626">192 In the passage (at 16) cited, Dixon CJ stated:
+ 
+ So far as the dividend is concerned, I think the structure of s 44 of the Income Tax and Social Services Contribution Assessment Act 1936-1958 makes it impossible that future undeclared dividends should be assigned by the shareholder so as to exclude him from liability to include the dividends when declared in his assessable income.</sentence>
+<sentence id="s627">Section 44 and the sections which follow are framed to deal specially with the case of members of companies who are entitled to dividends.</sentence>
+<sentence id="s628">The whole question of tax upon the profits of companies is dealt with specially in the Act, including the scheme relating to rebates.</sentence>
+<sentence id="s629">It would become impossible if a shareholder could without transferring his shares assign a future undeclared dividend so as to exclude the operation of the provisions.</sentence>
+<sentence id="s630">
+
+Menzies J (with whom Owen J agreed) made generally similar comments in relation to the policy underlying s 44(1).</sentence>
+<sentence id="s631">Menzies J stated (at 23): 
+ 
+ I am disposed to think that s 44(1) of the Income Tax and Social Services Contribution Assessment Act requires that when the taxpayer received the dividends paid to him by the companies in which he was a shareholder, as he did, that those dividends should form part of his assessable income.</sentence>
+<sentence id="s632">Of course, had he been a trustee of the shares the provisions of Div 6 of the Act would have applied.</sentence>
+<sentence id="s633">
+
+193 The Commissioner submits that the comments made by Dixon CJ and Menzies J in Norman have greater force in relation to the circumstances of the present case because the dividend was declared prior to the equitable assignments, whereas in Norman the deed of assignment preceded the declaration of the dividend.</sentence>
+<sentence id="s634">194 There are several differences between the facts of Norman and those of the present case.</sentence>
+<sentence id="s635">In Norman :
+ 
+&#8226; the equitable assignment was by way of gift whereas ABB Zurich contracted to sell for valuable consideration;
+ 
+&#8226; the equitable assignment was of prospective or hoped for future dividends, whereas in the present case the equitable assignments were of an existing debt arising from a declaration of dividend that had already occurred;
+ 
+&#8226; the terms of the declaration of dividends did not provide for a postponement of payment, whereas the terms of the declaration of the dividend in the present case provided for a deferral of payment from 30 May 1996 to 21 June 1996;
+ 
+&#8226; the companies drew the cheques for dividends already due and payable in favour of the taxpayer and posted them to him, and he endorsed them where required and paid them into his wife's bank account, whereas ABB Australia paid the amount of the dividend to BAL.</sentence>
+<sentence id="s636">The statement by Dixon CJ refers in terms only to assignment of "a future undeclared dividend".</sentence>
+<sentence id="s637">The statement by Menzies J refers to the fact that the dividends were paid to the shareholder.</sentence>
+<sentence id="s638">195 The facts in Norman which their Honours must be taken to have had in mind were extreme: the companies, having no notice of the earlier purported gift, drew the dividend cheques in favour of a shareholder and posted them to him.</sentence>
+<sentence id="s639">In substance, it was he who effected payment to his wife.</sentence>
+<sentence id="s640">196 The Commissioner relies on the following special characteristics of dividends:
+ 
+ (a) that the division of a company's profits among its shareholders by the declaration of a dividend is "an effectuation or realisation of the rights obtained by the acquisition of the share" (citing Chief Commissioner of State Revenue (NSW) v Dick Smith Electronics Holdings Pty Ltd [2005] HCA 3 ; (2005) 221 CLR 496 per Gleeson CJ and Callinan J at [25]---[26], quoting from the judgment of Dixon J in Archibald Howie Pty Ltd v Commissioner of Stamp Duties (NSW) [1948] HCA 28 ; (1948) 77 CLR 143 at 153);
+ (b) that in the winding up of a company, debts owed by the company to its members in their capacity as members, including debts arising from the declaration of a dividend, are postponed until all debts owed to, or claims made by, persons other than as members of the company have been satisfied: Corporations Act 2001 (Cth) s 563A (in 1996 the comparable provision was s 563A of the Corporations Law , which was in identical terms);
+ (c) on an assignment of a debt created by the declaration of a dividend, the debt remains subject to the "equity" of the ordinary creditors proving in priority (the Commissioner cites Re Harry Simpson &amp; Company Pty Ltd and Companies Act 1936 [1964-5] NSWR 603 ( Simpson )).</sentence>
+<sentence id="s641">
+
+197 The applicants submit that s 44 of the Act cannot determine the capacity of a taxpayer to assign income (while Norman [1963] HCA 21 ; 109 CLR 9 concerned s 44, the Commissioner's submission expressly stated that it proceeded on the basis that s 128B and s 44(1) "are to be construed consistently").</sentence>
+<sentence id="s642">198 The applicants further submit:
+ 
+ The "special characteristics" relied on by the Respondent do not subject the rights in respect of debts arising on the declaration of dividends, or in respect of the future property being the expected dividends, to any different consequences in the case of an assignment.</sentence>
+<sentence id="s643">The assignee, of course, takes subject to any disabilities on the subject matter of the assignment flowing from the relationship between the assignor and the company, but this does not preclude assignment nor its tax consequences.</sentence>
+<sentence id="s644">It is not to the point that the "source" of the dividend is "an effectuation or realisation of the rights obtained by the acquisition of the share;" the same could be said in respect of interest and principal, rents and land or royalty and intellectual property.</sentence>
+<sentence id="s645">
+
+199 It is not in dispute that the declaration of the dividend gave rise to a debt.</sentence>
+<sentence id="s646">I do not understand that there is any dispute that s 12 of the Conveyancing Act 1919 (NSW) or the equivalent United Kingdom provision, s 136 of the Law of Property Act 1925 (UK), made the debt assignable at law "subject to equities having priority over the assignee".</sentence>
+<sentence id="s647">The assignment in the present case was not under the statute, but it is useful to note that if it had been, there would, in my opinion, have been no "equity" in favour of the Commissioner in respect of withholding tax for three reasons.</sentence>
+<sentence id="s648">First, I do not think that the liability of a non-resident to pay withholding tax is an "equity" for present purposes.</sentence>
+<sentence id="s649">Second, ABB Zurich was not liable to pay withholding tax prior to the assignment, and so the assignment could not take effect "subject to" that supposed equity.</sentence>
+<sentence id="s650">Third, the "subject to equities" qualification relates to the position of the assignee (BAL in the present case) not that of the assignor (ABB Zurich in the present case).</sentence>
+<sentence id="s651">200 The Commissioner's present submission draws attention to certain special features of a dividend debt, and Simpson [1964-65] NSWR 603 exemplifies them.</sentence>
+<sentence id="s652">In that case, a company was indebted to shareholders who were trustees of twelve trusts for &#8356;34,471.18s.1d on account of dividends that had been declared.</sentence>
+<sentence id="s653">The debt was recorded in the company's books.</sentence>
+<sentence id="s654">The trustees notified the company that in accordance with the trusts, a person had elected to become the beneficiary of each trust fund.</sentence>
+<sentence id="s655">Accordingly, the company transferred the amount of its indebtedness to the trustees into an account in the name of the beneficiary.</sentence>
+<sentence id="s656">201 Upon liquidation of the company, the beneficiary sought to prove for the debt of &#8356;34,471.18s.1d.</sentence>
+<sentence id="s657">The liquidator rejected the proof on the basis that s 200(1)(g) of the Companies Act 1936 (NSW) applied.</sentence>
+<sentence id="s658">The effect of that provision was that on a winding up a debt owed by the company to a person in the person's capacity as a member of the company, such as by way of dividend, was, relevantly, deemed not to be a debt payable to that member (cf the postponement now provided for in s 563A of the Corporations Act 2001 (Cth) referred to at [196] above).</sentence>
+<sentence id="s659">202 The beneficiary submitted (1) that the sum owed to her was not by way of dividend, and (2) that she was not a member but an assignee from a member.</sentence>
+<sentence id="s660">203 As to the first submission, Jacobs J held that the debt retained its nature of a dividend.</sentence>
+<sentence id="s661">This holding suggests that if ABB Zurich had assigned the present dividend debt to BAL by a statutory assignment, the amount of the resulting indebtedness of ABB Australia to BAL would be "by way of dividend" for the purposes of the present s 563A.</sentence>
+<sentence id="s662">This holding by his Honour does not assist the Commissioner vis-&agrave;-vis ABB Zurich.</sentence>
+<sentence id="s663">204 As to the second submission, Jacobs J held that although the dividend debt, and not the underlying shares, had been transferred, so that the debt had become owned by a non-member,
+ 
+&#8226; the assignment was subject to the equities attaching to the original debt;
+ 
+&#8226; the word "equities" in s 12 of the Conveyancing Act 1919 (NSW) bore a wide meaning;
+ 
+&#8226; the "subject to equities" provision meant that the assignee could not be in a better position than the assignor had been prior to the assignment; and
+ 
+&#8226; under this "broad principle" the beneficiary could be in no better position than the assignor trustees had been.</sentence>
+<sentence id="s664">Accordingly, the assignee-beneficiary could not avoid the operation of s 200(1)(g) by pointing to the fact that she was not a member.</sentence>
+<sentence id="s665">205 As I indicated earlier, I do not think that this "subject to equities" provision assists the Commissioner in establishing that ABB Zurich derived income consisting of the dividend.</sentence>
+<sentence id="s666">206 I am not persuaded to accept the Commissioner's third submission.</sentence>
+<sentence id="s667">The position of ABB Australia 
+ 
+207 It was not submitted that, if I should find ABB Zurich liable to pay withholding tax on the amount of the dividend, ABB Australia was not answerable under s 221YL(1)(a) of the Act (set out at [21] above).</sentence>
+<sentence id="s668">The amount that ABB Australia was required to deduct from the dividend was 15 percent of the amount of the dividend, that is to say, $7,350,000.</sentence>
+<sentence id="s669">Because ABB Australia "refused or failed to make" the required deduction, it is liable to pay to the Commissioner an amount equal to the unpaid withholding tax plus an amount equal to any unpaid additional tax: see s 122YQ(1) of the Act (set out at [25] above).</sentence>
+<sentence id="s670">CONCLUSION 
+ 
+ 208 The application should be dismissed with costs.</sentence>
+<sentence id="s671">I certify that the preceding two hundred and eight (208) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s672">Associate:
+
+Dated: 20 July 2007
+
+
+ Counsel for the First and Second Applicants: Mr A H Slater QC and Mr M Richmond 
+ 
+ Solicitor for the First and Second First and Second Applicants: Middletons 
+ 
+ Counsel for the Respondent: Mr B J Sullivan SC and Mr J H Momsen 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ Dates of Hearing: 5, 6 September 2006 
+ 
+ Date of Judgment: 20 July 2007 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1063.html 
+ 
+ </sentence>
+</sentences>
+</case>

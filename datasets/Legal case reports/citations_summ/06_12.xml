@@ -1,0 +1,528 @@
+<?xml version="1.0"?>
+<case>
+<name>Rush v Commissioner of Police [2006] FCA 12 (23 January 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/12.html</AustLII>
+<citphrases>
+<citphrase id="cp0.0" type=cited from="[2005] FCAFC 256">admiralty and maritime</citphrase>
+<citphrase id="cp0.1" type=cited from="[2005] FCAFC 256">shipping and navigation</citphrase>
+<citphrase id="cp0.2" type=cited from="[2005] FCAFC 256">compulsory pilotage</citphrase>
+<citphrase id="cp0.3" type=cited from="[2005] FCAFC 256">construction and interpretation of s 410b of navigation act 1912 (cth) and ss 85 and 86 of the ports corporatisation and waterways management act 1995 (nsw)</citphrase>
+<citphrase id="cp0.4" type=cited from="[2005] FCAFC 256">shipowner liable for fault of pilot, though pilot not properly licensed. trade practices act</citphrase>
+<citphrase id="cp0.5" type=cited from="[2005] FCAFC 256">no reliance by master of ship on conduct of the pilot contract</citphrase>
+<citphrase id="cp0.6" type=cited from="[2005] FCAFC 256">formation</citphrase>
+<citphrase id="cp0.7" type=cited from="[2005] FCAFC 256">no contract between shipowner and pilotage service provider tort</citphrase>
+<citphrase id="cp0.8" type=cited from="[2005] FCAFC 256">contributory negligence</citphrase>
+<citphrase id="cp0.9" type=cited from="[2005] FCAFC 256">no relevant causal link between conduct of the plaintiff and the damage</citphrase>
+<citphrase id="cp1.0" type=cited from="[2005] NSWCA 219">trespass</citphrase>
+<citphrase id="cp1.1" type=cited from="[2005] NSWCA 219">trespass to land</citphrase>
+<citphrase id="cp1.2" type=cited from="[2005] NSWCA 219">trespass to goods</citphrase>
+<citphrase id="cp1.3" type=cited from="[2005] NSWCA 219">lien agreement</citphrase>
+<citphrase id="cp1.4" type=cited from="[2005] NSWCA 219">dispute over amount of debt</citphrase>
+<citphrase id="cp1.5" type=cited from="[2005] NSWCA 219">seizure of chattels</citphrase>
+<citphrase id="cp1.6" type=cited from="[2005] NSWCA 219">police in attendance</citphrase>
+<citphrase id="cp1.7" type=cited from="[2005] NSWCA 219">police duty to prevent a breach of the peace</citphrase>
+<citphrase id="cp1.8" type=cited from="[2005] NSWCA 219">non-interference in a civil dispute</citphrase>
+<citphrase id="cp1.9" type=cited from="[2005] NSWCA 219">trespass by arresting police officers</citphrase>
+<citphrase id="cp1.10" type=cited from="[2005] NSWCA 219">invitation of police onto premises</citphrase>
+<citphrase id="cp1.11" type=cited from="[2005] NSWCA 219">implied licence to enter</citphrase>
+<citphrase id="cp1.12" type=cited from="[2005] NSWCA 219">aiding and abetting acts of trespass</citphrase>
+<citphrase id="cp1.13" type=cited from="[2005] NSWCA 219">negligent failure to prevent a breach of the peace</citphrase>
+<citphrase id="cp1.14" type=cited from="[2005] NSWCA 219">assault</citphrase>
+<citphrase id="cp1.15" type=cited from="[2005] NSWCA 219">common assault</citphrase>
+<citphrase id="cp1.16" type=cited from="[2005] NSWCA 219">assault occasioning actual bodily harm</citphrase>
+<citphrase id="cp1.17" type=cited from="[2005] NSWCA 219">lawfulness of arrest</citphrase>
+<citphrase id="cp1.18" type=cited from="[2005] NSWCA 219">s352 crimes act 1900</citphrase>
+<citphrase id="cp1.19" type=cited from="[2005] NSWCA 219">legislative history of s352</citphrase>
+<citphrase id="cp1.20" type=cited from="[2005] NSWCA 219">interpretation of ss352(1)(b) and s352(2)(a)</citphrase>
+<citphrase id="cp1.21" type=cited from="[2005] NSWCA 219">reasonable suspicion</citphrase>
+<citphrase id="cp1.22" type=cited from="[2005] NSWCA 219">occupier's right to protect property</citphrase>
+<citphrase id="cp1.23" type=cited from="[2005] NSWCA 219">serious indictable offence</citphrase>
+<citphrase id="cp1.24" type=cited from="[2005] NSWCA 219">notification of grounds of arrest</citphrase>
+<citphrase id="cp1.25" type=cited from="[2005] NSWCA 219">false imprisonment</citphrase>
+<citphrase id="cp1.26" type=cited from="[2005] NSWCA 219">dismissal of assault charge</citphrase>
+<citphrase id="cp1.27" type=cited from="[2005] NSWCA 219">malicious prosecution</citphrase>
+<citphrase id="cp1.28" type=cited from="[2005] NSWCA 219">exclusion of evidence. negligence</citphrase>
+<citphrase id="cp1.29" type=cited from="[2005] NSWCA 219">performance of police duties</citphrase>
+<citphrase id="cp1.30" type=cited from="[2005] NSWCA 219">whether duty of care to prevent breach of the peace (d)</citphrase>
+<citphrase id="cp2.0" type=cited from="[2005] HCA 12">d'orta-ekenaike v victoria legal aid  legal practitioners</citphrase>
+<citphrase id="cp2.1" type=cited from="[2005] HCA 12">negligence</citphrase>
+<citphrase id="cp2.2" type=cited from="[2005] HCA 12">immunity from suit</citphrase>
+<citphrase id="cp2.3" type=cited from="[2005] HCA 12">applicant sought legal assistance from first respondent, a statutory corporation deemed to be a firm of solicitors, in defence of criminal prosecution</citphrase>
+<citphrase id="cp2.4" type=cited from="[2005] HCA 12">first respondent retained second respondent, a barrister, to appear for applicant at committal proceedings</citphrase>
+<citphrase id="cp2.5" type=cited from="[2005] HCA 12">applicant pleaded guilty at committal proceedings but subsequently pleaded not guilty and stood trial</citphrase>
+<citphrase id="cp2.6" type=cited from="[2005] HCA 12">evidence of guilty plea led at first trial</citphrase>
+<citphrase id="cp2.7" type=cited from="[2005] HCA 12">applicant convicted but verdict quashed on appeal and new trial ordered</citphrase>
+<citphrase id="cp2.8" type=cited from="[2005] HCA 12">applicant acquitted on retrial</citphrase>
+<citphrase id="cp2.9" type=cited from="[2005] HCA 12">respondents alleged to have been negligent in advising applicant to plead guilty at committal</citphrase>
+<citphrase id="cp2.10" type=cited from="[2005] HCA 12">advice allegedly tendered at a conference two days prior to committal proceeding and at a further conference on day of committal proceeding</citphrase>
+<citphrase id="cp2.11" type=cited from="[2005] HCA 12">whether advocate's immunity available to respondents</citphrase>
+<citphrase id="cp2.12" type=cited from="[2005] HCA 12">whether advocate's immunity applied in respect of advice allegedly given in conference.  legal practitioners</citphrase>
+<citphrase id="cp2.13" type=cited from="[2005] HCA 12">immunity from suit</citphrase>
+<citphrase id="cp2.14" type=cited from="[2005] HCA 12">legal profession practice act 1958 (vic)</citphrase>
+<citphrase id="cp2.15" type=cited from="[2005] HCA 12">barristers liable for negligence to same extent as solicitor as at 1891</citphrase>
+<citphrase id="cp2.16" type=cited from="[2005] HCA 12">extent of solicitor's liability for negligence in 1891.  courts</citphrase>
+<citphrase id="cp2.17" type=cited from="[2005] HCA 12">judicial process</citphrase>
+<citphrase id="cp2.18" type=cited from="[2005] HCA 12">judicial process as an aspect of government</citphrase>
+<citphrase id="cp2.19" type=cited from="[2005] HCA 12">nature of the judicial process</citphrase>
+<citphrase id="cp2.20" type=cited from="[2005] HCA 12">the need for finality of judicial determination</citphrase>
+<citphrase id="cp2.21" type=cited from="[2005] HCA 12">whether advocate's immunity necessary to ensure finality of judicial process.  courts</citphrase>
+<citphrase id="cp2.22" type=cited from="[2005] HCA 12">abuse of process</citphrase>
+<citphrase id="cp2.23" type=cited from="[2005] HCA 12">whether rules about abuse of process provide sufficient satisfaction of the finality principle</citphrase>
+<citphrase id="cp2.24" type=cited from="[2005] HCA 12">nature of client's complaint</citphrase>
+<citphrase id="cp2.25" type=cited from="[2005] HCA 12">whether distinction exists between civil and criminal proceedings</citphrase>
+<citphrase id="cp2.26" type=cited from="[2005] HCA 12">whether distinction to be drawn between challenging the final outcome of litigation and challenging an intermediate outcome.  high court</citphrase>
+<citphrase id="cp2.27" type=cited from="[2005] HCA 12">whether giannarelli v wraith (1988) 165 clr 543 should be reconsidered</citphrase>
+<citphrase id="cp2.28" type=cited from="[2005] HCA 12">relevance of statutory changes since giannarelli v wraith</citphrase>
+<citphrase id="cp2.29" type=cited from="[2005] HCA 12">relevance of developments in common law in england and wales</citphrase>
+<citphrase id="cp2.30" type=cited from="[2005] HCA 12">relevance of experience in other jurisdictions.  courts</citphrase>
+<citphrase id="cp2.31" type=cited from="[2005] HCA 12">practice and procedure</citphrase>
+<citphrase id="cp2.32" type=cited from="[2005] HCA 12">summary determination of action without trial</citphrase>
+<citphrase id="cp2.33" type=cited from="[2005] HCA 12">whether claim revealed an arguable cause of action.</citphrase>
+<citphrase id="cp3.0" type=cited from="[2005] TASSC 11">torts</citphrase>
+<citphrase id="cp3.1" type=cited from="[2005] TASSC 11">negligence</citphrase>
+<citphrase id="cp3.2" type=cited from="[2005] TASSC 11">essentials of action for negligence</citphrase>
+<citphrase id="cp3.3" type=cited from="[2005] TASSC 11">duty of care</citphrase>
+<citphrase id="cp3.4" type=cited from="[2005] TASSC 11">special relationships and duties</citphrase>
+<citphrase id="cp3.5" type=cited from="[2005] TASSC 11">police officers</citphrase>
+<citphrase id="cp3.6" type=cited from="[2005] TASSC 11">complainant reporting threat of murder and suicide</citphrase>
+<citphrase id="cp3.7" type=cited from="[2005] TASSC 11">whether duty to prevent her murder by obtaining and executing arrest warrant</citphrase>
+<citphrase id="cp3.8" type=cited from="[2005] TASSC 11">whether duty to prevent suicide of murderer by obtaining and executing arrest warrant before murder.</citphrase>
+<citphrase id="cp4.0" type=cited from="[2004] FCA 1360">practice and procedure</citphrase>
+<citphrase id="cp4.1" type=cited from="[2004] FCA 1360">preliminary discovery</citphrase>
+<citphrase id="cp4.2" type=cited from="[2004] FCA 1360">federal court rules order 15a rule 6</citphrase>
+<citphrase id="cp4.3" type=cited from="[2004] FCA 1360">whether reasonable cause to believe that applicant has or may have right to obtain relief</citphrase>
+<citphrase id="cp4.4" type=cited from="[2004] FCA 1360">asserted claims for breach of warranty, misleading or deceptive conduct and breach of fiduciary duty</citphrase>
+<citphrase id="cp4.5" type=cited from="[2004] FCA 1360">low threshold requirement for reasonable belief, however belief must amount to more than a mere possibility or speculation</citphrase>
+<citphrase id="cp4.6" type=cited from="[2004] FCA 1360">entitlement to preliminary discovery in order for applicant to ascertain defences available to respondent</citphrase>
+<citphrase id="cp4.7" type=cited from="[2004] FCA 1360">representations made as to future financial circumstances</citphrase>
+<citphrase id="cp4.8" type=cited from="[2004] FCA 1360">onus on respondent to show reasonableness of future representations</citphrase>
+<citphrase id="cp4.9" type=cited from="[2004] FCA 1360">preliminary discovery appropriate in relation to future representations</citphrase>
+<citphrase id="cp4.10" type=cited from="[2004] FCA 1360">application for preliminary discovery otherwise denied trade practices</citphrase>
+<citphrase id="cp4.11" type=cited from="[2004] FCA 1360">misleading or deceptive conduct</citphrase>
+<citphrase id="cp4.12" type=cited from="[2004] FCA 1360">representations as to future financial circumstances</citphrase>
+<citphrase id="cp4.13" type=cited from="[2004] FCA 1360">burden of proof</citphrase>
+<citphrase id="cp5.0" type=cited from="[2004] NSWCA 92">negligence</citphrase>
+<citphrase id="cp5.1" type=cited from="[2004] NSWCA 92">whether duty of care to prisoner who was incarcerated and in course of incarceration suffered post-traumatic stress disorder where incarceration prolonged by reason of failure of police and dpp to invoke well established fast-track arrangements for laboratory processing for detection of drugs</citphrase>
+<citphrase id="cp5.2" type=cited from="[2004] NSWCA 92">extent of immunity of police</citphrase>
+<citphrase id="cp5.3" type=cited from="[2004] NSWCA 92">extent of immunity of dpp in relation to court proceedings involving the prisoner</citphrase>
+<citphrase id="cp5.4" type=cited from="[2004] NSWCA 92">relevance of breach of prosecutorial guidelines.</citphrase>
+<citphrase id="cp7.0" type=cited from="[2003] FCAFC 150">disqualification of judge for interest or bias</citphrase>
+<citphrase id="cp7.1" type=cited from="[2003] FCAFC 150">conduct of retrial</citphrase>
+<citphrase id="cp7.2" type=cited from="[2003] FCAFC 150">whether judge on first trial disqualified from hearing retrial torts</citphrase>
+<citphrase id="cp7.3" type=cited from="[2003] FCAFC 150">misfeasance in public office</citphrase>
+<citphrase id="cp7.4" type=cited from="[2003] FCAFC 150">targeted malice</citphrase>
+<citphrase id="cp7.5" type=cited from="[2003] FCAFC 150">requirement of specific intent to cause harm</citphrase>
+<citphrase id="cp7.6" type=cited from="[2003] FCAFC 150">requirement of abuse of power</citphrase>
+<citphrase id="cp7.7" type=cited from="[2003] FCAFC 150">knowingly acting in excess of statutory power</citphrase>
+<citphrase id="cp7.8" type=cited from="[2003] FCAFC 150">whether finding of knowledge open on evidence</citphrase>
+<citphrase id="cp8.0" type=cited from="[2003] HCA 6">re minister for immigration and multicultural affairs; ex parte lam  administrative law</citphrase>
+<citphrase id="cp8.1" type=cited from="[2003] HCA 6">application for certiorari and prohibition</citphrase>
+<citphrase id="cp8.2" type=cited from="[2003] HCA 6">procedural fairness</citphrase>
+<citphrase id="cp8.3" type=cited from="[2003] HCA 6">cancellation of applicant's visa for failure to pass character test under s 501(6) of migration act 1958 (cth)</citphrase>
+<citphrase id="cp8.4" type=cited from="[2003] HCA 6">decision maker informed applicant that it would seek information from third party but then did not do so</citphrase>
+<citphrase id="cp8.5" type=cited from="[2003] HCA 6">whether applicant denied procedural fairness</citphrase>
+<citphrase id="cp8.6" type=cited from="[2003] HCA 6">legitimate expectation.</citphrase>
+<citphrase id="cp9.0" type=cited from="[2002] HCA 54">graham barclay oysters pty ltd v ryan  negligence</citphrase>
+<citphrase id="cp9.1" type=cited from="[2002] HCA 54">local authority</citphrase>
+<citphrase id="cp9.2" type=cited from="[2002] HCA 54">duty of care</citphrase>
+<citphrase id="cp9.3" type=cited from="[2002] HCA 54">harvesting of contaminated oysters</citphrase>
+<citphrase id="cp9.4" type=cited from="[2002] HCA 54">oysters causing hepatitis a infection</citphrase>
+<citphrase id="cp9.5" type=cited from="[2002] HCA 54">knowledge of risk on part of officers of the authority</citphrase>
+<citphrase id="cp9.6" type=cited from="[2002] HCA 54">failure by the authority to exercise statutory powers to control water pollution</citphrase>
+<citphrase id="cp9.7" type=cited from="[2002] HCA 54">reasonableness</citphrase>
+<citphrase id="cp9.8" type=cited from="[2002] HCA 54">class to whom duty owed when exercising power to control pollution</citphrase>
+<citphrase id="cp9.9" type=cited from="[2002] HCA 54">causation</citphrase>
+<citphrase id="cp9.10" type=cited from="[2002] HCA 54">whether minimisation of pollution and thus risk of viral contamination would have prevented infection.   negligence</citphrase>
+<citphrase id="cp9.11" type=cited from="[2002] HCA 54">oyster grower and distributor</citphrase>
+<citphrase id="cp9.12" type=cited from="[2002] HCA 54">breach of duty of care</citphrase>
+<citphrase id="cp9.13" type=cited from="[2002] HCA 54">harvesting of contaminated oysters</citphrase>
+<citphrase id="cp9.14" type=cited from="[2002] HCA 54">oysters causing hepatitis a infection</citphrase>
+<citphrase id="cp9.15" type=cited from="[2002] HCA 54">failure to refrain from harvesting and selling oysters during relevant period.  negligence</citphrase>
+<citphrase id="cp9.16" type=cited from="[2002] HCA 54">the state</citphrase>
+<citphrase id="cp9.17" type=cited from="[2002] HCA 54">duty of care</citphrase>
+<citphrase id="cp9.18" type=cited from="[2002] HCA 54">harvesting of contaminated oysters</citphrase>
+<citphrase id="cp9.19" type=cited from="[2002] HCA 54">oysters causing hepatitis a infection</citphrase>
+<citphrase id="cp9.20" type=cited from="[2002] HCA 54">knowledge of risk on part of officers of the state</citphrase>
+<citphrase id="cp9.21" type=cited from="[2002] HCA 54">failure to exercise general statutory powers</citphrase>
+<citphrase id="cp9.22" type=cited from="[2002] HCA 54">relevance of state "control" of industry</citphrase>
+<citphrase id="cp9.23" type=cited from="[2002] HCA 54">reasonableness</citphrase>
+<citphrase id="cp9.24" type=cited from="[2002] HCA 54">justiciability</citphrase>
+<citphrase id="cp9.25" type=cited from="[2002] HCA 54">failure to exercise specific statutory power of closure</citphrase>
+<citphrase id="cp9.26" type=cited from="[2002] HCA 54">whether power enlivened</citphrase>
+<citphrase id="cp9.27" type=cited from="[2002] HCA 54">class to whom duty owed when exercising power.  practice and procedure</citphrase>
+<citphrase id="cp9.28" type=cited from="[2002] HCA 54">federal court of australia</citphrase>
+<citphrase id="cp9.29" type=cited from="[2002] HCA 54">representative action</citphrase>
+<citphrase id="cp9.30" type=cited from="[2002] HCA 54">declaration of legal right concerning individual entitlement to recovery</citphrase>
+<citphrase id="cp9.31" type=cited from="[2002] HCA 54">whether the making of such a declaration inappropriate or beyond power</citphrase>
+<citphrase id="cp9.32" type=cited from="[2002] HCA 54">whether statute and nature of representative proceeding sustain a declaratory order.</citphrase>
+<citphrase id="cp10.0" type=cited from="[2002] HCA 35">tame v new south wales  negligence</citphrase>
+<citphrase id="cp10.1" type=cited from="[2002] HCA 35">duty of care</citphrase>
+<citphrase id="cp10.2" type=cited from="[2002] HCA 35">psychiatric injury</citphrase>
+<citphrase id="cp10.3" type=cited from="[2002] HCA 35">motor accident</citphrase>
+<citphrase id="cp10.4" type=cited from="[2002] HCA 35">clerical error by police constable in recording driver's blood alcohol content</citphrase>
+<citphrase id="cp10.5" type=cited from="[2002] HCA 35">psychotic depressive illness caused by driver learning of mistake</citphrase>
+<citphrase id="cp10.6" type=cited from="[2002] HCA 35">whether duty of care owed by police constable to driver</citphrase>
+<citphrase id="cp10.7" type=cited from="[2002] HCA 35">whether psychiatric injury reasonably foreseeable</citphrase>
+<citphrase id="cp10.8" type=cited from="[2002] HCA 35">whether sole determinant of duty</citphrase>
+<citphrase id="cp10.9" type=cited from="[2002] HCA 35">other control mechanisms for imposition of duty</citphrase>
+<citphrase id="cp10.10" type=cited from="[2002] HCA 35">normal fortitude</citphrase>
+<citphrase id="cp10.11" type=cited from="[2002] HCA 35">sudden shock</citphrase>
+<citphrase id="cp10.12" type=cited from="[2002] HCA 35">direct perception</citphrase>
+<citphrase id="cp10.13" type=cited from="[2002] HCA 35">immediate aftermath.  annetts v australian stations pty limited  negligence</citphrase>
+<citphrase id="cp10.14" type=cited from="[2002] HCA 35">duty of care</citphrase>
+<citphrase id="cp10.15" type=cited from="[2002] HCA 35">psychiatric injury</citphrase>
+<citphrase id="cp10.16" type=cited from="[2002] HCA 35">death of child</citphrase>
+<citphrase id="cp10.17" type=cited from="[2002] HCA 35">assurances of constant supervision of child made by employer to parents</citphrase>
+<citphrase id="cp10.18" type=cited from="[2002] HCA 35">whether duty of care owed by employer of child to parents</citphrase>
+<citphrase id="cp10.19" type=cited from="[2002] HCA 35">whether psychiatric injury reasonably foreseeable</citphrase>
+<citphrase id="cp10.20" type=cited from="[2002] HCA 35">whether sole determinant of duty</citphrase>
+<citphrase id="cp10.21" type=cited from="[2002] HCA 35">other control mechanisms for imposition of duty</citphrase>
+<citphrase id="cp10.22" type=cited from="[2002] HCA 35">normal fortitude</citphrase>
+<citphrase id="cp10.23" type=cited from="[2002] HCA 35">sudden shock</citphrase>
+<citphrase id="cp10.24" type=cited from="[2002] HCA 35">direct perception</citphrase>
+<citphrase id="cp10.25" type=cited from="[2002] HCA 35">immediate aftermath.</citphrase>
+<citphrase id="cp14.0" type=cited from="[2001] HCA 59">sullivan v moody  thompson v connon  torts</citphrase>
+<citphrase id="cp14.1" type=cited from="[2001] HCA 59">negligence</citphrase>
+<citphrase id="cp14.2" type=cited from="[2001] HCA 59">duty of care</citphrase>
+<citphrase id="cp14.3" type=cited from="[2001] HCA 59">appellants suspected of sexually abusing their children</citphrase>
+<citphrase id="cp14.4" type=cited from="[2001] HCA 59">alleged negligence of respondents in investigating and reporting on allegations</citphrase>
+<citphrase id="cp14.5" type=cited from="[2001] HCA 59">appellants claimed that they suffered shock, distress, psychiatric injury, and consequential personal and financial loss as a result of the accusations</citphrase>
+<citphrase id="cp14.6" type=cited from="[2001] HCA 59">whether medical practitioners, social workers and departmental officers involved in investigating and reporting upon allegations of child sexual abuse owe a duty of care to suspects.  torts</citphrase>
+<citphrase id="cp14.7" type=cited from="[2001] HCA 59">negligence</citphrase>
+<citphrase id="cp14.8" type=cited from="[2001] HCA 59">duty of care</citphrase>
+<citphrase id="cp14.9" type=cited from="[2001] HCA 59">proximity</citphrase>
+<citphrase id="cp14.10" type=cited from="[2001] HCA 59">inapplicability of the caparo test in australia.</citphrase>
+<citphrase id="cp22.0" type=cited from="[1992] FCA 566">statutory interpretation</citphrase>
+<citphrase id="cp22.1" type=cited from="[1992] FCA 566">regulation making power</citphrase>
+<citphrase id="cp22.2" type=cited from="[1992] FCA 566">whether diplomatic privileges and immunities (amendment) regulations sr no. 7 of 1992 within the power conferred by diplomatic privileges and immunities act 1967 ("the 1967 act"), s. 15</citphrase>
+<citphrase id="cp22.3" type=cited from="[1992] FCA 566">whether regulations reasonably proportionate to enabling purpose of parent legislation</citphrase>
+<citphrase id="cp22.4" type=cited from="[1992] FCA 566">need for close scrutiny of regulations</citphrase>
+<citphrase id="cp22.5" type=cited from="[1992] FCA 566">meaning of "necessary or convenient" for giving effect to statute</citphrase>
+<citphrase id="cp22.6" type=cited from="[1992] FCA 566">interpretation of international treaties as apply in australia</citphrase>
+<citphrase id="cp22.7" type=cited from="[1992] FCA 566">vienna convention on the law of treaties</citphrase>
+<citphrase id="cp22.8" type=cited from="[1992] FCA 566">effect of human rights on statutory interpretation  public international law</citphrase>
+<citphrase id="cp22.9" type=cited from="[1992] FCA 566">vienna convention on diplomatic relations</citphrase>
+<citphrase id="cp22.10" type=cited from="[1992] FCA 566">special status of premises of diplomatic missions</citphrase>
+<citphrase id="cp22.11" type=cited from="[1992] FCA 566">effect of declaration by s. 7 of 1967 act that certain articles of the convention have the force of law in australia</citphrase>
+<citphrase id="cp22.12" type=cited from="[1992] FCA 566">purposes of convention and australian legislation</citphrase>
+<citphrase id="cp22.13" type=cited from="[1992] FCA 566">recognized international practice  human rights</citphrase>
+<citphrase id="cp22.14" type=cited from="[1992] FCA 566">freedom of speech or expression</citphrase>
+<citphrase id="cp22.15" type=cited from="[1992] FCA 566">freedom of assembly</citphrase>
+<citphrase id="cp22.16" type=cited from="[1992] FCA 566">constitutional position</citphrase>
+<citphrase id="cp22.17" type=cited from="[1992] FCA 566">parliamentary intent on domestic applicability and enforceability of international human rights norms</citphrase>
+<citphrase id="cp22.18" type=cited from="[1992] FCA 566">human rights and statutory interpretation  delegated legislation</citphrase>
+<citphrase id="cp22.19" type=cited from="[1992] FCA 566">regulations</citphrase>
+<citphrase id="cp22.20" type=cited from="[1992] FCA 566">"necessary or convenient"</citphrase>
+<citphrase id="cp22.21" type=cited from="[1992] FCA 566">reasonable proportionality to the enabling purpose of the parent legislation</citphrase>
+<citphrase id="cp24.0" type=cited from="[1990] HCA 21">administrative law</citphrase>
+<citphrase id="cp24.1" type=cited from="[1990] HCA 21">natural justice</citphrase>
+<citphrase id="cp24.2" type=cited from="[1990] HCA 21">appointment of judicial officers</citphrase>
+<citphrase id="cp24.3" type=cited from="[1990] HCA 21">abolition of one set of inferior courts and substitution of another</citphrase>
+<citphrase id="cp24.4" type=cited from="[1990] HCA 21">policy to appoint stipendiary magistrates of former courts as magistrates of new courts unless unfit for judicial office</citphrase>
+<citphrase id="cp24.5" type=cited from="[1990] HCA 21">decision not to appoint former stipendiary magistrate set aside for failure to accord natural justice</citphrase>
+<citphrase id="cp24.6" type=cited from="[1990] HCA 21">reconsideration of case</citphrase>
+<citphrase id="cp24.7" type=cited from="[1990] HCA 21">change of appointment policy</citphrase>
+<citphrase id="cp24.8" type=cited from="[1990] HCA 21">applicants to be judged on merit</citphrase>
+<citphrase id="cp24.9" type=cited from="[1990] HCA 21">whether former stipendiary magistrate entitled to reconsideration of application on basis of former or current policy</citphrase>
+<citphrase id="cp24.10" type=cited from="[1990] HCA 21">local courts act 1982 (n.s.w.), s. 12.</citphrase>
+<citphrase id="cp25.0" type=cited from="[1987] FCA 266">administrative law</citphrase>
+<citphrase id="cp25.1" type=cited from="[1987] FCA 266">whether documents sought under the freedom of information act 1982 , to obtain evidence of an alleged infringement of patent, were exempt documents within the meaning of s.45(1).</citphrase>
+<citphrase id="cp26.0" type=cited from="[1984] HCA 67">contract</citphrase>
+<citphrase id="cp26.1" type=cited from="[1984] HCA 67">public policy</citphrase>
+<citphrase id="cp26.2" type=cited from="[1984] HCA 67">contract of employment</citphrase>
+<citphrase id="cp26.3" type=cited from="[1984] HCA 67">employment by commonwealth</citphrase>
+<citphrase id="cp26.4" type=cited from="[1984] HCA 67">term binding commonwealth not to disclose name of employee or any act performed in course of employment</citphrase>
+<citphrase id="cp26.5" type=cited from="[1984] HCA 67">whether contrary to public interest and national security</citphrase>
+<citphrase id="cp26.6" type=cited from="[1984] HCA 67">suspicion that criminal offences committed in course of employment</citphrase>
+<citphrase id="cp26.7" type=cited from="[1984] HCA 67">security training exercise</citphrase>
+<citphrase id="cp26.8" type=cited from="[1984] HCA 67">australian secret intelligence service.  injunction</citphrase>
+<citphrase id="cp26.9" type=cited from="[1984] HCA 67">criminal law</citphrase>
+<citphrase id="cp26.10" type=cited from="[1984] HCA 67">suspected breach</citphrase>
+<citphrase id="cp26.11" type=cited from="[1984] HCA 67">confidential information</citphrase>
+<citphrase id="cp26.12" type=cited from="[1984] HCA 67">public interest</citphrase>
+<citphrase id="cp26.13" type=cited from="[1984] HCA 67">prejudice to national security</citphrase>
+<citphrase id="cp26.14" type=cited from="[1984] HCA 67">functions of executive government.  criminal law</citphrase>
+<citphrase id="cp26.15" type=cited from="[1984] HCA 67">defence of superior orders</citphrase>
+<citphrase id="cp26.16" type=cited from="[1984] HCA 67">whether maintainable.</citphrase>
+<citphrase id="cp27.0" type=cited from="[1974] HCA 20">constitutional law (cth)</citphrase>
+<citphrase id="cp27.1" type=cited from="[1974] HCA 20">extradition of fugitive offender to australia from abroad</citphrase>
+<citphrase id="cp27.2" type=cited from="[1974] HCA 20">power of australian government to request</citphrase>
+<citphrase id="cp27.3" type=cited from="[1974] HCA 20">prerogative</citphrase>
+<citphrase id="cp27.4" type=cited from="[1974] HCA 20">whether displaced by extradition (foreign states) act 1966-1973 (cth).  extradition</citphrase>
+<citphrase id="cp27.5" type=cited from="[1974] HCA 20">fugitive offender</citphrase>
+<citphrase id="cp27.6" type=cited from="[1974] HCA 20">request by australian government for extradition to australia of fugitive offender</citphrase>
+<citphrase id="cp27.7" type=cited from="[1974] HCA 20">prerogative</citphrase>
+<citphrase id="cp27.8" type=cited from="[1974] HCA 20">whether power displaced by extradition (foreign states) act 1966-1973 (cth)</citphrase>
+<citphrase id="cp27.9" type=cited from="[1974] HCA 20">extradition from foreign state with &amp;which australia does not have extradition treaty</citphrase>
+<citphrase id="cp27.10" type=cited from="[1974] HCA 20">reciprocity</citphrase>
+<citphrase id="cp27.11" type=cited from="[1974] HCA 20">powers of australian government to offer reciprocity</citphrase>
+<citphrase id="cp27.12" type=cited from="[1974] HCA 20">extradition (foreign states) act 1966-1973 (cth), ss. 9, 10, 21*.   * section 21 of the extradition (foreign states) act 1966-1973 (cth) provides: "where a person accused or convicted of an extraditable crime is, or is suspected of being, in a foreign state or within the jurisdiction of, or of a part of, a foreign state, the attorney-general may make a requisition to that state for the surrender of the person."</citphrase>
+<citphrase id="cp28.0" type=cited from="[1958] HCA 19">negligence</citphrase>
+<citphrase id="cp28.1" type=cited from="[1958] HCA 19">police constable</citphrase>
+<citphrase id="cp28.2" type=cited from="[1958] HCA 19">arrest of offender</citphrase>
+<citphrase id="cp28.3" type=cited from="[1958] HCA 19">detention in cell</citphrase>
+<citphrase id="cp28.4" type=cited from="[1958] HCA 19">duty of arresting constable to exercise reasonable care for safety of person of offender during detention.</citphrase>
+<citphrase id="cp30.0" type=citing from="[2011] ACTSC 89">torts</citphrase>
+<citphrase id="cp30.1" type=citing from="[2011] ACTSC 89">negligence</citphrase>
+<citphrase id="cp30.2" type=citing from="[2011] ACTSC 89">circumstances in which police may owe a duty of care</citphrase>
+<citphrase id="cp30.3" type=citing from="[2011] ACTSC 89">extent of police "immunity" in respect of investigations and suppression of crime</citphrase>
+<citphrase id="cp30.4" type=citing from="[2011] ACTSC 89">taking control of situation may constitute assuming a duty of care</citphrase>
+<citphrase id="cp30.5" type=citing from="[2011] ACTSC 89">coherence. torts</citphrase>
+<citphrase id="cp30.6" type=citing from="[2011] ACTSC 89">negligence</citphrase>
+<citphrase id="cp30.7" type=citing from="[2011] ACTSC 89">relationship between common law doctor-patient duty of care and statutory power to compulsorily detain mentally dysfunctional or mentally ill person</citphrase>
+<citphrase id="cp30.8" type=citing from="[2011] ACTSC 89">common law duty of care may be associated with existence of statutory power to compulsorily detain.</citphrase>
+<citphrase id="cp31.0" type=citing from="[2010] FCA 402">administrative law</citphrase>
+<citphrase id="cp31.1" type=citing from="[2010] FCA 402">procedural fairness</citphrase>
+<citphrase id="cp31.2" type=citing from="[2010] FCA 402">departure from stated guidelines  taxation</citphrase>
+<citphrase id="cp31.3" type=citing from="[2010] FCA 402">accountant's concession</citphrase>
+<citphrase id="cp31.4" type=citing from="[2010] FCA 402">departure from</citphrase>
+<citphrase id="cp32.0" type=citing from="[2010] FCA 367">27 april 2010  practice &amp; procedure</citphrase>
+<citphrase id="cp32.1" type=citing from="[2010] FCA 367">jurisdiction</citphrase>
+<citphrase id="cp32.2" type=citing from="[2010] FCA 367">whether application seeking leave under s 47a(3) of limitation act 1935 (wa) to bring a proceeding or alternatively a declaration as to the inapplicability of s 47a enlivened federal court's jurisdiction under judiciary act 1903 (cth) s 39b(1a)(c) though proceeding was not formally instituted</citphrase>
+<citphrase id="cp32.3" type=citing from="[2010] FCA 367">where application and accompanying affidavit showed that applicants wanted to bring the proceeding</citphrase>
+<citphrase id="cp32.4" type=citing from="[2010] FCA 367">where proposed statement of claim exhibited to affidavit disclosed a federal matter arising under federal statute</citphrase>
+<citphrase id="cp32.5" type=citing from="[2010] FCA 367">where applicants required to seek leave before bringing proposed proceeding assuming limitation act applied because leave could not be granted retrospectively</citphrase>
+<citphrase id="cp32.6" type=citing from="[2010] FCA 367">federal jurisdiction enlivened in the absence of an initiating process where vindication of rights under federal statute depends or may depend on the resolution of a prior preliminary application for leave under the limitation act</citphrase>
+<citphrase id="cp32.7" type=citing from="[2010] FCA 367">court had jurisdiction over application as incidental to exercise of judicial power over federal matter  practice &amp; procedure</citphrase>
+<citphrase id="cp32.8" type=citing from="[2010] FCA 367">jurisdiction</citphrase>
+<citphrase id="cp32.9" type=citing from="[2010] FCA 367">whether applicants' substantive claims disclosed a federal matter arising under federal statute within judiciary act 1903 (cth) s 39b(1a)(c)</citphrase>
+<citphrase id="cp32.10" type=citing from="[2010] FCA 367">where substantive claims included claims for violation of rights and privileges conferred on applicants under the civil aviation act 1988 (cth) and/or related regulations and orders</citphrase>
+<citphrase id="cp32.11" type=citing from="[2010] FCA 367">claims "arose under" federal statutory law</citphrase>
+<citphrase id="cp32.12" type=citing from="[2010] FCA 367">claims were not made for purpose of fabricating jurisdiction</citphrase>
+<citphrase id="cp32.13" type=citing from="[2010] FCA 367">non-federal claims formed part of same "matter</citphrase>
+<citphrase id="cp32.14" type=citing from="[2010] FCA 367">claims disclosed a federal matter attracting federal jurisdiction</citphrase>
+<citphrase id="cp33.0" type=citing from="[2010] FCA 361">practice and procedure</citphrase>
+<citphrase id="cp33.1" type=citing from="[2010] FCA 361">summary judgment</citphrase>
+<citphrase id="cp33.2" type=citing from="[2010] FCA 361">dismissal of proceeding  torts</citphrase>
+<citphrase id="cp33.3" type=citing from="[2010] FCA 361">misfeasance</citphrase>
+<citphrase id="cp33.4" type=citing from="[2010] FCA 361">elements of the tort</citphrase>
+<citphrase id="cp33.5" type=citing from="[2010] FCA 361">need for specific pleadings</citphrase>
+<citphrase id="cp33.6" type=citing from="[2010] FCA 361">adequacy of pleadings</citphrase>
+<citphrase id="cp35.0" type=citing from="[2009] FCA 980">practice and procedure</citphrase>
+<citphrase id="cp35.1" type=citing from="[2009] FCA 980">preliminary discovery</citphrase>
+<citphrase id="cp35.2" type=citing from="[2009] FCA 980">identity discovery</citphrase>
+<citphrase id="cp35.3" type=citing from="[2009] FCA 980">applicant required to produce documents to the australian competition and consumer commission by a notice under s 155 of the trade practices act 1974 (cth)</citphrase>
+<citphrase id="cp35.4" type=citing from="[2009] FCA 980">commission official disclosed some information obtained from those documents to third persons</citphrase>
+<citphrase id="cp35.5" type=citing from="[2009] FCA 980">whether that disclosure was a breach of s 155aaa(1) of the trade practices act</citphrase>
+<citphrase id="cp35.6" type=citing from="[2009] FCA 980">whether any equitable duty of confidence owed by the commission and its staff to a person who produces documents to it under compulsion in response to a s 155 notice</citphrase>
+<citphrase id="cp35.7" type=citing from="[2009] FCA 980">whether foreshadowed causes of action and claims for relief have sufficient prospects of success to justify the making of a preliminary discovery order</citphrase>
+<citphrase id="cp35.8" type=citing from="[2009] FCA 980">whether the interests of justice would be served by the making of such an order</citphrase>
+<citphrase id="cp35.9" type=citing from="[2009] FCA 980">application for preliminary discovery order refused</citphrase>
+<citphrase id="cp36.0" type=citing from="[2009] FCA 228">practice and procedure</citphrase>
+<citphrase id="cp36.1" type=citing from="[2009] FCA 228">summary judgment</citphrase>
+<citphrase id="cp36.2" type=citing from="[2009] FCA 228">whether defects in pleading incapable of being cured</citphrase>
+<citphrase id="cp36.3" type=citing from="[2009] FCA 228">whether leave to replead should be granted   constitutional law</citphrase>
+<citphrase id="cp36.4" type=citing from="[2009] FCA 228">executive power</citphrase>
+<citphrase id="cp36.5" type=citing from="[2009] FCA 228">s 61 of the constitution</citphrase>
+<citphrase id="cp36.6" type=citing from="[2009] FCA 228">circumstances in which exercise of executive power amenable to review   equity</citphrase>
+<citphrase id="cp36.7" type=citing from="[2009] FCA 228">fiduciaries</citphrase>
+<citphrase id="cp36.8" type=citing from="[2009] FCA 228">whether commonwealth owes fiduciary duty to its nationals</citphrase>
+<citphrase id="cp36.9" type=citing from="[2009] FCA 228">whether content of any such duty justiciable   torts</citphrase>
+<citphrase id="cp36.10" type=citing from="[2009] FCA 228">negligence</citphrase>
+<citphrase id="cp36.11" type=citing from="[2009] FCA 228">whether commonwealth owes duty of care to its nationals</citphrase>
+<citphrase id="cp36.12" type=citing from="[2009] FCA 228">misfeasance in a public office</citphrase>
+<citphrase id="cp36.13" type=citing from="[2009] FCA 228">whether aiding and abetting commission of criminal offence amounts to misfeasance</citphrase>
+<citphrase id="cp36.14" type=citing from="[2009] FCA 228">harassment</citphrase>
+<citphrase id="cp36.15" type=citing from="[2009] FCA 228">whether tort of harassment extends to mental distress    held: motion granted in part</citphrase>
+<citphrase id="cp36.16" type=citing from="[2009] FCA 228">pleading struck out</citphrase>
+<citphrase id="cp36.17" type=citing from="[2009] FCA 228">leave to replead granted</citphrase>
+<citphrase id="cp37.0" type=citing from="[2008] NSWCA 107">torts</citphrase>
+<citphrase id="cp37.1" type=citing from="[2008] NSWCA 107">negligence</citphrase>
+<citphrase id="cp37.2" type=citing from="[2008] NSWCA 107">duty of care</citphrase>
+<citphrase id="cp37.3" type=citing from="[2008] NSWCA 107">police officers</citphrase>
+<citphrase id="cp37.4" type=citing from="[2008] NSWCA 107">respondent struck by downpipe that fell from apartment building</citphrase>
+<citphrase id="cp37.5" type=citing from="[2008] NSWCA 107">police officers called to scene</citphrase>
+<citphrase id="cp37.6" type=citing from="[2008] NSWCA 107">whether police owed duty of care to respondent</citphrase>
+<citphrase id="cp37.7" type=citing from="[2008] NSWCA 107">whether warning given to respondent</citphrase>
+<citphrase id="cp37.8" type=citing from="[2008] NSWCA 107">office of constable at common law</citphrase>
+<citphrase id="cp37.9" type=citing from="[2008] NSWCA 107">statutory bases for operation of police force</citphrase>
+<citphrase id="cp37.10" type=citing from="[2008] NSWCA 107">common law and statutory powers and duties of police officers</citphrase>
+<citphrase id="cp37.11" type=citing from="[2008] NSWCA 107">common law duties of police officers concerning crime</citphrase>
+<citphrase id="cp37.12" type=citing from="[2008] NSWCA 107">common law duties of police officers concerning keeping the peace</citphrase>
+<citphrase id="cp37.13" type=citing from="[2008] NSWCA 107">interaction of police powers, duties and discretions</citphrase>
+<citphrase id="cp37.14" type=citing from="[2008] NSWCA 107">whether public policy a reason for not imposing a duty of care</citphrase>
+<citphrase id="cp37.15" type=citing from="[2008] NSWCA 107">whether recognition of duty of care to respondent would be incompatible with any other duty police owed</citphrase>
+<citphrase id="cp37.16" type=citing from="[2008] NSWCA 107">connection between public policy factors relevant to whether police owe a duty of care and coherence as a factor in deciding whether duty of care exists</citphrase>
+<citphrase id="cp37.17" type=citing from="[2008] NSWCA 107">relevance of concept of proximity in determining existence of duty of care</citphrase>
+<citphrase id="cp37.18" type=citing from="[2008] NSWCA 107">salient features analysis</citphrase>
+<citphrase id="cp37.19" type=citing from="[2008] NSWCA 107">relevance of class to whom public duty owed</citphrase>
+<citphrase id="cp37.20" type=citing from="[2008] NSWCA 107">significance of finding that police did not engage in any positive act in a negligent fashion</citphrase>
+<citphrase id="cp37.21" type=citing from="[2008] NSWCA 107">whether police were in control of site</citphrase>
+<citphrase id="cp37.22" type=citing from="[2008] NSWCA 107">whether plaintiff vulnerable</citphrase>
+<citphrase id="cp37.23" type=citing from="[2008] NSWCA 107">no reliance on s 213 police act 1990</citphrase>
+<citphrase id="cp37.24" type=citing from="[2008] NSWCA 107">breach of duty of care</citphrase>
+<citphrase id="cp37.25" type=citing from="[2008] NSWCA 107">whether failure of police to prevent respondent from acting in a particular way constituted or was merely evidence of breach of duty of care</citphrase>
+<citphrase id="cp37.26" type=citing from="[2008] NSWCA 107">whether performance of duty required police to place themselves in situation of potential danger</citphrase>
+<citphrase id="cp37.27" type=citing from="[2008] NSWCA 107">where contrary to standard operating procedures under which police worked</citphrase>
+<citphrase id="cp37.28" type=citing from="[2008] NSWCA 107">torts</citphrase>
+<citphrase id="cp37.29" type=citing from="[2008] NSWCA 107">negligence</citphrase>
+<citphrase id="cp37.30" type=citing from="[2008] NSWCA 107">duty of care</citphrase>
+<citphrase id="cp37.31" type=citing from="[2008] NSWCA 107">breach</citphrase>
+<citphrase id="cp37.32" type=citing from="[2008] NSWCA 107">where building owner accepts existence of duty to take reasonable care that building does not cause personal injury to passers by</citphrase>
+<citphrase id="cp37.33" type=citing from="[2008] NSWCA 107">whether building owner ought reasonably to have realised that causal mechanism by which downpipe became loose was a possible risk</citphrase>
+<citphrase id="cp37.34" type=citing from="[2008] NSWCA 107">where no evidence that building owner knew that pipe was loose</citphrase>
+<citphrase id="cp37.35" type=citing from="[2008] NSWCA 107">where case pleaded solely on basis of negligence and not in public nuisance</citphrase>
+<citphrase id="cp37.36" type=citing from="[2008] NSWCA 107">trials</citphrase>
+<citphrase id="cp37.37" type=citing from="[2008] NSWCA 107">issues</citphrase>
+<citphrase id="cp37.38" type=citing from="[2008] NSWCA 107">restrictions on litigant taking on appeal a point not taken below</citphrase>
+<citphrase id="cp37.39" type=citing from="[2008] NSWCA 107">whether open to litigant who was a defendant in the court below to contend for the first time on appeal that an essential element of the plaintiff's cause of action is not made out</citphrase>
+<citphrase id="cp37.40" type=citing from="[2008] NSWCA 107">practice and procedure</citphrase>
+<citphrase id="cp37.41" type=citing from="[2008] NSWCA 107">expert's reports</citphrase>
+<citphrase id="cp37.42" type=citing from="[2008] NSWCA 107">district court</citphrase>
+<citphrase id="cp37.43" type=citing from="[2008] NSWCA 107">rules of court relating to admissibility of expert's reports</citphrase>
+<citphrase id="cp37.44" type=citing from="[2008] NSWCA 107">where trial judge refused to permit tender of expert's reports without reasons</citphrase>
+<citphrase id="cp37.45" type=citing from="[2008] NSWCA 107">where reports cross-examined on</citphrase>
+<citphrase id="cp37.46" type=citing from="[2008] NSWCA 107">where reports in plaintiff's possession for nearly a year</citphrase>
+<citphrase id="cp37.47" type=citing from="[2008] NSWCA 107">where defendant notified plaintiff of intention to tender reports</citphrase>
+<citphrase id="cp37.48" type=citing from="[2008] NSWCA 107">lapse of reasonable time for plaintiff to deal with tender of reports</citphrase>
+<citphrase id="cp37.49" type=citing from="[2008] NSWCA 107">lack of identifiable prejudice</citphrase>
+<citphrase id="cp37.50" type=citing from="[2008] NSWCA 107">whether exceptional circumstances</citphrase>
+<citphrase id="cp38.0" type=citing from="[2007] FCA 1332">practice and procedure</citphrase>
+<citphrase id="cp38.1" type=citing from="[2007] FCA 1332">applicants promoted a building system in india in expectation of agent's commission and royalties in the event of a sale of a plant to those to whom they promoted the system</citphrase>
+<citphrase id="cp38.2" type=citing from="[2007] FCA 1332">application under o 15a r 6 of the federal court rules for preliminary discovery</citphrase>
+<citphrase id="cp38.3" type=citing from="[2007] FCA 1332">whether there is reasonable cause to believe the applicants have or may have the right to obtain relief</citphrase>
+<citphrase id="cp38.4" type=citing from="[2007] FCA 1332">two bases for relief</citphrase>
+<citphrase id="cp38.5" type=citing from="[2007] FCA 1332">first, damages under the trade practices act 1974 (cth) in reliance on ss 52 and 53 (g) or ss 84 and/or 75b</citphrase>
+<citphrase id="cp38.6" type=citing from="[2007] FCA 1332">secondly, damages for breach of contract</citphrase>
+<citphrase id="cp38.7" type=citing from="[2007] FCA 1332">both bases for relief doomed to fail</citphrase>
+<citphrase id="cp39.0" type=citing from="[2007] FCA 689">contract</citphrase>
+<citphrase id="cp39.1" type=citing from="[2007] FCA 689">principles of construction applicable to a written contract</citphrase>
+<citphrase id="cp39.2" type=citing from="[2007] FCA 689">duties owed by a superintendent's representative to the contractor under a civil engineering contract tort of misfeasance in public office</citphrase>
+<citphrase id="cp39.3" type=citing from="[2007] FCA 689">necessary elements tort of inducing breach of contract or otherwise interfering with contractual relations</citphrase>
+<citphrase id="cp39.4" type=citing from="[2007] FCA 689">elements of the cause of action</citphrase>
+<citphrase id="cp39.5" type=citing from="[2007] FCA 689">justification trade practices</citphrase>
+<citphrase id="cp39.6" type=citing from="[2007] FCA 689">application of part iv of the act to the respondent</citphrase>
+<citphrase id="cp39.7" type=citing from="[2007] FCA 689">misuse of market power negligence</citphrase>
+<citphrase id="cp39.8" type=citing from="[2007] FCA 689">misrepresentation causing economic loss</citphrase>
+<citphrase id="cp39.9" type=citing from="[2007] FCA 689">whether a duty of care should be found</citphrase>
+<citphrase id="cp41.0" type=citing from="[2007] FCA 69">migration</citphrase>
+<citphrase id="cp41.1" type=citing from="[2007] FCA 69">application for writ of mandamus or injunction requiring respondents to evidence transitional (permanent) visa into applicant's passport</citphrase>
+<citphrase id="cp41.2" type=citing from="[2007] FCA 69">applicant held a return endorsement</citphrase>
+<citphrase id="cp41.3" type=citing from="[2007] FCA 69">consideration of transitional (permanent) visa</citphrase>
+<citphrase id="cp41.4" type=citing from="[2007] FCA 69">return endorsement ceased to have effect before date of introduction of transitional (permanent) visa therefore applicant never held such a visa</citphrase>
+<citphrase id="cp41.5" type=citing from="[2007] FCA 69">waiver of conditions attaching to return endorsement not made out where respondents' conduct was not deliberate</citphrase>
+<citphrase id="cp41.6" type=citing from="[2007] FCA 69">respondents cannot be estopped from denying the existence of a visa the applicant never held</citphrase>
+<citphrase id="cp41.7" type=citing from="[2007] FCA 69">application dismissed.</citphrase>
+<citphrase id="cp42.0" type=citing from="[2006] FCA 286">migration</citphrase>
+<citphrase id="cp42.1" type=citing from="[2006] FCA 286">application for summary dismissal of claims against the commissioner of the australian federal police in respect of the investigation of alleged breaches of the migration act by unlawful non-citizens who have performed work in australia</citphrase>
+<citphrase id="cp43.0" type=citing from="[2006] WADC 33">practice and procedure</citphrase>
+<citphrase id="cp43.1" type=citing from="[2006] WADC 33">application for pre&#173;action discovery</citphrase>
+<citphrase id="cp43.2" type=citing from="[2006] WADC 33">whether requirements of o 26a r 4 of the rules of the supreme court have been satisfied</citphrase>
+<citphrase id="cp43.3" type=citing from="[2006] WADC 33">turns on own facts</citphrase>
+</citphrases>
+<citances>
+<sentence id="cs0" from="[2011] ACTSC 89">(b) Apart from situations involving the conduct of investigations or the suppression of crime in general terms, police may in some situations:
+(i) owe a duty of care in the same way as any other member of the community (what might be termed a "civilian" duty of care)---for instance, to drive with appropriate care (Norman v Spiers [2004] ACTCA 25 ; [2004] ACTCA 25 ; (2004) 155 ACTR 8 ; Schilling v Lenton); and
+(ii) owe a duty of care to people in police custody (Howard v Jarvis; Riley); and
+(iii) assume a duty of care to an identifiable person or group of persons, in which case they may be liable for negligence constituted at least by specific positive acts, and possibly more generally by acts, that result in damage to such persons (Knightley, Rigby, Gibson, Zalewski, Richards; the police admissions in Ashley are also consistent with this proposition, and in Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 , Finn J at [97] referred to several other cases in which a duty of care has been assumed or found to exist).</sentence>
+<sentence id="cs1" from="[2010] VSCA 113">20 While latitude must be given to police in the judgments and decisions that must be made in their discharge of their common law and statutory duties to enforce the criminal law, [30] the law does not call for a stark choice between an unfettered discharge of law enforcement responsibilities and the protection of members of the public from unnecessary harm. Police do not enjoy blanket immunity from suits in negligence. [31] It has been well recognised that an officer may owe a duty of care to prevent injury to the subject of a police operation or to a third person. I should refer to a number of cases that bear some similarity to the present circumstances in which a duty was found to exist. In Knightley v Johns [32] a policeman was found to have acted negligently in performing duties regulating traffic flow following an accident; in Rigby v Chief Constable of Northamptonshire [33] police were found to have been negligent when, in a siege situation, they shot a canister of gas into a building causing the building to catch fire; and in Schilling v Lenton [34] a police officer pursuing a speeding driver was found to owe a duty of care to other motorists (as well as to the subject of the pursuit). Knightley and Rigby were cited by Lord Keith in Hill in support of the proposition that a police office may be liable in negligence for the direct results of his acts or omissions. [35]  Hill v Chief Constable of West Yorkshire, [11] Smith v Chief Constable of Sussex Police . [12] 
+ (2) Where police in the course of investigation injure the person under investigation. Brooks v Commissioner of the Metropolis, [13] Sullivan v Moody, [14] Tame v New South Wales, [15] Pinfold, Stewart v Ronalds, Rush v Commissioner of Police, [16] Cran v State of New South Wales, [17] Rickard v State of New South Wales. [18] 
+ (3) Where police in the course of investigation injure the person under investigation and a family member of the person under investigation suffers indirect injury. Halech v State of South Australia, [19] State of New South Wales v Klein. 
+ 
+ 27 The appellants' submission cannot be sustained. It was recognised in Sullivan v Moody that people may be subject to a number of duties, provided they are not 'irreconcilable'. [41] While a duty of care will be denied which is inconsistent with a duty which the law imposes on police in the exercise of their powers [42] the duty of care in contemplation in Zalewski was not such a duty. It is only where the duty of care 'would give rise to inconsistent obligations' that a duty should be denied. Such inconsistency may not be present when the performance of the one duty does not of necessity require action that would create a substantial risk that the putative duty, if it existed, would be infringed. </sentence>
+<sentence id="cs2" from="[2010] FCA 402">I have already rejected the first proposition. The second proposition, even if established, could not justify the final relief sought. The only remedy available for a breach of the rules of procedural fairness would be an order setting aside the Commissioner's decision to depart from the concession with a concomitant order to reconsider his decision to do so: Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 at 21 [66] - [67] per McHugh and Gummow JJ, 48 [148] per Callinan J; Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 at 186-187 [82] per Finn J. </sentence>
+<sentence id="cs3" from="[2010] FCA 367">Hooper v Kirella has been regularly followed and applied in preliminary discovery applications in this Court: see, e.g., Allphones Retail Pty Ltd v Australian Competition &amp; Consumer Commission [2009] FCA 980 ; (2009) 259 ALR 354 ; Wyeth v Secretary, Department of Health and Ageing [2009] FCA 313 ; (2009) 255 ALR 352 ; Optiver Australia Pty Ltd v Tibra Trading Pty Ltd [2007] FCA 1560 ; (2007) 163 FCR 554 (' Optiver '); Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 ; and Kennedy v Wallace (2004) 208 ALR 424. </sentence>
+<sentence id="cs4" from="[2010] FCA 361">In Sanders v Snell (1998) 196 CLR 329 at 346 Gleeson CJ, Gaudron, Kirby and Hayne JJ again directed attention to the element of the tort that it be " intentional ". In Rush v Commissioner of Police [2006] FCA 12 [2006] FCA 12 ; , 150 FCR 165 at 197 to 198 Finn J likewise observed: 
+ 
+ [121] ... the tort can take two forms. In one form (that of "targeted malice") it must be shown that the public officer in question has acted as such with an actual intent to cause injury to a person or persons. In its alternate form it must be shown either that the officer has actual knowledge both that his or her action was beyond power and would cause or be likely to cause injury or else that the officer has acted with reckless indifference both to the possibility his or her action was beyond power and to the possibility that that action would cause or be likely to cause injury: ... ' 
+ 
+
+ </sentence>
+<sentence id="cs5" from="[2010] NSWSC 151">30 It is well accepted that in certain circumstances police officers owe a duty of care to prevent the occasioning of foreseeable harm: see Rush v Commissioner of Police Officers [2006] FCA 12 ; 150 FCR 165 at 191 [97] for a collection of cases in which a duty of care has been assumed or found to exist. Police officers do not enjoy blanket immunity against suits in negligence: see State of NSW v Tyszyk [2008] NSWCA 107 at [121] - [128]; Zalewski v Turcarolo [1995] VicRp 76 ; [1995] 2 VR 562 ; Knightley v Johns [1981] EWCA Civ 6 ; [1982] 1 WLR 349 ; and Rigby v Chief Constable of Northamptonshire [1985] 1 WLR 1242. </sentence>
+<sentence id="cs6" from="[2009] SASC 298">In my opinion, to meet the objectives of the rule, the bar should not be set too high. Nevertheless, as I have said earlier in these reasons, a respondent to an application should not be subjected to the process and a subsequent order if the claimed entitlement is based largely on surmise, speculation or conjecture. (See Gerard Industries v Wee [(1986) 43 SASR 562] and Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165). 
+ 
+ </sentence>
+<sentence id="cs7" from="[2009] FCA 980">The ACCC did not argue that the relevant principles were other than those encapsulated in Hooper v Kirella Pty Ltd [1999] FCA 1584 ; 96 FCR 1 at [31] ---[34] (pp 10---11). The ACCC also referred me to Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 at [3] ---[7] (pp 168---170). The ACCC resisted Allphones' application on two broad grounds, namely: (a) The proposed proceedings are merely speculative; and (b) In any event, Allphones has not been able to demonstrate that the proposed proceedings against the relevant ACCC official (as distinct from and in addition to proceedings against the ACCC itself) are necessary in the interests of justice.  In Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 at [3] ---[7] (pp 168---170), Finn J said: Order 15A, rr 3 and 6 of the Federal Court Rules 1979 (Cth) provide respectively for what is colloquially known as "identity discovery" and "information discovery": see generally Hooper v Kirella Pty Ltd [1999] FCA 1584 ; (1999) 96 FCR 1. I am empowered by our Rules to order identity discovery where (i) an applicant, having made reasonable inquiries, is unable to ascertain the description of a person sufficiently for the purpose of commencing a proceeding in this Court against that person; and (ii) it appears that some other person has, has had, or is likely to have knowledge of facts or possession of any document tending to assist in ascertaining who that person is. Information discovery in contrast is discovery against the very person against whom relief may be sought.</sentence>
+<sentence id="cs8" from="[2009] FCA 228">Such a cause of action may be viable in the United Kingdom: see R v North and East Devon Health Authority; Ex parte Coughlan [2001] QB 213. However, it is not open for me to entertain the argument for it has been held on high authority that Australian law knows no action based on substantive legitimate expectations: see Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 at 21 [66] - [67] per McHugh and Gummow JJ, 48 [148] per Callinan J. See also Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 at 186-187 [82] per Finn J. Misfeasance in a public office
+ </sentence>
+<sentence id="cs9" from="[2008] NSWCA 107">84 A most important aspect of the duties of a constable concerns preventing and detecting crime ( Glasbrook Bros v Glamorgan County Council [1924] UKHL 3 ; [1925] AC 270 at 277; Thomas v Sawkins [1935] 2 KB 249 ; Rice v Connolly [1966] 2 QB 414 at 419). Constables' duties concerning crime extend to collecting evidence concerning crime and keeping it for as long as is necessary ( R v Lushington; ex parte Otto [1894] 1 QB 420 at 423; Betts v Stevens [1910] 1 KB 1 at 7; Ludwig v Public Trustee [2006] NSWSC 890 ; (2006) 170 A Crim R 460 at [53] - [55] and cases there cited), enforcing the criminal law ( R v Metropolitan Police Commissioner; ex parte Blackburn [1968] 2 QB 118 ; Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 at [91] ; Hinchcliffe v Commissioner of Police of the Australian Federal Police [2001] FCA 1747 ; (2001) 118 FCR 308 at [33] - [35]) and protecting property from criminal injury ( Glasbrook v Glamorgan Council at 277; Rice v Connolly at 419). However in the present case there is no suggestion that the activities of the two constables were connected in any way with their powers and duties concerning crime. 
+ 
+
+ 
+ </sentence>
+<sentence id="cs10" from="[2007] FCA 1332">4 It is unnecessary for me to refer in detail to the growing body of case law on preliminary discovery. Because of their immediate relevance, it is sufficient for present purposes to refer to observations I made in Rush v Commissioner of Police [2006] FCA 12 ; (2006) 229 ALR 383 at [6] - [7]:
+ 
+ "Information discovery under O 15A r 6 is significantly limited by the conditions imposed in subparas (a), (b) and (c) of that rule. Subpara (a) requires that there be reasonable cause to believe that the applicant has or may have the right to obtain relief in the Court. While the threshold test under this subrule may be set at quite a low level (see Gull Petroleum (WA) Ltd v Tah Land Pty Ltd [2001] FCA 1531 at [59] ), the test for determining whether the applicant has a reasonable cause to have the requisite belief is an objective one (see Hooper [1999] FCA 1584 ; [96 FCR 1] at [39] ).</sentence>
+<sentence id="cs11" from="[2007] SASC 240">A useful purpose is to be served by allowing pre-action discovery where there is doubt that a claim may be maintained. In my opinion, to meet the objectives of the rule, the bar should not be set too high. Nevertheless, as I have said earlier in these reasons, a respondent to an application should not be subjected to the process and a subsequent order if the claimed entitlement is based largely on surmise, speculation or conjecture. (See Gerard Industries v Wee (supra) and Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165)  BELCAR PTY LTD v PREMIER AUTOMOTIVE GROUP AUSTRALIA PTY LTD 
+ 
+
+ [2007] SASC 240 
+ 
+
+ Reasons of Judge Burley a Master of the Supreme Court 
+ 
+
+ 29 June 2007 
+ 
+
+
+
+ 
+ PROCEDURE - DISCOVERY AND INTERROGATORIES 
+ 
+ Pre-action discovery - contractual relationship between parties terminated - whether possible causes of action available to plaintiff - whether plaintiff entitled to pre-action discovery - meaning and effect of rule. Supreme Court Civil Rules 2006 r 32; Supreme Court Rules 1987 r 60, r 60.02(a); Trade Practices Act 1974 (Cth) s 51AA, s 51AB, s 51AC, s 52 , s 53 , s 56 , s 57 , s 58 , s 59(2) ; Fair Trading Act 1987 (SA) s 56, s 57, s 58, s 68; Misrepresentation Act 1972 s 7 , referred to. Robertson v Police [1957] NZLR 193 ; Blyth v Blyth [1966] 1 All ER 524 ; Re Woodcock [1957] NZLR 960 ; Briginshaw v Briginshaw [1938] HCA 34 ; (1938) 60 CLR 336 ; Modbury Hospital v O'Loughlin (1988) 49 SASR 452 ; Shaw v Vauxhall Motors [1974] 1 NLR 1035 (C.A.) ; Dunning v United Liverpool Hospital Board [1973] 1 WLR 586 ; Taylor v Santos (1998) 71 SASR 434 ; Gerard Industries v Wee (supra); Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 ; ACCC v Four Wheel Drive Systems Pty Ltd [2003] FCA 850 ; (2003) 200 ALR 491 , considered. 
+
+
+ BELCAR PTY LTD v PREMIER AUTOMOTIVE GROUP AUSTRALIA PTY LTD 
+ [2007] SASC 240 
+
+ 
+
+ 
+ Civil 
+
+ 
+ JUDGE BURLEY. This is an application pursuant to r 32 of the Supreme Court Civil Rules 2006 whereby the plaintiff seeks the following order: 
+ 
+ 1.</sentence>
+<sentence id="cs12" from="[2007] FCA 689">This was said to involve "bad faith" in as much as the public officer does not have an honest belief that the act is lawful. 
+ 
+ 
+ His Lordship also held that recklessness as well as actual knowledge of want of power and likely harm was sufficient to show the state of mind necessary to make out the tort: "It can ... now be regarded as settled law that an act performed in reckless indifference as to the outcome is sufficient to ground the tort in its second form. "' 
+ 
+ 
+ In Rush v Commissioner of Police [2006] FCA 12 ; (2006) 150 FCR 165 at 197 [121] Finn J said: 
+ 
+ '... the tort can take two forms. In one form (that of "targeted malice") it must be shown that the public officer in question has acted as such with an actual intent to cause injury to a person or persons. In its alternate form it must be shown either that the officer has actual knowledge both that his or her action was beyond power and would cause or be likely to cause injury or else that the officer has acted with reckless indifference both to the possibility his or her action was beyond power and to the possibility that that action would cause or be likely to cause injury...' 
+ 
+ 
+ My understanding is that the applicant has abandoned any allegation that the respondent committed the tort of misfeasance in public office.</sentence>
+<sentence id="cs13" from="[2007] VCC 306"></sentence>
+<sentence id="cs14" from="[2007] FCA 69">126 That concession, I think, also has been rightly made. In Re Minister for Immigration and Multicultural and Indigenous Affairs; ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 , McHugh and Gummow JJ said at [67] that McHugh J's dissenting judgment in Minister for Immigration and Ethnic Affairs v Teoh [1995] HCA 20 ; (1995) 183 CLR 273 , in which he said that administrative decision makers must accord parties procedural fairness including bringing to that party's attention the issue on which the decision is likely to turn so as to allow the party to deal with it, meant that there was no need for any doctrine of legitimate expectation and should be accepted as representing the law of Australia. See also Hayne J at [121] and Callinan J at [148]. For the reasons given by Finn J in Rush v Commissioner of Police [2006] FCA 12 , the doctrine of substantive legitimate expectation is not presently part of Australian law. I need, therefore, say no more about the 'other way' of putting the estoppel argument.
+ </sentence>
+<sentence id="cs15" from="[2006] FCA 286">25 The duty of the Fifth Respondent is to enforce the law. He or she must take steps to post police officers so that crimes may be detected and that honest citizens may go about their affairs in peace. But the Commissioner is not the servant of anyone save the law itself. Although the Commissioner is answerable to the law, there are nevertheless many fields in which the Commissioner will have a discretion with which the law will not interfere. It is for the Commissioner to decide in any particular case whether enquiries should be pursued. It must be for the Commissioner to decide on the disposition of the force and concentration of the resources available on any particular crime or area. No Court can or should give the Commissioner direction on such a matter (per Emmett J in O'Malley at [7], per Lord Denning MR in Blackburn at 136 and per Finn J in Rush v Commissioner of Police [2006] FCA 12 at [91] ).</sentence>
+<sentence id="cs16" from="[2006] WADC 33"></sentence>
+</citances>
+<legistitles>
+<title id="l0">MUTUAL ASSISTANCE IN CRIMINAL MATTERS LEGISLATION AMENDMENT BILL 1996 </title>
+<title id="l1">AUSTRALIAN FEDERAL POLICE ACT 1979 </title>
+<title id="l2">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 4 Interpretation</title>
+<title id="l3">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 5A Application and extension of Act and regulations</title>
+<title id="l4">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 6 Constitution of the Australian Federal Police</title>
+<title id="l5">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 8 Functions</title>
+<title id="l6">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 9 Laws conferring powers on members</title>
+<title id="l7">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 17 Commissioner and Deputy Commissioners</title>
+<title id="l8">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 37 General administration and control</title>
+<title id="l9">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 38 Commissioner's Orders</title>
+<title id="l10">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 39 Compliance with Commissioner's Orders</title>
+<title id="l11">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 40 Compliance with specific directions, instructions or orders</title>
+<title id="l12">AUSTRALIAN FEDERAL POLICE ACT 1979 - SECT 64B Liability for wrongful acts of members</title>
+<title id="l13">DEATH PENALTY ABOLITION ACT 1973 </title>
+<title id="l14">JUDICIARY ACT 1903 </title>
+<title id="l15">JUDICIARY ACT 1903 - SECT 39B Original jurisdiction of Federal Court of Australia</title>
+<title id="l16">MIGRATION ACT 1958 </title>
+<title id="l17">MIGRATION ACT 1958 - SECT 6 Effect of limited meaning of enter Australia etc.</title>
+<title id="l18">MIGRATION ACT 1958 - SECT 17 Pre-cleared flights</title>
+<title id="l19">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 </title>
+<title id="l20">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 - SECT 5 Objects of the Act</title>
+<title id="l21">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 - SECT 6 Act not to limit other provision etc. of assistance</title>
+<title id="l22">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 - SECT 7 Application of Act</title>
+<title id="l23">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 - SECT 8 Refusal of assistance</title>
+<title id="l24">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 - SECT 10 Request by Australia</title>
+<title id="l25">MUTUAL ASSISTANCE IN CRIMINAL MATTERS ACT 1987 - SECT 11 Request by foreign country</title>
+<title id="l26">AUSTRALIAN FEDERAL POLICE ACT 1979 No. 58 of 1979 - SECT 57 Decisions to be final</title>
+<title id="l27">AUSTRALIAN FEDERAL POLICE (DISCIPLINE) REGULATIONS 1979 </title>
+<title id="l28">FEDERAL COURT RULES 1979 </title>
+<title id="l29">MUTUAL ASSISTANCE IN CRIMINAL MATTERS (REPUBLIC OF INDONESIA) REGULATIONS 1999 </title>
+</legistitles>
+</case>

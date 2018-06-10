@@ -1,0 +1,682 @@
+<?xml version="1.0"?>
+<case>
+<name>Emirates v Australian Competition and Consumer Commission [2009] FCA 312 (2 April 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/312.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">investigative function</catchphrase>
+<catchphrase "id=c1">validity of s 155 notices</catchphrase>
+<catchphrase "id=c2">'matter' under investigation</catchphrase>
+<catchphrase "id=c3">relevance of information sought</catchphrase>
+<catchphrase "id=c4">burdensome</catchphrase>
+<catchphrase "id=c5">unreasonableness of decision to issue s 155 notice</catchphrase>
+<catchphrase "id=c6">market definition</catchphrase>
+<catchphrase "id=c7">market in australia</catchphrase>
+<catchphrase "id=c8">trade practices</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ In two separate proceedings heard together and commenced respectively by the applicant ('Emirates') against the first respondent ('ACCC') and the second respondent ('Mr Samuel'), and by the first and second applicants, Singapore Airlines Limited and Singapore Airlines Cargo Pte Ltd (together 'Singapore Airlines'), against the ACCC, Emirates and Singapore Airlines challenge the decisions to issue, and the validity of, several notices issued by the ACCC and Mr Samuel pursuant to s 155(1) of the Trade Practices Act 1974 (Cth) ('the Act').</sentence>
+<sentence id="s1">Each notice primarily sought documents and information for an alleged price fixing agreement, arrangement, or understanding in relation to international air cargo services, purportedly contravening s 45 of the Act.</sentence>
+<sentence id="s2">Relief is sought under a variety of provisions, including s 16 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) ('the ADJR Act'), ss 21 and 23 of the Federal Court of Australia Act 1976 (Cth) and s 163A of the Act.</sentence>
+<sentence id="s3">To the extent any extension of time was required to bring an application under s 16 of the ADJR Act, I would have granted such an extension of time if the application was otherwise meritorious.</sentence>
+<sentence id="s4">The applications of Emirates and Singapore Airlines are not identical, and do not raise the same grounds in relation to all the notices issued by the ACCC.</sentence>
+<sentence id="s5">Nevertheless, it is convenient to deal compendiously with all grounds relied upon by the applicants, including the grounds relating to the alleged burden imposed upon the applicants by some of the notices and the alleged unreasonableness of the decisions to issue those notices.</sentence>
+<sentence id="s6">Emirates received three s 155 notices and Singapore Airlines received five s 155 notices.</sentence>
+<sentence id="s7">While the notices were not identical in form and content, the differences in wording were not considered as being material on the primary argument of Emirates and Singapore Airlines relating to the validity of the notices and, for the purpose of this judgment, I will refer to them collectively as the Notices unless otherwise specified.</sentence>
+<sentence id="s8">As a prefatory matter, a few words must be directed to the question of the reach of the Act.</sentence>
+<sentence id="s9">Initially, it appeared that these proceedings were going to concern the extent to which the Act extended to extraterritorial conduct.</sentence>
+<sentence id="s10">It has long been accepted in the United States that a court may assert jurisdiction under the Sherman Act 15 USC &#167; 1 for anticompetitive conduct occurring wholly outside the territory of the United States, provided that the conduct has effects felt in the United States: see F Hoffmann-La Roche Ltd v Empagran S.A. [2004] USSC 2381 ; 542 US 155 (2004); Hartford Fire Insurance Co v California [1993] USSC 100 ; 509 US 764 (1993).</sentence>
+<sentence id="s11">That s 45 of the Act should be read similarly, at least with respect to corporations carrying on business in Australia, was considered by Merkel J in Bray v F Hoffmann-La Roche Ltd [2002] FCA 243 ; (2002) 118 FCR 1 , at 15-16, and affirmed by the Full Court in Bray v F Hoffmann-La Roche Ltd (2003) 130 FCR 317.</sentence>
+<sentence id="s12">The Notices are said by the applicants to relate to the supply of all international air cargo services.</sentence>
+<sentence id="s13">Such services include wholly international flights and flights inbound to, and outbound from, Australia.</sentence>
+<sentence id="s14">The applicants accepted that services on routes from Australia in respect of outbound flights are supplied in a market in Australia.</sentence>
+<sentence id="s15">It can be readily appreciated that pricing arrangements with respect to wholly international flights and inbound flights may be capable of having the likely effect of controlling the prices for outbound flights.</sentence>
+<sentence id="s16">That such a likely effect may arise is explained by way of a hypothetical.</sentence>
+<sentence id="s17">Imagine that a person in Australia wants to ship computers by air from Sydney to Bangalore.</sentence>
+<sentence id="s18">The applicants conceded that the price for the supply of that service will be negotiated, set, and contracted for wholly within in Australia.</sentence>
+<sentence id="s19">However, the evidence shows that there are no direct flights from Sydney to Bangalore---in fact, there are no direct flights on Singapore Airlines from anywhere in Australia to anywhere other than Singapore.</sentence>
+<sentence id="s20">Thus, in order for Singapore Airlines to transport the computers from Sydney to Bangalore, it would have to route them from Sydney to Singapore and then from Singapore to Bangalore.</sentence>
+<sentence id="s21">Now imagine further that, somewhere outside of Australia, Singapore Airlines and other parties arrange to fix cargo rates from Singapore to Bangalore (on the evidence, this arrangement would most likely occur in Singapore).</sentence>
+<sentence id="s22">No detailed evidence was adduced on the issue of how the prices in Australia for various cargo services are in fact determined.</sentence>
+<sentence id="s23">However, any price-fixing arrangement on the Singapore-Bangalore route will likely have the effect of controlling the overall price that is offered in Sydney for the shipment of the computers from Sydney to Bangalore, because goods freighted from Sydney to Bangalore on Singapore Airlines must travel via Singapore and thus the total price set in Sydney will be a composite of, (or at least affected by), the price for the intermediate legs.</sentence>
+<sentence id="s24">To complete the analysis for purely international services, repeat the hypothetical for every airline and every destination.</sentence>
+<sentence id="s25">It must be accepted that goods being shipped out of Australia can, and will, travel through multiple intermediate ports before reaching their final destination.</sentence>
+<sentence id="s26">Therefore, the price for each intermediate leg of the journey will affect the whole price quoted at the point of origin in Australia.</sentence>
+<sentence id="s27">It follows, then, that price fixing between two international points in relation to the supply of international air cargo services, wherever engaged in, may have the likely effect of fixing the price of outbound international services set in Australia.</sentence>
+<sentence id="s28">To see the relevance of inbound services (ie, the supply of international air cargo services from a point outside Australia to a point in Australia), imagine that the same person wanted to arrange for the round trip air shipment of the computers from Sydney --- perhaps because they are being sent to Bangalore for repair.</sentence>
+<sentence id="s29">Again, the evidence was that the airline would set one price for the services at the port of origin.</sentence>
+<sentence id="s30">Here too, the total price in Sydney would be determined by reference to the price for each intermediate leg of the journey, including the price of the final inbound leg from Singapore to Sydney.</sentence>
+<sentence id="s31">Accordingly, that collusive conduct with respect to pricing on routes between Bangalore-Singapore and Singapore-Sydney could control the price that is set in Sydney for the supply of roundtrip air cargo services outbound from Sydney-Bangalore-Sydney.</sentence>
+<sentence id="s32">However, no further analysis is required on this approach.</sentence>
+<sentence id="s33">The confined scope of these proceedings has been clearly identified by the applicants.</sentence>
+<sentence id="s34">In its reply submissions Emirates explicitly stated that: 
+ the proceeding does not challenge the ability of the ACCC to employ the power conferred by section 155 for broad investigative purposes relating to possible contraventions of the Act, including price fixing conduct suspected to have been engaged in outside Australia.</sentence>
+<sentence id="s35">The proceeding is confined to a challenge to the validity of the instant Notices on the discrete basis that the "matters" the subject of them extend beyond conduct that could ever constitute a contravention of the Act.</sentence>
+<sentence id="s36">
+ Singapore Airlines adopted a similar stance in oral submissions.</sentence>
+<sentence id="s37">EVIDENCE 
+ At the outset I indicate that 'as a matter of logic and without the necessity to have all of the facts' it may be concluded in any given case that particular conduct is not capable of constituting a contravention of the Act: see S A Brewing Holdings Ltd v Baxt (1989) 23 FCR 357 at 377 per Wilcox J.</sentence>
+<sentence id="s38">Evidence may be admitted to show conclusively that, even without all of the facts, the particular conduct as described in a s 155 notice would not be capable of constituting a contravention of the Act.</sentence>
+<sentence id="s39">However, evidence could not be led to show that there is in fact no contravention, assuming the particular conduct as described in a s 155 notice was capable of constituting a contravention of the Act.</sentence>
+<sentence id="s40">I accept that evidence that was not before the decision-maker may be admissible if it is relevant to a particular ground of review, such as unreasonableness: see, eg, Australian Retailers Association v Reserve Bank of Australia [2005] FCA 1707 ; (2005) 148 FCR 446 , 564-66 per Weinberg J; but see Aronson M, Dyer B, and Groves M, Judicial Review of Administrative Action (4 th ed, Lawbook Co, 2009) at 256-58.</sentence>
+<sentence id="s41">In addition, sometimes it will also be necessary to have established the facts upon which legal issues can be resolved.</sentence>
+<sentence id="s42">In the Singapore Airlines proceeding, the parties filed a statement of agreed facts concerning the supply of international air cargo services, which included the following statements and facts: 
+ The following facts are agreed between the parties for the purpose of s 191 Evidence Act 1995 (Cth).</sentence>
+<sentence id="s43">Unless stated otherwise, the facts are applicable as at all relevant times, being the period 1 January 2000 to date.</sentence>
+<sentence id="s44">
+
+ 
+ 1.</sentence>
+<sentence id="s45">Singapore Airlines Ltd (SIA) is incorporated in Singapore.</sentence>
+<sentence id="s46">
+
+ SIA supplies international air transport services to passengers on routes between many different countries, including on routes between Australia and other countries.</sentence>
+<sentence id="s47">The hub of SIA's international passenger services is in Singapore.</sentence>
+<sentence id="s48">
+ Prior to 1 July 2001, SIA operated a Cargo Division which supplied air transport services for cargo on routes between many different countries, including on routes between Australia and other countries.</sentence>
+<sentence id="s49">Air freight is transported either in the 'bellyhold' or lower deck of passenger aircraft or in cargo 'freighters', i.e.</sentence>
+<sentence id="s50">planes dedicated to carrying cargo.</sentence>
+<sentence id="s51">Prior to 1 July 2001, SIA's Cargo Division supplied international air freight services using both passenger aircraft and cargo freighters.</sentence>
+<sentence id="s52">
+ Singapore Airlines Cargo Pte Ltd (SIAC) is a wholly owned subsidiary of SIA.</sentence>
+<sentence id="s53">It is incorporated in Singapore.</sentence>
+<sentence id="s54">With effect on 1 July 2001, SIA transferred to SIAC the assets, liabilities, cargo-related contracts, operations and business activities of the Cargo Division of SIA.</sentence>
+<sentence id="s55">With effect on 3 July 2001, employees of the Cargo Division of SIA ceased to be employed by SIA and were transferred to SIAC.</sentence>
+<sentence id="s56">Since that time, only SIAC has supplied international air transport services for cargo within the Singapore Airlines group of companies.</sentence>
+<sentence id="s57">
+ SIAC conducts business in 57 countries worldwide including Australia and SIA or SIAC operate aircraft in 38 countries.</sentence>
+<sentence id="s58">SIAC or its general sales agents operate out of 76 stations located at international airports to or from which SIAC will carry or arrange for the carriage of cargo.</sentence>
+<sentence id="s59">A list of those countries and stations is annexed and marked "A".</sentence>
+<sentence id="s60">Each station provides services in relation to the airport at which it is located.</sentence>
+<sentence id="s61">
+ In Australia, SIAC currently operates stations at Brisbane, Sydney, Melbourne, Adelaide and Perth international airports.</sentence>
+<sentence id="s62">The stations that SIA previously operated at Cairns and at Darwin were closed in March 2001.</sentence>
+<sentence id="s63">
+ To supply international air transport services for cargo, SIAC purchases from SIA all non-passenger baggage space in the bellyhold of SIA's passenger airplanes and also operates cargo freighters.</sentence>
+<sentence id="s64">The operating fleet of SIAC as at 31 March 2007 comprised 14 B747-400 cargo freighters.</sentence>
+<sentence id="s65">SIAC also purchases cargo space from other carriers, or carriage services by road transport operators.</sentence>
+<sentence id="s66">Typically SIAC will do this in order to deliver freight to airports which are not serviced by either SIA or SIAC aircraft or to allow stations to access available cargo space on SIA or SIAC aircraft which are operated from another station.</sentence>
+<sentence id="s67">
+ Singapore is the main hub and freight distribution centre for SIAC.</sentence>
+<sentence id="s68">Charts depicting the routes flown by SIAC freighter aircraft and SIA passenger aircraft as at March 2007 are shown in the routing charts annexed and marked "B".</sentence>
+<sentence id="s69">SIAC can offer a freight service from any of its origin ports to Australia, routed through Singapore.</sentence>
+<sentence id="s70">
+ The types of freight that are shipped from different countries and different cities can differ substantially.</sentence>
+<sentence id="s71">Carriers offer different types of air freight services from different locations in order to meet the requirements of the particular types of freight that are transported from those locations.</sentence>
+<sentence id="s72">For example, much of the freight shipped out of Melbourne is perishables such as meat, fruit and vegetables.</sentence>
+<sentence id="s73">This type of freight may need to be transported quickly and kept at special temperatures.</sentence>
+<sentence id="s74">... 
+ (The annexures referred to above are not annexed to this judgment.</sentence>
+<sentence id="s75">) 
+ A substantial amount of additional evidence was adduced by the parties in both proceedings, and the ACCC cross-examined a number of witnesses called by Emirates and Singapore Airlines.</sentence>
+<sentence id="s76">Evidence received in each proceeding was to be treated as evidence in the other.</sentence>
+<sentence id="s77">Some objections were taken to certain evidence sought to be tendered by the parties, which in light of the approach I adopt, need not be ruled upon.</sentence>
+<sentence id="s78">No attack was made upon the credit of any witness, although the ACCC submitted that the evidence was far from conclusive and should not be relied upon as contended for by the applicants.</sentence>
+<sentence id="s79">Some of the evidence was of a confidential nature and appropriate orders were made under ss 17 and 50 of the Federal Court of Australia Act 1976 (Cth).</sentence>
+<sentence id="s80">In giving these reasons for judgment I have not found it necessary to refer to this evidence other than in a general way.</sentence>
+<sentence id="s81">The primary purpose of the evidence led was to provide the factual background concerning the markets in which international air cargo services are ordinarily supplied.</sentence>
+<sentence id="s82">Such evidence was said to support the argument that the Court could be satisfied that international air cargo services on routes into Australia, and between two points outside Australia, are not competitively provided in a market in Australia.</sentence>
+<sentence id="s83">Evidence was also led concerning what became known as the 'burden issue'.</sentence>
+<sentence id="s84">That evidence dealt with the steps required to be taken by Singapore Airlines and Emirates to comply with some of the notices.</sentence>
+<sentence id="s85">It also concerned the manner and extent to which Mr Samuel had regard to the burden imposed on the recipients, and what considerations he took into account in deciding to issue the Notices.</sentence>
+<sentence id="s86">THE STATUTORY FRAMEWORK 
+ Relevantly, s 155(1) of the Act provides: 
+ (1) ... if the Commission, the Chairperson or a Deputy Chairperson has reason to believe that a person is capable of furnishing information, producing documents or giving evidence relating to a matter that constitutes, or may constitute, a contravention of this Act or ... a member of the Commission may, by notice in writing served on that person, require that person: 
+
+ (a) to furnish to the Commission, by writing signed by that person or, in the case of a body corporate, by a competent officer of the body corporate, within the time and in the manner specified in the notice, any such information; 
+ 
+ (b) to produce to the Commission, or to a person specified in the notice acting on its behalf, in accordance with the notice, any such documents; or 
+ 
+ (c) to appear before the Commission, or before a member of the staff assisting the Commission who is an SES employee or an acting SES employee and who is specified in the notice, at a time and place specified in the notice to give any such evidence, either orally or in writing, and produce any such documents.</sentence>
+<sentence id="s87">
+ 
+ ... 
+ 
+ (5) A person shall not: 
+ 
+ (a) refuse or fail to comply with a notice under this section; 
+ Section 45(2) provides that a corporation shall not make or give effect to an arrangement if a provision of the proposed arrangement has the purpose, or would have or be likely to have the effect, of substantially lessening competition.</sentence>
+<sentence id="s88">By the operation of s 45(3) "competition" relevantly means 'competition in any market in which ... [the corporation in question or a related corporation] supplies or acquires, or is likely to supply or acquire, goods or services ...'.</sentence>
+<sentence id="s89">By operation of s 45A(1), a provision of an arrangement caught by s 45 is deemed to have the purpose, effect or likely effect of substantially lessening competition if the provision has the purpose, or has or is likely to fix, control or maintain 'the price for ... goods or services supplied or acquired or to be supplied or acquired by the [corporations or related corporations], in competition with each other'.</sentence>
+<sentence id="s90">While it is not mandatory to apply s 45A(1), it is necessary and proper to do so in these proceedings because the ACCC has effectively incorporated the language of s 45A into the Notices.</sentence>
+<sentence id="s91">Reference must then be made to s 4E.</sentence>
+<sentence id="s92">In s 4E, 'market' means a market in Australia and, when used in relation to any goods or services, includes a market for those goods or services and other goods or services that are substitutable for, or otherwise competitive with, the first-mentioned goods or services.</sentence>
+<sentence id="s93">It then remains to interpret s 45(2) in light of the deeming provision as adapted to the circumstances of the present case.</sentence>
+<sentence id="s94">In my view, when one does so, s 45(2) relevantly provides that: a corporation shall not make or give effect to an arrangement if a provision of the arrangement has the purpose, or has or is likely to have the effect, of fixing the price for international air cargo services supplied by the parties to the arrangement or by any of them in competition with each other in any market in Australia in which a corporation that is a party to the arrangement supplies those services.</sentence>
+<sentence id="s95">The services the subject of the unlawful provision must be the services supplied by the relevant party to the arrangement in competition with the other party in any market in Australia.</sentence>
+<sentence id="s96">Put another way, the area of competition has to coincide with the area of restriction imposed by the unlawful provision: see ss 45A(8), 4D(1)(a) and 4D(2); Eastern Express Pty Ltd v General Newspapers Pty Ltd (1991) 30 FCR 385 at 419-20 per Wilcox J; and South Sydney District Rugby League Football Club v News Limited [2000] FCA 1541 ; (2000) 177 ALR 611 at 657 per Finn J.</sentence>
+<sentence id="s97">THE CONCEPT OF MARKET 
+ In the operation of s 45 of the Act, a key concept is 'market'.</sentence>
+<sentence id="s98">There is a plethora of case law regarding the meaning of that term, but the High Court has warned that attempts to define 'market' too precisely are dangerous.</sentence>
+<sentence id="s99">In NT Power Generation Pty Ltd v Power and Water Authority (2004) 219 CLR 90 , the High Court advocated a broader approach, stating (at 117): 
+ The Act is seeking to advance the broad goal of promoting competition.</sentence>
+<sentence id="s100">Certain provisions of the Act, particularly in Pt IV, necessarily turn to a significant degree on expressions which are not precise or formally exact.</sentence>
+<sentence id="s101">One example is "market": there can be overlapping markets with blurred limits and disagreements between bona fide and reasonable experts about their definition, as in this case.</sentence>
+<sentence id="s102">Other examples are "substantial", "competition", "arrangement", "understanding", "purpose" and "reason" (which need only be a "substantial" purpose or reason: s 4F).</sentence>
+<sentence id="s103">It is not appropriate to subject the application of this type of legislation to a process of anatomising, filleting and dissecting... .</sentence>
+<sentence id="s104">
+ (Emphasis added; citations omitted.</sentence>
+<sentence id="s105">) 
+ In Singapore Airlines Ltd v Taprobane Tours WA Pty Ltd [1991] FCA 621 ; (1991) 33 FCR 158 French J (Spender and O'Loughlin JJ agreeing) said in relation to market identification (at 174): 
+ In competition law it has a descriptive and a purposive role.</sentence>
+<sentence id="s106">It involves fact finding together with evaluative and purposive selection.</sentence>
+<sentence id="s107">In any given application it describes a range of economic activities defined by reference to particular economic functions (eg manufacturing, wholesale or retail sales), the class or classes of products, be they goods or services, which are the subject of those activities and the geographic area within which those activities occur.</sentence>
+<sentence id="s108">In its statutory setting the market designation imposes, on the activities which it encompasses, limits set by the law for the protection of competition.</sentence>
+<sentence id="s109">It involves a choice of the relevant range of activity by reference to economic and commercial realities and the policy of the statute.</sentence>
+<sentence id="s110">To the extent that it must serve statutory policy, the identification will be evaluative and purposive as well as descriptive.</sentence>
+<sentence id="s111">
+ In addition Dawson J observed in Queensland Wire Industries Pty Ltd v Broken Hill Proprietary Company Ltd [1989] HCA 6 ; (1989) 167 CLR 177 (at 198-99): 
+ Lying behind both of those questions is the concept of the market, a concept which is sometimes dealt with in a more complex manner than is necessary.</sentence>
+<sentence id="s112">A market is an area in which the exchange of goods or services between buyer and seller is negotiated.</sentence>
+<sentence id="s113">It is sometimes referred to as the sphere within which price is determined and that serves to focus attention upon the way in which the market facilitates exchange by employing price as the mechanism to reconcile competing demands for resources: see Stigler and Sherwin, "The Extent of the Market", (1985) 28 Journal of Law and Economics vol 28 (1985) 555 at p. 555.</sentence>
+<sentence id="s114">In setting the limits of a market the emphasis has historically been placed upon what is referred to as the "demand side", but more recently the "supply side" has also come to be regarded as significant.</sentence>
+<sentence id="s115">The basic test involves the ascertainment of the cross-elasticities of both supply and demand, that is to say, the extent to which the supply of or demand for a product responds to a change in the price of another product.</sentence>
+<sentence id="s116">Cross-elasticities of supply and demand reveal the degree to which one product may be substituted for another, an important consideration in any definition of a market.</sentence>
+<sentence id="s117">This is reflected in s 4E of the Trade Practices Act which provides: 
+
+ 
+"For the purposes of this Act, 'market' means a market in Australia and, when used in relation to any goods or services, includes a market for those goods or services and other goods or services that are substitutable for, or otherwise competitive with , the first-mentioned goods or services" (My emphasis.</sentence>
+<sentence id="s118">)
+ 
+ 
+ Important as they are, elasticities and the notion of substitution provide no complete solution to the definition of a market.</sentence>
+<sentence id="s119">A question of degree is involved --- at what point do different goods become closely enough linked in supply or demand to be included in the one market --- which precludes any dogmatic answer.</sentence>
+<sentence id="s120">See Times-Picayune v United States .</sentence>
+<sentence id="s121">
+ (Citations omitted.</sentence>
+<sentence id="s122">) 
+ In Universal Music Australia Pty Ltd v Australian Competition and Consumer Commission [2003] FCAFC 193 ; (2003) 131 FCR 529 the Full Court (Wilcox, French and Gyles JJ) said (at 545): 
+ The concept of a "market" is a metaphor used to describe a range of competitive activities by reference to function, product and geography.</sentence>
+<sentence id="s123">The application of the metaphor may be informed by economic analysis, provided it is rooted in commercial realities.</sentence>
+<sentence id="s124">
+ Then in Trade Practices Commission v Nicholas Enterprises Pty Ltd (No 2) (1979) 40 FLR 83 Fisher J said (at 111): 
+ The Trade Practices Tribunal considered the concept of market in some detail in Re Queensland Co-operative Milling Association Ltd (1975-6) 8 ALR 481 at 517, where the members said: "A market is the area of close competition between firms or, putting it a little differently, the field of rivalry between them.</sentence>
+<sentence id="s125">...</sentence>
+<sentence id="s126">Within the bounds of a market there is substitution --- substitution between one product and another, and between one source of supply and another, in response to changing prices.</sentence>
+<sentence id="s127">So a market is the field of actual and potential transactions between buyers and sellers amongst whom there can be strong substitution, at least in the long run, if given a sufficient price incentive".</sentence>
+<sentence id="s128">
+ It is significant to note that consideration must be given to both actual and potential transactions between buyers and sellers in identifying the 'field of rivalry' between competitors.</sentence>
+<sentence id="s129">CONSTRUCTION OF SECTION 155(1) 
+ There is also now an extensive body of judicial consideration on the scope and requirements of s 155 notices, but it is convenient to refer to the decision of the Full Federal Court in Seven Network Ltd v Australian Competition and Consumer Commission [2004] FCAFC 267 ; (2004) 140 FCR 170.</sentence>
+<sentence id="s130">In that case Sackville and Emmett JJ set out the process for construing notices against the s 155 requirements, and stated (at 182-83): 
+ The authorities have established a number of propositions concerning the interpretation of s 155(1) of the TP Act.</sentence>
+<sentence id="s131">They include the following: 
+
+ 
+ (i) In a context where refusal or failure to comply with a s 155 notice is punishable by imprisonment or fine, the notice must: 
+
+ (a) convey with reasonable clarity to the recipient the information that must be furnished; and 
+ 
+ (b) disclose that the ACCC is entitled to require the recipient to furnish the specified information: 
+ 
+Pyneboard Pty Ltd v Trade Practices Commission [1983] HCA 9 ; (1982) 57 FLR 368 at 374, per curiam.</sentence>
+<sentence id="s132">
+ 
+ 
+ (ii) The second of these requirements will not be satisfied unless it appears from the notice that the information sought is information "relating" to one or more "matters" of a kind described in s 155(1): Pyneboard v TPC at 375 ; SA Brewing v Baxt at 369-70 ; Bannerman v Mildura Fruit Juices Pty Ltd [1984] FCA 156 ; (1984) 2 FCR 581 at 584, per Bowen CJ and Neaves J.</sentence>
+<sentence id="s133">However, the question whether a notice discloses the necessary "relatedness" is not to be approached in an "over-technical or hypercritical way": Pyneboard v TPC at 376.</sentence>
+<sentence id="s134">Moreover, the "relatedness" is to a proper inquiry into the suspected offences: Panelboard Pty Ltd v Trade Practices Commission [1981] FCA 98 ; (1981) 59 FLR 395 at 407, per Fox J.</sentence>
+<sentence id="s135">
+
+ 
+ (iii) Section 155(1) does not require the Chairperson of the ACCC to have "reason to believe" that a specified matter constitutes or may constitute a contravention of the TP Act.</sentence>
+<sentence id="s136">The Chairperson must, however, have reason to believe that the relevant person is capable of furnishing information relating to the matter specified in the notice: WA Pines v Bannerman at 179, per Brennan J (with whom Bowen CJ agreed); TNT Australia Pty Ltd v Fels [1992] HCA 55 ; [1992] ATPR 40 ,595 (41-190) at 40,598-40,599, per Gummow J.</sentence>
+<sentence id="s137">It follows that the Chairperson or other officer must believe that the person to whom the notice is directed is capable of furnishing information relating to the facts known or suspected: WA Pines v Bannerman at 180.</sentence>
+<sentence id="s138">In addition, there must be facts in existence which are sufficient to induce that belief in a reasonable person: George v Rockett at 112.</sentence>
+<sentence id="s139">
+
+ 
+ (iv) The word "matter" in s 155(1) is to be construed in its ordinary sense of an affair or thing: Melbourne Home of Ford Pty Ltd v Trade Practices Commission [1979] FCA 15 ; (1979) 36 FLR 450 at 474, per Franki and Northrop JJ; SA Brewing v Baxt at 369.</sentence>
+<sentence id="s140">It refers to a body of facts which constitutes or may constitute a contravention of the TP Act.</sentence>
+<sentence id="s141">Whether or not the relevant body of facts constitutes a contravention is a matter of law and does not turn on the perception or knowledge of the ACCC or its officers: WA Pines v Bannerman at 179.</sentence>
+<sentence id="s142">
+
+ 
+ (v) When s 155(1) speaks of a matter which may constitute a contravention, it refers to a body of facts not fully known and which may, when fully known, reveal themselves as constituting a contravention: WA Pines v Bannerman at 179.</sentence>
+<sentence id="s143">The words "may constitute" enable a court to judge from the material in the notice whether, if other facts which may or may not have occurred come to light, the whole body of facts would constitute a contravention: SA Brewing v Baxt at 370.</sentence>
+<sentence id="s144">It is not necessary for the Court to determine whether a contravention has occurred; but equally it will not "idly speculate" or "draw on improbable circumstances" to uphold a notice: SA Brewing v Baxt at 370.</sentence>
+<sentence id="s145">An alternative formulation is that the Court can take account of facts which may "reasonably be suspected" to have occurred: WA Pines v Bannerman at 179.</sentence>
+<sentence id="s146">
+
+ 
+ (vi) Where the matter referred to in the notice, after allowing for undiscovered facts, is incapable of amounting to a contravention, the issue of the notice is not a valid exercise of the power conferred by s 155(1): SA Brewing v Baxt at 371-72.</sentence>
+<sentence id="s147">
+
+ 
+ (vii) In view of the principle that a court should not adopt an "over-technical or hypercritical approach" to the construction of a notice, there is no requirement that the notice "plead" all the facts necessary to constitute a contravention or possible contravention of the TP Act: SA Brewing v Baxt at 370.</sentence>
+<sentence id="s148">
+
+ 
+ (viii) Information which tends to negative a suspected contravention or liability to conviction or which tends to exculpate a person suspected to be a party to a contravention, is within the ambit of s 155(1).</sentence>
+<sentence id="s149">It follows that an inquiry under s 155 may relate to a defence or possible defence available to the suspected person: WA Pines v Bannerman at 180.</sentence>
+<sentence id="s150">
+ Further to these requirements, if the matter is defined too widely in a notice, so as to include facts or circumstances which could not, even after allowing for undiscovered facts, be a contravention, then the issue of the notice is not a valid exercise of power.</sentence>
+<sentence id="s151">This is because the recipient could not know that any document required to be produced is a document to which the ACCC is entitled to, nor that any document does in fact relate to a relevant (as distinct from irrelevant) matter.</sentence>
+<sentence id="s152">Whether the matter is defined too widely is dependent on the particular contravention alleged and the body of facts which may constitute such a contravention.</sentence>
+<sentence id="s153">This conclusion derives from the principles referred to in Seven Network [2004] FCAFC 267 ; 140 FCR 170 , and accords with the reasoning of Bowen CJ and Neaves J (at 586-87) and Davies J (at 590-91) in Bannerman v Mildura Fruit Juices Pty Ltd [1984] FCA 156 ; (1984) 2 FCR 581 , the views expressed by the Full Court (Northrop, Deane and Fisher JJ) in Pyneboard Pty Ltd v Trade Practices Commission [1983] HCA 9 ; (1982) 57 FLR 368 at 373-74 and the comments of Griffith CJ in Melbourne Steamship Co Ltd v Moorehead [1912] HCA 69 ; (1912) 15 CLR 333 at 344.</sentence>
+<sentence id="s154">THE NOTICES 
+ Taking the notice dated 31 October 2007 to Emirates as the example, it relevantly provided: 
+ Whereas I, Graeme Julian Samuel, Chairman of the Australian Competition and Consumer Commission (ACCC), have reason to believe that Emirates ARBN 073 569 696 is capable of furnishing information relating to matters that constitute or may constitute contraventions of s 45 of the Trade Practices Act 1974 (Cth) (the Act) namely: 
+
+ THE MATTERS THAT CONSTITUTE OR MAY CONSTITUTE 
+ CONTRAVENTIONS OF SECTION 45 OF THE ACT: 
+
+ On a date or dates unknown to the ACCC, but estimated to be at least in the period from 1 January 2000 to 28 February 2006 inclusive, Emirates and one or more other international air cargo carriers (the Fuel Surcharge Parties), two or more of which were carrying on business within Australia, being competitors or potential competitors for the supply of international air cargo services, including on routes to and/or from Australia, made or arrived at one or more arrangements or understandings with each other containing provisions to the effect that the Fuel Surcharge parties, or any of them, would: 
+ 
+ [manipulate fuel surcharge rates or the fuel price component] 
+
+ 
+ such provisions having the purpose, or purposes including the substantial purpose, effect or likely effect of fixing, controlling or maintaining, or providing for the fixing, controlling or maintaining of, the price for international air cargo services supplied or to be supplied by all or any of the Fuel Surcharge Parties and/or related bodies corporate of any of them, including on routes to and/or from Australia, in competition with each other.</sentence>
+<sentence id="s155">
+ 
+ 
+This notice then defined a number of terms, including:
+ 
+ 'Fuel Surcharge' means any charge imposed by any international air cargo carrier in respect of international air cargo services which charge is either identified as a fuel surcharge or constitutes a charge attributed by the carrier to, or known or believed by the carrier to have been occasioned by: 
+
+ 
+ a) a change in the price of aviation fuel; or 
+
+ fuel surcharges imposed or foreshadowed by another or other international air cargo carriers.</sentence>
+<sentence id="s156">
+ 
+ 'Fuel Price Component' means a component or part of the price (including general rates) of an international air cargo carrier in respect of international air cargo services which is attributed by the carrier to, or known or believe by the carrier to have been occasioned by: 
+ a change in the price of aviation fuel; or 
+ fuel surcharges imposed or foreshadowed by another or other international air cargo carriers.</sentence>
+<sentence id="s157">
+Schedule 1 to the notice listed the information to be furnished by Emirates.</sentence>
+<sentence id="s158">There was no definition of 'international air cargo services' in this notice, and the definition of 'Fuel Surcharge' was different from other notices, whilst the 'Fuel Price Component' definition appeared for the first time.</sentence>
+<sentence id="s159">In other notices, the definition of 'international air cargo services' was as follows: 
+ 'international air cargo services' means transportation of air cargo (and associated services) between and at international airports, including between and at Australian and foreign airports, by international air cargo carriers, and includes such transportation and associated services carried out through code sharing or interlining arrangements with other international air cargo carriers 
+ In another notice to Emirates dated 26 March 2008, the phrase 'international air cargo services, including on routes to and/or from Australia' was designated and defined as 'the Services', which was then adopted throughout the rest of that notice.</sentence>
+<sentence id="s160">At least for the purposes of considering the primary argument of Emirates and Singapore Airlines, no point of principle was made as to these distinctions.</sentence>
+<sentence id="s161">Some stylistic or drafting criticisms may be made in respect of some expressions in the Notices.</sentence>
+<sentence id="s162">However, I have adopted a practical and common sense approach to construing the Notices, not being excessively critical where the sense of the Notices would be apparent to the applicants as the recipients of the Notices.</sentence>
+<sentence id="s163">A preliminary attack was made on the use of the concept of point of origin or destination of a service as a reference point able to be used in the Notices.</sentence>
+<sentence id="s164">It was contended that the Notices (even if confined to outbound services) did not sufficiently describe a matter involving a contravention of the Act, particularly in failing to describe the market in Australia.</sentence>
+<sentence id="s165">I accept that just because services cover the movement of goods in or out of Australia, does not necessarily indicate that there is a relevant market located in Australia in respect of those services: see Auskay International Marketing &amp; Trade Pty Ltd v Qantas Airways Ltd [2008] FCA 1458 at [19] and [21] per Tracey J.</sentence>
+<sentence id="s166">However, as I mention later, the Notices when properly construed adequately describe matters capable of involving a contravention of the Act and by reference to a market in Australia.</sentence>
+<sentence id="s167">I make one further observation as to the Notices.</sentence>
+<sentence id="s168">The identified matters concern the alleged contravention of s 45 of the Act and concentrate on the supply of the international air cargo services.</sentence>
+<sentence id="s169">However, as I have alluded to earlier, it is important to observe that the description of the matters in the Notices concern price fixing as defined by s 45A of the Act, and it is upon that provision attention should be focussed in interpreting the Notices.</sentence>
+<sentence id="s170">ARE THE MATTERS IDENTIFIED IN THE NOTICES CAPABLE OF CONSTITUTING A CONTRAVENTION OF SECTION 45 OF THE ACT?</sentence>
+<sentence id="s171">
+ The correct starting point is to determine whether the matters identified in the Notices are incapable, after allowing for undiscovered facts, of constituting a contravention of s 45 of the Act by reference to the deeming provision of s 45A.</sentence>
+<sentence id="s172">As noted by Sackville and Emmett JJ in Seven Network [2004] FCAFC 267 ; 140 FCR 170 '[u]ltimately, the question is whether the matter identified in the Notices "may constitute" a contravention of the [Act]' (at 184).</sentence>
+<sentence id="s173">The substantial challenge to the decision to issue the Notices, and to the Notices themselves, seized upon this concept of 'matter'; specifically, Emirates argued that the Notices should be set aside because they: 
+ relate to, and purport to require [the applicants] to furnish information and produce documents relating to, matters that cannot constitute a contravention of s 45(2) of the [Act] .</sentence>
+<sentence id="s174">Those matters concern alleged agreements or understandings relating to the supply of air cargo services on routes into Australia and routes between two or more points outside Australia.</sentence>
+<sentence id="s175">Such services are not supplied in competition in a market in Australia.</sentence>
+<sentence id="s176">By virtue of s 45(3) and 4E of the [Act] , it is only services supplied in competition in a market in Australia that can possibly found a contravention of s 45(2).</sentence>
+<sentence id="s177">
+
+Singapore Airlines essentially made the same submission.</sentence>
+<sentence id="s178">It was accepted by Emirates and Singapore Airlines that the evidence adduced in these proceedings was not intended to, nor would it enable, the Court to conclude whether all international air cargo services are supplied in a single global market or in many different markets and the boundaries of those markets.</sentence>
+<sentence id="s179">It was said by Emirates, at least, that: 
+(a) the Notices allege an arrangement containing provisions that fix the price of international air cargo services supplied by the parties throughout the world;
+ 
+(b) regardless of whether a conclusion is ultimately reached that international air cargo services are supplied in a single global market or many different markets, the supply of those services outside Australia to acquirers outside Australia cannot occur in a market in Australia within the meaning of the Act;
+ 
+(c) in so far as the alleged arrangement contained a provision fixing the price of international air cargo services supplied outside Australia to acquirers outside Australia, it does not satisfy the elements of s 45A; and
+ 
+(d) the conclusion in para (c) holds regardless of whether the parties to the arrangement also supply international air cargo services of the same kind in Australia to acquirers in Australia.</sentence>
+<sentence id="s180">As I have indicated, it was accepted by the applicants that an arrangement containing a provision fixing the price at which those services are supplied in Australia to acquirers in Australia would satisfy the elements of s 45A and could be a contravention of s 45 of the Act.</sentence>
+<sentence id="s181">The applicants accepted that if the Notices were properly framed that a matter relating to the supply of international air cargo services on routes from Australia would be cognizable under the Act.</sentence>
+<sentence id="s182">However, the applicants rely upon the proposition that where a notice defines a matter in such a way as to include things that are incapable of being a contravention of the Act, then the whole notice is invalid.</sentence>
+<sentence id="s183">I have accepted this proposition: (see [30]-[31] above).</sentence>
+<sentence id="s184">If the Notices were properly framed and only referred to services in relation to outbound routes, then on the applicants' case, the fact that there may be acquirers of those services outside Australia would not affect the validity of the Notices on this primary ground of attack.</sentence>
+<sentence id="s185">It would be accepted there is a market in Australia.</sentence>
+<sentence id="s186">No suggestion would be made that the Notices are enquiring into a matter not the subject of the Notice in reliance of the principles outlined in Bannerman [1984] FCA 156 ; 2 FCR 581 , Pyneboard [1983] HCA 9 ; 57 FLR 368 and Melbourne Steamship Co Ltd [1912] HCA 69 ; 15 CLR 333.</sentence>
+<sentence id="s187">The applicants are required to demonstrate that, in relation to inbound services and overseas destinations, the supply of services only involves the supply of services outside Australia to acquirers outside Australia, and not in a market in Australia.</sentence>
+<sentence id="s188">CONSTRUCTION OF THE NOTICES 
+ Before going further, however, as the attack of the applicants is confined specifically to the ambit of the Notices, I must undertake a construction of the Notices themselves.</sentence>
+<sentence id="s189">There was some debate before me as to the meaning to be given to the Notices, particularly the scope of the enquiry and the phrase 'including on routes to and/or from Australia'.</sentence>
+<sentence id="s190">In the ACCC's closing submission in reply, it contended as follows: 
+ Once the true breadth of s 45 is properly understood it can be seen that the notices are perfectly valid, even if one assumes that the "matter" may relate to any international air cargo flights conducted by the Applicants regardless of the ports of origin or destination.</sentence>
+<sentence id="s191">As such, the Court does not need to become involved in a minute analysis of the wording of the notices.</sentence>
+<sentence id="s192">However, if the Court was to undertake such a task it is apparent that the notices in the case are, in fact, not as broad as the Applicants contend (or as broad as they could be, taking into account the breadth of s 45).</sentence>
+<sentence id="s193">
+
+ 
+ The notices in this case refer to various named airlines and then state: 
+
+ 
+"and other international air cargo carriers ... , two or more of which were carrying on business in Australia, being competitors or potential competitors for the supply of international air cargo services including on routes to and from Australia ..."
+ 
+ 
+ Two things may be noted about this formulation.</sentence>
+<sentence id="s194">First the words between the commas "two or more of which were carrying on business in Australia" is a totally self-contained phrase.</sentence>
+<sentence id="s195">The phrase "competitors or potential competitors for the supply of international air cargo services including on routes to and from Australia" relates to all of the named and unnamed airlines and not just the "two or more" who are said to be carrying on business in Australia.</sentence>
+<sentence id="s196">
+
+ 
+ This leads to the second point.</sentence>
+<sentence id="s197">As noted, each of the named and unnamed airlines are said to be "competitors or potential competitors for the supply of international air cargo services including on routes to and from Australia".</sentence>
+<sentence id="s198">The phrase "including on routes to and from Australia" does have important (albeit limited) work to do.</sentence>
+<sentence id="s199">
+
+ 
+ If it is said about a barrister that he or she practices in a range of areas of law including trade practices law, the phrase "including trade practices law" is not without meaning.</sentence>
+<sentence id="s200">It means that the barrister practices in trade practices law amongst other unspecified areas of law.</sentence>
+<sentence id="s201">In the same way the notices make it plain that each of the relevant airlines are competitors or potential competitors in the supply [of] international air cargo services on routes to and/or from Australia, as well as being competitors elsewhere.</sentence>
+<sentence id="s202">The territorial nexus of the competition to Australia is thus made out.</sentence>
+<sentence id="s203">The phrase ("including routes to and/or from Australia") has excluded those airlines that do not fly to or from Australia and which do not have any genuine potential to do so.</sentence>
+<sentence id="s204">
+
+ 
+ This also answers the question posed by his Honour as to whether the notices could be read as follows: 
+
+ 
+"On a date or dates unknown to the ACCC, but estimated to be at least in the period from 1 January 2000 to 28 February 2006 inclusive, two or more of [various airlines], two or more of which were carrying on business within Australia, being competitors or potential competitors for the supply of international air cargo services ( outside Australia ), made or arrived at one or more arrangements or understandings with each other containing provisions to the effect that [the airlines] would [manipulate fuel surcharge rates] such provisions having the purpose, or purposes including the substantial purpose, effect or likely effect of fixing, controlling or maintaining, or providing for the fixing, controlling or maintaining of, the price for fuel surcharges in respect of international air cargo services supplied or to be supplied by all or any of the [airlines] and/or related bodies corporate of any of them, in competition with each other ( to customers outside Australia )".</sentence>
+<sentence id="s205">
+ The notices could not be read in that way because the notices, as drafted, require the airlines to actually or potentially provide international air cargo services in Australia (albeit they may also provide services elsewhere).</sentence>
+<sentence id="s206">This excludes airlines and services which have no actual or potential connections whatsoever with Australia.</sentence>
+<sentence id="s207">
+
+ 
+ In any event, if the Court is minded to do so (and for the reasons expressed above it should not do this) a blue line can simply be ruled through the word "including".</sentence>
+<sentence id="s208">This will not destroy the sense of the notices or even have any effect on the schedules which are almost all limited to documents relating to routes to and from Australia.</sentence>
+<sentence id="s209">Even those documents that are not so limited (the third notice to Emirates, the fourth and fifth notices to Singapore Airlines) will still be "related to" routes to and from Australia for the reasons set out in paragraph 43 of the respondents' written closing submissions.</sentence>
+<sentence id="s210">
+
+ 
+ In one very technical aspect, the Applicants are correct in their interpretation of the notices.</sentence>
+<sentence id="s211">In the first paragraph of the notices reference is made to the nature of the market and the competition between the airlines when referring to the airlines.</sentence>
+<sentence id="s212">As set out in paragraphs 2 and 3 above, "competition" and the relevant "market" are only relevant where one is considering the services that are being supplied or acquired (that is, in relation to paragraph 3(c)), not specifically in relation to the corporations themselves (that is, paragraph 3(a)).</sentence>
+<sentence id="s213">However, in the final paragraph, the notices allege price fixing: 
+
+ 
+"in respect of international air cargo services supplied by all or any of the Fuel Surcharge Parties ...[or] any of them, including on routes to and/or from Australia, in competition with each other.".</sentence>
+<sentence id="s214">
+ In this context, it is made clear that the services (i.e.</sentence>
+<sentence id="s215">international air cargo services) are being supplied in a market in Australia (i.e.</sentence>
+<sentence id="s216">"including routes to and/or from Australia").</sentence>
+<sentence id="s217">The words "in competition with each other" reflect the words at paragraph 3(c)(i) above and at the end of in [sic] s 45A(1) and clearly relate to the nature of competition referred to in the first paragraph.</sentence>
+<sentence id="s218">The clear meaning is so apparent that the point would not be a good one even if the issue was raised in the context of a pleading complaint, let alone a s 155 notice.</sentence>
+<sentence id="s219">
+ I do not consider that it would be appropriate to delete the word 'including' in the Notices.</sentence>
+<sentence id="s220">Whilst the proverbial 'blue pencil' may be appropriately used in the schedules, the definition of the 'matter' is essential to the validity of the Notices.</sentence>
+<sentence id="s221">However, as will be apparent, my interpretation of the Notices has the effect of construing the Notices as if the word 'including' was deleted.</sentence>
+<sentence id="s222">It is important to recall that the Notices should not be read in an overly-technical way: they are to be 'reasonably, not preciously, construed': see Melbourne Home of Ford Pty Ltd v Trade Practices Commission (No 3) [1980] FCA 94 ; (1980) 47 FLR 163 at 175-76 (per Brennan, Keely and Fisher JJ), and S A Brewing 23 FCR 357 at 369 (per Fisher and French JJ).</sentence>
+<sentence id="s223">In addition, regard may be had to the identity of, and the knowledge available to, the recipient of the notice: see Seven Network [2004] FCAFC 267 ; 140 FCR 170 , 189 at [75] (per Sackville and Emmett JJ).</sentence>
+<sentence id="s224">In the Notices, the phrase 'including on routes to and/or from Australia', where first appearing, identifies those international air cargo carriers alleged to be the parties to the arrangement.</sentence>
+<sentence id="s225">While the inclusion of this phrase, where first appearing, would assist in avoiding any issue arising under s 5 of the Act, the phrase does not there define the provision that is alleged contravene, namely s 45(2) of the Act, as read by the incorporation of the deeming provision s 45A.</sentence>
+<sentence id="s226">However, in each of the Notices, the reference to 'international air cargo services' (or similar phrase) and the phrase 'including on routes to/and or from Australia', where later appearing in the Notices, does qualify the services as concerning only routes to and/or from Australia.</sentence>
+<sentence id="s227">The phrase 'including on routes to and/or from Australia' (used twice in the Notices) applies to the identification of the airlines and to the services that are being supplied.</sentence>
+<sentence id="s228">In my view, a similar qualification is to be made to the description of the provision itself said to be the basis of the contravention.</sentence>
+<sentence id="s229">Leaving aside the question of whether it is necessary for the Notices to be so confined, in my view, wherever the use of the expression 'international air cargo services' is used in the Notices that expression is qualified by the phrase 'including on routes to and/or from Australia'.</sentence>
+<sentence id="s230">This conforms with the submission of the ACCC in the context of the identification of the airlines and the services that are supplied.</sentence>
+<sentence id="s231">This has been expressly achieved by a definition of 'the Services' in the notice to Emirates dated 26 March 2008, and has been achieved by the context in which the reference and qualifying phrase appears in the other Notices.</sentence>
+<sentence id="s232">Therefore, the reference to 'international air cargo services' is limited to those services on routes to and/or from Australia.</sentence>
+<sentence id="s233">Whilst the Notices do not specifically then go on to describe the matters in terms of the market in Australia, I do not consider that this is necessary in the circumstances.</sentence>
+<sentence id="s234">The sense of the Notices concerns competitors carrying on business in Australia, being competitors for the supply of services only in respect of routes to and/or from Australia, and concerns services supplied in and from Australia.</sentence>
+<sentence id="s235">I do not consider the Notices need then to 'plead' the elements of the market in Australia.</sentence>
+<sentence id="s236">The Notices on a reasonable and sensible construction only envisage a possible contravention where the allegedly unlawful provision has the purpose or the effect of fixing prices in respect of services supplied on routes to and/or from Australia, and in a market in Australia.</sentence>
+<sentence id="s237">On this basis, the Notices do not specifically refer to an arrangement containing provisions that have the purpose or the effect of fixing the price of international air cargo services supplied by the parties throughout the world without any connection to Australia or otherwise than in a market in Australia.</sentence>
+<sentence id="s238">The arrangement is alleged to contain a provision fixing the price at which international air cargo services are supplied in a market in Australia, to the extent that the airlines actually or potentially provide international air cargo services in Australia.</sentence>
+<sentence id="s239">The reference to journeys to Australia is to be properly read as a reference to these international air cargo services supplied in a market in Australia, just as the reference to journeys from Australia.</sentence>
+<sentence id="s240">Therefore, I construe the Notices as referring to international air cargo services only to the extent that they are outbound and inbound services, supplied in a market in Australia.</sentence>
+<sentence id="s241">However, the fact that the Notices are properly framed and are construed as relating only to outbound and inbound services, still does not dispose of the applicants' complaints.</sentence>
+<sentence id="s242">It is necessary to consider the potential market for these services.</sentence>
+<sentence id="s243">MARKET IN AUSTRALIA 
+ The applicants argue that there is no market in Australia for the supply of inbound international air cargo services because when the airlines carry cargo to Australia from another country, the marketing, competition, negotiation, and contracting for such services, and particularly the setting of rates, occurs entirely outside of Australia.</sentence>
+<sentence id="s244">The same is true, they say, for the supply of air cargo services between two points wholly outside Australia (for example London to New York).</sentence>
+<sentence id="s245">To put it another way, competitive activity between airlines offering cargo service takes place at the point of origin of the cargo.</sentence>
+<sentence id="s246">The applicants rely on Heydon J D, Trade Practices Law (Lawbook Co., subscription service), which states (at [3.258]) that for a market to be in Australia, 'the buyers and sellers must engage in transactions in Australia' and that (at [3.510]) 'if a market extends beyond the limits of Australia the court would apply the [Act] in reference to that part of it which falls within Australia'.</sentence>
+<sentence id="s247">Also underpinning the applicants' submissions were the propositions that a market must be taken to be located at the place of contracting (as opposed to the place or places where the services are provided) and the place of contracting is the place where the air way bill is cut (ie, the port of origin).</sentence>
+<sentence id="s248">It was said by Singapore Airlines, and this applied to Emirates as well, that international air cargo services are marketed, negotiated and contracted between carriers and freight forwarders in the city or country where the freight to be transported is located.</sentence>
+<sentence id="s249">Whilst I accept for the purposes of these proceedings that, other than in respect of outbound services, the actual place of contracting is not in Australia, I do not regard the evidence as conclusively justifying a finding that necessarily no marketing or negotiating occurs in Australia in respect of all international air cargo services.</sentence>
+<sentence id="s250">I make the following findings on the basis of the unchallenged evidence before me.</sentence>
+<sentence id="s251">Even accepting the evidence of the applicants and without recourse to the evidence led in chief by the ACCC, the evidence does not demonstrate that there is no possibility of competitive activity in a market in Australia in relation to inbound services to Australia.</sentence>
+<sentence id="s252">I will return later to the specific issue of whether a market in Australia is limited to the circumstance where the buyers and sellers actually engage in transactions or contract in Australia.</sentence>
+<sentence id="s253">The applicants' evidence does not eliminate (as it must) any reasonable hypothesis which is inconsistent with the contention that the market is wholly outside Australia even if one focuses on the inbound services in isolation: see S A Brewing 23 FCR 357 at 370 and Seven Network [2004] FCAFC 267 ; 140 FCR 170 at [9] and [52].</sentence>
+<sentence id="s254">There are many reasons for this, but I provide a non-exhaustive list: It is also not possible to conclude that the market for air cargo services into Australia is not part of the international air cargo market, of which the Australian market is, or may be, a part of.</sentence>
+<sentence id="s255">It is certainly not idle speculation, even after taking into account the facts so for adduced by the applicants, that the relevant competitive activities did occur in a market in Australia as part of an international air cargo market.</sentence>
+<sentence id="s256">Further, it seems to me that inbound and outbound services (putting aside international services for the moment) are sufficiently connected to be at least possibly complementary services.</sentence>
+<sentence id="s257">It is possible that the carriage of the outbound cargo from Australia and inbound cargo to Australia are really to be identified together, putting aside where the individual transactions actually occur in relation to each other.</sentence>
+<sentence id="s258">It may be that the inbound services are in the same market as the outbound services, then on the basis of the applicants' acceptance that outbound services are in a market in Australia, inbound services would similarly be capable of being part of that market.</sentence>
+<sentence id="s259">Therefore, I cannot be satisfied that the applicants have demonstrated on the above basis that the matter identified in relation to inbound services is not capable of being in contravention of the Act.</sentence>
+<sentence id="s260">The applicants also contended that the place of entering into the contract for the inbound services determines the location of the geographic market, and in the case of inbound services, this is outside Australia.</sentence>
+<sentence id="s261">In my view, the place of contracting is not determinative of the geographic locality of the relevant market.</sentence>
+<sentence id="s262">The references relied upon in Heydon J D, Trade Practices Law (Lawbook Co., subscription service) do not, in context, stand for such a proposition.</sentence>
+<sentence id="s263">As the authorities referred to previously indicate, the concept of a 'market' refers to a range of 'competitive activities' relating to the field of actual or potential activities between buyers and sellers among whom there is, or can be, close competition.</sentence>
+<sentence id="s264">It involves the 'field of rivalry', not just referrable to the place of contracting.</sentence>
+<sentence id="s265">With the advent of modern telecommunications any other approach may fail to give protection to, and enhance the welfare of, Australians who use and obtain services in Australia.</sentence>
+<sentence id="s266">After all, the focus of s 45 is on the supply of the services.</sentence>
+<sentence id="s267">The notion of a 'market in Australia' was recently referred to by Lindgren J in Australian Competition and Consumer Commission v Qantas Airways Limited [2008] FCA 1976 , where his Honour stated (at [33]-[34]): 
+ Although the notion of a "market in Australia" in s 4E has been referred to in two cases ( Riverstone Computer Services Pty Ltd v IBM Global Financing Australia Ltd [2002] FCA 1608 at [21] per Hill J and Auskay International Manufacturing &amp; Trade Pty Ltd v Qantas Airways Ltd (2008) ATPR 42-256 at [19] per Tracey J), the concept has not been the subject of extensive judicial consideration.</sentence>
+<sentence id="s268">
+
+ 
+ In Riverstone , Hill J rejected the proposition that in order to be a "market in Australia" a market must be wholly within Australia.</sentence>
+<sentence id="s269">His Honour said (at [21]) that the fact that a market was global did not signify that there could not be a market in Australia for the same products.</sentence>
+<sentence id="s270">As the Commission points out, a contrary view would considerably reduce the efficacy and utility of the competition law provisions of the Act, especially in the modern telecommunications era.</sentence>
+<sentence id="s271">
+ Justice Lindgren went on to conclude that the definition of "market in Australia" in s 4E excludes a market that is wholly outside Australia, a conclusion with which I respectfully agree.</sentence>
+<sentence id="s272">As other aspects of the decision in Qantas [2008] FCA 1976 proceeded upon agreed facts, however, that case provides little assistance in determining the other issues raised before me which involved 'a concrete dispute reached after contest in argument': see Rural Press Ltd v Australian Competition and Consumer Commission [2003] HCA 75 ; (2003) 216 CLR 53 at [62] (per Gummow, Hayne and Heydon JJ).</sentence>
+<sentence id="s273">In my opinion, Hill J in Riverstone Computer Services Pty Ltd v IBM Global Financing Australia Limited [2002] FCA 1608 was correct in concluding that the fact that a market was global did not signify that there could not be a market in Australia for the same products (or services).</sentence>
+<sentence id="s274">However, I do not take the reference by Hill J to a global market which includes Australia as arguably a market in Australia 'if sales are made [in Australia]' ([2002] FCA 1608 at [22] ) as making it a requirement that the contract under which services are supplied in Australia must be entered into in Australia or that the transactions themselves must be entered into in Australia.</sentence>
+<sentence id="s275">In my view, Hill J was simply proffering an example of how one might identify the possible location of competition, and was not providing a definitive statement that buyers and sellers of services must enter into transactions in Australia.</sentence>
+<sentence id="s276">Justice Tracey in Auskay FCA 1458 did observe that '[b]uyers and sellers of goods and services must negotiate and enter transactions in an area in which suppliers are engaged in close competition with each other' and '[t]hat area must be located within Australia' (at [19]).</sentence>
+<sentence id="s277">However, his Honour also referred to the importance of the place where the relevant competition takes place, and where parties compete to obtain contracts (at [21]).</sentence>
+<sentence id="s278">I do not read his Honour's comments (made in the context of a pleading dispute) as dictating that in determinating the geographic location of the market one is confined by the location of the making of the contract for the subject services.</sentence>
+<sentence id="s279">Once it is accepted that the place of contracting is not determinative, then in view of the above reasoning, it cannot be concluded that the particular conduct complained of is not capable of constituting a contravention of the Act.</sentence>
+<sentence id="s280">We are not then dealing with a market that is wholly outside Australia, but rather, with a possible contravention s 45 of the Act in relation to inbound and outbound services in a market in Australia.</sentence>
+<sentence id="s281">Therefore, upon construing the Notices in the manner indicated, I do not regard them as invalid on the ground that the matters the subject of them extend beyond conduct that is capable of constituting a contravention of the Act.</sentence>
+<sentence id="s282">FAILURE TO TAKE INTO ACCOUNT RELEVANT CONSIDERATIONS 
+ The applicants also allege that the ACCC failed to take into account two relevant considerations: 
+(a) whether and in what factual circumstances the applicants and other airlines supplied or offered to supply international air cargo services in a market in Australia; and
+ 
+(b) the burden imposed on the applicants by the issue of certain of the Notices.</sentence>
+<sentence id="s283">The principles relevant to this aspect of the proceedings can be simply stated: 
+(a) The failure of a decision-maker to take into account a relevant consideration in the making of an administrative decision is an abuse of discretion entitling a party with sufficient standing to seek judicial review of the decision.</sentence>
+<sentence id="s284">(b) This ground of review can only be made out if the decision-maker fails to take into account a consideration that they are bound to take into account in making the decision.</sentence>
+<sentence id="s285">(c) The factors a decision-maker is bound to take into account in making a decision are determined by construction of the statute conferring the power.</sentence>
+<sentence id="s286">Where the matters to be taken into account are not expressly stated in the statute, they must be determined by implication from the subject matter, scope and purpose of the Act: see Minister for Aboriginal Affairs v Peko-Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24 at 39-40 per Mason J.</sentence>
+<sentence id="s287">(d) A decision-maker may not have had proper regard to a relevant consideration if they merely make a formalistic reference to the consideration: see Azriel v NSW Land &amp; Housing Corporation [2006] NSWCA 372 at [49] per Basten JA (with whom Santow and Ipp JJA agreed at [1] and [3]).</sentence>
+<sentence id="s288">(e) A decision-maker is required to give proper, genuine and realistic consideration to a relevant consideration: see Deloitte Touche Tohmatsu v Australian Securities Commission (1996) 136 ALR 453 at 468 (per Lindgren J); Bruce v Cole (1998) 45 NSWLR 163 at 185-6 per Spigelman CJ and the authorities cited therein.</sentence>
+<sentence id="s289">(f) The mere failure to refer expressly to a matter will not necessarily give rise to the inference that it was not taken into account: see Australian Conservation Foundation v Forestry Commission (1988) 19 FCR 127 at 132 (per Burchett J).</sentence>
+<sentence id="s290">However, it is open to the Court to infer that a matter was not taken into account where no reference is made to it: see, eg, Sullivan v Department of Transport (1978) 20 ALR 323 at 349 (per Deane J).</sentence>
+<sentence id="s291">(g) In Deloitte Touche Tohmatsu 136 ALR 453 , Lindgren J said (at 468):
+ 
+ It is for an applicant to make out its case of "failure to take into account", but the circumstances may be such that the applicant will be aided in this task by an absence of evidence from the decision-maker on a particular matter, such as an absence of evidence giving rise to an inference of a failure to make further inquiries when a genuine taking into account would have called for them.</sentence>
+<sentence id="s292">
+ The applicants submitted that the evidence reveals that the ACCC and Mr Samuel did not, at any time prior to the issue of any of the Notices, consider whether and in what factual circumstances the applicants and other airlines supplied or offered to supply international air cargo services in a market in Australia.</sentence>
+<sentence id="s293">They contended that the Notices themselves were not limited to, and do not refer to, the supply of international air cargo services in a market in Australia.</sentence>
+<sentence id="s294">The applicants contended that the papers given to Mr Samuel recommending that the Notices be issued (the 'Reason to Believe' papers) did not refer to the statutory requirement that s 45 is limited to arrangements concerning the supply of services in a market in Australia, and did not consider or discuss whether the arrangements being investigated by the ACCC concerned the supply of international air cargo services in a market in Australia.</sentence>
+<sentence id="s295">The applicants further submitted that the failure of the ACCC to refer to the requirement in s 45 of the Act that an arrangement must concern the supply of services in a market in Australia in any of the Reason to Believe papers, or in the Notices themselves, gives rise to an inference that this issue was not considered by the ACCC and Mr Samuel.</sentence>
+<sentence id="s296">It was then submitted that the failure by the ACCC and Mr Samuel to consider this fundamental element of s 45 means that the purported exercise of power under s 155 of the Act was an abuse of power entitling the applicants to have the Notices set aside.</sentence>
+<sentence id="s297">The simple answer to this submission is that on my construction of the Notices, reference has been made to the supply of services (both inbound and outbound) in a market in Australia.</sentence>
+<sentence id="s298">The Notices are to be read as referring to inbound and outbound services, and in context, refer to those services being supplied in a market in Australia.</sentence>
+<sentence id="s299">The applicants accept that outbound services may give rise to a possible contravention of the Act.</sentence>
+<sentence id="s300">I am satisfied that, having regard to the terms of the Notices themselves and the Reason to Believe papers, there has been consideration of whether, and in what circumstances, the applicants supplied or offered to supply inbound and outbound services in a market in Australia, at least to the extent necessary for the purpose of deciding to issue the Notices.</sentence>
+<sentence id="s301">I now turn to the second alleged failure to take into account another relevant consideration, namely the burden imposed upon the recipient of a notice.</sentence>
+<sentence id="s302">The Notices do not merely require the production of information and documents, they also require that these be furnished within a specified time.</sentence>
+<sentence id="s303">The time for compliance specified in a notice is an aspect of the notice which affects the extent of the burden imposed on the recipient.</sentence>
+<sentence id="s304">I accept that Mr Samuel must consider the time for compliance when considering the burden on the recipient.</sentence>
+<sentence id="s305">The applicants submitted that the scope of certain of the Notices was such that they imposed a severe burden on the applicants if they were to comply with them.</sentence>
+<sentence id="s306">This I readily accept, without recourse to the evidence sought to be relied upon by the applicants.</sentence>
+<sentence id="s307">I also accept that the greater the burden that is imposed by a notice to be issued under s 155, the greater the obligation to consider that burden when deciding whether a notice should be issued.</sentence>
+<sentence id="s308">I find on the basis of the objective circumstances that the original time for compliance by the applicants, taking into account what was required by certain of the Notices, was objectively oppressive and harsh.</sentence>
+<sentence id="s309">A number of matters support this finding: the expansive scope of the applicants' international air cargo operations throughout the world; the fact that the information sought spanned a period of some seven years; the fact that information and documents were sought concerning surcharges and general freight rates applying to international air cargo services supplied by the applicants from any destination in the world to Australia; the fact that detailed information and documents was sought concerning every charge and change in charge imposed by the applicants that was attributed to a change in certain costs (which could require the applicants to investigate the reasons for every single charge imposed by them over an extensive period); the fact that two notices sought information and documents concerning surcharges applying to international air cargo services supplied by the applicants between every destination in the world; the fact that the nature of the information and documents sought would require the applicants to search records and conduct interviews of employees, in every location from which they supplied international air cargo services; and the fact that each of the notices said to be burdensome sought production of the information and documents within a period of approximately four or five weeks.</sentence>
+<sentence id="s310">Irrespective of the resources available to a recipient (whether measured in personnel or monetary terms), and irrespective of whether the applicants could in fact undertake the task demanded within the period of time originally allowed, the objective harshness and oppressiveness derives from the original restrictive time limit imposed in which to carry out the tasks required for compliance with a notice.</sentence>
+<sentence id="s311">However, this is not the end of the enquiry.</sentence>
+<sentence id="s312">The first question raised by the applicants was whether Mr Samuel failed to take into account the burden and the extent of the burden imposed upon the applicants.</sentence>
+<sentence id="s313">There was no direct evidence from Mr Samuel that he had regard to the burden imposed on the applicants when deciding to issue the Notices.</sentence>
+<sentence id="s314">In proceedings of this nature I would not expect Mr Samuel to provide direct evidence: see eg Korean Air Lines v Australian Competition and Consumer Commission (No 3) [2008] FCA 701 at [116] per Jacobsen J.</sentence>
+<sentence id="s315">The only available evidence suggesting that Mr Samuel might have taken into account the effect of issuing the Notices on the applicants is derived from the Reason to Believe papers, and the objective matters available to Mr Samuel at the time of the issuing of the Notices, including the Notices themselves.</sentence>
+<sentence id="s316">Many identical s 155 notices were issued at the same time to many airlines.</sentence>
+<sentence id="s317">The Reason to Believe papers seemed to be prepared in standard form for each such notice.</sentence>
+<sentence id="s318">This also applied to the 'burden' of the Notices.</sentence>
+<sentence id="s319">No allowance seems to have been made for the different burden that may have been imposed on different airlines by reason of the fact that their operations differed in scale and geographic scope.</sentence>
+<sentence id="s320">It seems to me that the 'burden' sections of the Reason to Believe papers were pro-forma statements.</sentence>
+<sentence id="s321">This is not necessarily to be unexpected.</sentence>
+<sentence id="s322">The use of such standard paragraphs is not fatal in itself.</sentence>
+<sentence id="s323">However, if a verbal formula is used 'to cloak the decision with the appearance of conformity with the law', the use of that formula will not save the decision from invalidity: see Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 266 per Brennan CJ, Toohey, McHugh and Gummow JJ.</sentence>
+<sentence id="s324">The 'burden' sections of the Rason to Believe papers in dealing with the time for compliance specifically refer to the magnitude of the burden imposed and to the time in which the recipient could provide the information and documents.</sentence>
+<sentence id="s325">Consideration was then given to the burden generally and, specifically, to the time in which a recipient would need to make the necessary searches and enquiries, collate the material necessary and obtain legal advice.</sentence>
+<sentence id="s326">Significantly, Mr Samuel was reminded that he needed to consider the magnitude of the burden.</sentence>
+<sentence id="s327">This indicates that the Reason to Believe papers did not contain the only information relied upon by Mr Samuel, although they contained recommendations.</sentence>
+<sentence id="s328">I am not satisfied that the requirement to comply within a certain limited time was imposed without regard to the ultimate burden which it would impose on the recipient, even on the facts as I have found as to the burden objectively imposed.</sentence>
+<sentence id="s329">In my view, Mr Samuel had regard to the effect that his exercise of power to issue the Notices would have on the recipients, including those notices said to be burdensome.</sentence>
+<sentence id="s330">The use of standard paragraphs in the recommendations to Mr Samuel was not cloaking the decision of Mr Samuel with the appearance of conformity with the law.</sentence>
+<sentence id="s331">It is the decision of Mr Samuel that should be considered and this should be viewed in the context of the objective matters known by Mr Samuel.</sentence>
+<sentence id="s332">This is not a situation where a decision-maker is required to give reasons, or is required to set out all the considerations going to his belief.</sentence>
+<sentence id="s333">The Reason to Believe papers brought to Mr Samuel's attention the need for him to consider the magnitude of the burden and the time for compliance.</sentence>
+<sentence id="s334">Mr Samuel would have been obviously aware of the geographic scope of the applicants' business operators, the language difficulties involved in gathering documents and information, and the extent of the enquiry itself having regard to the Schedules to the Notices themselves.</sentence>
+<sentence id="s335">I do not think Mr Samuel needed to consider every considerable factor that may impact upon the task of any recipient in complying with a notice.</sentence>
+<sentence id="s336">He was certainly not bound to consider (because he could not know) the extent of the work required to comply as described by the applicants in evidence sought to be tendered in these proceedings.</sentence>
+<sentence id="s337">Mr Samuel did know that the applicants might have collated relevant information in response to earlier overseas requests and he might have reasonably expected the applicants to have gathered some information prior to the issue of the Notices.</sentence>
+<sentence id="s338">Mr Samuel was obviously aware that an extension of time could be granted if required.</sentence>
+<sentence id="s339">It was not contended he did not have this power.</sentence>
+<sentence id="s340">Whilst not fully aware of the state of preparation of a recipient and what resources the recipient has available, in this case, Mr Samuel could assume some state of preparedness.</sentence>
+<sentence id="s341">Of course, by the time the fourth and fifth notices were issued to Singapore Airlines, there had been extensive correspondence as to the earlier notices and compliance therewith in set time frames, which I infer Mr Samuel would have been well aware.</sentence>
+<sentence id="s342">There was evidence in the form of correspondence between the ACCC and the applicants regarding the burden and the insufficiency of time for compliance, with Mr Samuel extending the time for compliance by varying the original notices.</sentence>
+<sentence id="s343">This shows a preparedness on the part of Mr Samuel to do so, and an understanding by the applicants (at least after the first extension) that Mr Samuel would be prepared to so extend upon a request by the applicants.</sentence>
+<sentence id="s344">I do not think it was contended by the applicants that even before the first of the Notices they did not have this understanding.</sentence>
+<sentence id="s345">Therefore, in my view whilst the burden imposed was objectively harsh and oppressive, it was relevantly considered.</sentence>
+<sentence id="s346">Mr Samuel properly considered the burden imposed by the Notices.</sentence>
+<sentence id="s347">He did adopt the recommendations put to him as for the time for compliance.</sentence>
+<sentence id="s348">Whether Mr Samuel was correct in his assessment of the burden and the ability of the recipients to comply within the time set is not germane to the attack made by the applicants.</sentence>
+<sentence id="s349">It then remains to address the application of the principles enunciated in Pyneboard [1983] HCA 9 ; 57 FLR 368 .</sentence>
+<sentence id="s350">Northrop, Deane and Fisher JJ there observed (at 377-8): 
+ There remains to be considered the availability to the appellants of the grounds upon which they object to a particular requirement to produce documents, namely, that it is harsh, oppressive and unreasonable.</sentence>
+<sentence id="s351">
+
+ 
+ The mere fact that compliance with a requirement to furnish information or to produce documents would be burdensome will not invalidate that requirement in a s.155 notice (see Melbourne Home of Ford v Trade Practices Commission (No.</sentence>
+<sentence id="s352">3) ; Riley McKay Pty Ltd v Bannerman ).</sentence>
+<sentence id="s353">Nor will objective harshness, unreasonableness or oppressiveness of a requirement in such a notice constitute an independent ground of invalidity.</sentence>
+<sentence id="s354">If invalidity by reference to these qualities is to be established, it must be by reference to the implied general limitation upon the power conferred by s 155(1) of the Act to which reference has already been made, namely, that it is a condition of a valid exercise of the power that it be used in good faith for the purpose for which it was conferred and with regard to the effect that the exercise of the power will have upon those affected thereby.</sentence>
+<sentence id="s355">It is only if the harshness, oppressiveness or unreasonableness of a requirement in a s 155 notice is, in all the circumstances, such as to warrant the conclusion that the requirement could not have been imposed in good faith or could only have been imposed to achieve a collateral purpose or without regard to the burden which it would impose upon the recipient, that harshness, oppressiveness or unreasonableness will result in invalidity.</sentence>
+<sentence id="s356">
+ (Emphasis added, citations omitted.</sentence>
+<sentence id="s357">) 
+ I have already concluded that Mr Samuel had regard to the burden imposed on the applicants.</sentence>
+<sentence id="s358">It now remains to consider the question of good faith, and a possible separate issue of unreasonableness.</sentence>
+<sentence id="s359">To a certain extent, the issues of failing to take into account the burden, good faith and unreasonableness overlap.</sentence>
+<sentence id="s360">Obviously, a requirement may be harsh, unreasonable and oppressive, and still not result in invalidity.</sentence>
+<sentence id="s361">Bad faith normally involves a lack of an honest or genuine attempt to undertake the statutory function allocated to the decision-maker: see, eg, SCAS v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCAFC 397 at [19] per Heerey, Moore and Kiefel JJ.</sentence>
+<sentence id="s362">There is a very heavy burden upon any applicant seeking to demonstrate bad faith.</sentence>
+<sentence id="s363">Undoubtedly, where a large number of documents or extensive information is sought within a short period of time, and where an extension of time is not possible, the specification of a short period of time may reflect upon whether the power was exercised in good faith, for a collateral purpose or was unreasonable: see, eg, A.</sentence>
+<sentence id="s364">B. Pty Limited v Australian Crime Commission [2009] FCA 119 at [65] per Flick J.</sentence>
+<sentence id="s365">In fact, it was alleged that the burden imposed on the applicants was of such a magnitude that no reasonable person exercising the power under s 155 would have made the decisions giving rise to the issue of certain of the Notices.</sentence>
+<sentence id="s366">Reliance was placed on the principles stated by Lord Greene MR in Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223 and s 5(2)(g) of the ADJR Act.</sentence>
+<sentence id="s367">The applicants attacked the breadth of the information and documents sought to support their argument as to burden, in conjunction with the time frame allowed for compliance.</sentence>
+<sentence id="s368">I do not regard the breadth of documents or information as being improperly requested under the Notices or as giving rise in itself to harshness or oppressiveness.</sentence>
+<sentence id="s369">Even on the basis of the interpretation of the Notices given by the Court as applying to inbound and outbound services, the information and documents sought are, in my view, relevant and sufficiently identified, and answer the description of 'information relating to' or 'documents relating to' the matters referred to in the Notices.</sentence>
+<sentence id="s370">It is important to keep in mind that it is an investigative power which is under consideration in these proceedings.</sentence>
+<sentence id="s371">As stated by the Full Court in Melbourne Home of Ford Pty Ltd [1980] FCA 94 ; 47 FLR 163 (at 174): 
+ The investigative power may properly be exercised by inquiring into the existence of facts which do not themselves constitute a contravention or deny the possibility of a contravention.</sentence>
+<sentence id="s372">The power may properly be exercised to ascertain facts which may merely indicate a further line of inquiry, or which may tend to prove circumstances from which an inference can be drawn as to the existence of other facts which have a more immediate and proximate relationship to the matter under investigation.</sentence>
+<sentence id="s373">
+ The applicants are involved in international activities, and decisions and discussions concerning the matter under investigation may readily be accepted as having occurred overseas, as well as in Australia.</sentence>
+<sentence id="s374">The conduct of the applicants wherever occurring could be relevant to the investigation of the matter as defined in the Notices.</sentence>
+<sentence id="s375">It is not for this Court to confine or restrict the course of an investigation if the powers conferred by s 155 have not been exceeded.</sentence>
+<sentence id="s376">In relation to the interpretation of the Notices, the applicants allege that the definition of 'Fuel Surcharge' is wide and unclear.</sentence>
+<sentence id="s377">However, to the extent that the applicants have responded to the Notices, they appear to have had no difficulty at all in understanding the meaning of the term.</sentence>
+<sentence id="s378">It seems to me that the applicants should be, and in fact are, well versed in the concept of 'Fuel Surcharge'.</sentence>
+<sentence id="s379">The applicants also alleged that in certain of the Notices (the third notice to Emirates and the fought and fifth notices to Singapore Airlines) reference has been made to various meetings without there being any necessary linkage to Australia.</sentence>
+<sentence id="s380">The Notices are seeking to investigate possible collusion between various airlines and the documents sought to be obtained need only 'relate to' such an arrangement.</sentence>
+<sentence id="s381">If the ACCC sought all documents recording correspondence or conversations between one airline and another airline about cargo then it could be 'relevant to' the alleged infringement.</sentence>
+<sentence id="s382">It would be apparent to a participant in the airline industry who reads the Notices that the reason why the respondents were interested in these documents was because any price fixing arrangements may have been discussed or agreed at these meetings.</sentence>
+<sentence id="s383">Insofar as documents are sought for overseas meetings of airline representatives that are not necessarily restricted with respect to air cargo to and from Australia, these may be records of meetings with representatives of airlines in competition in Australia, from which there may be reason to believe certain evidence was relevant (in the broad sense) to the investigation.</sentence>
+<sentence id="s384">I raise these matters now, relevantly to burden, to indicate that the range of information sought does not lead to the conclusion that there was a lack of good faith or a collateral purpose, or that the burden was not properly considered.</sentence>
+<sentence id="s385">The fact that there may be instances where a Schedule to the Notices includes one or two items that may not be "relevant" or may not relate to the matter, does not necessarily invalidate the Notices.</sentence>
+<sentence id="s386">In my view, it cannot be said that the information and documents sought are excessive in the circumstances of the investigation and the nature of the alleged contravention of the Act.</sentence>
+<sentence id="s387">The issue, is then, only one of timing for compliance.</sentence>
+<sentence id="s388">I have found that the original time for compliance was objectively a harsh and oppressive burden, but nevertheless, an issue actually considered by Mr Samuel.</sentence>
+<sentence id="s389">This conclusion alone does not lead to invalidity.</sentence>
+<sentence id="s390">Should I then conclude that the original time restriction was imposed in bad faith or was otherwise unreasonable?</sentence>
+<sentence id="s391">In my view, there is no basis for doing so.</sentence>
+<sentence id="s392">Bad faith involves an element of dishonesty.</sentence>
+<sentence id="s393">Mr Samuel may well have made an error in his assessment of the burden, but I do not conclude on the evidence before me that he lacked honesty or did not make a genuine attempt to undertake the statutory function imposed on him.</sentence>
+<sentence id="s394">In focusing on the time for compliance, there is no reason to assume that at the time of the decision to issue the Notices, Mr Samuel would not agree if appropriate for an extension of time to comply with the Notices.</sentence>
+<sentence id="s395">This aspect is relevant to whether the original time for compliance was imposed in bad faith.</sentence>
+<sentence id="s396">For instance, if there was evidence Mr Samuel deliberately chose a short period for compliance knowing it could not be complied with, knowing the nature of the request for information and documents, and was minded in no circumstances to grant an extension if necessary, this may reflect on the reasonableness of the exercise of the power, or whether it had been exercised in good faith.</sentence>
+<sentence id="s397">This is not the situation in these proceedings.</sentence>
+<sentence id="s398">Here Mr Samuel was entitled to make his own assessment of the burden, but to also reason that if the recipient of any of the Notices could not respond, it could request a variation to extend the time for compliance.</sentence>
+<sentence id="s399">In my view, there is no warrant for the conclusion that the requirements set forth in the Notices were not imposed in good faith or without regard to the burden.</sentence>
+<sentence id="s400">As observed by Gibbs CJ in Pioneer Concrete (Vic) Pty Ltd v Trade Practices Commission [1982] HCA 65 ; (1982) 152 CLR 460 , '[t]he power [under s 155] is a drastic power and is capable of abuse and must be exercised with care' (at 468).</sentence>
+<sentence id="s401">The time for compliance has statutory significance.</sentence>
+<sentence id="s402">The recipient is obliged to furnish the information sought within the time specified in the notice, and must produce the documents sought in accordance with the notice: subs 155(1).</sentence>
+<sentence id="s403">It is an offence to fail to comply: subs 155(5) and (6A).</sentence>
+<sentence id="s404">These are matters that needed to be considered by Mr Samuel, as they undoubtedly were, as part of the statutory context of issuing the Notices and as part of the consequences of non-compliance.</sentence>
+<sentence id="s405">Once one reaches the conclusion that the decision to issue the Notices was exercised with care, took into account the relevant considerations, and was not to be impugned on the basis of the principles in Pyneboard [1983] HCA 9 ; 57 FLR 368 , then the reference to the statutory significance of compliance takes the argument no further.</sentence>
+<sentence id="s406">Mr Samuel did have a duty to consider properly the scope of the information and documents sought, and make a realistic estimate of the time that would be required to produce the information and documents.</sentence>
+<sentence id="s407">However, it is permissible for the decision-maker to impose a time frame he considers appropriate, in the further knowledge that the time frame can be extended by a variation to the notice.</sentence>
+<sentence id="s408">I now turn to the separate ground relied upon of unreasonableness.</sentence>
+<sentence id="s409">It may be that the concept of unreasonableness is caught within the principles of Pyneboard [1983] HCA 9 ; 57 FLR 368.</sentence>
+<sentence id="s410">Nevertheless, I do not consider that approaching the matter on the basis of unreasonableness, even if a separate ground to consider apart from the approach taken in Pyneboard , further advances the arguments of the applicants in support of their applications.</sentence>
+<sentence id="s411">Any separate allegation of unreasonableness, particularly in the statutory context of s 155 of the Act, needs to be approached with caution.</sentence>
+<sentence id="s412">As Gleeson CJ said in Re Minister for Immigration and Multicultural Affairs; Ex parte Applicant S 20/2002 [2003] HCA 30 ; (2003) 198 ALR 59 at [5] : 
+ ... to describe reasoning as illogical, or unreasonable, or irrational, may merely be an emphatic way of expressing disagreement with it.</sentence>
+<sentence id="s413">If it is suggested that there is a legal consequence, it may be necessary to be more precise as to the nature and quality of the error attributed to the decision-maker, and to identify the legal principle or statutory provision that attracts the suggested consequence.</sentence>
+<sentence id="s414">
+ Similarly, Mason J in Peko Wallsend [1986] HCA 40 ; 162 CLR 24 said (at 40): 
+ The limited role of a court reviewing the exercise of an administrative discretion must constantly be borne in mind.</sentence>
+<sentence id="s415">It is not the function of the court to substitute its own decision for that of the administrator by exercising a discretion which the legislature has vested in the administrator.</sentence>
+<sentence id="s416">Its role is to set limits on the exercise of that discretion, and a decision made within those boundaries cannot be impugned: ( Wednesbury Corporation , at 228).</sentence>
+<sentence id="s417">
+ In any event, for the reasons I have already given, whilst the burden of some of the Notices, having regard to the original time limit, was objectively harsh and oppressive, the decision to issue such Notices was not so unreasonable (or illogical or irrational) that it could not have been made in the circumstances.</sentence>
+<sentence id="s418">Even if I looked to the question of 'proportionally', it seems to me that having regard to the very nature, breadth and extent of the investigation, the consequences of the burden were not such as to demonstrate unreasonableness so as to impugn the decision: see discussion in Bruce 45 NSWLR 163, at 184-5 per Spigelman CJ.</sentence>
+<sentence id="s419">I would reach this conclusion even on the basis of the evidence sought to be tendered by the applicants on the burden issue, although its relevance may be questionable---see above [13].</sentence>
+<sentence id="s420">DISCRETION 
+ A final point was raised by the ACCC that if the applicants succeeded only in relation to their arguments on burden, I should not grant the relief sought as the initial time frame for the Notices in contention has been extended by a variation to the Notices.</sentence>
+<sentence id="s421">That such variations have occurred is not in contention.</sentence>
+<sentence id="s422">The only attack of the applicants is on the decision to issue the Notices and the Notices in their original form.</sentence>
+<sentence id="s423">No complaint is now made as to the extended time frame, there being no attack on the decisions varying the Notices.</sentence>
+<sentence id="s424">Whilst unnecessary for me to consider in view of my upholding the validity of the decisions to issue and the Notices, I would not make any of the substantive orders sought by the applicants as a matter of discretion if the applicants only succeeded on the burden issue.</sentence>
+<sentence id="s425">In my view, the Court does have a discretion to refuse relief in such circumstances, even to the extent the application is brought under s 163A of the Act: see, eg, Re Tooth &amp; Co Ltd [1978] FCA 9 ; (1978) 31 FLR 314.</sentence>
+<sentence id="s426">As I have said, time for compliance has been extended.</sentence>
+<sentence id="s427">This time frame is not in dispute.</sentence>
+<sentence id="s428">Documents have been delivered by the applicants to the ACCC by reason of some or all of the Notices.</sentence>
+<sentence id="s429">The applicants did not challenge the decision to issue the Notices or the Notices before supplying those documents.</sentence>
+<sentence id="s430">Some delay occurred before the applicants brought their applications in this Court.</sentence>
+<sentence id="s431">There is no suggestion that any prosecution is intended based upon the Notices and the original time frame for compliance.</sentence>
+<sentence id="s432">These would all be reasons for refusing as a matter of discretion the substantive relief sought by the applicants.</sentence>
+<sentence id="s433">CONCLUSION 
+ In view of the above reasons, the applications should be dismissed.</sentence>
+<sentence id="s434">I will make orders to facilitate the parties reaching an agreement as to costs.</sentence>
+<sentence id="s435">In the event that no agreement is reached, then orders will be made as to the exchange of submissions on the issue of costs.</sentence>
+<sentence id="s436">
+ 
+ 
+ I certify that the preceding one hundred and twenty-three (123) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.</sentence>
+<sentence id="s437">Associate:
+ 
+ 
+Dated: 2 April 2009
+ 
+ Counsel for the Applicant in VID 252 of 2008: Mr C Caleo SC and Mr D Batt 
+ 
+ Solicitor for the Applicant in VID 252 of 2008: Allens Arthur Robinson 
+ 
+ Counsel for the Respondents in VID 252 of 2008: Mr N O'Bryan SC and Mr M Hoyne 
+ 
+ Solicitor for the Respondents in VID 252 of 2008: Australian Government Solicitor 
+ 
+ Counsel for the Applicants in VID 234 of 2008: Mr M O'Bryan 
+ 
+ Solicitor for the Applicants in VID 234 of 2008: Minter Ellison 
+ 
+ Counsel for the Respondent in VID 234 of 2008: Mr N O'Bryan SC and Mr M Hoyne 
+ 
+ Solicitor for the Respondent in VID 234 of 2008: Australian Government Solicitor 
+ 
+ 
+ Dates of Hearing: 8, 9, 11, 14 and 15 July 2008 
+ 
+ Date of Judgment: 2 April 2009 
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/312.html 
+ 
+ </sentence>
+</sentences>
+</case>

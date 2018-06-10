@@ -1,0 +1,943 @@
+<?xml version="1.0"?>
+<case>
+<name>SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 (15 February 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/157.html</AustLII>
+<citphrases>
+<citphrase id="cp0.0" type=cited from="[2005] FCA 942">migration</citphrase>
+<citphrase id="cp0.1" type=cited from="[2005] FCA 942">application for review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp0.2" type=cited from="[2005] FCA 942">internal flight alternative</citphrase>
+<citphrase id="cp0.3" type=cited from="[2005] FCA 942">relocation</citphrase>
+<citphrase id="cp0.4" type=cited from="[2005] FCA 942">whether tribunal failed to ask itself the right questions migration</citphrase>
+<citphrase id="cp0.5" type=cited from="[2005] FCA 942">application for review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp0.6" type=cited from="[2005] FCA 942">particular social group</citphrase>
+<citphrase id="cp0.7" type=cited from="[2005] FCA 942">women who have been victims of sexual violence and their families</citphrase>
+<citphrase id="cp2.0" type=citing from="[2011] FMCA 335">migration</citphrase>
+<citphrase id="cp2.1" type=citing from="[2011] FMCA 335">application to set aside original orders made by the court</citphrase>
+<citphrase id="cp2.2" type=citing from="[2011] FMCA 335">whether there is any satisfactory or adequate explanation for the failure of the applicant to attend the first court date</citphrase>
+<citphrase id="cp2.3" type=citing from="[2011] FMCA 335">whether the grounds for review have any reasonable prospects of success</citphrase>
+<citphrase id="cp2.4" type=citing from="[2011] FMCA 335">application dismissed.</citphrase>
+<citphrase id="cp3.0" type=citing from="[2011] FMCA 247">migration</citphrase>
+<citphrase id="cp3.1" type=citing from="[2011] FMCA 247">whether tribunal failed to consider relevant information</citphrase>
+<citphrase id="cp3.2" type=citing from="[2011] FMCA 247">whether applicants prevented from making proper use of their interpreter</citphrase>
+<citphrase id="cp3.3" type=citing from="[2011] FMCA 247">application dismissed.</citphrase>
+<citphrase id="cp4.0" type=citing from="[2011] FMCA 217">migration</citphrase>
+<citphrase id="cp4.1" type=citing from="[2011] FMCA 217">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp4.2" type=citing from="[2011] FMCA 217">whether the tribunal was biased</citphrase>
+<citphrase id="cp4.3" type=citing from="[2011] FMCA 217">whether the tribunal complied with the act</citphrase>
+<citphrase id="cp4.4" type=citing from="[2011] FMCA 217">whether there was a denial of procedural fairness</citphrase>
+<citphrase id="cp4.5" type=citing from="[2011] FMCA 217">tribunal's exercise of discretion</citphrase>
+<citphrase id="cp4.6" type=citing from="[2011] FMCA 217">whether the tribunal failed to consider the applicant's claims</citphrase>
+<citphrase id="cp4.7" type=citing from="[2011] FMCA 217">no jurisdictional error</citphrase>
+<citphrase id="cp4.8" type=citing from="[2011] FMCA 217">application dismissed.</citphrase>
+<citphrase id="cp5.0" type=citing from="[2011] FMCA 60">migration</citphrase>
+<citphrase id="cp5.1" type=citing from="[2011] FMCA 60">tribunal found applicant not to be a witness of truth</citphrase>
+<citphrase id="cp5.2" type=citing from="[2011] FMCA 60">whether open to tribunal to reject her evidence?</citphrase>
+<citphrase id="cp5.3" type=citing from="[2011] FMCA 60">no jurisdictional error</citphrase>
+<citphrase id="cp5.4" type=citing from="[2011] FMCA 60">application dismissed.</citphrase>
+<citphrase id="cp6.0" type=citing from="[2010] FMCA 497">migration</citphrase>
+<citphrase id="cp6.1" type=citing from="[2010] FMCA 497">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp6.2" type=citing from="[2010] FMCA 497">tribunal had no expectation that applicant should provide corroborative evidence</citphrase>
+<citphrase id="cp6.3" type=citing from="[2010] FMCA 497">no illogicality</citphrase>
+<citphrase id="cp6.4" type=citing from="[2010] FMCA 497">conduct in australia disregarded pursuant to s.91r(3)</citphrase>
+<citphrase id="cp6.5" type=citing from="[2010] FMCA 497">tribunal's view of applicant's evidence not "information" for purposes of s.424a</citphrase>
+<citphrase id="cp6.6" type=citing from="[2010] FMCA 497">information fell within exceptions</citphrase>
+<citphrase id="cp6.7" type=citing from="[2010] FMCA 497">tribunal did not consider departmental record of interview would be the reason for affirming delegate's decision</citphrase>
+<citphrase id="cp6.8" type=citing from="[2010] FMCA 497">no failure to comply with s.425</citphrase>
+<citphrase id="cp6.9" type=citing from="[2010] FMCA 497">tribunal sufficiently indicated dispositive issue</citphrase>
+<citphrase id="cp6.10" type=citing from="[2010] FMCA 497">no apprehension of bias</citphrase>
+<citphrase id="cp6.11" type=citing from="[2010] FMCA 497">tribunal considered all claims</citphrase>
+<citphrase id="cp6.12" type=citing from="[2010] FMCA 497">no jurisdictional error</citphrase>
+<citphrase id="cp6.13" type=citing from="[2010] FMCA 497">application dismissed.</citphrase>
+<citphrase id="cp7.0" type=citing from="[2010] FMCA 545">migration</citphrase>
+<citphrase id="cp7.1" type=citing from="[2010] FMCA 545">bias</citphrase>
+<citphrase id="cp7.2" type=citing from="[2010] FMCA 545">tests for</citphrase>
+<citphrase id="cp7.3" type=citing from="[2010] FMCA 545">whether breach of s.424a.  migration act 1958 (cth), s.424a  associated provincial picture houses, limited v. wednesbury corporation (1948) 1 kb attorney-general (nsw) v quin (1990) 170 clr 1</citphrase>
+<citphrase id="cp8.0" type=citing from="[2010] FMCA 282">migration</citphrase>
+<citphrase id="cp8.1" type=citing from="[2010] FMCA 282">refugee review tribunal</citphrase>
+<citphrase id="cp8.2" type=citing from="[2010] FMCA 282">tribunal complied with s.425 obligations</citphrase>
+<citphrase id="cp8.3" type=citing from="[2010] FMCA 282">tribunal complied with s.424a</citphrase>
+<citphrase id="cp8.4" type=citing from="[2010] FMCA 282">information fell within s.424a exceptions</citphrase>
+<citphrase id="cp8.5" type=citing from="[2010] FMCA 282">no bias or apprehension of bias</citphrase>
+<citphrase id="cp8.6" type=citing from="[2010] FMCA 282">no jurisdictional error</citphrase>
+<citphrase id="cp8.7" type=citing from="[2010] FMCA 282">application dismissed.</citphrase>
+<citphrase id="cp9.0" type=citing from="[2010] FMCA 245">migration</citphrase>
+<citphrase id="cp9.1" type=citing from="[2010] FMCA 245">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp9.2" type=citing from="[2010] FMCA 245">no apprehension of bias</citphrase>
+<citphrase id="cp9.3" type=citing from="[2010] FMCA 245">tribunal considered all claims and evidence</citphrase>
+<citphrase id="cp9.4" type=citing from="[2010] FMCA 245">findings open to tribunal on what was before it</citphrase>
+<citphrase id="cp9.5" type=citing from="[2010] FMCA 245">tribunal gave cogent reasons for findings</citphrase>
+<citphrase id="cp9.6" type=citing from="[2010] FMCA 245">applicant seeking impermissible merits review</citphrase>
+<citphrase id="cp9.7" type=citing from="[2010] FMCA 245">no jurisdictional error</citphrase>
+<citphrase id="cp9.8" type=citing from="[2010] FMCA 245">application dismissed.</citphrase>
+<citphrase id="cp10.0" type=citing from="[2010] FMCA 27">migration</citphrase>
+<citphrase id="cp10.1" type=citing from="[2010] FMCA 27">credibility</citphrase>
+<citphrase id="cp10.2" type=citing from="[2010] FMCA 27">adverse finding</citphrase>
+<citphrase id="cp10.3" type=citing from="[2010] FMCA 27">finding of fact par excellence</citphrase>
+<citphrase id="cp10.4" type=citing from="[2010] FMCA 27">whether reviewable</citphrase>
+<citphrase id="cp10.5" type=citing from="[2010] FMCA 27">no breach of natural justice</citphrase>
+<citphrase id="cp10.6" type=citing from="[2010] FMCA 27">common law principles of procedural fairness do not apply.</citphrase>
+<citphrase id="cp11.0" type=citing from="[2009] FMCA 1148">migration</citphrase>
+<citphrase id="cp11.1" type=citing from="[2009] FMCA 1148">section 424a</citphrase>
+<citphrase id="cp11.2" type=citing from="[2009] FMCA 1148">country information</citphrase>
+<citphrase id="cp11.3" type=citing from="[2009] FMCA 1148">adverse finding of credibility</citphrase>
+<citphrase id="cp11.4" type=citing from="[2009] FMCA 1148">whether independent unimpeachable reasons for the decision</citphrase>
+<citphrase id="cp11.5" type=citing from="[2009] FMCA 1148">discretion to deny relief.</citphrase>
+<citphrase id="cp12.0" type=citing from="[2009] FMCA 1179">migration</citphrase>
+<citphrase id="cp12.1" type=citing from="[2009] FMCA 1179">section 424a(1)</citphrase>
+<citphrase id="cp12.2" type=citing from="[2009] FMCA 1179">country information excluded by s.424a(3)(a)</citphrase>
+<citphrase id="cp12.3" type=citing from="[2009] FMCA 1179">tribunal not required to disclose its thought processes or deliberations for comment</citphrase>
+<citphrase id="cp12.4" type=citing from="[2009] FMCA 1179">"obvious and natural" appraisal of matters considered</citphrase>
+<citphrase id="cp12.5" type=citing from="[2009] FMCA 1179">natural justice</citphrase>
+<citphrase id="cp12.6" type=citing from="[2009] FMCA 1179">s.422b</citphrase>
+<citphrase id="cp12.7" type=citing from="[2009] FMCA 1179">no duty to enquire</citphrase>
+<citphrase id="cp12.8" type=citing from="[2009] FMCA 1179">bias not established.</citphrase>
+<citphrase id="cp13.0" type=citing from="[2009] FMCA 1031">migration</citphrase>
+<citphrase id="cp13.1" type=citing from="[2009] FMCA 1031">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp13.2" type=citing from="[2009] FMCA 1031">weight given to evidence a matter for the tribunal</citphrase>
+<citphrase id="cp13.3" type=citing from="[2009] FMCA 1031">no breach of s.430</citphrase>
+<citphrase id="cp13.4" type=citing from="[2009] FMCA 1031">tribunal did consider all applicant's claims in its "findings and reasons"</citphrase>
+<citphrase id="cp13.5" type=citing from="[2009] FMCA 1031">no breach of procedural fairness</citphrase>
+<citphrase id="cp13.6" type=citing from="[2009] FMCA 1031">obligation under s.424a complied with</citphrase>
+<citphrase id="cp13.7" type=citing from="[2009] FMCA 1031">what the tribunal thought of information was not information for the purpose of s.424a</citphrase>
+<citphrase id="cp13.8" type=citing from="[2009] FMCA 1031">no bias</citphrase>
+<citphrase id="cp13.9" type=citing from="[2009] FMCA 1031">no jurisdictional error</citphrase>
+<citphrase id="cp13.10" type=citing from="[2009] FMCA 1031">application dismissed.</citphrase>
+<citphrase id="cp14.0" type=citing from="[2009] FMCA 1013">migration</citphrase>
+<citphrase id="cp14.1" type=citing from="[2009] FMCA 1013">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp14.2" type=citing from="[2009] FMCA 1013">whether open to tribunal to make findings</citphrase>
+<citphrase id="cp14.3" type=citing from="[2009] FMCA 1013">tribunal relied on "minor" or "trivial" matters</citphrase>
+<citphrase id="cp14.4" type=citing from="[2009] FMCA 1013">tribunal made adverse credibility finding on the evidence as a whole</citphrase>
+<citphrase id="cp14.5" type=citing from="[2009] FMCA 1013">tribunal entitled to test evidence</citphrase>
+<citphrase id="cp14.6" type=citing from="[2009] FMCA 1013">whether apprehension of bias</citphrase>
+<citphrase id="cp14.7" type=citing from="[2009] FMCA 1013">tribunal's reliance on minor or trivial matters</citphrase>
+<citphrase id="cp14.8" type=citing from="[2009] FMCA 1013">no apprehension of bias</citphrase>
+<citphrase id="cp14.9" type=citing from="[2009] FMCA 1013">no irrationality</citphrase>
+<citphrase id="cp14.10" type=citing from="[2009] FMCA 1013">no illogicality</citphrase>
+<citphrase id="cp14.11" type=citing from="[2009] FMCA 1013">no unreasonableness</citphrase>
+<citphrase id="cp14.12" type=citing from="[2009] FMCA 1013">tribunal complied with s.425</citphrase>
+<citphrase id="cp14.13" type=citing from="[2009] FMCA 1013">information not "information" for purposes of s.424a</citphrase>
+<citphrase id="cp14.14" type=citing from="[2009] FMCA 1013">information fell within exceptions</citphrase>
+<citphrase id="cp14.15" type=citing from="[2009] FMCA 1013">no jurisdictional error</citphrase>
+<citphrase id="cp14.16" type=citing from="[2009] FMCA 1013">application dismissed.</citphrase>
+<citphrase id="cp15.0" type=citing from="[2009] FCA 843">migration</citphrase>
+<citphrase id="cp15.1" type=citing from="[2009] FCA 843">appeal from federal magistrate</citphrase>
+<citphrase id="cp15.2" type=citing from="[2009] FCA 843">no appealable error</citphrase>
+<citphrase id="cp15.3" type=citing from="[2009] FCA 843">appeal dismissed</citphrase>
+<citphrase id="cp16.0" type=citing from="[2009] FMCA 573">migration</citphrase>
+<citphrase id="cp16.1" type=citing from="[2009] FMCA 573">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp16.2" type=citing from="[2009] FMCA 573">finding that applicant could safely and reasonably relocate</citphrase>
+<citphrase id="cp16.3" type=citing from="[2009] FMCA 573">no failure to put information pursuant to s.424a</citphrase>
+<citphrase id="cp16.4" type=citing from="[2009] FMCA 573">information fell within exceptions</citphrase>
+<citphrase id="cp16.5" type=citing from="[2009] FMCA 573">no temporal limitation of s.424a</citphrase>
+<citphrase id="cp16.6" type=citing from="[2009] FMCA 573">information not information that "would be" the reason or part of the reason for affirming the decision under review</citphrase>
+<citphrase id="cp16.7" type=citing from="[2009] FMCA 573">findings open to tribunal on material before it</citphrase>
+<citphrase id="cp16.8" type=citing from="[2009] FMCA 573">tribunal considered applicant's claims</citphrase>
+<citphrase id="cp16.9" type=citing from="[2009] FMCA 573">no bias</citphrase>
+<citphrase id="cp16.10" type=citing from="[2009] FMCA 573">no bad faith</citphrase>
+<citphrase id="cp16.11" type=citing from="[2009] FMCA 573">no jurisdictional error</citphrase>
+<citphrase id="cp16.12" type=citing from="[2009] FMCA 573">application dismissed.</citphrase>
+<citphrase id="cp17.0" type=citing from="[2009] FCA 637">administrative law</citphrase>
+<citphrase id="cp17.1" type=citing from="[2009] FCA 637">referral to delegate of chief of army of redress of grievance complaint in respect of termination of service in the australian army</citphrase>
+<citphrase id="cp17.2" type=citing from="[2009] FCA 637">judicial review of delegate's decision</citphrase>
+<citphrase id="cp17.3" type=citing from="[2009] FCA 637">whether denial of procedural fairness</citphrase>
+<citphrase id="cp17.4" type=citing from="[2009] FCA 637">whether decision unreasonable</citphrase>
+<citphrase id="cp17.5" type=citing from="[2009] FCA 637">no procedural unfairness</citphrase>
+<citphrase id="cp17.6" type=citing from="[2009] FCA 637">decision not unreasonable    defence and war</citphrase>
+<citphrase id="cp17.7" type=citing from="[2009] FCA 637">members of the defence force</citphrase>
+<citphrase id="cp17.8" type=citing from="[2009] FCA 637">referral to delegate of chief of army of redress of grievance complaint in respect of termination of service in the australian army</citphrase>
+<citphrase id="cp17.9" type=citing from="[2009] FCA 637">nature of power exercisable by chief of army or delegate</citphrase>
+<citphrase id="cp17.10" type=citing from="[2009] FCA 637">plenary nature of power   constitutional law</citphrase>
+<citphrase id="cp17.11" type=citing from="[2009] FCA 637">crown</citphrase>
+<citphrase id="cp17.12" type=citing from="[2009] FCA 637">relationship between the crown, parliament and the australian defence force</citphrase>
+<citphrase id="cp17.13" type=citing from="[2009] FCA 637">role of redress of grievance system with respect to that relationship and discipline, command and control within the defence force</citphrase>
+<citphrase id="cp18.0" type=citing from="[2009] FMCA 394">migration</citphrase>
+<citphrase id="cp18.1" type=citing from="[2009] FMCA 394">application for review of the decision of the refugee review tribunal</citphrase>
+<citphrase id="cp18.2" type=citing from="[2009] FMCA 394">merits review</citphrase>
+<citphrase id="cp18.3" type=citing from="[2009] FMCA 394">no failure to consider relevant facts</citphrase>
+<citphrase id="cp18.4" type=citing from="[2009] FMCA 394">no failure to consider the applicant would suffer harm</citphrase>
+<citphrase id="cp18.5" type=citing from="[2009] FMCA 394">no failure to exercise jurisdiction</citphrase>
+<citphrase id="cp18.6" type=citing from="[2009] FMCA 394">no failure to ignore persecution</citphrase>
+<citphrase id="cp18.7" type=citing from="[2009] FMCA 394">no apprehension of bias</citphrase>
+<citphrase id="cp18.8" type=citing from="[2009] FMCA 394">no jurisdictional error</citphrase>
+<citphrase id="cp18.9" type=citing from="[2009] FMCA 394">application dismissed.</citphrase>
+<citphrase id="cp19.0" type=citing from="[2009] FMCA 347">migration</citphrase>
+<citphrase id="cp19.1" type=citing from="[2009] FMCA 347">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp19.2" type=citing from="[2009] FMCA 347">whether tribunal sought additional information pursuant to s.424</citphrase>
+<citphrase id="cp19.3" type=citing from="[2009] FMCA 347">jurisdictional error</citphrase>
+<citphrase id="cp19.4" type=citing from="[2009] FMCA 347">exercise of discretion</citphrase>
+<citphrase id="cp19.5" type=citing from="[2009] FMCA 347">no practical injustice to the applicant</citphrase>
+<citphrase id="cp19.6" type=citing from="[2009] FMCA 347">discretion exercised to refuse relief</citphrase>
+<citphrase id="cp19.7" type=citing from="[2009] FMCA 347">no bias</citphrase>
+<citphrase id="cp19.8" type=citing from="[2009] FMCA 347">no failure to consider applicant's claims</citphrase>
+<citphrase id="cp19.9" type=citing from="[2009] FMCA 347">findings open to tribunal on material before it</citphrase>
+<citphrase id="cp19.10" type=citing from="[2009] FMCA 347">no failure to comply with s.424a</citphrase>
+<citphrase id="cp19.11" type=citing from="[2009] FMCA 347">no failure to comply with s.425</citphrase>
+<citphrase id="cp19.12" type=citing from="[2009] FMCA 347">no failure to understand or apply s.91r</citphrase>
+<citphrase id="cp19.13" type=citing from="[2009] FMCA 347">no obligation on tribunal to make further enquiries</citphrase>
+<citphrase id="cp19.14" type=citing from="[2009] FMCA 347">application dismissed.</citphrase>
+<citphrase id="cp20.0" type=citing from="[2009] FMCA 361">migration</citphrase>
+<citphrase id="cp20.1" type=citing from="[2009] FMCA 361">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp20.2" type=citing from="[2009] FMCA 361">no failure to consider relevant facts</citphrase>
+<citphrase id="cp20.3" type=citing from="[2009] FMCA 361">adverse credibility finding</citphrase>
+<citphrase id="cp20.4" type=citing from="[2009] FMCA 361">findings open to the tribunal</citphrase>
+<citphrase id="cp20.5" type=citing from="[2009] FMCA 361">no failure to afford applicant procedural fairness</citphrase>
+<citphrase id="cp20.6" type=citing from="[2009] FMCA 361">no failure to apply the correct test</citphrase>
+<citphrase id="cp20.7" type=citing from="[2009] FMCA 361">no failure to consider integers of applicant's</citphrase>
+<citphrase id="cp20.8" type=citing from="[2009] FMCA 361">no failure to consider applicant's claims</citphrase>
+<citphrase id="cp20.9" type=citing from="[2009] FMCA 361">no jurisdictional error</citphrase>
+<citphrase id="cp20.10" type=citing from="[2009] FMCA 361">application dismissed.</citphrase>
+<citphrase id="cp21.0" type=citing from="[2009] FMCA 306">migration</citphrase>
+<citphrase id="cp21.1" type=citing from="[2009] FMCA 306">review of the decision of the refugee review tribunal</citphrase>
+<citphrase id="cp21.2" type=citing from="[2009] FMCA 306">harm feared found not to amount to "serious harm"</citphrase>
+<citphrase id="cp21.3" type=citing from="[2009] FMCA 306">s.424a not enlivened</citphrase>
+<citphrase id="cp21.4" type=citing from="[2009] FMCA 306">no evidence of bias</citphrase>
+<citphrase id="cp21.5" type=citing from="[2009] FMCA 306">no apprehension of bias</citphrase>
+<citphrase id="cp21.6" type=citing from="[2009] FMCA 306">no relocation issue arose on the facts found by the tribunal</citphrase>
+<citphrase id="cp21.7" type=citing from="[2009] FMCA 306">no failure to consider a claim</citphrase>
+<citphrase id="cp21.8" type=citing from="[2009] FMCA 306">no jurisdictional error</citphrase>
+<citphrase id="cp21.9" type=citing from="[2009] FMCA 306">application dismissed.</citphrase>
+<citphrase id="cp22.0" type=citing from="[2009] FMCA 240">migration</citphrase>
+<citphrase id="cp22.1" type=citing from="[2009] FMCA 240">review of refugee review tribunal decision</citphrase>
+<citphrase id="cp22.2" type=citing from="[2009] FMCA 240">no bias or apprehension of bias</citphrase>
+<citphrase id="cp22.3" type=citing from="[2009] FMCA 240">tribunal not required to uncritically accept applicant's claims</citphrase>
+<citphrase id="cp22.4" type=citing from="[2009] FMCA 240">tribunal considered all claims and integers of claims</citphrase>
+<citphrase id="cp22.5" type=citing from="[2009] FMCA 240">findings were open to the tribunal on what was before it</citphrase>
+<citphrase id="cp22.6" type=citing from="[2009] FMCA 240">tribunal not required to conduct further inquiries</citphrase>
+<citphrase id="cp22.7" type=citing from="[2009] FMCA 240">tribunal entitled to make findings as to applicant's credibility</citphrase>
+<citphrase id="cp22.8" type=citing from="[2009] FMCA 240">application dismissed.</citphrase>
+<citphrase id="cp23.0" type=citing from="[2009] FMCA 214">migration</citphrase>
+<citphrase id="cp23.1" type=citing from="[2009] FMCA 214">review of refugee review tribunal</citphrase>
+<citphrase id="cp23.2" type=citing from="[2009] FMCA 214">section 424 does not apply to questions asked at hearing</citphrase>
+<citphrase id="cp23.3" type=citing from="[2009] FMCA 214">tribunal's reasoning cogent and findings open to it</citphrase>
+<citphrase id="cp23.4" type=citing from="[2009] FMCA 214">applicant had reasonable opportunity to put forward evidence</citphrase>
+<citphrase id="cp23.5" type=citing from="[2009] FMCA 214">no bias or bad faith</citphrase>
+<citphrase id="cp23.6" type=citing from="[2009] FMCA 214">weight accorded to country information factual matter for the tribunal</citphrase>
+<citphrase id="cp23.7" type=citing from="[2009] FMCA 214">tribunal sufficiently indicated its concerns about the evidence to the applicant</citphrase>
+<citphrase id="cp23.8" type=citing from="[2009] FMCA 214">applicant seeking impermissible merits review</citphrase>
+<citphrase id="cp23.9" type=citing from="[2009] FMCA 214">tribunal not required to undertake own inquiries</citphrase>
+<citphrase id="cp23.10" type=citing from="[2009] FMCA 214">application dismissed</citphrase>
+<citphrase id="cp23.11" type=citing from="[2009] FMCA 214">applicant to pay fixed costs.</citphrase>
+<citphrase id="cp24.0" type=citing from="[2008] FMCA 1467">migration</citphrase>
+<citphrase id="cp24.1" type=citing from="[2008] FMCA 1467">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp24.2" type=citing from="[2008] FMCA 1467">whether jurisdictional error</citphrase>
+<citphrase id="cp24.3" type=citing from="[2008] FMCA 1467">protection (class xa) visas</citphrase>
+<citphrase id="cp24.4" type=citing from="[2008] FMCA 1467">whether tribunal decision was " a house of cards"</citphrase>
+<citphrase id="cp24.5" type=citing from="[2008] FMCA 1467">whether decision 'based on' unsupportable finding</citphrase>
+<citphrase id="cp24.6" type=citing from="[2008] FMCA 1467">credibility</citphrase>
+<citphrase id="cp24.7" type=citing from="[2008] FMCA 1467">merits review not function of judicial review</citphrase>
+<citphrase id="cp24.8" type=citing from="[2008] FMCA 1467">procedural fairness</citphrase>
+<citphrase id="cp24.9" type=citing from="[2008] FMCA 1467">weight to be accorded anonymous information and expert dna evidence</citphrase>
+<citphrase id="cp24.10" type=citing from="[2008] FMCA 1467">whether anonymous information 'credible, relevant and significant'</citphrase>
+<citphrase id="cp24.11" type=citing from="[2008] FMCA 1467">whether anonymous information selectively withheld</citphrase>
+<citphrase id="cp24.12" type=citing from="[2008] FMCA 1467">applicants must make out own case</citphrase>
+<citphrase id="cp24.13" type=citing from="[2008] FMCA 1467">whether dna expert should have been called as a witness</citphrase>
+<citphrase id="cp24.14" type=citing from="[2008] FMCA 1467">whether breach of s.424a of the act</citphrase>
+<citphrase id="cp24.15" type=citing from="[2008] FMCA 1467">onus of proof</citphrase>
+<citphrase id="cp24.16" type=citing from="[2008] FMCA 1467">standard of proof</citphrase>
+<citphrase id="cp24.17" type=citing from="[2008] FMCA 1467">' wednesbury unreasonableness'</citphrase>
+<citphrase id="cp24.18" type=citing from="[2008] FMCA 1467">whether irrational, illogical reasoning process</citphrase>
+<citphrase id="cp24.19" type=citing from="[2008] FMCA 1467">whether actual and/or apprehended bias</citphrase>
+<citphrase id="cp24.20" type=citing from="[2008] FMCA 1467">whether bias demonstrated by tribunal's departure from findings of fact by earlier tribunal.</citphrase>
+<citphrase id="cp25.0" type=citing from="[2008] FMCA 1316">migration</citphrase>
+<citphrase id="cp25.1" type=citing from="[2008] FMCA 1316">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp25.2" type=citing from="[2008] FMCA 1316">whether jurisdictional error</citphrase>
+<citphrase id="cp25.3" type=citing from="[2008] FMCA 1316">protection (class xa) visa</citphrase>
+<citphrase id="cp25.4" type=citing from="[2008] FMCA 1316">whether actual or apprehended bias</citphrase>
+<citphrase id="cp25.5" type=citing from="[2008] FMCA 1316">whether unfair manner of questioning</citphrase>
+<citphrase id="cp25.6" type=citing from="[2008] FMCA 1316">applicant must make out own case</citphrase>
+<citphrase id="cp25.7" type=citing from="[2008] FMCA 1316">whether breach of s.425 of the act</citphrase>
+<citphrase id="cp25.8" type=citing from="[2008] FMCA 1316">credibility</citphrase>
+<citphrase id="cp25.9" type=citing from="[2008] FMCA 1316">procedural fairness</citphrase>
+<citphrase id="cp25.10" type=citing from="[2008] FMCA 1316">no general duty to investigate applicant's claims</citphrase>
+<citphrase id="cp25.11" type=citing from="[2008] FMCA 1316">choice and assessment of weight of independent country information</citphrase>
+<citphrase id="cp25.12" type=citing from="[2008] FMCA 1316">sur place claim</citphrase>
+<citphrase id="cp25.13" type=citing from="[2008] FMCA 1316">whether breach of s.91r(3) of the act</citphrase>
+<citphrase id="cp25.14" type=citing from="[2008] FMCA 1316">whether breach of s.424a of the act</citphrase>
+<citphrase id="cp25.15" type=citing from="[2008] FMCA 1316">merits review not function of judicial review.</citphrase>
+<citphrase id="cp26.0" type=citing from="[2008] FMCA 1269">migration</citphrase>
+<citphrase id="cp26.1" type=citing from="[2008] FMCA 1269">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp26.2" type=citing from="[2008] FMCA 1269">whether jurisdictional error</citphrase>
+<citphrase id="cp26.3" type=citing from="[2008] FMCA 1269">protection (class xa) visa</citphrase>
+<citphrase id="cp26.4" type=citing from="[2008] FMCA 1269">whether breach of ss.424a and 424aa of the act</citphrase>
+<citphrase id="cp26.5" type=citing from="[2008] FMCA 1269">applicant must make out own case</citphrase>
+<citphrase id="cp26.6" type=citing from="[2008] FMCA 1269">merits review not function of judicial review</citphrase>
+<citphrase id="cp26.7" type=citing from="[2008] FMCA 1269">credibility</citphrase>
+<citphrase id="cp26.8" type=citing from="[2008] FMCA 1269">procedural fairness</citphrase>
+<citphrase id="cp26.9" type=citing from="[2008] FMCA 1269">whether proper consideration of claims</citphrase>
+<citphrase id="cp26.10" type=citing from="[2008] FMCA 1269">whether breach of s.425 of the act</citphrase>
+<citphrase id="cp26.11" type=citing from="[2008] FMCA 1269">natural justice</citphrase>
+<citphrase id="cp26.12" type=citing from="[2008] FMCA 1269">apprehended bias.</citphrase>
+<citphrase id="cp27.0" type=citing from="[2008] FMCA 1171">migration</citphrase>
+<citphrase id="cp27.1" type=citing from="[2008] FMCA 1171">refugee review tribunal</citphrase>
+<citphrase id="cp27.2" type=citing from="[2008] FMCA 1171">impermissible merits review</citphrase>
+<citphrase id="cp27.3" type=citing from="[2008] FMCA 1171">no bias or apprehended bias on the part of the tribunal</citphrase>
+<citphrase id="cp27.4" type=citing from="[2008] FMCA 1171">findings not "obviously illogical"</citphrase>
+<citphrase id="cp27.5" type=citing from="[2008] FMCA 1171">no "inconsistent" finding</citphrase>
+<citphrase id="cp27.6" type=citing from="[2008] FMCA 1171">no failure pursuant to s.424a</citphrase>
+<citphrase id="cp27.7" type=citing from="[2008] FMCA 1171">s.424aa does not arise</citphrase>
+<citphrase id="cp27.8" type=citing from="[2008] FMCA 1171">no failure pursuant to s.91r(3)</citphrase>
+<citphrase id="cp27.9" type=citing from="[2008] FMCA 1171">no failure to accord procedural fairness</citphrase>
+<citphrase id="cp27.10" type=citing from="[2008] FMCA 1171">no jurisdictional error</citphrase>
+<citphrase id="cp27.11" type=citing from="[2008] FMCA 1171">application dismissed.</citphrase>
+<citphrase id="cp29.0" type=citing from="[2008] FMCA 1044">migration</citphrase>
+<citphrase id="cp29.1" type=citing from="[2008] FMCA 1044">review of refugee tribunal decision</citphrase>
+<citphrase id="cp29.2" type=citing from="[2008] FMCA 1044">findings open to the tribunal on the material before it</citphrase>
+<citphrase id="cp29.3" type=citing from="[2008] FMCA 1044">impermissible merits review</citphrase>
+<citphrase id="cp29.4" type=citing from="[2008] FMCA 1044">weight to be given to evidence a matter for the tribunal</citphrase>
+<citphrase id="cp29.5" type=citing from="[2008] FMCA 1044">no bias or apprehended bias on the part of the tribunal</citphrase>
+<citphrase id="cp29.6" type=citing from="[2008] FMCA 1044">no jurisdictional error</citphrase>
+<citphrase id="cp29.7" type=citing from="[2008] FMCA 1044">application dismissed.</citphrase>
+<citphrase id="cp30.0" type=citing from="[2008] FMCA 1019">migration</citphrase>
+<citphrase id="cp30.1" type=citing from="[2008] FMCA 1019">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp30.2" type=citing from="[2008] FMCA 1019">tribunal made adverse credibility finding</citphrase>
+<citphrase id="cp30.3" type=citing from="[2008] FMCA 1019">findings open to the tribunal on what was before it</citphrase>
+<citphrase id="cp30.4" type=citing from="[2008] FMCA 1019">subjective appraisals not "information" for the purposes of s.424a</citphrase>
+<citphrase id="cp30.5" type=citing from="[2008] FMCA 1019">tribunal not obliged to conduct its own independent enquiries</citphrase>
+<citphrase id="cp30.6" type=citing from="[2008] FMCA 1019">tribunal not obliged to put non-in personam information to the applicant</citphrase>
+<citphrase id="cp30.7" type=citing from="[2008] FMCA 1019">no illogical analysis</citphrase>
+<citphrase id="cp30.8" type=citing from="[2008] FMCA 1019">no failure to accord procedural fairness</citphrase>
+<citphrase id="cp30.9" type=citing from="[2008] FMCA 1019">application dismissed.</citphrase>
+<citphrase id="cp31.0" type=citing from="[2008] FMCA 979">migration</citphrase>
+<citphrase id="cp31.1" type=citing from="[2008] FMCA 979">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp31.2" type=citing from="[2008] FMCA 979">whether jurisdictional error</citphrase>
+<citphrase id="cp31.3" type=citing from="[2008] FMCA 979">protection (class xa) visa</citphrase>
+<citphrase id="cp31.4" type=citing from="[2008] FMCA 979">whether breach of s.424a and s.425 of the act</citphrase>
+<citphrase id="cp31.5" type=citing from="[2008] FMCA 979">procedural fairness</citphrase>
+<citphrase id="cp31.6" type=citing from="[2008] FMCA 979">choice, assessment and weight of independent country information</citphrase>
+<citphrase id="cp31.7" type=citing from="[2008] FMCA 979">merits review not function of judicial review</citphrase>
+<citphrase id="cp31.8" type=citing from="[2008] FMCA 979">whether applicant's claims properly considered</citphrase>
+<citphrase id="cp31.9" type=citing from="[2008] FMCA 979">vulnerability of refugee applicants</citphrase>
+<citphrase id="cp31.10" type=citing from="[2008] FMCA 979">difficulties in obtaining documentary evidence to substantiate claims</citphrase>
+<citphrase id="cp31.11" type=citing from="[2008] FMCA 979">benefit of the doubt</citphrase>
+<citphrase id="cp31.12" type=citing from="[2008] FMCA 979">apprehended bias</citphrase>
+<citphrase id="cp31.13" type=citing from="[2008] FMCA 979">applicant must make out own case.</citphrase>
+<citphrase id="cp32.0" type=citing from="[2008] FMCA 1063">migration</citphrase>
+<citphrase id="cp32.1" type=citing from="[2008] FMCA 1063">visa</citphrase>
+<citphrase id="cp32.2" type=citing from="[2008] FMCA 1063">protection visa</citphrase>
+<citphrase id="cp32.3" type=citing from="[2008] FMCA 1063">refugee review tribunal decision</citphrase>
+<citphrase id="cp32.4" type=citing from="[2008] FMCA 1063">chinese person claiming persecution for falun gong practice</citphrase>
+<citphrase id="cp32.5" type=citing from="[2008] FMCA 1063">disbelieved by tribunal</citphrase>
+<citphrase id="cp32.6" type=citing from="[2008] FMCA 1063">credibility</citphrase>
+<citphrase id="cp32.7" type=citing from="[2008] FMCA 1063">allegation of bias</citphrase>
+<citphrase id="cp32.8" type=citing from="[2008] FMCA 1063">no jurisdictional error found.</citphrase>
+<citphrase id="cp33.0" type=citing from="[2008] FMCA 841">migration</citphrase>
+<citphrase id="cp33.1" type=citing from="[2008] FMCA 841">review of refugee tribunal decision</citphrase>
+<citphrase id="cp33.2" type=citing from="[2008] FMCA 841">no breach of s.424a of the act</citphrase>
+<citphrase id="cp33.3" type=citing from="[2008] FMCA 841">no failure to accord procedural fairness</citphrase>
+<citphrase id="cp33.4" type=citing from="[2008] FMCA 841">tribunal's reasoning not illogical</citphrase>
+<citphrase id="cp33.5" type=citing from="[2008] FMCA 841">no bias or apprehended bias on the part of the tribunal</citphrase>
+<citphrase id="cp33.6" type=citing from="[2008] FMCA 841">no jurisdictional error</citphrase>
+<citphrase id="cp33.7" type=citing from="[2008] FMCA 841">application dismissed.</citphrase>
+<citphrase id="cp34.0" type=citing from="[2008] FMCA 833">migration</citphrase>
+<citphrase id="cp34.1" type=citing from="[2008] FMCA 833">review of refugee tribunal decision</citphrase>
+<citphrase id="cp34.2" type=citing from="[2008] FMCA 833">no breach of s.424a</citphrase>
+<citphrase id="cp34.3" type=citing from="[2008] FMCA 833">no denial of procedural fairness</citphrase>
+<citphrase id="cp34.4" type=citing from="[2008] FMCA 833">no misapplication of the law on the part of the tribunal</citphrase>
+<citphrase id="cp34.5" type=citing from="[2008] FMCA 833">no evidence of bias</citphrase>
+<citphrase id="cp34.6" type=citing from="[2008] FMCA 833">no apprehension of bias</citphrase>
+<citphrase id="cp34.7" type=citing from="[2008] FMCA 833">no jurisdictional error</citphrase>
+<citphrase id="cp34.8" type=citing from="[2008] FMCA 833">application dismissed.</citphrase>
+<citphrase id="cp35.0" type=citing from="[2008] FMCA 865">migration</citphrase>
+<citphrase id="cp35.1" type=citing from="[2008] FMCA 865">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp35.2" type=citing from="[2008] FMCA 865">complaint that tribunal failed to take into account relevant information</citphrase>
+<citphrase id="cp35.3" type=citing from="[2008] FMCA 865">complaint that tribunal should have undertaken further enquiries</citphrase>
+<citphrase id="cp35.4" type=citing from="[2008] FMCA 865">applicant sought impermissible merits review</citphrase>
+<citphrase id="cp35.5" type=citing from="[2008] FMCA 865">findings open to the tribunal on the material before it</citphrase>
+<citphrase id="cp35.6" type=citing from="[2008] FMCA 865">no obligation for tribunal to seek further material or undertake investigation</citphrase>
+<citphrase id="cp35.7" type=citing from="[2008] FMCA 865">tribunal considered all of the applicant's claims</citphrase>
+<citphrase id="cp35.8" type=citing from="[2008] FMCA 865">no bias</citphrase>
+<citphrase id="cp35.9" type=citing from="[2008] FMCA 865">no obligation to consider adequate state protection where there is no convention nexus</citphrase>
+<citphrase id="cp35.10" type=citing from="[2008] FMCA 865">no jurisdictional error</citphrase>
+<citphrase id="cp35.11" type=citing from="[2008] FMCA 865">application dismissed.</citphrase>
+<citphrase id="cp36.0" type=citing from="[2008] FMCA 806">migration</citphrase>
+<citphrase id="cp36.1" type=citing from="[2008] FMCA 806">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp36.2" type=citing from="[2008] FMCA 806">whether jurisdictional error</citphrase>
+<citphrase id="cp36.3" type=citing from="[2008] FMCA 806">protection (class xa) visa</citphrase>
+<citphrase id="cp36.4" type=citing from="[2008] FMCA 806">whether s.424 of the act constrained by s.427</citphrase>
+<citphrase id="cp36.5" type=citing from="[2008] FMCA 806">whether rationale of s.427 is to protect privacy of refugee claimants</citphrase>
+<citphrase id="cp36.6" type=citing from="[2008] FMCA 806">whether breach of s.427(1)(d)</citphrase>
+<citphrase id="cp36.7" type=citing from="[2008] FMCA 806">whether secretary of department, not employee of tribunal should have conducted overseas enquiries</citphrase>
+<citphrase id="cp36.8" type=citing from="[2008] FMCA 806">whether alleged 'unauthorised' investigation by first tribunal tainted present tribunal's consideration of applicant's claims</citphrase>
+<citphrase id="cp36.9" type=citing from="[2008] FMCA 806">bias</citphrase>
+<citphrase id="cp36.10" type=citing from="[2008] FMCA 806">applicant must make out own case</citphrase>
+<citphrase id="cp36.11" type=citing from="[2008] FMCA 806">procedural fairness</citphrase>
+<citphrase id="cp36.12" type=citing from="[2008] FMCA 806">whether sur place claim arises where information obtained from applicant's country of origin</citphrase>
+<citphrase id="cp36.13" type=citing from="[2008] FMCA 806">whether failure to consider alleged sur place claim.</citphrase>
+<citphrase id="cp37.0" type=citing from="[2008] FMCA 755">migration</citphrase>
+<citphrase id="cp37.1" type=citing from="[2008] FMCA 755">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp37.2" type=citing from="[2008] FMCA 755">whether jurisdictional error</citphrase>
+<citphrase id="cp37.3" type=citing from="[2008] FMCA 755">protection (class xa) visa</citphrase>
+<citphrase id="cp37.4" type=citing from="[2008] FMCA 755">procedural fairness</citphrase>
+<citphrase id="cp37.5" type=citing from="[2008] FMCA 755">whether breach of s.424a of the act</citphrase>
+<citphrase id="cp37.6" type=citing from="[2008] FMCA 755">merits review not function of judicial review</citphrase>
+<citphrase id="cp37.7" type=citing from="[2008] FMCA 755">credibility</citphrase>
+<citphrase id="cp37.8" type=citing from="[2008] FMCA 755">whether tribunal properly considered applicant's claims concerning china's birth control policies</citphrase>
+<citphrase id="cp37.9" type=citing from="[2008] FMCA 755">whether tribunal decision based on "subjective opinion"</citphrase>
+<citphrase id="cp37.10" type=citing from="[2008] FMCA 755">bias</citphrase>
+<citphrase id="cp37.11" type=citing from="[2008] FMCA 755">whether applicant's son unfairly treated at tribunal hearing</citphrase>
+<citphrase id="cp37.12" type=citing from="[2008] FMCA 755">quality of legal advice provided to applicant</citphrase>
+<citphrase id="cp37.13" type=citing from="[2008] FMCA 755">whether unfairness in tapes of tribunal hearing not being translated into chinese</citphrase>
+<citphrase id="cp37.14" type=citing from="[2008] FMCA 755">whether applicant given proper opportunity to present his case.</citphrase>
+<citphrase id="cp38.0" type=citing from="[2008] FMCA 739">migration</citphrase>
+<citphrase id="cp38.1" type=citing from="[2008] FMCA 739">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp38.2" type=citing from="[2008] FMCA 739">whether jurisdictional error</citphrase>
+<citphrase id="cp38.3" type=citing from="[2008] FMCA 739">application for protection (class xa) visa</citphrase>
+<citphrase id="cp38.4" type=citing from="[2008] FMCA 739">whether apprehended bias</citphrase>
+<citphrase id="cp38.5" type=citing from="[2008] FMCA 739">whether applicant's physical and mental state at the tribunal hearing properly taken into account</citphrase>
+<citphrase id="cp38.6" type=citing from="[2008] FMCA 739">whether applicant's s.424a response properly considered</citphrase>
+<citphrase id="cp38.7" type=citing from="[2008] FMCA 739">merits review not function of judicial review</citphrase>
+<citphrase id="cp38.8" type=citing from="[2008] FMCA 739">credibility</citphrase>
+<citphrase id="cp38.9" type=citing from="[2008] FMCA 739">whether breach of s.425 of the act</citphrase>
+<citphrase id="cp38.10" type=citing from="[2008] FMCA 739">procedural fairness.</citphrase>
+<citphrase id="cp39.0" type=citing from="[2008] FMCA 680">migration</citphrase>
+<citphrase id="cp39.1" type=citing from="[2008] FMCA 680">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp39.2" type=citing from="[2008] FMCA 680">adverse credibility finding</citphrase>
+<citphrase id="cp39.3" type=citing from="[2008] FMCA 680">no convention nexus</citphrase>
+<citphrase id="cp39.4" type=citing from="[2008] FMCA 680">impermissible merits review</citphrase>
+<citphrase id="cp39.5" type=citing from="[2008] FMCA 680">findings open to the tribunal</citphrase>
+<citphrase id="cp39.6" type=citing from="[2008] FMCA 680">no obligation on tribunal to conduct own enquiries</citphrase>
+<citphrase id="cp39.7" type=citing from="[2008] FMCA 680">no jurisdictional error</citphrase>
+<citphrase id="cp39.8" type=citing from="[2008] FMCA 680">application dismissed.</citphrase>
+<citphrase id="cp40.0" type=citing from="[2008] FMCA 666">migration</citphrase>
+<citphrase id="cp40.1" type=citing from="[2008] FMCA 666">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp40.2" type=citing from="[2008] FMCA 666">whether jurisdictional error</citphrase>
+<citphrase id="cp40.3" type=citing from="[2008] FMCA 666">application for protection (class xa) visa</citphrase>
+<citphrase id="cp40.4" type=citing from="[2008] FMCA 666">whether proper consideration of claims</citphrase>
+<citphrase id="cp40.5" type=citing from="[2008] FMCA 666">whether corroborating evidence of the applicant's wife properly considered</citphrase>
+<citphrase id="cp40.6" type=citing from="[2008] FMCA 666">whether tribunal's failure to enquire of the wife in regard to certain incidents denied to the applicant corroboration of his claims</citphrase>
+<citphrase id="cp40.7" type=citing from="[2008] FMCA 666">whether tribunal has a general duty to enquire</citphrase>
+<citphrase id="cp40.8" type=citing from="[2008] FMCA 666">whether breach of s.425 of the act</citphrase>
+<citphrase id="cp40.9" type=citing from="[2008] FMCA 666">procedural fairness</citphrase>
+<citphrase id="cp40.10" type=citing from="[2008] FMCA 666">merits review not function of judicial review</citphrase>
+<citphrase id="cp40.11" type=citing from="[2008] FMCA 666">'wednesbury unreasonableness'</citphrase>
+<citphrase id="cp40.12" type=citing from="[2008] FMCA 666">alleged misconduct by original migration agent</citphrase>
+<citphrase id="cp40.13" type=citing from="[2008] FMCA 666">actual and apprehended bias</citphrase>
+<citphrase id="cp40.14" type=citing from="[2008] FMCA 666">whether proper caution given in assessment of credibility based on inconsistencies</citphrase>
+<citphrase id="cp40.15" type=citing from="[2008] FMCA 666">whether want of logic in assessment of claims</citphrase>
+<citphrase id="cp40.16" type=citing from="[2008] FMCA 666">whether real chance test misapplied</citphrase>
+<citphrase id="cp40.17" type=citing from="[2008] FMCA 666">assessment and weight of country information.</citphrase>
+<citphrase id="cp41.0" type=citing from="[2008] FMCA 665">migration</citphrase>
+<citphrase id="cp41.1" type=citing from="[2008] FMCA 665">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp41.2" type=citing from="[2008] FMCA 665">whether jurisdictional error</citphrase>
+<citphrase id="cp41.3" type=citing from="[2008] FMCA 665">application for protection (class xa) visa</citphrase>
+<citphrase id="cp41.4" type=citing from="[2008] FMCA 665">whether breach of s.424a of the act</citphrase>
+<citphrase id="cp41.5" type=citing from="[2008] FMCA 665">whether procedural fairness</citphrase>
+<citphrase id="cp41.6" type=citing from="[2008] FMCA 665">merits review not the function of judicial review</citphrase>
+<citphrase id="cp41.7" type=citing from="[2008] FMCA 665">whether tribunal acted 'capriciously and arbitrarily'</citphrase>
+<citphrase id="cp41.8" type=citing from="[2008] FMCA 665">bias.</citphrase>
+<citphrase id="cp42.0" type=citing from="[2008] FMCA 629">migration</citphrase>
+<citphrase id="cp42.1" type=citing from="[2008] FMCA 629">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp42.2" type=citing from="[2008] FMCA 629">whether jurisdictional error</citphrase>
+<citphrase id="cp42.3" type=citing from="[2008] FMCA 629">application for protection (class xa) visa</citphrase>
+<citphrase id="cp42.4" type=citing from="[2008] FMCA 629">whether applicant's claims properly considered</citphrase>
+<citphrase id="cp42.5" type=citing from="[2008] FMCA 629">merits review not the function of judicial review</citphrase>
+<citphrase id="cp42.6" type=citing from="[2008] FMCA 629">whether breach of s.424a and s.425 of the act</citphrase>
+<citphrase id="cp42.7" type=citing from="[2008] FMCA 629">procedural fairness</citphrase>
+<citphrase id="cp42.8" type=citing from="[2008] FMCA 629">whether actual or apprehended bias.</citphrase>
+<citphrase id="cp44.0" type=citing from="[2008] FMCA 712">migration</citphrase>
+<citphrase id="cp44.1" type=citing from="[2008] FMCA 712">review of the decision of the refugee review tribunal</citphrase>
+<citphrase id="cp44.2" type=citing from="[2008] FMCA 712">adverse credibility finding</citphrase>
+<citphrase id="cp44.3" type=citing from="[2008] FMCA 712">no failure pursuant to s.424a(1)</citphrase>
+<citphrase id="cp44.4" type=citing from="[2008] FMCA 712">no failure to consider claims</citphrase>
+<citphrase id="cp44.5" type=citing from="[2008] FMCA 712">impermissible merits review</citphrase>
+<citphrase id="cp44.6" type=citing from="[2008] FMCA 712">no bias</citphrase>
+<citphrase id="cp44.7" type=citing from="[2008] FMCA 712">no apprehended bias</citphrase>
+<citphrase id="cp44.8" type=citing from="[2008] FMCA 712">no jurisdictional error</citphrase>
+<citphrase id="cp44.9" type=citing from="[2008] FMCA 712">application dismissed.</citphrase>
+<citphrase id="cp45.0" type=citing from="[2008] FMCA 537">migration</citphrase>
+<citphrase id="cp45.1" type=citing from="[2008] FMCA 537">application for reinstatement</citphrase>
+<citphrase id="cp45.2" type=citing from="[2008] FMCA 537">whether court should set aside orders</citphrase>
+<citphrase id="cp45.3" type=citing from="[2008] FMCA 537">no satisfactory explanation for failure to appear</citphrase>
+<citphrase id="cp45.4" type=citing from="[2008] FMCA 537">whether utility in granting leave sought.  migration</citphrase>
+<citphrase id="cp45.5" type=citing from="[2008] FMCA 537">review of decision of the refugee review tribunal</citphrase>
+<citphrase id="cp45.6" type=citing from="[2008] FMCA 537">no breach of any common law rule of procedural fairness</citphrase>
+<citphrase id="cp45.7" type=citing from="[2008] FMCA 537">no breach of s.424a of the act</citphrase>
+<citphrase id="cp45.8" type=citing from="[2008] FMCA 537">no breach of statutory regime of procedural fairness</citphrase>
+<citphrase id="cp45.9" type=citing from="[2008] FMCA 537">no failure to consider claims</citphrase>
+<citphrase id="cp45.10" type=citing from="[2008] FMCA 537">no evidence of bias</citphrase>
+<citphrase id="cp45.11" type=citing from="[2008] FMCA 537">no inference of bias to be drawn</citphrase>
+<citphrase id="cp45.12" type=citing from="[2008] FMCA 537">no apprehension of bias</citphrase>
+<citphrase id="cp45.13" type=citing from="[2008] FMCA 537">no jurisdictional error</citphrase>
+<citphrase id="cp45.14" type=citing from="[2008] FMCA 537">application dismissed.</citphrase>
+<citphrase id="cp46.0" type=citing from="[2008] FMCA 381">migration</citphrase>
+<citphrase id="cp46.1" type=citing from="[2008] FMCA 381">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp46.2" type=citing from="[2008] FMCA 381">whether jurisdiction error</citphrase>
+<citphrase id="cp46.3" type=citing from="[2008] FMCA 381">merits review not function of judicial review</citphrase>
+<citphrase id="cp46.4" type=citing from="[2008] FMCA 381">country information</citphrase>
+<citphrase id="cp46.5" type=citing from="[2008] FMCA 381">weight</citphrase>
+<citphrase id="cp46.6" type=citing from="[2008] FMCA 381">whether applicant's cultural background relevant</citphrase>
+<citphrase id="cp46.7" type=citing from="[2008] FMCA 381">procedural fairness</citphrase>
+<citphrase id="cp46.8" type=citing from="[2008] FMCA 381">whether apprehended bias.</citphrase>
+<citphrase id="cp47.0" type=citing from="[2008] FMCA 161">migration</citphrase>
+<citphrase id="cp47.1" type=citing from="[2008] FMCA 161">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp47.2" type=citing from="[2008] FMCA 161">whether jurisdictional error</citphrase>
+<citphrase id="cp47.3" type=citing from="[2008] FMCA 161">whether independent country information properly considered</citphrase>
+<citphrase id="cp47.4" type=citing from="[2008] FMCA 161">fact finding not the function of judicial review</citphrase>
+<citphrase id="cp47.5" type=citing from="[2008] FMCA 161">whether any procedural unfairness, bad faith, or apprehended bias from loss of departmental file.</citphrase>
+<citphrase id="cp48.0" type=citing from="[2008] FMCA 331">migration</citphrase>
+<citphrase id="cp48.1" type=citing from="[2008] FMCA 331">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp48.2" type=citing from="[2008] FMCA 331">whether jurisdictional error</citphrase>
+<citphrase id="cp48.3" type=citing from="[2008] FMCA 331">merits review not the function of judicial review</citphrase>
+<citphrase id="cp48.4" type=citing from="[2008] FMCA 331">procedural fairness</citphrase>
+<citphrase id="cp48.5" type=citing from="[2008] FMCA 331">whether persecution involves 'systematic and discriminatory conduct' pursuant to s.91r(1)(c)</citphrase>
+<citphrase id="cp48.6" type=citing from="[2008] FMCA 331">whether 'international standards' of state protection apply</citphrase>
+<citphrase id="cp48.7" type=citing from="[2008] FMCA 331">whether 'serious harm' pursuant to s.91r(2)(a)</citphrase>
+<citphrase id="cp48.8" type=citing from="[2008] FMCA 331">whether country information misapplied</citphrase>
+<citphrase id="cp48.9" type=citing from="[2008] FMCA 331">bias</citphrase>
+<citphrase id="cp48.10" type=citing from="[2008] FMCA 331">onus of proof</citphrase>
+<citphrase id="cp48.11" type=citing from="[2008] FMCA 331">benefit of the doubt</citphrase>
+<citphrase id="cp48.12" type=citing from="[2008] FMCA 331">whether proper consideration of claims</citphrase>
+<citphrase id="cp48.13" type=citing from="[2008] FMCA 331">whether definition of 'refugee' misapplied.</citphrase>
+<citphrase id="cp49.0" type=citing from="[2008] FMCA 330">migration</citphrase>
+<citphrase id="cp49.1" type=citing from="[2008] FMCA 330">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp49.2" type=citing from="[2008] FMCA 330">whether jurisdictional error</citphrase>
+<citphrase id="cp49.3" type=citing from="[2008] FMCA 330">merits review not the function of judicial review</citphrase>
+<citphrase id="cp49.4" type=citing from="[2008] FMCA 330">procedural fairness</citphrase>
+<citphrase id="cp49.5" type=citing from="[2008] FMCA 330">whether persecution involves 'systematic and discriminatory conduct' pursuant to s.91r(1)(c)</citphrase>
+<citphrase id="cp49.6" type=citing from="[2008] FMCA 330">whether 'international standards' of state protection apply</citphrase>
+<citphrase id="cp49.7" type=citing from="[2008] FMCA 330">whether 'serious harm' pursuant to s.91r(2)(a)</citphrase>
+<citphrase id="cp49.8" type=citing from="[2008] FMCA 330">whether country information misapplied</citphrase>
+<citphrase id="cp49.9" type=citing from="[2008] FMCA 330">bias</citphrase>
+<citphrase id="cp49.10" type=citing from="[2008] FMCA 330">onus of proof</citphrase>
+<citphrase id="cp49.11" type=citing from="[2008] FMCA 330">benefit of the doubt</citphrase>
+<citphrase id="cp49.12" type=citing from="[2008] FMCA 330">whether proper consideration of claims</citphrase>
+<citphrase id="cp49.13" type=citing from="[2008] FMCA 330">whether definition of 'refugee' misapplied.</citphrase>
+<citphrase id="cp50.0" type=citing from="[2008] FMCA 254">migration</citphrase>
+<citphrase id="cp50.1" type=citing from="[2008] FMCA 254">review of decision of the refugee review tribunal</citphrase>
+<citphrase id="cp50.2" type=citing from="[2008] FMCA 254">adverse credibility finding</citphrase>
+<citphrase id="cp50.3" type=citing from="[2008] FMCA 254">no misapplication of the terms "well-founded fear of persecution" and "refugee"</citphrase>
+<citphrase id="cp50.4" type=citing from="[2008] FMCA 254">no evidence of what occurred at the hearing apart from that contained in the decision record</citphrase>
+<citphrase id="cp50.5" type=citing from="[2008] FMCA 254">no requirement to consider relocation</citphrase>
+<citphrase id="cp50.6" type=citing from="[2008] FMCA 254">no evidence of bias of bad faith</citphrase>
+<citphrase id="cp50.7" type=citing from="[2008] FMCA 254">determinative issue raised with the applicants at the hearing</citphrase>
+<citphrase id="cp50.8" type=citing from="[2008] FMCA 254">no failure to provide an adequate level of interpretation before the tribunal</citphrase>
+<citphrase id="cp50.9" type=citing from="[2008] FMCA 254">no jurisdictional error in respect to applicant husband</citphrase>
+<citphrase id="cp50.10" type=citing from="[2008] FMCA 254">jurisdictional error in relation to applicant wife</citphrase>
+<citphrase id="cp50.11" type=citing from="[2008] FMCA 254">discretionary nature of relief</citphrase>
+<citphrase id="cp50.12" type=citing from="[2008] FMCA 254">no utility in granting relief to applicant wife</citphrase>
+<citphrase id="cp50.13" type=citing from="[2008] FMCA 254">applications dismissed.</citphrase>
+<citphrase id="cp51.0" type=citing from="[2008] FMCA 240">migration</citphrase>
+<citphrase id="cp51.1" type=citing from="[2008] FMCA 240">review of decision of migration review tribunal</citphrase>
+<citphrase id="cp51.2" type=citing from="[2008] FMCA 240">show cause hearing</citphrase>
+<citphrase id="cp51.3" type=citing from="[2008] FMCA 240">whether arguable case</citphrase>
+<citphrase id="cp51.4" type=citing from="[2008] FMCA 240">student (temporary) (class tu) visa application</citphrase>
+<citphrase id="cp51.5" type=citing from="[2008] FMCA 240">whether genuine applicant for an entry and stay as a student</citphrase>
+<citphrase id="cp51.6" type=citing from="[2008] FMCA 240">clause 560.224 of schedule 2 of the regulations</citphrase>
+<citphrase id="cp51.7" type=citing from="[2008] FMCA 240">financial ability of applicant to undertake course of study</citphrase>
+<citphrase id="cp51.8" type=citing from="[2008] FMCA 240">applicant's comprehension of english for purposes of undertaking course</citphrase>
+<citphrase id="cp51.9" type=citing from="[2008] FMCA 240">findings of fact not the function of judicial review</citphrase>
+<citphrase id="cp51.10" type=citing from="[2008] FMCA 240">whether tribunal acted in bad faith.</citphrase>
+<citphrase id="cp52.0" type=citing from="[2008] FMCA 253">migration</citphrase>
+<citphrase id="cp52.1" type=citing from="[2008] FMCA 253">review of refugee tribunal decision</citphrase>
+<citphrase id="cp52.2" type=citing from="[2008] FMCA 253">no denial of procedural fairness</citphrase>
+<citphrase id="cp52.3" type=citing from="[2008] FMCA 253">no failure to consider relevant considerations</citphrase>
+<citphrase id="cp52.4" type=citing from="[2008] FMCA 253">tribunal addressed each aspect of the claims before it</citphrase>
+<citphrase id="cp52.5" type=citing from="[2008] FMCA 253">impermissible merits review</citphrase>
+<citphrase id="cp52.6" type=citing from="[2008] FMCA 253">consideration of "serious harm" did not arise</citphrase>
+<citphrase id="cp52.7" type=citing from="[2008] FMCA 253">choice and use of country information a matter for the tribunal</citphrase>
+<citphrase id="cp52.8" type=citing from="[2008] FMCA 253">no evidence of bias or bad faith</citphrase>
+<citphrase id="cp52.9" type=citing from="[2008] FMCA 253">no failure to apply "refugee"</citphrase>
+<citphrase id="cp52.10" type=citing from="[2008] FMCA 253">reason for treatment a reason other than a convention reason</citphrase>
+<citphrase id="cp52.11" type=citing from="[2008] FMCA 253">no jurisdictional error</citphrase>
+<citphrase id="cp52.12" type=citing from="[2008] FMCA 253">application dismissed.</citphrase>
+<citphrase id="cp54.0" type=citing from="[2008] FMCA 258">migration</citphrase>
+<citphrase id="cp54.1" type=citing from="[2008] FMCA 258">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp54.2" type=citing from="[2008] FMCA 258">whether jurisdictional error</citphrase>
+<citphrase id="cp54.3" type=citing from="[2008] FMCA 258">consideration of refugee claims</citphrase>
+<citphrase id="cp54.4" type=citing from="[2008] FMCA 258">procedural fairness</citphrase>
+<citphrase id="cp54.5" type=citing from="[2008] FMCA 258">fact finding not the function of judicial review</citphrase>
+<citphrase id="cp54.6" type=citing from="[2008] FMCA 258">weight</citphrase>
+<citphrase id="cp54.7" type=citing from="[2008] FMCA 258">bias</citphrase>
+<citphrase id="cp54.8" type=citing from="[2008] FMCA 258">whether threats constitute serious harm under s.91r of the act</citphrase>
+<citphrase id="cp54.9" type=citing from="[2008] FMCA 258">whether conduct of questioning oppressive</citphrase>
+<citphrase id="cp54.10" type=citing from="[2008] FMCA 258">country information</citphrase>
+<citphrase id="cp54.11" type=citing from="[2008] FMCA 258">whether breach of s.424 of the act.</citphrase>
+<citphrase id="cp55.0" type=citing from="[2008] FMCA 269">migration</citphrase>
+<citphrase id="cp55.1" type=citing from="[2008] FMCA 269">review of decision of the refugee review tribunal</citphrase>
+<citphrase id="cp55.2" type=citing from="[2008] FMCA 269">findings of fact not amenable to review</citphrase>
+<citphrase id="cp55.3" type=citing from="[2008] FMCA 269">choice and use of independent country information</citphrase>
+<citphrase id="cp55.4" type=citing from="[2008] FMCA 269">no evidence of bias or bad faith</citphrase>
+<citphrase id="cp55.5" type=citing from="[2008] FMCA 269">no denial of procedural fairness</citphrase>
+<citphrase id="cp55.6" type=citing from="[2008] FMCA 269">no jurisdictional error</citphrase>
+<citphrase id="cp55.7" type=citing from="[2008] FMCA 269">application dismissed.</citphrase>
+<citphrase id="cp56.0" type=citing from="[2008] FMCA 222">migration</citphrase>
+<citphrase id="cp56.1" type=citing from="[2008] FMCA 222">review of decision by refugee review tribunal</citphrase>
+<citphrase id="cp56.2" type=citing from="[2008] FMCA 222">whether refugee review tribunal's decision affected by jurisdictional error.</citphrase>
+<citphrase id="cp57.0" type=citing from="[2008] FMCA 223">migration</citphrase>
+<citphrase id="cp57.1" type=citing from="[2008] FMCA 223">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp57.2" type=citing from="[2008] FMCA 223">whether jurisdictional error</citphrase>
+<citphrase id="cp57.3" type=citing from="[2008] FMCA 223">whether breach of s.424a of the act</citphrase>
+<citphrase id="cp57.4" type=citing from="[2008] FMCA 223">procedural fairness</citphrase>
+<citphrase id="cp57.5" type=citing from="[2008] FMCA 223">fact finding not function of judicial review</citphrase>
+<citphrase id="cp57.6" type=citing from="[2008] FMCA 223">whether prejudgment of claims</citphrase>
+<citphrase id="cp57.7" type=citing from="[2008] FMCA 223">benefit of the doubt.</citphrase>
+<citphrase id="cp58.0" type=citing from="[2008] FMCA 162">migration</citphrase>
+<citphrase id="cp58.1" type=citing from="[2008] FMCA 162">review of decision of migration review tribunal</citphrase>
+<citphrase id="cp58.2" type=citing from="[2008] FMCA 162">whether jurisdictional error</citphrase>
+<citphrase id="cp58.3" type=citing from="[2008] FMCA 162">cancellation of subclass 573 higher education sector visa</citphrase>
+<citphrase id="cp58.4" type=citing from="[2008] FMCA 162">failure to comply with condition 8202 of the visa</citphrase>
+<citphrase id="cp58.5" type=citing from="[2008] FMCA 162">whether exceptional circumstances beyond the visa holder's control under regulation 2.43(2)</citphrase>
+<citphrase id="cp58.6" type=citing from="[2008] FMCA 162">procedural fairness</citphrase>
+<citphrase id="cp58.7" type=citing from="[2008] FMCA 162">bias.</citphrase>
+<citphrase id="cp59.0" type=citing from="[2008] FMCA 111">migration</citphrase>
+<citphrase id="cp59.1" type=citing from="[2008] FMCA 111">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp59.2" type=citing from="[2008] FMCA 111">whether jurisdictional error</citphrase>
+<citphrase id="cp59.3" type=citing from="[2008] FMCA 111">fact finding role of tribunal</citphrase>
+<citphrase id="cp59.4" type=citing from="[2008] FMCA 111">weight</citphrase>
+<citphrase id="cp59.5" type=citing from="[2008] FMCA 111">procedural fairness</citphrase>
+<citphrase id="cp59.6" type=citing from="[2008] FMCA 111">bias.</citphrase>
+<citphrase id="cp60.0" type=citing from="[2008] FMCA 100">migration</citphrase>
+<citphrase id="cp60.1" type=citing from="[2008] FMCA 100">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp60.2" type=citing from="[2008] FMCA 100">whether jurisdictional error</citphrase>
+<citphrase id="cp60.3" type=citing from="[2008] FMCA 100">fact finding not the function of judicial review</citphrase>
+<citphrase id="cp60.4" type=citing from="[2008] FMCA 100">procedural fairness</citphrase>
+<citphrase id="cp60.5" type=citing from="[2008] FMCA 100">bias.</citphrase>
+<citphrase id="cp61.0" type=citing from="[2008] FMCA 93">migration</citphrase>
+<citphrase id="cp61.1" type=citing from="[2008] FMCA 93">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp61.2" type=citing from="[2008] FMCA 93">whether jurisdictional error</citphrase>
+<citphrase id="cp61.3" type=citing from="[2008] FMCA 93">fact finding not a function of judicial review</citphrase>
+<citphrase id="cp61.4" type=citing from="[2008] FMCA 93">credibility</citphrase>
+<citphrase id="cp61.5" type=citing from="[2008] FMCA 93">country information</citphrase>
+<citphrase id="cp61.6" type=citing from="[2008] FMCA 93">bias</citphrase>
+<citphrase id="cp61.7" type=citing from="[2008] FMCA 93">no breach of s.424a of the act.</citphrase>
+<citphrase id="cp62.0" type=citing from="[2008] FMCA 77">migration</citphrase>
+<citphrase id="cp62.1" type=citing from="[2008] FMCA 77">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp62.2" type=citing from="[2008] FMCA 77">whether jurisdictional error</citphrase>
+<citphrase id="cp62.3" type=citing from="[2008] FMCA 77">two rrt hearings and two s424a letters</citphrase>
+<citphrase id="cp62.4" type=citing from="[2008] FMCA 77">procedural fairness</citphrase>
+<citphrase id="cp62.5" type=citing from="[2008] FMCA 77">repeated questioning</citphrase>
+<citphrase id="cp62.6" type=citing from="[2008] FMCA 77">bias</citphrase>
+<citphrase id="cp62.7" type=citing from="[2008] FMCA 77">merits review</citphrase>
+<citphrase id="cp62.8" type=citing from="[2008] FMCA 77">weight.</citphrase>
+<citphrase id="cp63.0" type=citing from="[2008] FMCA 37">migration</citphrase>
+<citphrase id="cp63.1" type=citing from="[2008] FMCA 37">review of refugee review tribunal decision</citphrase>
+<citphrase id="cp63.2" type=citing from="[2008] FMCA 37">refusal of a protection (class xa) visa</citphrase>
+<citphrase id="cp63.3" type=citing from="[2008] FMCA 37">no reviewable error</citphrase>
+<citphrase id="cp63.4" type=citing from="[2008] FMCA 37">application dismissed.</citphrase>
+<citphrase id="cp64.0" type=citing from="[2007] FMCA 2013">migration</citphrase>
+<citphrase id="cp64.1" type=citing from="[2007] FMCA 2013">review of refugee review tribunal decision</citphrase>
+<citphrase id="cp64.2" type=citing from="[2007] FMCA 2013">adverse credibility finding</citphrase>
+<citphrase id="cp64.3" type=citing from="[2007] FMCA 2013">no failure to consider the applicant's claims</citphrase>
+<citphrase id="cp64.4" type=citing from="[2007] FMCA 2013">no evidence of bias on the part of the tribunal</citphrase>
+<citphrase id="cp64.5" type=citing from="[2007] FMCA 2013">impermissible merits review</citphrase>
+<citphrase id="cp64.6" type=citing from="[2007] FMCA 2013">choice and use of country information a matter for the tribunal</citphrase>
+<citphrase id="cp64.7" type=citing from="[2007] FMCA 2013">no denial of procedural fairness</citphrase>
+<citphrase id="cp64.8" type=citing from="[2007] FMCA 2013">no jurisdictional error</citphrase>
+<citphrase id="cp64.9" type=citing from="[2007] FMCA 2013">application dismissed.</citphrase>
+<citphrase id="cp65.0" type=citing from="[2007] FMCA 2099">migration</citphrase>
+<citphrase id="cp65.1" type=citing from="[2007] FMCA 2099">review of refugee review tribunal decision</citphrase>
+<citphrase id="cp65.2" type=citing from="[2007] FMCA 2099">impermissible merits review</citphrase>
+<citphrase id="cp65.3" type=citing from="[2007] FMCA 2099">no evidence of bias or bad faith</citphrase>
+<citphrase id="cp65.4" type=citing from="[2007] FMCA 2099">no breach of s.424a</citphrase>
+<citphrase id="cp65.5" type=citing from="[2007] FMCA 2099">no jurisdictional error</citphrase>
+<citphrase id="cp65.6" type=citing from="[2007] FMCA 2099">application dismissed.</citphrase>
+<citphrase id="cp66.0" type=citing from="[2007] FMCA 2008">migration</citphrase>
+<citphrase id="cp66.1" type=citing from="[2007] FMCA 2008">review of refugee review tribunal decision</citphrase>
+<citphrase id="cp66.2" type=citing from="[2007] FMCA 2008">adverse credibility finding</citphrase>
+<citphrase id="cp66.3" type=citing from="[2007] FMCA 2008">no evidence of bias or bad faith</citphrase>
+<citphrase id="cp66.4" type=citing from="[2007] FMCA 2008">no failure to consider a relevant consideration or to address the relevant question</citphrase>
+<citphrase id="cp66.5" type=citing from="[2007] FMCA 2008">findings of fact a matter for the tribunal</citphrase>
+<citphrase id="cp66.6" type=citing from="[2007] FMCA 2008">no jurisdictional error</citphrase>
+<citphrase id="cp66.7" type=citing from="[2007] FMCA 2008">application dismissed.</citphrase>
+<citphrase id="cp67.0" type=citing from="[2007] FMCA 1941">migration</citphrase>
+<citphrase id="cp67.1" type=citing from="[2007] FMCA 1941">whether a s.424a letter must be sent before the hearing</citphrase>
+<citphrase id="cp67.2" type=citing from="[2007] FMCA 1941">whether there are temporal requirements in s.424a</citphrase>
+<citphrase id="cp67.3" type=citing from="[2007] FMCA 1941">whether such words should be introduced for the purposes of construction.</citphrase>
+<citphrase id="cp68.0" type=citing from="[2007] FMCA 2116">migration</citphrase>
+<citphrase id="cp68.1" type=citing from="[2007] FMCA 2116">visa</citphrase>
+<citphrase id="cp68.2" type=citing from="[2007] FMCA 2116">protection visa</citphrase>
+<citphrase id="cp68.3" type=citing from="[2007] FMCA 2116">refugee review tribunal</citphrase>
+<citphrase id="cp68.4" type=citing from="[2007] FMCA 2116">application for review of rrt decision affirming a decision of a delegate of the minister refusing to grant a protection visa</citphrase>
+<citphrase id="cp68.5" type=citing from="[2007] FMCA 2116">applicant a citizen of china claiming fear of persecution for reasons of membership of a particular church group</citphrase>
+<citphrase id="cp68.6" type=citing from="[2007] FMCA 2116">allegation of bias</citphrase>
+<citphrase id="cp68.7" type=citing from="[2007] FMCA 2116">no evidence of bias</citphrase>
+<citphrase id="cp68.8" type=citing from="[2007] FMCA 2116">whether tribunal failed to comply with migration act 1958 (cth) s.424a(1)</citphrase>
+<citphrase id="cp68.9" type=citing from="[2007] FMCA 2116">no reviewable error.</citphrase>
+<citphrase id="cp69.0" type=citing from="[2007] FMCA 1998">migration</citphrase>
+<citphrase id="cp69.1" type=citing from="[2007] FMCA 1998">whether tribunal required to grant request for a further hearing</citphrase>
+<citphrase id="cp69.2" type=citing from="[2007] FMCA 1998">adverse finding of credibility</citphrase>
+<citphrase id="cp69.3" type=citing from="[2007] FMCA 1998">new evidence not admissible</citphrase>
+<citphrase id="cp69.4" type=citing from="[2007] FMCA 1998">bias not shown.</citphrase>
+<citphrase id="cp70.0" type=citing from="[2007] FMCA 1984">migration</citphrase>
+<citphrase id="cp70.1" type=citing from="[2007] FMCA 1984">bias not established</citphrase>
+<citphrase id="cp70.2" type=citing from="[2007] FMCA 1984">adverse finding of credibility is a finding of fact</citphrase>
+<citphrase id="cp70.3" type=citing from="[2007] FMCA 1984">not reviewable.</citphrase>
+<citphrase id="cp71.0" type=citing from="[2007] FMCA 1891">migration</citphrase>
+<citphrase id="cp71.1" type=citing from="[2007] FMCA 1891">review of decision of the refugee review tribunal</citphrase>
+<citphrase id="cp71.2" type=citing from="[2007] FMCA 1891">applicant's claims vague and lacking in detail</citphrase>
+<citphrase id="cp71.3" type=citing from="[2007] FMCA 1891">no failure to consider</citphrase>
+<citphrase id="cp71.4" type=citing from="[2007] FMCA 1891">no breach of the rules of natural justice</citphrase>
+<citphrase id="cp71.5" type=citing from="[2007] FMCA 1891">no failure to understand applicant's claims</citphrase>
+<citphrase id="cp71.6" type=citing from="[2007] FMCA 1891">no evidence of bad faith or bias on the part of the tribunal</citphrase>
+<citphrase id="cp71.7" type=citing from="[2007] FMCA 1891">tribunal did not apply the "wrong test"</citphrase>
+<citphrase id="cp71.8" type=citing from="[2007] FMCA 1891">no illogicality on the part of the tribunal</citphrase>
+<citphrase id="cp71.9" type=citing from="[2007] FMCA 1891">no jurisdictional error</citphrase>
+<citphrase id="cp71.10" type=citing from="[2007] FMCA 1891">application dismissed.</citphrase>
+<citphrase id="cp72.0" type=citing from="[2007] FMCA 1926">migration</citphrase>
+<citphrase id="cp72.1" type=citing from="[2007] FMCA 1926">not denial of procedural fairness to disbelieve an applicant</citphrase>
+<citphrase id="cp72.2" type=citing from="[2007] FMCA 1926">power to make a decision after no information provided in response to a s.425 letter</citphrase>
+<citphrase id="cp72.3" type=citing from="[2007] FMCA 1926">principle in szigq applicable.</citphrase>
+<citphrase id="cp73.0" type=citing from="[2007] FMCA 1914">migration</citphrase>
+<citphrase id="cp73.1" type=citing from="[2007] FMCA 1914">bias not established</citphrase>
+<citphrase id="cp73.2" type=citing from="[2007] FMCA 1914">all claims considered</citphrase>
+<citphrase id="cp73.3" type=citing from="[2007] FMCA 1914">not jurisdictional error for tribunal to rely on country information that is not true.</citphrase>
+<citphrase id="cp74.0" type=citing from="[2007] FMCA 1913">migration</citphrase>
+<citphrase id="cp74.1" type=citing from="[2007] FMCA 1913">no denial of procedural fairness in not believing an applicant's evidence</citphrase>
+<citphrase id="cp74.2" type=citing from="[2007] FMCA 1913">assessing evidence and weight is a pivotal function of the tribunal</citphrase>
+<citphrase id="cp74.3" type=citing from="[2007] FMCA 1913">bias not established</citphrase>
+<citphrase id="cp74.4" type=citing from="[2007] FMCA 1913">non-attendance at hearing</citphrase>
+<citphrase id="cp74.5" type=citing from="[2007] FMCA 1913">rejection inevitable consequence.</citphrase>
+<citphrase id="cp75.0" type=citing from="[2007] FMCA 1904">migration</citphrase>
+<citphrase id="cp75.1" type=citing from="[2007] FMCA 1904">whether tribunal biased</citphrase>
+<citphrase id="cp75.2" type=citing from="[2007] FMCA 1904">allegation must be distinctly made and clearly proven</citphrase>
+<citphrase id="cp75.3" type=citing from="[2007] FMCA 1904">tribunal entitled to accept or reject or give weight to evidence as it thinks appropriate</citphrase>
+<citphrase id="cp75.4" type=citing from="[2007] FMCA 1904">finding of credibility is a finding of fact</citphrase>
+<citphrase id="cp75.5" type=citing from="[2007] FMCA 1904">applicant must establish their case to the satisfaction of the tribunal</citphrase>
+<citphrase id="cp75.6" type=citing from="[2007] FMCA 1904">competence of interpreter</citphrase>
+<citphrase id="cp75.7" type=citing from="[2007] FMCA 1904">whether so incompetent that applicant prevented from giving his evidence.</citphrase>
+<citphrase id="cp76.0" type=citing from="[2007] FMCA 1635">migration</citphrase>
+<citphrase id="cp76.1" type=citing from="[2007] FMCA 1635">interpreter</citphrase>
+<citphrase id="cp76.2" type=citing from="[2007] FMCA 1635">alleged difficulties</citphrase>
+<citphrase id="cp76.3" type=citing from="[2007] FMCA 1635">whether material errors occurred showing miscarriage in decision-making process</citphrase>
+<citphrase id="cp76.4" type=citing from="[2007] FMCA 1635">weight a matter for the tribunal</citphrase>
+<citphrase id="cp76.5" type=citing from="[2007] FMCA 1635">bias</citphrase>
+<citphrase id="cp76.6" type=citing from="[2007] FMCA 1635">judge to bring an impartial mind to the question</citphrase>
+<citphrase id="cp76.7" type=citing from="[2007] FMCA 1635">bias not established.</citphrase>
+<citphrase id="cp77.0" type=citing from="[2007] FMCA 1636">migration</citphrase>
+<citphrase id="cp77.1" type=citing from="[2007] FMCA 1636">bias not established</citphrase>
+<citphrase id="cp77.2" type=citing from="[2007] FMCA 1636">cannot review findings of fact</citphrase>
+<citphrase id="cp77.3" type=citing from="[2007] FMCA 1636">no well-founded fear of persecution</citphrase>
+<citphrase id="cp77.4" type=citing from="[2007] FMCA 1636">case law is not "information" within s.424a</citphrase>
+<citphrase id="cp77.5" type=citing from="[2007] FMCA 1636">s.424(2) power to invite applicant to give further information is discretionary</citphrase>
+<citphrase id="cp77.6" type=citing from="[2007] FMCA 1636">cannot object to tribunal relying on country information.</citphrase>
+<citphrase id="cp78.0" type=citing from="[2007] FMCA 1737">migration</citphrase>
+<citphrase id="cp78.1" type=citing from="[2007] FMCA 1737">failure to convince tribunal</citphrase>
+<citphrase id="cp78.2" type=citing from="[2007] FMCA 1737">credibility a matter for the tribunal</citphrase>
+<citphrase id="cp78.3" type=citing from="[2007] FMCA 1737">bias not established</citphrase>
+<citphrase id="cp78.4" type=citing from="[2007] FMCA 1737">court cannot make assessment of truth of country information.</citphrase>
+<citphrase id="cp79.0" type=citing from="[2007] FMCA 1564">migration</citphrase>
+<citphrase id="cp79.1" type=citing from="[2007] FMCA 1564">findings of fact not open to review</citphrase>
+<citphrase id="cp79.2" type=citing from="[2007] FMCA 1564">no "wednesbury unreasonableness"</citphrase>
+<citphrase id="cp79.3" type=citing from="[2007] FMCA 1564">bias not established</citphrase>
+<citphrase id="cp79.4" type=citing from="[2007] FMCA 1564">open to the tribunal to accept or reject evidence as it thinks appropriate.</citphrase>
+<citphrase id="cp80.0" type=citing from="[2007] FMCA 1436">migration</citphrase>
+<citphrase id="cp80.1" type=citing from="[2007] FMCA 1436">skilled independent visa</citphrase>
+<citphrase id="cp80.2" type=citing from="[2007] FMCA 1436">whether employed in skilled occupation for 12 months</citphrase>
+<citphrase id="cp80.3" type=citing from="[2007] FMCA 1436">error of fact does not mean error of law or jurisdiction</citphrase>
+<citphrase id="cp80.4" type=citing from="[2007] FMCA 1436">weight given to investigations by the department.</citphrase>
+<citphrase id="cp81.0" type=citing from="[2007] FMCA 1339">migration</citphrase>
+<citphrase id="cp81.1" type=citing from="[2007] FMCA 1339">affidavit by applicant of translation of tribunal proceedings not accepted as evidence</citphrase>
+<citphrase id="cp81.2" type=citing from="[2007] FMCA 1339">not accredited interpreter</citphrase>
+<citphrase id="cp81.3" type=citing from="[2007] FMCA 1339">grounds struck out because no particulars</citphrase>
+<citphrase id="cp81.4" type=citing from="[2007] FMCA 1339">no basis for understanding the reasons for challenging the decision</citphrase>
+<citphrase id="cp81.5" type=citing from="[2007] FMCA 1339">weight a matter for the tribunal</citphrase>
+<citphrase id="cp81.6" type=citing from="[2007] FMCA 1339">bias not established.</citphrase>
+<citphrase id="cp82.0" type=citing from="[2007] FMCA 1252">migration</citphrase>
+<citphrase id="cp82.1" type=citing from="[2007] FMCA 1252">tribunal does not require expert evidence to determine that an applicant is not of african, asian, caucasian or chechen heritage</citphrase>
+<citphrase id="cp82.2" type=citing from="[2007] FMCA 1252">even if an error of fact, not jurisdictional error unless made without evidence or vitiated by error of law</citphrase>
+<citphrase id="cp82.3" type=citing from="[2007] FMCA 1252">adverse finding of credibility is finding of fact</citphrase>
+<citphrase id="cp82.4" type=citing from="[2007] FMCA 1252">"appraisal" not "information" within s.424a</citphrase>
+<citphrase id="cp82.5" type=citing from="[2007] FMCA 1252">allegation of bias must be clearly made and distinctly proven</citphrase>
+<citphrase id="cp82.6" type=citing from="[2007] FMCA 1252">adequate state protection</citphrase>
+<citphrase id="cp82.7" type=citing from="[2007] FMCA 1252">particular social group</citphrase>
+<citphrase id="cp82.8" type=citing from="[2007] FMCA 1252">must be associative qualities that unite members of the group and set them aside from society at large.</citphrase>
+<citphrase id="cp83.0" type=citing from="[2007] FMCA 1578">migration</citphrase>
+<citphrase id="cp83.1" type=citing from="[2007] FMCA 1578">credibility</citphrase>
+<citphrase id="cp83.2" type=citing from="[2007] FMCA 1578">finding of fact</citphrase>
+<citphrase id="cp83.3" type=citing from="[2007] FMCA 1578">bias not established</citphrase>
+<citphrase id="cp83.4" type=citing from="[2007] FMCA 1578">conclusions of tribunal not "information" within s.424a</citphrase>
+<citphrase id="cp83.5" type=citing from="[2007] FMCA 1578">all issues were put to the applicant</citphrase>
+<citphrase id="cp83.6" type=citing from="[2007] FMCA 1578">procedural requirements complied with</citphrase>
+<citphrase id="cp83.7" type=citing from="[2007] FMCA 1578">no denial of natural justice</citphrase>
+<citphrase id="cp84.0" type=citing from="[2007] FMCA 1572">migration</citphrase>
+<citphrase id="cp84.1" type=citing from="[2007] FMCA 1572">credibility</citphrase>
+<citphrase id="cp84.2" type=citing from="[2007] FMCA 1572">matter for the tribunal</citphrase>
+<citphrase id="cp84.3" type=citing from="[2007] FMCA 1572">finding of fact</citphrase>
+<citphrase id="cp84.4" type=citing from="[2007] FMCA 1572">court will not set aside</citphrase>
+<citphrase id="cp84.5" type=citing from="[2007] FMCA 1572">non-refoulment not applicable as applicant is not a refugee</citphrase>
+<citphrase id="cp84.6" type=citing from="[2007] FMCA 1572">bias not established.</citphrase>
+<citphrase id="cp85.0" type=citing from="[2007] FMCA 1549">migration</citphrase>
+<citphrase id="cp85.1" type=citing from="[2007] FMCA 1549">bias</citphrase>
+<citphrase id="cp85.2" type=citing from="[2007] FMCA 1549">tribunal did not act dishonestly, arbitrarily, or capriciously</citphrase>
+<citphrase id="cp85.3" type=citing from="[2007] FMCA 1549">adverse finding of credibility does not show bias</citphrase>
+<citphrase id="cp85.4" type=citing from="[2007] FMCA 1549">credibility</citphrase>
+<citphrase id="cp85.5" type=citing from="[2007] FMCA 1549">finding of fact</citphrase>
+<citphrase id="cp85.6" type=citing from="[2007] FMCA 1549">will not set aside even if probability is against the finding.</citphrase>
+<citphrase id="cp86.0" type=citing from="[2007] FMCA 1455">migration</citphrase>
+<citphrase id="cp86.1" type=citing from="[2007] FMCA 1455">student visa</citphrase>
+<citphrase id="cp86.2" type=citing from="[2007] FMCA 1455">unsatisfactory course attendance and results</citphrase>
+<citphrase id="cp86.3" type=citing from="[2007] FMCA 1455">living in a de-facto relationship</citphrase>
+<citphrase id="cp86.4" type=citing from="[2007] FMCA 1455">no compelling circumstances that affect the interests of australia, or compassionate or compelling circumstances that affect the interests of an australian citizen</citphrase>
+<citphrase id="cp86.5" type=citing from="[2007] FMCA 1455">no denial of natural justice</citphrase>
+<citphrase id="cp86.6" type=citing from="[2007] FMCA 1455">no errors of law</citphrase>
+<citphrase id="cp86.7" type=citing from="[2007] FMCA 1455">application dismissed.</citphrase>
+<citphrase id="cp87.0" type=citing from="[2007] FMCA 1439">migration</citphrase>
+<citphrase id="cp87.1" type=citing from="[2007] FMCA 1439">burden of proof does not apply to administrative enquiries</citphrase>
+<citphrase id="cp87.2" type=citing from="[2007] FMCA 1439">applicant must establish relevant facts</citphrase>
+<citphrase id="cp87.3" type=citing from="[2007] FMCA 1439">tribunal may accept or reject evidence as appropriate</citphrase>
+<citphrase id="cp87.4" type=citing from="[2007] FMCA 1439">bias</citphrase>
+<citphrase id="cp87.5" type=citing from="[2007] FMCA 1439">not established</citphrase>
+<citphrase id="cp87.6" type=citing from="[2007] FMCA 1439">tests for use of country information matter for the tribunal</citphrase>
+<citphrase id="cp87.7" type=citing from="[2007] FMCA 1439">weight matter for the tribunal.</citphrase>
+<citphrase id="cp88.0" type=citing from="[2007] FMCA 1337">migration</citphrase>
+<citphrase id="cp88.1" type=citing from="[2007] FMCA 1337">bias</citphrase>
+<citphrase id="cp88.2" type=citing from="[2007] FMCA 1337">need to show tribunal acting dishonestly, arbitrarily or capriciously</citphrase>
+<citphrase id="cp88.3" type=citing from="[2007] FMCA 1337">activities in australia were for the purposes of strengthening claims</citphrase>
+<citphrase id="cp88.4" type=citing from="[2007] FMCA 1337">section 91r</citphrase>
+<citphrase id="cp88.5" type=citing from="[2007] FMCA 1337">court will not review findings of fact</citphrase>
+<citphrase id="cp88.6" type=citing from="[2007] FMCA 1337">credibility is a finding of fact.</citphrase>
+<citphrase id="cp89.0" type=citing from="[2007] FMCA 1043">migration</citphrase>
+<citphrase id="cp89.1" type=citing from="[2007] FMCA 1043">tribunal may accept or reject evidence as it thinks appropriate</citphrase>
+<citphrase id="cp89.2" type=citing from="[2007] FMCA 1043">no error in not dealing with claims not put to the tribunal.</citphrase>
+<citphrase id="cp90.0" type=citing from="[2007] FMCA 856">migration</citphrase>
+<citphrase id="cp90.1" type=citing from="[2007] FMCA 856">bias allegation must be clearly made and distinctly proven</citphrase>
+<citphrase id="cp90.2" type=citing from="[2007] FMCA 856">credibility</citphrase>
+<citphrase id="cp90.3" type=citing from="[2007] FMCA 856">finding of fact for the tribunal.</citphrase>
+<citphrase id="cp91.0" type=citing from="[2007] FMCA 1026">migration</citphrase>
+<citphrase id="cp91.1" type=citing from="[2007] FMCA 1026">bias</citphrase>
+<citphrase id="cp91.2" type=citing from="[2007] FMCA 1026">allegation must be clearly made and distinctly proven</citphrase>
+<citphrase id="cp91.3" type=citing from="[2007] FMCA 1026">conclusions on evidence</citphrase>
+<citphrase id="cp91.4" type=citing from="[2007] FMCA 1026">subjective reasoning or conclusions of the tribunal</citphrase>
+<citphrase id="cp91.5" type=citing from="[2007] FMCA 1026">not "information" covered by s.424a.</citphrase>
+<citphrase id="cp92.0" type=citing from="[2007] FMCA 1041">migration</citphrase>
+<citphrase id="cp92.1" type=citing from="[2007] FMCA 1041">findings of fact not subject to review</citphrase>
+<citphrase id="cp92.2" type=citing from="[2007] FMCA 1041">bias not established</citphrase>
+<citphrase id="cp92.3" type=citing from="[2007] FMCA 1041">weight for tribunal to decide.</citphrase>
+<citphrase id="cp93.0" type=citing from="[2007] FMCA 891">migration</citphrase>
+<citphrase id="cp93.1" type=citing from="[2007] FMCA 891">country information not covered by s.424a(1)</citphrase>
+<citphrase id="cp93.2" type=citing from="[2007] FMCA 891">"what if i am wrong" test</citphrase>
+<citphrase id="cp93.3" type=citing from="[2007] FMCA 891">allegation of bias must be clearly made and distinctly proven.</citphrase>
+<citphrase id="cp94.0" type=citing from="[2007] FMCA 824">migration</citphrase>
+<citphrase id="cp94.1" type=citing from="[2007] FMCA 824">bias rarely demonstrated from published decision</citphrase>
+<citphrase id="cp94.2" type=citing from="[2007] FMCA 824">test for apprehended bias</citphrase>
+<citphrase id="cp94.3" type=citing from="[2007] FMCA 824">bring an impartial mind to the resolution of the question</citphrase>
+<citphrase id="cp94.4" type=citing from="[2007] FMCA 824">applicant invited to attend hearing</citphrase>
+<citphrase id="cp94.5" type=citing from="[2007] FMCA 824">failed to attend</citphrase>
+<citphrase id="cp94.6" type=citing from="[2007] FMCA 824">failure to provide sufficient information to prove case is a valid reason for rejection</citphrase>
+<citphrase id="cp94.7" type=citing from="[2007] FMCA 824">s.424a</citphrase>
+<citphrase id="cp94.8" type=citing from="[2007] FMCA 824">thought processes not "information".</citphrase>
+</citphrases>
+<citances>
+<sentence id="cs0" from="[2011] FMCA 335">In Australian law, such a serious charge must be clearly made and specifically proven. The applicant needs evidence of such a charge. The mere fact that the Tribunal went ahead and decided the applicant's case in his absence, and found adversely to him, goes nowhere near allowing a charge of bias to be made, let alone to be made out (see Minister for Immigration and Multicultural Affairs v Jia Legeng [2001] HCA 17 ; (2001) 205 CLR 507 , SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 , Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 75 ALJR 982 , SBBS v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 361 ; (2002) 194 ALR 749 , Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 872 ; [2003] FCA 872 ; (2003) 131 FCR 102 and SCAA v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCA 668 at [38] per von Doussa J). </sentence>
+<sentence id="cs1" from="[2011] FMCA 247">No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be " distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it " will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision ": SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs2" from="[2011] FMCA 217">It is the case that any claim of bias, or for that matter a complaint of an apprehension of bias, must be distinctly made and clearly proven ( Minister for Immigration and Multicultural Affairs v Jia Legeng [2001] HCA 17 ; (2001) 205 CLR 507 , SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] . See also generally Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 75 ALJR 982 (" Ex parte H "), SBBS v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 361 ; (2002) 194 ALR 749 at [43] --- [44], Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 872; (2003) 131 FCR 102). </sentence>
+<sentence id="cs3" from="[2011] FMCA 60">No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs4" from="[2010] FMCA 497">Nor, as submitted by the Minister, has the applicant made any satisfactory attempt in this case to comply with the requirement that an allegation or an apprehension of bias, which is a serious matter and must be distinctly made, and ultimately clearly proven ( Minister for Immigration and Multicultural Affairs v Jia Legeng [2001] HCA 17 ; (2001) 205 CLR 507 (" Jia ") SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ). In the current case the applicant has not even met the first of these elements. At best, her written submissions to a large extent simply seek to challenge the Tribunal's factual findings. </sentence>
+<sentence id="cs5" from="[2010] FMCA 545">The Court refers to the decision in SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it " will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision. " SCAA v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCA 688 at [38] .</sentence>
+<sentence id="cs6" from="[2010] FMCA 282">The test for apprehended bias, and for that matter the test for bias, is well established in a number of High Court and Federal Court authorities. (I refer to such High Court authorities as Re Refugee Review Tribunal; Ex parte H (2001) 75 ALJR 982 ; [2001] HCA 28 and Minister for Immigration &amp; Multicultural Affairs v Jia (2001) 205 CLR 157 ; [2001] HCA 17. See also SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 , SBBS v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 , Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102). </sentence>
+<sentence id="cs7" from="[2010] FMCA 245">I note relevant authorities in relation to apprehended bias. (See SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 , Minister for Immigration &amp; Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 , Re Refugee Review Tribunal; Ex parte H (2001) 75 ALJR 982 ; [2001] HCA 28 , SBBS v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 , Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102. ) </sentence>
+<sentence id="cs8" from="[2010] FMCA 27">If the claim alleges bias: 
+no particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . To establish bias the applicant would have to show that the Tribunal "acted dishonestly or arbitrarily or capriciously" : SBBS v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCAFC 361 ; (2002) 194 ALR 749 per Tamberlin, Mansfield and Jacobson JJ at [56-59].</sentence>
+<sentence id="cs9" from="[2009] FMCA 1148">1(g) "The decision was not made in good faith and was not a bona fide attempt to exercise power. " This claim alleges bias. 
+No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . To establish bias the applicant would have to show that the Tribunal "acted dishonestly or arbitrarily or capriciously" : SBBS v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCAFC 361 ; (2002) 194 ALR 749 per Tamberlin, Mansfield and Jacobson JJ at [56-59].</sentence>
+<sentence id="cs10" from="[2009] FMCA 1179">The applicant then claims bias. 
+No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be " distinctly made and clearly proven ": SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it " will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision ": SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . To establish bias the applicant would have to show that the Tribunal " acted dishonestly or arbitrarily or capriciously ": SBBS v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCAFC 361 ; (2002) 194 ALR 749 per Tamberlin, Mansfield and Jacobson JJ at [56-59].</sentence>
+<sentence id="cs11" from="[2009] FMCA 1031">I note relevant authorities in relation to apprehended bias. (See SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 ; Minister for Immigration &amp; Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 ; Re Refugee Review Tribunal; Ex parte H (2001) 75 ALJR 982 ; [2001] HCA 28 ; SBBS v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 ; Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SBAN [2002] FCAFC 431 ; VFAB v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102). </sentence>
+<sentence id="cs12" from="[2009] FMCA 1013">I note first that it is the case that such complaints must be: "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ). (See also Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 at [69] . ) </sentence>
+<sentence id="cs13" from="[2009] FCA 843">In relation to the allegation of bias, the Federal Magistrate noted that such complaints must be "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] and Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 at [69]). His Honour found that, on the material before the Court, there was nothing to show that there was any basis for the appellant's claim in this regard, let alone that any such complaint could be made out ( Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 179 ALR 425 , SBBS v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCAFC 361 ; (2002) 194 ALR 749 at [43] - [44], Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102). </sentence>
+<sentence id="cs14" from="[2009] FMCA 573">As has been often said, an allegation of bad faith, bias, or the apprehension of bias is a serious matter and must be clearly proved ( SBBS v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCAFC 361 , Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431 , Minister for Immigration and Multicultural and Indigenous Affairs v NAOS of 2002 [2003] FCAFC 142 , SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17). Such allegations challenge the integrity of the decision maker. </sentence>
+<sentence id="cs15" from="[2009] FCA 637">
+
+ 
+Her Honour's judgement was affirmed on appeal to the Federal Court of Appeal: Armstrong v Canada (Attorney General) [2007] F.C.J. No. 546; 2007 FCA 157 and has since been cited with approval in relation to another judicial review proceeding arising out of the Canadian Forces grievance resolution provisions: Leading Seaman D.M. Morphy v Canada (Attorney General) [2008] F.C.J. No.</sentence>
+<sentence id="cs16" from="[2009] FMCA 394">In particular, and in addition I note that it is, as is said, a rare and exceptional case where bias can be demonstrated solely from the published reasons for the Tribunal's decision ( SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 688 at [38] , per Von Doussa J (" SCAA "). I emphasise for the applicant that an allegation of bias must be distinctly made and clearly proven ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] (" SZHPD "). </sentence>
+<sentence id="cs17" from="[2009] FMCA 347">It is the case that such complaints must be: "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] and see also Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 at [69] ). No particulars have been provided in support of this claim. </sentence>
+<sentence id="cs18" from="[2009] FMCA 361">There are a number of matters that must be noted here. First, as I have already said, that an allegation of bias is a very serious matter, and as has often been said by the Courts, one that should not be lightly made. It requires evidence in support before it can be made out (see SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ; Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 at [69] ). It is the case that it is difficult to make out bias if all that an applicant seeks to rely on is the Tribunal's decision record ( SZJKU v Minster for Immigration and Citizenship [2008] FCA 308 at [35] - [36] , per Emmett J). </sentence>
+<sentence id="cs19" from="[2009] FMCA 306">To the extent that ground two makes reference to the Tribunal being "pre occupied and did not have a fresh look", this may be a complaint of bias or apprehended bias on the part of the Tribunal. It is the case that such complaints must be: "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ). (See also Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 (" Jia ") at [69]. ) No particulars have been provided in support of this claim. In any event, on what is before the Court,` and with reference to relevant authorities ( Re Refugee Review Tribunal; Ex parte H (2001) 75 ALJR 982 ; [2001] HCA 28 , Jia , SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 at [43] - [44] , Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102) , I cannot see that any such complaint can be made out. This ground also does not succeed. Other Complaints
+ </sentence>
+<sentence id="cs20" from="[2009] FMCA 240">To the extent that this is a complaint of bias or the apprehension of bias on the part of the Tribunal, in addition to the claim of bad faith, there is no evidence before the Court to sustain such a complaint ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 , [2001] HCA 17 , SCAA v Minster for Immigration Multicultural and Business Affairs [2002] FCA 668 , SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749; [2002] FCAFC 361). </sentence>
+<sentence id="cs21" from="[2009] FMCA 214">While it is not clear what this ground seeks to assert, if it is asserting that the Tribunal did not bring an open mind to the proceedings because of some reliance on the delegate's decision, and that it was therefore biased or that it acted in bad faith, then such a complaint does not succeed. Bearing in mind well-established and leading authorities on these issues ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , see also Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 , [2001] HCA 17 , SCAA v Minster for Immigration Multicultural and Business Affairs [2002] FCA 668 (" SCAA ") at [38]; see also SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 , Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431) there is nothing before the Court in the material to show that any such complaints could succeed. </sentence>
+<sentence id="cs22" from="[2008] FMCA 1467">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has not been done in the present case. </sentence>
+<sentence id="cs23" from="[2008] FMCA 1316">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs24" from="[2008] FMCA 1269">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs25" from="[2008] FMCA 1171">In particular I note that it is a rare and exceptional case where bias can be demonstrated solely from the published reasons for decision ( SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 (" SCAA ") at [38], per von Doussa J). An allegation of bias must be distinctly made and clearly proven ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ). </sentence>
+<sentence id="cs26" from="[2008] FCA 1274">15 The Federal Magistrate correctly observed at [22] that any allegation of bias must be distinctly made and clearly proved: SZHPD v Minister for Immigration and Citizenship (2007) FCA 157 citing Minister for Immigration and Multicultural Affairs v Jia Le Geng (2001) 205 CLR 507 at 531 [69]. That has not occurred here. This ground fails. 
+ </sentence>
+<sentence id="cs27" from="[2008] FMCA 1044">I note with reference to relevant authorities ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Jia ) that such allegation, and even an allegation of an apprehension of bias, must be distinctly made and clearly proven. There is nothing before the Court (bearing in mind relevant authorities and relevant tests) to show that the Tribunal failed to bring an open mind to the proceedings, or that the well-informed lay observer would reasonably apprehend the Tribunal to have been biased. This complaint also does not succeed. Conclusion
+ </sentence>
+<sentence id="cs28" from="[2008] FMCA 1019">With reference to relevant authorities ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 , [2001] HCA 17 , SCAA v Minster for Immigration Multicultural and Business Affairs [2002] FCA 668 at [38] ; SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361) , there is nothing in the material before the Court to show that any such complaint could succeed. </sentence>
+<sentence id="cs29" from="[2008] FMCA 979">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. </sentence>
+<sentence id="cs30" from="[2008] FMCA 1063">As to the seventh ground where the applicant reiterates his claim he suffered persecution in China and expresses a grievance that several of his friends have been granted refugee status but he had been treated differently and claims that he had been treated unfairly, the Minister submits that a disagreement with the Tribunal's decision does not amount to an error of law and it is not the function of this Court to engage in merits review, referring to Minister for Immigration &amp; Ethnic Affairs v Wu Shan Liang and Others [6] . Insofar as the applicant was alleging bias or bad faith, it was well settled that any allegation of bias must be distinctly made and clearly proved [7] . But there was no evidence that this had been done.  Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SCAR [2003] FCAFC 126 ; [2003] 128 FCR 553 referred to. Minister for Immigration &amp; Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; [1996] 185 CLR 259 referred to. SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 referred to
+ SZBBF v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 358 followed. SBBS v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 36 followed. SZJYA v Minister for Immigration &amp; Citizenship [2008] FCA 911 referred to.</sentence>
+<sentence id="cs31" from="[2008] FMCA 841">Such a claim is, of course, a very serious assertion to make about the Tribunal. It must be clearly made, and requires evidence to be made out ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17). </sentence>
+<sentence id="cs32" from="[2008] FMCA 833">The allegation of bias carries with it a heavy onus. It must be clearly put, and requires evidence to support it ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 (" Jia ")). It is a rare circumstance that bias can be made out with reference only to the Tribunal's decision record ( SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] , per von Doussa J). </sentence>
+<sentence id="cs33" from="[2008] FMCA 865">To the extent that this may imply that the Tribunal acted with bias (or even that the well-informed lay observer would reasonably apprehend bias), or acted in bad faith, then there is nothing in the material before the Court to show that any such complaints can be made out. Nor, it must be said, has the applicant provided any evidence in discharge of the heavy onus that an applicant bears in proving bias ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , see also Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 , [2001] HCA 17at [35] and [72]). </sentence>
+<sentence id="cs34" from="[2008] FMCA 806">To the extent that the applicant's submission amounts to an allegation of bias on the part of the Tribunal that it did not bring a fresh mind to the task undertaken, it is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs35" from="[2008] FMCA 755">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs36" from="[2008] FMCA 739">The applicant has not provided a transcript of the Tribunal hearing before the Court in support of his allegation of apprehended bias. It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. </sentence>
+<sentence id="cs37" from="[2008] FMCA 680">As already referred to above, to the extent that the applicant complains that the Tribunal failed in this regard to meet its obligations pursuant to s.424A(1) of the Act, this complaint does not succeed for the reasons set out above. Nor is bias made out because the Tribunal did not provide the applicant with the opportunity to comment in writing on "adverse information" in the sense of providing the applicant with its draft reasons for decision. There is no obligation on the Tribunal to do so, and with reference to the relevant authorities ( Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 , SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ), what is required for the applicant to succeed in any such claim of bias is evidence that the Tribunal did not bring an open mind to the proceedings. On what is before the Court, this is not made out. Indeed, it is a rare and exceptional circumstance where bias can simply be made out with reference only to the Tribunal's decision record ( SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] , per von Doussa J). </sentence>
+<sentence id="cs38" from="[2008] FMCA 666">To the extent to which the applicant is alleging bias or bad faith on the part of the Tribunal in this regard, it is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case.  The applicant's submissions on assertion (i) are set out at paragraphs (96)-(102) of its written submissions. The applicant argues in this regard that: the Tribunal assessed a "real chance of persecution" as being an assessment on the balance of probabilities of the chance that the applicant might be persecuted if he returned to his home country and not, as the decision in Chan Yee Kim v Minister for Immigration &amp; Ethnic Affairs (1989) 109 CLR 379 required, on an assessment of the "real possibility" of such persecution taking place; the Tribunal failed to consider whether there was a well-founded fear in the reasonably foreseeable future, (the test adopted in SZGHS v Minister for Immigration &amp; Citizenship [2007] FCA 1572) , since, by focusing on the current regime in Fiji, it considered only the immediate future. </sentence>
+<sentence id="cs39" from="[2008] FMCA 665">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs40" from="[2008] FMCA 629">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. Legal principles: actual bias 
+ </sentence>
+<sentence id="cs41" from="[2008] FCA 676">25 On the issue of ignoring or misunderstanding or misstating some of the appellant's claims, his Honour found no evidence to support this contention. His Honour further accepted that the Tribunal had given a comprehensive account of her claims. His Honour could find nothing to substantiate a claim of bias, the assertion not being 'clearly alleged or proved': SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 ; Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. </sentence>
+<sentence id="cs42" from="[2008] FMCA 712">It is of course a "rare and exceptional case" where bias will be apparent merely from the Tribunal's decision record ( SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 at [16] per Tamberlin, Mansfield and Jacobson JJ, SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA (" SCAA ") at [38], SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22], Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17 , Re Refugee Review Tribunal; Ex parte H (2001) 75 ALJR 982 ; [2001] HCA 28). Nor is there anything on the material before the Court such as to give rise to any view that the well-informed lay observer would reasonably apprehend that the Tribunal did not bring an impartial mind to bear on its decision (see generally NADH of 2001 at [14]). </sentence>
+<sentence id="cs43" from="[2008] FMCA 537">Finally, before the Court today the applicant asserted that the Tribunal is not an independent organisation and was part of the first respondent's Department. It is not clear what exactly is the nature of the applicant's complaints in this regard, but if he seeks by that to assert that the Tribunal did not bring an independent or an open mind to the consideration of his application for review (that is, that it was biased) then what must be noted, and with reference to relevant authorities, such a ground needs to be distinctly and clearly made and would need evidence in support to be made out ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17). </sentence>
+<sentence id="cs44" from="[2008] FMCA 381">It is well-settled that any allegation of bias must be "distinctly made and clearly proved": SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs45" from="[2008] FMCA 161">It is well-settled that any allegation of bad faith must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs46" from="[2008] FMCA 331">In regard to the allegation of bias, generally, it is well-settled that any such allegation must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has not been done in the present case. </sentence>
+<sentence id="cs47" from="[2008] FMCA 330">In regard to the allegation of bias, generally, it is well-settled that any such allegation must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has not been done in the present case. </sentence>
+<sentence id="cs48" from="[2008] FMCA 254">It is established that an allegation of bad faith, or bias, on the part of the Tribunal must be distinctly made and clearly proven ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 (" SZHPD ") at [22]). It is a rare and exceptional case where bias can be discerned from the reasons for decision alone ( SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 (" SCAA ") at [38], per von Doussa J). There is no evidence before the Court now to establish that the Tribunal acted in bad faith, or with bias, in relation to the decision under review ( Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 179 ALR 425 (" Ex parte H "), Minister for Immigration Multicultural Affairs v Jia (2001) 205 CLR 157 (" Jia "), SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 (" SBBS "), Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431 (" SBAN "), VFAB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102 (" VFAB ")). With regard to relevant authorities, I cannot see that any such complaint would succeed. Ground --- The applicant wife as the "main applicant"
+ </sentence>
+<sentence id="cs49" from="[2008] FMCA 240">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has not been done in the present case. </sentence>
+<sentence id="cs50" from="[2008] FMCA 253">The applicant also asserts (in paragraph 4 of the amended application) "the Tribunal was preoccupied and did not have a fresh look". This could be understood as a complaint that the Tribunal acted with bias or in bad faith. An allegation of bias or bad faith must be "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17). It is rare in the extreme for an allegation of bias to be made out on the basis of the published reasons for decision alone ( SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] , per von Doussa J). </sentence>
+<sentence id="cs51" from="[2008] FCA 259">6 In relation to the allegation of bias, the Federal Magistrate noted that no particulars were provided and no evidence had been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven": SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. In relation to the allegation that the Tribunal failed to consider the applicant's claims, the Federal Magistrate said that a careful reading of the Tribunal's reasons indicated that that was not the case. In relation to the allegation that the Tribunal failed to apply s 91R of the Migration Act 1958 (Cth) ("the Act"), the Federal Magistrate noted that the Tribunal set out the relevant law relating to that section and tested the applicant's claims against the requirements of the section. He said that no error of law had been demonstrated.</sentence>
+<sentence id="cs52" from="[2008] FMCA 258">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs53" from="[2008] FMCA 269">An allegation of bad faith is not made out simply because the Tribunal does not believe the applicant. As Mr Mitchell submitted before the Court today, mere adverse findings do not demonstrate bad faith on the part of the relevant decision maker. For the sake of completeness, and bearing in mind the relevant authorities ( Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 179 ALR 425 , Minister for Immigration Multicultural Affairs v Jia (2001) 205 CLR 157 ; [2001] HCA 17 (" Jia ")), nor would any allegation of bias, or apprehension of bias, be successful in the circumstances of this case. I note also the line of authorities that establishes both the need for such matters to be clearly stated and for there to be evidence upon which such findings could be based. ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 (" SZHPD ") at [22]; see also Jia . ) Simply, if all that the applicant relies on is his challenge to the Tribunal's credibility finding, this on its own does not amount to such evidence. </sentence>
+<sentence id="cs54" from="[2008] FMCA 222">The allegation of bias is otherwise unsupported by evidence. Such an allegation must be " distinctly made and clearly proven " ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ; Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at [69]). </sentence>
+<sentence id="cs55" from="[2008] FMCA 223">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has not been done in the present case. </sentence>
+<sentence id="cs56" from="[2008] FMCA 162">It is well-settled that any allegation of bias must be " distinctly made and clearly proved ": SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has not been done in the present case. </sentence>
+<sentence id="cs57" from="[2008] FMCA 111">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs58" from="[2008] FMCA 100">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done by the applicant in the present case. </sentence>
+<sentence id="cs59" from="[2008] FMCA 93">Further, it is well-settled that any allegation of bias must be "distinctly made and clearly proved": SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. Again, this has simply not been done. </sentence>
+<sentence id="cs60" from="[2008] FMCA 77">It is well-settled that any allegation of bias must be " distinctly made and clearly proved" : SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [22] ; citing Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531, [69]. This has simply not been done in the present case. </sentence>
+<sentence id="cs61" from="[2008] FMCA 37">The applicant has not provided any particulars in support of the allegation of bias, nor has he filed any evidence despite the orders made by this Court on 20 March 2007. A party alleging actual bias on a decision maker's part carries a heavy onus which must be clearly proved. While the existence of actual bias may be inferred from facts and circumstances, caution should be exercised in the absence of evidence of partisanship or hostility before inferring actual bias from factual errors or faulty reasoning. Ms Kantaria, for the first respondent, refers in her written submissions to SZHPD v Minister for Immigration &amp; Citizenship [2007] FCA 157 at [27] where Middleton J cites Minister for Immigration &amp; Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. </sentence>
+<sentence id="cs62" from="[2007] FMCA 2013">Wherever alleging bias, or for that matter lack of good faith, the applicant must comply with the requirement that such allegations must be "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ; see also Re Refugee Review Tribunal; Ex parte H [2001] HCA 28 ; (2001) 179 ALR 425 , Minister for Immigration Multicultural Affairs v Jia (2001) 205 CLR 157 , SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 (" SBBS" ), Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102). </sentence>
+<sentence id="cs63" from="[2007] FMCA 2099">Whether alleging bias, or a lack of good faith, or bad faith, on the part of the Tribunal, allegations need to be distinctly made and clearly proven ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 , Re Refugee Review Tribunal, Ex parte H (2001) 179 ALR 425 ; [2001] HCA 28 , Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 157 , SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 ; Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002} FCAFC 431 , VFAB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102). But the applicant puts forward no evidence to support a serious claim such as bias and bad faith. At best, the applicant perhaps puts forward or relies on the Tribunal's decision record, on its finding in its decision record and perhaps that is what can be taken from what is set out at paragraph two of the written submissions. It is a rare and extreme case for such allegations to be apparent from nothing else than the reasons for decision of the decision maker. </sentence>
+<sentence id="cs64" from="[2007] FMCA 2008">It is clear that beyond this assertion no evidence has been filed before the Court to comply with the requirement that an allegation of bad faith, or for that matter bias must be "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , see also Minister for Immigration and Multicultural Affairs v Jia (2001) 205 CLR 507 ; [2001] HCA 17). </sentence>
+<sentence id="cs65" from="[2007] FMCA 1941">Ground 7 alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs66" from="[2007] FMCA 2116">As to the claim of bias, the Minister submits that an allegation of bias must be clearly alleged and proved. The Minister refers the Court to a decision in SZHPD v Minister for Immigration &amp; Citizenship [4] where the Court referred to Minister for Immigration &amp; Multicultural Affairs v Jia Legeng [5] . The Minister submits that the applicant has not provided any evidence to support an allegation of bias, despite being given an opportunity to do so. </sentence>
+<sentence id="cs67" from="[2007] FMCA 1998">The applicant requested a further hearing and the reconstituted Tribunal stated at CB 86.9: This case had initially been constituted to another Tribunal member. That member conducted the hearing with the applicant on 22 September 2006. The current Tribunal member has decided not to conduct a further hearing. In his statutory declaration of 15 January 2007, the applicant requested a further hearing. However, while the present Tribunal may have conducted the Tribunal hearing differently to the previous Tribunal member, after having carefully listened to same, I was not satisfied the applicant had been denied a real opportunity to appear and give evidence and submissions in support of his case. Further, the present Tribunal also provided the applicant with an opportunity to comment in writing about its concerns by way of the abovementioned s.424A letter of 29 December 2006. 
+The Court is not satisfied that the applicant has been prevented from putting evidence or submissions to the Tribunal. Insofar as the applicant alleges bias, no particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. </sentence>
+<sentence id="cs68" from="[2007] FMCA 1984">As for the claim of bias, no particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court also accepts that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs69" from="[2007] FMCA 1891">Whether alleging a lack of good faith, or bias, the applicant is required, as submitted by Mr Cleary, to comply with the requirement that such allegations must be "distinctly made and clearly proven" ( SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] ; see also Re Refugee Review Tribunal; Ex parte H ; [2001] HCA 28 ; (2001) 179 ALR 425 , Minister for Immigration Multicultural Affairs v Jia (2001) 205 CLR 157 , SBBS v Minister for Immigration and Multicultural and Indigenous Affairs (2002) 194 ALR 749 ; [2002] FCAFC 361 (" SBBS" ), Minister for Immigration and Multicultural and Indigenous Affairs v SBAN [2002] FCAFC 431 , VFAB v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCA 872 ; (2003) 131 FCR 102). </sentence>
+<sentence id="cs70" from="[2007] FMCA 1926">Ground five alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [ 2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs71" from="[2007] FMCA 1914">Ground one alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs72" from="[2007] FMCA 1913">As to the claim of bias, no particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs73" from="[2007] FMCA 1904">Ground one claims that the Tribunal failed to consider the applicant's claim properly and fairly. This ground therefore alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs74" from="[2007] FMCA 1635">No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. No particulars are provided and no evidence has been filed to comply with the requirement that "an allegation of bias must be clearly made and distinctly proven": SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs75" from="[2007] FMCA 1636">A transcript of the Tribunal hearing has not been provided to the Court. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . </sentence>
+<sentence id="cs76" from="[2007] FMCA 1737">
+ 7. Ground one alleges bias. That has also been raised in oral submissions. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. A copy of the transcript of the Tribunal hearing has been supplied to the applicant, but the applicant has failed to identify from that transcript any matters which establish bias. An allegation of bias is a very serious allegation which must be clearly proven. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs77" from="[2007] FMCA 1564">17. Ground (c) alleges bias. Nothing has been shown to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven": SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs78" from="[2007] FMCA 1436">23. Ground five alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven": SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing </sentence>
+<sentence id="cs79" from="[2007] FMCA 1339">Ignoring those letters (which were against the interests of the applicant) does not show bias by the Tribunal. 
+ 
+ 20. An allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] . 21.</sentence>
+<sentence id="cs80" from="[2007] FMCA 1252">
+ 23. The applicant alleges bias. No particulars are provided and no evidence has been presented to comply with the requirement that that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs81" from="[2007] FMCA 1578">
+ 21. Ground three alleges bias and that the Tribunal asked the wrong questions regarding the Awami League. The Tribunal was entitled to ask questions it did about the Awami League as that was a very relevant issue in the matter before it. The Tribunal is required to find the facts. It has not been shown that the Tribunal had regard to irrelevant matters. As to the allegation of bias, no particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs82" from="[2007] FMCA 1572">
+ 
+ 17. Ground two alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs83" from="[2007] FMCA 1549">
+ 11. Ground one of the application alleges bias. The applicant reiterated that claim in Court. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs84" from="[2007] FMCA 1455">18. Ground five alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legen g (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs85" from="[2007] FMCA 1439">
+ 20. Ground 4(a) alleges bias. No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507. The Court accepts also that it "will be a rare and exceptional case where actual bias can be demonstrated solely from the published reasons for decision" : SCAA v Minister for Immigration and Multicultural and Indigenous Affairs [2002] FCA 668 at [38] .</sentence>
+<sentence id="cs86" from="[2007] FMCA 1337">No particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be "distinctly made and clearly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] , citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs87" from="[2007] FMCA 1043">No evidence has been filed to comply with the requirement "that an allegation of bias must be clearly made and distinctly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs88" from="[2007] FMCA 856">No particulars are provided and no evidence has been filed to comply with the requirement that "an allegation of bias must be clearly made and distinctly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs89" from="[2007] FMCA 1026">No particulars are provided and no evidence has been filed to comply with the requirement that "an allegation of bias must be clearly made and distinctly proven" : SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs90" from="[2007] FMCA 1041">No particulars are provided and no evidence has been filed to comply with the requirement that "an allegation of bias must be clearly made and distinctly proven": SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs91" from="[2007] FMCA 891">An allegation of bias must be clearly made and distinctly proven: SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at [22] citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507.</sentence>
+<sentence id="cs92" from="[2007] FMCA 824">The Court accepts the submission for the first respondent that no particulars are provided and no evidence has been filed to comply with the requirement that an allegation of bias must be clearly made and distinctly proven: SZHPD v Minister for Immigration and Citizenship [2007] FCA 157 at 22, citing Minister for Immigration and Multicultural Affairs v Jia Legeng (2001) 205 CLR 507 at 531.</sentence>
+</citances>
+<legistitles>
+<title id="l0">MIGRATION ACT 1958 </title>
+<title id="l1">MIGRATION ACT 1958 - SECT 422B Exhaustive statement of natural justice hearing rule</title>
+<title id="l2">MIGRATION ACT 1958 - SECT 424A Information and invitation given in writing by Tribunal</title>
+<title id="l3">FEDERAL COURT RULES </title>
+</legistitles>
+</case>

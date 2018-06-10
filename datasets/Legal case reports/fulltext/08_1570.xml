@@ -1,0 +1,756 @@
+<?xml version="1.0"?>
+<case>
+<name>Deutsche Asia Pacific Finance Inc v Commissioner of Taxation (No. 2) [2008] FCA 1570 (22 October 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1570.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">withholding tax on distribution of share of profit by nsw limited partnership to us corporation</catchphrase>
+<catchphrase "id=c1">deemed to be dividend paid on share in a company by div 5a of the income tax assessment act 1936 (cth)</catchphrase>
+<catchphrase "id=c2">deemed to be return (dividend) on a 'debt interest' (a non-equity share) by div 974 of the income tax assessment act 1997 (cth)</catchphrase>
+<catchphrase "id=c3">and deemed to be 'interest' for the purposes of div 11a of the 1936 act subject to withholding tax</catchphrase>
+<catchphrase "id=c4">whether double taxation convention between australia and the united states denies australia the right to tax the amount by virtue of art 11(3)(b)</catchphrase>
+<catchphrase "id=c5">whether art 11(9)(a) applies to override denial of australia's right to tax</catchphrase>
+<catchphrase "id=c6">application of public ruling</catchphrase>
+<catchphrase "id=c7">whether reliance on applicability misplaced</catchphrase>
+<catchphrase "id=c8">whether relief from withholding tax available in part</catchphrase>
+<catchphrase "id=c9">income tax</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 There are two applications before the Court.</sentence>
+<sentence id="s1">The first (NSD 226 of 2007) is an application for declaratory relief in the form of a declaration that certain distributions from a limited partnership established under the laws of New South Wales ('Industrie LP') to the applicant ('DAPFI') are not subject to withholding tax; alternatively, a declaration that, to the extent of a substantial part of such distributions, they are not subject to withholding tax.</sentence>
+<sentence id="s2">The second (NSD 227 of 2007) is by way of an appeal against the decision of the respondent ('the Commissioner') disallowing an objection against the Commissioner's Notice of Private Ruling (Authorisation Number 61512), ruling, inter alia , that DAPFI will not be exempt from withholding tax in respect of such distributions under Art 11(3)(b) of The Convention between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income , as amended by the Protocol ('the Treaty') in Schedules 2 and 2A to the International Tax Agreements Act 1953 (Cth) by reason of the provisions of Art 11(9)(a) of the Treaty ('the private ruling').</sentence>
+<sentence id="s3">In short, both applications raise the same issue.</sentence>
+<sentence id="s4">2 At the commencement of the hearing, Senior Counsel for DAPFI explained that there are two proceedings because at the time they were instituted (16 February 2007), there existed the unfavourable notice of private ruling (dated 4 April 2006) which related to what was then future liability to withholding tax.</sentence>
+<sentence id="s5">By virtue of s 359-60(3)(b) of the Taxation Administration Act 1953 (Cth), no objection can be made against a private ruling if it relates to withholding tax that has become due and payable.</sentence>
+<sentence id="s6">The declaratory proceedings were instituted to agitate the issue in respect of withholding tax that had already been paid by the time both proceedings were instituted, that is, for the quarters ended 31 December 2005, 31 March, 30 June, 30 September and 31 December 2006; and an amended application filed 22 August 2007 encompassed the quarters ended 31 March and 30 June 2007 as well.</sentence>
+<sentence id="s7">3 It was further explained that since the institution of proceedings, payments to which the private ruling would apply have ceased to be made, so that although the Court is seized with jurisdiction in relation to the private ruling objection decision, the private ruling will have no ongoing application after the determination of these proceedings.</sentence>
+<sentence id="s8">4 Evidence was filed and read in the declaratory proceedings, but there is no factual issue in dispute.</sentence>
+<sentence id="s9">In the appeal against the private ruling, there is no evidence apart from the documents forwarded to the Court under O 52B r 5A of the Federal Court Rules .</sentence>
+<sentence id="s10">The evidence filed in the declaratory proceedings goes to two matters.</sentence>
+<sentence id="s11">The first is the establishment of the partnership and the creation of the obligations to make the payments in respect of which withholding tax is claimed, and the second goes to DAPFI's reliance on a public ruling issued by the Commissioner, namely, Taxation Ruling TR2005/5 dated 16 March 2005 ('the public ruling'), in particular, para (10) of the public ruling.</sentence>
+<sentence id="s12">Senior Counsel for DAPFI informed me that there was no issue between the parties as to reliance.</sentence>
+<sentence id="s13">Certainly Senior Counsel for the Commissioner did not suggest that there was.</sentence>
+<sentence id="s14">There is, however, an issue between the parties as to whether the reliance was misplaced; that is, as to whether the public ruling says what DAPFI believed it to say.</sentence>
+<sentence id="s15">THE FACTUAL CONTEXT 
+ 
+5 The relevant corporate/financing structure is depicted in a diagram which is Annexure 1 to the private ruling application.</sentence>
+<sentence id="s16">It assists an understanding of the narrative that follows:
+ 
+ 
+6 DAPFI is a company incorporated and controlled in Delaware, USA, and is a wholly owned subsidiary of Deutsche Bank AG.</sentence>
+<sentence id="s17">It is not a resident of Australia for income tax purposes and has no permanent establishment in Australia at or through which it carries on any activities.</sentence>
+<sentence id="s18">It is common ground (Ruling 2 of the private ruling) that DAPFI is a 'United States corporation' and a resident and enterprise of the United States for the purposes of the Treaty, and entitled to the benefit of the Treaty under Article 16.</sentence>
+<sentence id="s19">7 DAPFI was established with an issued capital of $US154 million, and borrowed from Deutsche Bank AG a further $A800 million, to participate in the transaction that is the subject of these proceedings and other financing transactions.</sentence>
+<sentence id="s20">8 DAPFI became a limited partner in Industrie LP, a limited partnership established under NSW law.</sentence>
+<sentence id="s21">The general partner of Industrie LP was CBA Investments Ltd, a wholly owned subsidiary of Commonwealth Bank of Australia ('CBA').</sentence>
+<sentence id="s22">CBA was also a limited partner.</sentence>
+<sentence id="s23">9 The capital of Industrie LP comprised $A998 million contributed by DAPFI (for a Redeemable Limited Partner Interest (US) ('RLPI(US)'), $A282.707 million contributed for a Redeemable Limited Partner Interest (and $1,000 for a non-redeemable limited interest) held by CBA, and $A11 million contributed by the general partner.</sentence>
+<sentence id="s24">The limited partnership interests are 'debt interests' for the purposes of Div 974 of the Income Tax Assessment Act 1997 (Cth) ('the 1997 Act').</sentence>
+<sentence id="s25">10 For Australian tax purposes, Industrie LP is a wholly owned subsidiary of CBA and
+is treated as part of the CBA consolidated group (under Part 3-90 of the 1997 Act).</sentence>
+<sentence id="s26">11 Industrie LP invested the whole of its funds in Luca LP, a NSW limited partnership, as a general partner.</sentence>
+<sentence id="s27">DAPFI invested $2 million in Luca LP as a limited partner.</sentence>
+<sentence id="s28">Another Deutsche Bank subsidiary invested $1,000 in Luca LP as a general partner.</sentence>
+<sentence id="s29">Luca LP applied the whole of its funds to making advances to CBA at interest, save for $2 million lent at interest to other financial institutions.</sentence>
+<sentence id="s30">12 Luca LP received interest income on its investments.</sentence>
+<sentence id="s31">Luca LP was treated as a company for Australian tax purposes (Div 5A of Pt III of the - ('the 1936 Act')) and paid tax at the rate of 30%.</sentence>
+<sentence id="s32">It distributed its after tax income to Industrie LP and DAPFI as general and limited partners respectively.</sentence>
+<sentence id="s33">13 Under the terms of the Industrie Limited Partnership Deed dated 24 August 2005, as amended by amending deed dated 7 September 2005, the entitlement of DAPFI to annual receipts of income was to so much of the 'Adjusted Net Income' of each year as equalled the 'RLPI(US) Distribution Amount' for the year, subject to a proviso that if the Adjusted Net Income differed from the total of the RLPI(US) Distribution Amount and the GPI Distribution Amount payable to the general partners, the excess or shortfall should be shared pro-rata.</sentence>
+<sentence id="s34">14 The 'RLPI(US) Distribution Amount' was calculated by multiplying DAPFI's capital contribution by the 'Agreed Rate,' which was Reuters BBSW less a stipulated spread.</sentence>
+<sentence id="s35">15 Relevantly, cl 10.1 of the Partnership Deed, as amended, provided:
+ '10.1 Allocation of Adjusted Net Income of Partnership If the Adjusted Net Income is a positive amount, the Partners (other than the Non-Redeemable Limited Partner and the RLPI (Aus) Limited Partner) will be entitled to the Adjusted Net Income in respect of each Allocation Period as follows: 
+ 
+ (a) the RLPI (U.S.) Limited Partner will be entitled to that amount of the Adjusted Net Income as equals the RLPI (U.S.) Distribution Amount for that Distribution Period; and 
+ 
+ 
+ 
+ (b) the General Partners will be entitled to that amount of the Adjusted Net Income as equals the GPI Distribution Amount for that Distribution Period, 
+ 
+ provided that: 
+ 
+ (i) where the aggregate of the entitlements of the Partners determined under paragraphs (a) and (b) for a Distribution Period ("Primary Entitlement") is greater than the amount of Adjusted Net Income for that Allocation Period, each Partner entitled to receive a distribution under this clause 10.1 will be entitled to an amount of the Adjusted Net Income of the Partnership in the proportion that its Primary Entitlement bears to the aggregate of the Partners' Primary Entitlements; and 
+ 
+ 
+ 
+ (ii) where the Adjusted Net Income for an Allocation Period exceeds the aggregate of the Primary Entitlements of the Partners, each Partner entitled to receive a distribution under this clause 10.1 will be entitled to such excess in the proportion that its Primary Entitlement bears to the aggregate of the Partners' Primary Entitlements.</sentence>
+<sentence id="s36">
+ 
+ Such entitlement will be credited to the respective Current Accounts of the Partners entitled to receive a distribution on each Distribution Date.</sentence>
+<sentence id="s37">The Managing General Partner will cause the Partnership to pay the amounts so credited to the Partners so entitled on each Distribution Date but only to the extent that there is cash available to make those distributions after allowing for any income tax payments referable to the allocations under clauses 10.1 ("Allocation of Adjusted Net Income of Partnership") and 10.2 ("Allocation of Gain").</sentence>
+<sentence id="s38">The Managing General Partner will debit a Partner's Current Account for amounts paid, to such Partner.</sentence>
+<sentence id="s39">Any distribution will be paid to the credit of the bank account of the relevant Partner entitled to that distribution as is notified to the Managing General Partner prior to the Distribution Date.</sentence>
+<sentence id="s40">If the Adjusted Net Income is a negative amount, the Partners (other than the Non-Redeemable Limited Partner and the RLPI (Aus) Limited Partner) will be allocated a share of that loss pro rata according to the sum of the balances on each Partner's Capital Account and Current Account, and such amount will be debited to the Partner's respective Current Accounts on each Distribution Date.</sentence>
+<sentence id="s41">' 
+16 The following relevant terms were defined in cl 20.1 as follows:
+ 'Adjusted Net Income means Net Income (excluding amounts included in Gain or Loss).</sentence>
+<sentence id="s42">' 'Agreed Rate means, in respect of a period, BBSW for that period less the Spread.</sentence>
+<sentence id="s43">' 'BBSW means, for a Distribution Period, the rate determined by the Managing General partner to be the average of the mid rates for bills of exchange, for a term equivalent to the Distribution Period, displayed at or about 10.15 am Sydney time on the Reuters screen BBSW page on the first Business Day of that Distribution Period.</sentence>
+<sentence id="s44">' 'Determination Statement means the document identified as the "Determination Statement" to be entered into between, among others, DCMAL, DBAG, DAL, Hume, CBAIL, CBA, DAPFI and the Partnership.</sentence>
+<sentence id="s45">' 'GPI Distribution Amount means, in respect of a Partner and for a Distribution Period, the amount determined by: 
+ 
+ (a) multiplying the GPI Capital Contribution for that Partner by the Agreed Rate;.</sentence>
+<sentence id="s46">
+ 
+ (b) dividing the amount determined under paragraph (a) by 365; and 
+ 
+ (c) multiplying the amount determined under paragraph (b) by the actual number of days in the relevant Distribution Period.</sentence>
+<sentence id="s47">' 
+ 
+ 'RLPI (U.S.) Capital Contribution means AUD998,000,000.</sentence>
+<sentence id="s48">' 'RLPI (U.S.) Distribution Amount means, for a Distribution Period, the amount determined by: (a) multiplying the RLPI (U.S.) Capital Contribution by the Agreed Rate; (b) dividing the amount determined under paragraph (a) by 365; and 
+ 
+ (c) multiplying the amount determined under paragraph (b) by the actual number of days in the relevant Distribution Period.</sentence>
+<sentence id="s49">' 
+ 
+ 'Spread means the percentage per annum specified as such in the Determination Statement.</sentence>
+<sentence id="s50">' 
+17 A diagram with expected cash flows (annualised) and based on interest rates current at the time that is Annexure 2 to the private ruling application, assists an understanding of the foregoing:
+ 
+
+ 
+18 It is Industrie LP's payments and DAPFI's receipts at (8a) which is the subject of the issue raised in these proceedings.</sentence>
+<sentence id="s51">PRIMA FACIE AUSTRALIAN TAX ON DAPFI'S RECEIPTS 
+ 
+19 In legal form and substance, the distribution made to DAPFI from Industrie LP is a limited partner's share of the net profit of the partnership.</sentence>
+<sentence id="s52">20 Because the Industrie LP is a corporate limited partnership within Div 5A, that Division directs that the partnership be taxed as if it were a company and that partners be taxed as if shareholders.</sentence>
+<sentence id="s53">21 Although Div 5A provides that income payments by a limited partnership to a limited partner are to be taxed as if they are dividends, it is common ground (Ruling 1 of the private ruling) that the effect of Div 974 is that the receipts by DAPFI are to be treated as a return on a 'debt interest' as defined in s 974-20, and so not as a partnership distribution or a dividend for the purposes of the Income Tax Assessment Acts.</sentence>
+<sentence id="s54">22 By s 94L, the distribution is deemed to be a dividend, but by s 6(1) and s 974-20 it is a deemed dividend on a non-equity share; it is in consequence required by s 128A(1AB)(d) of the 1936 Act to be treated for withholding tax purposes as 'interest.</sentence>
+<sentence id="s55">' This also is common ground: Ruling 3 of the private ruling.</sentence>
+<sentence id="s56">23 In consequence, the distribution is subjected to withholding tax unless relieved of such liability by the Treaty and the operation of s 4 of the International Tax Agreements Act .</sentence>
+<sentence id="s57">OPERATION OF THE TREATY 
+ 
+24 DAPFI, as an enterprise of the United States, is liable to tax on business profits, not being profits attributable to a business carried on through a permanent establishment in Australia, only in the United States and not in Australia: Art 7(1).</sentence>
+<sentence id="s58">The operation of Art 7(1) is however subject to that of Art 7(6) which provides:
+ 
+ 
+ '(6) Where business profits include items of income which are dealt with separately in other Articles of this Convention, then the provisions of those Articles shall not be affected by the provisions of this Article.</sentence>
+<sentence id="s59">' 
+ 
+ 
+25 Article 10 relevantly provides that:
+ 
+ 
+ '(1) Dividends paid by a company which is a resident of one of the Contracting States for the purposes of its tax, being dividends to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.</sentence>
+<sentence id="s60">
+ 
+ 
+ 
+ (2) However, those dividends may also be taxed in the Contracting State of which the company paying the dividends is a resident for the purposes of its tax, and according to the law of that State, but: 
+ 
+ 
+ 
+ 
+ (a) the tax charged shall not exceed 5 percent of the gross amount of the dividends, if the person beneficially entitled to those dividends is a company which holds directly at least 10 percent of the voting power in the company paying the dividends; and 
+ 
+ 
+ 
+ 
+ 
+ (b) the tax charged shall not exceed 15 percent of the gross amount of the dividends to the extent to which those dividends are not within sub- paragraph (a) ... 
+ 
+ 
+ ... 
+ 
+ (6) The term "dividends" as used in this Article means income from shares, as well as other amounts which are subjected to the same taxation treatment as income from shares by the law of the State of which the company making the distribution is a resident for the purposes of its tax ...' (Emphasis added) 
+ 
+ 
+But for the operation of Div 974, s 128A(1AB)(d) of the 1936 Act and s 3(2A) of the International Tax Agreements Act , the distribution to DAPFI would fall within Art 10(2)(b).</sentence>
+<sentence id="s61">26 Article 11 relevantly provides (emphasis added) that:
+ 
+ 
+ '(1) Interest arising in one of the Contracting States, being interest to which a resident of the other Contracting State is beneficially entitled, may be taxed in that other State.</sentence>
+<sentence id="s62">
+ 
+ (2) However, that interest may also be taxed in the Contracting State in which it arises , and according to the law of that State, but the tax so charged shall not exceed 10 percent of the gross amount of the interest.</sentence>
+<sentence id="s63">
+ 
+ (3) Notwithstanding paragraph (2), interest arising in one of the Contracting States to which a resident of the other Contracting State is beneficially entitled may not be taxed in the first-mentioned State if: 
+ 
+ 
+ 
+ 
+ 
+ (a) ... 
+ 
+ (b) the interest is derived by a financial institution which is unrelated to and dealing wholly independently with the payer.</sentence>
+<sentence id="s64">For the purposes of this Article, the term 'financial institution' means a bank or other enterprise substantially deriving its profits by raising debt finance in the financial markets or by taking deposits at interest and using those funds in carrying on a business of providing finance.</sentence>
+<sentence id="s65">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ 
+ 
+ (5) The term "interest" in this Article means interest from government securities or from bonds or debentures (including premiums attaching to such securities, bonds or debentures), whether or not secured by mortgage and whether or not carrying a right to participate in profits, interest from any other form of indebtedness, as well as income which is subjected to the same taxation treatment as income from money lent by the law of the Contracting State in which the income arises .</sentence>
+<sentence id="s66">Income dealt with in Article 10 (Dividends) and penalty charges for late payment shall not be regarded as interest for the purposes of this Article.</sentence>
+<sentence id="s67">
+ 
+ 
+ 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ 
+ 
+ (9) Notwithstanding the provisions of paragraphs (1), (2), (3) and (4): 
+ 
+ 
+ 
+ 
+ 
+ (a) interest that is paid by a resident of one of the Contracting States and that is determined with reference to the profits of the issuer or of one of its associated enterprises, as defined in sub-paragraph (a) or (b) of paragraph (1) of Article 9 (Associated Enterprises), being interest to which a resident of the other State is beneficially entitled, also may be taxed in the Contracting State in which it arises, and according to the laws of that State, at a rate not exceeding 15 percent of the gross amount of the interest; and 
+ 
+ (b) interest that is paid with respect to the ownership interests in a person used for the securitization of real estate mortgages or other assets, to the extent that the amount of interest paid exceeds the normal rate of return on publicly-traded debt instruments with a similar risk profile, may be taxed by each State in accordance with its domestic law.</sentence>
+<sentence id="s68">' (Emphasis added) 
+ 
+ 
+ 
+The 15% rate specified in Art 11(9)(a) is equal to the maximum rate at which dividends may be taxed by the source country under Art 10.</sentence>
+<sentence id="s69">27 It is not in issue that the criteria in Art 11(3)(b) are met.</sentence>
+<sentence id="s70">The only issue between the parties is whether Art 11(9)(a) precludes the operation of Art 11(3)(b).</sentence>
+<sentence id="s71">THE RESPECTIVE SUBMISSIONS ON THE ROLE AND APPLICATION OF ARTICLE 11(9) OF THE TREATY 
+ DAPFI's Submissions 
+ The role of Article 11(9) in the Treaty 
+ 
+28 Article 11(9) was included in the Treaty (by Art 7 of the Protocol) at the instigation of the United States.</sentence>
+<sentence id="s72">There is no analogue to it in any other of Australia's double taxation agreements (which are based on the OECD model).</sentence>
+<sentence id="s73">29 Article 11(9) is based on, but is significantly narrower than, Art 11(5) of the US Model Income Tax Convention ('the US Model'):
+ 'Notwithstanding the provisions of paragraph 1: 
+ 
+ (a) interest paid by a resident of a Contracting State and that is determined with reference to receipts, sales, income, profits or other cash flow of the debtor or a related person, to any change in the value of any property of the debtor or a related person or to any dividend, partnership distribution or similar payment made by the debtor to a related person, and paid to a resident of the other State also may be taxed in the Contracting State in which it arises, and according to the laws of that State, but if the beneficial owner is a resident of the other Contracting State, the gross amount of the interest may be taxed at a rate not exceeding the rate prescribed in subparagraph (b) of paragraph 2 of Art 10 (Dividends); and 
+ 
+ 
+ 
+ (b) Interest that is an excess inclusion with respect to a residual interest in a real estate mortgage investment conduit may be taxed by each State in accordance with its domestic law.</sentence>
+<sentence id="s74">' 
+ 
+ 
+30 Article 11(1) of the US Model provides that 'Interest arising in a Contracting State and beneficially owned by a resident of the other Contracting State may be taxed only in that other State'.</sentence>
+<sentence id="s75">Art 11(5) of the US Model is an 'anti-abuse' provision designed to prevent the relief being claimed on payments in the guise of interest which are in substance a sharing of profits.</sentence>
+<sentence id="s76">31 Article 11(9) of the Treaty (and Art 11(5) of the US Model) protect the provisions of ss 871 and 881 of the Internal Revenue Code [1986] 26 U.S.C.</sentence>
+<sentence id="s77">('the IRC'), under which 'portfolio interest' derived by a non-resident individual or company is relieved of US tax, but s 871(h)(4)(A) of the IRC excludes from 'portfolio interest' ---
+ 
+ 
+ '(i) any interest if the amount of such interest is determined by reference to --- 
+ 
+ 
+ 
+ 
+ (I) any receipts, sales or other cash flow of the debtor or a related person, 
+ 
+ 
+ 
+ 
+ 
+ (II) any income or profits of the debtor or a related person, 
+ 
+ 
+ 
+ 
+ 
+ (III) any change in value of any property of the debtor or a related person, or 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (IV) any dividend, partnership distributions, or similar payments made by the debtor or a related person, or 
+ 
+ 
+ 
+ 
+ (ii) any other type of contingent interest that is identified by the Secretary by regulation, where a denial of the portfolio interest exemption is necessary or appropriate to prevent avoidance of Federal income tax.</sentence>
+<sentence id="s78">' 
+ 
+ 
+
+32 The mischief to which both this provision and the corresponding paragraphs of the Treaty and the US Model are directed is the avoidance of US withholding tax by framing what is in legal and economic effect an entitlement to a proportion of the profits of an enterprise as 'interest', for example, a loan entitling the lender to a percentage of EBIT; or a 'loan,' equal in amount to the 'equity' participant's investment, at an extremely high rate of interest subject to rebate such that the 'debt' participant's interest does not exceed the (after interest) profits of the enterprise which go to the equity participant.</sentence>
+<sentence id="s79">33 The purpose of the linked provisions appears from the history of the protected exemption from US tax:
+ 
+(1) the provisions of ss 871 and 881 of the IRC exempting 'portfolio interest' received on debt instruments by a non-resident alien individual or foreign corporation were introduced into the Internal Revenue Code [1954] in 1984, in order to give US businesses access to the Eurobond market as a source of capital;
+ 
+(2) the exclusion from 'portfolio interest' in s 871(h)(4)(A) of the IRC was introduced in 1993 to deal with so called 'contingent interest' payable on debt instruments which would otherwise qualify for the 'portfolio interest' exemption, for example interest computed as a percentage of the debtor's profits;
+ 
+(3) the framing of Art 11(9)(a) as applicable to interest paid with reference to the profits of the 'issuer', a term which connotes the issue of a security on which the 'interest' is payable.</sentence>
+<sentence id="s80">34 DAPFI submitted that Art 11(9)(a) is not needed or intended to, and does not, perform any corresponding role in relation to Australian tax legislation.</sentence>
+<sentence id="s81">The Australian legislation approaches the border between debt and equity investments and the yield on them in a different manner, which finds expression in Div 974 of the 1997 Act and the provisions which carry into effect the policy of Div 974 in other areas, such as the taxation of dividends' and the imposition of withholding tax.</sentence>
+<sentence id="s82">35 The clear legislative policy of the Australian legislation is that what is in substance interest, though in form dividends, should be taxed as interest, while what is in substance a distribution of profits though in form interest on a debt should be taxed as dividends: s 974-1.</sentence>
+<sentence id="s83">This policy is carried through into the withholding provisions in ss 128AAA and 128A(1AB) of the 1936 Act.</sentence>
+<sentence id="s84">36 Article 11(9)(a) is the product of a mediation between the different approaches of the US and Australian domestic laws.</sentence>
+<sentence id="s85">Its purpose is to permit either Contracting State to exclude from the lower rate of tax permitted by Art 11 what is in form interest, but in substance a division of profits which should be governed by Art 10.</sentence>
+<sentence id="s86">But the negotiated policy served by Art 11(9)(a) does not extend to what is in substance interest, but in form a division of profits.</sentence>
+<sentence id="s87">Neither the legislative policy of ss 871 and 881 of the IRC nor that of Div 974 and related provisions of the Assessment Acts is achieved by treating Art 11(9)(a) as applying to the receipts by DAPFI.</sentence>
+<sentence id="s88">37 The correct interpretation of Art 11(9)(a) as incorporated into Australian legislation is that it permits the approach taken in Div 974, and in particular in ss 974-75 and 128AAA; but what is properly construed as a debt interest (s 974-20) is to be taxed as interest.</sentence>
+<sentence id="s89">Inconsistency in the Commissioner's Case 
+ 
+38 Moreover, DAPFI submitted that the Commissioner's approach essentially seeks to approbate and reprobate the deeming provisions of the legislation.</sentence>
+<sentence id="s90">39 Under and for the purposes of the Australian tax legislation, including the International Tax Agreements Act , there are two possibilities: either the distributions by Industrie LP to DAPFI are to be treated as being (as in legal substance they are) a share of the profits of the partnership business, or --- by reason of deeming provisions in that legislation --- they are to be treated as interest.</sentence>
+<sentence id="s91">40 If the distributions are to be treated as a share of partnership profits, then since DAPFI is a United States enterprise with no Australian permanent establishment, Art 7 applies to them and DAPFI is relieved of Australian tax by s 4(2) of the International Tax Agreements Act .</sentence>
+<sentence id="s92">As a share of profits, they are not 'interest' and Art 11 has no application to them.</sentence>
+<sentence id="s93">41 If, however, they are to be treated as a return on a 'debt interest' by reason of Div 974, then they fall outside the mischief to which Art 11(9)(a) is directed.</sentence>
+<sentence id="s94">Instead they would be treated for the purposes also of the Treaty as interest, but being interest derived from an arm's length transaction by a financial institution they qualify for relief from withholding tax as well as ordinary income tax.</sentence>
+<sentence id="s95">There is here no 'disguise' of partnership profits as interest: what is overtly, and in substance, a partnership share is deemed to be interest, by the legislation itself, not covertly disguised as interest.</sentence>
+<sentence id="s96">Article 11(9)(a) has no role to play in such a case.</sentence>
+<sentence id="s97">Language of the Clause 
+ 
+42 For the reasons given above, Art 11(9)(a) is as a matter of legislative purpose not attracted to the receipts by DAPFI.</sentence>
+<sentence id="s98">But in any event, it is in terms inapposite to the present case.</sentence>
+<sentence id="s99">It is predicated upon the 'interest' being 'determined with reference to the profits of the issuer ' but here:
+ 
+(a) there was no 'issuer,' but rather a partnership, in which DAPFI was a member;
+ 
+(b) DAPFI's entitlement was not to an amount 'determined with reference to the profits' of Industrie LP, but to a share of the profits of the partnership.</sentence>
+<sentence id="s100">43 The general law recognises and preserves a distinction between a division or distribution of the fund of profits earned by a business and an expense (such as interest or remuneration by commission) calculated by reference to (e.g.</sentence>
+<sentence id="s101">as a percentage of) profits calculated prior to the determination of that expense.</sentence>
+<sentence id="s102">Article 11(9)(a) is not directed to the former, which is generally covered by Art 7 or Art 10 of the Treaty, but rather with the latter.</sentence>
+<sentence id="s103">The Commissioner's Submissions 
+ 
+44 The central question in these proceedings is whether the distributions which DAPFI received from the Industrie LP fell within Art 11(9)(a) of the Treaty.</sentence>
+<sentence id="s104">45 It is common ground that those distributions were subject to withholding tax, subject to the operation of the Treaty: see [23] above.</sentence>
+<sentence id="s105">It is also common ground that unless Art 11(9)(a) applied, DAPFI was entitled to the benefit of the 'financial institution' exemption contained in Art 11(3)(b) of the Treaty.</sentence>
+<sentence id="s106">46 Article 11 allocates taxing rights between the country of residence and the country of source in respect of 'interest'.</sentence>
+<sentence id="s107">The 'interest' to which the Article applies is defined in broad terms in Art 11(5): see [26] above.</sentence>
+<sentence id="s108">47 As the emphasised words at [26] demonstrate, Art 11 applies to any payment which is treated as interest under domestic law, regardless of the legal form which that payment takes.</sentence>
+<sentence id="s109">The distinction between payments which are interest as a matter of 'form' and those which are interest as a matter of 'substance', which distinction is central to DAPFI's case, may immediately be seen to be a distinction not recognised by the Treaty.</sentence>
+<sentence id="s110">48 Each of Australia and the USA has also reserved to itself the right to tax certain 'interest' income at a higher rate in the two circumstances stated in Art 11(9)(a) and (b).</sentence>
+<sentence id="s111">This case is concerned only with the reservation in Art 11 (9)(a).</sentence>
+<sentence id="s112">49 By its terms, Art 11(9) applies to interest which is otherwise covered by Art 11(3)(b).</sentence>
+<sentence id="s113">It also applies (by reason of Art 11(5)) to payments which are treated as interest under domestic law.</sentence>
+<sentence id="s114">50 DAPFI nevertheless submitted that Art 11(9)(a) applies only to a certain category of interest, namely 'legal form' interest.</sentence>
+<sentence id="s115">The bases for this argument are:
+ 
+(a) the 'role' of Art 11(9)(a) having regard to the US domestic law policy which is said to lie behind it; and
+ 
+(b) an apparent inconsistency between Art 11(9)(a) of the Treaty, on the one hand, and Div 974 of the 1997 Act , on the other.</sentence>
+<sentence id="s116">51 The Commissioner submitted that both of these arguments should be rejected for the reasons which follow.</sentence>
+<sentence id="s117">Role of Art 11 (9)(a) 
+ 
+52 As DAPFI's submissions demonstrated, the origins of Art 11(9)(a) lie in domestic US policy considerations.</sentence>
+<sentence id="s118">Those domestic policy considerations are different to Australian domestic policy considerations and, so the argument goes, Art 11(9)(a) should be read down to apply only to those payments which would appear to offend US policy.</sentence>
+<sentence id="s119">53 The Commissioner submitted that the Treaty simply does not limit itself in the manner for which DAPFI contends.</sentence>
+<sentence id="s120">Construction of the Treaty 
+ 
+54 The principles of construction of international tax treaties are not in dispute: Thiel v Commissioner of Taxation [1990] HCA 37 ; (1990) 171 CLR 338 at 356 --- 357 per McHugh J; Unisys Corporation Inc v Federal Commissioner of Taxation (2002) ATC 5146 ; Applicant 'A' v Minister for Immigration and Ethnic Affairs [1997] HCA 4 ; (1997) 190 CLR 225.</sentence>
+<sentence id="s121">Those principles permit the object and purpose of a treaty to be considered in construing it, where necessary.</sentence>
+<sentence id="s122">55 The operation of a treaty may be informed by the object and purpose for which it was entered into.</sentence>
+<sentence id="s123">Here, the object and purpose of the Treaty was to eliminate double taxation and prevent fiscal evasion.</sentence>
+<sentence id="s124">One of the methods by which that object and purpose is achieved is by the Treaty allocating to each country the right to tax certain payments of interest at rates specified by the Treaty (in the case of Art 11(9) at a rate not exceeding 15%).</sentence>
+<sentence id="s125">56 However, there would appear to be no need to refer to the object and purpose of the Treaty in construing Art 11(9)(a).</sentence>
+<sentence id="s126">The text of the Treaty is in this respect not open to doubt.</sentence>
+<sentence id="s127">Article 11 in terms plainly applies to 'interest' such as that in question here (namely a dividend which is treated as interest under domestic legislation: Art 11(5)).</sentence>
+<sentence id="s128">Furthermore, and for the same reason, Art 11(9) applies irrespective of the form of the payment in question.</sentence>
+<sentence id="s129">57 The Commissioner submitted there is thus no ambiguity in the text of the Treaty to be resolved by reference to the object and purpose of the provision.</sentence>
+<sentence id="s130">To the extent that any doubt is perceived about the scope of Art 11(9)(a), the object and purpose of the Treaty provides no basis for the submission advanced by DAPFI.</sentence>
+<sentence id="s131">Australian v US Policy Considerations 
+ 
+58 DAPFI placed heavy emphasis on the proposition that the policy of taxing 'contingent interest' paid to non-residents as dividends is a peculiarly US policy.</sentence>
+<sentence id="s132">The Commissioner accepts that the origin of Art 11(9)(a) is, as it plainly appears to be, in the US law concerns outlined in DAPFI's submissions.</sentence>
+<sentence id="s133">59 Nevertheless, it cannot be assumed that the only concern of the Treaty countries in agreeing on Art 11 (9)(a) was to protect US domestic interests in that or any other respect.</sentence>
+<sentence id="s134">Had that been the only concern, there would have been a far clearer statement to that effect in the Treaty and, at the very least, some indication in the secondary materials.</sentence>
+<sentence id="s135">60 The more immediate policy concerns in agreeing to Art 11(9)(a) were inevitably the more familiar concerns common to all double-taxation treaties, namely to prevent double taxation and at the same time to protect Australia's taxing rights as far as possible.</sentence>
+<sentence id="s136">On any view, the resulting Art 11(9)(a) was a clause by which both countries agreed to abide.</sentence>
+<sentence id="s137">61 Article 11(9)(a) does not merely 'protect' US domestic provisions nor is it 'linked' to them: DAPFI's submissions at [31] and [33] above.</sentence>
+<sentence id="s138">Nor is it correct to say that it is 'directed' only to a US mischief: DAPFI's submissions at [32] above.</sentence>
+<sentence id="s139">It is rather 'directed' to allocating a taxing right to Australia in the same terms as the taxing right insisted upon (no doubt) by the US.</sentence>
+<sentence id="s140">Alleged inconsistency 
+ 
+62 DAPFI's submission that the Commissioner is acting inconsistently ([38] --- [41] above) is without any foundation.</sentence>
+<sentence id="s141">63 Division 974 of the 1997 Act contains a set of rules and definitions in relation to the treatment of certain interests as either debt or equity interests.</sentence>
+<sentence id="s142">It contains no operative provisions.</sentence>
+<sentence id="s143">Instead, depending on the manner in which an interest is classified under Div 974, the Act elsewhere operates to treat that interest accordingly.</sentence>
+<sentence id="s144">64 Division 974 does not 'deem' interests (or payments) to be debt or equity for all purposes, nor even for all purposes of the Act.</sentence>
+<sentence id="s145">An interest is only treated in the manner prescribed by Div 974 to the extent the Act otherwise provides in its operative provisions.</sentence>
+<sentence id="s146">It is therefore wrong to assume that a payment in respect of a dividend which is 'deemed' to be 'interest' on a 'loan' by reason of Div 974 should be so treated for all purposes of the Act and for all the purposes of the Treaty.</sentence>
+<sentence id="s147">Properly construed, there is no inconsistency between Div 974 and Art 11(9)(a).</sentence>
+<sentence id="s148">Article 11(9)(a) continues to treat the payment as interest, it merely taxes it at a different rate.</sentence>
+<sentence id="s149">65 To the extent DAPFI relies on the 'deeming' effect of the provisions of Div 974, it is important to note that those 'deeming' provisions should be construed 'strictly and only for the purpose for which they are resorted to': Federal Commissioner of Taxation v Comber (1986) 10 FCR 88 at 96; East Finchley Pty Ltd v Federal Commissioner of Taxation (1989) 20 ATR 1623 at 1643.</sentence>
+<sentence id="s150">66 The Commissioner submitted there is no basis to permit the perceived legislative policy of the 'deeming' provisions of Div 974 to derogate from the clear operation of Art 11(9).</sentence>
+<sentence id="s151">It is relevant to note in this regard that Art 11(9)(a) was contained in the Protocol to the Treaty which was inserted into the International Tax Agreements Act by Act No.</sentence>
+<sentence id="s152">59 of 2002, with effect from 3 July 2002.</sentence>
+<sentence id="s153">Division 974, on the other hand, took effect from 1 July 2001.</sentence>
+<sentence id="s154">Language of the clause 
+ 
+67 In its submissions at [42] and [43] above, DAPFI argued that the language of Art 11(9)(a) is inapt to pick up the payment of a distribution by a partnership.</sentence>
+<sentence id="s155">Specifically, it is argued that the Art 11(9)(a) only applies where the payment in question is made by an identifiable 'issuer'.</sentence>
+<sentence id="s156">68 The Commissioner submitted that there is little difficulty in concluding that DAPFI's interest in the Industrie LP was 'issued' by the Industrie LP.</sentence>
+<sentence id="s157">The term 'issuer' is not a term of art --- it merely identifies the entity (here, Industrie LP) whose profits by reference to which the payments in question (here, the distributions to DAPFI) are determined.</sentence>
+<sentence id="s158">Article 11(9)(a), after all, remains subject to Art 11(5) which specifically includes payments which are treated as interest including, necessarily, certain partnership distributions.</sentence>
+<sentence id="s159">DAPFI's Submissions in Reply 
+ 
+69 DAPFI submitted that there was no material contest between the parties as to the principles governing the interpretation of international tax treaties as incorporated into domestic law; the contest is rather as to the application of those principles to the interpretation of the Treaty in the context of the present facts.</sentence>
+<sentence id="s160">70 DAPFI referred to the authoritative exposition of the relevant principles in the judgment of McHugh J in Applicant A 190 CLR applied to the interpretation of double tax treaties in Federal Commissioner of Taxation v Lamesa Holdings BV (1997) 77 FCR 597.</sentence>
+<sentence id="s161">In McDermott Industries (Aust) Pty Ltd v Federal Commissioner of Taxation [2005] FCAFC 67 ; (2005) 142 FCR 134 , a Full Court of Hill, Sundberg and Stone JJ (at [38]) summarised those principles in four sub-paragraphs:
+ 
+ 
+ '.</sentence>
+<sentence id="s162">Regard should be had to the "four corners of the actual text".</sentence>
+<sentence id="s163">The text must be given primacy in the interpretation process.</sentence>
+<sentence id="s164">The ordinary meaning of the words used are presumed to be "the authentic representation of the parties' intentions": Applicant A [at 143] .</sentence>
+<sentence id="s165">
+ 
+ 
+ 
+ .</sentence>
+<sentence id="s166">The courts must, however, in addition to having regard to the text, have regard as well to the context, object and purpose of the treaty provisions.</sentence>
+<sentence id="s167">The approach to interpretation involves a holistic approach.</sentence>
+<sentence id="s168">
+ 
+ .</sentence>
+<sentence id="s169">International agreements should be interpreted "liberally".</sentence>
+<sentence id="s170">
+ 
+ .</sentence>
+<sentence id="s171">Treaties often fail to demonstrate the precision of domestic legislation and should thus not be applied with "taut logical precision".</sentence>
+<sentence id="s172">' 
+ 
+ 
+
+71 DAPFI submitted that the Commissioner's submissions depart from an application of these principles in two material respects:
+ 
+(a) They seek to confine reference to the 'context, object and purpose' to that of the Treaty as a whole, and to avoid reference to those considerations in interpretation 'of the treaty provisions'.</sentence>
+<sentence id="s173">Considerations of context and purpose are equally relevant to the interpretation of the various articles of a treaty, the course followed in McDermott at [40] and following; and
+ 
+(b) they are a fine example of the application of 'taut logical precision' to construction of the Treaty, not merely giving its words 'primacy' but largely excluding context and purpose.</sentence>
+<sentence id="s174">72 A consideration of the interrelationship of the provisions of the Treaty (and other treaties following the same basic model) shows a concern with the substantive nature of the amounts over which the treaties allocate taxing rights (see for example the preference for economic substance over legal form in the conceptions of 'permanent establishment', 'business profits' and 'real estate').</sentence>
+<sentence id="s175">Business profits, which are allocated to the taxing power of the country to which they are most closely economically connected, do not include amounts which are in substance investment income, whether rent, interest, dividends or royalties (Art 7(6)), and investment income is categorised according to the substantive (rather than the formal) rules of the domestic law.</sentence>
+<sentence id="s176">Articles 10(4), (6) and (7), 11(5), (9) and (10) and 12(4) and (5) illustrate this concern.</sentence>
+<sentence id="s177">73 It would be an odd outcome that Art 11(9)(a), a provision whose origin manifestly lies in a purpose of confining Art 11 to what in substance regardless of its form is interest on a loan, should be so construed as to exclude from the Article an amount which in substance though not in form is interest.</sentence>
+<sentence id="s178">Such a result would seem to be contrary to the 'context object and purpose' of the provision.</sentence>
+<sentence id="s179">74 DAPFI submitted that the Commissioner's argument seeks to elude this oddity by focussing on an absence of express nomination of the purpose of the paragraph in the Treaty or the 'secondary materials'.</sentence>
+<sentence id="s180">But none of the treaties (nor the OECD or US models) contains express statements of this nature, in relation to any of their provisions; and while Australian secondary materials make no express reference to the purpose of the paragraph (the provision not having been included at its instance), the US secondary materials do.</sentence>
+<sentence id="s181">75 When regard is had (as properly it should, McDermott at [41]) to the history of the provisions, it is apparent that Art 11(9)(a) served the purpose of protecting US objectives, but no material purpose in the protection of Australian taxes.</sentence>
+<sentence id="s182">Amounts 'in the nature of interest' which were (or were deemed to be) distributions on shares were for treaty purposes allocated to Art 10, as 'income from shares' (Art 10(6)), which might be subjected to withholding tax at 15%, and were excluded from Art 1l by the concluding words of Art 11(5); but Australia in any event limited its withholding tax on such amounts to 10%, treating them as the yield on debt interests.</sentence>
+<sentence id="s183">Article 11(9)(a) thus had no relevant role to play in an Australian context, and while it was as the Commissioner says 'a power allocated to each Treaty country', its construction is more illuminated by the purpose which --- as a matter of agreement, inserted 'as the necessary price paid for international political comity' ( Applicant A at 256) --- it served in US tax policy than by reference to Australian tax provisions.</sentence>
+<sentence id="s184">76 DAPFI submitted that the Commissioner also seeks support in the 'actual text' of the Treaty, but does so without regard to the whole of the text.</sentence>
+<sentence id="s185">In looking to the 'four corners of the actual text', one construes the text in the light of its purpose; as McHugh J said in Applicant A at 253, 'the ordinary meaning of the words are not to be determined in a vacuum removed from the context of the treaty or its object or purpose'.</sentence>
+<sentence id="s186">If the words are consistent with that purpose, the construction should serve to fulfill it, not to frustrate it.</sentence>
+<sentence id="s187">77 So when reading Art 11(5), while it is accurate as a matter of taut logical precision to say (see the Commissioner's submissions at [47] above) that it applies to 'any payment which is treated as interest under domestic law, regardless of legal form':
+ 
+(a) To do so would not be consistent with the purpose of the provision, and
+ 
+(b) it would be inaccurate to say that the Treaty recognises no difference between what is in legal form interest and what is in substance interest: the words 'as well as', which for the purpose of the Treaty add to interest on 'securities bonds and debentures' what is 'subjected to the same taxation treatment' as interest, clearly acknowledge two categories of payments --- formal and substantive 'interest' --- as being within the operation of the Article.</sentence>
+<sentence id="s188">In this context, the role of Art 11(9)(a) is to exclude what substantively is not interest from its scope: that is, what in form is interest but in substance is profit share.</sentence>
+<sentence id="s189">The text of Article 11(9)(a) bears this out: it deals with payments 'determined with reference to profits', a qualifier appropriate to what in form is framed as interest rather than profit share.</sentence>
+<sentence id="s190">78 Nothing in the text of the Treaty conflicts with the approach to its construction which is indicated by reference to the matters of context and purpose on which DAPFI relies.</sentence>
+<sentence id="s191">Rather, the text supports that approach.</sentence>
+<sentence id="s192">79 On that approach, the payments to DAPFI --- which as a matter both of calculation and of economic substance (as indicated by the Commissioner's reliance on Div 974 to impose tax on them) are in the nature of interest --- fall properly within Art 10 of the Treaty.</sentence>
+<sentence id="s193">If regard were to be had only to legal form, and not to substance or deeming provisions, they would fall within Art 7.</sentence>
+<sentence id="s194">ANALYSIS AND CONCLUSION ON THE APPLICATION OF ARTICLE 11(9) OF THE TREATY 
+ 
+80 The course of DAPFI's argument that Art 11(9)(a) of the Treaty does not apply to the distributions it receives from Industrie LP in the present case may be paraphrased in the following way:
+ 
+(1) Accepting that Art 11(9) was included in the Treaty at the instigation of the United States to give effect to a particular US domestic law policy manifest in identified provisions of the IRC, the first step is to identify the mischief to which these provisions were directed.</sentence>
+<sentence id="s195">(2) The mischief so identified sets the parameters of the interest to which Art 11(9), in this case Art 11(9)(a), applies: it only applies to amounts 'dressed up' as interest (what is referred to as interest in form only) but which in substance are a division of profits; it does not apply to what is in substance interest albeit in form a division of profits.</sentence>
+<sentence id="s196">(3) To construe Art 11(9)(a) otherwise would give rise to an odd outcome; Art 11(9)(a), a provision whose origin manifestly lies in a purpose of confining Art 11 to what in substance regardless of its form is interest on a loan, should be so construed as to exclude from the Article an amount which in substance though not in form is interest.</sentence>
+<sentence id="s197">Such a result would seem to be contrary to the 'context, object and purpose' of the provision.</sentence>
+<sentence id="s198">81 The principal difficulty I have with the course of this argument is the point from which it starts.</sentence>
+<sentence id="s199">While the domestic law policy of a contracting State may explain the existence, and be reflected in the terms, of a provision of a treaty which it negotiates with another contracting State, that policy cannot control the construction and application of the provision as such, particularly where, as here, the other contracting State has no equivalent policy.</sentence>
+<sentence id="s200">In the case of Art 11(9)(a) of the Treaty, the United States reserved to itself the right to tax 'interest' paid by a resident of the United States, being interest to which a resident of Australia is beneficially entitled in the circumstances of Art 11(9)(a); not, it should be noted, in the circumstances of the domestic law policy manifest in the relevant provisions of the IRC which actuated or drove the reservation.</sentence>
+<sentence id="s201">Moreover, the United States also conceded an equivalent taxing right to Australia.</sentence>
+<sentence id="s202">The construction and application of that taxing right cannot be controlled by US domestic policy if the text in context --- the 'four corners of the actual text' --- points to a different construction.</sentence>
+<sentence id="s203">It is to that matter I now turn.</sentence>
+<sentence id="s204">82 Under the principles of interpretation referred to, the 'four corners of the actual text' must be given primacy in the interpretation process: see [70] above.</sentence>
+<sentence id="s205">So far as the proper construction and application of Art 11(9)(a) is concerned, the 'four corners of the actual text' extend to the whole of Art 11, and any other article of the Treaty that is drawn into the 'four corners of the actual text' expressly, or by implication.</sentence>
+<sentence id="s206">This is particularly relevant in relation to the term 'interest'; its definition in Art 11(5) is prefaced as being '... in this Article ...'; consequently, its scope and ambit is uniform throughout the whole of Art 11 and there is no limitation on the term other than what is to be found in Art 11(5) itself.</sentence>
+<sentence id="s207">One such limitation is: 'Income dealt with in Article 10 (Dividends) ... shall not be regarded as interest for the purposes of this Article'.</sentence>
+<sentence id="s208">Relevantly, the term 'dividends' as used in Art 10 is defined in Art 10(6) (see [25] above) to mean '... income from shares, as well as other amounts which are subjected to the same income tax treatment as income from shares by the law of the State of which the company making the distribution is a resident for the purpose of its tax '.</sentence>
+<sentence id="s209">The emphasised words correspond with the emphasised words in Art 11(5) (see [26] above) '... as well as income which is subjected to the same taxation treatment as income from money lent by the law of the Contracting State in which the income arises ', and together provide both a dichotomy and a common boundary between amounts to which Art 11 applies and amounts to which Art 10 applies.</sentence>
+<sentence id="s210">That boundary neither contemplates nor accommodates a distinction between interest in form only and interest in substance (but not in form); the only relevant criterion for the application of Art 11 including Art 11(9), rather than Art 10, is whether the income is subjected to the same taxation treatment as income from money lent by the law of Australia.</sentence>
+<sentence id="s211">It is common ground that the income in the present case is so treated: see [22] above.</sentence>
+<sentence id="s212">83 So far as context is concerned, it is unlikely that context, in the present case, adds anything to the 'four corners of the actual text' as framed in [82] above.</sentence>
+<sentence id="s213">84 Turning to object and purpose, Art 31 of the Vienna Convention on the Law of Treaties (the Vienna Convention), referred to in Koowarta v Bjelke-Petersen [1982] HCA 27 ; (1982) 153 CLR 168 at 265 per Brennan J (as he then was) as the 'leading and general rule of the interpretation of treaties', provides:
+ '1.</sentence>
+<sentence id="s214">A treaty shall be interpreted in good faith in accordance with the ordinary meaning to be given to the terms of the treaty in their context and in the light of its object and purpose.</sentence>
+<sentence id="s215">' 
+85 In Applicant A 190 CLR at 253, McHugh J, after referring to what was said by Brennan J in Koowarta 153 CLR, said:
+ 'Commentators differ as to the correct interpretation of Art 31.</sentence>
+<sentence id="s216">Differences of opinion exist as to the circumstances in which the "context ... object and purpose" of the treaty may be used to supplement the "ordinary meaning" of the treaty.</sentence>
+<sentence id="s217">Inherent in this debate is the question of whether the textual interpretation of the words, embodied in the phrase "ordinary meaning", should be afforded interpretative precedence.</sentence>
+<sentence id="s218">Some commentators have argued that the literal meaning has no precedence and that the object of the treaty must always be taken into account [O'Connell, International Law, 2nd ed (1970), vol 1, p 253]; some have argued that the two general levels of inquiry embodied in par 1 of Art 31 have a single combined operation [Brownlie, Principles of Public International Law, 4th ed (1990), p 628; Ris, "Treaty Interpretation and ICJ Recourse to Travaux Pr&eacute;paratoires: Towards a Proposed Amendment of Articles 31 and 32 of the Vienna Convention on the Law of Treaties:, Boston College International &amp; Comparative Law Review, vol 14(1) (1991) 111]; and some have argued that words and phrases of a treaty are in the first instance to be construed according to their plain and natural meaning and that it is only when the result of such an inquiry is doubtful that one should look to a treaty's context, object and purpose [Shearer, Starke's International Law, 11th ed (1994), pp 435-436].</sentence>
+<sentence id="s219">Australian decisions provide no clear answer as to whether Art 31 requires or merely allows recourse to the context, object and purpose of a treaty in interpreting one of its terms.</sentence>
+<sentence id="s220">It is clear that such recourse is, in some circumstances, permissible.</sentence>
+<sentence id="s221">On numerous occasions, Australian courts have sought to discern the purpose of a treaty so as to construe a treaty term [Koowarta [1982] HCA 27 ; (1982) 153 CLR 168 at 265-266; Thiel v Federal Commissioner of Taxation (1988) 21 FCR 122 at 160; Chan v Minister for Immigration and Ethnic Affairs (1989) 169 CLR 379 at 413; SS Pharmaceutical v Qantas [1991] 1 Lloyd's Rep 288 at 295-299].</sentence>
+<sentence id="s222">What is not clear from the decided cases, however, are the circumstances which require or allow recourse to the context, object and purpose of a treaty.</sentence>
+<sentence id="s223">Nor have those cases clarified the nature of the relationship between the context, object and purpose of a treaty and the 'ordinary' textual analysis of one of its provisions.</sentence>
+<sentence id="s224">' 
+86 Later, at 255, his Honour said:
+ 'Third, the mandatory requirement that courts look to the context, object and purpose of treaty provisions as well as the text is consistent with the general principle that international instruments should be interpreted in a more liberal manner than would be adopted if the court was required to construe exclusively domestic legislation [Shipping Corporation of India Ltd v Gamlen Chemical Co A/asia Pty Ltd [1980] HCA 51 ; (1980) 147 CLR 142 at 159, per Mason and Wilson JJ; Chan v Minister for Immigration and Ethnic Affairs (1989) 169 CLR 379 at 412-413; per Gaudron J; Buchanan &amp; Co v Babco Ltd [1978] AC 141 at 152].</sentence>
+<sentence id="s225">' 
+87 And finally, at 256, his Honour said:
+ 'Accordingly, in my opinion, Art 31 of the Vienna Convention requires the courts of this country when faced with a question of treaty interpretation to examine both the "ordinary meaning" and the "context ... object and purpose" of a treaty.</sentence>
+<sentence id="s226">' 
+88 As the Commissioner submitted at [55] above, here the object and purpose of the Treaty was to eliminate double taxation and prevent fiscal evasion.</sentence>
+<sentence id="s227">It did this by allocating, or denying, to each contracting State taxing rights over different items of income --- business profits, dividends, interest and royalties to mention some --- in different circumstances.</sentence>
+<sentence id="s228">In this respect, the object and purpose of the different provisions of the Treaty 'piggy-back' the object and purpose of the Treaty itself.</sentence>
+<sentence id="s229">Relevantly, in the case of 'interest' as defined in Art 11(5), it denied each contracting State the right to tax 'interest' arising in that State to which a resident of the other State is beneficially entitled in the circumstances of Art 11(3)(b) but, by way of override, allocated to each contracting State the right to tax 'interest' (albeit at no more than 15%), that is paid by a resident of that State to which a resident of the other State is beneficially entitled in the circumstances of Art 11(9)(a).</sentence>
+<sentence id="s230">89 In my view, so approached, there is no inherent tension between the 'four corners of the actual text' and the object and purpose of Article 11(9)(a) of the Treaty.</sentence>
+<sentence id="s231">In these circumstances, the 'four corners of the actual text' must be given the primacy demanded by the principles of interpretation to which reference has been made.</sentence>
+<sentence id="s232">90 So predicated, that is, that the distributions to DAPFI fit the description of 'interest' for the purposes of Art 11(9)(a) of the Treaty, the remaining issue is whether they fit the description of 'interest ... that is determined with reference to the profits of the issuer'.</sentence>
+<sentence id="s233">Having regard to the form and terms of cl 10.1 of the Partnership Deed, as amended, in particular the provisos in (i) and (ii) where 'the Adjusted Net Income is a positive amount', there is no doubt, in my mind, that such distributions fit the description of 'interest that is determined with reference to the profits of' the limited partnership, Industrie LP.</sentence>
+<sentence id="s234">Contrary to the submissions of DAPFI, I have no difficulty in regarding Industrie LP as an 'issuer' for this purpose.</sentence>
+<sentence id="s235">Juridically, a partnership, even a limited partnership, is not a legal entity, but for Australia's domestic tax law purposes, a limited partnership such as Industrie LP is deemed to be one, a company (s 94J of the 1936 Act), and a partner's interest therein as a share in the notional company (s 94P of the 1936 Act).</sentence>
+<sentence id="s236">The concept of the notional company being an 'issuer' in respect of the notional shareholder's (s 94Q of the 1936 Act) notional share in the notional company involves no quantum leap.</sentence>
+<sentence id="s237">91 It follows, in my view, that Art 11(9)(a) of the Treaty applies to the distributions from Industrie LP to DAPFI so as to override the denial of the right to tax under Art 11(3)(b) of the Treaty.</sentence>
+<sentence id="s238">PUBLIC RULING TR2005/5 
+ 
+92 As indicated at [4] above, there is no issue that DAPFI relied on the public ruling; the only issue is whether that reliance was misplaced; or whether the public ruling binds the Commissioner in relation to DAPFI: s 357---60(1) in the First Schedule to the Taxation Administration Act .</sentence>
+<sentence id="s239">93 The public ruling is entitled ' Income tax: ascertaining the right to tax United States (US) and United Kingdom (UK) resident financial institutions under the US and the UK Taxation Conventions in respect of interest income arising in Australia' .</sentence>
+<sentence id="s240">Under the headings 'What this Ruling is about' and 'Class of persons/arrangement', the public ruling states:
+ 
+ 
+ '1.</sentence>
+<sentence id="s241">This Ruling applies to residents of the United States and the United Kingdom that are classified as financial institutions for the purposes of either the Australia --- United States Taxation Convention, as amended by the Protocol, (the US Convention) or the Australia --- United Kingdom Taxation Convention (the UK Convention) (collectively referred to as 'the Conventions').</sentence>
+<sentence id="s242">
+ 
+ 2.</sentence>
+<sentence id="s243">This Ruling applies to those arrangements where interest arises in Australia, within the meaning of Article 11(7) of the Conventions, and is derived by United States (US) or United Kingdom (UK) residents that are financial institutions for' the purposes of the Conventions., The US and UK residents must beneficially own, or be beneficially entitled to this interest.</sentence>
+<sentence id="s244">' 
+ 
+ 
+
+94 Under the heading 'Issues discussed in Ruling' the public ruling states:
+ 
+ 
+ ' 3.</sentence>
+<sentence id="s245">The Ruling discusses the circumstances under which the US or UK resident will not be subject to tax in Australia under the Conventions on interest income arising in Australia.</sentence>
+<sentence id="s246">
+ 
+ 4.</sentence>
+<sentence id="s247">This Ruling focuses on the definition of 'financial institution' contained in Article 11(3)(b) of the Conventions.</sentence>
+<sentence id="s248">The definition of 'financial institution' distinguishes two types of entities; those that are 'banks' and those that are 'other enterprises'.</sentence>
+<sentence id="s249">'
+ 
+ 
+
+95 Significantly, under the heading 'Ruling', the public ruling states:
+ '10.</sentence>
+<sentence id="s250">Where a US or UK resident: 
+ 
+ 
+ &#9642; satisfies the definition of 'financial institution'; 
+ &#9642; is beneficially entitled to, or beneficially owns the interest; and 
+ &#9642; is unrelated to, and dealing wholly independently with the payer of the interest, 
+ 
+ 
+ 
+ 
+ 
+ and the interest arising in Australia is not: 
+ 
+ 
+ 
+ 
+ 
+ &#9642; effectively connected with a permanent establishment in Australia of the US or UK resident; nor 
+ 
+ 
+ 
+ 
+ &#9642; paid as part of an arrangement involving 'back to back' loans, 
+ 
+ Australia has no taxing rights under Article 11(2) of the Conventions in respect of interest paid to the US or UK resident.</sentence>
+<sentence id="s251">Accordingly, payers of interest of this type have no obligation under section 128B of the Income Tax Assessment Act 1936 (ITAA 1936) to withhold tax from such payments made to these US or UK residents.</sentence>
+<sentence id="s252">'
+ 
+ 
+
+96 The public ruling then contains a number of provisions dealing with the Commissioner's view as to the general application of Art 11 of the Treaty and the UK Convention.</sentence>
+<sentence id="s253">97 In para (10) of the public ruling, the Commissioner states:
+ 
+ 
+ 
+ 10.</sentence>
+<sentence id="s254">Where a US or UK resident: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &#9642; satisfies the definition of 'financial institution'; 
+ &#9642; is beneficially entitled to, or beneficially owns the interest; and 
+ &#9642; is unrelated to, and dealing wholly independently with the payer of the interest, 
+ 
+ 
+ 
+ 
+ 
+ and the interest arising in Australia is not: 
+ 
+ 
+ 
+ 
+ 
+ &#9642; effectively connected with a permanent establishment in Australia of the US or UK resident; nor 
+ 
+ 
+ 
+ 
+ &#9642; paid as part of an arrangement involving 'back to back' loans, 
+ 
+ Australia has no taxing rights under Article 11(2) of the Conventions in respect of interest paid to the US or UK resident.</sentence>
+<sentence id="s255">Accordingly, payers of interest of this type have no obligation under section 128B of the Income Tax Assessment Act 1936 (ITAA 1936) to withhold tax from such payments made to these US or UK residents.</sentence>
+<sentence id="s256">' 
+ 
+ 
+98 DAPFI submitted that each of the criteria in the dot points in para (10) is satisfied.</sentence>
+<sentence id="s257">Accordingly, the Commissioner is bound in relation to DAPFI to treat Australia as having 'no taxing rights under Art 11(2)'.</sentence>
+<sentence id="s258">99 The Commissioner submitted that the public ruling has no application to DAPFI, for the following reasons:
+ 
+(1) Paragraph (10) refers only to Australia's taxing rights under Art 11(2) of the Treaty.</sentence>
+<sentence id="s259">However, where Art 11(9) applies, interest may be taxed at a rate up to 15% despite Art 11(2).</sentence>
+<sentence id="s260">Where Art 11(9) applies, therefore, para (10) of the public ruling simply has no application.</sentence>
+<sentence id="s261">(2) Furthermore, although expressed in very general terms, the public ruling only deals with certain aspects of Art 11.</sentence>
+<sentence id="s262">Article 11 contains numerous provisions, each of which governs the division of the Treaty countries' taxing rights in different ways.</sentence>
+<sentence id="s263">Article 11(9) is a substantive provision which applies notwithstanding the general exemption in Art 11(3).</sentence>
+<sentence id="s264">Having regard to the complex nature of Art 11, the mere absence of discussion of' some of those provisions cannot be construed as a positive statement that those other provisions do not apply.</sentence>
+<sentence id="s265">(3) This is apparent from the terms of para (4) of the public ruling which states that it has a particular focus.</sentence>
+<sentence id="s266">On a fair reading, the public ruling could not be understood to be exhaustive of the application of the whole of Art 11 of the Treaty.</sentence>
+<sentence id="s267">(4) Importantly, the public ruling applies not only to the Treaty but to the UK Convention, which contains no equivalent of Art 11(9).</sentence>
+<sentence id="s268">The fact that the public ruling is silent on Art 11(9) is therefore neither remarkable nor mysterious: the public ruling simply deals with (or 'focuses on') the provisions of the two treaties common to both.</sentence>
+<sentence id="s269">(5) The transactions which DAPFI entered into contained features not addressed in the public ruling and for which express provision is made in Art 11(9).</sentence>
+<sentence id="s270">CONCLUSION ON THE PUBLIC RULING ISSUE 
+ 
+100 For the reasons advanced by the Commissioner, the public ruling has no application to DAPFI in relation to the transactions, in particular in relation to the distributions to it by Industrie LP and the application of Art 11(9)(a) to those distributions so as to override the denial of Australia's right to tax them under Art 11(3)(b).</sentence>
+<sentence id="s271">ALTERNATIVE RELIEF 
+ 
+101 In the proceedings for declaratory relief (NSD 226 of 2007), DAPFI seeks, in the alternative, relief to the effect that only the de minimis adjustments to the 'RLPI (US) Distribution Amount' are subject to withholding tax on the basis that only the variable amount is 'determined with reference to the profits' of Industrie LP.</sentence>
+<sentence id="s272">THE RESPECTIVE SUBMISSIONS ON ALTERNATIVE RELIEF 
+ DAFPI's Submissions 
+ 
+102 In order for interest to be determined with reference to profits, the quantum of the interest payable must be calculated with reference to profits, e.g.</sentence>
+<sentence id="s273">interest in an amount equal to a percentage of profits.</sentence>
+<sentence id="s274">This reflects the mischief to which Art 11(9)(a) is directed.</sentence>
+<sentence id="s275">It should be distinguished from interest the quantum of which is calculated by the application of a commercial rate to a principal sum where the interest is payable only out of net profit of the debtor or where the creditor is limited to particular funds (e.g.</sentence>
+<sentence id="s276">profits) or assets for payment of the interest.</sentence>
+<sentence id="s277">In these cases, the creditor's recourse for payment is limited to profits or assets of the debtor but the quantum of the interest is not determined by reference to those profits or assets --- they merely limit the liability of the debtor for payment of the interest.</sentence>
+<sentence id="s278">103 The 'RLPI (US) Distribution Amount' is a payment of 'interest' calculated by the application of a commercial rate to the amount of capital contributed.</sentence>
+<sentence id="s279">The mere fact that the obligation of the Industrie LP to pay that 'interest' is subject to the contingency that there is sufficient Adjusted Net Income does not mean that it is 'interest ... determined with reference to the profits' of Industrie LP --- the Adjusted Net Income is merely the source from which it is to be paid.</sentence>
+<sentence id="s280">The Commissioner's Submissions 
+ 
+104 The Commissioner submitted that there is no basis upon which this alternative relief is available.</sentence>
+<sentence id="s281">The whole of the distribution to DAPFI was required by the terms of the Partnership Deed, as amended, to be determined with reference to the profits of Industrie LP.</sentence>
+<sentence id="s282">Furthermore, there is no mechanism in the Treaty or in Division 11A (or elsewhere) which would permit the apportionment for which DAPFI contends.</sentence>
+<sentence id="s283">105 The distributions to DAPFI were governed by cl 10.1 of the Partnership Deed, as amended, by reference to the 'Adjusted Net Income' of the partnership as defined in cl 20.</sentence>
+<sentence id="s284">Clause 20 defined 'Adjusted Net Income' by reference to 'Net Income', which was defined as follows:
+ 'Net income means, for any period, income derived from the assets of the Partnership (including any distribution from the Luca Limited Partnership which the managing general partners of the Luca Limited Partnership has, in the period, resolved to make, even if' distributable at a later date) less expenses incurred in deriving that income calculated prior to any distributions to the Partners, with the following adjustments: 
+ 
+ (a) any non-deductible expenditures of the Partnership (other than capital expenditures that are not otherwise taken into account in computing Net Income pursuant to this definition, shall be subtracted from such income or loss; 
+ 
+ (b) in the event the Gross Asset Value of any Partnership asset is adjusted pursuant to subparagraphs (b) or (c) of the definition of Gross Asset Value, the amount of such adjustment shall be taken into account as gain or loss from the disposition of such asset for purposes of computing Gain or Loss; and 
+ 
+ (c) gain or loss resulting from any disposition of property shall be computed by reference to the Gross Asset Value of the property disposed of.</sentence>
+<sentence id="s285">' (Emphasis added)
+ 
+ 
+
+106 'Adjusted Net Income' was defined in cl 20: see [16] above.</sentence>
+<sentence id="s286">107 As a result, the RLPI (US) Distribution Amount tracked the profits of the partnership in the following way:
+ 
+1. if Adjusted Net Income exceeded the RLPI (US) Distribution Amount (DAPFI's capital contribution multiplied by the Agreed Rate), DAPFI was entitled to the RLPI (US) Distribution Amount plus a pro-rata portion of that excess; 
+ 
+2. if Adjusted Net Income equaled the RLPI (US) Distribution Amount plus the GPI Distribution Amount, DAPFI was entitled to that amount; 
+ 
+3. if Adjusted Net Income was less than the RLPI (US) Distribution Amount plus the GPI Distribution Amount, DAPFI was entitled to a pro-rata portion of Adjusted Net Income; 
+ 
+4. if Adjusted Net Income was a negative amount the partners would be allocated a pro-rata share of that loss by way of a debit to their respective accounts.</sentence>
+<sentence id="s287">108 The distribution to which DAPFI was entitled under cl 10.1 was therefore, in all cases, dependent upon the various adjustments to 'Net Income' of the partnership necessitated by cl 20.</sentence>
+<sentence id="s288">In these circumstances, the Commissioner submitted that it would be highly artificial to treat only the 'adjustment' itself as being referable to the profits of the partnership.</sentence>
+<sentence id="s289">The adjustment was rather the means by which the parties ensured that the whole of the distribution reflected the profitability of the partnership.</sentence>
+<sentence id="s290">109 Furthermore, as noted above, neither the Treaty nor Div 11A contains any mechanism which would permit the apportionment for which DAPFI contends.</sentence>
+<sentence id="s291">Article 11(9)(a) applies where the payment may be characterised as having been 'determined with reference to profits'.</sentence>
+<sentence id="s292">In a case such as this, where the payment can be so characterised, the whole of the payment is within the Article.</sentence>
+<sentence id="s293">110 Finally, DAPFI argued that the expression 'determined with reference to profits' should be construed narrowly so as not to include a distribution of profits.</sentence>
+<sentence id="s294">The authorities upon which DAPFI relies in this regard do not support this proposition.</sentence>
+<sentence id="s295">111 Neither Emu Bay Railway Company Limited v Federal Commissioner of Taxation [1944] HCA 28 ; (1944) 71 CLR 596 nor Federal Commissioner of Taxation v Firth [2002] FCAFC 95 ; (2002) 120 FCR 450 is a useful analogy with this case.</sentence>
+<sentence id="s296">112 The taxpayer in Emu Bay Railway Company 71 CLR had issued a debenture, the interest on which was only payable out of its 'net income' (akin to profit).</sentence>
+<sentence id="s297">It sought to deduct interest payments on this debenture under s 51(l), even though none were made because the company had no net income.</sentence>
+<sentence id="s298">All that was decided in that case was that no interest expense was 'incurred' because the interest was contingent on net income, of which there was none.</sentence>
+<sentence id="s299">113 Firth 120 FCR also concerned the deductibility of interest, in that case on a so-called 'capital protected' loan.</sentence>
+<sentence id="s300">The case does not bear on the interpretation of 'determined with reference to profits' in the Treaty.</sentence>
+<sentence id="s301">114 The Commissioner submitted that the expression 'determined with reference to profits' is well able to accommodate a situation, such as this, where the calculation of the amount paid depends entirely upon the profits (here, the Adjusted Net Income) of the issuer.</sentence>
+<sentence id="s302">DAPFI's Submissions in Reply 
+ 
+115 In the Commissioner's submissions at para [104] above, it is contended that:
+ 
+(a) The whole of each partnership distribution was required by the terms of the partnership deed to be determined with reference to profits; and
+ 
+(b) there is no mechanism in the Treaty (or elsewhere) which permits apportionment.</sentence>
+<sentence id="s303">116 DAPFI submitted that the first of these contentions, dealt with in the Commissioner's submissions at [105]---[108] above, does not meet DAPFI's submissions at [102] and [103] above, namely, that in so far as each partnership distribution is calculated by reference to the RLPI (US) Distribution Amount (the 'Primary Entitlement' referred to in cl 10.1 (a) of the Partnership Deed), it is not 'determined with reference to profits'.</sentence>
+<sentence id="s304">Furthermore, the character of the portion of each partnership distribution which is so calculated is not affected by the fact that in certain circumstances the applicant either (a) may become entitled to receive a further or additional sum as well; or (b) may not receive the full amount of the RLPI (US) Distribution Amount if the Adjusted Net Income is insufficient.</sentence>
+<sentence id="s305">117 As to the Commissioner's second contention, the absence of express provision for apportionment in Art 11(9)(a) is not an exclusion or prohibition of an apportionment.</sentence>
+<sentence id="s306">A global sum payable under a contract may be apportioned where the commercial reality is that only part of the payment can be regarded as being determined with reference to profits; the apportionment should be done on the basis of a realistic estimate on sensible commercial grounds (cf., Roadshow Distributors Pty Ltd v Commissioner of State Revenue [1998] 1 VR 523 at 529).</sentence>
+<sentence id="s307">This approach is all the more appropriate in the case of a treaty, which should not be construed in a narrow technical way.</sentence>
+<sentence id="s308">118 Here the commercial reality is that the whole payment was an indirect receipt of the interest paid by CBA, and so was interest calculated without regard to any substantive 'profit' calculation.</sentence>
+<sentence id="s309">But insofar as there is a calculation with reference to profits, only part of the payment is so calculated, because what is payable includes a basic interest amount identified in the formula, and the apportionment can be readily done in view of the way the distributions were calculated.</sentence>
+<sentence id="s310">ANALYSIS AND CONCLUSION ON THE ALTERNATIVE RELIEF ISSUE 
+ 
+119 For my part, I cannot accept the proposition that the 'commercial reality' (whatever that means, but presumably a synonym for 'economic substance') is that the whole payment (the distribution from Industrie LP to DAPFI) was an indirect receipt of the interest paid by CBA.</sentence>
+<sentence id="s311">For a start, Industrie LP was not a mere interposed conduit between CBA and DAPFI.</sentence>
+<sentence id="s312">Indeed, Industrie LP did not lend to CBA; it invested the whole of its funds in another NSW limited partnership, Luca LP: see [11] above.</sentence>
+<sentence id="s313">And even Luca LP did not lend the whole of its funds to CBA; $2 million was lent at interest to other financial institutions.</sentence>
+<sentence id="s314">120 I am unable therefore to accept the proposition that, from the perspective of commercial reality, the whole payment from Industrie LP to DAPFI '... was interest calculated without regard to any substantive profit' calculation.</sentence>
+<sentence id="s315">121 Moreover, there were in fact profit calculations.</sentence>
+<sentence id="s316">There were profit calculations at the level of Luca LP, and there were profit calculations at the level of Industrie LP.</sentence>
+<sentence id="s317">The definition of 'Net Income' at [105] above, and of 'Adjusted Net Income' at [16] above, involve a profit calculation for any period ('... income derived ... less expenses incurred ...') and DAPFI's entitlement was determined by reference to that profit calculation.</sentence>
+<sentence id="s318">122 DAPFI's entitlement, contrary to its submission, was never a basic interest amount plus or minus a calculation by reference to profit.</sentence>
+<sentence id="s319">DAPFI never had an entitlement to a 'basic interest amount', whether identified in a formula or otherwise.</sentence>
+<sentence id="s320">At the very most, it was entitled to a share of 'Adjusted Net Income' and the 'basic interest amount' (referred to as the 'RLPI (US) Distribution Amount') was but a component in the calculation of that share.</sentence>
+<sentence id="s321">That is why para (a) of cl 10.1 of the Partnership Deed, as amended, described DAPFI's entitlement as an entitlement ---
+ '...to that amount of the Adjusted Net Income as equals the RLPI(U.S.) Distribution Amount for that Distribution Period ...' 
+subject to the provisos which follow in (i) and (ii).</sentence>
+<sentence id="s322">123 I agree with the submission of the Commissioner in [108] above that '... it would be highly artificial to treat only the 'adjustment' itself (provisos (i) and (ii)) as being referable to the profits of the partnership.</sentence>
+<sentence id="s323">The adjustment was rather the means or mechanism by which the parties insured that the whole of the distribution reflected the profitability of the partnership.</sentence>
+<sentence id="s324">124 In many cases, one can obtain guidance as to the correctness of the conclusion one has come to as to the nature or character of a right or entitlement by asking: How would one plead the right or entitlement in an action to enforce the same?</sentence>
+<sentence id="s325">One only has to ask that question to know that the dichotomy for which DAPFI contends cannot be sustained.</sentence>
+<sentence id="s326">125 On the view I take, no apportionment is open.</sentence>
+<sentence id="s327">126 Both applications must be dismissed with costs.</sentence>
+<sentence id="s328">I certify that the preceding one hundred and twenty-six (126) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Edmonds.</sentence>
+<sentence id="s329">Associate:
+
+Dated: 22 October 2008
+
+ Counsel for the Applicant: Mr AH Slater QC with Mr M Richmond 
+ 
+ Solicitor for the Applicant: Allens Arthur Robinson 
+ 
+ Counsel for the Respondent: Mr A Robertson SC with Mr JO Hmelnitsky 
+and Ms CA Burnett 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+
+ Date of Hearing: 17 June 2008 
+ 
+ Date of Judgment: 22 October 2008 
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1570.html 
+ 
+ </sentence>
+</sentences>
+</case>

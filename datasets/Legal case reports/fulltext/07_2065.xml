@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<case>
+<name>Optiver Australia Pty Ltd v Tibra Trading Pty Ltd [2007] FCA 2065 (21 December 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/2065.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">preliminary discovery</catchphrase>
+<catchphrase "id=c1">o 15a r 6 of the federal court rules 1979 (cth)</catchphrase>
+<catchphrase "id=c2">circumstances of departure of applicant's employees giving rise to reasonable cause to believe breach of confidence or copyright occurred</catchphrase>
+<catchphrase "id=c3">applicant has sufficient information to decide whether to commence proceedings</catchphrase>
+<catchphrase "id=c4">threshold of "a bare pleadable case" met</catchphrase>
+<catchphrase "id=c5">o 15a r 6 not to convey advantage, but to clarify whether litigation is warranted</catchphrase>
+<catchphrase "id=c6">extent of available relief relevant but not decisive</catchphrase>
+<catchphrase "id=c7">court has general discretion under o 15a r 6</catchphrase>
+<catchphrase "id=c8">delay and prejudice relevant discretionary considerations</catchphrase>
+<catchphrase "id=c9">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 This is an application by the applicant ("Optiver") for preliminary discovery pursuant to O 15A r 6 of the Federal Court Rules 1979 (Cth) ("the Rules").</sentence>
+<sentence id="s1">The application and the subsequent notice to produce seek documents from the respondents ("Tibra") relating to computer programs written by employees or former employees of Optiver during their employment with Optiver, and other related information.</sentence>
+<sentence id="s2">THE PROCEEDINGS 
+ 
+2 Optiver is a proprietary arbitrage business.</sentence>
+<sentence id="s3">It buys or sells securities in different markets in order to capture a profit on the price differences between those markets.</sentence>
+<sentence id="s4">Its modus operandi is to identify securities on Australian and foreign markets which appear to be mispriced, and then buy or sell those securities for a profit.</sentence>
+<sentence id="s5">This process has the effect of reducing anomalies in those markets by trading the relevant securities back into equilibrium.</sentence>
+<sentence id="s6">Optiver conducts this business for its own profit, not for the profit of clients, and has done so in Australia since 1997.</sentence>
+<sentence id="s7">3 The respondents also conduct a proprietary arbitrage business.</sentence>
+<sentence id="s8">The first to fourth respondents were each incorporated in 2006 or 2007, and their directors and employees are drawn variously from the fifth to ninth respondents, all of whom were previously employees of Optiver.</sentence>
+<sentence id="s9">4 Arbitrage firms rely on speed.</sentence>
+<sentence id="s10">Due to the speed with which trades take place, any hesitation or delay by the trader or the trader's computer software can result in lost trades.</sentence>
+<sentence id="s11">Arbitrage computer software is designed to identify price anomalies, to place trades which will yield a profit, and to do so at a speed which will beat other traders to those trades.</sentence>
+<sentence id="s12">5 Optiver's computer software has gone through several stages of development.</sentence>
+<sentence id="s13">When it began trading in 1997, Optiver used an "off-the-shelf" software product known as "Orc".</sentence>
+<sentence id="s14">This program was capable of responding to market data in about 80 milliseconds.</sentence>
+<sentence id="s15">Over time, Orc was superseded by other software.</sentence>
+<sentence id="s16">In response to improving "off-the-shelf" software, Optiver sought to program its software so that it would be faster than any other program.</sentence>
+<sentence id="s17">6 In early 2004, employees of Optiver wrote a source code for a piece of software which would operate in conjunction with Orc.</sentence>
+<sentence id="s18">It was known within Optiver as "CATS".</sentence>
+<sentence id="s19">This program dramatically reduced Orc's response time to between 0.5 and 1.5 milliseconds.</sentence>
+<sentence id="s20">7 Despite the success of CATS, Optiver continued to produce faster software.</sentence>
+<sentence id="s21">In late 2004, several of Optiver's employees developed an enhancement of CATS.</sentence>
+<sentence id="s22">The product was called "F1", and was regarded by Optiver as crucial to the success of its arbitrage business.</sentence>
+<sentence id="s23">F1 is extremely fast, utilises complex algorithms which allow it to "think like a trader", and contains in-built mechanisms to minimise losses resulting from market or human errors.</sentence>
+<sentence id="s24">8 In late 2005 and early 2006, Optiver's staff structure changed.</sentence>
+<sentence id="s25">Optiver terminated the employment of the fifth respondent, Mr Dinesh Bhandari, in November 2005.</sentence>
+<sentence id="s26">By June 2006, six further employees of Optiver, including each of the sixth to ninth respondents, tendered their notices of resignation.</sentence>
+<sentence id="s27">Optiver's evidence as to the circumstances surrounding these resignations --- adduced in two affidavits of Mr Robert Keldoulis, Optiver's Managing Director, and one affidavit of Mr Charles Shale, a Software Developer at Optiver --- details the way in which Mr Keldoulis formed suspicions that the fifth to ninth respondents were leaving to establish a company in competition with Optiver.</sentence>
+<sentence id="s28">9 Soon after their respective resignations, each of the fifth, sixth, seventh and ninth respondents either incorporated or were appointed as director of at least one of the first to fourth respondents.</sentence>
+<sentence id="s29">Mr Andrew King, the eighth respondent, was employed by Tibra.</sentence>
+<sentence id="s30">10 In July 2006, the first respondent was registered with the Australian Stock Exchange as a "market maker", which allows it to conduct an arbitrage business in the same way that Optiver does.</sentence>
+<sentence id="s31">Optiver's evidence was that Mr Keldoulis became suspicious at the speed with which Tibra had moved from a newly incorporated company to a successful competitor.</sentence>
+<sentence id="s32">The evidence indicated that Mr Keldoulis discovered emails sent from some of the fifth to ninth respondents' email addresses at Optiver to their personal email addresses.</sentence>
+<sentence id="s33">One of these emails, sent by Mr King, itemised ways in which Optiver's F1 system could be improved.</sentence>
+<sentence id="s34">The other, sent by Mr Kinsey Cotton, the ninth respondent, contained key codes for Orc, for which Optiver had acquired licences and on which Optiver had built its F1 automated trading system.</sentence>
+<sentence id="s35">The information contained in these emails, says Optiver, is not only information crucial to a successful arbitrage business, but also information which the fifth to ninth respondents, who were traders and not software developers, could not have easily recreated.</sentence>
+<sentence id="s36">11 At times in cross-examination Mr Keldoulis appeared evasive, and the correctness of some of the details of his affidavits was undermined, and consequently I consider that his evidence reflects an eagerness to advance his claims and an unwillingness to reveal Optiver's position in an untimely manner.</sentence>
+<sentence id="s37">However, despite this, I accept the substance of his evidence.</sentence>
+<sentence id="s38">On the material presently before me, I do not consider that that substance has been materially shaken.</sentence>
+<sentence id="s39">12 Optiver also adduced evidence from Mr Shale concerning the performance of Tibra as an arbitrage business and the speed with which a software developer could develop a program competitive with F1.</sentence>
+<sentence id="s40">13 In relation to the performance of Tibra, Mr Shale's evidence was that Tibra began beating Optiver to an increasing number of trades in late 2006.</sentence>
+<sentence id="s41">Although the evidence deposed to in his affidavit addresses only the period between September 2006 and December 2006, a graph annexed to his affidavit asserted that Tibra's rate of success over Optiver continued to increase into early 2007.</sentence>
+<sentence id="s42">Based on his experience as a software developer, Mr Shale concluded that Tibra would need to have deployed an automated trading system at least as fast, if not faster, than Optiver's F1.</sentence>
+<sentence id="s43">14 Furthermore, Mr Shale deposed that, for a skilled software developer to generate a source code with functionalities equivalent to F1, the developer would need, even taking into account several assumptions in favour of the developer, at least 110 weeks of development time.</sentence>
+<sentence id="s44">Having concluded that Tibra began using a software program equivalent to F1 in November 2006, Mr Shale concluded that it was highly unlikely that Tibra could have developed such software by that time.</sentence>
+<sentence id="s45">Although his evidence was challenged in cross-examination because it did not clearly set out the time necessary to develop CATS as distinct from F1, I consider that the substance of Mr Shale's evidence was not significantly shaken.</sentence>
+<sentence id="s46">15 Tibra did not lead any evidence in response to that adduced by Optiver.</sentence>
+<sentence id="s47">It tendered a letter sent by Tibra's solicitors to Optiver's solicitors, responding to a request by Optiver that Tibra voluntarily surrender certain relevant documents, source code and computer systems.</sentence>
+<sentence id="s48">Tibra's response addressed each of the substantive arguments put against it in the preliminary discovery proceedings.</sentence>
+<sentence id="s49">16 In the absence of the calling of a witness to explain the information contained in Tibra's letter, it is difficult to give the document great weight or probative value.</sentence>
+<sentence id="s50">It suffices to observe that Tibra, through their solicitors in this letter, formally rejected Optiver's suspicions of breach of confidence and copyright and refused to produce the documents, source code and computer systems listed in the application.</sentence>
+<sentence id="s51">ISSUE FOR DETERMINATION 
+ 
+17 The issue arising in this case is whether the requirements of O 15A r 6 of the Rules are satisfied so that an order for preliminary discovery should properly be made.</sentence>
+<sentence id="s52">18 The Court may exercise its discretion to grant preliminary discovery under O 15A r 6 where an applicant establishes that:
+ 
+ 
+ (a) there is reasonable cause to believe that the applicant has or may have the right to obtain relief from an identified person;
+ (b) the applicant, having made all reasonable inquiries , does not have sufficient information to enable it to decide whether to commence proceedings to obtain that relief ; and
+ (c) there is reasonable cause to believe that the identified person has, is likely to have or is likely to have had possession of any document relating to the question whether the applicant has a right to obtain relief, and that inspection of the document would assist the applicant to decide whether to commence proceedings.</sentence>
+<sentence id="s53">(Emphasis added.</sentence>
+<sentence id="s54">) 
+ 
+
+19 In this case, the first and second limbs are relevant.</sentence>
+<sentence id="s55">There is no significant dispute about the likelihood of Tibra having possession of documents which concern Optiver's right to obtain relief and which would aid its decision to commence proceedings.</sentence>
+<sentence id="s56">REASONABLE CAUSE TO BELIEVE 
+ 
+20 Optiver submits that the circumstances outlined above give rise to a reasonable cause to believe that they may have a right to obtain relief from Tibra.</sentence>
+<sentence id="s57">In particular, Optiver argues that the circumstances surrounding the fifth to ninth respondents' respective terminations or resignations, their subsequent establishment of a new and successful arbitrage business, the discovery of two worrying emails by Mr Keldoulis, and Mr Shale's calculations, all show that Optiver has reasonable cause to believe that it may have a right to obtain relief.</sentence>
+<sentence id="s58">21 In response, Tibra submits that there are significant shortcomings in the evidence on which Optiver grounds its belief.</sentence>
+<sentence id="s59">It says that the fifth to ninth respondents' departures were not suspicious; that Tibra's success is explained by circumstances in no way related to or dependant upon a misappropriation of Optiver's confidential or copyright information; that the two emails were either anodyne or accidental; and that Mr Shale's graph is far from conclusive.</sentence>
+<sentence id="s60">22 The principles concerning whether an applicant for preliminary discovery has a "reasonable cause to believe" are well established, and are summarised by Hely J in St George Bank Ltd v Rabo Australia Ltd (2004) 211 ALR 147 at 153-154.</sentence>
+<sentence id="s61">I do not propose to repeat those principles here.</sentence>
+<sentence id="s62">23 In this case, Optiver has reasonable cause to believe that it may have a right to obtain relief from Tibra.</sentence>
+<sentence id="s63">The circumstances outlined above, when taken together, provide sufficient objective basis on which that belief is grounded.</sentence>
+<sentence id="s64">I am persuaded that Optiver's belief goes beyond mere conjecture or supposition; rather, Optiver has reasonably formed a conclusion that the circumstances surrounding the departure of its employees and the success of their subsequent business may depend to some degree on a breach of a duty of confidence owed to Optiver or a breach of its copyright.</sentence>
+<sentence id="s65">24 It is important to stress that the above view does not mean that Optiver's belief is correctly held, in the sense that it is likely to be vindicated in the proceedings.</sentence>
+<sentence id="s66">The evidence presently before the Court does not, and need not, go so far as to establish a prima facie case or crystallise a successful cause of action.</sentence>
+<sentence id="s67">Under O 15A r 6(a), Optiver's evidence need only establish a tenable objective basis for its belief, which it has done.</sentence>
+<sentence id="s68">Accordingly, while Tibra's submissions regarding the shortcomings in Optiver's evidence are important, they are not sufficient to weaken the objective grounds on which Optiver asserts its belief to the extent that O 15A r 6(a) is not satisfied.</sentence>
+<sentence id="s69">Shortcomings will be relevant if and when the dispute progresses to hearing, at which stage detailed evidence can be fully adduced and weighed.</sentence>
+<sentence id="s70">SUFFICIENT INFORMATION 
+ 
+25 Although the parties disagreed whether Optiver had made all reasonable inquiries before bringing this application, in my view, O 15A r 6(b) is determinative in this case because it prohibits the Court exercising its discretion to grant preliminary discovery where the applicant has sufficient information to enable it to decide whether to commence proceedings to obtain the relief referred to in O 15A r 6(a).</sentence>
+<sentence id="s71">26 I am persuaded that Optiver is equipped with sufficient information to decide whether to commence proceedings to obtain at least some of the relief which it submits may be available to it.</sentence>
+<sentence id="s72">27 It is settled law that the purpose of preliminary discovery is not to procure documents that will strengthen an applicant's decision to commence proceedings, but rather to furnish it with information which is reasonably necessary to enable that decision to be made: see Matrix Film Investment One Pty Ltd v Alameda Films LLC [2006] FCA 591 at [19] .</sentence>
+<sentence id="s73">In other words, once a prospective applicant has enough information to meet the threshold of "a bare pleadable case" ( C7 Pty Ltd v Foxtel Management Pty Ltd [2001] FCA 1864 at [44] ), an order under O 15A r 6 is no longer appropriate.</sentence>
+<sentence id="s74">Simply because it may be difficult to ascertain the finer detail of those pleadings and assess with accuracy the likelihood of success does not mean the prospects of success in the litigation should be amplified for the prospective applicant through the effects of an invasive order for preliminary discovery.</sentence>
+<sentence id="s75">An applicant which is unsuccessful in its preliminary discovery application can always plead its case as best it can, acquire further information and documentation through the ordinary processes of discovery and issue of subpoenas, and then, if necessary, amend its pleadings to assert further or different breaches of its rights or abandon any grounds or causes of action no longer considered tenable.</sentence>
+<sentence id="s76">28 It follows that an applicant, upon obtaining enough information to plead its case, is no longer entitled to preliminary discovery.</sentence>
+<sentence id="s77">Delay may also be important: see Western Bulk Carriers (Aust) Pty Ltd v Cosco Bulk Carrier Co Ltd [2002] FCA 1520 at [25] .</sentence>
+<sentence id="s78">Once an applicant has obtained information sufficient to plead its case, or has unnecessarily delayed that acquisition, preliminary discovery will not be ordered, and the proceedings must commence.</sentence>
+<sentence id="s79">The threshold, once crossed, arrests the preliminary discovery process: see Ricegrowers Co-Operative Ltd &amp; Seatide Pty Ltd v ABC Containerline NV &amp; MED Containerline Antwerp NV (1996) 138 ALR 480 at 484.</sentence>
+<sentence id="s80">29 Orders of preliminary discovery are not intended to convey a forensic or tactical advantage, but rather to clarify whether litigation is warranted.</sentence>
+<sentence id="s81">While preliminary discovery will be beneficial to an applicant to the extent it crystallises their cause of action, or in some cases the availability of a defence to an anticipated claim, it should not be oppressive to a prospective defendant.</sentence>
+<sentence id="s82">Preliminary discovery is a one-way transaction, in the sense that there is no reciprocal obligation to produce documents.</sentence>
+<sentence id="s83">Only the applicant receives documents, which is markedly different to ordinary discovery in the course of a legal proceeding.</sentence>
+<sentence id="s84">In practical terms, the handing over of information which may be highly sensitive can be commercially damaging to a business.</sentence>
+<sentence id="s85">It is appropriate to exercise caution not to unnecessarily burden a prospective defendant to the point where its unilateral disclosure of information in preliminary discovery injures its commercial position vis-&agrave;-vis a competitor, or confers an unfair advantage on that competitor.</sentence>
+<sentence id="s86">30 Two conclusions can be drawn from application of the above principles to the present facts.</sentence>
+<sentence id="s87">The first is that Optiver has crossed the threshold of "a bare pleadable case", and therefore does not satisfy O 15A r 6(b).</sentence>
+<sentence id="s88">31 The information which Optiver has at present --- in particular, the termination or resignation of the fifth to ninth respondents, their subsequent establishment of Tibra, the discovery of two emails by Mr Keldoulis, and Mr Shale's calculations --- sufficiently equips it to decide whether to commence proceedings.</sentence>
+<sentence id="s89">This information is a basis for substantially more than what is required to institute "a bare pleadable case".</sentence>
+<sentence id="s90">Although Optiver's initial pleadings may not be as comprehensive as they would be after preliminary discovery, this is not a reason to grant the application.</sentence>
+<sentence id="s91">It often occurs that pleadings, as initially drafted, are amended in light of extra information gleaned from discovery.</sentence>
+<sentence id="s92">32 Optiver stressed that the question for it to decide pursuant to O 15A r 6(b) is whether it should commence proceedings against Tibra to obtain the relief to which it asserts an entitlement , that is, relief for breach of confidence and copyright.</sentence>
+<sentence id="s93">Optiver also referred to the observation by Sackville J in Quanta Software International Pty Ltd v Computer Management Services Pty Ltd (2000) 175 ALR 536 at 543 to the effect that an order under O 15A r 6 may be available to assess the extent of any alleged infringement of an applicant's rights.</sentence>
+<sentence id="s94">While these are correct statements of principle, I do not believe they are decisive in this case.</sentence>
+<sentence id="s95">33 The observation by Sackville J in Quanta Software 175 ALR at 543 was made in the context of dismissing the clearly untenable proposition that "documents relating only to quantum are necessarily irrelevant in determining whether an applicant has satisfied O 15A r 6(b).</sentence>
+<sentence id="s96">" This does not mean that the extent of the alleged infringement must always be relevant to every preliminary discovery application in which the applicant hopes for a greater or more wide-ranging form of relief.</sentence>
+<sentence id="s97">The notion of "reasonable sufficiency" articulated by Lindgren J in Alphapharm Pty Ltd v Eli Lilly Australia Pty Ltd (unreported, 24 May 1996) at 24 requires only that uncertainty about the available type and extent of relief be taken into account as one of the considerations relevant to the test in O 15A r 6(b), and that it not be treated as decisive.</sentence>
+<sentence id="s98">34 In this case, there is real doubt about the extent of the relief to which Optiver may be entitled, particularly in relation to the amount of compensatory and additional damages it might receive under s 115 of the Copyright Act 1968 (Cth).</sentence>
+<sentence id="s99">However, there seems to be little doubt in the submissions and evidence of Optiver that it will seek compensatory damages under s 115(2) , additional damages under s 115(4) , equitable compensation for breach of confidence and injunctive relief restraining further breaches of copyright and confidence.</sentence>
+<sentence id="s100">Given that the type of relief which might be obtained is clear, and given that there is sufficient information to formulate the necessary pleadings, I do not accept that some uncertainty regarding the extent of relief renders Optiver unable to decide whether to commence proceedings to obtain that relief.</sentence>
+<sentence id="s101">35 The second conclusion I have reached is that requiring Tibra to reveal the information Optiver seeks may be unfairly prejudicial to Tibra, in a commercial and litigious sense, and therefore warrants an exercise of the Court's discretion to deny preliminary discovery.</sentence>
+<sentence id="s102">Accordingly, even if Optiver's case, as it currently stands, is not "a bare pleadable case", I am inclined to exercise the Court's general discretion in O 15A r 6 and not grant the orders sought.</sentence>
+<sentence id="s103">36 The source code to an arbitrageur's computer software program is an extremely sensitive piece of information.</sentence>
+<sentence id="s104">The arbitrage trading business is very competitive, and the success of an arbitrageur depends heavily on the speed of its computer trading systems and its ability to constantly develop new and faster software.</sentence>
+<sentence id="s105">To reveal a successful arbitrageur's source code could be to reveal a roadmap to its success, and undermine its competitive advantage.</sentence>
+<sentence id="s106">While it is true that a strict confidentiality regime could be instituted, this would almost certainly introduce an undesirable degree of complexity, delay and cost which the evidence presently before me does not warrant.</sentence>
+<sentence id="s107">37 I am not satisfied that information of such sensitivity to Tibra should be disclosed at this early stage.</sentence>
+<sentence id="s108">The authorities, taken together, stress that the confidentiality of the information sought in a preliminary discovery application is a relevant consideration in the discretion of the Court to grant the relief, but not an overriding consideration: Griffin Energy Pty Ltd v Western Power Corporation [2006] FCA 1241 at [110] ; Telstra Corporation Limited v Minister for Communications, Information, Technology and the Arts [2007] FCA 1331 at [31] - [32] .</sentence>
+<sentence id="s109">The Court has tended to permit applicants to erect suitable regimes to ensure the confidentiality of any material acquired by way of preliminary discovery.</sentence>
+<sentence id="s110">In this case, however, despite Optiver's proposal of a confidentiality regime, the exercise of the general discretion to refuse preliminary discovery is supported by two other considerations.</sentence>
+<sentence id="s111">38 The first is the substantial delay in Optiver's agitation of its application.</sentence>
+<sentence id="s112">As noted above, Optiver's suspicions were aroused in July 2006, but it did not commence these proceedings until almost a year later, preferring instead to monitor Tibra's performance and engage private investigators.</sentence>
+<sentence id="s113">One consequence of this substantial delay, which has not been satisfactorily explained, is that Tibra's source code is said to have now developed beyond the version it was using at the time which Optiver's evidence addresses.</sentence>
+<sentence id="s114">The nature of the information sought means that Tibra would have to disclose its current source code, from which its source code as it stood in late 2006 could be derived.</sentence>
+<sentence id="s115">This would necessitate revealing any developments in Tibra's software since late 2006.</sentence>
+<sentence id="s116">This entails a disclosure which, in my view, is not necessary or appropriate for Optiver's preliminary discovery application, and which could lead to the acquisition by Optiver of an unnecessary and unfair commercial advantage.</sentence>
+<sentence id="s117">39 A second consideration in relation to the Court's discretion is that Tibra could suffer undue prejudice in respect of the conduct of the anticipated proceedings.</sentence>
+<sentence id="s118">Preliminary discovery is an invasive process, and can be granted only where the three limbs of O 15A r 6 are made out.</sentence>
+<sentence id="s119">One reason for this is that the grant of preliminary discovery, particularly if the application is as broadly drawn as it is in this case, can place the prospective defendant in a position of disadvantage in respect of the conduct of future negotiations and proceedings: see C7 Pty Ltd v Foxtel Management Pty Ltd [2002] FCA 1266 at [7] .</sentence>
+<sentence id="s120">Unlike full discovery, where both parties can ascertain and test the strength of the case put against them, preliminary discovery is unilateral, and the Court should be wary of creating an imbalance between the parties, since the purpose of preliminary discovery is not to furnish an applicant with information of such breadth or significance as to prejudice or unnecessarily curtail the respondent's prospects in the proceedings, but rather to ensure an applicant is able to identify and consider the documents and information necessary to commence proceedings.</sentence>
+<sentence id="s121">40 I am of the view that the disclosure at this early stage of Tibra's source code, particularly in circumstances where Optiver already has sufficient information to decide whether to start litigation, would not be consistent with the purposes of O 15A r 6 and would create an inappropriate imbalance between Optiver and Tibra in respect of any litigation.</sentence>
+<sentence id="s122">CONCLUSION 
+ 
+41 For the above reasons, I dismiss the application with costs.</sentence>
+<sentence id="s123">I certify that the preceding forty-one (41) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tamberlin.</sentence>
+<sentence id="s124">Associate:
+
+Dated: 21 December 2007
+
+ Counsel for the Applicant: Mr R Cobden SC and Mr P Flynn 
+ 
+ Solicitor for the Applicant: Mallesons Stephen Jaques 
+ 
+ Counsel for the Respondent: Mr A Bannon SC and Mr A Fox 
+ 
+ Solicitor for the Respondent: McCabe Terrill Lawyers 
+ 
+ Date of Hearing: 30 November 2007 
+ 
+ Date of Judgment: 21 December 2007 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/2065.html 
+ 
+ </sentence>
+</sentences>
+</case>

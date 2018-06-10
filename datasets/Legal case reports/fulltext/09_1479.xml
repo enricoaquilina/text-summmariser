@@ -1,0 +1,796 @@
+<?xml version="1.0"?>
+<case>
+<name>Australian Olive Holdings Pty Limited v Huntley Management Limited, in the matter of Huntley Management Limited [2009] FCA 1479 (25 November 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1479.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">managed investment schemes</catchphrase>
+<catchphrase "id=c1">olive grove projects</catchphrase>
+<catchphrase "id=c2">former responsible entity (re) (aol) entered into a consolidated water supply agreement (cwsa) with owner of land containing a lagoon (aohl) to supply water to enable aol to perform its obligations of irrigating individual groves of which members of the projects were licensees</catchphrase>
+<catchphrase "id=c3">aol removed as re and replaced by huntley in respect of some of the projects</catchphrase>
+<catchphrase "id=c4">whether, by reason of ss 601fs and 601ft of corporations act 2001 (cth) (the act), huntley became liable to aohl in respect of the particular projects for which it had been appointed as re in place of aol</catchphrase>
+<catchphrase "id=c5">construction of cwsa</catchphrase>
+<catchphrase "id=c6">construction of ss 601fs and 601ft of the act</catchphrase>
+<catchphrase "id=c7">whether aol had enjoyed a right of indemnity in respect of the liability to aohl for purposes of s 601fs(2)(d) of the act</catchphrase>
+<catchphrase "id=c8">whether liability of huntley as successor re to aohl was excluded by s 601ft(2) of the act</catchphrase>
+<catchphrase "id=c9">whether cwsa was an "entire" agreement that did not permit a pro rata liability in respect of some projects or some groves of olive trees.</catchphrase>
+<catchphrase "id=c10">corporations</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+ INTRODUCTION 
+ On 22 October 2002 the plaintiff, Australian Olive Holdings Pty Ltd (AOHL) (then apparently known as Australian Olive Holdings Ltd), as "Water Owner" entered into a written agreement with Australian Olives Ltd (AOL) as "Manager" and Collective Olive Groves Ltd (COGL) as "Land Owner".</sentence>
+<sentence id="s1">The agreement was called a Consolidated Water Supply Agreement (CWSA).</sentence>
+<sentence id="s2">The CWSA related to the supply by AOHL of water to AOL in its capacity as responsible entity (RE) of a number of managed investment schemes (MISs or Projects) in respect of olive groves at Yallamundi in Queensland (Groves).</sentence>
+<sentence id="s3">COGL was the owner of the land on which the Groves were located.</sentence>
+<sentence id="s4">AOHL owned a neighbouring allotment on which there was a lagoon called Yallamundi Lagoon.</sentence>
+<sentence id="s5">In the CWSA that allotment was called the "Water Land" and the lagoon on it was called the "Water Resource".</sentence>
+<sentence id="s6">I will call the Water Resource, that is to say, Yallamundi Lagoon, "the Lagoon".</sentence>
+<sentence id="s7">The defendant, Huntley Management Limited (Huntley), replaced AOL as the RE in respect of some or all of the Projects.</sentence>
+<sentence id="s8">There are six Projects, called Australian Olive Project 1, 2 etc. Huntley claims that it has validly replaced AOL as RE for all six.</sentence>
+<sentence id="s9">AOL concedes that Huntley has done so for Projects 1, 2, 4, 5 and 6.</sentence>
+<sentence id="s10">There is a dispute as to Project 3.</sentence>
+<sentence id="s11">This proceeding relates only to Projects 4, 5 and 6.</sentence>
+<sentence id="s12">Huntley replaced AOL as RE for Projects 5 and 6 on or about 28 March 2008 and for Project 4 on or about 29 April 2008 (30 April 2008 according to the plaintiff's submissions, but 29 April 2009 [sic] according to the defendant's submissions).</sentence>
+<sentence id="s13">The removal and replacement for Projects 1 and 2 and the alleged removal and replacement for Project 3 occurred in or around November 2008.</sentence>
+<sentence id="s14">That was after AOHL purportedly terminated the CWSA on 9 October 2008 for wrongful repudiation by Huntley (the solicitor for the plaintiff wrote to the solicitor for the defendant on 2 October 2008 stating that the termination was "effective immediately".</sentence>
+<sentence id="s15">The plaintiff's chronology states 9 October 2008, as do the plaintiff's submissions (see para 106(a)) and the further amended statement of claim, but the defendant's submissions (para 31) state 2 October 2008.</sentence>
+<sentence id="s16">) In this proceeding AOHL seeks to enforce the CWSA against Huntley as the successor RE of AOL in respect of Projects 4, 5 and 6.</sentence>
+<sentence id="s17">AOHL contends that Huntley has succeeded to the obligations of AOL under the CWSA by the operation of ss 601FS and 601FT of the Corporations Act 2001 (Cth) (the Act).</sentence>
+<sentence id="s18">Huntley denies that it has done so.</sentence>
+<sentence id="s19">The major issue for decision is who is right on the proper construction of the CWSA and of ss 601FS and 601FT of the Act.</sentence>
+<sentence id="s20">There is no question of AOHL's attempting to enforce the CWSA against Huntley in respect of Project 1, 2 or 3 because, on any reckoning, AOL was still the RE of those MISs until 9 October 2008.</sentence>
+<sentence id="s21">From the times of the change in RE from AOL to Huntley in respect of Projects 4, 5 and 6, AOHL sent invoices to Huntley pursuant to the CWSA.</sentence>
+<sentence id="s22">Huntley did not pay them, contending that it was not liable to do so.</sentence>
+<sentence id="s23">Accordingly, on 2 October 2009 AOHL gave Huntley a notice accepting what it says was Huntley's repudiation of the CWSA, and terminating the CWSA.</sentence>
+<sentence id="s24">AOHL sues Huntley for debt based on the invoices covering the period until 9 October 2008 and for general damages in respect of the loss of the contract in relation to the period thereafter (in effect the loss of the benefit of the future stream of income).</sentence>
+<sentence id="s25">In the alternative to the claim for debt, AOHL sues Huntley on the ground of unjust enrichment, alleging that it in fact supplied water or a reliable source of water to Huntley.</sentence>
+<sentence id="s26">BACKGROUND FACTS AND AOHL'S PLEADED CASE 
+ General
+ Annexed to these reasons for judgment is a plan of the subject land.</sentence>
+<sentence id="s27">As can be seen, generally speaking the Groves within Projects 1, 2 and 3 are within the upper half of the plan and those within Projects 4, 5 and 6 are in the lower half.</sentence>
+<sentence id="s28">The Lagoon is wholly within Lot 11, SP113870 (the Water Land).</sentence>
+<sentence id="s29">I will call the Water Land "Lot 11".</sentence>
+<sentence id="s30">The "Water Owner" in the CWSA was defined to be the registered proprietor of Lot 11.</sentence>
+<sentence id="s31">That was AOHL.</sentence>
+<sentence id="s32">Part of Speers Creek constitutes the eastern boundary of Lot 11.</sentence>
+<sentence id="s33">(Speers Creek is elsewhere referred to as 'Spiers Creek' but I shall refer to it as 'Speers Creek' in conformity with the annexed plan).</sentence>
+<sentence id="s34">Two dams appear on the map: the North West Dam which is in the top left corner, and the Project 5 Dam which straddles the boundary between Lots 79 and 310.</sentence>
+<sentence id="s35">Those two dams are on land owned by COGL.</sentence>
+<sentence id="s36">Indeed, all of the land shown on the map with the exception of Lot 11 and Lot 394 (see below) is owned by COGL.</sentence>
+<sentence id="s37">As at the date of the CWSA, Projects 1-4 had already been established by AOL.</sentence>
+<sentence id="s38">The CWSA recorded that AOL intended to establish further Projects.</sentence>
+<sentence id="s39">AOL established Project 5 about a year after the making of the CWSA and Project 6 at some time after that.</sentence>
+<sentence id="s40">AOL as RE had entered into "Grove Agreements" with the members of the Projects (investors in the MISs) under which it agreed to manage their Groves, including to irrigate them.</sentence>
+<sentence id="s41">If they so elected, Members could hold stapled interest, in the form of shares in COGL coupled with their units in the MISs.</sentence>
+<sentence id="s42">Under the CWSA, AOHL undertook to supply water, and AOL to take water, to enable AOL to comply with its duty to irrigate the Groves under the Grove Agreements.</sentence>
+<sentence id="s43">It is convenient to set out now the terms of ss 601FS and 601FT as follows: 
+ 
+ 601FS 
+ (1) If the responsible entity of a registered scheme changes, the rights, obligations and liabilities of the former responsible entity in relation to the scheme become rights, obligations and liabilities of the new responsible entity.</sentence>
+<sentence id="s44">
+ 
+
+ 
+ 
+ (2) Despite subsection (1), the following rights and liabilities remain rights and liabilities of the former responsible entity: 
+ 
+
+ 
+ 
+ (a) any right of the former responsible entity to be paid fees for the performance of its functions before it ceased to be the responsible entity; and 
+ 
+
+ 
+ 
+ (b) any right of the former responsible entity to be indemnified for expenses it incurred before it ceased to be the responsible entity; and 
+ 
+
+ 
+ 
+ (c) any right, obligation or liability that the former responsible entity had as a member of the scheme; and 
+ 
+
+ 
+ 
+ (d) any liability for which the former responsible entity could not have been indemnified out of the scheme property if it had remained the scheme's responsible entity.</sentence>
+<sentence id="s45">
+ 
+
+ 
+ 
+ 601FT 
+ (1) If the responsible entity of a registered scheme changes, a document: 
+ 
+
+ 
+ 
+ (a) to which the former responsible entity is a party, in which a reference is made to the former responsible entity, or under which the former responsible entity has acquired or incurred a right, obligation or liability, or might have acquired or incurred a right, obligation or liability if it had remained the responsible entity; and 
+ 
+
+ 
+ 
+ (b) that is capable of having effect after the change; 
+ 
+
+ 
+ 
+ has effect as if the new responsible entity (and not the former responsible entity) were a party to it, were referred to in it or had or might have acquired or incurred the right, obligation or liability under it.</sentence>
+<sentence id="s46">
+ 
+
+ 
+ 
+ (2) Subsection (1) does not apply to a right, obligation or liability that remains a right, obligation or liability of the former responsible entity because of subsection 601FS(2).</sentence>
+<sentence id="s47">[My emphasis] 
+ 
+
+ By its Further Amended Statement of Claim filed on 21 September 2009 (FASC), AOHL asserts that from the changeover date, being 28 March 2008 in the case of Projects 5 and 6 and 29 April 2008 in the case of Project 4, all of the rights and obligations of AOL under the CWSA became rights and obligations of Huntley pursuant to ss 601FS and/or 601FT of the Act.</sentence>
+<sentence id="s48">AOHL alleges (para 16) that until 9 October 2008 it continued to supply and/or make available water to the Projects in accordance with the CWSA.</sentence>
+<sentence id="s49">AOHL claims (para 17) to have invoiced Huntley pursuant to the CWSA for water supplied and/or made available on a pro rata basis reflecting the number of hectares of Groves in Projects 4, 5 and 6 as a proportion of the total number of hectares the subject of all six Projects, and to have rendered invoices in the amounts and at the times stated in a table in para 17 of the FASC, totalling $486,504.77.</sentence>
+<sentence id="s50">AOHL claims (paras 18, 19) that each of the invoices was due and payable on the first day of the calendar month to which it related yet Huntley refused or neglected to pay and is indebted to AOHL in the amounts of the invoices, yet has asserted that it is not obliged to pay and has refused to perform the CWSA.</sentence>
+<sentence id="s51">AOHL alleges that by this conduct Huntley repudiated the CWSA, and that AOHL accepted that repudiation on 2 October 2008, when it elected to terminate the CWSA on and from 9 October 2008 (paras 20, 21).</sentence>
+<sentence id="s52">In para 22 of the FASC, AOHL makes a claim for damages for breach of contract.</sentence>
+<sentence id="s53">In paras 28ff, AOHL pleads that if the CWSA does not bind Huntley, nonetheless AOHL has conferred a benefit on Huntley by reason of AOHL's supply of a reliable source of water or of water itself, and that AOHL conferred that benefit on Huntley at its request, at AOHL's expense, and in the belief that Huntley was obliged to pay for it.</sentence>
+<sentence id="s54">AOHL claims by way of unjust enrichment the "base fee" set out in cl 5.2 of the CWSA on a pro rata basis according to number of hectares utilised by the Projects, alternatively $500 per Grove (along with GST and indexed for inflation), as a reasonable sum for water and/or for the supply of water (paras 29-31).</sentence>
+<sentence id="s55">The claim made in para 32 is that Huntley was unjustly enriched at AOHL's expense and is liable to pay AOHL for the benefit conferred.</sentence>
+<sentence id="s56">The CWSA
+ The CWSA recited (Recital A) that AOL had established "Projects" and intended to establish further "Projects" for the planting, growing, harvesting and marketing of olives for commercial gain.</sentence>
+<sentence id="s57">The expression "Projects" was defined in the Dictionary in Schedule 1 to the CWSA as follows: 
+ 
+ Any olive farm investment projects established by the Manager, and now conducted, as managed investment schemes and which are dependent upon the Water Resource.</sentence>
+<sentence id="s58">
+ 
+
+ 
+As noted at [2] above, the Water Resource was the Lagoon which, as noted at [11] above, was within Lot 11.</sentence>
+<sentence id="s59">There is an obvious difficulty in accommodating the definition of "Projects" to Projects 5 and 6 which were not established as at 22 October 2002.</sentence>
+<sentence id="s60">As noted at [13] above, only Projects 1, 2, 3 and 4 were established as at that date.</sentence>
+<sentence id="s61">There was evidence too that in fact Project 6 and most of Project 5 were not irrigated from the Lagoon.</sentence>
+<sentence id="s62">The parties treated the CWSA as applying to all six projects and so will I.</sentence>
+<sentence id="s63">Recital B was that AOL had entered into Grove Agreements with the Members of the Projects under which AOL had agreed to manage their Groves.</sentence>
+<sentence id="s64">Of Projects 4, 5 and 6, this recital could have been true as at 22 October 2002 only in respect of Project 4.</sentence>
+<sentence id="s65">Recitals C and D were that AOL was obliged under the Grove Agreements to irrigate the Members' Groves (C) and that AOHL owned Lot 11 on which the Lagoon was located (D).</sentence>
+<sentence id="s66">Recital E was that AOHL had agreed to supply water, and that AOL had agreed to take water, to enable AOL to comply with its duty to irrigate the Members' Groves under the Grove Agreements.</sentence>
+<sentence id="s67">By the CWSA, AOHL agreed to supply water to AOL and AOL agreed to take water from AOHL in the manner and on terms in accordance with the CWSA: cl 2(a).</sentence>
+<sentence id="s68">According to cl 2(b) the supply of water was to continue for the term of the CWSA.</sentence>
+<sentence id="s69">Although cl 3(b) provided that the CWSA would continue until the expiry of 80 years from its commencement, AOHL accepts that the CWSA could operate only for the term of the respective MISs, namely, 21 years.</sentence>
+<sentence id="s70">Clause 4.1 of the CWSA provided, relevantly, that AOHL undertook to "observe and perform the following obligations": 
+ 
+ (a) Subject to clause 4.1(b), supply the Manager with a maximum annual allocation of up to five megalitres of water per hectare of Groves and, if relevant, supply water for each Grove to which the Manager is obliged to supply water under any Grove Agreements even if the Manager is not obliged to continue carrying out the remaining duties under any of those Grove Agreements.</sentence>
+<sentence id="s71">
+ 
+
+ 
+ 
+ (b) For Projects in existence at 1 July 2002 the Water Owner must supply the Manager with the following water allocations: 
+ 
+
+ 
+ 
+ (i) Up to 0.8 megalitres of water per annum for each Grove that is part of a Project based on an individual Grove size of 1,600 square metres.</sentence>
+<sentence id="s72">
+ 
+
+ 
+ 
+ (ii) Up to 1.0 megalitre of water per annum for each Grove that is part of a Project based on an individual Grove size of 2,000 square metres.</sentence>
+<sentence id="s73">
+ 
+
+ 
+ 
+ (c) For Projects which have commenced or will commence subsequent to 1 July 2002, the water allocation for each Grove will be an amount that equates to an allocation of up to five megalitres per hectare of Groves.</sentence>
+<sentence id="s74">
+ 
+
+ 
+ 
+ (d) In the event that at any time during the term of this Agreement the Water Resource is less than total capacity, supply the Manager with a pro-rata amount of water under clauses 4.1(a), 4.1(b) or 4.1(c) (as the case may be) which is in the same proportion that the lesser amount bears to the total capacity of the Water Resource.</sentence>
+<sentence id="s75">...
+ (f) Do all things necessary to maintain the availability of the supply of water to the Manager in accordance with this Agreement, including maintain, and comply with the conditions of, the water licence attached or relating to the Water Land.</sentence>
+<sentence id="s76">...
+ (h) Allow the Manager free and uninterrupted access to the Water Land for any purpose for which the Manager may lawfully be upon the Water Land including and, without limiting the generality of this clause 4.1(h) the purposes of --- 
+ 
+
+ 
+ 
+ (i) installing and maintaining the Reticulation Equipment 
+ 
+
+ 
+ 
+ (ii) installing and maintaining the Pumping Equipment, and 
+ 
+
+ 
+ 
+ (iii) operating and maintaining the Water Resource in a good and workmanlike manner in order to maintain the Water Resource and its water capacity and improve reticulation.</sentence>
+<sentence id="s77">[My emphasis] 
+ 
+
+ AOL's obligations were set out in cl 4.2.</sentence>
+<sentence id="s78">The first obligation was to pay AOHL the fees provided for in the CWSA.</sentence>
+<sentence id="s79">The other obligations were to maintain AOL's Pumping Equipment and the Reticulation Equipment at AOL's cost and to operate and maintain the Lagoon in a good and workmanlike manner in order to maintain the Lagoon and its water capacity and to improve reticulation.</sentence>
+<sentence id="s80">The fees referred to cl 4.2 were the subject of cl 5 which provided, relevantly: 
+ 
+ 5.1 Fees payable 
+ 
+
+ 
+ 
+ In consideration of the Water Owner supplying water under this Agreement the Manager must pay to the Water Owner a fee.</sentence>
+<sentence id="s81">The fee will be payable in the manner provided for in this clause 5.</sentence>
+<sentence id="s82">
+ 
+
+ 
+ 
+ 5.2 Annual Base Fee 
+ 
+
+ 
+ 
+ (a) Notwithstanding the provisions of this Agreement before it was varied by the Deed of Variation [defined as a deed executed by AOL, AOHL and COGL in or about October 2002 which varied a water supply agreement of 1997], the parties agree that on and from 1 July 2002 the base fee per Grove payable under this Agreement will be replaced by an annual base fee.</sentence>
+<sentence id="s83">The annual base fee will be payable in the manner and at the times provided in this clause 5.2.</sentence>
+<sentence id="s84">
+ 
+
+ 
+ 
+ (b) The annual base fee for the year commencing on 1 July 2002 will be $1,490,000 per annum.</sentence>
+<sentence id="s85">... 
+ 
+
+ Clause 5.2(c) provided for adjustment of the annual base fee on 1 July in each subsequent year, and set out a formula for the adjustment.</sentence>
+<sentence id="s86">Clause 5.4 provided that on and from 1 July 2002, AOL would pay the annual base fee to AOHL, free of any deductions, by equal monthly instalments in advance on the first day of each month with, if applicable, a proportional payment for any broken portion of a month at the termination of the CWSA.</sentence>
+<sentence id="s87">Clauses 6.3 and 6.4 provided as follows: 
+ 
+ 6.3 Retirement or replacement of Manager 
+ 
+
+ 
+ 
+ The parties acknowledge that in respect of Projects established by the Manager as managed investment schemes and which are dependent upon the Water Resource the Manager may retire or be removed under the Act [a reference to the Corporations Act 2001 (Cth)].</sentence>
+<sentence id="s88">The procedure set out in Clause 7 must be followed by the Manager if the Manager retires or is removed under the Act.</sentence>
+<sentence id="s89">
+ 
+
+ 
+ 
+ 6.4 Sale of Water Land 
+ 
+
+ 
+ 
+ The Water Owner must not sell or transfer the Water Land without first having the purchaser or transferee of the Water Land (the Purchaser) entering [sic --- enter into] a deed with the Manager and the Land Owner.</sentence>
+<sentence id="s90">The deed must contain a covenant by the Purchaser in favour of the Manager and the Land Owner to observe and perform all or any of the covenants --- 
+ 
+
+ 
+ 
+ (a) contained or implied in this Agreement or any assignment of this Agreement, and 
+ 
+
+ 
+ 
+ (b) required to be observed or performed by the Water Owner under this Agreement or any assignment of this Agreement.</sentence>
+<sentence id="s91">
+ 
+
+ Clause 7.1(a) and (b) of the CWSA provided as follows: 
+ 
+ 7.1 Termination of Projects 
+ 
+
+ 
+ 
+ (a) This clause 7.1 applies if --- 
+ 
+
+ 
+ 
+ (i) the Projects end or are validly terminated for any reason 
+ 
+
+ 
+ 
+ (ii) the Manager is no longer the lessee under the Lease for any reason, including but not limited to valid termination of the Lease by either party or in accordance with clause 6 of this Agreement, or 
+ 
+
+ 
+ 
+ (iii) for any reason there is a removal or retirement of the Manager under the Act.</sentence>
+<sentence id="s92">
+ 
+
+ 
+ 
+ (b) If any of the events in clause 7.1(a) occur, and in the case of the event in clause 7.1(a)(i), the Manager is not the manager of the olive groves on the Land, then from the time that the event occurs --- 
+ 
+
+ 
+ 
+ (i) the Manager will be released from any further obligation to pay the annual base fee under this Agreement (but all other accrued rights, liabilities and obligations that arose prior to the time that the event occurs remain in addition to the obligation of the Manager under clauses 7.1(c) and (d)) 
+ 
+
+ 
+ 
+ (ii) the Water Owner and the Land Owner must immediately enter arrangements with each other on substantially the same terms as this Agreement in order to maintain a water supply to the Groves, or that part of the Land planted to olive trees (as the case may be), which for the sake of clarity includes --- 
+ 
+
+ the Water Owner and the Land Owner entering a lease on substantially the same terms as the Lease, and
+ payment of the annual base fee by the Land Owner to the Water Owner which will be payable from the date that the event referred to above occurs, and
+ 
+ 
+ (iii) the Water Owner and the Land Owner must do all things and enter any documentation necessary to give effect to those arrangements contemplated by clause 7.1(b)(ii).</sentence>
+<sentence id="s93">[My emphasis] 
+ 
+
+ 
+Clause 7.1(c) provided that if any of the situations described in the opening words of para (b) of cl 7.1 occurs, AOL must transfer ownership of its Pumping Equipment and the Reticulation Equipment to COGL at a price to be agreed on by them being not less than their replacement cost including installation costs.</sentence>
+<sentence id="s94">Paragraph (d) of cl 7.1 provided for the resolution of any dispute between AOL and COGL about the replacement cost.</sentence>
+<sentence id="s95">The "Pumping Equipment" was defined to mean the water pumping plant and equipment, existing and future, owned by AOL which was or would be used to pump water into the Lagoon within Lot 11.</sentence>
+<sentence id="s96">The "Reticulation Equipment" was defined to mean that part of the reticulation and irrigation plant and equipment located on Lot 11 and owned by AOL, that was or would be used to pump water from that Lagoon to irrigate Groves or land planted to olive trees.</sentence>
+<sentence id="s97">Paragraph (c) of cl 7.1 also provided that the equipment mentioned was to remain in situ "in accordance with the provisions of the Lease [see below]".</sentence>
+<sentence id="s98">Clause 7.2 provided that in order the better to protect the interests of members of the Projects both during and after the subsistence of the Projects by ensuring that there could be a continual supply of water to any land on which the Groves were located or which were planted to olive trees, and as an inducement to AOL to enter into the CWSA, AOHL agreed to grant to COGL an easement for the supply of water over Lot 11.</sentence>
+<sentence id="s99">The easement was to be in the form of Schedule 3 to the CWSA.</sentence>
+<sentence id="s100">AOHL agreed to grant a similar easement in favour of COGL for the benefit of each lot owned by COGL to be used for the Projects as soon as reasonably practicable.</sentence>
+<sentence id="s101">Also by cl 7.2, AOHL agreed to grant to AOL an easement for the supply of water in the form of Schedule 4 to the CWSA over Lot 11.</sentence>
+<sentence id="s102">Clause 7.2 provided that the easement was "[d]uring the period [AOL was] entitled to water supply under the [CWSA]".</sentence>
+<sentence id="s103">The form in Schedule 4 provided for the grantee to be AOL "or such other permitted assignee or successor ... of AOL under the [CWSA]".</sentence>
+<sentence id="s104">I was told that instead of granting an easement, AOHL leased to AOL Lot 11 (and Lot 394 CPML 1751 --- an "administration block" (Lot 394)) from 1 October 2002 to 30 June 2023 with six options of renewal, which, if exercised, would take the period of the lease up to 30 June 2078.</sentence>
+<sentence id="s105">Oddly, although (a) the form of this lease is found in Schedule 5 to the CWSA, and (b) the expression "Lease" is defined in Schedule 1 (Dictionary) to the CWSA as the lease to be entered into between AOHL and AOL "if clause 7.1(b) applies" on terms substantially the same as those appearing in Schedule 5, and there are references to the Lease in cll 6.1, 7.1(a)(ii) and 7.1(c), there is not any actual undertaking to grant or take the Lease in the CWSA.</sentence>
+<sentence id="s106">Lease No 706189421 of Lot 11 and Lot 394 was executed by AOHL as lessor and AOL as lessee on 21 October 2002 and by a guarantor on 23 October 2002.</sentence>
+<sentence id="s107">The permissible use was "[a]gricultural plantation maintenance, management, promotion, and any ancillary or related purposes".</sentence>
+<sentence id="s108">Part IV of the Lease provided that AOL was permitted to pump and reticulate water on and from the demised premises at AOL's expense.</sentence>
+<sentence id="s109">AOL undertook to maintain and repair the Pumping Equipment and the Reticulation Equipment.</sentence>
+<sentence id="s110">AOHL was given a right to inspect the equipment and, if necessary, to service, maintain and repair it at AOL's expense.</sentence>
+<sentence id="s111">Clause 16.04 of the Lease provided that if the CWSA should be terminated or AOL be relieved of its obligation to pay the annual base fee thereunder, the Lease was automatically terminated.</sentence>
+<sentence id="s112">The picture that emerges from the documents is that AOL was able, by reason of being the lessee of Lot 11 and having its Reticulation Equipment and Pumping Equipment on Lot 11 (see cl 4.1(h) of the CWSA), itself to take the water from the Lagoon that AOHL had undertaken to supply to it, and that upon the removal or replacement of AOL as RE, a new r&eacute;gime as between AOHL and COGL was to come into operation, without any reference to a new RE or its role.</sentence>
+<sentence id="s113">Clause 10 of the CWSA made the law of Queensland the proper law of the contract.</sentence>
+<sentence id="s114">Clause 12 of the CWSA provided for severance in case any provision of the CWSA should be found to be prohibited by law.</sentence>
+<sentence id="s115">The Prospectuses for the MISs
+ The prospectuses for Projects 4, 5 and 6 were of generally similar effect.</sentence>
+<sentence id="s116">My attention was directed to that for Project 4 dated 26 April 2001.</sentence>
+<sentence id="s117">The Project 4 prospectus could be relevant to the construction of the CWSA because it formed part of the background known to the parties to the CWSA when they entered into it.</sentence>
+<sentence id="s118">However, the prospectuses for Projects 5 and 6 post-dated the CWSA and could not be relevant to its construction.</sentence>
+<sentence id="s119">I will refer to the prospectus for Project 4 as "the Prospectus".</sentence>
+<sentence id="s120">The Prospectus stated (p 2) that by entering into a Grove Licence Agreement with COGL, each Member would have the right during the term of the Project to use and occupy a separate and independently identifiable area of the Project land (known as a Grove) on which olive trees would be grown.</sentence>
+<sentence id="s121">Each Member would enter into a management agreement (called "Grove Agreement") with AOL.</sentence>
+<sentence id="s122">A Member had the opportunity for the Member or the Member's nominated associate to acquire a certain number of ordinary shares in COGL (p 2).</sentence>
+<sentence id="s123">This was in addition to the interests offered by AOL in the Project.</sentence>
+<sentence id="s124">According to p 7 of the Prospectus, the opportunity offered was to carry on the business of the commercial growing of olives.</sentence>
+<sentence id="s125">On offer were interests in 4,800 Groves, each Grove having an area of 0.2 ha (2,000 m 2 ), to be planted with 71 olive trees.</sentence>
+<sentence id="s126">The application price for each Grove was said to be $8,605.00 plus GST.</sentence>
+<sentence id="s127">Members were each to enter into a "Grove Licence Agreement" (with COGL) which would give the Member a licence to use and occupy a 0.2 ha Grove.</sentence>
+<sentence id="s128">They were also to enter into a "Grove Agreement" (with AOL) under which AOL was to establish and maintain the Grove until 30 June 2023.</sentence>
+<sentence id="s129">In addition, AOL undertook to harvest and market the olives as agent for the Member at the maximum obtainable price.</sentence>
+<sentence id="s130">However, a Member was to have the right to elect to have olives harvested and/or marketed independently of AOL.</sentence>
+<sentence id="s131">For an additional $200.00, holders of Grove Licences or their nominated associates would be entitled to acquire one parcel of 187 ordinary shares in COGL for each 0.2 ha Grove held.</sentence>
+<sentence id="s132">When GST was added on to the $8,605.00 mentioned above, the total application price per Grove was $9,465.50, to which $200.00 was to be added if a parcel of 187 ordinary shares in COGL was also to be acquired.</sentence>
+<sentence id="s133">Each Member was to pay AOL an annual fee of $1,470.00 per Grove (plus GST and subject to CPI increases) for ongoing maintenance.</sentence>
+<sentence id="s134">In addition, an annual base fee of $25.00 (plus GST and subject to CPI increases) per Grove was to be paid to COGL for the Member's right to use and occupy the Grove.</sentence>
+<sentence id="s135">These fees were payable under the terms of the Grove Agreement and the Grove Licence Agreement.</sentence>
+<sentence id="s136">AOL was to install necessary irrigation works to ensure proper reticulation of water, to carry out drainage works to prevent soil erosion, and generally to maintain the Groves in accordance with sound agricultural and environmental practices (p 8).</sentence>
+<sentence id="s137">The Prospectus recorded that the Lagoon was a permanent freshwater lake, recently enlarged to approximately 400 acres to hold an average depth of 6 metres making the capacity 7,300 megalitres (p 10).</sentence>
+<sentence id="s138">The Prospectus stated (p 10) that COGL had held an option, since expired, to acquire Lot 11 from AOHL, and that AOHL would negotiate with COGL for the sale of Lot 11 to COGL on commercial terms.</sentence>
+<sentence id="s139">No sale eventuated.</sentence>
+<sentence id="s140">The Prospectus referred (p 10) to the CWSA (or more accurately to an earlier water supply agreement entered into in 1997) and to the potential grant of an easement by COGL to AOHL to ensure that various water works on COGL's land were available to AOHL.</sentence>
+<sentence id="s141">The Prospectus stated (p 10) that COGL had leased the "Project Land" to AOL under a lease to expire on 1 July 2023, which was one day after the end of the term of the Project.</sentence>
+<sentence id="s142">The Prospectus noted (p 23) that for maximum high quality production, the total water requirement was 9-10 megalitres per hectare.</sentence>
+<sentence id="s143">It stated (p 12) that a reduction or interruption of water supply may lead to the expected yield not being achieved.</sentence>
+<sentence id="s144">It also noted (p 24) that the North West Dam had been completed and had the capacity to collect natural rainfall and pump it into the Lagoon.</sentence>
+<sentence id="s145">The Prospectus stated (p 44) that the Constitution of the Project was the primary document governing the relationship between investors and AOL.</sentence>
+<sentence id="s146">The Prospectus stated (p 45) that under the Constitution AOL had a right of indemnity out of the Project Property in respect of liabilities incurred in performance of its duties and for all fees and costs recoverable by it under the Constitution (see below).</sentence>
+<sentence id="s147">THE CONSTITUTION 
+ The Constitution of each of Projects 4, 5 and 6 was in evidence and my attention was directed, in particular, to the Constitution dated 14 March 2001 for Project No 4, on the basis that there was no material difference between the Constitutions.</sentence>
+<sentence id="s148">Clause 3.1 provided in substance that all Project Property would be held by the RE on trust for the Members for the term of the Project.</sentence>
+<sentence id="s149">Clause 6.1 provided that AOL must wind up the Project or cause it to be wound up if, inter alia, the Project should be without an RE (para (b) of cl 6.1) or if the Members held a validly called meeting and voted by extraordinary resolution to remove the RE, but did not, at the same meeting, pass an extraordinary resolution choosing a new RE that consented to becoming the Project's RE (para (d) of cl 6.1).</sentence>
+<sentence id="s150">Clause 7.1 provided that the RE was entitled to be paid fees of the amount and in the manner set out in Item 3 in Schedule 3.</sentence>
+<sentence id="s151">Those fees were $8,580.00 for management of a Member's Grove from the date the person became a Member to the next 30 June; for the next financial year $11,470.00; for each subsequent financial year of the Project an amount equal to the previous year's fee increased in accordance with movements in the CPI; and for harvesting, a fee equal to the amount that the RE actually expended in harvesting.</sentence>
+<sentence id="s152">The RE's "legal recourse for its fees and payments is through the Grove Agreements" according to Item 3.</sentence>
+<sentence id="s153">Consistently with that position, Item 3 stated that the fees and payments were noted in that Item "as a matter of record".</sentence>
+<sentence id="s154">Clause 7.2 provided that the RE was entitled to recover from the "Proceeds Fund" "costs" of the kind and in the manner set out in Item 3 in Schedule 3 to the Constitution .</sentence>
+<sentence id="s155">However, Item 3 does not set out any "costs".</sentence>
+<sentence id="s156">Clause 8.1 assumed importance.</sentence>
+<sentence id="s157">It gave the RE a right of indemnity out of both the "Application Fund" and the "Proceeds Fund" in the following terms: 
+ 
+ Indemnity from the Project 
+ 
+
+ 
+ 
+ (a) The Responsible Entity has a right of indemnity out of the Funds and the Project Property in respect of- 
+ 
+
+ 
+ 
+ (i) any liability incurred by the Responsible Entity in the performance of its duties in respect of the Project, and 
+ 
+
+ 
+ 
+ (ii) all fees payable to and costs recoverable by the Responsible Entity under this Constitution .</sentence>
+<sentence id="s158">
+ 
+
+ 
+ 
+ (b) However, this indemnity does not apply where there has been any negligence, deceit, breach of duty, fraud or breach of trust on the part of the Responsible Entity.</sentence>
+<sentence id="s159">
+ 
+
+ The two "Funds" mentioned were provided for in cl 12.2.</sentence>
+<sentence id="s160">That clause required the RE to open, or cause to be opened, two bank accounts for the Project.</sentence>
+<sentence id="s161">One was called an "Application Fund" into which was to be deposited all money received from persons applying to become Members (Applicants) including accrued interest and any money incidental to the making of the applications.</sentence>
+<sentence id="s162">The other was called a "Proceeds Fund" into which was to be deposited all money generated from the Project and Members of the Project, excluding the money paid into the Application Fund by Applicants.</sentence>
+<sentence id="s163">Clause 11, which deals with the term (duration) of the Project, refers to the Grove Licence Agreements and Grove Agreements.</sentence>
+<sentence id="s164">It states that the Project is established, inter alia , to allow successful Applicants to enter into Grove Licence Agreement for the use of the Grove as a farm, and to enter into a Grove Agreement appointing the RE to manage the person's business.</sentence>
+<sentence id="s165">The expressions "Grove Licence Agreement" and "Grove Agreement" are defined as agreements in the forms of the agreements contained in Schedules 6 and 5 to the Constitution respectively, or as substituted or amended under certain conditions.</sentence>
+<sentence id="s166">Under the Grove Licence Agreement COGL grants to the Member a licence to use and occupy the relevant Grove for the planting, growing, harvesting and marketing of olives.</sentence>
+<sentence id="s167">The right of occupation is non-exclusive.</sentence>
+<sentence id="s168">The term is until the earlier of the termination of the Member's Interest and 30 June 2023.</sentence>
+<sentence id="s169">Under cl 6, the Member must pay to COGL a licence fee of $25 (indexed) per Grove.</sentence>
+<sentence id="s170">The obligations of the Member, COGL and AOL are set out.</sentence>
+<sentence id="s171">As RE, AOL must, at its expense, construct an external boundary fence and access roads and pathways.</sentence>
+<sentence id="s172">By cl 16 the rights and obligations of the three parties under the Grove Licence Agreement are made subject to the Constitution .</sentence>
+<sentence id="s173">Under the Grove Agreement AOL's duties are far more extensive.</sentence>
+<sentence id="s174">They are classified as "Planting and initial maintenance" (cl 4.1) and "Ongoing management and harvesting duties" (cl 4.3).</sentence>
+<sentence id="s175">AOL's remuneration is provided for (cll 6 and 7).</sentence>
+<sentence id="s176">Clause 6 provides that the RE is entitled to be paid, for carrying out its initial (cl 4.1) duties, a sum of $8,580, and for carrying out its subsequent (cl 4.3) duties a sum of $1,470 for the first year and a CPI adjusted amount for each subsequent year.</sentence>
+<sentence id="s177">Clause 6 provides that in each case the Member must pay the fee to the RE on application (the clause erroneously says "on Application"), meaning upon demand by the RE.</sentence>
+<sentence id="s178">Clause 7 provides for the Member to pay the RE a harvesting fee but the Member may elect to harvest and market the olives on the Member's Grove (cl 5.3), in which case, of course, the harvesting fee is not payable to the RE.</sentence>
+<sentence id="s179">Clause 19 makes the rights and obligations of the Member and AOL under the Grove Agreement subject to the Constitution .</sentence>
+<sentence id="s180">Clause 24.2 of the Constitution provided as follows: 
+ 
+ Payments in respect of the Project 
+ 
+
+ 
+ 
+ (a) The Responsible Entity must pay from its own assets the following expenses: 
+ 
+
+ 
+ 
+ (i) All costs, expenses, commissions, fees, rates, taxes (including income tax), supervision and management charges, and other charges or outgoings payable in accordance with this Constitution in respect of the Interests.</sentence>
+<sentence id="s181">
+ 
+
+ 
+ 
+ (ii) All fees and expenses of any agents appointed by the Responsible Entity.</sentence>
+<sentence id="s182">
+ 
+
+ 
+ 
+ (iii) All costs and expenses incurred in or in connection with the preparation of any amendments, modifications or additions to the provisions of this Constitution , unless otherwise provided by Law or as agreed by the Members.</sentence>
+<sentence id="s183">
+ 
+
+ 
+ 
+ (iv) Costs of convening and holding any meeting of Members, except as provided by Law.</sentence>
+<sentence id="s184">
+ 
+
+ 
+ 
+ (v) Any costs and disbursements reasonably and properly incurred which are payable to any consultant, adviser, specialist, accountant, lawyer or other professional consultants engaged by the Responsible Entity.</sentence>
+<sentence id="s185">
+ 
+
+ 
+ 
+ (b) The Responsible Entity does not pay any fee or outlay stated to be a payment due from Members under the Grove Licence Agreements or the Grove Agreements.</sentence>
+<sentence id="s186">These amounts must be paid by the Members.</sentence>
+<sentence id="s187">
+ 
+
+ CONSIDERATION 
+ It is plain that the CWSA is to be construed in the light of the Act, and, in particular, Pt 5C.2 headed "The Responsible Entity", comprising ss 601FA-601FT.</sentence>
+<sentence id="s188">Sections 601FS and 601FT were considered in Re Investa Properties Ltd [2001] NSWSC 1089 ; (2001) 187 ALR 462 and Syncap Management (Rural) Australia Ltd (ACN 095 807 837) v Lyford (2004) 51 ACSR 223.</sentence>
+<sentence id="s189">In the former case, Barrett J said (at [11]) that ss 601FS(1) and 601FT(1) appeared to be intended to cause an incoming RE to "step into the shoes of its predecessor".</sentence>
+<sentence id="s190">It is convenient to deal with the issues of construction that divide the parties by reference to Huntley's submissions.</sentence>
+<sentence id="s191">Contract Claim
+ The argument based on cll 7.1(a)(iii) and 7.1(b)(i) of the CWSA
+ The three subparagraphs of cl 7.1(a) describe events or situations which make it no longer possible for AOL to take water from AOHL and to discharge those of its obligations as RE that are relevant to the CWSA.</sentence>
+<sentence id="s192">Clause 7.1(b)(i) distinguishes between obligations that accrued before and those that accrued after the event or situation referred to in cl 7.1(a) occurred or commenced to exist.</sentence>
+<sentence id="s193">Like cl 6.3, cl 7.1(b), says nothing about the responsibility of a newly appointed RE that replaces an incumbent RE.</sentence>
+<sentence id="s194">The CWSA could not impose obligations on a newly appointed RE because it was not a party to the CWSA.</sentence>
+<sentence id="s195">It is interesting that the CWSA purported to impose obligations on a successor in the case of the "Land Owner" and the "Water Owner" by reason of the definitions of those expressions to include, respectively, the permitted successors or assigns which owned the land on which the Projects were established excluding Lot 11, and the registered proprietor of Lot 11 for the time being.</sentence>
+<sentence id="s196">In contrast, the "Manager" is defined neither in the dictionary in Schedule 1 to the CWSA, nor in the dictionary to the Constitution that is imported into the CSWA by cl 1.1.</sentence>
+<sentence id="s197">The "Manager" is simply denoted as AOL, without any reference to a successor RE, although the definition of RE in the Constitution makes reference to the RE for the time being and the possibility of a replacement RE.</sentence>
+<sentence id="s198">Huntley relies on cl 7.1(b)(ii) and (iii) which establish a r&eacute;gime that is to come into effect when, relevantly, AOL is removed or retires as RE.</sentence>
+<sentence id="s199">That r&eacute;gime must be entered into immediately by AOHL and COGL.</sentence>
+<sentence id="s200">Paragraph (c) is, according to Huntley's submission, consistent with that r&eacute;gime: it provides for AOL to sell the Pumping Equipment and the Reticulation Equipment to COGL.</sentence>
+<sentence id="s201">AOHL submits that cll 7.1(a)(iii), (b), (c) and (d) apply only where there is no replacement of the RE who is removed or retires, whereas Huntley points out that the CWSA expresses no such limitation.</sentence>
+<sentence id="s202">In any event, so Huntley submits, that situation could not, as a practical matter, ever arise because of the provisions of ss 601FL(3) and 601FN of the Act.</sentence>
+<sentence id="s203">I have come to the view that Huntley's submissions should be accepted.</sentence>
+<sentence id="s204">Clause 6.3 (set out at [38] above) shows that the parties to the CWSA had in mind the provisions of the Act relating to the retirement and removal of REs when they entered into the CWSA.</sentence>
+<sentence id="s205">Yet they stipulated that the procedure set out in cl 7 "must be followed" if AOL should retire or be removed under the Act.</sentence>
+<sentence id="s206">This provision and cl 7.1(a)(iii) do not lend themselves to a reading down so as to apply only to situations in which no new RE is appointed.</sentence>
+<sentence id="s207">Both parties accept that the Act reflects a policy that a registered MIS should always have an RE.</sentence>
+<sentence id="s208">Clause 7.1(a)(iii) would unacceptably limit the scope of the operation of cl 7.1(b) if it referred only to those situations in which there was an effective removal or retirement without a replacement.</sentence>
+<sentence id="s209">The question that then arises is whether ss 601FS and 601FT alter this result.</sentence>
+<sentence id="s210">In my opinion they do not.</sentence>
+<sentence id="s211">The construction supported by AOHL would involve re-writing the CWSA by omitting its various provisions as to what is to happen upon the removal or retirement of AOL as RE.</sentence>
+<sentence id="s212">I do not think that s 601FS(1) of the Act requires or permits this to be done.</sentence>
+<sentence id="s213">The "rights, obligations and liabilities of the former responsible entity" to which s 601FS(1) refers are impliedly limited to those that are capable of having an ongoing operation after the change in RE.</sentence>
+<sentence id="s214">Paragraph (b) of s 601FT(1) reflects this idea expressly in the words "that is capable of having effect after the change".</sentence>
+<sentence id="s215">If the CWSA did not provide for the effect on it of a removal or retirement of AOL, it would make sense to conceive of the new RE as stepping into the shoes of the outgoing one.</sentence>
+<sentence id="s216">That would be a situation in which the rights, obligations and liabilities of the former RE had an ongoing operation.</sentence>
+<sentence id="s217">It is a matter for the members of an MIS when considering whether to remove and replace an RE, and for a company (of a kind described in s 601FA) when considering whether to accept appointment as a new RE, to take into account the contractual arrangements that the current RE has made and their effect on whether the new RE will be able to perform its statutory and other obligations.</sentence>
+<sentence id="s218">The conclusion which I have just reached makes it unnecessary for me to consider Huntley's other two arguments in relation to AOHL's contractual claim but I will do so briefly.</sentence>
+<sentence id="s219">The exception provided for in s 601FT(2)
+ Sections 601FS and 601FT were set out at [17] above.</sentence>
+<sentence id="s220">Huntley argues that s 601FT(1) does not apply because: Huntley's argument is that cll 4.1 and 4.3 of the Grove Agreements (referred to at [73] above), which are to be read subject to the Constitution , provide that the RE is under an obligation to irrigate the Member's Grove, and that cl 24.2 of the Constitution (set out at [75] above) provides that the RE must pay "from its own assets", inter alia , "[a]ll costs, expenses, commissions, fees ... payable in accordance with this Constitution in respect of the Interests".</sentence>
+<sentence id="s221">The expression "Interest" is defined in the Dictionary contained in Schedule 1 to the Constitution as follows: 
+ 
+ The interest in the Project a Member acquires by applying under the Prospectus and having the Application accepted by the Responsible Entity.</sentence>
+<sentence id="s222">An Interest includes a Member's participation in a Grove Licence Agreement and a Grove Agreement.</sentence>
+<sentence id="s223">A single Interest is held in respect of a single Grove, two Interests are held in respect of two Groves and so on.</sentence>
+<sentence id="s224">An Interest also includes- 
+ 
+
+ 
+ 
+ (a) the Member's business in carrying on the primary production enterprise of planting, maintaining, harvesting and selling the produce from the Grove, and 
+ 
+
+ 
+ 
+ (b) the net proceeds which result from the Member carrying on its business.</sentence>
+<sentence id="s225">
+ 
+
+ AOHL, on the other hand, relies on the terms of the indemnity contained in cl 8.1 of the Constitution which was set out at [68] above.</sentence>
+<sentence id="s226">There is a threshold question as to the meaning of s 601FS(2)(d).</sentence>
+<sentence id="s227">Does the expression "could not have been indemnified out of the scheme property" mean "could not as a matter of legal entitlement" or "could not as a matter of fact"?</sentence>
+<sentence id="s228">Clause 8.1(b) described a disentitlement ("negligence, deceit, breach of duty, fraud or breach of trust...").</sentence>
+<sentence id="s229">It may be, however, that although that exclusion does not apply, there is as a matter of fact no "scheme property" within the meaning of the Act out of which a former RE could have been indemnified.</sentence>
+<sentence id="s230">The definition of the expression "scheme property" in s 9 of the Act is as follows: 
+ 
+ scheme property of a registered scheme means: 
+ 
+
+ 
+ 
+ (a) contributions of money or money's worth to the scheme; and 
+ 
+
+ 
+ 
+ (b) money that forms part of the scheme property under provisions of this Act or the ASIC Act; and 
+ 
+
+ 
+ 
+ (c) money borrowed or raised by the responsible entity for the purposes of the scheme; and 
+ 
+
+ 
+ 
+ (d) property acquired, directly or indirectly, with, or with the proceeds of, contributions or money referred to in paragraph (a), (b) or (c); and 
+ 
+
+ 
+ 
+ (e) income and property derived, directly or indirectly, from contributions, money or property referred to in paragraph (a), (b), (c) or (d).</sentence>
+<sentence id="s231">
+ 
+
+ 
+The reference to a "scheme" is, of course, a reference to a managed investment scheme which is defined in s 9 of the Act to mean, relevantly:
+ 
+ 
+ (a) a scheme that has the following features: 
+ 
+
+ 
+ 
+ (i) people contribute money or money's worth as consideration to acquire rights ( interests ) to benefits produced by the scheme (whether the rights are actual, prospective or contingent and whether they are enforceable or not); 
+ 
+
+ 
+ 
+ (ii) any of the contributions are to be pooled, or used in a common enterprise, to produce financial benefits, or benefits consisting of rights or interests in property, for the people (the members ) who hold interests in the scheme (whether as contributors to the scheme or as people who have acquired interests from holders); 
+ 
+
+ 
+ 
+ (iii) the members do not have day-to-day control over the operation of the scheme (whether or not they have the right to be consulted or to give directions);... 
+ 
+
+ In order to answer the question whether AOL could or could not have been indemnified out of scheme property for the purposes of s 601FS(2)(d) in the present case, it is necessary to inquire whether the "Project Property" and the two Funds, the "Application Fund" and the "Proceeds Fund", fall within the statutory definition of "scheme property".</sentence>
+<sentence id="s232">Senior counsel for Huntley submits that the Projects did not involve the holding and management of "scheme property" over any significant period of time.</sentence>
+<sentence id="s233">This submission is based on the separateness of the business conducted by each Member.</sentence>
+<sentence id="s234">Huntley did not pursue some of the questions it raised to a conclusion, contenting itself with a more specific submission.</sentence>
+<sentence id="s235">This was that under each Grove Agreement, the Member undertook to pay AOL for managing the Member's Grove, including supplying it with water, and even if some scheme property could be identified, it would be unthinkable that AOL would be entitled to be indemnified out of it in respect of its liability to pay AOHL because this would be to allow double payment: payment by the Member under the Grove Agreement and payment out of the scheme property under cl 8.1 of the Constitution .</sentence>
+<sentence id="s236">I will deal only with this submission advanced by Huntley.</sentence>
+<sentence id="s237">It would be possible to discuss at great length the various inter-relationships between the Grove Agreements, cll 8.1 and 24.2 of the Constitution and the CWSA, and also the relationship between them and ss 601FS(2)(d) and 601FT(2) of the Act.</sentence>
+<sentence id="s238">I referred earlier (at [73]) to cll 4.1, 4.3, 6 and 7 of the Grove Agreement.</sentence>
+<sentence id="s239">There can be no doubt that AOL undertook in comprehensive terms to supply the Member with adequate water up to a maximum of 0.8 megalitres to irrigate the Member's Grove and in fact to irrigate that Grove: see cll 4.1(g) and (h) and 4.3(a) and (b) .</sentence>
+<sentence id="s240">The Member's undertaking to pay the fees to the RE is a personal one and there is no provision in the Grove Agreement for an indemnity out of any property.</sentence>
+<sentence id="s241">It suffices to state my conclusion in summary form.</sentence>
+<sentence id="s242">According to cl 8.1 of the Constitution the indemnity is out of "the Funds" and the "Project Property".</sentence>
+<sentence id="s243">The Constitution 's definition of "Project Property" distinguishes between funds, investments and other property that are held in common and those that are vested in individual Members.</sentence>
+<sentence id="s244">The definition treats "Project Property" as being the same as "Scheme Property.</sentence>
+<sentence id="s245">" The definition of the expression is as follows: 
+ 
+ The Funds, all Investments, assets and any other property acquired throughout the term of the Project using the money or property contributed by Members, but excluding any assets or other property vested directly in the Members.</sentence>
+<sentence id="s246">For example, Project Property will include- 
+ 
+
+ Application Money pending its use for each of the Members to acquire their Interest 
+ Primary produce held by the Responsible Entity pending sale by the Responsible Entity on behalf of Members, and 
+ cash generated by the Responsible Entity from the sale of produce on behalf of Members, pending distribution.</sentence>
+<sentence id="s247">
+ 
+ 
+ but does not include- 
+ 
+
+ the separate and distinct primary production business operated by the Member, and 
+ any sale proceeds generated by the Member on his/her/its own account.</sentence>
+<sentence id="s248">
+ 
+The same distinction is recognised in cl 3.1 of the Constitution which provides that all Project Property is to be held by the RE on trust for the Members, and that the Members' interests in the Project Property are to be in proportions as determined by a certain formula.</sentence>
+<sentence id="s249">Under the Grove Licence Agreement, however, it is the individual Member who has the licence and who will own the olives harvested (the trees belong to COGL).</sentence>
+<sentence id="s250">The olives and the trees are not part of the Project Property referred to in cl 8.1(a) of the Constitution .</sentence>
+<sentence id="s251">I noted the definitions of the Funds at [69] above.</sentence>
+<sentence id="s252">The indemnity is given over money and other property held by the RE unless and until there has been an appropriation to individual Members.</sentence>
+<sentence id="s253">The point is made by the repeated use of the word "pending" in the definition of "Project Property" set out above.</sentence>
+<sentence id="s254">I do not see any basis on which the words "any liability incurred by the Responsible Entity in the performance of its duties in respect of the Project" in cl 8.1(a)(i) can be read down to exclude the liabilities that AOL assumed under the CWSA.</sentence>
+<sentence id="s255">The word "Project" is defined broadly in the Constitution 's dictionary to mean "the managed investment scheme established by this Constitution ".</sentence>
+<sentence id="s256">AOL bought AOHL's undertaking to supply water for the benefit of all Members of all grove Projects.</sentence>
+<sentence id="s257">Huntley did not dispute that there were funds and property that were, if only temporarily, common funds and property to which the indemnity could attach.</sentence>
+<sentence id="s258">The right of indemnity would cease to apply to funds once they were duly allocated to a particular Member.</sentence>
+<sentence id="s259">No doubt complex questions would arise but at least the right of indemnity would have some scope for operation so long as there were some common funds or some property within the expression "the Funds" or the "Project Property".</sentence>
+<sentence id="s260">In my view cl 24.2 of the Constitution does not stand in the way of the RE's right of indemnity.</sentence>
+<sentence id="s261">That clause is concerned to distinguish between amounts payable by the RE and amounts payable by the individual Members.</sentence>
+<sentence id="s262">The words "from its own assets" signify that the RE is not to pay the amounts described from money or property that had been allocated to an individual Member and which the RE therefore held upon trust for that Member, as distinct from on behalf of the Members generally.</sentence>
+<sentence id="s263">For the above reasons, I do not accept Huntley's submission that s 601FT(2) (with reference to s 601FS(2)(d)) of the Act defeats AOHL's contractual claim.</sentence>
+<sentence id="s264">Pro rata apportionment 
+ Section 601FS speaks of "a registered scheme" and the expression "the scheme", always appears in the singular number.</sentence>
+<sentence id="s265">For present purposes s 601FS directs attention to each of Projects 4, 5 and 6.</sentence>
+<sentence id="s266">Huntley argues that s 601FS does not apply to the obligation to pay the base fee under the CWSA because that base fee is an indivisible lump sum that is payable for the supply of water for use in a range of Projects and there is no provision of the CWSA that authorises the charging of a "pro rata" share of the base fee.</sentence>
+<sentence id="s267">Accordingly, so it submits, the CWSA cannot operate where the RE is not the RE of all of the Projects, and there is no mechanism in the CWSA for a new RE for one Project to become liable on a pro rata basis for water supplied for that Project.</sentence>
+<sentence id="s268">I set out cl 4.1(a)-(d), (f) and (h) of the CWSA at [33] above.</sentence>
+<sentence id="s269">It will be recalled that the CWSA was dated 22 October 2002.</sentence>
+<sentence id="s270">At that time Project 4 had been established (in 2001) but Projects 5 and 6 were yet to be established.</sentence>
+<sentence id="s271">Clause 4 of the CWSA contemplated that further Projects might be established after 22 October 2002, and that the CWSA might have to apply to them.</sentence>
+<sentence id="s272">The primary obligation of AOHL is provided for in cl 4.1(a), (b) and (c).</sentence>
+<sentence id="s273">Paragraph (a) provides for a maximum annual allocation of 5 megalitres per hectare.</sentence>
+<sentence id="s274">Paragraph (b) provides for a "per Grove" maximum in respect of Projects that were in existence as at 1 July 2002 --- Project 4 in this proceeding.</sentence>
+<sentence id="s275">Paragraph (c) provides for a "per Grove" maximum in respect of Projects that had commenced between 1 July 2002 and 22 October 2002 (none had) and that might yet commence after 22 October 2002 (as Projects 5 and 6 were to do).</sentence>
+<sentence id="s276">AOL did not undertake in the CWSA to request that the maxima be supplied but AOHL undertook to supply up to the maxima as required by AOL.</sentence>
+<sentence id="s277">According to cl 5.2 of the CWSA, on and from 1 July 2002 the previous base fee per Grove was replaced by an annual base fee in respect of all Groves, present and future.</sentence>
+<sentence id="s278">The annual base fee for the year commencing on 1 July 2002 was $1,490,000 per annum, and for subsequent annual periods there was to be an adjustment in accordance with CPI figures.</sentence>
+<sentence id="s279">It will be recalled that by reason of the Lease from AOHL to AOL and the presence of AOL's Pumping Equipment and Reticulation Equipment on Lot 11, AOL in fact had a free hand in taking water from Lot 11, but contractually this was subject to the maximum volumes provided for in cll 4.1(a) and (b) (modified by paras (c) to (e)).</sentence>
+<sentence id="s280">In my opinion the CWSA is an "entire" agreement and does not accommodate an apportionment.</sentence>
+<sentence id="s281">There are several indications of this.</sentence>
+<sentence id="s282">First, there is the point made by Huntley that AOL could not, consistently with its contractual obligations, have reduced the amount of its liability by irrigating only certain Groves or Projects.</sentence>
+<sentence id="s283">Second, there is the impracticability of different REs having access to Lot 11 and the Pumping Equipment and Reticulation Equipment on it (owned by AOL) to irrigate the different Projects for which they were hypothetically responsible.</sentence>
+<sentence id="s284">Third, there are the references to "the Projects" (in the plural) in, for example, cl 7.1(a)(i) and the definition of "Land" in the Dictionary (Schedule 1) as "the land from time to time on which Projects are established, excluding the Water Land.</sentence>
+<sentence id="s285">" The references suggest all of the Projects and all of the Land as a whole.</sentence>
+<sentence id="s286">Fourth, I construe the CWSA as providing for supply from the Lagoon, yet the evidence shows that it is not physically possible for all of the Projects in the Groves to be supplied from the Lagoon in equal measure.</sentence>
+<sentence id="s287">Projects 5 and 6 could not be irrigated from the Lagoon because there was no pipe work across Speers Creek to convey the water to those Projects.</sentence>
+<sentence id="s288">More precisely, the evidence was that of the land the subject of Projects 5 and 6, the Lagoon could irrigate only 18% of Project 5, because it is only that 18% that is on the north-western side (the Lagoon side) of Spiers Creek.</sentence>
+<sentence id="s289">The CWSA is to be construed in the light of the physical environment to which it was directed, and in the light of the evidence just mentioned it would not have made sense for the parties to have agreed that the water from the Lagoon was to be treated as supplied on a per Project or per Grove basis when, generally speaking, water from the Lagoon could not irrigate certain Groves at all.</sentence>
+<sentence id="s290">It will be noted that while this fourth point is relevant to the construction of the CWSA, even if severance was possible it would also militate against the per hectare formula adopted by AOHL.</sentence>
+<sentence id="s291">For the above reasons it was not open to AOHL to sue Huntley on the basis of a liability to pay a pro rata part of a CPI-adjusted base fee of $1,490,000.</sentence>
+<sentence id="s292">AOHL's alternative claim in restitution
+ The restitutionary claim is advanced on the basis that, contrary to AOHL's primary submission, the CWSA does not bind Huntley.</sentence>
+<sentence id="s293">AOHL claims to have conferred a benefit on Huntley in the form of a "supply of a reliable source of water or the supply of water" or the ability of Huntley to meet its obligations to investors under cl 4.1(g) of the Grove Agreements (para 28(a) of the FASC).</sentence>
+<sentence id="s294">The FASC asserts that the benefit was conferred on Huntley at its request.</sentence>
+<sentence id="s295">The request alleged was that: The FASC asserts (para 28(c)) that the benefit was conferred at AOHL's expense because AOHL lost the opportunity of entering into a contract with Huntley to supply the service of providing a reliable supply of water or to supply water for valuable consideration; AOHL incurred the expense of providing a reliable supply of water or access to water; alternatively AOHL lost the water actually supplied which was a valuable commodity.</sentence>
+<sentence id="s296">Huntley makes the following submission (para 60 of its written submissions): 
+ 
+ AOHL has not conferred a benefit on Huntley in circumstances in which it would be unjust for Huntley to retain the benefit without paying, because: 
+ 
+
+ 
+ 
+ (a) the only water that was consumed by Huntley was not provided by AOHL; 
+ 
+
+ 
+ 
+ (b) even leaving aside the identity of the party providing the water that was consumed by Huntley, it was not provided in circumstances recognized as giving rise to an entitlement to recover remuneration for the benefit conferred; 
+ 
+
+ 
+ 
+ (c) the provision of that water was, in any event, at no real cost to anyone; the water was only of any commercial utility to Huntley; and 
+ 
+
+ 
+ 
+ (d) the suggestion that there was benefit to Huntley or detriment to AOHL arising from the fact that water was available to be delivered, but not delivered, to the Project 4 Groves is nonsensical.</sentence>
+<sentence id="s297">
+ 
+
+ In my opinion the requirements for a successful claim in restitution are not made out.</sentence>
+<sentence id="s298">First, I do not accept that the "supply of a reliable source of water" from Lot 11 was a benefit conferred on Huntley for present purposes.</sentence>
+<sentence id="s299">Absent contract and the supply of water itself, the meaning of a "supply of a reliable source of water" is elusive.</sentence>
+<sentence id="s300">It seems to mean nothing more than that as the owner of Lot 11 on which the Lagoon was located, AOHL was the owner of a water source of such a nature and location as to be capable of enabling Huntley to irrigate the Groves.</sentence>
+<sentence id="s301">This is not a benefit conferred on Huntley.</sentence>
+<sentence id="s302">Second, the evidence suggests that the only water supplied was 5 megalitres on 6 April 2008 from the Project 5 Dam and 3 megalitres on 7 April 2008 also from the Project 5 Dam.</sentence>
+<sentence id="s303">That water was not supplied by AOHL.</sentence>
+<sentence id="s304">Third, it is not shown that AOHL suffered detriment.</sentence>
+<sentence id="s305">In Torpey Vander Have Pty Ltd v Mass Constructions Pty Ltd [2002] NSWCA 263 ; (2002) 55 IPR 542 , Spigelman CJ (with whom Foster AJA agreed) stated (at [34]) in relation to unjust enrichment: 
+ 
+ ... it appears that the respondent received a benefit for which it did not pay.</sentence>
+<sentence id="s306">However, benefit is not the only element in such a claim.</sentence>
+<sentence id="s307">The benefit must be at the appellant's expense and there must be an element of injustice: see, for example, Mason and Carter, Restitution Law in Australia , Butterworths, Sydney, 1995, paras [221], [327] and [226].</sentence>
+<sentence id="s308">
+ 
+
+ The FASC seeks to meet this requirement by pleading that AOHL lost the opportunity of entering into a contract with Huntley to supply the service of providing a reliable supply of water or of supplying water, for valuable consideration, and that the loss of this opportunity was at the "expense of the plaintiff" for the purposes of its unjust enrichment claim.</sentence>
+<sentence id="s309">In my opinion this is not an expense or detriment.</sentence>
+<sentence id="s310">In the first place, it is not shown that there would have been a fruitful negotiation between Huntley and AOHL for AOHL to supply Huntley with water.</sentence>
+<sentence id="s311">The evidence tends to suggest the contrary.</sentence>
+<sentence id="s312">Moreover, AOHL did not lose the opportunity by reason of providing a reliable supply of water.</sentence>
+<sentence id="s313">In the absence of contract, the most that can be said is that AOHL had a reliable source of water in proximity to the land the subject of the Projects.</sentence>
+<sentence id="s314">As Huntley submits, the water was not supplied because no consensus was reached between AOHL and Huntley as to the terms upon which it would be supplied.</sentence>
+<sentence id="s315">Huntley refers to the observations of the High Court in Lumbers v W Cook Builders Pty Ltd (In Liquidation) [2008] HCA 27 ; (2008) 232 CLR 635 at [80] : 
+ 
+ Likewise, it is essential to consider whether the facts of the present case yield to analysis as a claim for work and labour done, or money paid, because where one party (in this case, Builders) seeks recompense from another (here the Lumbers) for some service done or benefit conferred by the first party for or on the other, the bare fact of conferral of the benefit or provision of the service does not suffice to establish an entitlement to recovery.</sentence>
+<sentence id="s316">As Bowen LJ said in Falcke v Scottish Imperial Insurance Co: 
+ 
+
+ 
+ 
+ The general principle is, beyond all question, that work and labour done or money expended by one man to preserve or benefit the property of another do not according to English law create any lien upon the property saved or benefited, nor, even if standing alone, create any obligation to repay the expenditure.</sentence>
+<sentence id="s317">Liabilities are not to be forced upon people behind their backs any more than you can confer a benefit upon a man against his will.</sentence>
+<sentence id="s318">
+ 
+
+ 
+ 
+ The principle is not unqualified.</sentence>
+<sentence id="s319">Bowen LJ identified salvage in maritime law as one qualification.</sentence>
+<sentence id="s320">Other cases, including other cases of necessitous intervention, may now be seen as further qualifications to the principle but it is not necessary to examine in this case how extensive are those further qualifications or what is their content.</sentence>
+<sentence id="s321">(Emphasis in original, references omitted) 
+ 
+
+ There was no detriment to AOHL in having the Lagoon or the water in it.</sentence>
+<sentence id="s322">The "reliable source of water" in the present case existed by reason of geography.</sentence>
+<sentence id="s323">It was not created at AOHL's expense or at Huntley's request.</sentence>
+<sentence id="s324">It was always there.</sentence>
+<sentence id="s325">AOHL parted with or produced nothing and Huntley did not benefit, by reason of its existence.</sentence>
+<sentence id="s326">AOHL's restitutionary claim fails.</sentence>
+<sentence id="s327">CONCLUSION 
+ For the above reasons the proceeding should be dismissed with costs.</sentence>
+<sentence id="s328">I certify that the preceding one hundred and thirty-four (134) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s329">Associate:
+ 
+ 
+Dated: 11 December 2009
+ 
+ Counsel for the Plaintiff: Mr J C Giles and Mr J S McLeod 
+ 
+ Solicitor for the Plaintiff: Harris &amp; Harris 
+ 
+ Counsel for the Defendant: Mr S R Donaldson SC and Mr B L Jones 
+ 
+ Solicitor for the Defendant: Piper Alderman 
+ Date of Hearing: 21, 22 September 2009 
+ 
+ Date of Judgment: 25 November 2009 
+ ANNEXURE
+ 
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1479.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+<case>
+<name>Aristocrat Technologies Australia Pty Ltd v IGT(Australia) Pty Ltd [2007] FCA 37 (7 February 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/37.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">patents</catchphrase>
+<catchphrase "id=c1">patent for a system of bonus prize winning mode on gaming machines</catchphrase>
+<catchphrase "id=c2">opposition to the grant of patent</catchphrase>
+<catchphrase "id=c3">degree of weight given to views of the delegate of the commissioner of patents</catchphrase>
+<catchphrase "id=c4">issues for court in opposition proceedings</catchphrase>
+<catchphrase "id=c5">patent application construction principles</catchphrase>
+<catchphrase "id=c6">whether lack of novelty or anticipation</catchphrase>
+<catchphrase "id=c7">application of reverse infringement test</catchphrase>
+<catchphrase "id=c8">whether obvious</catchphrase>
+<catchphrase "id=c9">intellectual property</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+
+
+ Introduction 
+ 
+1 This is an appeal under s 60(4) of the Patents Act 1990 (Cth) by Aristocrat Technologies Australia Pty Limited ("Aristocrat") against that part of the decision of a delegate of the Commissioner of Patents issued on 25 August 2004 which rejected the opposition of Aristocrat to 19 of the 21 claims in the application in question.</sentence>
+<sentence id="s1">2 The patent application in suit is entitled "Operation of Gaming Machines in a Linked Bonus Prize Winning Mode".</sentence>
+<sentence id="s2">The patent application relates to a method and a system for awarding a bonus prize in the playing of a number of gaming machines (variously called poker machines, slot machines or fruit machines) all linked to a central computer or processor.</sentence>
+<sentence id="s3">3 The opposition of Aristocrat before the delegate was based on the assertions that the claims in the patent application were not novel, that the claimed invention was obvious and that the claimed invention did not reveal a new manner of manufacture.</sentence>
+<sentence id="s4">4 There was no appeal by the patent applicants, IGT (Australia) Pty Limited and Acres Gaming Inc (the respondents to the appeal in the Court, to whom I will refer in the singular for convenience as "IGT") in relation to the decision that two of the claims were anticipated.</sentence>
+<sentence id="s5">The nature of the proceedings before the Court 
+ 
+5 Though styled an "appeal" in the Act, the proceedings before the Court are in the original jurisdiction of the Court dealing with the matter afresh in the way discussed in New England Biolabs Inc v F Hoffman-La Roche AG [2004] FCAFC 213 ; (2004) 141 FCR 1 at 10-14 [23] - [46] .</sentence>
+<sentence id="s6">Thus, it is unnecessary to analyse in any detail the reasoning of the delegate based on such evidence as was before him.</sentence>
+<sentence id="s7">Nevertheless, it may be appropriate for the Court to accord respect and a degree of weight to the views of the delegate informed as they were by his experience and technical skill: Corporation of the City of Enfield v Development Assessment Commission [2000] HCA 5 ; (1999) 199 CLR 135 at 154-55 [45] - [47] ; Eclipse Sleep Products Inc v Registrar of Trade Marks [1957] HCA 86 ; (1957) 99 CLR 300 at 321-22; and E I Du Pont de Nemours and Company v ICI Chemicals and Polymers Ltd (2006) 66 IPR 462 at 469 [14].</sentence>
+<sentence id="s8">The circumstances that would affect the weight to be given to the views of the delegate include the differences or similarities between the material placed before the delegate and the evidence led before the Court.</sentence>
+<sentence id="s9">There was such a difference here.</sentence>
+<sentence id="s10">I will return to this issue in due course.</sentence>
+<sentence id="s11">It is also necessary to recognise the nature of the judicial task thus described.</sentence>
+<sentence id="s12">In Genetics Institute Inc v Kirin-Amgen Inc [1999] FCA 742 ; (1999) 92 FCR 106 at 111-112 [17] and [19], the Full Court said the following, illuminating the nature of the judicial task of the Court:
+ 
+ "During the hearing there was some discussion as to the possibility of the owner of a patent the grant of which was unsuccessfully opposed, defending a revocation proceeding instituted by the pre-grant opponent by raising an issue estoppel in respect of the findings of fact of the single judge.</sentence>
+<sentence id="s13">In the present case, however, the respondent has conceded that no issue estoppel would apply to the findings of fact of Heerey J in any revocation proceeding instituted by the applicant in respect of the patent.</sentence>
+<sentence id="s14">In any event, the difference between the issue determined by his Honour in the pre-grant opposition proceeding, and the issue that would arise for determination in any revocation proceeding instituted by the applicant, is in our view sufficient to preclude the operation of issue estoppel principles in that second proceeding.</sentence>
+<sentence id="s15">The overriding issue in the pre-grant opposition proceeding before Heerey J was whether it was practically certain that the patent to be granted on the specification would have been invalid on the ground that the content of the specification was not in accordance with the requirements of s 40 of the Patents Act 1952 (Cth) ( Genetics Institute Inc v Kirin-Amgen Inc (No 3) (1998) 156 ALR 30 at 39-41).</sentence>
+<sentence id="s16">Even if revocation of the patent was subsequently sought by the applicant on the virtually identical ground of non-compliance with subs 40(2) or subs 40(3) of the current Act (see par 138(3)(f) of the Act), the issue for determination by the judge hearing that revocation application would be whether the patent should be revoked for the specification's non-compliance with subs 40(2) or subs 40(3).</sentence>
+<sentence id="s17">The decision of Heerey J that it was not practically certain that the patent should be so revoked would be inconclusive of this issue.</sentence>
+<sentence id="s18">Accordingly, there would be no scope for the operation of an issue estoppel in relation to the decision of Heerey J in any post-grant revocation proceeding instituted by the applicant in respect of the current patent.</sentence>
+<sentence id="s19">
+ 
+ 
+ ... 
+ 
+ 
+ As the parties in the present case accepted, the purpose of pre-grant opposition proceedings is to provide a swift and economical means of settling disputes that would otherwise need to be dealt with by the courts in more expensive and time consuming post-grant litigation; that is, to decrease the occasion for costly revocation proceedings by ensuring that bad patents do not proceed to grant.</sentence>
+<sentence id="s20">This purpose is reflected in the explanation by the Minister for Science for the Federal Government's policy decision to retain pre-grant opposition proceedings in Australia, despite the recommendation of the 1984 Industrial Property Advisory Committee Report Patents, Innovation and Competition in Australia (IPAC Report) that they be abolished (recommendation 29).</sentence>
+<sentence id="s21">
+
+'Pre-grant opposition provides a relatively inexpensive mechanism for resolving third party disputes as to validity.</sentence>
+<sentence id="s22">Opposition procedures will be made more stringent in order to expedite the determination of oppositions.</sentence>
+<sentence id="s23">" [(1986) 56 No 47 Official Journal of Patents, Trade Marks and Designs 1475.</sentence>
+<sentence id="s24">]'"
+ 
+ [emphasis added] 
+
+6 The potential procedural consequences of the recognition of the nature of the task before the Court in an appeal from opposition proceedings were illustrated in E I Du Pont de Nemours and Company v ICI Chemicals &amp; Polymers Ltd [2003] FCA 291 ; (2003) 128 FCR 392 at 396-97 [25] , where Emmett J said:
+ 
+ "In opposition proceedings, the opponent must establish that it is practically certain that the patent that would be granted on the application would be invalid.</sentence>
+<sentence id="s25">Thus, opposition should be confined to those grounds that have a fair potential to establish clearly that the prospective patent would be invalid.</sentence>
+<sentence id="s26">To permit an opponent, without some justification, to rely on new grounds of invalidity on an appeal from a decision of the Commissioner, or grounds abandoned below, may tend to be inconsistent with the object of opposition proceedings.</sentence>
+<sentence id="s27">" 
+ 
+
+7 In Austal Ships Pty Ltd v Stena Rederei Aktiebolag (2005) 66 IPR 420 at 422 [6] Bennett J noted the expression of the issue by Emmett J in F Hoffman-La Roche AG v New England Biolabs Inc [2000] FCA 283 ; (2000) 99 FCR 56 where, after an examination of the authorities governing the nature of the opposition proceeding, including the decision of the Full Court in Genetics Institute Inc v Kirin-Amgen Inc [1999] FCA 742 ; 92 FCR 106 , his Honour said the following at 70-71 [66] and [67]:
+ 
+ "I have been taken to a number of other authorities in which questions have arisen as to the nature of the evidence that should be permitted in proceedings such as these.</sentence>
+<sentence id="s28">I do not regard any of those authorities as decisive one way or the other.</sentence>
+<sentence id="s29">As I have said, however, I do draw some comfort from the cases to which I have just referred for my conclusion, based on the scheme of the legislation, that there is a significant distinction to be drawn between the nature of an opposition proceeding under s 60 (or under the 1990 Act for that matter), on the one hand, and proceedings for revocation on other.</sentence>
+<sentence id="s30">The former is, in a sense, in the nature of an interlocutory proceeding, although any analogy tends to be misleading.</sentence>
+<sentence id="s31">There are some suggestions in early High Court authorities, that an opposition proceeding is in the nature of a summary proceeding ...</sentence>
+<sentence id="s32">Either analogy might suggest that the question to be determined in an opposition proceeding is whether there is a serious question as to whether or not a patent, if granted, might be valid.</sentence>
+<sentence id="s33">If there is, then the application should proceed to grant.</sentence>
+<sentence id="s34">
+ 
+ The language employed in the cases to which I have referred suggests that it should appear clear to the Court that no patent granted in respect of the specification would be valid.</sentence>
+<sentence id="s35">I consider that, before the Court would uphold an opposition to the grant of a patent, the Court should be clearly satisfied that the patent, if granted, would not be valid.</sentence>
+<sentence id="s36">That, however, is not to say that an opponent should not be permitted appropriate opportunity to lead evidence-in-chief as to the facts that are designed to demonstrate, with the requisite degree of clarity, that a patent, if granted, would not be valid.</sentence>
+<sentence id="s37">Where the subject matter of the patent is one of complexity, of necessity, the evidence that an opponent would be entitled to adduce would itself be of considerable complexity.</sentence>
+<sentence id="s38">" 
+ [citations omitted]
+ 
+
+8 Similar views were expressed by Branson J in E I Dupont de Nemours and Company v Imperial Chemical Industries Plc (2002) 54 IPR 304.</sentence>
+<sentence id="s39">9 What lies behind this approach is the purpose of pre-grant opposition proceedings, as discussed by the Full Court in Genetics Institute Inc v Kirin-Amgen Inc [1999] FCA 742 ; 92 FCR 106 at [19] , in the second emphasised passage cited above.</sentence>
+<sentence id="s40">10 The parties were agreed that the amendments effected by the Patents Amendment Act 2001 (Cth) do not affect the approach of the Court in this respect in this case.</sentence>
+<sentence id="s41">11 The cases referred to by Emmett J in F Hoffman --- La Roche AG v New England Biolabs Inc [2000] FCA 283 ; 99 FCR 56 and the decision of the Full Court in Genetics Institute Inc v Kirin-Angen Inc [1999] FCA 742 ; 92 FCR 106 lead to the conclusions that the issue for resolution by the Court is whether it can be concluded clearly or as a matter of practical certainty that the opposition is well made and that the patent, if granted, would be bad, and that the issue for resolution by the Court is not whether the matters grounding the opposition (here want of novelty and obviousness) have been made out in the manner required in revocation proceedings.</sentence>
+<sentence id="s42">12 I am bound by Genetics Institute Inc v Kirin Angen Inc [1999] FCA 742 ; 92 FCR 106, and, by comity, would respectfully follow the views of Emmett J in F Hoffman-La Roche AG v New England Biolabs Inc [2000] FCA 283 ; 99 FCR 56, Bennett J in Austal Ships 66 IPR 420 and Branson J in E I Dupont de Nemours v Imperial Chemical Industries 54 IPR 304 .</sentence>
+<sentence id="s43">
+ 
+13 In any event, the parties agreed with the formulation of the issue in [11] above.</sentence>
+<sentence id="s44">Neither side submitted, formally or otherwise, that that approach was erroneous.</sentence>
+<sentence id="s45">Importantly, however, both sides agreed that expressing the matter in this way did not do away with the necessity of the Court coming to a final view about the proper construction and meaning of the patent application in suit and the earlier patent said to be an anticipation of it.</sentence>
+<sentence id="s46">Thus, to the extent that the outcome turns upon the meaning of either the applicant or the patent the constraining effect of the need for practical certainty is less apparent.</sentence>
+<sentence id="s47">14 The application of the proper approach insofar as it affects the assessment of the asserted obviousness of the patent application and the assessment of the expert evidence as to the teaching or disclosure given by the documents in the light of the prior art for the purpose of the asserted lack of novelty is best dealt with in the context of discussing the evidence about those matters.</sentence>
+<sentence id="s48">The proceeding 
+ 
+15 The grounds of opposition before the Court were limited to: (a) the asserted lack of novelty based on an earlier patent, Australian Patent Number 633469 (to which I will refer as the "Bennett Patent", after the inventor, Nicholas Bennett) and on a system operating in two clubs in New South Wales described in the evidence as the "Megabucks System"; and (b) the asserted obviousness of the claimed invention based on the common general knowledge including the Megabucks System, but not including the Bennett Patent.</sentence>
+<sentence id="s49">16 Each of the parties called one expert witness.</sentence>
+<sentence id="s50">Aristocrat called Mr Edward William Culley and IGT called Mr Keiran Daley.</sentence>
+<sentence id="s51">The experts met prior to the hearing and produced a joint report setting out the extent of their differences.</sentence>
+<sentence id="s52">Both gave some oral evidence in chief explaining their qualifications and experience and expressing through the spoken work their different views.</sentence>
+<sentence id="s53">They were both cross-examined.</sentence>
+<sentence id="s54">Neither was cross-examined on his credit.</sentence>
+<sentence id="s55">Each was experienced and intelligent, and sought, at all times, to assist me by being frank and clear.</sentence>
+<sentence id="s56">Each was willing to engage in dialogue both with the cross-examiner and with me.</sentence>
+<sentence id="s57">Each used language (both in writing and orally) with precision and care.</sentence>
+<sentence id="s58">I am grateful for the way that they approached their responsibilities.</sentence>
+<sentence id="s59">The scheme of the arguments and the approach to disposition of the appeal 
+ 
+17 The first issue was the construction of the patent application.</sentence>
+<sentence id="s60">Aristocrat submitted that the claims properly construed were sufficiently wide to encompass a system or method exemplified by the Megabucks System and the Bennett Patent.</sentence>
+<sentence id="s61">If Aristocrat is correct in that regard, IGT conceded that, applying the relevant standard discussed above, the patent, if granted, would certainly be bad as anticipated by that earlier art and so would not be novel.</sentence>
+<sentence id="s62">18 If Aristocrat is not correct in its construction of the patent application, Aristocrat submitted that the disclosures within, and that were taught by, the Megabucks System and the Bennett Patent were wide enough and clear enough to anticipate the patent application.</sentence>
+<sentence id="s63">19 Finally, Aristocrat submitted that, even if the patent application could not be clearly said not to be novel, it could clearly be said to be obvious given the prior common general knowledge, which included the Megabucks System, but not, it was conceded, the Bennett Patent.</sentence>
+<sentence id="s64">20 The priority date of the patent application is 7 May 1997.</sentence>
+<sentence id="s65">The construction of the patent application 
+ Claims 1 and 9 
+ 
+21 I propose to deal with the main method and system claims (1 and 9, respectively) first.</sentence>
+<sentence id="s66">Most attention and debate was focussed on them at the hearing.</sentence>
+<sentence id="s67">22 The title of the invention is:
+ " OPERATION OF GAMING MACHINES IN A LINKED 
+ BONUS PRIZE WINNING MODE " 
+ 
+
+23 The field of the invention was thereunder described as follows:
+ 
+ "...the field of gaming machines, and particularly to a number of such machines that are linked in a network sense to provide a bonus prize winning mode of operation.</sentence>
+<sentence id="s68">The bonus prize wining mode is additional to wins occurring in play of the normal game(s) provided by each gaming machine.</sentence>
+<sentence id="s69">" 
+ 
+
+24 The prior art was then described as follows:
+ 
+ "It is known to provide systems that implement bonus prize winning modes apart from the normal games available for play on a gaming machine.</sentence>
+<sentence id="s70">Such systems typically comprise a bank of gaming machines each having an interface providing communication with a central controlling computer or data processor.</sentence>
+<sentence id="s71">The controlling computer receives from each connected gaming machine an indication of each play (and possibly also the wager value).</sentence>
+<sentence id="s72">A bonus prize pool is formed and accumulates with each play of the gaming machines.</sentence>
+<sentence id="s73">This accumulating total most usually is prominently displayed on a visual display unit.</sentence>
+<sentence id="s74">The bonus pool is awarded when it reaches a (usually) randomly chosen value, being won by the player of the machine whose play caused the total to be reached.</sentence>
+<sentence id="s75">" 
+ 
+
+25 The objective of the invention was then stated to be as follows:
+ 
+ "A key motivation or desire of licensed premises in which gaming machines are placed is to encourage the machines to be in use as much as possible since usage directly affects the revenue gained.</sentence>
+<sentence id="s76">As such a bonus prize winning scheme encourages and promotes usage by the prospect of a windfall prize independent of won in normal play of the gaming machines.</sentence>
+<sentence id="s77">It is accordingly desired to develop improved methods of operating a prize wining mode to encourage greater machine usage, also to provide enhanced enjoyment for the players.</sentence>
+<sentence id="s78">The present invention seeks to achieve these objectives.</sentence>
+<sentence id="s79">" 
+ 
+
+26 The consistory clause for claim 1 in the patent application (the main method claim) was as follows:
+ 
+ "Therefore, the invention, in one broad form, discloses a method for awarding a bonus prize in the play of a plurality of gaming machines, the gaming machines being linked to a central processor having a data memory, the method comprising the steps of: 
+ transmitting, on play of any one gaming machine, a play signal therefrom to said central processor, said play signal identifying the transmitting gaming machine; 
+ registering each said play signal as an entry in said memory 
+ executing a price accumulation phase during which a value is accumulated with an initial value for each play signal entry up to a level where the accumulating value equals a prize value that will be awarded to one of the linked gaming machines; and thereafter executing a prize awarding phase during which said accumulated value remains frozen, and subsequent plays of one or more of the gaming machines are separately counted for their occurrence, and a play of a gaming machine causing the count to equal a prize win count value results in that gaming machine be [sic: being] awarded said prize value.</sentence>
+<sentence id="s80">" 
+ 
+
+27 The consistory clause for claim 9 in the patent application (the main system claim) was as follows:
+ 
+ "The invention further discloses a gaming machine system having a bonus prize awarding mode in the play of gaming machines, the system comprising: 
+ a plurality of gaming machines for playing games thereon; 
+ a plurality of interface units each coupled with a respective gaming machine to receive a play signal therefrom including the identity of the respective gaming machine; 
+ a central processor having data memory and being linked to said interface units to receive said play signals; and 
+ indicator means lined [sic: linked] with said central processor; 
+ and wherein said system is operable by said central processor executing a first prize accumulation phase during which a value is added to an initial value for each said play signal entry up to a level where the accumulating value equals a prize value that will be awarded to one of the linked gaming machines, causing said accumulating value to be displayed on said indicator means, and executing a second prize awarding phase during which said accumulated value remains frozen, and subsequent plays of the gaming machines leading to subsequent memory entries are separately counted for their occurrence, and a play of a gaming machine causing the count to equal a prize win count value results in that gaming machine be awarded said prize value.</sentence>
+<sentence id="s81">
+ Preferably, said indicator means and/or the respective gaming machine displays the awarding of said prize value.</sentence>
+<sentence id="s82">" 
+ 
+
+28 Claim 1 is in the following terms:
+ 
+ "1.</sentence>
+<sentence id="s83">A method for awarding a bonus prize in the play of a plurality of gaming machines, the gaming machines being linked to a central processor having a data memory, the method comprising the steps of: 
+ transmitting, on play of any one gaming machine, a play signal therefrom to said central processor, said play signal identifying the transmitting gaming machine; 
+ registering each said play signal as an entry in said memory; 
+ executing a prize accumulation phase during which a value is accumulated with an initial value for each said play signal up to a level where the accumulating value equals a prize value that will be awarded to one of the linked gaming machines; and 
+ thereafter executing a prize awarding phase during which said accumulated value remains frozen, and subsequent plays of one or more of the gaming machines are separately counted for their occurrence, and a play of a gaming machine causing the count to equal a prize win count value results in that gaming machine be awarded said prize value.</sentence>
+<sentence id="s84">" 
+ 
+
+29 Claim 9 is in the following terms:
+ 
+ "9.</sentence>
+<sentence id="s85">A gaming machine system having a bonus prize awarding mode in the play of gaming machines, the system comprising: 
+ a plurality of gaming machines for playing games thereon; 
+ a plurality of interface units each coupled with a respective gaming machine; 
+ a central processor having a data memory and being linked to said interface units to receive said play signals; 
+ and wherein said system is operable by said central processor executing a first prize accumulation phase during which a value is accumulated with an initial value for each said play signal up to a level where the accumulating value equals a prize value that will be awarded to one of the linked gaming machines, and thereafter executing a second prize awarding phase during which said accumulated value remains frozen, and subsequent plays of the gaming machines are separately counted for their occurrence, and a play of a gaming machine causing the count to equal a prize win count value results in that gaming machine be awarded said prize value.</sentence>
+<sentence id="s86">" 
+ 
+
+30 IGT summarises claims 1 and 9 as a method and a system for delivering bonus prizes to players of gaming machines linked to a central processor by using two distinct and sequential phases --- a prize accumulation phase and a prize awarding phase, each ending with an event or trigger that is reached by counting some aspect of the plays on the gaming machines involved.</sentence>
+<sentence id="s87">The inventiveness and novelty is said by IGT to lie in the duality of phases and the use of two, what were called, count triggers to end each successive phase.</sentence>
+<sentence id="s88">31 There was no disagreement about the expression of the principles of construction.</sentence>
+<sentence id="s89">The debate lay in the different application of them, in particular in the subtle question of the correct perspective from, or prism through, which to read the patent application.</sentence>
+<sentence id="s90">The construction of the claims takes place in the context of the specification as a whole, recognising the existence and role of the different parts thereof, the Court having placed itself in the position of someone acquainted with the state of the art: Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230 at 236 [39]; Welch Perrin &amp; Co Pty Ltd v Worrel [1960] HCA 91 ; (1961) 106 CLR 588 at 610; and Kimberly-Clark Australia Pty Ltd v Arico Trading International Pty Ltd [2001] HCA 8 ; (2001) 207 CLR 1 at 16 [24] .</sentence>
+<sentence id="s91">That said, two different people skilled in the art may take the meaning of the specification as a whole or the claims therein differently.</sentence>
+<sentence id="s92">That may reflect the perennial problem of the imprecision of language, meaning and perception or it may reflect different emphases taken from the prior art.</sentence>
+<sentence id="s93">In such cases (as to a degree is the case here) the following words of Hely J in Flexible Steel Lacing Company v Beltreco Ltd (2000) 49 IPR 331 at 350 [81] are apposite (in his Honour's always helpful, if I may respectfully say so, discussion of the principles of construction of patents at 347-350 [70]-[81]):
+ 
+ "As a general rule, the terms of a specification should be accorded their ordinary English meaning.</sentence>
+<sentence id="s94">
+ 
+ Evidence can be given by experts on the meaning which those skilled in the art would give to technical or scientific terms and phrases and on unusual or special meanings given by such persons to words which might otherwise bear their ordinary meaning.</sentence>
+<sentence id="s95">
+ 
+ 
+ 
+ However, the construction of the specification is for the Court, not for the expert witness.</sentence>
+<sentence id="s96">Insofar as a view expressed by an expert depends upon a reading of the patent, it cannot carry the day unless the Court reads the patent in the same way.</sentence>
+<sentence id="s97">" 
+ 
+ [citations omitted] 
+
+32 In my view, the patent application here is directed to a person whose primary practical interest is the design of games on gaming machines and who has a working knowledge of the gaming industry and gaming machines, including bonus prize systems.</sentence>
+<sentence id="s98">This can be seen in particular from the fact that the application is concerned with achieving enhanced enjoyment from the players of the games on gaming machines.</sentence>
+<sentence id="s99">Such a person will understand the prior art and the marketing of such games, including the motivation of players, and the aspects of the games and machines that excite or interest players.</sentence>
+<sentence id="s100">This knowledge and background takes place in the technical environment of computing.</sentence>
+<sentence id="s101">Thus, such a person will have some background in computing, or have available such background, in order to be able to appreciate what can be done to implement the game that is designed and the operation of the machine.</sentence>
+<sentence id="s102">33 Aristocrat emphasised that it was the designing of a progressive linked system that was the focus of the patent.</sentence>
+<sentence id="s103">In a sense that is correct.</sentence>
+<sentence id="s104">Aristocrat put it that way, however, to stress the computer technology involved.</sentence>
+<sentence id="s105">This, as shall be seen, is particularly important in assessing the meaning of the word "count".</sentence>
+<sentence id="s106">I would prefer to put the matter in the way I have in the preceding paragraph.</sentence>
+<sentence id="s107">To do so reflects, I think, the expertise of both Mr Daley and Mr Culley and to do so recognises that the patent is not about computer technology itself, but about a system and method of awarding prizes using computer technology to instruct a person with a practical interest in designing games for modern computer based gaming machines.</sentence>
+<sentence id="s108">Both Mr Daley and Mr Culley had that practical interest, though they came from different backgrounds --- Mr Culley from a computing background, and Mr Daley from the perspective of designing games and the mathematics thereof.</sentence>
+<sentence id="s109">Claim 1 
+ 
+34 The claim requires that on the playing of any one gaming machine, a play signal is transmitted from that machine to a central processor, which identifies the machine and registers the play signal as an entry in the data memory of the central processor.</sentence>
+<sentence id="s110">35 The claim then requires a prize accumulation phase that is prior to, and independent from, the later prize awarding phase.</sentence>
+<sentence id="s111">This can be seen from the words "thereafter executing" (on line 12).</sentence>
+<sentence id="s112">36 The prize accumulation phase sees a value accumulated from play signals up to a point at which the value equals a prize value.</sentence>
+<sentence id="s113">The player causing the prize accumulation phase to end is not the winner of the bonus prize.</sentence>
+<sentence id="s114">37 The principal issue of construction is the meaning of the words "counted" and "count" in the following part of the claim:
+ 
+ "thereafter executing a prize awarding phase during which said accumulated value remains frozen, and subsequent plays of one or more of the gaming machines are separately counted for their occurrence, and a play of a gaming machine causing the count to equal a prize win count value results in that gaming machine be awarded said prize value.</sentence>
+<sentence id="s115">" 
+ 
+
+38 IGT submitted that read in their context the words "count" and "counted" mean the numerical addition or enumeration of numbers.</sentence>
+<sentence id="s116">This is said to be their ordinary natural meaning, reflected by the ordinary usage of subsequent plays being separately counted.</sentence>
+<sentence id="s117">Further, the notion of counting can be seen as different from the "registering of a play signal" used earlier in the claim.</sentence>
+<sentence id="s118">39 Aristocrat on the other hand submitted that the word "count" is not necessarily a process of numerical addition but refers to the counting process undertaken by the central computer.</sentence>
+<sentence id="s119">The counting function is the process of recognising a specific event on a base gaming machine being the event that the central computer has been programmed to recognise as entitling that gaming machine to the award of the bonus prize.</sentence>
+<sentence id="s120">This can be seen, it was said, from the phrase "separately counted for their occurrence".</sentence>
+<sentence id="s121">This meaning of count is apt to include the simple recognition of one event, such as a certain combination of symbols, as the occurrence which causes the prize to be awarded.</sentence>
+<sentence id="s122">A count, so Mr Culley said, may be a count of zero, being the "count" when no specified event is recognised or one, being the count from zero to one when a specified event is recognised.</sentence>
+<sentence id="s123">40 An important aspect of the debate concerned how one saw the patent application in suit fitting into the existing common general knowledge.</sentence>
+<sentence id="s124">It was agreed between Mr Daley and Mr Culley that there were two types of triggers known to people in the relevant field (a trigger being an event which set off either an entitlement to a prize or a switch from one phase of a game to another).</sentence>
+<sentence id="s125">These triggers were: (a) a pattern or combination of symbols trigger and (b) a mystery quantum equalisation trigger.</sentence>
+<sentence id="s126">The mystery quantum equalisation trigger was also referred to at times as a count trigger.</sentence>
+<sentence id="s127">41 Mr Daley saw these two types of triggers as quite distinct.</sentence>
+<sentence id="s128">In the first, a given line up of symbols on the machine was the winning combination of symbols.</sentence>
+<sentence id="s129">He saw this as occurring at the level of the machine --- when the player got three jacks, for instance, he or she became entitled to a prize.</sentence>
+<sentence id="s130">This was not counting or a mystery quantum equalisation or count trigger, but the recognition of a pattern or a combination.</sentence>
+<sentence id="s131">42 Mr Culley disagreed with the notion that the appearance of the three jacks (or any relevant winning combination) on the machine caused the entitlement.</sentence>
+<sentence id="s132">Rather the machine would transmit to the controller information which would be recognised and according to the programme move from zero to one if the information transmitted told it that the three jacks had appeared.</sentence>
+<sentence id="s133">This process of recognising three jacks and moving zero to one was a count.</sentence>
+<sentence id="s134">It was the count, Mr Culley said, that gave the entitlement to a prize, not the appearance of the symbols on the face of the machine.</sentence>
+<sentence id="s135">43 The second, a mystery quantum equalisation or count trigger, worked as follows.</sentence>
+<sentence id="s136">A master number was chosen (randomly or arbitrarily) in or by the controller or operator of the controller.</sentence>
+<sentence id="s137">During the relevant phase the signals from each play of the machines went to the controller and were added up until this accumulated number equalled the chosen master number.</sentence>
+<sentence id="s138">The criterion of the playing activity that was the subject of these signals could be any aspect of the play --- coins in, coins out, time, number of games etc.
+ 
+44 The crux of the case is whether the patent application in suit is worded sufficiently broadly to encompass a combination trigger as the event which causes the award of the prize in the second phase.</sentence>
+<sentence id="s139">If the master number can be "1" (especially if it can be set arbitrarily so) and if the combination of symbols can be seen as being counted once (rather than merely recognised), it could be said that a winning combination as the trigger could be counted --- that is counted '1' equalling the set master number of '1'.</sentence>
+<sentence id="s140">45 In his introductory discussion in his evidence, Mr Daley summarised the difference between him and Mr Culley as follows:
+ 
+ "...On the first regarding the game itself I think Mr Culley described it as adequately as it needed to be, on the system side of it he and I have a divergent view of what's involved in the marriage of the system to the individual machine which houses the game and I think that's crystallised in the joint statement regarding what we've termed there as the triggers and I think that we also from what Mr Culley said this morning have a related divergent view on the issue of entitlement and the role of the controller.</sentence>
+<sentence id="s141">I agree with Mr Culley's description that the controller monitors and processes information or data that it receives including event detection such as with Megabucks a winning combination.</sentence>
+<sentence id="s142">I think that a divergence occurs in our understanding of the win entitlement and its detection and I can categorise that by describing my own view is that the win having occurred, the win event having occurred on Megabucks the detection through the monitoring and processing at the control level is an administrative process, not a determining one.</sentence>
+<sentence id="s143">" 
+ 
+
+ On the same page he described what the patent application is about:
+ 
+ "...Well, it is about a system and method for delivering bonus prizes to players of the machines that populate that system and it does so by a two phased methodology whereby there is the bonus prize value is accumulated for a period and subsequently following an event, a seminal event, it causes it to go into a prize award phase and in both those phases the parent of the seminal event is the controller, not the machine games that populates the network.</sentence>
+<sentence id="s144">" 
+ 
+
+46 Mr Culley's views as to Mr Daley's concentration on the combination occurring at the machine level were as follows:
+ 
+ "...Well, I think we have a differing view in that I see the patent involving a system which involves a controller and a machine and that you can't have the system, you can't operate it without both parts and I don't believe it is easy to split what happens at the machine and what happens at the controller as Mr Daley has done.</sentence>
+<sentence id="s145">If the machine gets a combination, as I mentioned before, and the controller doesn't know about it a payment won't happen.</sentence>
+<sentence id="s146">Likewise you could insert a coin.</sentence>
+<sentence id="s147">That machine has now got an entitlement to win if that was the correct number of coins.</sentence>
+<sentence id="s148">If the controller didn't know about it you still would have no completed payment.</sentence>
+<sentence id="s149">So I see both parts as being necessary to be a complete system.</sentence>
+<sentence id="s150">I think that is where we differ.</sentence>
+<sentence id="s151">" 
+ 
+
+47 The specification and the claims, in relation to the prize awarding phase, call for separate counting of subsequent plays of the gaming machines and when the count equals the prize win count value the prize is awarded.</sentence>
+<sentence id="s152">If the application refers to every play being counted (as it does) then if the chosen play signal generated to be counted is a non-zero number every time, that is if the chosen play signal is always the number 1 or more than 1, that must be so only if the chosen play signal has something to do with some attribute of playing the machine: for example, how many coins inserted, how much money wagered.</sentence>
+<sentence id="s153">This would not be the case if some aspect of winning determined the chosen play signal, since the player does not win on every play.</sentence>
+<sentence id="s154">The specification, however, clearly identifies coins-out as one subject of the play signal to the controller.</sentence>
+<sentence id="s155">This will not occur on every play.</sentence>
+<sentence id="s156">Therefore, the specification contemplates a chosen play signal that does not occur in every play.</sentence>
+<sentence id="s157">Thus, the counting can be seen as directed to the recognition and adding up of those events --- because all are separately counted.</sentence>
+<sentence id="s158">If the chosen play signal that is generated and that is to be counted does not necessarily occur in every play, it is apt to include a given combination.</sentence>
+<sentence id="s159">The consistory clause of the patent application in suit discussed the breadth of choice of play signals and their attributes that might be counted.</sentence>
+<sentence id="s160">On page 3a of the application the following appeared:
+ 
+ "Both the method and system of the invention can provide that the play signals generated in the prize accumulation and/or prize awarding phases are based on any one or more of coin-in, coin-out, play duration and quantum of wagers.</sentence>
+<sentence id="s161">The prize awarding phase further can be based on a chosen fixed value of play signals.</sentence>
+<sentence id="s162">" 
+ [emphasis added]
+ 
+
+The last and emphasised sentence of this paragraph appears to be wide enough to encompass a combination of symbols, being a chosen fixed value of play signals.</sentence>
+<sentence id="s163">48 Mr Daley's view of the patent application was based on his view of the two triggers: "combination of symbols trigger" and "mystery quantum equalisation trigger": see Mr Daley's affidavit at [20]-[24].</sentence>
+<sentence id="s164">On examination of Mr Daley's evidence, it might appear that the fundamental distinction in relation to the mystery trigger or count trigger is related to the "number of plays or other quantum event".</sentence>
+<sentence id="s165">(See [24] of Mr Daley's affidavit.</sentence>
+<sentence id="s166">) That is, something from each play which is non-zero numerical is counted on each occasion.</sentence>
+<sentence id="s167">But that is not the case for the reasons set out in [47] above.</sentence>
+<sentence id="s168">This can also be seen in [24] of Mr Daley's affidavit in which there is reference to coin-out activity (which does not occur on every play) as one of the attributes of the plays that can be counted.</sentence>
+<sentence id="s169">Yet Mr Daley says the mystery trigger is fundamentally different from the combination trigger.</sentence>
+<sentence id="s170">This must be because he sees the difference between the two triggers as based on the notion of counting things that are themselves (in the sense of their essence) nominal being present in the mystery trigger, but absent from the combination trigger.</sentence>
+<sentence id="s171">At pp 124-25 of the transcript, Mr Daley explained this in an answer to me.</sentence>
+<sentence id="s172">Paraphrasing and elaborating the question and answer into a proposition from his evidence, he said the following:
+ 
+ "The difference is between (a) counting things having, by their very essence, an attribute of a numerical nature --- counting numbers of coins in or out, numbers of games, number of wagers and (b) recognising a set of symbols in relation to each other.</sentence>
+<sentence id="s173">The given combination of symbols has no numerical attribute to it, though of course one can count how many times it occurred.</sentence>
+<sentence id="s174">Of its own nature however it does not have a numerical attribute.</sentence>
+<sentence id="s175">" 
+ 
+
+49 The question is whether this distinction is really reflected in the terms of the claims of the patent application.</sentence>
+<sentence id="s176">There does not appear to be anything in the patent application which limits the repertoire of play signals that can be generated and counted.</sentence>
+<sentence id="s177">They clearly include events which will not occur in every play (coin-out).</sentence>
+<sentence id="s178">Therefore the notion of separate counting for their occurrence encompasses monitoring and attributing zero when such an event did not occur and attributing a positive number or numbers when it did.</sentence>
+<sentence id="s179">Page 3a appears to specifically include the possibility of a combination.</sentence>
+<sentence id="s180">50 Thus, the specification does not appear to exclude the possibility of the relevant play signal generating information about combinations and when they occur.</sentence>
+<sentence id="s181">If that is correct then the patent in its terms does not reflect the dichotomy seen by Mr Daley.</sentence>
+<sentence id="s182">Considerations such as these led Mr Daley to identify as a relevant factor that the combination occurs at the level of the gaming machine (and not of the controller) and that the only trigger that is relevant to the patent application is a so-called count trigger or mystery quantum equalisation trigger at the level of the controller, not the gaming machine.</sentence>
+<sentence id="s183">51 The claim is for a method wherein the prize is executed by a counting of play signals (referable to a defined aspect of the play of the game) to a given level (the prize win count).</sentence>
+<sentence id="s184">What is to be counted by reference to the play signal is not defined; but it is some aspect of the playing of the game.</sentence>
+<sentence id="s185">52 The method in the specification is wide enough to encompass the possibility of setting the prize win count value at "1" and of choosing an aspect of the play, including a particular combination or result, as the part of the signal to be counted.</sentence>
+<sentence id="s186">This would produce a bonus win when a particular combination appears for the first time.</sentence>
+<sentence id="s187">Equally, the prize win count may be fixed (arbitrarily or randomly) at 2, 3, 5, 10 and so on, such that the bonus prize is won by the 2 nd , 3 rd , 5 th , 10 th and so on particular combination that is reached by counting.</sentence>
+<sentence id="s188">53 Thus, even accepting for the moment the respondent's submission that "count" is used in the patent application in a sense wider than merely recognising and recording the occurrence or non-occurrence of an event and includes the notion of adding up to (counting up to) an enumerated value, the patent application can be seen to encompass the setting of the prize win count value to "1" and the criterion of the play which is separately counted as an event involving a given combination.</sentence>
+<sentence id="s189">54 There does not appear to be any reason from the specification why the prize win count value could not be '1'.</sentence>
+<sentence id="s190">That this is so is made clear by Mr Daley's description in his affidavit of triggers and count triggers.</sentence>
+<sentence id="s191">In that discussion he refers to a "master number" being randomly generated.</sentence>
+<sentence id="s192">Such could be "1" to whatever number was shown as a limit for the random generation.</sentence>
+<sentence id="s193">55 Thus the claims of the patent application in suit can be seen to be wide enough to cover the (count of the) first (if the prize win count value is "1") signal of a chosen combination of symbols.</sentence>
+<sentence id="s194">It would also cover the 2 nd , 3 rd , 50 th or 100 th occasion that the chosen combination of symbols appeared.</sentence>
+<sentence id="s195">56 The words of claim 1, read in the light of the specification, appear to be wide enough to encompass the prize awarding phase operating with a prize win count value of "1" and a play and play signal therefrom being a particular combination of symbols as the subject or event counted (on this hypothesis counted to "1").</sentence>
+<sentence id="s196">In those circumstances, one of the many prize win count values could be "1" and one of the many criteria of play signals counted could be a given combination.</sentence>
+<sentence id="s197">Thus, the counting of the subsequent plays of one or more of the gaming machines are separately counted for their occurrence and the count of the first given combination equalled the prize count value of "1".</sentence>
+<sentence id="s198">The Bennett Patent 
+ 
+57 With this construction of the patent application in suit I now turn to the Bennett Patent.</sentence>
+<sentence id="s199">58 The Bennett Patent said that it was concerned with:
+ 
+ "...improvements in video gaming machines and more particularly to an arrangement in which a plurality of such video machines may be linked together through a controller by means of which, under specified conditions, a bonus prize can be awarded to the player of one of the video machines.</sentence>
+<sentence id="s200">
+ 
+ It is well known to provide a large bonus prize or jackpot from a group of linked poker or video machines in which a small percentage of each player's coin contributes to a pooled prize.</sentence>
+<sentence id="s201">The present invention provides a means of providing a bonus prize that is different from and has advantages over known methods.</sentence>
+<sentence id="s202">" 
+ 
+
+59 The consistory clause of the Bennett Patent described an arrangement of a controller arranged to control the delivery of a bonus prize to one player of a number of gaming machines linked to the controller.</sentence>
+<sentence id="s203">The connection of the gaming machines to the controller allowed transmission of electrical signals between the machines and the controller.</sentence>
+<sentence id="s204">The signals might relate to a percentage of payments into the machine or games played on the machine.</sentence>
+<sentence id="s205">The clause then continued in the following terms:
+ 
+ "...the controller included micro-processor/computer means, said means being controlled by a programme, the programme being arranged so that on receipt of signals from the machines serving to indicate that a predetermined sum had been accumulated for payment as a bonus prize or a predetermined number of games had been played in the machines the programme causes the controller to provide a visible and/or audible indication to each player and simultaneously acts to suspend any game being played on any of the machines and to impose a new game common to all machines and to award a bonus prize to the player of any machine first to achieve a predetermined objective , the programme thereafter causing the controller to provide an indication on all machines that the bonus prize had been awarded and causing all machines to revert to independent games.</sentence>
+<sentence id="s206">" 
+ [emphasis added]
+ 
+
+60 In describing the preferred embodiments by reference to the figures, the following was stated by reference to figure 2 (which is attached to these reasons):
+ 
+ "As indicated in the diagram in Figure 2, once a sufficient sum is credited in the controller from the video machines the controller causes a message to be displayed on each machine giving particulars of the bonus prize to be won and the combination required to win it.</sentence>
+<sentence id="s207">It simultaneously arrests games being played on the individual machines and imposes a secondary game screen common to all machines.</sentence>
+<sentence id="s208">The first machine to display the combination of three jacks wins the bonus and thereafter the programme of the controller causes the individual machines to revert to their original games.</sentence>
+<sentence id="s209">" 
+ 
+
+61 The relevant parts of the claims of the Bennett patent were as follows:
+ 
+ "...the programme being arranged so that on receipt of signals from the machines serving to indicate that a predetermined sum had been accumulated for payment as a bonus prize or a predetermined number of games had been played in the machines the programme causes the controller to provide a visible and/or audible indication to each player and simultaneously acts to suspend any game being played on any of the machines and to impose a new game common to all machines and to award a bonus prize to the player of the any machine first to achieve a predetermined objective, the programme thereafter causing the controller to provide an indication on all machines that the bonus prize had been awarded and causing all machines to revert to independent games.</sentence>
+<sentence id="s210">" 
+ [emphasis added]
+ 
+
+62 Critical to understanding the Bennett Patent is the phrase used in both the consistory clause and the claims: "a predetermined objective".</sentence>
+<sentence id="s211">The applicant submitted that the phrase is wide enough to encompass a mystery quantum equalisation trigger, and that the disclosure thereby was sufficiently clear to amount to an anticipation.</sentence>
+<sentence id="s212">63 The body of the specification of the Bennett Patent only expressly disclosed a combination trigger as illustrative of the predetermined objective.</sentence>
+<sentence id="s213">The combination trigger is the illustration used in the body of the specification and in the drawings.</sentence>
+<sentence id="s214">The specification, however, was clear that the embodiments were illustrative only:
+ 
+ "It will be appreciated by person skilled in the art that numerous variations and/or modifications may be made to the invention as shown in the specific embodiments without departing from the spirit or scope of the invention as broadly described.</sentence>
+<sentence id="s215">The present embodiments are, therefore, to be considered in all respects as illustrative and not restrictive.</sentence>
+<sentence id="s216">" 
+ 
+
+64 The evidence was that the phrase "predetermined objective" was well-understood by anyone skilled in the art to be wide enough to encompass not only a combination trigger but also a mystery quantum equalisation trigger.</sentence>
+<sentence id="s217">This point is made most clearly in Mr Daley's evidence.</sentence>
+<sentence id="s218">Mr Daley was clear in his evidence that the phrase predetermined objective was wide enough to include any one of the numerous parameters available as a basis to award a prize or to act as a trigger, including a mystery quantum equalisation trigger or combination trigger.</sentence>
+<sentence id="s219">Mr Daley, however, in the context of the various references in the Bennett Patent to combination triggers, interpreted the general phrase "predetermined objective" to be limited to a predetermined objective by combination trigger.</sentence>
+<sentence id="s220">Novelty and the Bennett Patent 
+ 
+65 An essential step in deciding any question of novelty or anticipation is the proper construction of both the prior publication and the claims in the patent application in the light of all admissible evidence: General Tire &amp; Rubber Company v Firestone Tyre and Rubber Company Ltd (1971) 1A IPR 121 at 137-38.</sentence>
+<sentence id="s221">The matter was expressed in General Tire &amp; Rubber 1A IPR at 138 as follows:
+ 
+ "When the prior inventor's publication and the patentee's claim have respectively been construed by the court in the light of all properly admissible evidence to technical matters, the meaning of words and expressions used in the art and so forth, the question whether the patentee's claim is new for the purposes of s 32(1)(e) falls to be decided as a question of fact.</sentence>
+<sentence id="s222">If the prior inventor's publication contains a clear description of, or clear instructions to do or make, something that would infringe the patentee's claim if carried out after the grant of the patentee's patent, the patentee's claim will have been shown to lack the necessary novelty, that is to say, it will have been anticipated.</sentence>
+<sentence id="s223">The prior inventor, however, and the patentee may have approached the same device from different starting points and may for this reason, or it may be for other reasons, have so described their devices that it cannot be immediately discerned from a reading of the language which they have respectively used that they have discovered in truth the same device; but if carrying out the directions contained in the prior inventor's publication will inevitably result in something being made or done which, if the patentee's patent were valid, would constitute an infringement of the patentee's claim, this circumstance demonstrates that the patentee's claim has in fact been anticipated.</sentence>
+<sentence id="s224">
+ 
+ If, on the other hand, the prior publication contains a direction which is capable of being carried out in a manner which would infringe the patentee's claim, but would be at least as likely to be carried out in a way which would not do so, the patentee's claim will not have been anticipated, although it may fail on the ground of obviousness.</sentence>
+<sentence id="s225">To anticipate the patentee's claim the prior publication must contain clear and unmistakable directions to do what the patentee claims to have invented: Flour Oxidising Co Ltd v Carr &amp; Co Ltd (1908) 25 RPC 428 at 457, line 34, approved in BTH Co Ltd v Metropolitan Vickers Electrical Co Ltd (1928) 45 RPC 1 at 24, line 1.</sentence>
+<sentence id="s226">A signpost, however clear, upon the road to the patentee's invention will not suffice.</sentence>
+<sentence id="s227">The prior inventor must be clearly shown to have planted his flag at the precise destination before the patentee.</sentence>
+<sentence id="s228">" 
+ [emphasis added] 
+
+66 The basic test for anticipation or want of novelty is the reverse infringement test set out by Aickin J in Meyers Taylor Pty Ltd v Vicarr Industries Ltd [1977] HCA 19 ; (1977) 137 CLR 228 at 235.</sentence>
+<sentence id="s229">Assistance is derived in applying this test by adopting and adapting the words of Lord Westbury LC in Hill v Evans (1862) 31 LJ Ch 457 at 463; 1A IPR 1 at 6-7, incorporating the relevant circumstances here:
+ 
+ "... the antecedent statement [the Bennett Patent] must be such that a person of ordinary knowledge of the subject [Mr Daley or Mr Culley] would at once perceive, understand and be able practically to apply the discovery [the terms of the Bennett Patent, a two-staged system with the second place ending with the award of the prize by the first to attain a pre-determined objective] without the necessity of making further experiments and gaining further information before the invention can be made useful.</sentence>
+<sentence id="s230">If something remains to be ascertained which is necessary for the careful application of the discovery, that affords sufficient room for another valid patent.</sentence>
+<sentence id="s231">" 
+ 
+
+See also Olin Corporation v Super Cartridge Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 261.</sentence>
+<sentence id="s232">67 The reverse infringement test cannot be applied literally: see Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 at 528 and R D Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 at 568-569.</sentence>
+<sentence id="s233">And see generally Bristol Myers Squibb Company v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 at 546-49 [60] - [68] ; Jupiter Ltd v Neurizon Pty Ltd (2005) 65 IPR 86 at 105-106; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230; Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co (2005) 68 IPR 1 at 66-69 [311]-[324]; Imperial Chemical Industries Pty Ltd v Commissioner of Patents (2004) 63 IPR 476 at 487-490 [60]-[68]; Merck &amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 68 IPR 511 at 537-538 [104] - [112] .</sentence>
+<sentence id="s234">68 The Bennett Patent undoubtedly discloses a two stage progressive prize system.</sentence>
+<sentence id="s235">It discloses the accumulation of a bonus prize in a separate and antecedent prize accumulation phase.</sentence>
+<sentence id="s236">It discloses a separate and subsequent prize awarding phase.</sentence>
+<sentence id="s237">Taking the Bennett Patent only to disclose a combination trigger, the question arises whether it would infringe the patent granted based on the application.</sentence>
+<sentence id="s238">For the reasons that I have already set out, in my view, the terms of the claims as drawn in the light of the body of the application encompass a master number in the prize awarding phase, the prize win count value --- being set at '1" and the play signals being counted being some combination.</sentence>
+<sentence id="s239">On this basis, the Bennett Patent would infringe by reason of the first combination chosen being the event which is counted to "1".</sentence>
+<sentence id="s240">I do not think that this gives a forced construction to the word "count".</sentence>
+<sentence id="s241">In one sense, it is merely the controller recognising the combination.</sentence>
+<sentence id="s242">But there is nothing in the claims of the patent application which restricts the prize win count value to a number above '1', or which restricts the subject of the play signal to subjects other than symbol combinations, or which restricts the claims to what Mr Daley would distinguish as a mystery quantum equalisation trigger and excludes from the purview of the claims a combination trigger in the second stage.</sentence>
+<sentence id="s243">Nor do the claims identify secrecy, as opposed to a known winning combination.</sentence>
+<sentence id="s244">69 On this construction of the patent application, which I think is correct, the Bennett Patent anticipates claims 1 and 9.</sentence>
+<sentence id="s245">70 Aristocrat presses another basis for anticipation even if it be the case that the patent application is not to be construed as wide enough to encompass a combination trigger.</sentence>
+<sentence id="s246">It submitted that the evidence was clear that anyone skilled in the art would understand that the Bennett Patent taught that the predetermined objective upon which to award the prize could be a mystery quantum equalisation trigger.</sentence>
+<sentence id="s247">The applicant stressed the clear evidence of Mr Daley as to the breadth of the phrase and the clear statement in the specification set out above that the embodiments were illustrative only.</sentence>
+<sentence id="s248">Recognising that the numerous variations and the drawings were illustrative and not restrictive of predetermined objective, there was nothing to detract from the clear disclosure of the use of any kind of well-known trigger to award the prize in the second phase.</sentence>
+<sentence id="s249">In particular, it was said that the lack of an illustrative mystery quantum equalisation trigger did not teach away from the clear disclosure made by the well-understood phrase.</sentence>
+<sentence id="s250">71 On the other hand, IGT says that though the phrase "pre-determined objective" has a wider meaning, it is clearly used in the context in the Bennett Patent as referring only to the use of a set winning combination.</sentence>
+<sentence id="s251">72 IGT is correct that the context of the use of the phrase, in particular on page 3 lines 19, 29 and 34, page 4 lines 10 and 18, and figures 1, 2 and 4 reveal that the only use of the word is by reference to a combination trigger.</sentence>
+<sentence id="s252">These references do not, however, limit the terms of the claims which are in language which the witnesses agree is wide enough to encompass a mystery quantum equalisation trigger.</sentence>
+<sentence id="s253">The words have that meaning to someone skilled in the art and such a trigger, it was well-known and well-understood.</sentence>
+<sentence id="s254">In my view, the Bennett Patent teaches through its own clear language that the prize awarding stage, being the second stage of the game can end with the use of a mystery quantum equalisation trigger.</sentence>
+<sentence id="s255">73 The embodiments did not give any narrower meaning to the phrase "predetermined objective".</sentence>
+<sentence id="s256">Rather it was (non-exhaustively) exemplified in one way --- by a combination trigger.</sentence>
+<sentence id="s257">The phrase "predetermined objective" would be understood by anyone of ordinary knowledge of the subject to include both a combination trigger and a mystery quantum equalisation trigger.</sentence>
+<sentence id="s258">Thus the Bennett Patent can be understood to say that that the programme was arranged so that the programme causes the controller to impose a new game common to all machines and to award a bonus prize to the player of any machine first to achieve a predetermined objective whether by combination trigger or mystery quantum equalisation trigger, the embodiments being by reference to combination triggers.</sentence>
+<sentence id="s259">74 In my view, the terms of the Bennett Patent state the use of a mystery quantum equalisation trigger as the trigger to cause the winning of the bonus prize in the second and separate prize awarding phase.</sentence>
+<sentence id="s260">75 So understood, the patent application was anticipated and was and is not novel.</sentence>
+<sentence id="s261">Megabucks System 
+ 
+76 The operation of the so-called Megabucks System was not the subject of dispute.</sentence>
+<sentence id="s262">77 The system was described by Mr Culley as a so-called "Linked Progressive".</sentence>
+<sentence id="s263">The system comprised some 20 to 30 gaming machines installed in two clubs in New South Wales, the Twin Towns Service Club and the Benora Point Sports Club.</sentence>
+<sentence id="s264">These gaming machines were linked via a dedicated phone line to a controller located at a head office in Sydney to form a linked network.</sentence>
+<sentence id="s265">The operators at the clubs in which the Megabucks System was installed had a good working knowledge of the system because they were required to monitor the operation of the system and liaise with the company running the controller.</sentence>
+<sentence id="s266">The progressive prize was awarded to the gaming machine on the network whose play first generated the combination of symbols representing the highest paying award on the pay table or the jackpot.</sentence>
+<sentence id="s267">The software defining the operation of the system implemented a set of parameters for the progressive game.</sentence>
+<sentence id="s268">The maximum progressive prize was set at $100,000 because at the time the system was operating the Liquor Administration Board guidelines prescribed that the maximum value of any progressive prize that could be awarded on linked progressives was $100,000.</sentence>
+<sentence id="s269">The system was described in detail in [49] of Mr Culley's affidavit.</sentence>
+<sentence id="s270">I do not set all of that out in detail.</sentence>
+<sentence id="s271">In short, there was a bonus prize awarded through a combination trigger which could be won at any time in addition to normal prize winning.</sentence>
+<sentence id="s272">It could be won as soon as the game for it commenced.</sentence>
+<sentence id="s273">There was no second phase until a point (which might not be reached in any particular game) that the Liquor Administration Board limit of $100,000 was reached.</sentence>
+<sentence id="s274">In those circumstances, there had been, so Aristocrat said, a first stage in which that $100,000 prize was accumulated and thereafter a second phase which could be seen as the prize awarding phase.</sentence>
+<sentence id="s275">The prize was awarded, as I have said, with a combination trigger.</sentence>
+<sentence id="s276">Once the prize was set at $100,000 by the limitation of the Liquor Administration Board rules, the criteria which had led to the accumulation of the prize to $100,000 continued to accumulate in another pool which was carried over into the next game.</sentence>
+<sentence id="s277">78 Whilst I do not accept Mr Daley's construction of the patent application, I do agree with Mr Daley that the Megabucks System is not a two-phase progressive jackpot system.</sentence>
+<sentence id="s278">Rather it is, in essence, a single-phase system.</sentence>
+<sentence id="s279">Even if the $100,000 limit is reached, the game has operated up to that point with a prize accumulation and prize awarding phase being coterminuous.</sentence>
+<sentence id="s280">The patent application in suit calls for two separate and always separate phases.</sentence>
+<sentence id="s281">For this reason, I do not think that the relevant integer of the patent application claims, that is the two stage operation, is met by the Megabucks System.</sentence>
+<sentence id="s282">Conclusions on Novelty in relation to claims 1 and 9 
+ 
+79 In my view claims one and nine were anticipated by the Bennett Patent for the reasons I have set out and were not anticipated by the Megabucks System.</sentence>
+<sentence id="s283">80 In reaching these conclusions, I have considered the questions of onus and the function of the Court in an appeal such as this.</sentence>
+<sentence id="s284">The common ground between the parties that I must reach a concluded view about the meaning of the patent application and the asserted anticipation leads to the result that I have come to.</sentence>
+<sentence id="s285">Ms Howard, senior counsel for IGT, strongly pressed me with the argument that to the extent that novelty was to be decided by what the Bennett Patent taught the reader, there was room for a difference of opinion.</sentence>
+<sentence id="s286">In such a case, the relevant disclosure could not, she submitted, be concluded with the necessary clarity.</sentence>
+<sentence id="s287">Notwithstanding these submissions, in my view, the proper construction of the patent application in suit and of the Bennett Patent leads to the conclusion that it is practically certain that the patent to be-granted on the specification would be invalid on the ground that it was not novel at the relevant date.</sentence>
+<sentence id="s288">On one view, it is a matter of appreciating that the patent application in suit was wide enough to encompass the Bennett Patent; on another view the Bennett Patent used language to be understood as, in terms, stating the relevant integer of the patent application in suit --- that the prize in the second phase could be awarded by a mystery quantum equalisation trigger.</sentence>
+<sentence id="s289">81 I appreciate that this conclusion diverges from the views expressed by the delegate.</sentence>
+<sentence id="s290">It is clear that the delegate did not have available to him the clarity of evidence about the meaning of the phrase "predetermined objective" that I did.</sentence>
+<sentence id="s291">At [19] to [22] of his reasons the delegate said the following (the Bennett Patent is referred to as "Ainsworth"):
+ 
+ 
+ "19.</sentence>
+<sentence id="s292">The description at page 2, lines 32 to 34, states that after any games have been suspended, the controller acts to "...impose a new game common to all machines and to award a bonus prize to the player of any mancine first to achieve a predetermined objective...".</sentence>
+<sentence id="s293">The "predetermined objective" consists of a nominated line-up of cards, and the only example provided of this is the first machine to display the combination of three jacks.</sentence>
+<sentence id="s294">
+ 
+ 
+ 
+ 
+ 
+ 20.</sentence>
+<sentence id="s295">It is clear that Ainsworth is concerned with a linked gaming machine system having a prize accumulation phase and a prize awarding phase.</sentence>
+<sentence id="s296">It cannot be said, however, that the citation discloses "plays of one or more of the gaming machines [being] separately counted for their occurrence..." (my emphasis), as required by claim 1 of the present invention.</sentence>
+<sentence id="s297">
+ 
+ 
+ 
+ 
+ 
+ 21.</sentence>
+<sentence id="s298">In Ainsworth, the bonus prize is awarded to the first player who achieves the "predetermined result".</sentence>
+<sentence id="s299">Play signals from the other linked gaming machines have no influence during this prize awarding phase.</sentence>
+<sentence id="s300">The play signals are not accumulated in any fashion, and the likelihood of any one player achieving the predetermined result is independent of all the other players.</sentence>
+<sentence id="s301">This is unlike the situation in the instant application, in which play signals from every player are counted towards the "prize win count value".</sentence>
+<sentence id="s302">This strikes me as a significant difference.</sentence>
+<sentence id="s303">Furthermore, to characterise the occurrence of a particular line-up of cares as a "count" is to impose a construction beyond the fair meaning of the language used, and I see no reason to depart from the plain meaning of the word.</sentence>
+<sentence id="s304">
+ 
+ 
+ 
+ 
+ 
+ 22.</sentence>
+<sentence id="s305">The distinction of plays being "separately counted for their occurrence" is, I believe, sufficient to confer novelty on the presently claimed invention over what is disclosed by Ainsworth, particularly bearing in mind where the benefit of the doubt lies in opposition actions, as expressed by the High Court in Microcell Ltd.'s Application [1958] HCA 58 ; 102 CLR 232: 
+ 
+ 
+ 'it is well settled that the Commissioner ought not to refuse acceptance of an application and specification unless it appears practically certain that letters patent granted on the specification would be held invalid.</sentence>
+<sentence id="s306">'"
+ 
+
+82 If one recognises that the phrase "predetermined objective" clearly encompasses a mystery quantum equalisation trigger, the notion of counting in the patent application in suit is contained in the Bennett Patent insofar as the mystery quantum equalisation trigger is encompassed within the meaning of "predetermined objective".</sentence>
+<sentence id="s307">83 Thus, giving respect to the view of the delegate, I have come to a different view as to the meaning and content of the words in the claims of the Bennett Patent.</sentence>
+<sentence id="s308">Obviousness 
+ 
+84 The Bennett Patent was agreed not to be part of the common general knowledge.</sentence>
+<sentence id="s309">The known details of the operation of the Megabucks System, in my view, made it clearly part of the common general knowledge.</sentence>
+<sentence id="s310">No serious debate took place in relation to this.</sentence>
+<sentence id="s311">85 I am not, however, prepared to conclude on the evidence of Mr Culley and Mr Daley that it was practically certain that there was no inventive step from the common general knowledge reflected in the specification of the patent application and Megabucks System.</sentence>
+<sentence id="s312">Whilst the different types of triggers were both well known, the existing common general knowledge (which on this hypothesis excludes the Bennett Patent) did not use a two phase system in which a prize awarding phase was concluded by the award of a prize based on a mystery quantum equalisation trigger.</sentence>
+<sentence id="s313">Given the test set out in cases referred to earlier, I do not think it can be concluded that it was practically certain that this was obvious.</sentence>
+<sentence id="s314">If the Bennett Patent were seen as part of the common general knowledge a different conclusion might well arise, even if I am wrong about the clarity of what it teaches for the purposes of novelty.</sentence>
+<sentence id="s315">The balance of the claims 
+ Claims 2 and 10 
+ 
+86 It is agreed that claims 2 and 10 stand or fall with claims 1 and 9, they are therefore bad as anticipated.</sentence>
+<sentence id="s316">Claims 3 and 11 
+ 
+87 Claim 3 is in the following terms:
+ 
+ "A method as claimed in either one of claim 1 or claim 2 whereby said play signals generated in the prize awarding phase are based on any one or more of coin-in, coin-out, play duration, number of game plays and quantum of wager for the respective gaming machines.</sentence>
+<sentence id="s317">" 
+ 
+
+88 Claim 11 is in the following terms:
+ 
+ "A system as claimed in either one of claim 9 or claim 10, wherein said play signals generated in the prize awarding phase are based on any one or more of coin-in, coin-out, play duration, number of game plays and quantum of wager for the respective gaming machines.</sentence>
+<sentence id="s318">" 
+ 
+
+89 So understood that this claim does not encompass a play signal generated in the prize awarding phase based on a combination of symbols.</sentence>
+<sentence id="s319">Rather, it contemplates and encompasses play signals generated which are based on numerical notions of coin-in (that is money in) coin-out, play duration (that is a length of time and number of game plays and quantum wager).</sentence>
+<sentence id="s320">So limited, this does not encompass, and would not be anticipated by a piece of prior art such as Bennett Patent dealing with, a combination trigger in the prize awarding phase.</sentence>
+<sentence id="s321">However, the alternative reason why there is anticipation here, that is the breadth of the terms and teaching of the Bennett Patent equally deals with these claims because the Bennett Patent stated and taught that any form of mystery quantum equalisation trigger (and thus counting to a nominated prize win count to award the prize) at the second phase.</sentence>
+<sentence id="s322">Claims 4 and 12 
+ 
+90 Claims 4 and 12 are in the following terms:
+ 
+ "4.</sentence>
+<sentence id="s323">A method as claimed in claim 3, whereby, in the prize awarding phase, the gaming machines contributing to the separate count includes any one of: 
+ (i) all the gaming machines, 
+ (ii) only the gaming machines playing during the prize accumulation phase, 
+ or 
+ (iii) only the gaming machines playing during a short time period reckoned from the commencement of the prize awarding phase.</sentence>
+<sentence id="s324">
+ 
+ 
+ 
+ 
+ 12.</sentence>
+<sentence id="s325">A system as claimed in claim 11, wherein, in the prize awarding phase, the gaming machines contributing to the separate count includes any one of: 
+ 
+ 
+ (i) all the gaming machines, 
+ (ii) only the gaming machines playing during the prize accumulation phase, 
+ or 
+ (iii) only the gaming machines playing during a short time period reckoned from commencement of the prize awarding phase.</sentence>
+<sentence id="s326">
+ 
+ 
+ From commencement of the prize awarding phase.</sentence>
+<sentence id="s327">" 
+ 
+ 
+ 
+
+91 To the extent that claims 3 and 11 are used as the base for claims 4 and 12, respectively, that is to the extent that claims 4 and 12 are dependent on claims 3 and 11, the same reasons are given in relation to claims 4 and 12 as in relation to claims 3 and 11.</sentence>
+<sentence id="s328">Also, whilst the limitations on the machines which can participate in the prize awarding phase is not taught specifically by the Bennett Patent, the terms and teaching of the Bennett Patent are that any mystery quantum equalisation trigger can be used in the second phase and the Bennet Patent can thus be seen to anticipate in this regard.</sentence>
+<sentence id="s329">Claims 5 to 7 and 13 to 15 
+ 
+92 IGT did not assert that these claims were valid independently of claims 1 and 9.</sentence>
+<sentence id="s330">Claims 8 and 16 
+ 
+93 Claims 8 and 16 were in the following terms:
+ 
+ "8.</sentence>
+<sentence id="s331">A method as claimed in any one of the preceding claims, further comprising the steps of: 
+ continuing to add value for each play signal during the prize awarding phase; 
+ accumulating the added value during the prize awarding phase into an excess pool; 
+ initiating a second prize accumulation phase after the prize awarding phase; and 
+ using the excess pool as at least a portion of an initial value during the second prize accumulation phase.</sentence>
+<sentence id="s332">
+ 
+ 16.</sentence>
+<sentence id="s333">A system as claimed in any one of claims 9 to 15, further operable to continue to add a value for each play signal during the prize awarding phase, accumulate the added value during the prize awarding phase into an excess pool, initiate a second prize accumulation phase after the prize awarding phase, and use the excess pool as at least a portion of an initial value during the second prize accumulation phase.</sentence>
+<sentence id="s334">" 
+ 
+
+94 These claims deal with a continued accumulation in the excess pool.</sentence>
+<sentence id="s335">Bennett Patent did not teach this.</sentence>
+<sentence id="s336">However, claims 8 and 16 are only valid if some earlier claim, such as claim 3 can survive, for the reasons I have expressed earlier I do not think that is the case.</sentence>
+<sentence id="s337">Claims 20 and 21 
+ 
+95 Claims 20 and 21 were in the following terms:
+ 
+ "20.</sentence>
+<sentence id="s338">A method of awarding a bonus prize substantially as herein described and as shown in the accompanying drawings.</sentence>
+<sentence id="s339">
+ 
+ 21.</sentence>
+<sentence id="s340">A gaming machine system substantially as herin [sic] described and as shown in the accompanying drawings.</sentence>
+<sentence id="s341">" 
+ 
+ 
+
+96 I do not see how even if one accepts that the omnibus claims here are as described and are contained in the figures that there is a limitation such that these claims are valid independently of the other claims.</sentence>
+<sentence id="s342">I may have misunderstood the arguments of IGT in this regard.</sentence>
+<sentence id="s343">I propose to have the parties bring in short minutes in the light of these reasons.</sentence>
+<sentence id="s344">In that process the parties may wish to turn their attention to any aspect of the submissions which may be said not to have been fully dealt with in these reasons.</sentence>
+<sentence id="s345">Claim 19 
+ 
+97 Claim 19 is in the following terms:
+ 
+ "19 A method as claimed in either one of claims 17 or 18, wherein said method further comprises the steps of: 
+ continuing to use the processor to track the amount of money played on the gaming devices during the prized [sic] awarding phase; 
+ allocating a portion of the money played on the gaming devices to an excess pool during the prize awarding phase; and 
+ adding the excess pool to the bonus pool after the prize awarding phase.</sentence>
+<sentence id="s346">" 
+ 
+
+98 Counsel were agreed that for the purposes of these proceedings claim 19 stands or falls with claims 8 and 12 which I have already dealt with.</sentence>
+<sentence id="s347">99 Aristocrat should bring in short minutes to reflect these reasons.</sentence>
+<sentence id="s348">Subject to hearing the parties, the applicant would appear to be entitled to the orders sought in the notice of appeal.</sentence>
+<sentence id="s349">If there is any aspect that I have overlooked referable to the way the various claims fall out, this can be taken up in any debate on the form of orders.</sentence>
+<sentence id="s350">I certify that the preceding ninety-nine (99) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Allsop .</sentence>
+<sentence id="s351">Associate:
+Dated: 7 February 2007
+
+
+ Counsel for the Applicant: Mr D K Catterns QC and Ms S J Goddard 
+ 
+ Solicitor for the Applicant: Freehills 
+ 
+ Counsel for the Respondents: Ms K J Howard SC and Mr C Dimitriatis 
+ 
+ Solicitor for the Respondents: Spruson &amp; Ferguson Lawyers 
+ 
+ Date of Hearing: 9, 10 and 11 October 2006 
+ 
+ Date of last Submission: 17 October 2006 
+ 
+ Date of Judgment: 7 February 2007 
+
+ ANNEXURE A
+
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/37.html 
+ 
+ </sentence>
+</sentences>
+</case>

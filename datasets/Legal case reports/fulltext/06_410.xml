@@ -1,0 +1,1045 @@
+<?xml version="1.0"?>
+<case>
+<name>Australian Communications and Media Authority v Clarity1 Pty Ltd [2006] FCA 410 (13 April 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/410.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">unsolicited commercial electronic messages ('spam')</catchphrase>
+<catchphrase "id=c1">use of harvested electronic addresses</catchphrase>
+<catchphrase "id=c2">new legislation</catchphrase>
+<catchphrase "id=c3">harvesting predating legislation</catchphrase>
+<catchphrase "id=c4">sending of large volume of proscribed messages</catchphrase>
+<catchphrase "id=c5">messages contained unsubscribe facility</catchphrase>
+<catchphrase "id=c6">messages to united kingdom with australian link</catchphrase>
+<catchphrase "id=c7">none of the messages designated commercial electronic messages</catchphrase>
+<catchphrase "id=c8">inference of consent not open from presence of unsubscribe facility in the particular circumstances</catchphrase>
+<catchphrase "id=c9">inference of consent not open on basis of business or other relationship</catchphrase>
+<catchphrase "id=c10">nature of such relationship</catchphrase>
+<catchphrase "id=c11">no application of defence of authority of user of account</catchphrase>
+<catchphrase "id=c12">defence of conspicuous publication not made out in the circumstances</catchphrase>
+<catchphrase "id=c13">harvested-address lists used</catchphrase>
+<catchphrase "id=c14">sole director liable as an accessory in the circumstances</catchphrase>
+<catchphrase "id=c15">media law</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 This is an application for orders under ss 24 , 29 and 32 of the Spam Act 2003 (Cth) ('the Spam Act ') and declaratory relief under s 21 of the Federal Court of Australia Act 1976 (Cth) in respect of alleged sending of unsolicited commercial electronic messages ('CEMs') and the use of harvested electronic addresses.</sentence>
+<sentence id="s1">THE PLEADINGS 
+ 
+2 The applicant is a body corporate under s 15 of the Australian Communications Authority Act 1997 (Cth).</sentence>
+<sentence id="s2">With effect from 1 July 2005 it has become styled as the Australian Communications and Media Authority by operation of item 6(1) of Pt 2 of Sch 4 of the Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005 (Cth).</sentence>
+<sentence id="s3">3 The first respondent ('Clarity1') is a company incorporated in Australia.</sentence>
+<sentence id="s4">From 15 October 2003 it carried on business under the business name of Business Seminars Australia and the name of the Maverick Partnership.</sentence>
+<sentence id="s5">The former business name had initially been unregistered until 19 July 2001 when it was transferred by the second respondent ('Mr Mansfield') to The Which Company Pty Ltd, of which he was the sole director.</sentence>
+<sentence id="s6">The latter company transferred the name to Clarity1 on 15 October 2003.</sentence>
+<sentence id="s7">4 From 1 October 2003 Mr Mansfield has been the sole director of Clarity1.</sentence>
+<sentence id="s8">He supervises and is ultimately responsible for the business carried on by Clarity1.</sentence>
+<sentence id="s9">That business is carried on in each of the States and Territories of Australia.</sentence>
+<sentence id="s10">5 The further amended statement of claim pleads that in the course of its business from 1 October 2003 to the present date, Clarity1 obtained a number of electronic addresses by one or several means.</sentence>
+<sentence id="s11">These, it is said, include obtaining electronic addresses in the possession of Mr Mansfield which he had obtained:
+ 
+ 
+ '1.</sentence>
+<sentence id="s12">during the period from approximately 1997 until approximately 15 October 2003 by using, or instructing others to use on his behalf, address-harvesting software to compile lists of electronic addresses from the Internet; and 
+ 
+ 2. during the period from approximately 1997 until approximately January 2002 by purchasing, or instructing other persons to purchase on his behalf, electronic address lists of electronic addresses harvested from the Internet from organisations or persons selling such lists; ...' 
+ 
+ 
+
+ 6 Additionally it is said that the electronic addresses were in the possession of The Which Company Pty Ltd and these had been obtained:
+ 
+ 
+ '1.</sentence>
+<sentence id="s13">during the period from approximately 19 July 2001 until approximately 15 October 2003 by using address-harvesting software to compile lists of electronic addresses from the Internet; and 
+ 
+ 2. during the period from approximately 19 July 2001 until at least January 2002 by purchasing electronic address lists of electronic addresses harvested from the Internet by using address-harvesting software from organisations or persons selling such lists; ...' 
+ 
+ 
+
+7 Further it is pleaded that during the period from 1 October 2003 until approximately February 2005, Clarity1 obtained lists of electronic addresses harvested from the internet using address-harvesting software from organisations or persons selling such lists.</sentence>
+<sentence id="s14">8 Then it is pleaded that when Clarity1 had obtained such electronic addresses, it immediately entered them into a series of databases ('the Databases') and text documents, being lists of electronic addresses ('the Lists').</sentence>
+<sentence id="s15">9 The conduct which is pleaded in the further amended statement of claim is that during the period from 10 April 2004 until the present date Clarity1 periodically sent, or caused to be sent, CEMs to electronic addresses obtained in the Databases and the Lists.</sentence>
+<sentence id="s16">It is said that these were sent by using an internet carriage service or listed carriage service and were sent to an electronic address in connection with an email account.</sentence>
+<sentence id="s17">Further, it is pleaded that they contained statements which:
+ 
+ '1.</sentence>
+<sentence id="s18">offered to supply a good or service; 
+ 
+ 2. advertised and/or promoted a good or service; 
+ 
+ 
+ 
+ 3. advertised and/or promoted Clarity1 as a supplier, or prospective supplier, of certain goods or services under its own name or under the business names of Business Seminars Australia or ... Maverick Partnership.</sentence>
+<sentence id="s19">' 
+ 
+
+
+Therefore it is pleaded that at all material times Clarity1 used and continues to use harvested address lists obtained during the period in the manner and circumstances pleaded which form part of, and remain in, the Databases and Lists.</sentence>
+<sentence id="s20">10 By reason of these matters it is pleaded the electronic messages referred to in [9] are CEMs within the meaning of s 6 of the Spam Act .</sentence>
+<sentence id="s21">Further, it is pleaded that they have an Australian link within the meaning of s 7 of that Act.</sentence>
+<sentence id="s22">11 In respect of a number of account-holders of the electronic addresses, it is pleaded Clarity1 did not:
+ 
+ 
+ '1.</sentence>
+<sentence id="s23">of its own volition, engage in any communications or correspondence with those account-holders other than to send the electronic messages ...; and 
+ 
+ 2. obtain the consent of the account-holders prior to sending the electronic messages ...' 
+ 
+ 
+ 
+
+Additionally it is pleaded that Mr Mansfield authorised on behalf of Clarity1 the sending of the electronic messages and that at all material times the content of them was written and/or approved by him.</sentence>
+<sentence id="s24">12 The contraventions pleaded are that by sending, or causing to be sent, electronic messages without first obtaining the consent of the recipients, Clarity1 sent, or caused to be sent, CEMs with an Australian link in contravention of s 16(1) of the Spam Act .</sentence>
+<sentence id="s25">Further it is pleaded that by engaging in the conduct of use of harvested address lists, Clarity1 acted in contravention of s 22(1)(b) of the same Act.</sentence>
+<sentence id="s26">13 In respect of each of these contraventions it is pleaded that Mr Mansfield was actively involved and knew the essential elements so that he was directly or indirectly, knowingly concerned in, or party to, each of those contraventions contrary to s 16(9) and s 22(3) respectively of the Spam Act .</sentence>
+<sentence id="s27">14 In the respondents' defence it is asserted that at no time since the Spam Act became effective have either of them collected any email addresses by electronic harvesting software and further have not engaged any third party to create lists of email addresses that have been obtained by the use of electronic harvesting software.</sentence>
+<sentence id="s28">It is asserted any email address added to the Lists has been obtained by strict adherence to the provisions of the Spam Act .</sentence>
+<sentence id="s29">Likewise, it is asserted that at no time has any electronic message (including a CEM or email) been sent by them to any electronic address that does not comply with the necessary conditions regarding permission as set out in the Spam Act .</sentence>
+<sentence id="s30">It is asserted by the respondents that where such conduct occurred permission for the sending of the message was obtained prior to the 'implementation' of the Spam Act , complying with the conditions required by the relevant government regulations and guidelines in place at the relevant time when the electronic address was obtained.</sentence>
+<sentence id="s31">15 Specifically it is asserted that each electronic message sent to any address complied with the Spam Act regarding having an unsubscribe facility.</sentence>
+<sentence id="s32">In the case of electronic messages being sent to an email address in the United Kingdom, it is asserted that the lists of email addresses used complied with the discretionary criteria of the Privacy and Electronics (EC Directive) Regulations 2003.</sentence>
+<sentence id="s33">There is also a denial that any email or electronic message with an Australian link has been sent to any email address other than those email addresses listed in Databases maintained by Clarity1.</sentence>
+<sentence id="s34">RELEVANT LEGISLATION AND REGULATIONS 
+ 
+16 The Spam Act received Royal Assent on 12 December 2003.</sentence>
+<sentence id="s35">The provisions of the Spam Act commenced on the date of Royal Assent, except for ss 15 --- 40 (inclusive), 41 , 
+ 43 --- 46 , Sch 1 and Sch 3 which commenced on 10 April 2004.</sentence>
+<sentence id="s36">Nothing is said to turn on the commencement date of any of the provisions here in issue.</sentence>
+<sentence id="s37">17 The Spam Act has been amended by the Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005 (Cth), which principally relates to the naming of the applicant and otherwise does not affect the provisions here in issue.</sentence>
+<sentence id="s38">PROVISIONS RELEVANT TO SENDING COMMERCIAL ELECTRONIC MESSAGES 
+ Conditions applicable to sending 
+ 
+18 Section 16 of the Spam Act deals with the sending of unsolicited CEMs.</sentence>
+<sentence id="s39">It relevantly provides:
+ 
+ '16(1) A person must not send, or cause to be sent, a commercial electronic message that: 
+ (a) has an Australian link; and 
+ (b) is not a designated commercial electronic message.</sentence>
+<sentence id="s40">
+ 
+ 
+ 
+ (2) Subsection (1) does not apply if the relevant electronic account-holder consented to the sending of the message.</sentence>
+<sentence id="s41">
+ 
+ 
+ 
+ 
+ 
+ Note: For the meaning of consent , see Schedule 2.</sentence>
+<sentence id="s42">
+ 
+ 
+ 
+ (3) Subsection (1) does not apply if the person: 
+ (a) did not know; and 
+ (b) could not, with reasonable diligence, have ascertained; 
+ that the message had an Australian link.</sentence>
+<sentence id="s43">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (4) Subsection (1) does not apply if the person sent the message, or caused the message to be sent, by mistake.</sentence>
+<sentence id="s44">
+ 
+ 
+ 
+ 
+ 
+ (5) A person who wishes to rely on subsection (2), (3) or (4) bears an evidential burden in relation to that matter.</sentence>
+<sentence id="s45">
+ 
+ 
+ 
+ 
+ 
+ (6) ... 
+ 
+ 
+ 
+ (7) ... 
+ 
+ 
+ 
+ (8) ... 
+ 
+ 
+ 
+ (9) A person must not: 
+ (a) aid, abet, counsel or procure a contravention of subsection (1) or (6); or 
+ (b) induce, whether by threats or promises or otherwise, a contravention of subsection (1) or (6); or 
+ (c) be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of subsection (1) or (6); or 
+ (d) conspire with others to effect a contravention of subsection (1) or (6).</sentence>
+<sentence id="s46">
+ 
+ (10) A person does not contravene subsection (9) merely because the person supplies a carriage service that enables an electronic message to be sent.</sentence>
+<sentence id="s47">
+ 
+ 
+ 
+ (11) Subsections (1), (6) and (9) are civil penalty provisions .</sentence>
+<sentence id="s48">' 
+ 
+ 
+
+19 The section is to be understood in relation to the definition of terms employed in it.</sentence>
+<sentence id="s49">Section 4 provides that 'send' includes attempt to send.</sentence>
+<sentence id="s50">Section 6 is titled 'Commercial electronic messages' and relevantly reads as follows:
+ 
+ 
+ '6(1) For the purposes of this Act, a commercial electronic message is an electronic message, where, having regard to: 
+ (a) the content of the message; and 
+ (b) the way in which the message is presented; and 
+ 
+ 
+ 
+ 
+ (c) the content that can be located using the links, telephone numbers or contact information (if any) set out in the message; 
+ 
+ 
+ 
+ 
+ it would be concluded that the purpose, or one of the purposes, of the message is: 
+ (d) to offer to supply goods or services; or 
+ (e) to advertise or promote goods or services; or 
+ 
+ 
+ 
+ 
+ (f) to advertise or promote a supplier, or prospective supplier, of goods or services; or 
+ 
+ 
+ 
+ 
+ (g) ... 
+ (h) ... 
+ 
+ 
+ 
+ 
+ (i) ... 
+ (j) ... 
+ (k) ... 
+ (l) ... 
+ (m) ... 
+ (n) ... 
+ (o) ... 
+ 
+ 
+ 
+ 
+ (p) ...' 
+ 
+ 
+
+20 Section 7 provides the meaning (see s 4) for Australian link in the following terms:
+ 
+ 
+ '7 For the purposes of this Act, a commercial electronic message has an Australian link if, and only if: 
+ 
+ 
+ (a) the message originates in Australia; or 
+ (b) the individual or organisation who sent the message, or authorised the sending of the message, is: 
+ (i) an individual who is physically present in Australia when the message is sent; or 
+ (ii) an organisation whose central management and control is in Australia when the message is sent; or 
+ (c) the computer, server or device that is used to access the message is located in Australia; or 
+ (d) the relevant electronic account-holder is: 
+ (i) an individual who is physically present in Australia when the message is accessed; or 
+ (ii) an organisation that carries on business or activities in Australia when the message is accessed; or 
+ (e) if the message cannot be delivered because the relevant electronic address does not exist--assuming that the electronic address existed, it is reasonably likely that the message would have been accessed using a computer, server or device located in Australia.</sentence>
+<sentence id="s51">' 
+ 
+ 
+ 
+ 
+
+21 Section 18 of the Spam Act provides that CEMs must contain a functional unsubscribe facility as follows:
+ 
+ 
+ '18(1) A person must not send, or cause to be sent, a commercial electronic message that: 
+ 
+ 
+ 
+ 
+ (a) has an Australian link; and 
+ (b) is not a designated commercial electronic message; 
+ unless: 
+ (c) the message includes: 
+ 
+ 
+ 
+ (i) a statement to the effect that the recipient may use an electronic address set out in the message to send an unsubscribe message to the individual or organisation who authorised the sending of the first-mentioned message; or 
+ (ii) a statement to similar effect; and 
+ 
+ 
+ 
+ (d) the statement is presented in a clear and conspicuous manner; and 
+ (e) the electronic address is reasonably likely to be capable of receiving: 
+ 
+ 
+ 
+ (i) the recipient's unsubscribe message (if any); and 
+ (ii) a reasonable number of similar unsubscribe messages sent by other recipients (if any) of the same message; 
+ 
+ 
+ 
+ at all times during a period of at least 30 days after the 
+ message is sent; and 
+ (f) the electronic address is legitimately obtained; and 
+ (g) the electronic address complies with the condition or conditions (if any) specified in the regulations.</sentence>
+<sentence id="s52">
+ 
+ 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ (9) For the purposes of the application of this section to a commercial electronic message, where the sending of the message is authorised by an individual or organisation, an unsubscribe message is: 
+ 
+ 
+ 
+ 
+ (a) an electronic message to the effect that the relevant electronic account-holder does not want to receive any further commercial electronic messages from or authorised by that individual or organisation; or 
+ (b) an electronic message to similar effect.</sentence>
+<sentence id="s53">' 
+ 
+ 
+ 
+ Designated commercial electronic messages 
+ 
+22 It will have been observed that the application of s 16 of the Spam Act requires reference to Sch 1 where the expression 'designated commercial electronic message' is defined in the following terms:
+ 
+ 
+ '2(1) For the purposes of this Act, an electronic message is a designated commercial electronic message if: 
+ 
+ 
+ (a) the message consists of no more than factual information (with or without directly-related comment) and any or all of the following additional information: 
+ (i) the name, logo and contact details of the individual or organisation who authorised the sending of the message; 
+ (ii) the name and contact details of the author; 
+ (iii) if the author is an employee--the name, logo and contact details of the author's employer; 
+ (iv) if the author is a partner in a partnership--the name, logo and contact details of the partnership; 
+ (v) if the author is a director or officer of an organisation--the name, logo and contact details of the organisation; 
+ (vi) if the message is sponsored--the name, logo and contact details of the sponsor; 
+ (vii) information required to be included by section 17 ; 
+ (viii) information that would have been required to be included by section 18 if that section had applied to the message; and 
+ (b) assuming that none of that additional information had been included in the message, the message would not have been a commercial electronic message; and 
+ (c) the message complies with such other condition or conditions (if any) as are specified in the regulations.</sentence>
+<sentence id="s54">' 
+ 
+
+23 In relation to a charity or charitable institutions, cl 3 of Sch 1 provides:
+ 
+ 
+ '3 For the purposes of this Act, an electronic message is a designated commercial electronic message if: 
+ 
+ 
+ (a) the sending of the message is authorised by any by any of the following bodies: 
+ 
+ (i) ...; 
+ (ii) ...; 
+ (iii) ,,,; 
+ (iv) a charity or charitable institution; and 
+ 
+ (b) the message relates to goods or services; and 
+ (c) the body is the supplier, or prospective supplier, of the goods or services concerned.</sentence>
+<sentence id="s55">' 
+ 
+ 
+ 
+ 
+
+24 In relation to educational institutions, cl 4 of Sch 1 reads:
+ 
+ 
+ '4 For the purposes of this Act, an electronic message is a designated commercial electronic message if: 
+ 
+ 
+ (a) the sending of the message is authorised by an educational institution; and 
+ (b) either or both of the following subparagraphs applies: 
+ (i) the relevant electronic account-holder is, or has been, enrolled as a student in that institution; 
+ (ii) a member or former member of the household of the relevant electronic account-holder is, or has been, enrolled as a student in that institution; and 
+ (c) the message relates to goods or services; and 
+ (d) the institution is the supplier, or prospective supplier, of the goods or services concerned.</sentence>
+<sentence id="s56">' 
+ 
+
+25 Clause 5 of Sch 1 provides that the regulations may provide that a specified kind of electronic message is a designated CEM for the purposes of the Spam Act .</sentence>
+<sentence id="s57">26 The Spam Regulations 2004 ('the Regulations') do not have any such relevant effect here.</sentence>
+<sentence id="s58">The Regulations commenced on the commencement of Pts 2 --- 6 of the Spam Act 
+(ss 15 --- 40).</sentence>
+<sentence id="s59">Concept of consent and the exception of conspicuous publication 
+ 
+27 Section 16 of the Spam Act also requires reference to Sch 2 where the concept of consent, of importance to this proceeding, is defined.</sentence>
+<sentence id="s60">28 Clause 2 in Sch 2 contains the 'basic definition' of 'consent' as follows:
+ 
+ '2 For the purposes of this Act, consent means: 
+ 
+ (a) express consent; or 
+ (b) consent that can reasonably be inferred from: 
+ (i) the conduct; and 
+ (ii) the business and other relationships; 
+ of the individual or organisation concerned.</sentence>
+<sentence id="s61">' 
+ 
+
+29 Clause 4 of the same Schedule contains the following provisions on the issue of when consent may be inferred from the publication of an electronic address:
+ 
+ 
+ '4(1) For the purposes of this Act, the consent of the relevant electronic account-holder may not be inferred from the mere fact that the relevant electronic address has been published.</sentence>
+<sentence id="s62">
+ 
+ 
+ 
+ 
+ 
+ (2) However, if: 
+ 
+ 
+ 
+ 
+ (a) a particular electronic address enables the public, or a section of the public, to send electronic messages to: 
+ 
+ 
+ 
+ (i) a particular employee; or 
+ (ii) a particular director or officer of an organisation; or 
+ (iii) a particular partner in a partnership; or 
+ (iv) a particular holder of a statutory or other office; or 
+ (v) a particular self-employed individual; or 
+ (vi) an individual from time to time holding, occupying or performing the duties of, a particular office or position within the operations of an organisation; or 
+ (vii) an individual, or a group of individuals, from time to time performing a particular function, or fulfilling a particular role, within the operations of an organisation; and 
+ 
+ 
+ 
+ (b) the electronic address has been conspicuously published; and 
+ (c) it would be reasonable to assume that the publication occurred with the agreement of: 
+ 
+ 
+ 
+ (i) if subparagraph (a)(i), (ii), (iii), (iv) or (v) applies--the employee, director, officer, partner, office-holder or self-employed individual concerned; or 
+ (ii) if subparagraph (a)(vi) or (vii) applies--the organisation concerned; and 
+ 
+ 
+ 
+ (d) the publication is not accompanied by: 
+ 
+ 
+ 
+ (i) a statement to the effect that the relevant electronic account-holder does not want to receive unsolicited commercial electronic messages at that electronic address; or 
+ (ii) a statement to similar effect; 
+ 
+ 
+ the relevant electronic account-holder is taken, for the purposes of this Act, to have consented to the sending of commercial electronic messages to that address, so long as the messages are relevant to: 
+ 
+ 
+ 
+ 
+ (e) if subparagraph (a)(i), (ii), (iii), (iv) or (v) applies--the work-related business, functions or duties of the employee, director, officer, partner, office-holder or self-employed individual concerned; or 
+ (f) if subparagraph (a)(vi) applies--the office or position concerned; or 
+ (g) if subparagraph (a)(vii) applies--the function or role concerned.</sentence>
+<sentence id="s63">' 
+ 
+ 
+ 
+
+30 Section 4 of the Spam Act defines 'publish' to include publishing on the internet and publishing to the public or a section of the public.</sentence>
+<sentence id="s64">31 Clause 5 of Sch 2 provides that the Regulations may provide that the consent of a relevant electronic account-holder may not be inferred in the circumstances specified in the Regulations or that the inference may be made in specified circumstances.</sentence>
+<sentence id="s65">The Regulations do not have any relevant effect here.</sentence>
+<sentence id="s66">PROVISIONS RELEVANT TO ADDRESS-HARVESTING 
+ 
+32 Section 22 of the Spam Act is titled 'Address-harvesting software and harvested-address lists must not be used'.</sentence>
+<sentence id="s67">The description of 'address-harvesting software' is defined in s 4 as follows:
+ 
+ ' address-harvesting software means software that is specifically designed or marketed for use for: 
+ 
+ (a) searching the Internet for electronic addresses; and 
+ (b) collecting, compiling, capturing or otherwise harvesting those electronic addresses.</sentence>
+<sentence id="s68">' 
+
+33 The same section defines 'harvested-address list' as follows:
+ 
+ ' harvested-address list means: 
+ 
+ 
+ (a) a list of electronic addresses; or 
+ (b) a collection of electronic addresses; or 
+ (c) a compilation of electronic addresses; 
+ 
+ 
+ where the production of the list, collection or compilation is, to any extent, directly or indirectly attributable to the use of address-harvesting software.</sentence>
+<sentence id="s69">' 
+ 
+
+34 In relation to the word 'use', s 4 provides it has a meaning affected by s 11.</sentence>
+<sentence id="s70">That latter section provides:
+ 
+ 
+ '11 Unless the contrary intention appears, a reference in this Act to the use of a thing is a reference to the use of the thing either: 
+ 
+ 
+ (a) in isolation; or 
+ (b) in conjunction with one or more other things.</sentence>
+<sentence id="s71">' 
+
+35 Section 22 reads:
+ 
+ 
+ '22(1) A person must not use: 
+ 
+ 
+ 
+ 
+ (a) address-harvesting software; or 
+ (b) a harvested-address list; 
+ 
+ 
+ 
+ 
+ if the person is: 
+ 
+ 
+ 
+ 
+ (c) an individual who is physically present in Australia at the time of the use; or 
+ (d) a body corporate or partnership that carries on business or activities in Australia at the time of the use.</sentence>
+<sentence id="s72">
+ 
+ 
+ 
+ 
+ 
+ 
+ (2) Subsection (1) does not apply in relation to the use of address-harvesting software or a harvested-address list, if the use was not in connection with sending commercial electronic messages in contravention of section 16.</sentence>
+<sentence id="s73">
+ 
+
+ 
+ 
+ 
+ (3) A person must not: 
+ 
+ 
+ 
+ 
+ (a) aid, abet, counsel or procure a contravention of subsection (1); or 
+ (b) induce, whether by threats or promises or otherwise, a contravention of subsection (1); or 
+ (c) be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of subsection (1); or 
+ (d) conspire with others to effect a contravention of subsection (1).</sentence>
+<sentence id="s74">
+ 
+ 
+ 
+ 
+ 
+ (4) Subsections (1) and (3) are civil penalty provisions .</sentence>
+<sentence id="s75">' 
+ 
+
+
+ PROVISIONS FOR CIVIL PENALTIES 
+ 
+36 Civil penalties are provided for in Pt 4 of the Spam Act .</sentence>
+<sentence id="s76">Section 24 provides for pecuniary penalties for contravention of civil penalty provisions as follows:
+ 
+ 
+ '24(1) If the Federal Court is satisfied that a person has contravened a civil penalty provision, the Court may order the person to pay to the Commonwealth such pecuniary penalty, in respect of each contravention, as the Court determines to be appropriate.</sentence>
+<sentence id="s77">
+ 
+ (2) In determining the pecuniary penalty, the Court must have regard to all relevant matters, including: 
+ 
+ 
+ 
+ 
+ (a) the nature and extent of the contravention; and 
+ (b) the nature and extent of any loss or damage suffered as a result of the contravention; and 
+ (c) the circumstances in which the contravention took place; and 
+ (d whether the person has previously been found by the Court in proceedings under this Act to have engaged in any similar conduct; and 
+ (e) if the Court considers that it is appropriate to do so--whether the person has previously been found by a court in a foreign country to have engaged in any similar conduct.</sentence>
+<sentence id="s78">' 
+ 
+ 
+
+37 Part 3 of the Regulations contains rules relating to unsubscribe facilities, none of which is at issue on this application.</sentence>
+<sentence id="s79">EVIDENCE 
+ 
+38 The applicant relies on 16 affidavits.</sentence>
+<sentence id="s80">Three of these are sworn by Mr Christopher Duffy, senior investigator of the applicant.</sentence>
+<sentence id="s81">The affidavit of Mr David Thompson, a partner of Deloitte Touche Tohmatsu ('Deloittes') was brought by way of expert evidence, as was the affidavit of Mr Benny Tak-Kuan Lee.</sentence>
+<sentence id="s82">The balance of the applicant's evidence comes from internet users.</sentence>
+<sentence id="s83">39 Admitted into evidence on behalf of the respondents are eight affidavits.</sentence>
+<sentence id="s84">The applicant did not seek to cross-examine any of these deponents.</sentence>
+<sentence id="s85">Likewise, the applicant did not oppose the admission into evidence of the respondents' affidavits provided they were subject to the applicant's objection based on lack of relevance.</sentence>
+<sentence id="s86">That objection will be determined as and when necessary in the light of the respondents' reliance on the affidavits in their submissions.</sentence>
+<sentence id="s87">40 The applicant also served on the respondents a notice to admit facts to which there was no response.</sentence>
+<sentence id="s88">This has the consequence that the facts identified in the notice have been admitted.</sentence>
+<sentence id="s89">The applicant's written submissions have summarised the source and the effect of the admissions in the following table:
+ Further Amended Statement of Claim Notice to Admit Facts Comments 3 2 Admissions regarding respondents' status and business carried on by them 4 2.4 and 3.4 Admissions about Mr Mansfield's role at Clarity1 5, 17 4 Admission that Mr Mansfield was the sole director of Clarity1 and ultimately responsible for the business carried on by Clarity1 6 5 Admissions about the business carried on by Clarity1 7 6, 7, 8, 9 Admissions that Clarity1 obtained electronic addresses that were from harvested-address lists or compiled using address-harvesting software as described 8 9 Admissions that the electronic addresses obtained from harvested-address lists or compiled using address-harvesting software were used by Clarity1 to send CEMs to electronic account-holders 9 11, 12, 13 Admissions that Clarity1 sent CEMs to electronic addresses in its possession 14 10 Admission that Clarity1 did not communicate with relevant account-holders or obtain express consent 
+41 There is a further source of admissions.</sentence>
+<sentence id="s90">There is in evidence before the Court annexed to an affidavit of Mr Duffy a transcript of an interview conducted by the applicant under s 522 of the Telecommunications Act 1997 (Cth) ('the Telecommunications Act ').</sentence>
+<sentence id="s91">During that interview admissions were made by Mr Mansfield both in his own capacity and in his capacity as the sole director of Clarity1.</sentence>
+<sentence id="s92">He did not take the opportunity during the hearing of giving evidence that refuted the admissions made in the interview.</sentence>
+<sentence id="s93">Section 524 of the Telecommunications Act operates to ensure that information given pursuant to a s 522 notice may be utilised despite the fact that by doing so an individual might tend to incriminate themselves or expose themselves to a penalty.</sentence>
+<sentence id="s94">There is no privilege against self-incrimination available to Clarity1 as such privilege does not apply to corporations: Daniels Corporation International Pty Ltd v Australian Competition and Consumer Commission [2002] HCA 49 ; (2002) 213 CLR 543.</sentence>
+<sentence id="s95">42 Following the making of written submissions after the hearing and the expiry of the time for doing so the respondents sought to file with the Court a copy of the applicant's submission to a review of the Spam Act posted on the website of the government body conducting the review.</sentence>
+<sentence id="s96">The respondents assert the submission was posted after the due date of 1 February 2006 giving the date of 21 March 2006.</sentence>
+<sentence id="s97">The respondents say that it raises a number of issues that directly relate to the case against them.</sentence>
+<sentence id="s98">The applicant submits the Court should not consider this submission for the following reasons.</sentence>
+<sentence id="s99">First, the time for filing submissions has expired.</sentence>
+<sentence id="s100">Second, the submission does not contain anything relevant to the determination of any matter of fact in this proceeding.</sentence>
+<sentence id="s101">Third, if the respondents wish to rely on the submission as an extrinsic material to aid in the interpretation of the Spam Act , it is submitted the Court must be satisfied that the submission falls within the ambit of s 15AB of the Acts Interpretation Act 1901 (Cth) ('the Acts Interpretation Act ').</sentence>
+<sentence id="s102">It is submitted that having regard to the types of material referred to in s 15AB(2) , the submission is not within the ambit of the section.</sentence>
+<sentence id="s103">The applicant does not wish to occasion 'unnecessary delay' by the raising of these objections and simply requests that the Court consider the submission in the light of these objections.</sentence>
+<sentence id="s104">43 In response the respondents draw attention to a number of matters.</sentence>
+<sentence id="s105">First, they say that the submission establishes that the applicant is seeking to make changes to the Spam Act to make the method of sending emails used by Clarity1 unlawful.</sentence>
+<sentence id="s106">However, it is submitted, during the proceeding it was continually suggested that the methods currently being used by Clarity1 are unlawful.</sentence>
+<sentence id="s107">This cannot assist the respondents because the case against them is based on the law as it stood at the relevant time and not as it might become.</sentence>
+<sentence id="s108">44 Second, the respondents say that the applicant acknowledges in the submission its obligations under s 513 of the Telecommunications Act to inform both the complainant and the respondent of the outcome 'in every case where a complaint is lodged'.</sentence>
+<sentence id="s109">It is said that this obligation was not complied with.</sentence>
+<sentence id="s110">The respondents assert that the applicant deliberately withheld from them any details of any complaints, even encouraging people to make multiple complaints so as to build the case against them as a 'global spammer'.</sentence>
+<sentence id="s111">There is no substantiation of facts asserted here and, even if the facts were established, it is not apparent how they can assist the resolution of the issues raised by the proceeding.</sentence>
+<sentence id="s112">45 Third, the respondents assert that the submission should have been made public by the closing date and that the applicant deliberately delayed the submission so as to not make the information available to the respondents in the matter.</sentence>
+<sentence id="s113">There is no evidence to support this.</sentence>
+<sentence id="s114">46 I do not accept the respondents' submissions that the matters raised by the submission are 'substantially material to the matters being tried'.</sentence>
+<sentence id="s115">They are in my view irrelevant and therefore of no assistance to the determination of any matters of fact in this proceeding.</sentence>
+<sentence id="s116">47 As to whether the submission is relevant as an aid to interpretation within the provisions of s 15AB of the Acts Interpretation Act , I agree with the submission for the applicant that having in mind the types of material referred to in s 15AB(2) and with the realisation that the subsection does not limit the generality of subs (1) of s 15AB the submission cannot properly be considered to be 'material ... capable of assisting in the ascertainment of the meaning of the provision'.</sentence>
+<sentence id="s117">It is a submission to an apparently non-parliamentary review expressing the opinions of a submittor, namely, the applicant.</sentence>
+<sentence id="s118">It is not in the general character of objective material from which the capability of assistance in the ascertainment of meaning can be safely derived.</sentence>
+<sentence id="s119">48 Accordingly, I reject the receipt of the submission.</sentence>
+<sentence id="s120">In any event, for the submission to be relevant it would be necessary for there to be some ambiguity or obscurity in the Spam Act which necessitated reference to such extrinsic material.</sentence>
+<sentence id="s121">49 As has been seen, s 16(5) of the Spam Act casts onto the respondents the evidential burden of proving that the relevant electronic account-holder consented to the sending of the CEM.</sentence>
+<sentence id="s122">This means that the respondents are obliged to show that there is sufficient evidence to raise an issue as to the existence or non-existence of a fact in issue, having regard to the civil standard of proof: JD Heydon , Cross on Evidence , 6 th edn, Butterworths, Australia, 2000, at [7015].</sentence>
+<sentence id="s123">50 In relation to this evidential burden it is to be noted that the respondents did not call the second respondent as a witness.</sentence>
+<sentence id="s124">Additionally, they were not prepared to open to cross-examination the affidavit of Mr Geoffrey Roland Pryde who was employed as the computer technician responsible for the maintenance of Clarity1's computer systems, including servers for the relevant periods.</sentence>
+<sentence id="s125">In consequence Mr Pryde's affidavit was not tendered into evidence.</sentence>
+<sentence id="s126">51 This unexplained failure of the respondents to call Mr Mansfield or Mr Pryde as witnesses gives rise to the application of the rule in Jones v Dunkel [1959] HCA 8 ; (1959) 101 CLR 298.</sentence>
+<sentence id="s127">That is, it may lead to an inference that the uncalled evidence or missing material would not have assisted the respondents' case: JD Heydon, Cross on Evidence at [1215].</sentence>
+<sentence id="s128">52 The applicant submits, correctly, that in the case of the failure to call Mr Mansfield '[C]onsiderable significance may attach if the absent witness is either the party or a senior executive of a corporate party closely engaged in the transactions in question and present in court during the hearing': JD Heydon, Cross on Evidence at [1215], citing Dilosa v Latec Finance Pty Ltd (1966) 84 WN (Pt 1) (NSW) 557 at 582.</sentence>
+<sentence id="s129">RESPONDENTS' SUBMISSIONS 
+ 
+53 The submissions for the applicant raise objections to the submissions of the respondents and the final submissions of the respondents, each of which are in writing.</sentence>
+<sentence id="s130">A number of the paragraphs of the final submissions repeat the submissions of the respondents, which were prepared prior to the hearing so that objection to one paragraph is an objection to the other.</sentence>
+<sentence id="s131">54 I allow the objections to the following paragraphs of the respondents' submissions on the grounds that they make factual assertions not supported by the evidence:
+ 
+ 1.</sentence>
+<sentence id="s132">1.1-1.3; 2.1-2.2; 3.3-3.4;
+ 2.</sentence>
+<sentence id="s133">4.</sentence>
+<sentence id="s134">It is noted that at 6.3.1 of the expert report prepared by Mr Thompson simply states that no information has been identified to assist in determining whether 'harvested' email address lists have been obtained by the respondents since 10 April 2004.</sentence>
+<sentence id="s135">The applicant has not alleged 'harvested' email lists were obtained since 10 April 2004;
+ 3.</sentence>
+<sentence id="s136">5.1, 5.3;
+ 4. both pars 7;
+ 5.</sentence>
+<sentence id="s137">8, 9, 10, 11, 12 [taken as a reference to 12.1] and 12.9; 13.5 and 13.6; 14.4-14.5; 17.1-17.5; 18.1-18.9; 30.1 and 30.2; 31.1, 31.2, 31.3; 32.1-32.3; and
+ 6.</sentence>
+<sentence id="s138">33.</sentence>
+<sentence id="s139">
+
+Matching paragraphs in the final submissions fall to the same objections.</sentence>
+<sentence id="s140">55 Additionally, I allow objections to the following paragraphs in the submissions to the respondents on the ground they raise matters which are not relevant:
+ 
+7-11; 15.1-15.2 and 16.1-16.4 together with any comparable paragraphs in the final submissions.</sentence>
+<sentence id="s141">I do not allow the objection to 12.4 which I consider is relevant for reasons stated below.</sentence>
+<sentence id="s142">56 The final written submissions for the respondents makes submissions in relation to the evidence of the applicant's witnesses.</sentence>
+<sentence id="s143">The applicant objects that in a number of cases such submissions seek to rely on matters not put in evidence at trial, sometimes by relying on attachments to the written submissions which were not in evidence.</sentence>
+<sentence id="s144">Those objections must be allowed.</sentence>
+<sentence id="s145">They are allowed therefore against pars 22.1-22.11; 25.10; 26.4-26.5; 28.2.2-28.2.5; 29.4.3, 29.4.3.1 and 29.6; 37 including 37.1 and 37.2; 38.1-38.3.</sentence>
+<sentence id="s146">57 Additionally I consider pars 3.2, 3.3, 12.3, 12.4, 15 and 16 of the respondents final submissions raise issues not of relevance to the issues in the proceeding.</sentence>
+<sentence id="s147">This is not to say that reference to the Privacy Act 1988 (Cth) and the National Privacy Principles ('the Principles') is irrelevant; only that the references in those paragraphs is in connection with irrelevant issues.</sentence>
+<sentence id="s148">I consider it is relevant to have regard to the Principles in connection with the issue of consent because the applicant's own publication makes such Principles relevant to the understanding of existing relationships.</sentence>
+<sentence id="s149">CLAIM THAT FIRST RESPONDENT UNLAWFULLY SENT UNSOLICITED COMMERCIAL ELECTRONIC MESSAGES 
+ TERMS OF THE CLAIM 
+ 
+58 The applicant alleges that during the period from 10 April 2004 to the present date, Clarity1 contravened s 16(1) of the Spam Act by sending or causing to be sent the following:
+ 
+ 1. at least 213 443 382 CEMs (of which 41 796 754 were successfully sent) to 5 664 939 unique electronic addresses; and
+ 2. at least 56 862 092 CEMs (of which 33 199 806 were successfully sent) to 2 291 518 unique electronic addresses.</sentence>
+<sentence id="s150">
+
+The first of these claims is based on an analysis of the 'Direct2' database and the second is based on an analysis of the 'success' and 'failed' text files contained in the System#11 by the expert witnesses, Mr Thompson and Mr Lee.</sentence>
+<sentence id="s151">59 The evidence of Mr Thompson also establishes that of the emails referred to in the 'success' text files, 1 715 603 contained unique email addresses.</sentence>
+<sentence id="s152">Of the emails referred to in the 'failed' text files, 1 525 496 were sent to unique email addresses.</sentence>
+<sentence id="s153">That is, the total number of emails involved in successful sending was 3 241 099.</sentence>
+<sentence id="s154">The respondents accept that the evidence of Mr Thompson was that these were sent to Australian addresses.</sentence>
+<sentence id="s155">The number is significant in the view of the respondents because they contend that the applicant has endeavoured to utilise the size of the data files to 'demonise' them.</sentence>
+<sentence id="s156">60 Mr Thompson's report also identified a total of 1 558 557 email addresses in particular databases of Clarity1 related to the United Kingdom.</sentence>
+<sentence id="s157">Of these 799 375 were unique addresses.</sentence>
+<sentence id="s158">He was unable to identify the number of email messages sent to the United Kingdom.</sentence>
+<sentence id="s159">The respondents argue that the dispatch of such messages is permitted under the law applicable in the United Kingdom and does not attract the application of the Spam Act because they may not have had an Australian address.</sentence>
+<sentence id="s160">The submission overlooks that the definition of 'Australian link' in s 7 of that Act refers to much more than the having of such an address.</sentence>
+<sentence id="s161">61 Mr Thompson's evidence requires consideration in the context of the further expert evidence of Mr Lee, a computer forensic specialist with Deloittes, specialising in network and systems security.</sentence>
+<sentence id="s162">He works under the guidance of Mr Thompson and assisted with the preparation of Mr Thompson's expert report.</sentence>
+<sentence id="s163">Following Mr Thompson having given his evidence, Mr Lee was requested by him to review certain data contained in the report.</sentence>
+<sentence id="s164">The result of his review was that Mr Lee testified that the number of unique email addresses in the success and failed lists totalled 2 291 518 compared to the figure of 3 241 099 given by Mr Thompson.</sentence>
+<sentence id="s165">The difference is 949 581.</sentence>
+<sentence id="s166">62 Mr Lee also identified 161 852 harvested email addresses attached to emails.</sentence>
+<sentence id="s167">These totalled 161 852 unique addresses.</sentence>
+<sentence id="s168">From those, Mr Lee identified 10 519 unique addresses in the success file and 9499 in the failed file.</sentence>
+<sentence id="s169">63 So far as some of these addresses were harvested after 10 April 2004 the respondents say this evidence is not relevant but the applicant contends it should be inferred they were utilised.</sentence>
+<sentence id="s170">As the evidence is not clear on this issue I do not place reliance upon it.</sentence>
+<sentence id="s171">64 In any event, the respondents through their absence of response to the notice to admit facts, have admitted that at least 41 796 754 CEMs have been sent between 10 April 2004 and 7 April 2005 and this continued at the same rate until 24 October 2005.</sentence>
+<sentence id="s172">65 Additionally, as the term 'send' in s 16(1) includes attempt to send (s 4) it is not material whether or not the respondents had 'successfully' sent the CEMs.</sentence>
+<sentence id="s173">66 It follows that the applicant has proved these allegations, albeit with the necessary adjustment to the figures to accommodate the evidence of Mr Lee.</sentence>
+<sentence id="s174">67 Nevertheless three additional facts must be borne in mind in that context.</sentence>
+<sentence id="s175">The first is that each CEM contained provision of a procedure stating what was required to remove the electronic address from the Lists.</sentence>
+<sentence id="s176">The second is that during the period from March 2001 to the hearing date, some 166 000 requests were made for removal from the Lists, all of which were acted upon.</sentence>
+<sentence id="s177">The third is that for a similar period only 79 complaints were made to the applicant concerning CEMs from Clarity1, and one from overseas.</sentence>
+<sentence id="s178">No complaint related to a failure to remove an electronic address from the database.</sentence>
+<sentence id="s179">AUSTRALIAN LINK 
+ 
+68 The evidence brought by the applicant also establishes that the CEMs had an Australian link because either par (a), par (b) or par (c) of s 7 of the Spam Act is satisfied on that evidence.</sentence>
+<sentence id="s180">The weight of evidence, although lacking specificity with respect to each email, makes it more probable than not that all the emails sent to the United Kingdom had an Australian link particularly because the sender or person authorising the sending was physically present or had its central management and control in Australia or the computer, server or device utilised for the sending was located in Australia.</sentence>
+<sentence id="s181">DEFENCE OF DESIGNATED COMMERCIAL ELECTRONIC MESSAGE 
+ Charity or charitable institution exception 
+ 
+69 The respondents contend that the applicant has failed to take into account that the respondents had been contracted to provide services to registered charities so that the electronic messages were not 'commercial' and would be designated CEMs within cl 3 of Sch 1 of the Spam Act .</sentence>
+<sentence id="s182">Reliance is placed in support on p 89 of the Explanatory Memorandum to the Spam Act .</sentence>
+<sentence id="s183">In support reference is made by the respondents to the expert witness testimony of Deloittes which it is claimed, showed that email addresses identified as being 'harvested' prior to the implementation of the Spam Act were provided by Messrs Kelly and Parsons who were acknowledged by the applicant in correspondence and come within the description 'charity' or 'charitable organisation'.</sentence>
+<sentence id="s184">The difficulty for the respondents is that their case is devoid of any evidence to support this submission.</sentence>
+<sentence id="s185">The named individuals were not called.</sentence>
+<sentence id="s186">No evidence identifies which of the electronic messages come within this alleged category.</sentence>
+<sentence id="s187">On the contrary, the respondents' admission in the record of interview was that it was not a charity or charitable institution.</sentence>
+<sentence id="s188">Educational institution exception 
+ 
+70 The respondents also contend it is relevant that at all times the messages sent by Clarity1 related to business education in the form of seminars and manuals, about which it was not said they were in some way misleading or deceptive or without merit.</sentence>
+<sentence id="s189">The latter facts are of no assistance to the respondents in respect of the claim of breach of s 16(1).</sentence>
+<sentence id="s190">So far as the preceding facts are an appeal to the application of cl 4 of Sch 1 whereby an electronic message is a designated commercial electronic message if sent to an educational institution, there is no evidence to satisfy the requirements of the clause, which has earlier been set out in these reasons.</sentence>
+<sentence id="s191">DEFENCE OF CONSENT 
+ Inference of consent 
+ 
+71 In defence of the allegation, the respondents have sought to rely on s 16(2) of the Spam Act , that is, that the relevant electronic account-holder consented to the sending of the CEM.</sentence>
+<sentence id="s192">In this regard, the respondents have argued: 
+ 
+ 1. the CEMs sent by Clarity1 contained an 'unsubscribe facility'.</sentence>
+<sentence id="s193">As the recipients of the CEMs did not use the 'unsubscribe facility', the respondents are entitled to reasonably infer that the recipients consented to the sending of the CEMs;
+ 2. the consent may also be inferred from the business relationship between Clarity1 and the individual or organisation concerned (cl 2(b)(ii) of Sch 2); and
+ 3. the recipients published their electronic addresses on the internet.</sentence>
+<sentence id="s194">
+
+72 Other than the eight affidavits for the respondents by deponents who have indicated that they are happy to receive CEMs from the respondents, the respondents have not advanced any evidence supporting any of those arguments.</sentence>
+<sentence id="s195">They rely upon inferences which they say should be drawn in the circumstances.</sentence>
+<sentence id="s196">Even if the affidavits have relevance, they can do no more than establish the willingness of the deponents to receive CEMs, not that Clarity1 was aware of such consent prior to dispatching further CEMs.</sentence>
+<sentence id="s197">Presence of address on internet 
+ 
+73 The fact that an electronic address is published on the internet cannot support an inference of consent.</sentence>
+<sentence id="s198">This is because cl 4(1) of Sch 2 provides that 'for the purposes of this Act, the consent of the relevant electronic account-holder may not be inferred from the mere fact that the relevant electronic address has been published'.</sentence>
+<sentence id="s199">Unsubscribe facility 
+ 
+74 The starting point is the statutory provision relating to unsubscribe facilities contained in s 18 of the Spam Act .</sentence>
+<sentence id="s200">It is patent from the terms of that section that it is a provision directed to requiring the sender of a CEM with an Australian link and which is not a designated CEM to include an unsubscribe facility.</sentence>
+<sentence id="s201">It imposes an obligation on them to that effect.</sentence>
+<sentence id="s202">It does not impose any obligation upon a recipient of such a CEM to reply.</sentence>
+<sentence id="s203">It does not either expressly or by implication support an inference that a failure to use the unsubscribe facility implies consent.</sentence>
+<sentence id="s204">75 The respondents place reliance on comments at pp 37-38 of the Office of the Federal Privacy Commissioner in 'Guidelines to the National Privacy Principles' issued in September 2001.</sentence>
+<sentence id="s205">There it was stated that 'it may be possible to infer consent from the individual's failure to opt out provided that the option to opt out was clearly and prominently presented and easy to take up'.</sentence>
+<sentence id="s206">However, that statement must be read against a further statement where, after listing a number of factors said likely to enhance the possibility of the drawing of an inference of consent, the passage concluded:
+ 
+ 'It is unlikely that consent to receive marketing material on-line could be implied from a failure to object to it.</sentence>
+<sentence id="s207">This is because it is usually difficult to conclude that the message has been read and it is generally difficult to take up the option of opting out as it is commonly considered that there are adverse consequences to an individual from opening or replying to email marketing --- such as confirming the individual's address exists.</sentence>
+<sentence id="s208">This may also apply where material is distributed using other automated processes.</sentence>
+<sentence id="s209">(This would not prevent an organisation from seeking opt in consent on-line if NPP 2.1 allowed it).</sentence>
+<sentence id="s210">' 
+ 
+
+76 It is the case that such publications cannot control the interpretation of an Act of Parliament.</sentence>
+<sentence id="s211">The words of the Act must speak for themselves and be interpreted according to the normal rules of statutory construction.</sentence>
+<sentence id="s212">Nevertheless, where the respondents are self-represented and, in connection with the observance of a new Act, have relied upon statements in such publications, it appropriate to have regard to what they rely upon as having shaped their approach to the Spam Act .</sentence>
+<sentence id="s213">77 If, as the respondents assert, there is to be an inference drawn of consent from the fact of a failure to reply to a CEM, the foundations for it must be found in the circumstances.</sentence>
+<sentence id="s214">There are powerful features of the evidence which are inconsistent with the drawing of any such inference and militate against it.</sentence>
+<sentence id="s215">They are also inconsistent with any inference being drawn from any prior business relationship constituted by the initial sending of an electronic message to a recipient.</sentence>
+<sentence id="s216">78 First, the mere fact that Clarity1 sent a CEM to an electronic address and did not receive a response from the recipient does not provide a proper foundation for an inference of consent.</sentence>
+<sentence id="s217">From that factual foundation, no such inference is logically open.</sentence>
+<sentence id="s218">79 Second, even less so is such inference likely to be open where the entire relationship between Clarity1 and the recipient is constituted in the absence of bilateral communication.</sentence>
+<sentence id="s219">There are no circumstances in such a case from which an inference can be drawn.</sentence>
+<sentence id="s220">The evidence shows this to be the case in the vast majority of the CEMs.</sentence>
+<sentence id="s221">It is compounded where the CEMs have been obtained by Clarity1 without the recipient's knowledge or participation.</sentence>
+<sentence id="s222">This is further considered below under the subheading 'Business or other relationships'.</sentence>
+<sentence id="s223">80 Third, the mere presence of the unsubscribe facility does not provide the foundation for any inference.</sentence>
+<sentence id="s224">Many inferences are open to speculation and none are logically dictated by the circumstances.</sentence>
+<sentence id="s225">There are a variety of methods available to recipients to deal with unwanted CEMs.</sentence>
+<sentence id="s226">These include simply deleting the CEM without reading it and so being unaware of the unsubscribe facility; ignoring the CEM and/or reporting it to the applicant; utilising a filtering or blocking technique.</sentence>
+<sentence id="s227">The sender, in this case Clarity1, would have no way of knowing whether the CEM has been opened or read; it is equally open to inference that it may not have been so that the unsubscribe facility was unknown to the recipient.</sentence>
+<sentence id="s228">81 The probability of this being the case was very substantially enhanced in the circumstances disclosed by the evidence in the case of Clarity1.</sentence>
+<sentence id="s229">It used Stealth Mail Master which has the functionality to randomise email header information, to use open proxies and to 'provide anonymity' and to hide the IP address (see the evidence of Mr Thompson).</sentence>
+<sentence id="s230">The CEMs were sent by utilising the process of 'rotating IPs' (see the evidence of Mr Timothy Villa and the record of interview).</sentence>
+<sentence id="s231">They were sent from a number of different 'yahoo.com' and 'yahoo.com.au' electronic addresses (see the evidence of Mrs Catherine Trudgeon and M/s Victoria Rollo).</sentence>
+<sentence id="s232">Substantially similar CEMs were sent in multiple copies to the same human recipient.</sentence>
+<sentence id="s233">The email header information was disguised and the IP address did not match the 'from' addresses.</sentence>
+<sentence id="s234">They were sent using overseas servers in the United States of America, Korea, China and elsewhere.</sentence>
+<sentence id="s235">82 The view that the presence of the unsubscribe facility in these circumstances cannot give rise to the inference for which the respondents contend, is supported by the evidence which was given concerning the reluctance of users to activate an unsubscribe facility.</sentence>
+<sentence id="s236">Their evidence was that if they did so they would be confirming the existence of their email address and opening that address to spam: see the evidence of Mr Brett Watson; Mr Guy Miller; Mr John Bongiovanni; Mrs Trudgeon and Mr Christopher Rhodes as well as Mr Thompson.</sentence>
+<sentence id="s237">83 The fact that the electronic unsubscribe facility offered by Clarity1 failed to identify Clarity1 or Business Seminars Australia makes it entirely unreasonable to expect unwilling recipients to use the unsubscribe facility.</sentence>
+<sentence id="s238">See the evidence of Mr Bongiovanni and Mr Villa.</sentence>
+<sentence id="s239">84 Fourth, in the case of electronic addresses obtained by purchasing or leasing from external parties and using address-harvesting software, there is no evidence Clarity1 obtained or intended to obtain the consent of the relevant account-holders when it made the acquisitions.</sentence>
+<sentence id="s240">85 Fifth, the respondents have not explained why so many CEMs were sent.</sentence>
+<sentence id="s241">The volume makes it improbable that the respondents could have been aware that consent was in place prior to the sending of the CEMs.</sentence>
+<sentence id="s242">It is antithetical to the drawing of the inference sought.</sentence>
+<sentence id="s243">Business or other relationships 
+ 
+86 The respondents contend that consent can be reasonably be inferred from the business relationships which Clarity1 has with the recipients of the CEMs.</sentence>
+<sentence id="s244">A further argument of the respondents is that neither the Spam Act nor the Explanatory Memorandum to it have addressed the use of email addresses which have been used over an extensive period, in many cases more than a year.</sentence>
+<sentence id="s245">It is said that in such instances the respondents can assert inferred consent because of the acceptance of messages over that period.</sentence>
+<sentence id="s246">87 The reference to 'business relationships' in cl 2 of Sch 2 of the Spam Act must be understood in its immediate and surrounding context.</sentence>
+<sentence id="s247">The immediate context is one which conjoins the conduct of the individual or organisation who sent the CEM to the relationships as the factual foundation from which the inference may be drawn.</sentence>
+<sentence id="s248">It is not the business relationships alone which ground the inference.</sentence>
+<sentence id="s249">Additionally, the relevant relationships are not only business relationships; other relationships are equally relevant.</sentence>
+<sentence id="s250">88 The phrase 'the business and other relationships' is not one which appears to have been regularly used so as to attract judicial consideration.</sentence>
+<sentence id="s251">'Business' is defined in s 4 of the Spam Act , subject to appearance of contrary intention to include 'a venture or concern in trade or commerce, whether or not conducted on a regular, repetitive or continuous basis'.</sentence>
+<sentence id="s252">The reference to 'relationships' is to be taken to be a reference to a particular connection: The Macquarie Dictionary, 2 nd edn, Macquarie University, New South Wales, 1991 at p 1484.</sentence>
+<sentence id="s253">'Connection' means a 'relationship': The Macquarie Dictionary at p 381.</sentence>
+<sentence id="s254">89 The applicant and others on behalf of the Australian Government issued a publication entitled ' Spam Act 2003 : A practical guide for business'.</sentence>
+<sentence id="s255">In addressing the issue of inferred consent at p 7 it states:
+ 
+ 'You may be able to reasonably infer consent after considering both the conduct of the addressee and their relationship with you.</sentence>
+<sentence id="s256">For example, if the addressee has an existing relationship with you and has previously provided their address then it would be reasonable to infer that consent has been provided.</sentence>
+<sentence id="s257">' 
+ 
+
+At p 8 the guide describes an 'existing relationship' in the following terms:
+ 
+ 'It will be possible for you to infer consent based on the status of your relationship with the addressee, as long as it is consistent with the reasonable expectations of the addressee, and their conduct.</sentence>
+<sentence id="s258">The National Privacy Principles (available from www.privacy.gov.au ), and particularly Privacy Principle 2, provides guidance on such communications.</sentence>
+<sentence id="s259">An existing business or other relationship may, for example, be a relationship that was initiated by a commercial activity (including provision, for a fee or free of charge, of information, goods, or of services) or other communication between you and potential addressee.</sentence>
+<sentence id="s260">
+ 
+ The following are examples that might suggest that a business, or other, relationship exists from which you may reasonably infer consent: 
+ 
+ 
+ &#8226; persons who have purchased goods or services which involves ongoing warranty and service provisions; ...' 
+ 
+ 
+
+Privacy Principle 2 of the Principles provides in part:
+ 
+ 
+ '2.1 An organisation must not use or disclose personal information about an individual for a purpose (the secondary purpose ) other than the primary purpose of collection unless: 
+ 
+ 
+ (a) both of the following apply: 
+ 
+ (i) the secondary purpose is related to the primary purpose of collection and, if the personal information is sensitive information, directly related to the primary purpose of collection; 
+ (ii) the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose; or 
+ 
+ (b) the individual has consented to the use or disclosure; or 
+ (c) if the information is not sensitive information and the use of the information is for the secondary purpose of direct marketing: 
+ 
+ (i) it is impracticable for the organisation to seek the individual's consent before that particular use; and 
+ (ii) the organisation will not charge the individual for giving effect to a request by the individual to the organisation not to receive direct marketing communications; and 
+ (iii) the individual has not made a request to the organisation not to receive direct marketing communications; and 
+ (iv) in each direct marketing communication with the individual, the organisation draws to the individual's attention, or prominently displays a notice, that he or she may express a wish not to receive any further direct marketing communications; and 
+ (v) each written direct marketing communication by the organisation with the individual (up to and including the communication that involves the use) sets out the organisation's business address and telephone number and, if the communication with the individual is made by fax, telex or other electronic means, a number or address at which the organisation can be directly contacted electronically; or 
+ ...' 
+
+90 The applicant accepts that it is certainly possible that an organisation can comply with the Privacy Act and none the less contravene the Spam Act .</sentence>
+<sentence id="s261">Therefore the applicant submits that any particular advice concerning the Privacy Act or adherence to statements concerning the Principles, cannot assist the respondents in defending this proceeding.</sentence>
+<sentence id="s262">91 The applicant's submissions also draw attention to the Explanatory Memorandum to the Spam Act which notes that:
+ 
+ 'At the present time there is no legislation specifically requiring a sender to obtain recipient's consent prior to sending spam to that individual, either initially or on an ongoing basis.</sentence>
+<sentence id="s263">Under the Privacy Act 1998 the collection of personal information from public sources may require an individual's explicit consent, but this aspect of the legislation has not yet been tested.</sentence>
+<sentence id="s264">' 
+ 
+
+92 The receipt of electronic messages without more cannot give rise to the inference of consent because the receipt could be accounted for on many bases other than consent.</sentence>
+<sentence id="s265">I do not consider that such communication can properly come within the description of a 'business or other relationship'.</sentence>
+<sentence id="s266">There is no relationship when the communication is one sided.</sentence>
+<sentence id="s267">A relationship of the type referred to in Sch 2 implies a connection arising from mutuality.</sentence>
+<sentence id="s268">Communication from only one to another with no response from the other cannot properly be found to be a relationship, particularly in the context.</sentence>
+<sentence id="s269">93 Additionally the respondents argue that consent may be inferred in the case of 'commercially available lists purchased, swapped or otherwise acquired prior to the implementation of the Spam Act in 2003'.</sentence>
+<sentence id="s270">The circumstances of the acquisition of lists so described is itself antithetical to the drawing of any inference that the lists were obtained with consent.</sentence>
+<sentence id="s271">The respondents did not seek to prove the existence of consent for such CEMs other than by inference.</sentence>
+<sentence id="s272">94 The respondents also refer to the instance of an account-holder who has provided an electronic address such as by handing over a business card containing the address to a commercial entity, with the exception of circumstances which make apparent to a reasonable person that receipt of future messages is not expected.</sentence>
+<sentence id="s273">Again, no evidence has been brought to support a finding that such an occurrence affected the collection of any of the electronic addresses in issue.</sentence>
+<sentence id="s274">95 In the respondents' final written submissions it is also contended that consent may be inferred where there is '[B]y the action of entering a competition or a request for information website maintained by the respondent or associated joint venture entities who displayed relevant Terms and conditions statements that allowed the use of the email address for promotional purposes'.</sentence>
+<sentence id="s275">It is further contended that the addresses are identified in the description of the various lists recorded in the evidence of Mr Duffy as 'JV' (joint ventures') or MainAU which total 929 200 separate email addresses.</sentence>
+<sentence id="s276">The applicant further objects on the ground that there is no evidence to support the primary submission.</sentence>
+<sentence id="s277">This objection is proper and I allow it.</sentence>
+<sentence id="s278">96 There was evidence from Mr Duffy analysing 1 469 820 electronic addresses provided to him by the respondents.</sentence>
+<sentence id="s279">He concluded that of these, only 182 involved the placement of orders with the Maverick Partnership or Business Seminars Australia.</sentence>
+<sentence id="s280">The applicant submits that it does not follow even in these instances that the 182 purchasers of products thereby gave consent to the receipt of CEMs from Clarity1.</sentence>
+<sentence id="s281">Support for this submission is sought by the applicant in the Explanatory Memorandum at p 115.</sentence>
+<sentence id="s282">There it is said that consent will not always be inferred where there is a pre-existing relationship between a person and a business.</sentence>
+<sentence id="s283">The example is given of the purchase by a person of a t-shirt or groceries from a shop.</sentence>
+<sentence id="s284">In my view, the ordering of a product by email is in a different category than a relatively more casual purchase in a shop.</sentence>
+<sentence id="s285">The Memorandum accepts that the issue of consent is a question of fact to be considered according to each particular set of circumstances.</sentence>
+<sentence id="s286">The example of the t-shirt is also listed along with other casual types of purchase such as the purchase of a ticket to attend a concert or where a purchase is made anonymously.</sentence>
+<sentence id="s287">97 What is required by cl 2 of Sch 2 of the Spam Act is that consent can reasonably be inferred from both the conduct and 'the business and other relationships' of the individual or organisation concerned.</sentence>
+<sentence id="s288">Prima facie, the conclusion of a contract of purchase by an email order by an individual or organisation constitutes a 'business relationship' between the vendor and purchaser.</sentence>
+<sentence id="s289">In the absence of evidence to the contrary, it can be reasonably inferred that the recipient wishes to be kept aware of the business of the vendor, in this case Clarity1.</sentence>
+<sentence id="s290">It may be that such evidence could have been brought; for example that a particular purchaser wished only to have the relationship for the purchase of the particular product secured by the CEM.</sentence>
+<sentence id="s291">In the absence of such evidence, it is a reasonable inference that a person having displayed interest in the wares of the vendor on one occasion, wishes to be kept in touch with future opportunities for purchase of products marketed by the same vendor unless indicating to the contrary.</sentence>
+<sentence id="s292">To construe the reference to such relationships too strictly would not acknowledge commercial realities.</sentence>
+<sentence id="s293">Vendors would be left in doubt whether they could communicate with their clientele (that is, persons who have purchased goods from them) unless having from them express consent.</sentence>
+<sentence id="s294">I do not consider the provisions of the Spam Act are intended to bring about such a strict regime.</sentence>
+<sentence id="s295">The provision requires application with great regard to particular circumstances.</sentence>
+<sentence id="s296">The applicant not having brought evidence to rebut the prima facie evidentiary position raised by the evidence in the case of the 182 purchasers that they wished to trade with Clarity1, I do not consider it can be found that in those limited instances consent is not reasonably to be inferred.</sentence>
+<sentence id="s297">I infer the 182 purchasers gave their consent for the purposes of s 16(1) of the Spam Act .</sentence>
+<sentence id="s298">98 The applicant also submits on this issue that Clarity1 has not presented any evidence or advanced any argument that it relied on a recipient's purchase of goods or services as the basis for making a reasonable inference of consent.</sentence>
+<sentence id="s299">In my view it was not necessary that it present such evidence given the prima facie position raised by the evidence of Mr Duffy.</sentence>
+<sentence id="s300">I consider that Clarity1 did advance argument that it had consent within cl 2 of Sch 2 of the Spam Act and hence consent reasonably is to be inferred from the business relationship constituted by the purchase of goods in the case of the 182 purchasers.</sentence>
+<sentence id="s301">That much was encompassed within the generality of the respondents' overall submissions.</sentence>
+<sentence id="s302">Defence of authority of user of account to give consent 
+ 
+99 The respondents' final written submissions also appeal to cl 3 of Sch 2.</sentence>
+<sentence id="s303">That provides that if a person other than the relevant electronic account-holder uses the relevant account to send an electronic message about consent, that person is taken to have been authorised to send that message on behalf of the relevant electronic account-holder.</sentence>
+<sentence id="s304">However, there is no evidence that consents were received under such circumstances and therefore no evidential foundation upon which to invoke the application of that clause.</sentence>
+<sentence id="s305">Defence of conspicuous publication 
+ 
+100 This defence is advanced in reliance upon cl 4 in Sch 2 of the Spam Act .</sentence>
+<sentence id="s306">For the exception to be applicable, a number of elements must be satisfied.</sentence>
+<sentence id="s307">First, there must be a particular electronic address enabling the public, or a section of the public, to send electronic messages to the person or holders of particular offices, positions, functions or roles specified in cl 4(2)(a)(i) to (vii) of Sch 2 of the Spam Act .</sentence>
+<sentence id="s308">Second, the address must have been 'conspicuously published': cl 4(2)(b).</sentence>
+<sentence id="s309">Third, it must be 'reasonable to assume' that the publication occurred with the agreement of the person or organisation concerned: cl 4(2)(c).</sentence>
+<sentence id="s310">Four, it must be established that the publication was not accompanied by a statement to the effect that the relevant electronic account-holder does not want to receive unsolicited CEMs at that electronic address, or words to similar effect: cl 4(2)(d).</sentence>
+<sentence id="s311">Five, it must also be established that the CEM is relevant to the work-related business, functions or duties of the employee, director, officer, partner, office-holder or self-employed individual concerned; the office or position concerned; or the function or role concerned: cl 4(2)(e)---(g).</sentence>
+<sentence id="s312">101 The term 'conspicuously published' is not defined in the Spam Act .</sentence>
+<sentence id="s313">The word 'conspicuous' means 'easy to be seen ... readily attracting the attention': The Macquarie Dictionary at p 384.</sentence>
+<sentence id="s314">102 The applicant submits that in order to demonstrate that the conspicuous publication exception applies, the respondents must produce evidence which demonstrates, at the minimum where each electronic address has been published and obtained from; that the publication qualifies to be described as 'conspicuous publication' within the ordinary meaning of that term; that no statement against the sending of CEMs to the electronic address accompanies the publication of it; and how each CEM sent to the address relates to the matters set out in cl 4(2)(e)-(g) of Sch 2 of the Spam Act .</sentence>
+<sentence id="s315">103 The respondents brought evidence to the following effect.</sentence>
+<sentence id="s316">Their witness Mr Allan Morgan deposes that his electronic address may have been found on the yellow pages or that he may have given it when replying to an advertisement.</sentence>
+<sentence id="s317">Mr Richard van Proctor deposes that he started receiving CEMs from Business Seminars Australia after 'signing up for a Platinum Privilege card'.</sentence>
+<sentence id="s318">Mr Anthony Paul deposes that his electronic address may have been obtained from the yellow pages, his website or trade directories.</sentence>
+<sentence id="s319">Mr Neill Ogge deposes that he believes Business Seminars Australia obtained his electronic address when he joined a trade exchange.</sentence>
+<sentence id="s320">104 There is no further evidence from the respondents on this issue.</sentence>
+<sentence id="s321">105 In their final submissions the respondents also assert they have consent where the addressee has either:
+ 
+ 
+ 
+ '2.5.3.1 conspicuously published their email address --- an active action, not a passive action as claimed by the applicant, or 
+ 2.5.3.2 subscribed to one or multiple websites that collect email addresses for marketing purposes.</sentence>
+<sentence id="s322">
+ 2.5.3.3 each of these websites included a Terms and Conditions page that set out the use of the email address by the website on which it appeared and a network of websites that made use of the information collected.</sentence>
+<sentence id="s323">
+ 2.5.3.4 samples of these terms and conditions are annexed to this Submission.</sentence>
+<sentence id="s324">' 
+ 
+ 
+
+106 The applicant objects to 2.5.3.1 to 2.5.3.3 on the ground that the assertions the respondents there make are not supported by any evidence.</sentence>
+<sentence id="s325">It objects to 2.5.3.4 on the ground that the respondents are seeking to introduce new evidence after the close of evidence.</sentence>
+<sentence id="s326">These objections are clearly proper and I allow them.</sentence>
+<sentence id="s327">Throughout the hearing the respondents understood that the purpose of adducing evidence was to open it, if required, to cross-examination.</sentence>
+<sentence id="s328">The respondents cannot in written submissions seek to follow a course in which such normal processes for the admission of evidence are bypassed.</sentence>
+<sentence id="s329">107 The consequence is that no evidence of the type made requisite by the provisions of Sch 2 has been produced to support the respondents' contention that the defence is applicable.</sentence>
+<sentence id="s330">As the evidential burden falls on the respondents pursuant to s 16(5) of the Spam Act , they fail to make out the defence.</sentence>
+<sentence id="s331">108 There is, in addition, evidence from some of the applicant's witnesses which demonstrates that the conspicuous publication exception cannot apply, at least in their cases.</sentence>
+<sentence id="s332">Mr Bongiovanni's electronic address was published on his academic website but the CEMs from Clarity1 do not relate to his academic activities.</sentence>
+<sentence id="s333">Likewise, in the case of Mr Andrew Cottas and Mr Miller, the CEMs did not relate to the relevant businesses.</sentence>
+<sentence id="s334">Mr Alexander Dawson and M/s Lesley La Coste only placed their addresses in limited non-conspicuous circumstances.</sentence>
+<sentence id="s335">The address of M/s Rollo was not advertised at all.</sentence>
+<sentence id="s336">In the case of Mr David Bromage, his website carried a disclaimer.</sentence>
+<sentence id="s337">Additionally, I accept that it may be inferred from the sheer volume of the electronic addresses contained in the Databases and Lists that, at the time of compilation, the respondents did not consider whether the publication of the electronic address on the internet was done in circumstances that met each the criteria set out in cl 4 of Sch 2 to the Spam Act .</sentence>
+<sentence id="s338">109 In their final written submissions the respondents contend that the email address of the applicant's witness Mr Cottas is conspicuously displayed on a website without any limitation affecting spam so that it would be reasonable to assume/infer consent within the guidelines offered by the applicant's (and others') publication ' Spam Act 2003 : A practical guide for business'.</sentence>
+<sentence id="s339">Such guidelines cannot govern the interpretation of the Spam Act .</sentence>
+<sentence id="s340">What has to be established is that the requirements of the Spam Act relating to conspicuous publication have been met.</sentence>
+<sentence id="s341">In any event, the guidelines accurately specify the requirement of that Act, in addition to conspicuous display and the absence of a spam deterrent, is that the message must relate to the addressee's published employment function or role.</sentence>
+<sentence id="s342">There is no evidence from the respondents that such is the case.</sentence>
+<sentence id="s343">110 In relation to the evidence of Mrs Trudgeon, the respondents assert that because no incidence of the email addresses in question can be found by doing internet searches using various search engines, it is not possible that the email address came into possession of Clarity1 by the use of email address-harvesting software.</sentence>
+<sentence id="s344">Therefore, it is contended, at some time the account-holder entered her email address into a competition with conditions allowing for the subsequent use by Clarity1.</sentence>
+<sentence id="s345">Details of various competition and collection sites are annexed to the submissions.</sentence>
+<sentence id="s346">Assertions are also sought to be made of competitions conducted during the period 1998 to 2004.</sentence>
+<sentence id="s347">None of these matters is in evidence.</sentence>
+<sentence id="s348">It was not put to the witness that she may have entered a competition being one of the nominated competitions.</sentence>
+<sentence id="s349">No terms and conditions of such competitions were put into evidence.</sentence>
+<sentence id="s350">In the absence of appropriate proof, the inferences which the respondents seek to have drawn are not open.</sentence>
+<sentence id="s351">OTHER DEFENCES 
+ 
+111 There is nothing in the case of the respondents seeking to invoke the defences in s 16(3) or s 16(4) of the Spam Act .</sentence>
+<sentence id="s352">In any event, there is nothing in the evidence which provides a foundation for reliance on those defences.</sentence>
+<sentence id="s353">112 I therefore find that the claim under s 16(1) is made out.</sentence>
+<sentence id="s354">CLAIM OF USE OF HARVESTED-ADDRESS LISTS 
+ 
+113 The provisions of the Spam Act relevant to harvested-address lists --- ss 4 , 11 and 22 - have been set out above.</sentence>
+<sentence id="s355">The prohibition in s 22(1) against the use of address-harvesting software or a harvested-address list is one which does not apply in the circumstances referred to in s 22(2).</sentence>
+<sentence id="s356">Those circumstances are where the use 'was not in connection with sending commercial electronic messages in contravention of section 16 '.</sentence>
+<sentence id="s357">The consequence is that s 22(1) does apply where the use is in connection with sending CEMs in contravention of s 16.</sentence>
+<sentence id="s358">114 The respondents have admitted that the principal methods used to obtain the electronic addresses contained in the Databases and Lists were by using address-harvesting software or by obtaining harvested-address lists from external parties.</sentence>
+<sentence id="s359">The admission is that the majority of such electronic addresses were obtained by one or other of those means.</sentence>
+<sentence id="s360">Apart from the admissions in the notice to admit facts, the affidavit of Mr Thompson supports this.</sentence>
+<sentence id="s361">Support is also found in the affidavit of Mr Duffy sworn on 18 July 2005.</sentence>
+<sentence id="s362">Additionally a number of the witnesses stated their belief that their electronic addresses were harvested from the internet and the assertion was not challenged by the respondents in cross-examination: see the evidence of Mr Villa, Mrs Trudgeon, Mr Dawson and M/s La Coste.</sentence>
+<sentence id="s363">115 However, the respondents' case is and the evidence supports that the harvesting occurred prior to 10 April 2004 when the Spam Act relevantly came into operation.</sentence>
+<sentence id="s364">The act of harvesting is not alleged to have been contrary to the Spam Act .</sentence>
+<sentence id="s365">What is alleged against the respondents is that their usage of the harvested addresses after that date constitutes a contravention of s 22(1) because it was usage in connection with a contravention of s 16(1).</sentence>
+<sentence id="s366">The contravention of s 16(1) has been made out.</sentence>
+<sentence id="s367">It follows that in the majority of instances of contravention of s 16(1) Clarity1 used a harvested-address list in contravention of s 22(1) on each occasion.</sentence>
+<sentence id="s368">116 The effect of the enactment of s 22(1) is to make illegal from the date of its application the usage to which it is directed.</sentence>
+<sentence id="s369">The fact that the address-harvesting may have occurred at a time when no such prohibition was in the law, does not prevent the application of the provision in its terms from the date it came into force.</sentence>
+<sentence id="s370">The provision is not simply concerned with how the list was obtained in the past.</sentence>
+<sentence id="s371">It is directed to the usage of the list in the circumstances of the prohibition.</sentence>
+<sentence id="s372">117 I therefore find that the claim under s 22(1) is made out.</sentence>
+<sentence id="s373">ACCESSORIAL LIABILITY 
+ 
+118 Since Hamilton v Whitehead [1988] HCA 65 ; (1988) 166 CLR 121 it is clear that the conduct of a person may result in liability being imposed on a company as the principal offender as well as liability being imposed on that individual person as an accessory: see discussion in Australian Competition and Consumer Commission v Black on White Pty Ltd [2001] FCA 187 ; (2001) 110 FCR 1 at [17] - [19] .</sentence>
+<sentence id="s374">119 A person has aided or abetted a contravention if it can be shown that the person was aware of the essential elements of the contravention and intentionally participated in it.</sentence>
+<sentence id="s375">Similarly, a person is a 'party to a contravention' if the person has knowledge of the essential elements of, and participates in, or assents to, the contravention: see Yorke v Lucas [1985] HCA 65 ; (1985) 158 CLR 661 at 670; Rural Press Ltd v Australian Competition and Consumer Commission [2002] FCAFC 213 ; (2002) 193 ALR 399; Australian Competition and Consumer Commission v Giraffe World Australia Pty Ltd (No 2) [1999] FCA 1161 ; (1999) 166 ALR 74.</sentence>
+<sentence id="s376">120 A person is 'knowingly concerned' in a contravention if the person has something more than 'mere knowledge' of the subject of the contravention.</sentence>
+<sentence id="s377">The question is whether the person is implicated or involved in the offence and whether there is a practical connection between him and the offence: Trade Practices Commission v Australia Meat Holdings Pty Ltd (1988) 83 ALR 299.</sentence>
+<sentence id="s378">121 It is admitted that Mr Mansfield, as the sole director of Clarity1, was at all relevant times fully aware and responsible for the business carried on by Clarity1.</sentence>
+<sentence id="s379">He intentionally participated in and knew the essential elements of each aspect of Clarity1's conduct, including the conduct which has been found to have contravened ss 16(1) and 22 (1) of the Spam Act .</sentence>
+<sentence id="s380">It necessarily follows that he is liable under ss 16(9) and 22 (3) of the Spam Act as a person who has been aiding, abetting, counselling or procuring a contravention, or directly or indirectly, knowingly concerned in, or party to, a contravention.</sentence>
+<sentence id="s381">122 However, Mr Mansfield argues he has no case to answer, despite these provisions, because of s 8 of the Spam Act , which reads:
+ 
+ '8(1) For the purposes of this Act (including subsection (2)), if: 
+ (a) an individual authorises the sending of an electronic message; and 
+ (b) the individual does so on behalf of an organisation; 
+ then: 
+ (c) the organisation is taken to authorise the sending of the electronic message; and 
+ (d) the individual is taken not to authorise the sending of the electronic message.</sentence>
+<sentence id="s382">
+ 
+ (2) For the purposes of this Act, if: 
+ (a) an electronic message is sent by an individual or organisation; and 
+ (b) the sending of the message is not authorised by any other individual or organisation; 
+ the first-mentioned individual or organisation is taken to authorise 
+ the sending of the message.</sentence>
+<sentence id="s383">' 
+
+123 There is no inconsistency between this section and the provisions of ss 16(9) and 22(3).</sentence>
+<sentence id="s384">Even if s 8(1) applies so as to result in the finding that Mr Mansfield did not authorise the sending of the electronic message, that cannot protect him against the application of the two subsections providing for accessorial liability.</sentence>
+<sentence id="s385">This is because the question raised by those two subsections is whether he was involved as an accessory in any of the ways stated in those subsections in the actions of Clarity1.</sentence>
+<sentence id="s386">The fact that s 8(1) may have the consequence that he is not to be taken to have authorised the sending, does not answer the question raised by the two subsections whether he participated in the sending of the message in any of the relevant ways.</sentence>
+<sentence id="s387">Hamilton v Whitehead makes apparent that where liability is imposed on the company it is direct not vicarious, so that a person with knowledge of the material circumstances and who was the actor in the conduct constituting the circumstances will be 'knowingly concerned' in the commission of the offences committed by the company.</sentence>
+<sentence id="s388">124 It follows also that there is no legal significance in Mr Mansfield's contention that at no time did he act in his own right or encourage the company.</sentence>
+<sentence id="s389">It is sufficient that he acted only as a director and the actor in the conduct.</sentence>
+<sentence id="s390">For him to be 'knowingly concerned' it is not necessary for him to be acting only 'in his own right'.</sentence>
+<sentence id="s391">The essential question in either case is whether he was on the evidence 'knowingly concerned' as that phrase and associated descriptions in the two subsections are understood at law.</sentence>
+<sentence id="s392">CIVIL PENALTY 
+ 
+125 The issue of the appropriate civil penalty will be the subject of submissions at a hearing to be listed.</sentence>
+<sentence id="s393">ORDERS 
+ 
+126 The above reasons entitle the applicant to declaratory relief in the form sought in the application, subject to any further submissions concerning the form of the orders in that respect.</sentence>
+<sentence id="s394">The making of such orders will be held over pending determination of the issues relating to civil penalty.</sentence>
+<sentence id="s395">I certify that the preceding one-hundred and twenty-six (126) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Nicholson.</sentence>
+<sentence id="s396">Associate:
+
+Dated: 13 April 2006
+
+ Counsel for the Applicant: S Owen-Conway QC with J Jones 
+ 
+ Solicitor for the Applicant: Australian Government Solicitor 
+ 
+ The First Respondent was represented by the Second Respondent 
+ The Second Respondent appeared in person 
+ 
+ Date of Hearing: 28 February 2006, 1-2 March 2006 
+ 
+ Date of Last Written Submissions: 14 March 2006 
+ 
+ Date of Judgment: 13 April 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/410.html 
+ 
+ </sentence>
+</sentences>
+</case>

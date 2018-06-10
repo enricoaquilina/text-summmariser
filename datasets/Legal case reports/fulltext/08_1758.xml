@@ -1,0 +1,1245 @@
+<?xml version="1.0"?>
+<case>
+<name>Telstra Corporation Ltd v ACCC [2008] FCA 1758 (24 November 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1758.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">trade practices act 1974 (cth), part xic , telecommunications industry and access regime</catchphrase>
+<catchphrase "id=c1">dispute between telstra and optus regarding access to unconditioned local loop service (ulls) in multi-dwelling units (mdus)</catchphrase>
+<catchphrase "id=c2">resolution of access dispute by australian competition and consumer commission (accc)</catchphrase>
+<catchphrase "id=c3">final determination made by accc establishing regime for ordering and provisioning of ulls</catchphrase>
+<catchphrase "id=c4">whether final determination lawfully made</catchphrase>
+<catchphrase "id=c5">judicial review</catchphrase>
+<catchphrase "id=c6">grounds of review</catchphrase>
+<catchphrase "id=c7">appeal under administrative decisions (judicial review) (adjr) act 1977 (cth), s 5</catchphrase>
+<catchphrase "id=c8">whether final determination unlawfully made on grounds that, in making final determination, accc: (1) did not take into account telstra's direct costs of providing access to the ulls (s 152cr(1)(d)); or (2) did not properly have regard to industry code as model terms and conditions (152aqb(9)) or otherwise (s 152cr(2)); or (3) failed to specify with reasonable precision or certainty terms and conditions relating access (s 152cp(2)); or (4) was so unreasonable that no reasonable person could have so exercised the power ( wednesbury unreasonableness); or (5) exceeded its jurisdiction by incorrectly assuming a matter upon which the exercise of its jurisdiction depended (s 152cp(1))</catchphrase>
+<catchphrase "id=c9">trade practices act , part xic , div 8</catchphrase>
+<catchphrase "id=c10">extent to which accc's earlier determination adopted industry code standards regarding ordering and provisioning of ulls</catchphrase>
+<catchphrase "id=c11">mandatory terms of s 152aqb(1)(b) and (3) which stated respectively that accc "must make a written determination setting out model terms and conditions relating to access to each core service" and that accc "must take all reasonable steps to ensure that" such a determination is made within six months after commencement of section</catchphrase>
+<catchphrase "id=c12">whether accc had discretion to declare some but not all model terms and conditions relating to core service</catchphrase>
+<catchphrase "id=c13">clear words used by parliament requiring accc to make written determination to set out model terms and conditions relating to ulls and to take all reasonable steps to do so within six months</catchphrase>
+<catchphrase "id=c14">explanatory memorandum qualifying clear words in bill</catchphrase>
+<catchphrase "id=c15">trade and commerce</catchphrase>
+<catchphrase "id=c16">administrative law</catchphrase>
+<catchphrase "id=c17">trade and commerce</catchphrase>
+<catchphrase "id=c18">statutory interpretation</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 1.</sentence>
+<sentence id="s1">FACTUAL BACKGROUND 
+ 
+1 When a person moves into a dwelling, he or she will frequently want a telephone service directly connected to the public switched telephone network ("PSTN") through what is commonly called a "landline".</sentence>
+<sentence id="s2">Most residential premises in Australia have a wall socket allowing for a telephone to be plugged into the socket and thus connected to the PSTN.</sentence>
+<sentence id="s3">Many forms of residential development have more than one dwelling, such as apartment or home unit buildings, and town houses.</sentence>
+<sentence id="s4">Telephony providers refer to these as "multi-dwelling units" or "MDUs".</sentence>
+<sentence id="s5">Because a number of the terms necessary to resolve these proceedings are acronyms, I will include a glossary as a schedule to this judgment for ease of reference.</sentence>
+<sentence id="s6">2 Many MDUs have a main distribution frame ("MDF").</sentence>
+<sentence id="s7">The MDF is used to connect the telephony wires of dwellings within the MDU to appropriate wires that, in turn, connect to a telephone exchange.</sentence>
+<sentence id="s8">A form of connection is by use of a copper or aluminium wire, which, as explained below, is defined as a "communications wire".</sentence>
+<sentence id="s9">One, but by no means the exclusive, means of connection between the exchange side of the MDF and the exchange itself is through an unconditioned communications wire.</sentence>
+<sentence id="s10">This form of communication is called an unconditioned local loop service ("ULLS").</sentence>
+<sentence id="s11">Telstra Corporation Limited owns and maintains those local loops.</sentence>
+<sentence id="s12">It also owns over 5,000 local exchanges as explained in Telstra Corporation Ltd v The Commonwealth [2008] HCA 7 ; (2008) 243 ALR 1 at 3-4 [1] - [8] per Gleeson CJ, Gummow, Kirby, Hayne, Heydon, Crennan and Kiefel JJ.</sentence>
+<sentence id="s13">3 The essential and defining characteristics of the ULLS are that it consists of an unconditioned communications wire (usually a twisted pair of copper or aluminium wires) between, in substance, the exchange side of the MDF and the telephone exchange itself.</sentence>
+<sentence id="s14">However, there are other means of connecting between the exchange side of the MDF and the telephone exchange, including using fibre optic cable.</sentence>
+<sentence id="s15">Thus, the mere fact that there may be wires physically present at the exchange side of the MDU does not mean that the whole path to the exchange from that wire will always be physically along a copper or aluminium communications wire or wires.</sentence>
+<sentence id="s16">4 Other telecommunications providers than Telstra are able to offer telephony services to, among others, residents of MDUs.</sentence>
+<sentence id="s17">In September 2006, Optus Networks Pty Limited was such a provider.</sentence>
+<sentence id="s18">At that time, Optus notified a dispute to the Australian Competition and Consumer Commission concerning access to the ULLS provided by Telstra in MDUs under s 152CM(1) of the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s19">Part XIC of the Act regulates, among other things, access to parts of the PSTN, and requires the Commission to act as an arbitrator of disputes between participants in the telecommunications industry concerning access to services.</sentence>
+<sentence id="s20">5 The Commission conducted an arbitration of the access dispute to the ULLS between Optus and Telstra.</sentence>
+<sentence id="s21">Optus claimed that unnecessary costs were incurred by both Optus directly and through the charges it had to pay Telstra.</sentence>
+<sentence id="s22">This was because technicians from each of them had to attend at an MDF to connect the wires from the exchange side to the wires on the dwelling side of the frame in order to provide the subscriber with a link to the telephone exchange.</sentence>
+<sentence id="s23">Optus contended that often no attendances were necessary.</sentence>
+<sentence id="s24">The parties used the description "truck roll" to describe the visit by a technician in a vehicle to make the physical inspection of the wires.</sentence>
+<sentence id="s25">Telstra's technician would identify a pair of wires on the exchange side of the MDF as being connected to the ULLS and available for use by Optus' subscriber.</sentence>
+<sentence id="s26">Optus would then send a technician to connect the two wires identified by Telstra to wires on the dwelling side of the MDF linked to Optus' subscriber's dwelling.</sentence>
+<sentence id="s27">This occurred even where the previous occupant of the dwelling had had a telephone line connected.</sentence>
+<sentence id="s28">6 Optus contended that it was unnecessary in those circumstances for either Telstra or Optus technicians to attend at the MDF, since a physical link had already existed for the previous subscriber who had lived in the dwelling.</sentence>
+<sentence id="s29">Thus Optus argued that an unnecessary expense was incurred in having two technicians redo or check something that already existed.</sentence>
+<sentence id="s30">Optus suggested that there must be a simpler and more efficient means of giving access.</sentence>
+<sentence id="s31">7 When the Commission conducted the arbitration it raised a suggestion that if there were a "soft dial tone" on the telephone in the subscriber's dwelling, that would indicate that there was already a continuous link to an exchange.</sentence>
+<sentence id="s32">A soft dial tone indicates that the line from the subscriber's dwelling has a physical connection to an exchange but that line is not then being used to provide any services to a subscriber.</sentence>
+<sentence id="s33">The line can be used only to make emergency calls and calls to a number provided by Telstra in order to indicate the previous telephone number used on the PSTN to reach that address.</sentence>
+<sentence id="s34">The Commission suggested that ascertaining the presence of a soft dial tone would indicate the existence of an ULLS and thus make attendances by technicians at the MDF unnecessary.</sentence>
+<sentence id="s35">8 The fallacy in this suggestion is, of course, that the existence of the soft dial tone does not indicate whether the connection is by way only of an unconditioned communications wire (i.e.</sentence>
+<sentence id="s36">an ULLS), or, by way in whole or part of some other means, e.g.</sentence>
+<sentence id="s37">fibre optic cable or other connection not being an ULLS.</sentence>
+<sentence id="s38">Moreover, while the soft dial tone indicates the existence of a connection it also is present only when no actual service is being provided over that connection (i.e.</sentence>
+<sentence id="s39">the connection is not in use and is vacant).</sentence>
+<sentence id="s40">In its final determination following the arbitration, the Commission proposed a novel regime using the presence of a soft dial tone for the ordering of ULLS by Optus from Telstra.</sentence>
+<sentence id="s41">This regime was intended to adapt existing processes in the Australian Communications Industry Forum ("ACIF") industry code C569:2005 Unconditioned Local Loop Service --- Ordering, Provisioning and Customer Transfer (Code 569).</sentence>
+<sentence id="s42">I will explain what this involved later (see Ch 6).</sentence>
+<sentence id="s43">However, Code 569 did not use the term "soft dial tone" at all.</sentence>
+<sentence id="s44">9 The operative provision in the regime proposed by the Commission in its final determination was par 10 which provided as follows:
+ 
+ 
+ "10.</sentence>
+<sentence id="s45">Except where the parties agree otherwise, the supply by Telstra to Optus in respect of the ULLS in MDUs serviced by a MDF in the building is to be as follows:
+ 
+ 
+ 
+ 
+ 
+ (a) Where there is an existing Communications Wire between the Telstra exchange and the end-user customer's premises which has a soft dial tone and Optus submits a ULLS Request to Telstra that provides the Service Number (which includes the full national number) and address associated with the Communications Wire, Telstra must treat the request as if it was a ULLS Transfer Request following the ULLS Transfer process specified in the ACIF C569:2005 Unconditioned Local Loop Service --- Ordering, Provisioning and Customer Transfer industry code.</sentence>
+<sentence id="s46">(b) On receipt of a ULLS Request from Optus, Telstra must validate that the Service Number corresponds to the address specified in the request, based on Telstra's cabling records in Telstra exchanges.</sentence>
+<sentence id="s47">(c) If this information is incorrect, Telstra must follow the ULLS Rejection process for ULLS Transfers specified in the ACIF C569:2005 Unconditioned Local Loop Service --- Ordering, Provisioning and Customer Transfer industry code.</sentence>
+<sentence id="s48">(d) For the purposes of the ULLS Transfer Request and in accordance with the definition of Losing Access Seeker stated in the ACIF C569:2005 Unconditioned Local Loop Service --- Ordering, Provisioning and Customer Transfer industry code, where Telstra has been supplying the service immediately prior to the transfer, Telstra is to be considered the Losing Access Seeker.</sentence>
+<sentence id="s49">(e) Where there is no Communications Wire between the Telstra exchange and the end-user customer's premises i.e., there is no soft dial tone and Optus submits a Vacant ULLS Request, Telstra must follow the Vacant ULLS process specified in the ACIF C569:2005 Unconditioned Local Loop Service --- Ordering, Provisioning and Customer Transfer industry code.</sentence>
+<sentence id="s50">(f) If Optus submits a ULLS Transfer Request to Telstra that meets the requirements in paragraph (a), Optus must accept any risk to the quality of, connectivity of and suitability for providing voice and/or data services on the existing copper path between the Telstra exchange and the end-user premises.</sentence>
+<sentence id="s51">(g) For the avoidance of doubt, where there is an existing Communications Wire between the Telstra exchange and the end-user customer's premises which has a soft dial tone but Optus is not prepared to accept any risk to the quality of, connectivity of and suitability for providing voice and/or data services on the existing copper path between the Telstra exchange and the end-user premises, Optus must submit a Vacant ULLS Request.</sentence>
+<sentence id="s52">" (bold emphasis added)
+ 
+ 
+ 
+
+10 Under s 152CR(1)(d) of the Act, the Commission was required to take into account the direct costs to Telstra of providing a declared service, here the ULLS, in making a final determination.</sentence>
+<sentence id="s53">During the course of the arbitration Telstra contended that it would cost Telstra about $1.7 million to redesign its computer system to accommodate the proposal that the Commission had in mind.</sentence>
+<sentence id="s54">Optus argued that it would only cost it, Optus, about $360,000 to implement the proposals.</sentence>
+<sentence id="s55">11 Telstra contended that in purporting to make its final determination, the Commission:
+ 
+&#8226; either took into account Optus' costs as the cost to Telstra or alternatively it did not take Telstra's costs into account as required by s 152CR(1)(d) of the Act (Ground 3);
+ 
+&#8226; failed to comply with s 152AQB(9) because it did not have regard to the provisions of Code 569 as model terms and conditions which the Commission had previously made under a determination in October 2003 (Ground 4);
+ 
+&#8226; alternatively, by misconstruing and misunderstanding Code 569, either failed to take the actual provisions of the Code into account, or failed to have regard to them in accordance with s 152CR(2), and took into account an irrelevant consideration instead, namely its misconstruction or misunderstanding (Ground 5);
+ 
+&#8226; failed to comply with s 152CP(2) because the final determination was uncertain in its operation (Ground 6);
+ 
+&#8226; made an error of law and acted unreasonably (Ground 7);
+ 
+&#8226; exceeded its jurisdiction under s 152CP of the Act because the final determination did not deal with access to the declared service of the ULLS but rather wrongly assumed in pars 10(a) and (e) that a soft dial tone at the end-user's premises indicated that an existing ULLS connected those premises to a Telstra exchange, and then required Telstra to provide an ULLS on the basis of that false assumption (Ground 8).</sentence>
+<sentence id="s56">(Grounds 1 and 2 were not pressed.</sentence>
+<sentence id="s57">)
+ 2.</sentence>
+<sentence id="s58">STATUTORY SCHEME 
+ 2.1 Objective of Part XIC, Trade Practices Act 
+ 
+12 Part XIC of the Act is intended to provide a regime for access to telecommunications infrastructure and other services to be given by providers of those services (s 152AA).</sentence>
+<sentence id="s59">The object of the Part is to promote the long-term interests of end-users of telecommunications carriage services and services provided by means of carriage services governed by the Telecommunications Act 1997 (Cth) ( Trade Practices Act , s 152AB(1)).</sentence>
+<sentence id="s60">13 The Parliament identified the matters to which a decision-maker must have regard in determining whether some proposal, activity or requirement promotes the long-term interests of end-users of carriage services.</sentence>
+<sentence id="s61">These include the objectives of promoting competition in markets for listed services and encouraging the economically efficient use of infrastructure by which listed services are supplied (s 152AB(2)(c) and (e)).</sentence>
+<sentence id="s62">This promotion of competition requires the decision-maker to have regard to the extent to which obstacles to end-users in gaining access to listed services can be removed (s 152AB(4)).</sentence>
+<sentence id="s63">When determining the extent to which the efficient use of infrastructure objective in s 152AB(2)(e) might be achieved, among other things, a decision-maker must have regard to:
+ 
+&#8226; whether it is or is likely to become technically feasible for the services to be supplied and charged for, having regard to the technology that is in use or available or likely to be become available (s 152AB(6)(a)(i)) ;
+ 
+&#8226; whether the costs that would be involved in supplying and charging for the services are reasonable or are likely to become reasonable (s 152AB(6)(a)(ii)) ;
+ 
+&#8226; and the legitimate commercial interests of the supplier or suppliers of the services, including the ability of the supplier or suppliers to exploit economies of scale or scope (s 152AB(6)(b)).</sentence>
+<sentence id="s64">2.2 "Declared services" and "core services" 
+ 
+14 A central feature of Part XIC is the power of the Commission to make a declaration pursuant to s 152AL(3) that a particular kind of telecommunications service is a "declared service" for the purposes of the Act.</sentence>
+<sentence id="s65">The ULLS is a declared service under the Act (see Ch 5 below).</sentence>
+<sentence id="s66">Under s 152AQA(1), the Commission must determine in writing principles relating to the price of access to a declared service.</sentence>
+<sentence id="s67">And, the Commission must have regard to any such pricing principles if it arbitrates an access dispute under Div 8 in relation to a declared service (s 152AQA(6)).</sentence>
+<sentence id="s68">15 By force of s 152AQB(1)(c) the ULLS is also defined to be a "core service".</sentence>
+<sentence id="s69">Under s 152AQB(2) the Commission:
+ "... must make a written determination setting out model terms and conditions relating to access to each core service.</sentence>
+<sentence id="s70">" (emphasis added) 
+And s 152AQB(3) provided that the Commission " must take all reasonable steps to ensure that" such a determination in relation to the ULLS service was made within six months after the section commenced (emphasis added).</sentence>
+<sentence id="s71">When it arbitrates an access dispute the Commission must have regard to a determination under s 152AQB in relation to a core service covered by such a determination (s 152AQB(9)).</sentence>
+<sentence id="s72">2.3 Standard access obligations and "ordering and provisioning" 
+ 
+16 Division 3 of Pt XIC deals with standard access obligations, as defined in s 152AR(1).</sentence>
+<sentence id="s73">Relevantly, Telstra, as an access provider, was required, if requested to do so by a service provider, such as Optus, to:
+ "... take all reasonable steps to ensure that the technical and operational quality of the [ULLS] supplied to [Optus] is equivalent to that which [Telstra] provides to itself.</sentence>
+<sentence id="s74">" (s 152AR(3)(b)) 
+And, by force of s 152AR(4A):
+ "To avoid doubt, ordering and provisioning are taken to be aspects of technical and operational quality referred to in paragraph (3)(b).</sentence>
+<sentence id="s75">" 
+17 It is common ground that the means by which Optus sought access to Telstra's ULLS service for subscribers in MDUs fell within the meaning of "ordering and provisioning".</sentence>
+<sentence id="s76">"Ordering" involves an access seeker submitting a request to Telstra and Telstra responding to the request by either confirming its validity and the availability of a suitable communications wire (ULLS) or rejecting the request (Code 569, cl 11).</sentence>
+<sentence id="s77">"Provisioning" involves Telstra acting on a confirmed request by connecting the identified and available communications wire to the access seeker's equipment in the local exchange and recording the new status of that wire in its own records (Code 569, cll 12.1, 12.2).</sentence>
+<sentence id="s78">Telstra was required to comply with all of the standard access obligations in relation to the ULLS service by force of s 152AY, including any obligations imposed by the Commission in accordance with an arbitration determination made by it under Div 8 of Pt XIC (s 152AY(2)(b)(iii)).</sentence>
+<sentence id="s79">2.4 Resolution of access disputes 
+ 
+18 Division 8 of Pt XIC deals with the manner in which access disputes are to be resolved by the Commission.</sentence>
+<sentence id="s80">In exercising its powers under Div 8 the Commission must have regard to the desirability of access disputes being resolved in a timely manner (s 152CLA (1)).</sentence>
+<sentence id="s81">Under s 152CM(1) an access seeker in the position of Optus was entitled to notify the Commission in writing that an access dispute existed where, first, a declared service, such as the ULLS, was supplied by a carrier (here, Telstra), secondly, one or more standard access obligations applied and, thirdly, the access seeker and carrier were unable to agree about the terms and conditions on which the carrier was to comply with those obligations.</sentence>
+<sentence id="s82">The scope of s 152CM(1) is illustrated in s 152CM(5) which gives examples of the subject matter of access disputes.</sentence>
+<sentence id="s83">Those examples include the price, or method for ascertaining the price, for which access is to be provided and whether a previous determination ought to be varied.</sentence>
+<sentence id="s84">19 By force of s 152CP(1) the Commission was required to make a written determination on access by Optus, as an access seeker, to the ULLS service as a declared service.</sentence>
+<sentence id="s85">Relevantly, s 152CP(2) provided:
+ "The determination may deal with any matter relating to access by the access seeker to the declared service including matters that were not the basis for notification of the dispute.</sentence>
+<sentence id="s86">For example, the determination may: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (a) require the carrier or provider to provide access to the declared service by the access seeker; or
+ (b) require the access seeker to accept, and pay for, access to the declared service; or
+ (c) specify the terms and conditions on which the carrier or provider is to comply with any or all of the standard access obligations applicable to the carrier or provider; or
+ (d) specify any other terms and conditions of the access seeker's access to the declared service; or
+ (e) require a party to extend or enhance the capability of a facility by means of which the declared service is supplied; or
+ (f) specify the extent to which the determination overrides an earlier determination relating to access to the declared service by the access seeker.</sentence>
+<sentence id="s87">" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+20 The Commission was required to give a draft determination to the parties prior to making any determination, whether final or interim (s 152CP(4)).</sentence>
+<sentence id="s88">And, when the Commission made a determination, it had to give its reasons for making the determination to the parties to the arbitration (s 152CP(5)).</sentence>
+<sentence id="s89">21 Although the Commission had power to make an interim determination (pursuant to s 152CPA(1); see s 152CL where the term is defined) it in fact proceeded to make a final determination of this access dispute.</sentence>
+<sentence id="s90">Under s 152CQ(1)(f) the Commission was prohibited from making a determination that would have the effect of:
+ 
+ 
+ "(f) requiring a party (other than the access seeker) to bear an unreasonable amount of the costs of:
+ 
+ 
+ (i) extending or enhancing the capability of a facility; or 
+ 
+ 
+ (ii) maintaining extensions to or enhancements of the capability of a facility;" 
+ 
+ 
+ 
+ 
+ 
+ 
+
+22 If the Commission made a determination which contravened s 152CQ(1) then s 152CQ(7) provided that such a determination was of no effect by reason of that contravention.</sentence>
+<sentence id="s91">Next, s 152CR relevantly provided:
+ "152CR Matters that the Commission must take into account 
+ 
+ (1) The Commission must take the following matters into account in making a final determination:
+ 
+ 
+ 
+ 
+ 
+ (a) whether the determination will promote the long-term interests of end-users of carriage services or of services supplied by means of carriage services;
+ (b) the legitimate business interests of the carrier or provider, and the carrier's or provider's investment in facilities used to supply the declared service;
+ (c) the interests of all persons who have rights to use the declared service; 
+ 
+ 
+ 
+ 
+ (d) the direct costs of providing access to the declared service; 
+ 
+ 
+ 
+ 
+ (e) the value to a party of extensions, or enhancement of capability, whose cost is borne by someone else;
+ (f) the operational and technical requirements necessary for the safe and reliable operation of a carriage service, a telecommunications network or a facility;
+ (g) the economically efficient operation of a carriage service, a telecommunications network or a facility.</sentence>
+<sentence id="s92">
+ 
+ 
+ 
+ 
+ (2) The Commission may take into account any other matters that it thinks are relevant.</sentence>
+<sentence id="s93">" (emphasis added)
+ 
+ 
+
+23 The Commission had power to publish the whole or part of a determination and the reasons for making it, but was not obliged to do so (s 152CRA(1)).</sentence>
+<sentence id="s94">An arbitration hearing in respect of an access dispute was to be conducted in private unless the parties otherwise agreed (s 152CZ(1) and (2)).</sentence>
+<sentence id="s95">And, in conducting an arbitration about an access dispute, the Commission was not bound by legal technicalities, legal forms or rules of evidence and was required to act as speedily as proper consideration of the dispute allowed, having regard to the need carefully and quickly to enquire into and investigate the dispute and all matters affecting the merits, and fair settlement, of it.</sentence>
+<sentence id="s96">The Commission was also authorised to inform itself of any matter relevant to the dispute in any way thought appropriate (s 152DB(1)).</sentence>
+<sentence id="s97">24 Additionally, the Commission had power under s 152DBA to use information provided to it by a party to another arbitration in the arbitration which it was determining, if it considered that that would be likely to result in the current arbitration being conducted in a more efficient and timely manner.</sentence>
+<sentence id="s98">But, if it wished to do so, it had to give notice to the person from the other arbitration whose information or document it proposed to use (s 152DBA(3)).</sentence>
+<sentence id="s99">25 Where a party to a determination applies to enforce a determination, s 152DU is expressed to confer jurisdiction on this Court to make orders, including granting an injunction restraining a contravention of the determination, or requiring the party alleged to be in breach to comply with it, or alternatively for compensation.</sentence>
+<sentence id="s100">There is no issue in this matter under s 152DU, except that Telstra has pointed to that section and the consequences of any contravention of the Act which might expose it to potential liability, if the determination be valid.</sentence>
+<sentence id="s101">3.</sentence>
+<sentence id="s102">EXISTING MODEL NON-PRICE TERMS AND CONDITIONS RELATING TO ACCESS 
+ 3.1 The Commission's October 2003 determination 
+ 
+26 The parties disagreed about whether the Commission in October 2003 had made a comprehensive or attenuated final determination of the model non-price terms and conditions for ordering and provisioning of the ULLS.</sentence>
+<sentence id="s103">For the purpose of making a final determination in an access dispute, s 152AQB(9) required the Commission to have regard to any (earlier) final determination of terms and conditions it had made in relation to a core service, such as the ULLS.</sentence>
+<sentence id="s104">Optus argued that the Commission's October 2003 determination had adopted very limited parts of Code 569 as model terms and conditions dealing with ordering and provisioning.</sentence>
+<sentence id="s105">Broadly speaking, Telstra argued that, in substance, the October 2003 determination had adopted Code 569 in its entirety.</sentence>
+<sentence id="s106">27 Despite the apparently mandatory terms of sub-ss 152AQB(2) and (3) regarding the obligation of the Commission to make a written determination of model terms and conditions, the explanatory memorandum for the Telecommunications Competition Bill 2002 (Cth) circulated by the Minister stated:
+ "It is intended that the model terms and conditions will not need to be comprehensive; the [Commission] will be able to publish any or all of the model terms and conditions relating to a core service.</sentence>
+<sentence id="s107">" 
+28 When the Commission published a final determination of model non-price terms and conditions in October 2003, over three months later than the exhorted six months provided in s 152AQB(3), it reiterated that model terms and conditions "need not be comprehensive", referring to the explanatory memorandum.</sentence>
+<sentence id="s108">The Commission said that it:
+ "... can therefore make a determination that deals with any or all of the model terms and conditions relating to the core services.</sentence>
+<sentence id="s109">In this Determination, the Commission has chosen to deal with only with the key contentious terms and conditions as raised by industry participants.</sentence>
+<sentence id="s110">" (emphasis added) 
+29 In the October 2003 determination, the Commission also said that its proposed approach to developing model terms and conditions was to treat the relevant ACIF code "as representing the standard for the model term and condition".</sentence>
+<sentence id="s111">It recognised that there was a formal process of industry self-regulation that had determined how particular matters should be dealt with between access seekers and providers.</sentence>
+<sentence id="s112">And, the Commission recognised the desirability of constraint in its promulgation of other terms and conditions which might conflict or be inconsistent with what the industry had already developed.</sentence>
+<sentence id="s113">In Part 2 of that determination the Commission expressly adopted particular ACIF codes where it considered that their provisions dealt adequately with a point of contention in the industry.</sentence>
+<sentence id="s114">And, the Commission identified particular areas as "key contentious" non-price terms and conditions requiring its specific attention.</sentence>
+<sentence id="s115">Finally, in a general comment at the conclusion of Part 2 of the determination, the Commission said that it would expect access agreements to reflect all applicable ACIF code obligations unless there was an agreement between the parties to adopt another standard.</sentence>
+<sentence id="s116">It concluded:
+ "As noted above, where a matter is dealt with by an ACIF code, the Commission's model terms and conditions will adopt that standard.</sentence>
+<sentence id="s117">As a consequence, access agreements that fail to incorporate ACIF codes standards will fail to meet the Commission's model non-price terms and conditions.</sentence>
+<sentence id="s118">" (emphasis added) 
+30 The October 2003 determination addressed a number of specific ordering and provisioning issues dealt with in the 2001 version of Code 569.</sentence>
+<sentence id="s119">The Commission expressly adopted cl 8.1 of the 2001 version which required access providers (i.e.</sentence>
+<sentence id="s120">Telstra) to treat ordering and provisioning of ULLS in a non-discriminatory manner.</sentence>
+<sentence id="s121">It then stated:
+ "The Commission adopts this provision and all provisions relating thereto as part of its model non-price terms and conditions".</sentence>
+<sentence id="s122">31 The determination then referred to s 152AR(3)(b) which required that an access provider must, if required to do so by a service provider, take all reasonable steps to ensure that the technical and operational quality of the active declared service supplied to the service provider was equivalent to that which the access provider provided to itself.</sentence>
+<sentence id="s123">Since the Act expressly provided these requirements, it is difficult to understand how the Commission regarded such a term as "contentious".</sentence>
+<sentence id="s124">Optus argued that this model term also had the effect of expressly incorporating what became cll 11.6.2 and 11.7.2 in Code 569 (these provided that an access provider had to take all reasonable steps to ensure that the technical and operational quality of the information supplied to an access seeker as part of the service qualification process was equivalent to that which the access provider provided to itself and also had to provide, similarly, appropriate connections).</sentence>
+<sentence id="s125">The service qualification process involved the access provider checking its office records as to the suitability of the proposed ULLS.</sentence>
+<sentence id="s126">Optus argued that because the Commission made these specific provisions of Code 569 as model terms it could not have made the balance of the Code as model terms.</sentence>
+<sentence id="s127">32 In addition, the Commission expressly adopted as model terms and conditions cl 11.10 of the 2001 version of Code 569 which provided for "cutover notification", (this required the access provider to notify the access seeker when the provisioning of the ULLS would be complete) "together with all related provisions".</sentence>
+<sentence id="s128">33 The Commission also expressly adopted as model terms and conditions:
+ "... all relevant clauses in the code concerned with the obligation to provide acknowledgement of ordered services and updates of progress and confirmation of completed orders.</sentence>
+<sentence id="s129">" 
+In their ordinary meaning these words include cl 11 which deals with the placing of orders, by various ULLS requests (as explained below) and processing these.</sentence>
+<sentence id="s130">34 The Commission noted that the 2001 version of Code 569 outlined the agreed industry processes for ordering and provisioning ULLS.</sentence>
+<sentence id="s131">It gave, as an example, cl 11.6, which detailed the process of service qualification as part of ordering and provisioning ULLS.</sentence>
+<sentence id="s132">The Commission said that any change in this process should be developed through the industry body (ACIF) and the relevant code.</sentence>
+<sentence id="s133">3.2 The non-comprehensive approach of the Commission 
+ 
+35 In my opinion the intention of the Parliament when it enacted sub-ss 152AQB(2) and (3) was expressed in emphatic and unambiguous language.</sentence>
+<sentence id="s134">The section required the Commission to make a written determination setting out model terms and conditions relating to access to the ULLS and to take all reasonable steps to ensure that such a declaration was made within six months after the commencement of the section on 19 December 2002.</sentence>
+<sentence id="s135">36 The subject matter, scope and purpose of that statutory requirement was directed to providing commercial certainty as to the material contractual rights and obligations of industry participants that would apply in any contract for access to ULLS as a declared service, absent agreement or a determination by the Commission.</sentence>
+<sentence id="s136">There would be little point in requiring the Commission to act by declaring model terms and conditions within six months of the commencement of this legislation which regulated access to declared services, if it had the choice of leaving out of a determination made under s 152AQB(2) and (3) some or all material terms and conditions relating to access to the ULLS, such as those in Code 569.</sentence>
+<sentence id="s137">37 The language of the sections does not support the suggestion that the Commission could refrain from setting out some or all model terms and conditions relating to access to the ULLS.</sentence>
+<sentence id="s138">The absence of the definite and indefinite article ("the" and "a") before the expression "model terms and conditions" in s 152AQB(2) does not create any ambiguity.</sentence>
+<sentence id="s139">This is also evident when that provision is read with the remainder of s 152AQB as a whole.</sentence>
+<sentence id="s140">If the Parliament had intended that the Commission need not make all appropriate model terms and conditions relating to access to a core service like the ULLS then it had to say so, rather than use the clear language that it did.</sentence>
+<sentence id="s141">38 This raises an important aspect of the rule of law.</sentence>
+<sentence id="s142">The Parliament expressed itself by requiring the Commission to make a specific determination and to take all reasonable steps to achieve that end within a time frame set down in unambiguous terms in its legislation.</sentence>
+<sentence id="s143">While s 152AQB contemplated that the Commission might not have been able to complete the task in six months' time, it still obliged the Commission to continue thereafter to take all reasonable steps to promulgate model terms and conditions relating to access to the ULLS service.</sentence>
+<sentence id="s144">39 "All reasonable steps" are not "some" step or steps which the Commission thinks are reasonable: cf: George v Rockett [1990] HCA 26 ; (1990) 170 CLR 104 at 112.</sentence>
+<sentence id="s145">The ULLS service was a core service described in the Act.</sentence>
+<sentence id="s146">The Act provided specifically for the regulation of access to that service.</sentence>
+<sentence id="s147">It imposed liabilities on Telstra, among others, to ensure that access was given in accordance with the model terms and conditions (if they were applicable) that the Parliament required be promulgated by the Commission acting with an appropriate degree of urgency and attention to the terms of the Act.</sentence>
+<sentence id="s148">The explanatory memorandum was not the law and its stated intention was not reflected in the statutory language.</sentence>
+<sentence id="s149">This is particularly important since the Act provides for heavy penalties on those who contravene its requirements.</sentence>
+<sentence id="s150">40 Mason CJ, Wilson and Dawson JJ observed in Re Bolton; Ex parte Beane [1987] HCA 12 ; (1987) 162 CLR 514 at 518 that the words of a Minister must not be substituted for the text of the law, particularly when the intention stated by the Minister was unexpressed in a law restrictive of the liberty of an individual.</sentence>
+<sentence id="s151">I am of opinion that this canon of construction also applies in circumstances where the text of the law imposes responsibilities and liabilities on persons, including corporations, who contravene it.</sentence>
+<sentence id="s152">Mason CJ, Wilson and Dawson JJ continued:
+ "It is always possible that through oversight or inadvertence the clear intention of the Parliament fails to be translated into the text of the law.</sentence>
+<sentence id="s153">However unfortunate it may be when that happens, the task of the Court remains clear.</sentence>
+<sentence id="s154">The function of the Court is to give effect to the will of Parliament as expressed in the law.</sentence>
+<sentence id="s155">" 
+41 This reflects a fundamental precept of constitutional law.</sentence>
+<sentence id="s156">When legislative power is used to create rights or impose liabilities and obligations, one consequence is that the freedom of those affected by the legislation is constrained or expanded by what the law provides.</sentence>
+<sentence id="s157">Where the law requires the executive branch of government, such as the Commission, to do something to give effect to the intention of the Parliament, the executive must obey the law, just like every other member of the community, be it a corporation or individual.</sentence>
+<sentence id="s158">This is because it is the duty of the executive branch of government to obey the law as laid down by the Parliament and the Courts, even if the executive does not agree with those decisions: The Commonwealth v New South Wales [1923] HCA 23 ; (1923) 32 CLR 200 at 214 per Isaacs, Rich and Starke JJ applying Eastern Trust Co v McKenzie, Mann &amp; Co [1915] AC 750 at 759; see also Tran v Minister for Immigration [2006] FCA 1229 ; (2006) 154 FCR 536 at 540 [9] per myself.</sentence>
+<sentence id="s159">42 Those responsible for drafting legislation should not use explanatory memoranda to suggest the existence of some unexpressed restriction in the unambiguous terms of the bill before the Parliament.</sentence>
+<sentence id="s160">Such legislative drafting or elision is to be deprecated.</sentence>
+<sentence id="s161">It fundamentally undermines the right of persons to know what their freedoms and obligations are as provided by the law in the words enacted by the Parliament.</sentence>
+<sentence id="s162">It is one thing to read the (clear) words and text of an Act of the Parliament, but it is another thing to require people to look beyond these to the raft of secondary materials to which s 15AB of the Acts Interpretation Act 1901 (Cth) and its analogues suggest the Court may have resort, for the purposes of divining the intention of Parliament.</sentence>
+<sentence id="s163">43 The non-comprehensive approach of the Commission in its October 2003 determination treated the words of the Act as if they were not obligatory.</sentence>
+<sentence id="s164">The requirement to take all reasonable steps to make a determination, setting out model terms and conditions relating to access to the core service of the ULLS within six months of the enactment of s 152AQB could not have been intended to leave unexpressed important terms and conditions for the provision of access to those services.</sentence>
+<sentence id="s165">How would anyone know what the terms and conditions were on which such services would be provided?</sentence>
+<sentence id="s166">If the construction put by the Commission were correct, that the uncontentious parts of the terms and conditions used by industry participants in the industry codes were not treated by it as being model terms and conditions within the meaning of s 152AQB, then there would be a significant gap in the model terms and conditions for access to the declared service in contravention of the command of the Parliament.</sentence>
+<sentence id="s167">That would lead to uncertainty.</sentence>
+<sentence id="s168">44 The purpose of a model is to ensure that everyone is aware of the usual terms and conditions applicable in the relevant situation.</sentence>
+<sentence id="s169">Of course, in a particular arbitration or dispute, where the parties have not been able to agree on other terms and conditions to replace those model terms and conditions, the Commission is entitled to impose a solution, but in doing so it must have regard to the model terms and conditions, as s 152AQB(9) clearly requires.</sentence>
+<sentence id="s170">45 Notwithstanding the way in which the Commission expressed itself, first, in its determination under s 152AQB, and secondly, in submissions it made (and Optus adopted) before me, I am of opinion that the October 2003 determination can and should be read consistently with the Act.</sentence>
+<sentence id="s171">I find that the then existing industry codes relating to the ordering and provisioning of the ULLS were determined by the Commission to be model terms and conditions (except to the extent that there were any different or inconsistent "contentious" terms expressly specified) in the October 2003 determination.</sentence>
+<sentence id="s172">4.</sentence>
+<sentence id="s173">AFFIDAVIT EVIDENCE 
+ 
+46 During the hearing Telstra relied on two affidavits by Craig McAinsh which he prepared for the purposes of the proceedings.</sentence>
+<sentence id="s174">Mr McAinsh was Telstra's business processes and systems manager in its wholesale customer transfer group.</sentence>
+<sentence id="s175">Some of the material in those affidavits was not objected to, while other portions were relied on as evidence of facts to support Telstra's arguments going to the validity of the final determination.</sentence>
+<sentence id="s176">47 Optus objected that several other passages in the affidavits were inadmissible because they were in the nature of submissions.</sentence>
+<sentence id="s177">Optus argued that, by including detailed submissions in Mr McAinsh's affidavits, Telstra was seeing to adduce further evidence in addition to what was before the Commission and, in some cases, to vary its position in respect of certain matters.</sentence>
+<sentence id="s178">Optus argued that, in light of the evidence before the Commission, no further explanation of the various technical matters was admissible in these proceedings.</sentence>
+<sentence id="s179">However, it also relied on an affidavit of Haris Khaliqi, one of its business program managers, in relation to certain matters dealt with by Mr McAinsh.</sentence>
+<sentence id="s180">48 In my opinion, some of the contentious material was admissible to prove the meaning of technical terms used in the final determination, Code 569 and Guideline 587 (discussed below at Ch 7) in the context of the telecommunications industry: Collector of Customs v Agfa Gevaert Ltd [1996] HCA 36 ; (1996) 186 CLR 389 at 398-399 per Brennan CJ, Dawson, Toohey, Gaudron and McHugh JJ.</sentence>
+<sentence id="s181">Evidence as to the meaning of technical terms used in an administrative decision is admissible so that the Court is placed in the context of understanding the natural and ordinary meaning of those words as they would be understood by persons familiar with their use: see also Australian Retailers Association v Reserve Bank of Australia [2005] FCA 1707 ; (2005) 148 FCR 446 at 566 [458] .</sentence>
+<sentence id="s182">Such evidence is capable of establishing that the decision-maker erred in its understanding of the technical matters with which its decision dealt.</sentence>
+<sentence id="s183">In Australian Retailers Association 148 FCR at 566 [458], Weinberg J held that such evidence is admissible where an administrative decision is challenged on the ground that the decision-maker lacked jurisdiction to make it because that was dependent on an actual state of facts that did not exist, or the decision-maker based the decision on a finding of a particular fact that did not exist.</sentence>
+<sentence id="s184">He said:
+ "If additional evidence is available, in cases reliant upon such grounds, there is no reason in principle why such evidence should not also be admissible where the ground is couched in terms of unreasonableness.</sentence>
+<sentence id="s185">" 
+49 There is, however, no error of law in a decision simply because the decision-maker made a wrong finding of fact: Enfield City Corporation v Development Assessment Commission [2000] HCA 5 ; (2000) 199 CLR 135 at 154 [44] per Gleeson CJ, Gummow, Kirby and Hayne JJ.</sentence>
+<sentence id="s186">In that case, the Court held that evidence was admissible in judicial review proceedings to assist in the determination of a jurisdictional fact, namely, whether a development fell within a statutory description "special industry": see Enfield 199 CLR at 147 [24], 155-156 [50].</sentence>
+<sentence id="s187">50 In Visa International Service Association v Reserve Bank of Australia [2003] FCA 977 ; (2003) 131 FCR 300 at 437-439 [659] - [666] , Tamberlin J admitted evidence of this kind in judicial review proceedings so that the Court was in the position to understand the particular meaning of words used in the specialised area concerned.</sentence>
+<sentence id="s188">He applied what Street J had earlier held in Ancher, Mortlock, Murray &amp; Woolley Pty Ltd v Hooker Homes Pty Ltd 2 [1971] NSWLR 278 at 286 that an argumentative process between experts enables the Court to proceed more readily and thus appreciate the relevant issue for decision.</sentence>
+<sentence id="s189">It can also illuminate the application of a specialised usage of words in the context.</sentence>
+<sentence id="s190">51 In my opinion, here, the evidence was admissible to explain the meaning and signification of terms used in the proceedings before and by the Commission and in these proceedings.</sentence>
+<sentence id="s191">In the end, the expert evidence from both sides was useful to elucidate and understand how concepts such as a soft dial tone, a communications wire, and other network paths operated.</sentence>
+<sentence id="s192">52 On the other hand, I have treated Mr McAinsh's explanations, in his affidavit evidence in these proceedings, of the way in which par 10 of the final determination operated, as being in the nature of submissions and not as evidence before me.</sentence>
+<sentence id="s193">5.</sentence>
+<sentence id="s194">THE COMMISSION'S DECLARATION OF THE ULLS 
+ 
+53 The Commission's declaration of the ULLS under s 152AL(3) of the Act, which was in effect from 1 August 2006, was as follows:
+ "The unconditioned local loop service is the use of use of unconditioned communications wire between the boundary of a telecommunications network at an end-user's premises and a point on a telecommunications network that is a potential point of interconnection located at or associated with a customer access module and located on the end-user side of the customer access module.</sentence>
+<sentence id="s195">Definitions Where words or phrases used in this declaration are defined in the Trade Practices Act 1974 or the Telecommunications Act 1997 , they have the meaning given in the relevant Act.</sentence>
+<sentence id="s196">In this Appendix: boundary of a telecommunications network is the point ascertained in accordance with section 22 of the Telecommunications Act 1977; communications wire is a copper based wire forming part of a public switched telephone network; customer access module is a device that provides ring tone, ring current and battery feed to customers' equipment.</sentence>
+<sentence id="s197">Examples are Remote Subscriber Stages, Remote Subscriber Units, Integrated Remote Integrated Multiplexers, Non-integrated Remote Integrated Multiplexers and the customer line module of a Local Access Switch; public switched telephone network is a telephone network accessible by the public providing switching and transmission facilities utilising analogue and digital technologies.</sentence>
+<sentence id="s198">" 6.</sentence>
+<sentence id="s199">CODE 569 
+ 6.1 Objectives and definitions 
+ 
+54 Code 569 stated that its objectives were to establish operational principles which would enable an access seeker to be supplied with an ULLS to provide carriage and/or content services to its customers and to set out principles for the implementation and operation of the ULLS in accordance with the Act and the Commission's declaration of local telecommunications services.</sentence>
+<sentence id="s200">The Code defined a communications wire as "a copper or aluminium based wire, forming part of a [PSTN]".</sentence>
+<sentence id="s201">This incorporated part of the definition of the ULLS in the declaration made by the Commission under s 152AL(3).</sentence>
+<sentence id="s202">For the avoidance of doubt, Code 569 noted that a communications wire generally meant a copper or aluminium cable pair.</sentence>
+<sentence id="s203">(Nothing turns here on the Code referring to aluminium wire in addition to the copper wire used in the Commission's declaration of the ULLS.</sentence>
+<sentence id="s204">) The communications wire, however, had to be unconditioned if it were to meet the definition of the ULLS in the s 152AC(3) declaration.</sentence>
+<sentence id="s205">The following definitions in the Code are relevant:
+ "In Use ULLS means a ULLS that is currently being used by a Party [i.e.</sentence>
+<sentence id="s206">industry participant] to supply services to a Customer.</sentence>
+<sentence id="s207">ULLS Identifier means a unique number allocated by the [access provider] to an individual ULLS.</sentence>
+<sentence id="s208">ULLS Request means a specific request from the [access seeker which will gain the customer] to the [access provider] for a Vacant or In Use ULLS or ULLS Transfer Request.</sentence>
+<sentence id="s209">ULLS Request Identification Number is a request from the [gaining access seeker] to the [losing access seeker] to determine what Service Number [defined as the Customer's fixed network billing service number identifiable by full national number --- i.e.</sentence>
+<sentence id="s210">the telephone number of the Customer] or Service Numbers are associated with an In Use ULLS.</sentence>
+<sentence id="s211">ULLS Transfer Request is a request from the [gaining access seeker] to the [access provider] to process a ULLS Transfer [defined as the successful transfer of a ULLS between the losing access seeker and gaining access seeker].</sentence>
+<sentence id="s212">Vacant ULLS means a ULLS that is not an In Use ULLS.</sentence>
+<sentence id="s213">" 
+55 Under cl 7.1, the Code recognised that it set minimal acceptable practices which did not limit industry participants from agreeing to different arrangements.</sentence>
+<sentence id="s214">Importantly, cl 8.6 provided that Code 569 applied "... only to existing Communications Wires available in an [access provider's] network at the time of request" (emphasis added).</sentence>
+<sentence id="s215">This immediately creates a conflict with par 10(e) of the final determination.</sentence>
+<sentence id="s216">The latter purported to apply where there is no communications wire existing between the Telstra exchange and the customer's dwelling.</sentence>
+<sentence id="s217">56 Notably, the Code did not use or define the term "soft dial tone".</sentence>
+<sentence id="s218">That term was introduced into the ordering and provisioning process by the Commission inserting it into the final determination.</sentence>
+<sentence id="s219">A soft dial tone as understood by industry participants, indicated only that a connection was present but not in use .</sentence>
+<sentence id="s220">The presence of a soft dial tone did not indicate whether that connection was in fact by a communications wire (i.e.</sentence>
+<sentence id="s221">a copper or aluminium wire) or whether it was conditioned or unconditional.</sentence>
+<sentence id="s222">Because a soft dial tone is a characteristic of a connection not then in use, such a connection could only be considered in respect of a Vacant ULLS Request under Code 569.</sentence>
+<sentence id="s223">The definitions and usage of the terms In-Use ULLS or ULLS Transfer Requests exclude lines or connections not then in use; i.e.</sentence>
+<sentence id="s224">these lines never have soft dial tones.</sentence>
+<sentence id="s225">6.2 ULLS transfers under Code 569 
+ 
+57 Code 569 defined a "ULLS Transfer" as meaning the successful transfer of an ULLS between losing access seeker and the gaining access seeker (cl 6.2, emphasis added).</sentence>
+<sentence id="s226">Under cl 9.4.1, a gaining access seeker (such as Optus) for "each proposed ULLS Transfer" had to forward to a losing access seeker (such as Telstra) by email a spreadsheet containing the customer's ULLS identifier, name and any other relevant information, unless they had otherwise agreed a transfer regime.</sentence>
+<sentence id="s227">58 Thus, when Optus seeks to obtain the transfer of an existing ULLS under Code 569, it must identify the actual communications wire using the number (the ULLS Identifier) which Telstra allocated to the ULLS line.</sentence>
+<sentence id="s228">That number is distinct from the telephone number (or Full National Number ("FNN")).</sentence>
+<sentence id="s229">By Optus using the procedure in cl 9.4 of Code 569, Telstra will be able to verify that what is sought to be transferred is, in fact, an ULLS: i.e.</sentence>
+<sentence id="s230">first, a communications wire currently in use and secondly, that the wire is unconditioned.</sentence>
+<sentence id="s231">So, when a customer seeks to transfer an existing ULLS service that he or she is using (by changing from one service provider to another) the customer seeks to retain the use of that existing communications wire but change its service provider.</sentence>
+<sentence id="s232">The transfer processes for an existing service in Code 569 do not involve any change of wiring at the MDF or MDU.</sentence>
+<sentence id="s233">The transfer will occur at some other point, like a telephone exchange, where responsibility for providing the existing identified communications wire to the customer (and hence the ULLS) will be transferred between the service providers.</sentence>
+<sentence id="s234">If Telstra is the existing customer's provider the process is called an "In Use ULLS Request".</sentence>
+<sentence id="s235">On the other hand, if another access seeker (i.e.</sentence>
+<sentence id="s236">industry participant) is supplying the existing service, and the customer wishes to change to a different access seeker, the process is called a "Transfer ULLS Request".</sentence>
+<sentence id="s237">In the latter case, Telstra's role is to transfer an existing ULLS service between two third parties where it has no direct relationship to the customer or end-user.</sentence>
+<sentence id="s238">59 Under cl 9.6 of Code 569, an access provider had to notify the gaining access seeker of any rejection, including details of the reasons for the rejection, within three clear business days after receiving an ULLS Transfer Request.</sentence>
+<sentence id="s239">The gaining access seeker was only entitled to resubmit the original ULLS Transfer Request if it had rectified any incorrect, incomplete or inconsistent information or any incorrect electronic format (cl 9.6.2).</sentence>
+<sentence id="s240">6.3 Ordering ULLS 
+ 
+60 The critical part of Code 569 was cl 11, which outlined the ULLS ordering procedure.</sentence>
+<sentence id="s241">First, an access seeker had to specify one of six types of access request.</sentence>
+<sentence id="s242">Three of those types are relevant here: Vacant ULLS Request, In-Use ULLS Request and ULLS Transfer Request (to be distinguished from an "ULLS Transfer" discussed above): see cl 11.1.1(a), (b) and (c).</sentence>
+<sentence id="s243">The final determination referred in par 10(a) generically to Optus submitting "... a ULLS Request to Telstra" rather than to one of the six types of ULLS request specified by cl 11.1 of Code 569.</sentence>
+<sentence id="s244">This is important because cl 11.1.1 of Code 569 commences by providing:
+ "The [access seeker] must specify the type of ULLS Request required.</sentence>
+<sentence id="s245">The types of request are: ..." (emphasis added) 
+The Code defined an "ULLS Request" as a "specific request ... for Vacant or In Use ULLS or ULLS Transfer Request".</sentence>
+<sentence id="s246">61 But par 10(a) of the final determination required Telstra to follow the ULLS transfer process in Code 569 by stating that, if Optus made a request which simply supplied a service or full national number and address "associated with the Communications Wire, Telstra must treat the request as if it was a ULLS Transfer Request following the ULLS Transfer process specified in [Code 569]" (emphasis added).</sentence>
+<sentence id="s247">The succeeding provisions of par 10 of the final determination refer to other specific procedures in Code 569 dealing with, among other things, a "Vacant ULLS Request".</sentence>
+<sentence id="s248">Hence, the concepts used in Code 569 are essential to understanding how the final determination operates.</sentence>
+<sentence id="s249">62 The characteristics of the three relevant forms of requests or orders for an ULLS specified in Code 569 are as follows:
+ (1) Request for Vacant ULLS 
+ 
+63 This was defined as:
+ 
+ 
+ "This process covers the provision of a ULLS on a Communications Wire currently not being used for any other purpose.</sentence>
+<sentence id="s250">" (cl 11.1(a)) (emphasis added)
+ 
+ 
+
+ (It is implicit that the communications wire will be unconditioned in order for it to be an ULLS.</sentence>
+<sentence id="s251">)
+ 
+64 When making a request for Vacant ULLS, the access seeker had to provide the access provider with a number of details including the customer's service address (relevantly the MDU) and the exchange or other place where the access seeker's and access provider's networks interconnected.</sentence>
+<sentence id="s252">Notably, because the request was for a Vacant ULLS, there was no need to identify any particular communications wire connecting the Telstra exchange to the MDF at the MDU.</sentence>
+<sentence id="s253">It would be up to Telstra to find any available communications wire to satisfy that request.</sentence>
+<sentence id="s254">(2) Request for In-Use ULLS 
+ 
+65 An In-Use ULLS was defined in cl 11.1.1(b) as:
+ "This process covers the provision of a ULLS on an existing Communications Wire currently being utilised by the Customer.</sentence>
+<sentence id="s255">There are two specific types with the ULLS Request detailing whether the Service Number associated with the In-Use ULLS is cancelled by the [access provider] or ULLS Call Diversion is provided as well as the ULLS Transfer Request.</sentence>
+<sentence id="s256">" (sic, emphasis added) 
+ 
+ 
+ 
+
+66 The second sentence of the definition identified two specific types of In-Use ULLS Request.</sentence>
+<sentence id="s257">Each involved the cancellation by the access provider (i.e.</sentence>
+<sentence id="s258">Telstra) of the Service Number (i.e.</sentence>
+<sentence id="s259">telephone number) associated with the line.</sentence>
+<sentence id="s260">The second type of In-Use ULLS request would also involve the diversion of calls made to the old telephone number to the new one.</sentence>
+<sentence id="s261">The Code referred to the two types of In-Use ULLS Request respectively as "Request for In-Use ULLS --- Cancellation of Service Number required" (cl 11.3.1) and "Request for In-Use ULLS --- Cancellation of Service Number and ULLS Call Diversion required" (cl 11.3.2).</sentence>
+<sentence id="s262">Oddly, the Commission said in its reasons at [168], that first of those types of In-Use ULLS was applicable to the final determination.</sentence>
+<sentence id="s263">However, the final determination did not mention either type of In-Use ULLS request; rather it referred only to ULLS transfer and Vacant ULLS requests.</sentence>
+<sentence id="s264">67 As a minimum, an access seeker had to provide the access provider with, among other things, the existing telephone number (the service number) of the subscriber, the subject of the request.</sentence>
+<sentence id="s265">Telstra's computer software could link an existing ULLS communications wire to the existing, and in use, telephone number.</sentence>
+<sentence id="s266">(3) Transfer ULLS between access seekers 
+ 
+68 Code 569 defines this process as:
+ "... cover[ing] the transfer of ULLS between two [access seekers] when the Customer transfers from one [access seeker] to another [access seeker].</sentence>
+<sentence id="s267">" (cl 11.1.1(c)) (emphasis added) 
+ 
+ 
+ 
+
+69 The transfer of the ULLS from the losing access seeker (relevantly Telstra) to the gaining access seeker (relevantly Optus):
+ 
+ 
+ "... will involve:
+ 
+ 
+ 
+ 
+ (a) Provision of ULLS pair to the [gaining access seeker] (e.g.</sentence>
+<sentence id="s268">[access provider] to jumper nominated cable pair to [point of interconnection] cable pair).</sentence>
+<sentence id="s269">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) [The access provider] must confirm completion of ULLS provisioning to the [gaining access seeker].</sentence>
+<sentence id="s270">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) [The access provider] must provide a Loss Report to the [losing access seeker].</sentence>
+<sentence id="s271">" (cl 11.4.1) (emphasis added) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+70 Part of the process described in cl 11.4.1 involves the identification of the nominated cable pair between the main distribution frame (MDF) at the MDU and the point of interconnection at Telstra's exchange.</sentence>
+<sentence id="s272">An access seeker (Optus) in making an ULLS Transfer Request must provide the access provider (Telstra) with, among other things, the original ULLS Identifier, pursuant to cl 11.4.2(e)(vi).</sentence>
+<sentence id="s273">71 Thus, cl 11.4 of Code 569 requires an ULLS Transfer Request to be for not just an existing connection, but to include, relevantly, the original ULLS Identifier (defined as the unique number allocated by the access provider (Telstra) to an individual ULLS) together with the point of interconnection cable pair details (cl 11.4.2(e)(vi) and (iv) respectively).</sentence>
+<sentence id="s274">With that information, as required in the mechanism in Code 569, the access provider (Telstra) will be able to identify the requested line as already having had a designated ULLS identification number, and thus that line will be identified as, in fact, being an existing unconditioned communications wire.</sentence>
+<sentence id="s275">72 Next, on receipt of a request from the access seeker under cl 11.5 Telstra, as the access provider, had to check and validate the details of the access seeker's request.</sentence>
+<sentence id="s276">If that request were in the correct format Telstra had to accept it and provide a receipt to Optus within one business day (cl 11.5.2).</sentence>
+<sentence id="s277">If the relevant request were in an incorrect format, Telstra had to reject it, and provide Optus with both notice of the rejection and the reason(s) for it.</sentence>
+<sentence id="s278">73 In addition, cl 11.6 provided that when the access provider (Telstra) had given a receipt to the access seeker for the ULLS request, the access provider had to perform a service qualification for the purposes of determining the availability of the ULLS and ensuring the compliance with the network's deployment rules (cl 11.6.1).</sentence>
+<sentence id="s279">The access provider, in conformity with the model terms and the intention of s 152AR(3)(b), had to take all reasonable steps to ensure that the technical and operational quality of the information supplied to the access seeker as part of the service qualification results was equivalent to those which the access provider provided to itself (cl 11.6.2).</sentence>
+<sentence id="s280">The service qualification process was defined as a "desktop process" to determine availability and appropriateness of the ULLS requested.</sentence>
+<sentence id="s281">74 Under cl 11.8.1 the access provider (Telstra) had to provide an access seeker with a minimum amount of information in response to an ULLS Request under cl 11 regardless of the type of ULLS service sought in the request.</sentence>
+<sentence id="s282">This information included, under cl 11.8.1(b), the ULLS identifier, unless the request were rejected.</sentence>
+<sentence id="s283">Thus, Telstra did not have to give Optus an ULLS identifier if, for example, there were no ULLS available or the request was rejected for any other reason.</sentence>
+<sentence id="s284">Of course, if Optus made an ULLS transfer request, it would have known the ULLS identifier and have given it to Telstra under cl 11.4.2(e)(vi).</sentence>
+<sentence id="s285">6.4 Provisioning ULLS 
+ 
+75 The next section of Code 569, cl 12, dealt with provisioning.</sentence>
+<sentence id="s286">An access provider was required to process an ULLS order in its provisioning system (cl 12.1).</sentence>
+<sentence id="s287">This involved, unless otherwise agreed, the access seeker (here, Optus) providing an identification tone to facilitate testing by the access provider (cl 12.2.1(c)).</sentence>
+<sentence id="s288">That is, under cl 12.2.1(c) Optus had to provide an identification tone so that Telstra could test the connection once a communications wire was identified to supply the requested ULLS.</sentence>
+<sentence id="s289">7.</sentence>
+<sentence id="s290">GUIDELINE 587 
+ 
+76 The Australian Communications Industry Forum also produced an industry guideline " Unconditioned Local Loop Service IT Specification Transaction Analysis " known as "ACIF G587 October 2002" (Guideline 587) to set the content requirements for communications between access seekers and providers for the purposes of Code 569 (cl 1).</sentence>
+<sentence id="s291">Clause 13 of this guideline described the physical record formats for each intended order or request transaction access seekers and access providers would generate.</sentence>
+<sentence id="s292">77 Different formats were prescribed by Guideline 587 for each stage of the individual ULLS orders or request in cl 11.1.1 of Code 569.</sentence>
+<sentence id="s293">The completion of some fields in those formats was mandatory while for others it was optional.</sentence>
+<sentence id="s294">Those formats were adopted and used in the computer systems of industry members including Telstra and Optus.</sentence>
+<sentence id="s295">Relevantly, there were detailed individual formats to acquire:
+ 
+&#8226; a Vacant ULLS ("acquire vacant communications wire (VULL)" in cl 13.2);
+ 
+&#8226; an In-Use ULLS ("acquire in use communications wire (IULL)" in cl 13.4); and
+ 
+&#8226; a transfer of an ULLS ("transfer in use communications wire (TULL)" in cl 13.5).</sentence>
+<sentence id="s296">78 Because an In-Use ULLS request is made to the existing customer's current service provider, in the case of Telstra, Telstra's computer system already associates the service (or full national) number and the ULLS identifier for the ULLS service it is providing.</sentence>
+<sentence id="s297">Thus, cl 13.4.1 of Guideline 587 does not require the gaining access seeker (here Optus) to provide the ULLS identifier to Telstra.</sentence>
+<sentence id="s298">Rather, cl 13.4.3 provides that in its IULL confirmation advice, Telstra must provide the access seeker with the ULLS identifier.</sentence>
+<sentence id="s299">79 Thus, in an ULLS transfer request, Telstra's role is to permit the customer to change from one third party access seeker to another.</sentence>
+<sentence id="s300">Telstra is the supplier of the communications wire, but two third parties deal directly with the customer and provide him, her or it with their service or full national number.</sentence>
+<sentence id="s301">This is reflected in cl 13.5.1 of Guideline 587 which is the TULL notification format.</sentence>
+<sentence id="s302">That, like cl 11.4.2 of Code 569, includes as a mandatory field the ULLS identifier but does not include the service or full national number.</sentence>
+<sentence id="s303">8.</sentence>
+<sentence id="s304">OPTUS' NOTICE OF DISPUTE AND THE PARTIES' SUBMISSIONS ON THE DRAFT DETERMINATION 
+ 
+80 Optus claimed in its notice of dispute, and in its submissions to the Commission, that Telstra provisioned for ULLS for itself in a manner that gave it a substantial advantage over provisioning times that its competitors were able to achieve and that that would impede the take up of ULLS.</sentence>
+<sentence id="s305">Optus complained that, where the previous occupier of a dwelling in an MDU had cancelled their telephone service, there were two possible scenarios depending on whether the new occupier chose to become a Telstra customer (via a PSTN connection) or an Optus one (via the ULLS).</sentence>
+<sentence id="s306">Optus claimed that the two scenarios were:
+ 
+ 
+ (a) where Telstra was selected by the new occupant, it was able to identify the cancelled telephony service and reuse the existing copper pair to connect the new customer to the service within one or two business days.</sentence>
+<sentence id="s307">It could do this remotely without having to visit the MDU premises;
+ (b) if the new customer chose Optus as the service provider, it had to provision the service using ULLS.</sentence>
+<sentence id="s308">In those circumstances potentially Telstra could allocate a different copper pair to that pair currently serving the premises.</sentence>
+<sentence id="s309">Optus argued that Telstra's provisioning service system for ULLS simply searched for a vacant copper pair to the address at the MDF for the MDU, rather than identifying the pair previously allocated to that particular service.</sentence>
+<sentence id="s310">Optus argued that Telstra would then send a technician to the apartment building to examine the MDF to ensure that the copper pair selected displayed correct electrical characteristics but only up to the exchange side of the MDF.</sentence>
+<sentence id="s311">It claimed that Telstra refused to connect, or, to use the jargon, "jumper", the line from the exchange side of the MDF to the building side so as to establish a new path to the subscriber's dwelling.</sentence>
+<sentence id="s312">Thus, Optus claimed it was forced to send a second technician out to the MDF to make the physical connection.</sentence>
+<sentence id="s313">On this basis Optus argued that two "truck rolls" (one for each technician) were involved leading to unnecessary costs and a delay of 7 to 10 business days which occurred before the new service was activated.</sentence>
+<sentence id="s314">
+ 
+
+81 When it commenced the arbitration, the Commission agreed to make site visits to two different MDUs selected by the parties.</sentence>
+<sentence id="s315">It described what happened next:
+ 
+ 
+ "37.</sentence>
+<sentence id="s316">During the Site Visits the discussion turned away from jumpering at the building MDF in MDUs to circumstances where a continuous copper path exists (as there is a soft dial tone) between the customer premise and the Telstra exchange and therefore jumpering could be performed at the Telstra exchange to provide a ULLS.</sentence>
+<sentence id="s317">
+ 
+ 
+ 
+ 38.</sentence>
+<sentence id="s318">In formulating the Proposal that was sent to the parties, the Commission understood from the discussions that took place at the Site Visits that where a customer vacates premises in a MDU, with a MDF in the building, the copper path between the customer premises and the Telstra exchange may still be intact and able to be identified by the presence of a soft dial tone .</sentence>
+<sentence id="s319">As such, it may be possible to provision a ULLS to an Access Seeker using that same copper pair.</sentence>
+<sentence id="s320">The Commission has since verified that the full national number (FNN) can be obtained where either a dial tone or a soft dial tone exists by dialling 1800 801 920 at the customer premises.</sentence>
+<sentence id="s321">This number is publicly available on the Internet.</sentence>
+<sentence id="s322">
+ 
+ 
+ 
+ 39.</sentence>
+<sentence id="s323">On the basis of this understanding , it was the Commission's view that in this situation, a ULLS could be provisioned with jumpering taking place only in the Telstra exchange.</sentence>
+<sentence id="s324">This would avoid two truck-rolls (one by the Access Provider and one by the Access Seeker) to the customer premises.</sentence>
+<sentence id="s325">The Commission also took the view that it was fair and reasonable for the Access Seeker to accept any risk that the copper pair may not be suitable for broadband services.</sentence>
+<sentence id="s326">" (emphasis added) 
+ 
+ 
+
+82 The proposal referred to by the Commission was set out in its reasons (at [42]).</sentence>
+<sentence id="s327">It differed from the final determination.</sentence>
+<sentence id="s328">The Commission's initial proposal had the significant features that it referred, first, to "an existing line " not "communications wire" with a soft dial tone and, secondly, to a situation where "... there is no line between the exchange and the end-user customer's premise (i.e., there is no soft dial tone)" (bold emphasis added).</sentence>
+<sentence id="s329">The detail of these two concepts ultimately changed, but their structure remained in pars 10(a) and (e) respectively of the final determination, with the distinction that the "line" changed in the latter instrument to a "communications wire".</sentence>
+<sentence id="s330">83 It was conceptually correct to describe the existence of a line between the customer's premises and the Telstra exchange as being evidenced by a soft dial tone, because that did in fact demonstrate that there was a pathway in Telstra's PSTN for communications to pass between those two points.</sentence>
+<sentence id="s331">But, this fact said nothing about whether that pathway was an unconditioned communications wire, and hence an ULLS, or some other communications pathway, including a conditioned communications wire or one which partially utilised some other connection.</sentence>
+<sentence id="s332">In formulating its initial proposal, the Commission said (at [47]):
+ "In cases where there is no existing line between the end-user customer's premises and the Telstra exchange or there is no soft dial tone, Optus will need to request a Vacant ULLS from Telstra--Telstra would then follow the process for a Vacant ULLS as outlined in the ACIF Code.</sentence>
+<sentence id="s333">Such an approach concurs with current practice and does not require the parties to implement change.</sentence>
+<sentence id="s334">" 
+ 
+ 
+ 
+
+84 The Commission subsequently received submissions from each of Telstra and Optus in waves, one replying to the other which generated a further reply.</sentence>
+<sentence id="s335">It recorded the purport of these submissions in its reasons.</sentence>
+<sentence id="s336">It then prepared a draft final determination and draft statement of reasons.</sentence>
+<sentence id="s337">This resulted in yet further submissions and counter-submissions to the Commission from the parties.</sentence>
+<sentence id="s338">The draft final determination in par 9 contained, in substance, what became pars 10(a), (d), (e), (f) and (g) of the final determination.</sentence>
+<sentence id="s339">But the latter had, in addition, two new sub-paragraphs, 10(b) and (c).</sentence>
+<sentence id="s340">85 Telstra made a number of criticisms to the Commission concerning the draft final determination.</sentence>
+<sentence id="s341">First, it asserted that the Commission did not have regard to the incorporation of Code 569 and Guideline 587 into the model non-price terms and conditions determination of October 2003 and that their provisions were relevant considerations for the purposes of s 152CP(1).</sentence>
+<sentence id="s342">86 Secondly, Telstra said that draft par 9(a) (which became pars 10(a) and (b) in the final determination) did not correctly reflect the provisioning processes in Code 569 and Guideline 587 "because the Commission has misunderstood the nature of soft dial tone and misconstrued the terminology and intent of [Code 569]".</sentence>
+<sentence id="s343">87 In addition, Telstra criticised the draft final determination for failing to take into account the matters in s 152CR(1).</sentence>
+<sentence id="s344">It noted that par 9(b) (which became par 10(e) of the final determination) suggested that Telstra should provision ULLS to access seekers even when Telstra's communications wire did not service the end-user's premises.</sentence>
+<sentence id="s345">Telstra submitted that, if the Commission were minded to proceed with a final determination in accordance with the draft, there would be lengthy and costly system changes and Optus ought be required to bear those costs because it was the only access seeker asking for the changes.</sentence>
+<sentence id="s346">Telstra's submissions elaborated why the Commission misconstrued the nature of a soft dial tone.</sentence>
+<sentence id="s347">Telstra provided the Commission with IBM Australia Limited's pre-feasibility assessment of the changes that would need to be implemented by Telstra to support the draft final determination.</sentence>
+<sentence id="s348">IBM suggested that three new Telstra interfaces would need to be created in its computer systems to provide validation of a transfer request of the kind referred to in the draft final determination.</sentence>
+<sentence id="s349">Telstra also provided a report by Infosys Tech Limited of its pre-feasibility analysis and assessment of the costs involved in designing and implementing other software and system changes which were required by the draft final determination.</sentence>
+<sentence id="s350">88 Telstra's Mr McAinsh, provided a statement to the Commission explaining these matters and attaching both of the supplier's estimates.</sentence>
+<sentence id="s351">He estimated that the cost to Telstra of installing and testing the proposed changes was about $1.7 million.</sentence>
+<sentence id="s352">Mr McAinsh explained to the Commission the actual processes that Telstra used to order and provision ULLS in response to requests for Vacant ULLS, In-Use ULLS and Transfer ULLS between access seekers in accordance with cl 11 of Code 569.</sentence>
+<sentence id="s353">He explained that a soft dial tone indicated that no carried services were being provided over the line.</sentence>
+<sentence id="s354">He said that a soft dial tone was only present where a previous Telstra PSTN service had been disconnected, but not when a previous ULLS had been disconnected.</sentence>
+<sentence id="s355">Thus, if the previous customer in an MDU had been an Optus or non-Telstra customer, whose service had been disconnected, there would be no soft dial tone.</sentence>
+<sentence id="s356">And, where the previous customer had been a Telstra customer before the cancellation of the earlier service, the soft dial tone would indicate that there was a path, but it would not indicate whether the path was an ULLS path (i.e.</sentence>
+<sentence id="s357">an unconditioned communications wire) or some other connection using the PSTN.</sentence>
+<sentence id="s358">Mr McAinsh pointed out, logically enough, an In-Use ULLS, as defined in Code 569, was one that was currently being used, hence no soft dial tone would be present on such a service, because it was fully functioning.</sentence>
+<sentence id="s359">89 Mr McAinsh explained in his statement to the Commission that a number of system requirements, some of which appeared to be substantive, needed to be met before Telstra could process a Vacant ULLS request or a Transfer ULLS request in the manner contemplated in the draft final determination.</sentence>
+<sentence id="s360">He noted that the provisions of the draft were not consistent with those required under Code 569 and Guideline 587.</sentence>
+<sentence id="s361">He said that, on the basis of his previous experience, it would take over two years to implement the changes in the draft final determination.</sentence>
+<sentence id="s362">He said that it would take over seven months to build and deploy the solution needed to implement the draft final determination.</sentence>
+<sentence id="s363">He assumed that there would be no negotiations within the industry to change the requirements of the current versions of codes and guidelines.</sentence>
+<sentence id="s364">Mr McAinsh explained that a prior attempt by Optus and Telstra to implement a number of changes of lesser significance to another industry code, had taken about 16 months to make the required amendments.</sentence>
+<sentence id="s365">He estimated that it would take longer for the industry to assess and endorse the Commission's proposed changes.</sentence>
+<sentence id="s366">90 Optus responded saying that the Commission's proposal in the draft sought to minimise any systems or process changes by utilising the existing provisioning processes for ULLS transfer requests pursuant to Code 569, and "[a]ccordingly, changes to systems and costs incurred would be minimal" for the purposes of s 152CR(1)(d).</sentence>
+<sentence id="s367">It also submitted that the Commission's pricing principles for ULLS would protect Telstra's interest in earning a commercial return by enabling it to recover costs associated with implementing the proposed determination.</sentence>
+<sentence id="s368">Optus asserted that it would take three months to implement the changes necessary.</sentence>
+<sentence id="s369">91 Telstra responded arguing that Optus did not analyse its assertions of consistency between the draft final determination and the existing ULLS provisioning process.</sentence>
+<sentence id="s370">Telstra also argued that if the Commission made a final determination as proposed, its ability to recoup costs would need to be considered in the ULLS price disputes currently being considered by the Commission in other arbitrations.</sentence>
+<sentence id="s371">92 This provoked yet another response from Optus.</sentence>
+<sentence id="s372">It addressed Telstra's submissions concerning the costs and time frame to implement the Commission's proposal.</sentence>
+<sentence id="s373">Optus acknowledged that there were some system changes associated with implementing the information technology aspects of the proposal but that they were neither complex nor excessively costly.</sentence>
+<sentence id="s374">It acknowledged Mr McAinsh's description of a number of sub-processes to provision ULLS associated with an inactive FNN (full national number), saying that all those processes "... will be duplicates of the processes that exist for an active FNN and therefore should not represent a major IT build".</sentence>
+<sentence id="s375">Optus said that it would also need to build and test "the transaction set for TULL" under the proposal as well as a provisioning process in its own systems.</sentence>
+<sentence id="s376">Optus estimated that its total cost for this work would be $360,000 and require three months of IT development.</sentence>
+<sentence id="s377">It submitted that the Commission should conclude that Telstra's claimed costs were not credible.</sentence>
+<sentence id="s378">93 Telstra's final submissions responded, among other things, to Optus' costs claims and noted that Telstra's costs were based upon independent outside contractor's quotes.</sentence>
+<sentence id="s379">94 Lastly, Optus responded providing a statement from Leon Ho, manager of its consumer customer care systems in the Optus IT group, who supported its claims that Optus' costs would be approximately $360,000 and the changes to its (Optus') systems would take approximately 12 weeks to implement.</sentence>
+<sentence id="s380">Optus said that Mr Ho's statement showed that the changes were relatively simple and could be accommodated at a modest cost within a short time frame.</sentence>
+<sentence id="s381">9.</sentence>
+<sentence id="s382">GROUND 3: DID THE COMMISSION TAKE INTO ACCOUNT THE DIRECT COSTS OF TELSTRA PROVIDING ACCESS TO THE ULLS?</sentence>
+<sentence id="s383">
+ 9.1 The Commission's reasons 
+ 
+95 Telstra argued that the Commission failed to take into account the direct costs that Telstra would incur if it were to supply the ULLS in accordance with the final determination (s 152CR(1)(d)).</sentence>
+<sentence id="s384">Telstra argued that, by virtue of its failure to comply with the requirements of s 152CR(1)(d), the Commission had therefore failed to follow procedures required by law: Administrative Decisions (Judicial Review) Act 1977 (Cth) ( ADJR Act ), s 5(1)(b)) and exercised its power improperly by failing to take a relevant consideration into account ( ADJR Act , sub-ss 5(1)(e), (2(b)).</sentence>
+<sentence id="s385">96 In its reasons, the Commission acknowledged that Telstra incurred costs in supplying the ULLS, but concluded that its costs in implementing the final determination would be minimised as Telstra was required to utilise existing provisioning processes for ULLS transfer requests pursuant to Code 569.</sentence>
+<sentence id="s386">The Commission asserted that any benefits to end-users would outweigh the costs of any necessary changes to Telstra's current systems and that the regulatory regime permitted Telstra to recover the efficient costs of supplying and charging for the ULLS (Reasons [130]-[131]).</sentence>
+<sentence id="s387">The Commission made these statements in arriving at its conclusion in respect of the considerations raised by s 152CR(1)(d).</sentence>
+<sentence id="s388">Earlier (at [105]), in expressing its conclusions concerning the matters in s 152CR(1)(b) the Commission said that it accepted that Telstra would incur some cost in implementing its proposal but was:
+ "... satisfied that those costs will not be significant.</sentence>
+<sentence id="s389">It is the Commission's view that implementation of the final determination involves some change to the existing TULL procedures which should not prevent Telstra from earning a normal commercial return.</sentence>
+<sentence id="s390">" (emphasis added) 
+97 The Commission said that it was satisfied that it was reasonable for Telstra to build upon the minimum operational requirements for ordering and provisioning of an ULLS and ULLS transfers in Code 569 in order to resolve the current access dispute (Reasons [107]).</sentence>
+<sentence id="s391">98 Those assertions by the Commission did not express or follow any reasoning process.</sentence>
+<sentence id="s392">They amounted to statements of its ultimate conclusions.</sentence>
+<sentence id="s393">99 Later, the Commission expressed its conclusion for the purposes of s 152CQ(1)(f) that the final determination would not have the effect of requiring Telstra to bear an unreasonable amount of the costs of extending or enhancing the capability of a facility or maintaining extensions to or enhancements of that capability.</sentence>
+<sentence id="s394">The Commission noted Telstra's submission that it would be required to develop and implement a new process involving significant system change at substantial cost both to Telstra and the industry as a whole for the purposes of s 152CQ(1)(f) (Reasons [196]).</sentence>
+<sentence id="s395">In this regard the Commission referred to Mr McAinsh's statement and his estimate that Telstra's costs would be about $1.7 million.</sentence>
+<sentence id="s396">The Commission then continued (Reasons [198]-[200]):
+ 
+ 
+ "198.</sentence>
+<sentence id="s397">Optus in its response submission to the draft final determination stated that the sub-processes described in Craig McAinsh's statement that are required to provision the ULL associated with the inactive FNN will be duplicates of processes that exist for an active FNN and therefore should not represent a major IT build.</sentence>
+<sentence id="s398">It estimated that the cost of implementing the Commission's final determination would be approximately $360,000 .</sentence>
+<sentence id="s399">
+ 
+ 
+ 
+ 199.</sentence>
+<sentence id="s400">While the Commission recognises that there will be a need to change processes and IT systems to comply with the final determination, it is satisfied that the specified ULLS provisioning processes it has determined will not be burdensome on Telstra and that by using the current provisions of [Code 569], the cost of implementation should be negligible but will enhance the capability of access seekers in the take-up of the ULLS.</sentence>
+<sentence id="s401">200.</sentence>
+<sentence id="s402">The Commission has concluded that this final determination will not have any of the prescribed effects specified in section 152CQ of the Act.</sentence>
+<sentence id="s403">" (emphasis added)
+ 
+ 
+
+100 Earlier in its reasons, when addressing the considerations raised by s 152CR(1)(e) (which deals with the value to a party of extensions, or enhancement of capability, the cost of which was borne by someone else) the Commission said (Reasons [138]):
+ 
+ 
+ "138.</sentence>
+<sentence id="s404">For the reasons outlined under "Other Relevant Matters", the Commission is satisfied that the specified ULLS provisioning processes it has determined will not be burdensome on Telstra.</sentence>
+<sentence id="s405">By using the current provisions of the ACIF Code, the cost of implementation should be negligible but will ultimately enhance the capability of access seekers in the take-up of the ULLS.</sentence>
+<sentence id="s406">" (emphasis added)
+ 
+ 
+
+101 I am of opinion that no reasonable person could describe Telstra's costs of implementing the proposal estimated at $1.7 million as "negligible".</sentence>
+<sentence id="s407">In my opinion the Commission either failed to have any regard to those costs or to express any reasoning process by reference to the evidence before it to justify its assertions.</sentence>
+<sentence id="s408">In its submissions before me, Optus eschewed any suggestion that the Commission had adopted as Telstra's costs the estimate of $360,000 in respect of its, Optus', costs.</sentence>
+<sentence id="s409">However, the Commission's statement of reasons contains no reasoning process on this issue.</sentence>
+<sentence id="s410">The reasons referred only to "negligible" costs of implementing the final determination.</sentence>
+<sentence id="s411">It may be that "negligible" could describe the $360,000 cost Optus claimed would be needed to change its systems, depending on the reasoning process used to justify this categorisation.</sentence>
+<sentence id="s412">102 But, the Commission did not explain, even briefly, what Telstra had to do to change its systems so as to achieve, at "negligible cost", the changes required to comply with the final determination.</sentence>
+<sentence id="s413">If I accepted Optus' argument that the reference to $360,000 in the Commission's reasons at [198] was not a finding by the Commission of Telstra's costs, the Commission gave no explanation of why it rejected Telstra's estimate of $1.7 million supported by estimates from independent consultants, and Mr McAinsh's evidence to the Commission.</sentence>
+<sentence id="s414">9.2 Statutory requirement to "take into account" or "have regard to" 
+ 
+103 In Reg v Hunt; Ex parte Sean Investments Pty Ltd [1979] HCA 32 ; (1979) 180 CLR 322 at 329, Mason J, with whom Gibbs J agreed at 324, explained the significance of a statutory requirement that a decision-maker "have regard to" costs necessarily incurred in providing nursing home care in a particular nursing home when determining a scale of fees.</sentence>
+<sentence id="s415">Mason J said that the expression "have regard to" required the decision-maker to take the costs into account and give them weight "... as a fundamental element in making his determination": Sean Investments 180 CLR at 329.</sentence>
+<sentence id="s416">He explained that in that case there were two reasons for such a construction, first, that the costs were the only matter explicitly mentioned as a matter to be taken into account and, secondly, the scheme of the provisions was that once an approval were given, the proprietor of the nursing home was not permitted to exceed the scale of fees fixed by the decision-maker.</sentence>
+<sentence id="s417">104 As Mason J pointed out the section did not require the decision-maker there to fix the scale of fees exclusively by reference to particular costs.</sentence>
+<sentence id="s418">The decision-maker was entitled to have regard, he said, to other relevant considerations.</sentence>
+<sentence id="s419">But, the function of the decision-maker was to determine a scale of fees for the particular nursing home, not all nursing homes.</sentence>
+<sentence id="s420">Thus the Act directed that regard be had to the costs incurred in providing care in that nursing home: Sean Investments 180 CLR at 329.</sentence>
+<sentence id="s421">105 I am of opinion that when s 152CR(1)(d) required the Commission, in making a final determination, to take into account Telstra's direct costs of providing access to the ULLS in the manner the Commission proposed, it was required to take that matter into account, together with the other matters referred to in the section, and to give weight to them as a fundamental element in making its decision: The Queen v Toohey; Ex parte Meneling Station Pty Limited [1982] HCA 69 ; (1982) 158 CLR 327 at 333 per Gibbs CJ applying what Mason J had said in Sean Investments 180 CLR at 329 to a section requiring a decision-maker to take a variety of matters into account.</sentence>
+<sentence id="s422">Mason J said that the requirement to have regard to a matter meant that it would become a central element for the decision-maker in his considerations: Meneling Station 158 CLR at 338.</sentence>
+<sentence id="s423">And, as he later explained in his classic judgment in Minister for Aboriginal Affairs v Peko Wallsend Ltd [1986] HCA 40 ; (1986) 162 CLR 24 at 41, in the absence of any statutory indication of the weight to be given to various considerations, it is generally for the decision-maker and not the Court to determine the appropriate weight to be given to the matters which are required to be taken into account in exercising a statutory power.</sentence>
+<sentence id="s424">Mason J said that the Court could set aside an administrative decision which had failed to give adequate weight to a relevant factor of great importance, or had given excessive weight to a relevant factor of no great importance, but the preferred ground on which that power was to be exercised was that the decision was "manifestly unreasonable".</sentence>
+<sentence id="s425">A person entrusted with a discretion must call his own attention to the matters which he is bound to consider: Peko-Wallsend 162 CLR at 39 per Mason J applying Associated Provincial Picture Houses Ltd v Wednesbury Corp [1948] 1 KB 223 at 228 per Lord Greene MR.
+ 
+106 A decision-maker must give proper, genuine and realistic consideration to the merits of the case: Khan v Minister for Immigration and Ethnic Affairs [1987] FCA 457 ; (1987) 14 ALD 291 at 292 per Gummow J; Zhang v Canterbury City Council (2001) 51 NSWLR 589 at 601 [62] where Spigelman CJ collected the authorities; Minister for Immigration and Multicultural Affairs v Yusuf [2001] HCA 30 ; (2001) 206 CLR 323 at 367 [138] per Kirby J; NAJT v Minister for Immigration and Multicultural and Indigenous Affairs [2005] FCAFC 134 ; (2005) 147 FCR 51 at 92-93 [212] per Madgwick J, 96 [229] per Conti J; SZEJF v Minister for Immigration and Multicultural and Indigenous Affairs [2006] FCA 724 at [39] , [60] where I applied this principle.</sentence>
+<sentence id="s426">In Tickner v Chapman (1995) 57 FCR 451 at 462C-D, Black CJ said that where a decision-maker was required to consider material, the process of consideration "... involves an active intellectual process" directed at the nominated subject-matter: see too per Burchett J at 476F-477E, per Kiefel J at 495F-G and Tobacco Institute of Australia v National Health &amp; Medical Research Council (1996) 71 FCR 265 at 277G per Finn J; Australian Retailers Association 148 FCR at 577 [526] per Weinberg J.</sentence>
+<sentence id="s427">107 Where a decision-maker must consider matters prescribed by law, generally, he or she cannot jettison or ignore some of those factors or give them cursory consideration only in order to put them to one side: East Australian Pipeline Pty Ltd v Australian Competition and Consumer Commission [2007] HCA 44 ; (2007) 233 CLR 229 at 244 [52] per Gleeson CJ, Heydon and Crennan JJ.</sentence>
+<sentence id="s428">As Gummow and Hayne JJ, in concurring observed ( East Australian Pipeline 233 CLR at 256 [102]):
+ "It was not enough for the ACCC to say in its final determination that it had considered those matters in the sense of having looked at but discarded them.</sentence>
+<sentence id="s429">" 
+108 Because s 152CR(1) required it to take into account each of the seven specified factors, the Commission had to give each of them appropriate consideration in arriving at its final determination.</sentence>
+<sentence id="s430">The number and variety of factors which a statute requires a decision-maker to take into account or to have regard to in arriving at a decision necessarily affects the weight any one of those factors must be given in the deliberative process.</sentence>
+<sentence id="s431">In Sean Investments [1979] HCA 32 ; 180 CLR 322 , the costs were fundamental - or foundational - because they were the only matter which the statute prescribed.</sentence>
+<sentence id="s432">The subject matter, scope and purpose of the statutory power provide a context in which to assess the duties it imposes on the decision-maker in any particular situation: cf: Foster v Minister for Customs [2000] HCA 38 ; (2000) 200 CLR 442 at 452 [22] - [23] per Gleeson CJ and McHugh J, Gaudron and Hayne JJ agreeing with their Honours at 454 [32].</sentence>
+<sentence id="s433">109 Here, s 152CR(1) prescribes a number of matters for consideration.</sentence>
+<sentence id="s434">This is a sure legislative indication that these matters must be central matters for the Commission.</sentence>
+<sentence id="s435">But, because s 152CR(2) expressly widens the range of matters which the Commission may consider, it is authorised to arrive at a final determination, after due consideration, which accords more weight to some other factor or factors than those in s 152CR(1).</sentence>
+<sentence id="s436">Indeed, the factors in s 152CR(1) itself tend in different directions.</sentence>
+<sentence id="s437">The interests of a carrier (s 152CR(1)(b)) and those of all persons who have a right to use a declared service (s 152CR(1)(c)) more often than not will be opposed.</sentence>
+<sentence id="s438">If the Commission were to give fundamental weight to each in the sense which Telstra argued, how could it arrive at a decision favouring one at the expense of the other?</sentence>
+<sentence id="s439">cf Telstra Corporation Limited v Australian Competition and Consumer Commission [2008] FCA 1436 at [311] - [312] per Lindgren J.</sentence>
+<sentence id="s440">110 I am of opinion that the sense in which the High Court used the expression "fundamental weight" in this context is to require the decision-maker to treat the consideration of the factors, as opposed to the factors themselves, as a central element in the deliberative process: Meneling Station 158 CLR at 338 per Mason J.</sentence>
+<sentence id="s441">In this way the decision-maker will give appropriate weight to those factors.</sentence>
+<sentence id="s442">The Parliament sought to ensure that the Commission would give proper, genuine and realistic consideration to each of the factors it specified in s 152CR(1) but without confining it to those matters, as s 152CR(2) showed.</sentence>
+<sentence id="s443">Such consideration must be reflected in the Commission's reasons for its decision.</sentence>
+<sentence id="s444">111 In Telstra [2008] FCA 1436 at [122] Lindgren J held that s 152CR(1)(a) is the factor which should be given fundamental weight, namely, whether the determination will promote the long-term interests of end-users of services supplied by means of carriage services.</sentence>
+<sentence id="s445">This was because, he held, that factor reflected the sole object of Part XIC of the Act as expressed in s 152AB(1): see Telstra [2008] FCA 1436 at [17] .</sentence>
+<sentence id="s446">Of course, s 152AB(2)(e) supplements this concept by identifying an objective of encouraging the economically efficient use of, and economically efficient investment in, the infrastructure by which listed services are supplied.</sentence>
+<sentence id="s447">Often that objective may not be attained if an infrastructure investment is not economically feasible for the service provider to make or support.</sentence>
+<sentence id="s448">So, by dint of s 152AB(2)(e) the interests of end-users may well include that the service provider is not forced to act in a way which for it is economically unjustifiable.</sentence>
+<sentence id="s449">Possibly, a monopolist may be able to be forced to lower prices or make way for competition under s 152AB(2)(e), but not to run the business as a charitable exercise or at a loss.</sentence>
+<sentence id="s450">112 Therefore, depending on the facts of a particular arbitration, one or more of the matters in s 152CR(1) may become of greater or lesser weight in the decision-making process.</sentence>
+<sentence id="s451">However, as a matter of law, none of the factors, including s 152CR(1)(d), is entitled to a fixed weighting in that process regardless of the subject matter of any arbitration and all other relevant factors: Peko-Wallsend 162 CLR at 41 per Mason J; Foster 200 CLR at 452 [22]-[24] per Gleeson CJ and McHugh J; cf: Telstra [2008] FCA 1436 at [118] per Lindgren J.</sentence>
+<sentence id="s452">113 Optus argued before the Commission that Telstra's costs of providing the new form of access should be recovered from all access seekers rather than solely from Optus, as Telstra had contended.</sentence>
+<sentence id="s453">Optus argued, and the Commission accepted, that Telstra would be able to recover those costs through the application of the Commission's pricing principles in separate arbitrations which were being conducted concurrently by the Commission (Reasons [106], [131]).</sentence>
+<sentence id="s454">114 Telstra argued that the Commission was not entitled to defer consideration of Telstra's costs of compliance with the final determination by asserting that the regulatory regime permitted Telstra to recover the efficient costs of supplying and charging for the ULLS (Reasons [131]).</sentence>
+<sentence id="s455">It relied on Commonwealth v Pharmacy Guild of Australia (1989) 91 ALR 65 at 86 per Sheppard J, 89 per Ryan J.</sentence>
+<sentence id="s456">115 Optus responded that Telstra had not asked the Commission to consider a price as part of the final determination.</sentence>
+<sentence id="s457">It argued that the Commission was entitled to have regard to the existence of a separate mechanism by which Telstra could recover its costs of provisioning for the ULLS caused by implementing the final determination.</sentence>
+<sentence id="s458">116 Optus argued that s 152CR(1)(d) was concerned with the direct costs of provision of the ULLS rather than the particular costs of complying with the Commission's determination.</sentence>
+<sentence id="s459">It contended that the Commission approached s 152CR(1)(d) on the basis that Telstra's direct costs of providing access to the ULLS included costs incurred or caused by the provision of access occasioned by the terms of the final determination, as the Commission had stated in its reasons at [118].</sentence>
+<sentence id="s460">117 I am of opinion that the mere fact that Telstra might seek to recover its costs, whatever they may be, under a separate process is beside the point.</sentence>
+<sentence id="s461">The existence of that fact did not elucidate what s 152CR(1)(d) required the Commission to do, namely to take Telstra's direct costs of compliance into account in making the final determination.</sentence>
+<sentence id="s462">The incurring of a cost is different from its possible recovery.</sentence>
+<sentence id="s463">The Act in s 152CR(1)(d) required the Commission to give real consideration to what Telstra would be required to incur directly as the cost of implementing what the Commission was considering.</sentence>
+<sentence id="s464">But the Commission did not do so.</sentence>
+<sentence id="s465">In the passages of its reasons which dealt with costs, all the Commission did was assert that Telstra would in fact incur costs and, without identifying or quantifying those costs, it asserted that they would be "minimised" (Reasons [130]), "negligible" (Reasons [199]) or "recoverable" (Reasons [131]).</sentence>
+<sentence id="s466">And the Commission referred to Telstra's ability, in separate arbitrations, to recoup costs that it incurred in implementing the final determination.</sentence>
+<sentence id="s467">118 Those mere references did not amount to the Commission having regard to Telstra's direct costs of providing access in any genuine, proper or realistic manner as required by s 152CR(1)(d).</sentence>
+<sentence id="s468">The Commission made no finding of what direct costs Telstra would incur in providing its proposed new form of access to ULLS.</sentence>
+<sentence id="s469">Telstra had contended, with substantive corroborating evidence, that its direct costs would be about $1.7 million.</sentence>
+<sentence id="s470">If the Commission's approach, supported by Optus in its submissions, were correct, the Commission did not need to consider any particular cost or costs, let alone identify what direct costs Telstra would incur in providing access.</sentence>
+<sentence id="s471">Any consideration of such costs resulting in these descriptions required the Commission to give reasons analysing what Telstra claimed were its direct costs of implementing the final determination and how the Commission came to its significantly different conclusion.</sentence>
+<sentence id="s472">119 Section 152CP(5) required the Commission to give its reasons for making the final determination.</sentence>
+<sentence id="s473">And pursuant to s 25D of the Acts Interpretation Act 1901 , that obligation extended to setting out its findings on material questions of fact including references to the evidence or other material on which those findings were based.</sentence>
+<sentence id="s474">Those requirements focus on the subjective thought processes of the decision-maker.</sentence>
+<sentence id="s475">It must set out its findings on those questions of fact which it considers to be material to the decision it has made and the reasons it had for reaching that decision as explained by McHugh, Gummow and Hayne JJ in Yusuf (2001) 206 CLR at 346 [68].</sentence>
+<sentence id="s476">120 The purpose of the arbitration was to determine whether Optus should be granted access to the ULLS in a manner different to its then current access.</sentence>
+<sentence id="s477">The subject matter, scope and purpose of ss 152CP(2) and 152CR(1)(d) required the Commission, in making a final determination about the subject matter of the arbitration concerning access by Optus to the declared ULLS service to have regard to the actual direct costs which Telstra would incur in providing the access to Optus as required by the final determination.</sentence>
+<sentence id="s478">121 The Commission accepted that there were already direct costs incurred by Telstra in providing the existing access.</sentence>
+<sentence id="s479">But, the Commission, as decision-maker, had to have regard in addition to the direct cost to Telstra of effecting what it was considering as a final determination.</sentence>
+<sentence id="s480">This view is reinforced by the prohibition imposed by s 152CQ(1)(f).</sentence>
+<sentence id="s481">That directs the Commission not to make a final determination for access if in doing so Telstra would be required to bear an unreasonable amount of the costs of extending or enhancing the capability of a facility.</sentence>
+<sentence id="s482">Thus, not only was the Commission required to have regard to Telstra's actual direct costs for the purposes of arriving at a final determination, it was prohibited, if the costs of doing so were unreasonable, from making a final determination.</sentence>
+<sentence id="s483">122 In Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 29 ; (1998) 194 CLR 355 at 381 [69] McHugh, Gummow, Kirby and Hayne JJ said that the primary object of statutory construction is to construe the relevant provision so that it is consistent with the language and purpose of all the provisions of the statute.</sentence>
+<sentence id="s484">123 I am of opinion that the requirement in s 152CR(1)(d) that the Commission take into account the direct costs of providing access to the declared service in making a final determination must be read consistently with its obligation to refrain from making such a determination if, in doing so, a party would be required to bear an unreasonable amount of the costs of extending or enhancing the capability of a facility.</sentence>
+<sentence id="s485">124 The Commission did not set out any findings as to the direct costs of Telstra providing access to the ULLS either generally (see Reasons at [118]) or specifically those which would be incurred by Telstra in providing the service required in the final determination.</sentence>
+<sentence id="s486">The Act required the Commission to have regard to those costs by giving them proper, genuine and realistic consideration in arriving at its final determination.</sentence>
+<sentence id="s487">A mere recitation of submissions to it and then the expression of an unreasoned conclusion, could not suffice to comply with the Commission's obligation, within the meaning of s 152CR(1)(d), to have regard to Telstra's direct costs of providing access and its claim that they would be about $1.7 million.</sentence>
+<sentence id="s488">It did not have regard to Telstra's direct costs of providing the access it required under its final determination.</sentence>
+<sentence id="s489">125 Whether the Commission used $360,000 as Telstra's costs or not, it gave no reasons for its finding that Telstra's costs would be negligible.</sentence>
+<sentence id="s490">The Commission either made a mistake about what Optus submitted or it had no reasons for rejecting Telstra's estimate of $1.7 million.</sentence>
+<sentence id="s491">Optus' submission that the Commission had not used the $360,000 as Telstra's costs recognised at least implicitly, that such a use would be a failure by the Commission to have regard to Telstra's direct costs under s 152CR(1)(d).</sentence>
+<sentence id="s492">While I think that it is likely that the Commission was confused about Optus' estimate of $360,000 as being an estimate of Telstra's costs, it is not possible to decide one way or the other whether it did because of the Commission's lack of reasons on this matter: Palme 216 CLR at 223-224 [39] per Gleeson CJ, Gummow and Heydon JJ.</sentence>
+<sentence id="s493">126 I am of opinion that the deficiencies in the Commission's reasons which I have just discussed show that it had no reasons for rejecting Telstra's estimate of $1.7 million and that it did not comply with the requirement of s 152CR(1)(d).</sentence>
+<sentence id="s494">10.</sentence>
+<sentence id="s495">GROUND 4: DID S 152AQB(9) REQUIRE THE COMMISSION TO HAVE REGARD TO CODE 569 AS A MODEL NON-PRICE TERM AND CONDITION?</sentence>
+<sentence id="s496">
+ 
+127 Telstra argued that the Commission's approach to Code 569 was reviewable under s 5 of the ADJR Act .</sentence>
+<sentence id="s497">It contended that the Commission had:
+ 
+&#8226; failed to observe the procedures required by s 152AQB(9) (s 5(1)(b) of the ADJR Act );
+ 
+&#8226; improperly exercised its power in making the final determination because it had failed to take into account a relevant consideration (s 5(1)(e) and (2)(b) of the ADJR Act ).</sentence>
+<sentence id="s498">128 In essence, Telstra contended that, because of the October 2003 determination, substantially all the provisions of Code 569 were model terms and conditions and that the Commission failed to have regard to them in accordance with s 152AQB(9).</sentence>
+<sentence id="s499">It argued that the Commission did not have regard to the whole of cl 11, in particular, as model terms and conditions made under the Act but rather merely had regard to it as an industry code.</sentence>
+<sentence id="s500">Optus argued that the Commission made no error in the way it applied and had regard to the provisions of Code 569 and that none of the important provisions in cl 11 relied on by Telstra was a model term or condition.</sentence>
+<sentence id="s501">129 The Commission said in its reasons that it had carefully considered Telstra's submissions that its systems had been designed and built to carry out the transfer process in accordance with the agreed provisions in Code 569.</sentence>
+<sentence id="s502">It did not regard the October 2003 determination as including the whole of Code 569.</sentence>
+<sentence id="s503">It stated that in the final determination it was utilising the existing ULLS provisioning process to resolve the current issues in dispute by determining a specific process to apply in the limited set of circumstances (Reasons [172-173]).</sentence>
+<sentence id="s504">The Commission then reiterated that this limited set of circumstances arose when Telstra supplied to Optus:
+ "... ULLS in MDU's [sic] serviced by an MDF and there is an existing communications wire between the Telstra exchange and end-user customer's premises which has a soft dial tone a ULLS Transfer Request may be submitted by Optus and the ULLS Transfer process pursuant to clause 11.4 of [Code 569] would then apply.</sentence>
+<sentence id="s505">" (Reasons [174]) (emphasis added) 
+130 The Commission said that it was utilising the existing ULLS provisioning processes in Code 569 to resolve the access dispute (Reasons [170(i)]; [173]).</sentence>
+<sentence id="s506">In its reasons the Commission also asserted that a soft dial tone was an identification tone for the purposes of cl 12.2.1(c) which assisted in identifying the service (or full national) number associated with an inactive Telstra PSTN service ([176]).</sentence>
+<sentence id="s507">It said:
+ 
+ 
+ "176.</sentence>
+<sentence id="s508">...</sentence>
+<sentence id="s509">The presence of a soft dial tone together with the provision of a full national number (supplied by the Gaining Access Seeker) will enable Telstra to identify the Communications Wire at the Telstra exchange and carry out any subsequent Transfer ULLS Request process.</sentence>
+<sentence id="s510">If there is no such identifier the request would need to be treated as a Vacant ULLS Request.</sentence>
+<sentence id="s511">The onus will be on the Gaining Access Seeker to deal with the consequences of both processes and not Telstra.</sentence>
+<sentence id="s512">
+ 
+ 
+ 
+ 177.</sentence>
+<sentence id="s513">The Commission notes the concerns that have been raised that not all inactive services with a soft dial tone will be ULLS serviceable but is satisfied that Telstra's service qualification testing processes could be used to identify whether this is the case.</sentence>
+<sentence id="s514">"
+ 
+ (emphasis added: The words I have emphasised in [176] of the reasons appear to relate to the soft dial tone which the Commission had classified as an identification tone, since the balance of the sentence refers to the procedure in par 10(e) of the final determination.</sentence>
+<sentence id="s515">)
+ 
+ 
+
+131 Code 569 defined service qualification as a desktop process which included the access provider (Telstra) checking the availability of the ULLS from the end-user side of the customer access module (located, relevantly, in the Telstra exchange) and the end-user's property boundary point (located in or near the MDF) (see cl 6.2, and Appendix A to Code 569).</sentence>
+<sentence id="s516">132 The process contemplated by cl 11 of Code 569 required the access provider to check and validate each ULLS request (cl 11.5.1).</sentence>
+<sentence id="s517">If the request were in a correct format (i.e.</sentence>
+<sentence id="s518">it complied with the minimum requirements for the relevant type of request in one of cll 11.2, 11.3 or 11.4) then cl 11.5.2 required Telstra to accept it and provide Optus with a receipt.</sentence>
+<sentence id="s519">However, cl 11.5.3 provided that if the request were "... incorrect in format, the [access provider] will reject the request".</sentence>
+<sentence id="s520">Accordingly, Telstra would have to perform a service qualification in accordance with cl 11.6.1 only if it had first issued a receipt (i.e.</sentence>
+<sentence id="s521">by issuing a receipt under cl 11.5.2 Telstra would accept that it had received a valid request complying with the requirements in cl 11 for the relevant type of service).</sentence>
+<sentence id="s522">133 In this regard it is important to recall that the October 2003 determination expressly adopted, as model terms and conditions, all relevant clauses in Code 569 concerned with acknowledging ordered services, updating their progress and confirming the completion of the order (see [33] above).</sentence>
+<sentence id="s523">134 The final determination and the Commission's reasons (in [176] and [177]) appear to proceed on the assumptions that a request made under par 10(a) would be an ULLS transfer request under cl 11.4 of Code 569 and that such a request would nonetheless be valid even though it did not comply with the requirement of cl 11.4.2(e)(vi) to provide the original ULLS identifier.</sentence>
+<sentence id="s524">Yet, cl 11 of Code 569 was structured on the basis, and the only evidence before the Commission showed, that Telstra's (or the access provider's) existing computer system would reject an ULLS transfer request which omitted the original ULLS identifier.</sentence>
+<sentence id="s525">This was because that field of information (the original ULLS identifier) was the industry's accepted means of verifying and locating the communications wire currently being used by the customer that was to be transferred.</sentence>
+<sentence id="s526">The Commission, however, introduced a concept in par 10(a) which was foreign to this (cl 11.4) process, namely the association between the soft dial tone and the former service number for an inactive Telstra PSTN service (which may or may not have been an ULLS).</sentence>
+<sentence id="s527">135 How did the Commission have regard to the provisions of cl 11 which were inconsistent with its new concept?</sentence>
+<sentence id="s528">The Commission's reasons stated that the October 2003 determination was silent on the ordering and provisioning dispute which it was then arbitrating.</sentence>
+<sentence id="s529">It said that it had had regard to that determination but "... is not satisfied [that] the ordering and provisioning issues in this access dispute are adequately dealt with in the determination" (Reasons [74]).</sentence>
+<sentence id="s530">It "reiterated" that those model terms had dealt "... with only the key contentious terms and conditions" and were not required to be comprehensive (Reasons [73]).</sentence>
+<sentence id="s531">It said that it had to take Code 569 into account "... and is satisfied that it has done so in this access dispute" (Reasons [76] see too [179]).</sentence>
+<sentence id="s532">The Commission reasoned that the October 2003 determination had "... not adopt[ed] any clause from an ACIF code dealing specifically with the provisioning of the ULLS in MDUs" (Reasons [75], emphasis added).</sentence>
+<sentence id="s533">The Commission's reasons were wrong.</sentence>
+<sentence id="s534">They showed that it had misunderstood the effect of its October 2003 determination.</sentence>
+<sentence id="s535">A rejection of an ULLS transfer request is an acknowledgement of the making of the request and a contemporaneous communication that there would be no further processing of it.</sentence>
+<sentence id="s536">136 It follows that the Commission did not regard Code 569 as a whole, and in particular cl 11, (apart from some provisions of no present relevance, such as cll 11.6.2, 11.7.3 and 11.10) as having been included in or forming part of the October 2003 determination for the purposes of s 152AQB(9).</sentence>
+<sentence id="s537">That section required the Commission to have regard to its earlier determination "... if it is required to arbitrate an access dispute under Division 8 in relation to a core service covered by the determination" (emphasis added).</sentence>
+<sentence id="s538">Importantly, s 152AQB(9) emphasised it was the core service (here ULLS), which was covered by the earlier determination of model terms and conditions.</sentence>
+<sentence id="s539">And the section dealt with an access dispute "in relation to" such a core service (i.e.</sentence>
+<sentence id="s540">one covered by model terms and conditions).</sentence>
+<sentence id="s541">137 The Commission correctly observed that it was not bound by any model terms and conditions since 152AQB(9) operated to require it only to "have regard to" them.</sentence>
+<sentence id="s542">The Commission reasoned that it was adapting or building on Code 569 to resolve the access dispute (Reasons [106]-[107], [165], [173]).</sentence>
+<sentence id="s543">The Commission rejected Telstra's submission that it had to adhere strictly to Code 569, saying that the Code did not limit its arbitral powers (Reasons [178]).</sentence>
+<sentence id="s544">It concluded that the most effective and efficient resolution of the dispute was to adopt the final determination "... which is based (as far as possible) on provisions of [Code 569])" (Reasons [179]).</sentence>
+<sentence id="s545">138 I am of opinion that while the Commission had taken the provisions of Code 569 and Guideline 587 into account (Reasons [202]), it did not treat Code 569 as providing model terms and conditions covering the ULLS for the purposes of s 152AQB(9).</sentence>
+<sentence id="s546">This was because it did not consider that the October 2003 determination included, relevantly, the whole of cl 11 of Code 569 as model terms and conditions.</sentence>
+<sentence id="s547">That was a misconstruction or misunderstanding of the purposes of Code 569 and its October 2003 determination in the sense that the Commission did not have regard the whole of to cl 11 as being a determination under s 152AQB(9) but rather had regard to it as a provision of lesser importance.</sentence>
+<sentence id="s548">This resulted in the Commission failing to exercise its powers in accordance with s 152AQB(9): cf: Minister for Immigration v Gray [1994] FCA 1052 ; (1994) 50 FCR 189 at 208B-D per French and Drummond JJ; Elliott v Minister for Immigration [2007] FCAFC 22 ; (2007) 156 FCR 559 at 572 [40] - [42] per Ryan, Tamberlin and Middleton JJ.</sentence>
+<sentence id="s549">The weight which the Commission accorded Code 569, and in particular cl 11, may have been different and more significant had it had regard to the Code in accordance with s 152AQB(9).</sentence>
+<sentence id="s550">11.</sentence>
+<sentence id="s551">GROUND 5: DID THE COMMISSION'S FINAL DETERMINATION MISCONSTRUE AND MISUNDERSTAND CODE 569?</sentence>
+<sentence id="s552">
+ 
+139 Next, Telstra argued that the Commission so misconstrued or misunderstood Code 569 that it failed to take the Code into account.</sentence>
+<sentence id="s553">It contended that this was variously: an error of law ( ADJR Act , s 5(1)(f)); a failure to follow procedures required by law (s 5(1)(b)); a failure to take the Code into account as a relevant consideration or to give it "fundamental weight" and therefore an improper exercise of power (s 5(1)(e), s 5(2)(b)); or an abuse of power, and therefore an improper exercise of power (s 5(1)(e), s 5(2)(j)).</sentence>
+<sentence id="s554">Telstra contended that the final determination:
+ 
+&#8226; required it to follow the Transfer ULLS process in a context where Code 569, consequently, would require rejection of any Transfer ULLS request;
+ 
+&#8226; required it incorrectly to treat a soft dial tone as an identification tone (cf: cl 12.2.1(c) of Code 569);
+ 
+&#8226; misconceived what a losing access seeker and the In-Use ULLS was;
+ 
+&#8226; required it to follow the Vacant ULLS process in circumstances where Code 569 did not apply to the process imposed.</sentence>
+<sentence id="s555">140 Optus contended that Telstra's argument gave a significance to Code 569 which it did not have.</sentence>
+<sentence id="s556">It said that the Commission had no legal obligation to have regard to any relevant part of Code 569 under s 152CR(1).</sentence>
+<sentence id="s557">Optus argued that the Commission could have regard to Code 569 under s 152CR(2) and that it did so unobjectionably in arriving at the final determination.</sentence>
+<sentence id="s558">141 For the reasons which follow, I am of opinion that the Commission misunderstood and misapplied Code 569 in arriving at its final determination.</sentence>
+<sentence id="s559">11.1 Par 10(a) of the final determination 
+ 
+142 The model terms and conditions, with the industry codes and guidelines for the ULLS, form the context in which the final determination operated.</sentence>
+<sentence id="s560">Most significantly, par 10(a) began with a presumption that a communications wire between the Telstra exchange and the end-user's premises actually existed and was the means of carrying the soft dial tone.</sentence>
+<sentence id="s561">However, as I have sought to make clear above, not only is that presumption unfounded, but also the provisions of Code 569 and Guideline 587 do not proceed on such a basis.</sentence>
+<sentence id="s562">Since both In-Use ULLS Requests and ULLS Transfer Requests relate to an actual functioning service, no soft dial tone will be present on a line the subject of either type of those requests.</sentence>
+<sentence id="s563">The Commission then permitted Optus to provide an ULLS request to Telstra with only the service number (i.e.</sentence>
+<sentence id="s564">telephone number) and address "associated with the communications wire".</sentence>
+<sentence id="s565">It did so because of its presumption in par 10(a) that there already was a communications wire, the subject of the request which had somehow been identified by a soft dial tone.</sentence>
+<sentence id="s566">143 There was no basis upon which the Commission could have made such a presumption as is made further evident by considering the operation of par 10(e) to which I will come.</sentence>
+<sentence id="s567">Next, the Commission required Telstra to treat such a request (i.e.</sentence>
+<sentence id="s568">one where the Commission had already assumed a communications wire existed, as identified by a soft dial tone, an associated telephone number and the subscriber's address) as if it were an ULLS transfer request by following the ULLS Transfer process in Code 569: i.e.</sentence>
+<sentence id="s569">that the hypothesised communications wire both existed and was unconditioned since only such a wire could be an ULLS.</sentence>
+<sentence id="s570">144 Telstra made submissions to the Commission indicating the fallacies upon which par 10(a) was based.</sentence>
+<sentence id="s571">Telstra put expert evidence to the Commission from Mr McAinsh, who was responsible for determining Telstra's requirements for process or system changes to support activities, including ULLS ordering and provisioning.</sentence>
+<sentence id="s572">Mr McAinsh said that Telstra's existing computer software was designed to be compliant with Code 569 and Guideline 587, among others.</sentence>
+<sentence id="s573">145 A fundamental requirement of cl 11.4.2(e)(vi) of Code 569 for an ULLS transfer request (between access seekers) is the provision of the original ULLS identifier for the existing and In-Use ULLS.</sentence>
+<sentence id="s574">The ULLS identifier is the internal number assigned by Telstra to enable it to locate and identify the communications wire actually being used by the losing access seeker (not Telstra) which is the subject of the transfer request.</sentence>
+<sentence id="s575">In contrast, par 10(a), without any apparent basis, assumes that a communications wire already exists which is the subject of Optus' request.</sentence>
+<sentence id="s576">The assumption is based on no more than the fact that there is a connection between the end-user's (i.e.</sentence>
+<sentence id="s577">Optus' customer) and a Telstra exchange premises indicated by a soft dial tone.</sentence>
+<sentence id="s578">The evidence before the Commission demonstrated that even if Telstra were provided with the telephone number (or FNN) previously associated with the connection indicated by the soft dial tone, it had no records from which it could identify whether that telephone number was associated with an ULLS or other connection.</sentence>
+<sentence id="s579">So the fundamental premise on which par 10(a) was structured, namely that there was in fact a communications wire or ULLS over which the soft dial tone passed, was a fiction.</sentence>
+<sentence id="s580">146 Next, par 10(a) required Telstra to treat a request to transfer the ULLS service to Optus, hypothesised already by the terms of par 10(a), as if it were an ULLS transfer request in accordance with Code 569.</sentence>
+<sentence id="s581">But, Telstra could not do that without an ULLS identifier being provided because cl 11.4.2(e)(vi) would not be satisfied, to the extent that the Code applied.</sentence>
+<sentence id="s582">Paragraph 10(a) did not explain how Telstra was to locate and identify the postulated communications wire.</sentence>
+<sentence id="s583">Instead, par 10(a) operated on the premise of the existence of a particular communications wire which was to be transferred.</sentence>
+<sentence id="s584">However, the industry, including Telstra, operated on the basis that an ULLS transfer request would specify an ULLS identifier and an existing service.</sentence>
+<sentence id="s585">Code 569 is structured to effect such a transfer.</sentence>
+<sentence id="s586">Thus, an ULLS transfer request under cl 11.4 of Code 569 requires the existence of a communications wire, a currently operating service and an original ULLS identifier.</sentence>
+<sentence id="s587">A soft dial tone has nothing to do with any of these matters.</sentence>
+<sentence id="s588">147 If it were to comply with the novel regime imposed by the final determination, Telstra had to undertake considerable work at an estimated cost of $1.7 million.</sentence>
+<sentence id="s589">Telstra said that this work would take longer than two years to assess and implement.</sentence>
+<sentence id="s590">It submitted to the Commission that it would have to reconfigure its computer systems to identify whether or not, were such a request made (by reference to only the telephone number and address of the proposed subscriber), the soft dial tone was in fact carried by an unconditioned communications wire rather than simply by its PSTN.</sentence>
+<sentence id="s591">The latter, of course, could use a variety of connecting paths between the end-user's MDF and Telstra's exchange.</sentence>
+<sentence id="s592">The final determination made no provision for any needed changes to Telstra's infrastructure to process the new form of request in par 10(a).</sentence>
+<sentence id="s593">148 Since Code 569 required the provision of the ULLS identifier for a transfer request, one or two alternative constructions of par 10(a) is available.</sentence>
+<sentence id="s594">First, as Telstra contended, the making of such a request would be an exercise in futility because Telstra would be entitled to reject it because it did not supply the ULLS identifier, as required by cl 11.4(2)(e)(vi).</sentence>
+<sentence id="s595">The second alternative, posited by Optus, and presumably supported by the Commission, is to somehow rewrite Code 569 so as to make it work in a practical way.</sentence>
+<sentence id="s596">That might be possible if par 10(a) were founded on reality.</sentence>
+<sentence id="s597">And, as noted above, the Commission's reasons at [168] said that:
+ "For the purposes of this final determination the applicable type of ULLS request is restricted to the first type of In-Use ULLS, that is, one where the Service Number associated with the In-Use ULLS is cancelled by the Access Provider.</sentence>
+<sentence id="s598">" (emphasis added) 
+However, the final determination did not mention either type of In-Use ULLS.</sentence>
+<sentence id="s599">The reasons also said (at [174]):
+ "The Commission reiterates that when that limited set of circumstances arise, namely, the supply by Telstra to Optus of the ULLS in MDU's [sic] serviced by a MDF and there is an existing communications wire between the Telstra exchange and the end-user customer's premises a ULLS Transfer Request may be submitted by Optus and the ULLS Transfer process pursuant to clause 11.4 of the ACIF Code would then apply.</sentence>
+<sentence id="s600">" (emphasis added) 
+149 Telstra argued that the Commission's inconsistent references in the above passages and in pars 10(a) and (e) to the In-Use, Transfer and Vacant ULLS request processes were inconsistent.</sentence>
+<sentence id="s601">It also argued that the Commission was incorrect to regard assertions that a soft dial tone as either relevant to the existence of an ULLS or as being "an identification tone" for the purposes of cl 12.2.1(c).</sentence>
+<sentence id="s602">That clause showed that the purpose of an identification tone was to facilitate testing after the provisioning of an ULLS by the access provider.</sentence>
+<sentence id="s603">Telstra contended that these matters showed that the Commission did not understand how Code 569 operated and had confused these concepts in the final determination.</sentence>
+<sentence id="s604">Telstra argued that the dispute before involved ordering and provisioning in respect only of Vacant ULLS requests: i.e.</sentence>
+<sentence id="s605">requests by Optus to be allocated a currently unused ULLS.</sentence>
+<sentence id="s606">150 Optus argued that, even if the Commission erred in construing certain terms and categories in Code 569, that did not give rise to any judicially reviewable error in the final determination.</sentence>
+<sentence id="s607">It argued that, properly understood, pars 10(a) and (d) effectively required the parties to adapt and use the existing Transfer ULLS processes.</sentence>
+<sentence id="s608">And, Optus said that the Commission's characterisation of the soft tone did not affect the validity of the final determination.</sentence>
+<sentence id="s609">I reject Optus' argument.</sentence>
+<sentence id="s610">151 The process in par 10(a) did not use the existing ULLS provisioning process contained in Code 569, despite what the Commission asserted in its reasons ([170]-[178]).</sentence>
+<sentence id="s611">The provisions of the Code did not mention or use the concept of a soft dial tone at all in connection with identifying whether an ULLS existed.</sentence>
+<sentence id="s612">And, an identification tone was used to test the quality of an ULLS after it had been identified (cl 12.2.1(c)).</sentence>
+<sentence id="s613">152 The Code operated in two relevantly and conceptually distinct ways.</sentence>
+<sentence id="s614">First, it contemplated that an existing, currently used ULLS could be transferred either, where Telstra was the existing supplier of the ULLS, by using an In-Use ULLS request (cl 11.3) or, where there was another existing supplier of the ULLS, by using an ULLS transfer request (cl 11.4).</sentence>
+<sentence id="s615">Secondly, if neither of those situations applied, as when Optus sought to supply a new occupant of a unit in an MDU, cl 11.2 provided for Optus to make a Vacant ULLS request - i.e.</sentence>
+<sentence id="s616">to ask Telstra to find an ULLS so as to connect the end-user's premises to Optus' network.</sentence>
+<sentence id="s617">153 The final determination did not utilise any of those processes, each of which depended on there being an identified actually existing ULLS, either because it was being used (for both the In-Use and Transfer ULLS requests) or because Telstra would look for it and then identify it (for the Vacant ULLS request).</sentence>
+<sentence id="s618">Instead par 10(a), as reinforced by par 10(e), used the criterion of a soft dial tone conveyed by the particular connection.</sentence>
+<sentence id="s619">But, that criterion existed only where there was no ULLS then being used --- i.e.</sentence>
+<sentence id="s620">there was no current end-user or customer of any access seeker or access provider, including Telstra and Optus, using the telecommunications pathway over which that soft dial tone was carried.</sentence>
+<sentence id="s621">The soft dial tone did not indicate the nature of that pathway beyond that it was part of the PSTN.</sentence>
+<sentence id="s622">11.2 Par 10(e) of the final determination 
+ 
+154 The fallacy in the reasoning of the Commission is revealed by par 10(e).</sentence>
+<sentence id="s623">There the Commission, first, equated the presence of a soft dial tone with an existing communications wire (or ULLS) between the end-user's premises and Telstra's exchange.</sentence>
+<sentence id="s624">In par 10(e) of the final determination the Commission used the Code's defined term "Vacant ULLS Request" as applicable to a situation "[w]here there is no Communications Wire between the Telstra exchange and the end-user customer's premises i.e., there is no soft dial tone".</sentence>
+<sentence id="s625">That was a misconception on the Commission's part for three reasons.</sentence>
+<sentence id="s626">First, a request for a Vacant ULLS under the Code is a procedure under which the access seeker (Optus) requests the access provider (Telstra) to look for an existing unconditioned communications wire between the exchange and the end-user's premises, albeit, one which is not then being used.</sentence>
+<sentence id="s627">Contrary to the wording of par 10(e) the presence of a soft dial tone indicates an existing vacant line but does not indicate whether it is an ULLS, although it may be.</sentence>
+<sentence id="s628">Secondly, par 10(e) conflicts with par 10(g) of the final determination, by which the Commission required Optus to submit a Vacant ULLS request where there was an existing unconditioned communications wire but Optus was not prepared to accept any risk as to quality of that existing connection: i.e.</sentence>
+<sentence id="s629">in such a case, Telstra would be requested to find another unused wire.</sentence>
+<sentence id="s630">Thirdly, having said that this meant that there was no ULLS between those two points (which as I have found is an error), the Commission required Telstra to engage in a Vacant ULLS process, which was (had it understood what it was doing) pointless.</sentence>
+<sentence id="s631">That permitted Optus to submit a futile Vacant ULLS request that Telstra search for and transfer what par 10(e) had already said did not exist between the two points, namely, a communications wire.</sentence>
+<sentence id="s632">155 The Commission explained the purpose of par 10(d) in its reasons at [206] as follows:
+ "The changes are necessary because currently whenever Telstra is the Losing Access Seeker the process that is used by Optus (as Gaining Access Seeker) is always the VULL process whereas, if a soft dial tone is present, Telstra as the Gaining Access Seeker (under the definition of "Gaining Access Seeker" in the ACIF Code, Telstra may also be the Gaining Access Seeker and the Access Provider) the process may be different.</sentence>
+<sentence id="s633">As such, Telstra may be able to re-use the existing Communications Wire (assuming it passes its service qualification tests) enabling it to gain efficiencies in provisioning the service(s) that are not available to other Access Seekers.</sentence>
+<sentence id="s634">In staff's opinion this situation does not seem to be within the spirit or intent of the legislation in its attempt to achieve non-discriminatory outcomes.</sentence>
+<sentence id="s635">" (emphasis added) 
+156 A Vacant ULLS request under Code 569 does not involve Telstra being a losing access seeker.</sentence>
+<sentence id="s636">A Vacant ULLS request is a request to Telstra to search for and, if it finds it, provide an access seeker with an unconditioned communications wire between Telstra's exchange and the end-user's premises.</sentence>
+<sentence id="s637">If the Commission understood how Code 569 operated it could not have made these basic errors and imposed a regime which did not work.</sentence>
+<sentence id="s638">The Commission's assertion that "the process may be different" if a soft dial tone were present was not explained in the Commission's reasons other than its misconception that such a dial tone was demonstrative that an ULLS existed.</sentence>
+<sentence id="s639">157 In my opinion, Optus' submission and the Commission's supposition are unworkable.</sentence>
+<sentence id="s640">The Commission misunderstood and misapplied Code 569 in arriving at its final determination.</sentence>
+<sentence id="s641">As a number of other matters were fully argued I will set out below my findings in the event that the conclusion above is wrong.</sentence>
+<sentence id="s642">12.</sentence>
+<sentence id="s643">GROUND 6: WAS THE FINAL DETERMINATION UNCERTAIN?</sentence>
+<sentence id="s644">
+ 12.1 The context of the uncertainty argument 
+ 
+158 Telstra argued that because of its mixing of concepts and the ambiguity of how Code 569 was to operate with it, the final determination was uncertain in its operation and therefore an improper exercise of power ( ADJR Act , sub-ss 5(1)(e), (2)(h)).</sentence>
+<sentence id="s645">It referred to s 152CP(2)(c) which provided that a final determination may:
+ 
+ 
+ "(c) specify the terms and conditions on which the carrier or provider is to comply with any or all of the standard access obligations applicable to the carrier or provider ...</sentence>
+<sentence id="s646">.</sentence>
+<sentence id="s647">" 
+ 
+ 
+
+159 Telstra argued that par 10 fails to specify terms and conditions with reasonable precision or in such a way that both Telstra and the Court can determine whether a particular request by Optus must be dealt with in a certain, identified way: cf: Herald-Sun TV Pty Ltd v Australian Broadcasting Tribunal [1985] HCA 32 ; (1985) 156 CLR 1 at 4 per Gibbs CJ, Mason, Wilson, Deane and Dawson JJ.</sentence>
+<sentence id="s648">Telstra contended that par 10 was "... so vaguely expressed that either its meaning or its application is a matter of real uncertainty ..." and so was not "... reasonably certain", using the words of Kitto J in Television Corporation Ltd v The Commonwealth [1963] HCA 30 ; (1963) 109 CLR 59 at 70.</sentence>
+<sentence id="s649">Kitto J said there that the latter concept included both certainty of expression and certainty in operation.</sentence>
+<sentence id="s650">160 Optus argued that par 10 of the final determination had to be construed in accordance with the principle explained by Dixon J in King Gee Clothing Company Pty Limited v The Commonwealth [1945] HCA 23 ; (1945) 71 CLR 184 at 195 and Cann's Pty Limited v The Commonwealth [1946] HCA 5 ; (1946) 71 CLR 210 at 227-228.</sentence>
+<sentence id="s651">Gleeson CJ, Gummow, Kirby, Hayne and Heydon JJ in Westfield Management Limited v Perpetual Trustee Company Limited [2007] HCA Trans 367 applied that principle to hold that where it was asserted that one of its terms was uncertain, an instrument or decision made under a statute was not construed as if it were a contract: cp Upper Hunter County District Council v Australian Chilling and Freezing Co Ltd [1968] HCA 8 ; (1968) 118 CLR 429 at 436-437.</sentence>
+<sentence id="s652">161 Dixon J said that uncertainty as a test of validity arises from the nature of the power: King Gee 71 CLR at 195-196.</sentence>
+<sentence id="s653">He distinguished between ambiguities and uncertainties bound to arise from forms of expression and intricacies of subject matter on the one hand, which could be resolved by construing and interpreting the instrument (here final determination).</sentence>
+<sentence id="s654">Dixon J pointed out that, on the other hand, when what is described in the instrument, however clearly, involves a matter which is not an ascertainable fact or figure but a matter of estimate, assessment, discretionary allocation or apportionment resulting in the attribution of an amount or figure as a matter of judgment, then no certain objective standard is prescribed and the power has not been exercised in accordance with the statute: King Gee 71 CLR at 197; see also Racecourse Co-operative Sugar Association Ltd v Attorney-General (Qld) [1979] HCA 50 ; (1979) 142 CLR 460 at 480-481 per Gibbs J with whom Stephen, Mason and Wilson JJ agreed.</sentence>
+<sentence id="s655">162 What is the meaning of par 10(a) of the final determination?</sentence>
+<sentence id="s656">First, there is the problem that it refers to an existing communications wire which has a soft dial tone in the context of par 10(e) which says that the absence of a soft dial tone is equivalent to there being no communications wire.</sentence>
+<sentence id="s657">In fact, the soft dial tone is not an indication of there being a communications wire or ULLS connection.</sentence>
+<sentence id="s658">Rather, it is an indication only that there is a connection using an available means (which may but need not be an ULLS) on the PSTN.</sentence>
+<sentence id="s659">Secondly, par 10(a) requires Telstra to treat Optus' request as if it was an ULLS transfer request in accordance with Code 569.</sentence>
+<sentence id="s660">But if Telstra followed cl 11 in Code 569 it would have to reject an ULLS transfer request which did not comply with cl 11.4.2(e)(vi) of Code 569, and in particular did not specify the original ULLS identifier.</sentence>
+<sentence id="s661">Likewise, there is no gaining and losing access provider in this situation, because the soft dial tone indicates an inactive service.</sentence>
+<sentence id="s662">163 Telstra argued that if that material alone were provided in an ULLS transfer request under cl 11.4 of the Code it would be rejected immediately for failure to comply with the requirements at cl 11.4.2.</sentence>
+<sentence id="s663">In addition, par 10(b) requires Telstra to validate that the service number (telephone number) corresponds to the address specified in the request based on Telstra cabling records in its exchanges.</sentence>
+<sentence id="s664">Then, par 10(c) states "if this information is incorrect", Telstra had to follow the ULLS rejection process for ULLS transfers specified in Code 569.</sentence>
+<sentence id="s665">It is not clear whether par 10(c) refers to the information in par 10(b) alone or together with that in par 10(a).</sentence>
+<sentence id="s666">If the former, then even if there is in fact no existing communications wire which is an ULLS service, Telstra is somehow obliged to provide one even though it will not be over the path on which the soft dial tone is present.</sentence>
+<sentence id="s667">How Telstra would do that was not addressed by the final determination or the Commission's reasons.</sentence>
+<sentence id="s668">If the second view of the operation of par 10(c) is correct that, again, does not appear to accommodate itself to the opening words of par 10(a).</sentence>
+<sentence id="s669">164 Optus argued that the proper construction of par 10(a) required an assumption that the requirements of cl 11.4 of Code 569 were satisfied once the conditions set out in par 10(a) were met.</sentence>
+<sentence id="s670">In other words Optus argued that the final determination required Telstra to treat the provision of the information specified in par 10(a) by itself, as an ULLS transfer request with the necessary consequence that Telstra would then process it as if it were valid under cl 11.5 of Code 569.</sentence>
+<sentence id="s671">It contended that the final determination should be construed in a practical manner which required "... Telstra to modify its existing procedures to exclude the kind of validation processes that are specific to transfers between access seekers".</sentence>
+<sentence id="s672">It referred to the practical approach in construction of instruments enunciated by Lord Reid in Gill v Donald Humberstone &amp; Co Ltd [1963] 1 WLR 929 at 933-934 and applied by Stone J in Australian Tea Tree Oil Research Institute v Industry Research and Development Board [2002] FCA 1127 ; (2002) 124 FCR 316 at 328-329 [37] - [38] ; see too per Stein and Giles JJA in Langton v Independent Commission against Corruption (2000) 49 NSWLR 164 at 167-168 [12]-[13].</sentence>
+<sentence id="s673">Lord Reid had said that instruments which were addressed to practical people skilled in a particular trade or industry ought be construed in light of practical considerations rather than by a meticulous comparison of the language of their various provisions of the kind appropriate for the construction of a statute.</sentence>
+<sentence id="s674">165 Optus pointed to Telstra's submissions and Mr McAinsh's evidence to the Commission that Telstra would have "... to modify its provisioning system [sic] to remove the requirement for a ULL[S] identifier which the system is ordinarily configured to look for when assessing a ULLS Transfer Request".</sentence>
+<sentence id="s675">It also argued that even if there were an inconsistency between the final determination and Code 569, cl 16 of the Code and the statutory force of a determination under s 152CP, operate to make the final determination prevail.</sentence>
+<sentence id="s676">166 The Commission's procedure in the final determination in par 10(a) presupposes the existence of an ULLS which is actually being transferred.</sentence>
+<sentence id="s677">Where there is an active in use line which is being transferred between access seekers (including Telstra as required by par 10(d)) it will be easy to determine whether an ULLS or unconditioned communications wire provides the service, because there will or will not be an original ULLS identifier (see cl 11.4.2(e)(vi)).</sentence>
+<sentence id="s678">But that critical piece of information is missing in the Commission's hypothesis under par 10(a).</sentence>
+<sentence id="s679">The Commission did not specify in the final determination or its reasons that the original ULLS identifier need not be provided, although Optus submitted that that is how par 10 ought to be understood.</sentence>
+<sentence id="s680">12.2 What is the meaning of par 10 of the final determination?</sentence>
+<sentence id="s681">
+ 
+167 I am of opinion that par 10 is uncertain for the reason given by Kitto J in Television Corporation 109 CLR at 71 when he said of conditions imposed in a licence by a Minister purportedly under a statutory power to do so:
+ "After all, the power given to the Minister is to prescribe the conditions of his own authority to deprive a licensee of its licence.</sentence>
+<sentence id="s682">Is it really to be supposed that the Parliament intended that he might prescribe conditions in words of such dubious import that no one but himself would be sure how far he meant them to go?</sentence>
+<sentence id="s683">The Parliament did not give the Minister power to suspend or revoke licences at will.</sentence>
+<sentence id="s684">The course it took was to require him to describe in advance, by the formal method of imposing conditions upon a licence, what conduct of the licensee would expose the licence to suspension or revocation.</sentence>
+<sentence id="s685">I can see no justification for so loose an interpretation of the Act that a form of words which by reason of vagueness fails to perform that function may be held a condition within the intended scope of the authority.</sentence>
+<sentence id="s686">" 
+168 The provisions of par 10 of the final determination must be read as a whole.</sentence>
+<sentence id="s687">This is because the whole of par 10 purports to specify what Telstra must do to order and provision so as to provide access.</sentence>
+<sentence id="s688">Thus, in pars 10(a) and (e), the Commission equated the presence of a soft dial tone as the signification that an ULLS exists that provides the connection over which the soft dial tone is transmitted.</sentence>
+<sentence id="s689">For the reasons that I have given, that is fallacious.</sentence>
+<sentence id="s690">And because it is fallacious, but fundamental to the requirement for Telstra under par 10(a) to treat the request as a valid ULLS transfer request, if Optus' construction is correct, I am of opinion that the final determination is uncertain and unworkable.</sentence>
+<sentence id="s691">169 This view is reinforced by consideration of par 10(f) and (g).</sentence>
+<sentence id="s692">These deal with the situation where Optus has submitted an ULLS transfer request that meets the requirements in par 10(a).</sentence>
+<sentence id="s693">In the first case, Optus must accept any risk as to quality of connection "... on the existing copper path between the Telstra exchange and the end-user premises" (emphasis added).</sentence>
+<sentence id="s694">Again, this demonstrates the Commission presupposed that in every case the presence of a soft dial tone identified the existence of a copper path.</sentence>
+<sentence id="s695">What is Telstra to do if that assumption is, as it can be, incorrect?</sentence>
+<sentence id="s696">It cannot supply the service the subject of the request as an ULLS service because, even though the soft dial tone is transmitted by the path that exists, that path is not an ULLS path.</sentence>
+<sentence id="s697">And, if Optus and the Commission are correct, Telstra cannot reject the transfer request but must treat it as valid even though it does not relate to an ULLS.</sentence>
+<sentence id="s698">That is, the final determination commits Telstra to processing as an ULLS transfer request, a request based on no more than the existence of a soft dial tone and the provision of a telephone number to Optus' new subscriber's address.</sentence>
+<sentence id="s699">170 Pars 10(f) and (g) do not address the possibility that the soft dial tone runs across a non-ULLS connection.</sentence>
+<sentence id="s700">Rather, pars 10(f) and (g) deal with the possibility that the ULLS connection may or may not be of good quality (as opposed to not existing at all as an ULLS connection).</sentence>
+<sentence id="s701">And, par 10(e) only operates on the assumption that the absence of a soft dial tone established that there is no communications wire connecting the Telstra exchange and the end-user customer's premises.</sentence>
+<sentence id="s702">In that situation, as was the case before the final determination was made, Optus could then make a Vacant ULLS request.</sentence>
+<sentence id="s703">171 The Commission attempted to adapt the existing ULLS transfer request process in Code 569 on the premise that the presence of a soft dial tone meant that it is carried by an unconditioned communications wire.</sentence>
+<sentence id="s704">The Commission recognised this in its reasons at [176]-[177].</sentence>
+<sentence id="s705">There it said that: 
+ "The onus will be on the Gaining Access Seeker to deal with the consequences of both processes and not Telstra.</sentence>
+<sentence id="s706">" 
+ 
+ 
+ 
+
+172 That reasoning dealt with what the Commission had provided in pars 10(f) and (g).</sentence>
+<sentence id="s707">But it avoided the real possibility that an inactive service with a soft dial tone might not be an ULLS service at all.</sentence>
+<sentence id="s708">Serviceability is one thing, existence another.</sentence>
+<sentence id="s709">As Fullagar J observed in Australian Communist Party v The Commonwealth [1951] HCA 5 ; (1951) 83 CLR 1 at 258:
+ "A power to make laws with respect to lighthouses does not authorize the making of a law with respect to anything which is, in the opinion of the law-maker, a lighthouse.</sentence>
+<sentence id="s710">A power to make a proclamation carrying legal consequences with respect to a lighthouse is one thing: a power to make a similar proclamation with respect to anything which in the opinion of the Governor-General is a lighthouse is another thing.</sentence>
+<sentence id="s711">" 
+173 In the way it was expressed, the Commission's final determination did not adapt the provisions of Code 569, because it presupposed the fundamental matter that an ULLS transfer request had to determine, namely, the existence of an ULLS to transfer.</sentence>
+<sentence id="s712">This created a fundamental uncertainty both as to how the final determination should be construed and the methodology for Telstra to follow postulated in par 10.</sentence>
+<sentence id="s713">If the presupposition is wrong in respect of a request made by Optus, will Telstra be in breach of the final determination since it can never supply the service over the identified pathway used by the soft dial tone?</sentence>
+<sentence id="s714">Alternatively, will Telstra be entitled to reject the request in any event because the omission of essential information in the ULLS transfer request process in cl 11 of Code 569 and or cl 13 of Guideline 587 (namely the ULLS identifier) entitled it to do so?</sentence>
+<sentence id="s715">174 Neither scenario makes the final determination certain.</sentence>
+<sentence id="s716">The presupposition takes the place of the processes in cl 11 of Code 569 without establishing that the process in par 10(a) can be applied to a particular line with a soft dial which is not, in fact, an ULLS.</sentence>
+<sentence id="s717">And, notwithstanding that par 10(a) treats every request where a soft dial tone is present as an ULLS transfer request, if Telstra can reject each such request because it does not give an ULLS identifier, the process stipulated in the final determination is pointless.</sentence>
+<sentence id="s718">175 For these reasons, I am of opinion that the final determination was uncertain both in expression and in operation.</sentence>
+<sentence id="s719">It was therefore unlawfully made: Project Blue Sky Inc (1998) 194 CLR at 393 [99]-[101].</sentence>
+<sentence id="s720">13.</sentence>
+<sentence id="s721">GROUND 7: WAS THE FINAL DETERMINATION ILLOGICAL OR UNREASONABLE?</sentence>
+<sentence id="s722">
+ 
+176 Telstra also argued that the final determination was unreasonable in the sense provided in s 5(2)(g) of the ADJR Act , namely an exercise of power that was so unreasonable that no reasonable person could so exercise the power, and that therefore, there had been an improper exercise of power ( ADJR Act , s 5(1)(e)).</sentence>
+<sentence id="s723">Telstra argued that the final determination was illogical in the sense that it did not depend upon the Commission's evaluation of evidence or the drawing of factual inferences.</sentence>
+<sentence id="s724">It also contended that the final determination was illogical because it required the parties to the arbitration to comply with rules that were inconsistent internally with one another.</sentence>
+<sentence id="s725">This, in essence, was another way of arguing the same issues as have been discussed above.</sentence>
+<sentence id="s726">177 Optus argued that Telstra understood the practical implications of the proposed determination communicated by the Commission during the arbitration as indicating that it was not illogical.</sentence>
+<sentence id="s727">It contended that the result of the final determination was a reasonable outcome in the circumstances.</sentence>
+<sentence id="s728">178 In Re Minister for Immigration and Multicultural Affairs; Ex parte Applicant S20/2002 [2003] HCA 30 ; (2003) 198 ALR 59 at 76 [73] McHugh and Gummow JJ said that one species of what is known as Wednesbury unreasonableness ( Wednesbury [1948] 1 KB at 230) was identified by Dixon CJ in Klein v Domus Pty Ltd [1963] HCA 54 ; (1963) 109 CLR 467 at 473.</sentence>
+<sentence id="s729">There, Dixon CJ said that if it appeared that the dominating or actuating reason for a decision was outside the scope of the purpose of the enactment, that vitiated the supposed exercise of a discretion.</sentence>
+<sentence id="s730">Dixon CJ said that the Court looks to the scope and purpose of a provision and what its real object is to determine whether a decision-maker has exercised a discretion in accordance with the purpose of the enactment.</sentence>
+<sentence id="s731">However, the Court must approach the exercise from the perspective that the real object of the legislature is to leave the scope for judicial or other officer who is investigating the facts and considering the purpose of the enactment to give effect to his or her view of the justice of the case: see too S20/2002 198 ALR at 75-76 [67]-[70]; Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Palme [2003] HCA 56 ; (2003) 216 CLR 212 at 221 [30] per Gleeson CJ, Gummow and Heydon JJ.</sentence>
+<sentence id="s732">A decision which is so unreasonable that it might almost be described as being done in bad faith or so absurd that no sensible person could dream that it lay within the powers of the decision-maker is affected by jurisdictional error: Palme 216 CLR at 221 [30].</sentence>
+<sentence id="s733">179 There is a danger, of course, in proceedings for judicial review that the reasons of a decision-maker can be over-zealously scrutinised.</sentence>
+<sentence id="s734">The reasons are meant to inform.</sentence>
+<sentence id="s735">They are the reasons of persons who are familiar with the subject matter, and who need not be lawyers.</sentence>
+<sentence id="s736">They are intended to provide an explanation of the reasoning processes of the decision-maker himself or herself.</sentence>
+<sentence id="s737">The Court must not turn a review of the administrative decision-making into a review of the merits of the decision: Minister for Immigration and Ethnic Affairs v Wu Shan Liang [1996] HCA 6 ; (1996) 185 CLR 259 at 272 per Brennan CJ, Toohey, McHugh and Gummow JJ.</sentence>
+<sentence id="s738">180 In Avon Downs Pty Limited v Commissioner for Taxation [1949] HCA 26 ; (1949) 78 CLR 353 at 360 Dixon J discussed judicial review of an administrative decision for which the decision-maker did not have to give reasons.</sentence>
+<sentence id="s739">He said:
+ "The conclusion he has reached may, on a full consideration of the material that was before him, be found to be capable of explanation only on the ground of some such misconception.</sentence>
+<sentence id="s740">If the result appears to be unreasonable on the supposition that he addressed himself to the right question, correctly applied the rules of law and took into account all the relevant considerations and no irrelevant considerations, then it may be a proper inference that it is a false supposition.</sentence>
+<sentence id="s741">It is not necessary that you should be sure of the precise particular in which he has gone wrong.</sentence>
+<sentence id="s742">It is enough that you can see that in some way he must have failed in the discharge of his exact function according to law.</sentence>
+<sentence id="s743">" 
+181 Inadequacy of the material relied on by the administrative decision-maker, while not itself being a ground for prohibition is a circumstance which may support, in a case like the present, the inference that the Commission was applying the wrong test or was not in reality satisfied of the requisite matters: The Queen v Australian Stevedoring Industry Board; Ex parte Melbourne Stevedoring Co Pty Limited [1953] HCA 22 ; (1953) 88 CLR 100 at 120.</sentence>
+<sentence id="s744">There, Dixon CJ, Williams, Webb and Fullagar JJ referred to the important distinction between a mere insufficiency of evidence or other materials to support a conclusion of fact when the function of finding the fact has been committed to a person or body by the Parliament and, on the other hand, the absence of any foundation in fact for the fulfilment of the conditions upon which, in point of law, the existence of the power depends.</sentence>
+<sentence id="s745">They said that it was not enough if the repository of the power, properly interpreting the section of the Act under which it was conferred and applying the correct test: 
+ "... nevertheless satisfies itself or himself on inadequate material that facts exist which in truth would fulfil the conditions which one or other or both of those paragraphs prescribe.</sentence>
+<sentence id="s746">The inadequacy of the material is not in itself a ground for prohibition.</sentence>
+<sentence id="s747">But it is a circumstance which may support the inference that the tribunal is applying the wrong test or is not in reality satisfied of the requisite matters.</sentence>
+<sentence id="s748">If there are other indications that this is so or that the purpose of the function committed to the tribunal is misconceived it is but a short step to the conclusion that in truth the power has not arisen because the conditions for its exercise do not exist in law and in fact.</sentence>
+<sentence id="s749">" 
+182 In Palme 216 CLR at 223-224 [39], Gleeson CJ, Gummow and Heydon JJ referred to this principle.</sentence>
+<sentence id="s750">They distinguished it from a situation where a decision-maker did not give any reason for his or her decision, when the Court may be able to infer that he had no good reason (cf: per Gibbs CJ in Public Service Board (NSW) v Osmond [1986] HCA 7 ; (1986) 159 CLR 656 at 663-664).</sentence>
+<sentence id="s751">183 As McHugh and Gummow JJ identified in S20/2002 198 ALR at 76 [73] the principle in Melbourne Stevedoring 88 CLR at 120 does not depend upon unreasonableness but upon the absence of a factual basis in which the power could be exercised.</sentence>
+<sentence id="s752">For the reasons that I have given above, in reality, the Commission was not satisfied of the requisite matters upon which its power to make the final determination depended, namely, it acted on the misconception that the presence of a soft dial tone demonstrated the existence of an unconditioned communications wire or ULLS.</sentence>
+<sentence id="s753">This was because of its misunderstandings of the subject matter with which it purported to deal, that I have described.</sentence>
+<sentence id="s754">The Commission's determination was therefore unreasonable and an improper exercise of power.</sentence>
+<sentence id="s755">14.</sentence>
+<sentence id="s756">GROUND 8: WAS THE FINAL DETERMINATION INVALID BECAUSE IT INCLUDED PAR 10(E)?</sentence>
+<sentence id="s757">
+ 14.1 Did the Commission exceed its jurisdiction by including par 10(e)?</sentence>
+<sentence id="s758">
+ 
+184 During the course of oral argument, I raised the question of whether par 10(e) demonstrated that the Commission was acting under a misapprehension that a soft dial tone demonstrated the existence of a communications wire.</sentence>
+<sentence id="s759">Telstra then added a further ground to its application claiming that the Commission acted in excess of the power conferred upon it by s 152CP by including par 10(e).</sentence>
+<sentence id="s760">In essence, Telstra argued that the Commission was not authorised to impose on it a requirement to act where there was no declared service.</sentence>
+<sentence id="s761">Telstra argued that by its very terms, par 10(e) presupposes that there is no communications wire, that is an ULLS, but then proceeds to impose requirements on Telstra as if there were such a wire.</sentence>
+<sentence id="s762">It contended that the Commission had had no power under the Act to impose terms and conditions on Telstra, where there was no declared service (i.e.</sentence>
+<sentence id="s763">in the situation addressed by the commencing words of par 10(e) that there was no communications wire) since this was outside the scope of any reasonable construction of s 152CP.</sentence>
+<sentence id="s764">Telstra argued that the Commission had power to make a determination under s 152CP(1) "... on access by the access seeker ' to the declared service' " but that the Commission had exceeded its powers by making a written determination on access to something which, in the hypotheses addressed by par 10(e), was not a declared service (original emphasis).</sentence>
+<sentence id="s765">Telstra argued that the determination was therefore invalid or liable to be set aside on the grounds stated in sub-ss 5(1)(c) or (d) of the ADJR Act .</sentence>
+<sentence id="s766">185 Optus responded that the declared service in respect of ULLS involved the provision of a service over existing wires, rather than the installation of new communications wire to facilitate the provision of that service.</sentence>
+<sentence id="s767">It pointed to cl 8.6 of Code 569 as confirmatory of that position.</sentence>
+<sentence id="s768">It also accepted that the Commission's power under s 152CP(1) was limited to making a determination by the access seeker to the declared service.</sentence>
+<sentence id="s769">Optus, however, contended that the final determination was concerned only with access to the ULLS as declared under s 152AL(3) of the Act.</sentence>
+<sentence id="s770">It contended that there was nothing in par 10(e) or otherwise which required Telstra to install any new communications wire to facilitate any service request by Optus.</sentence>
+<sentence id="s771">All that par 10(e) required, Optus contended, was to require Telstra to follow the Vacant ULLS request procedure in Code 569 by rejecting the request following the standard service qualification process.</sentence>
+<sentence id="s772">186 Optus pointed out that Telstra's construction would render par 10(e) effectively useless because it proceeded upon a known unavailability of any communications wire, and the Commission could not be presumed to have so proceeded.</sentence>
+<sentence id="s773">Optus also argued that the requirement in par 10(e) that it should request ULLS in a particular way was a determination about an aspect of how Telstra had to provide Optus with access to the ULLS.</sentence>
+<sentence id="s774">Optus recognised that might be redundant, "... since its application will not result in successful request for provision of the ULLS, but it does not suffer the vice alleged by Telstra of being a determination about access to a different type of service" (original emphasis).</sentence>
+<sentence id="s775">187 Optus argued that the Commission should not be taken to have required the parties to engage in a pointless exercise of submitting a Vacant ULLS request in circumstances where it was already known that they should be rejected.</sentence>
+<sentence id="s776">It pointed to the necessity to construe the words of par 10(e) in a way that gave them a practical operation consistent with the intention of the Commission: Gill [1963] 1 WLR at 933-934 per Lord Reid.</sentence>
+<sentence id="s777">188 Optus argued that the Commission was concerned to specify a practical means of identifying and connecting a particular line to a customer's premises.</sentence>
+<sentence id="s778">It said that that par 10(e) read together with par 10(a) showed that the existence of a soft dial tone indicated an existing continuous connection on a particular line from the customer's apartment with an MDU to the exchange.</sentence>
+<sentence id="s779">It contended that the practical utility of this was to enable Telstra, when provided with the other information in par 10(a), to identify the particular line in place and allow for connecting (jumpering) Optus' equipment to occur at the exchange without the need for technicians to visit the apartment building to connect a different pair of copper wires to the customer's premises.</sentence>
+<sentence id="s780">Optus argued that par 10(e) applied to situations other than those in par 10(a), namely that there was no soft dial tone so that it was not possible to identify an existing continuous connection.</sentence>
+<sentence id="s781">189 While these submissions of Optus recognised the practical operation of the final determination, they pointed to the fact that it did not operate on an ULLS connection, but rather in respect of a presupposed situation where there either was an ULLS (par 10(a)) or there was no ULLS (par 10(e)).</sentence>
+<sentence id="s782">That was the very difficulty of which Telstra complained.</sentence>
+<sentence id="s783">The drafting of par 10 was inapt to specify terms and conditions for ordering and provisioning a communications wire or ULLS in a practical or intelligible fashion.</sentence>
+<sentence id="s784">The Commission's power was conferred to enable it to regulate a declared service, such as the ULLS, not to regulate something else.</sentence>
+<sentence id="s785">The Commission's powers under Part XIC of the Act to determine access to the declared service, being the ULLS, did not extend to determining matters where no ULLS existed as contemplated in par 10(e).</sentence>
+<sentence id="s786">I am of opinion that the Commission exceeded its jurisdiction by including par 10(e) in its final determination.</sentence>
+<sentence id="s787">14.2 Severability of par 10(e) 
+ 
+190 Finally, Optus argued that, if par 10(e) was invalid for any reason, it could be severed from the balance of the final determination in accordance with s 46 of the Acts Interpretation Act 1901 (Cth).</sentence>
+<sentence id="s788">191 I am of opinion that par 10(e) could be severed because the rest of the final determination would not operate differently without it: Bank of New South Wales v The Commonwealth [1948] HCA 7 ; (1948) 76 CLR 1 at 371 per Dixon J; Victoria v The Commonwealth (Industrial Relations Act Case) [1996] HCA 56 ; (1996) 187 CLR 416 at 502 per Brennan CJ, Toohey, Gaudron, McHugh and Gummow JJ.</sentence>
+<sentence id="s789">The relevance of par 10(e) is that it confirms the incorrect approach which the Commission took as to the significance of a soft dial tone in par 10(a).</sentence>
+<sentence id="s790">Severance of par 10(e) would not make the final determination any more meaningful or give it validity.</sentence>
+<sentence id="s791">15.</sentence>
+<sentence id="s792">CONCLUSION 
+ 
+192 For these reasons, I am of opinion that the final determination was invalid and should be quashed (see s 16(1)(a) of the ADJR Act) .</sentence>
+<sentence id="s793">I certify that the preceding one hundred and ninety-two (192) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Rares.</sentence>
+<sentence id="s794">Associate:
+
+Dated: 24 November 2008
+
+ Counsel for the Applicant: Dr J Griffiths SC, Dr M Allars 
+ 
+ Solicitor for the Applicant: Mallesons Stephen Jaques 
+ 
+ Counsel for the First Respondent: Mr J Hilton SC, Mr MH O'Bryan 
+ 
+ Solicitor for the First Respondent: Australian Government Solicitor 
+ 
+ Counsel for the Second Respondent: Mr A Robertson SC, Mr S Free 
+ 
+ Solicitor for the Second Respondent: Clayton Utz 
+
+ Date of Hearing: 18, 19 June 2008 and 25 July 2008 
+ 
+ Date of Judgment: 24 November 2008 
+
+ 
+
+ 
+ GLOSSARY 
+ 
+ ACIF Australian Communications Industry Forum
+ Communications Wire Defined by the Commission's declaration of the ULLS as "a copper based wire forming part of a [PSTN]".</sentence>
+<sentence id="s795">Defined by Code 569 as "a copper or aluminium based wire, forming part of a [PSTN].</sentence>
+<sentence id="s796">For the avoidance of doubt, Communications Wire generally means a copper or aluminium cable pair".</sentence>
+<sentence id="s797">(Nothing here turns on the Code referring to aluminium wire in addition to the copper wire used in the Commission's declaration of the ULLS.</sentence>
+<sentence id="s798">)
+ FNN Full National Number (meaning the telephone number of the customer)
+ In Use ULLS Defined by Code 569 as "a ULLS that is currently being used by a Party [i.e.</sentence>
+<sentence id="s799">industry participant] to supply services to a Customer".</sentence>
+<sentence id="s800">MDF Main Distribution Frame
+ MDU Multi-Dwelling Units
+ PSTN Public Switched Telephone Network
+ Defined by Commission's Declaration of the ULLS as "a telephone network accessible by the public providing switching and transmission facilities utilising analogue and digital technologies".</sentence>
+<sentence id="s801">TULL Transfer In Use Communications Wire
+ Service Number Defined by Code 569 as "the Customer's fixed network billing service number which is identifiable by full national number".</sentence>
+<sentence id="s802">ULLS Unconditioned Local Loop Service
+ 
+ Commission's Declaration of the ULLS under s 152AL(3) stated:
+ 
+ "The unconditioned local loop service is the use of use of unconditioned communications wire between the boundary of a telecommunications network at an end-user's premises and a point on a telecommunications network that is a potential point of interconnection located at or associated with a customer access module and located on the end-user side of the customer access module.</sentence>
+<sentence id="s803">"
+ ULLS Identifier Defined by Code 569 as "a unique number allocated by the [access provider] to an individual ULLS".</sentence>
+<sentence id="s804">ULLS Transfer Defined by Code 569 as "the successful transfer of a ULLS between the [losing access seeker] and the [gaining access seeker]".</sentence>
+<sentence id="s805">ULLS Transfer Request Defined by Code 569 as "a request from the [gaining access seeker] to the [access provider] to process a ULLS Transfer.</sentence>
+<sentence id="s806">ULLS Request Defined by Code 569 as "a specific request from the [access seeker which will gain the customer] to the [access provider] for a Vacant or In Use ULLS or ULLS Transfer Request.</sentence>
+<sentence id="s807">" ULLS Request Identification Number Defined by Code 569 as "a request from the [gaining access seeker] to the [losing access seeker] to determine what Service Number or Service Numbers are associated with an In Use ULLS.</sentence>
+<sentence id="s808">Vacant ULLS Defined by Code 569 as "a ULLS that is not an In Use ULLS".</sentence>
+<sentence id="s809">AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1758.html 
+ 
+ </sentence>
+</sentences>
+</case>

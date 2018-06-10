@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<case>
+<name>Hastie Group Limited v Commissioner of Taxation [2008] FCA 444 (7 April 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/444.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">principles to be applied where textual analysis permits alternative constructions</catchphrase>
+<catchphrase "id=c1">recourse to legislative purpose by reference to context and legitimate extrinsic material</catchphrase>
+<catchphrase "id=c2">statutory interpretation</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 This is an appeal by the applicants under s 14ZZ of the Taxation Administration Act 1953 (Cth) against the decision of the respondent ('the Commissioner') to disallow the applicants' objection against a private ruling made by the Commissioner under Division 359 of Schedule 1 of that Act in respect of the years of income ended 30 June 2004 and 30 June 2005.</sentence>
+<sentence id="s1">2 It is not unusual for there to be a significant lag between the date from which major changes to Australia's taxation system are legislatively introduced and the time that such changes are first considered by the Courts.</sentence>
+<sentence id="s2">For example, it was not until 1992 that this Court had the opportunity to consider the provisions of Part IVA introduced into the Income Tax Assessment Act 1936 (Cth) ('the ITAA 36') some 11 years earlier and their application to an impugned scheme: Peabody v Federal Commissioner of Taxation [1992] HCA 62 ; 92 ATC 4 ,585.</sentence>
+<sentence id="s3">The changes involved in this case are no exception.</sentence>
+<sentence id="s4">In 1987, Australia introduced an imputation system (Pt IIIAA of the ITAA 36) for the taxation of companies and their shareholders in replacement of the classical system which had hitherto existed.</sentence>
+<sentence id="s5">Subsequent changes were made to the provisions of Pt IIIAA of the ITAA 36 prior to their embodiment in Pt 3 - 6 of the Income Tax Assessment Act 1997 (Cth) ('the ITAA 97'), however I am not aware of any judicial consideration of these provisions as originally enacted or as changed.</sentence>
+<sentence id="s6">One of these changes was the insertion of Div 2A (and 1AA) by Act No 93 of 1999.</sentence>
+<sentence id="s7">Relevantly, and in short, this change introduced, effective 13 May 1997, measures designed to curb the unintended usage of franking credits through franking credit trading schemes by, inter alia, quarantining the franking surpluses of companies on their ceasing to be effectively owned by non-residents.</sentence>
+<sentence id="s8">This was done through various concepts, including the concept of an exempting company (s 160APHBA) --- a company effectively owned (not less than 95%) by prescribed persons (non-residents) (ss 160APHBB and 160APHBF); and the concept of a former exempting company - a company that had ceased to be an exempting company and is not again an exempting company (subs 160APHBE(1)).</sentence>
+<sentence id="s9">3 Effective 1 July 2002, Australia introduced a consolidation regime to allow a wholly owned group of resident entities to consolidate their tax position rather than be treated as separate entities.</sentence>
+<sentence id="s10">The consolidation regime is principally contained in Pt 3 - 90 of the ITAA 97, comprising Divs 700 to 721.</sentence>
+<sentence id="s11">The only judicial consideration of these provisions of which I am aware is the very recent decision of Mansfield J in Envestra Limited (ACN 078 551 685) v Commissioner of Taxation [2008] FCA 249 (unreported) on 7 March 2008 that concerned a discrete aspect of the tax cost setting rules and has no connection with the issues in the present case.</sentence>
+<sentence id="s12">By the time of the introduction of the consolidation regime, the measures quarantining the franking surpluses of a corporate tax entity on it ceasing to be an exempting entity and becoming a former exempting entity were embodied in Div 208 of Pt 3 - 6 of the ITAA 97.</sentence>
+<sentence id="s13">Subdivision 709-B of Pt 3 - 90 of the ITAA 97 modifies the operation of Div 208 in relation to consolidated groups in a number of different ways, depending on the status of the head company and its subsidiary member at the joining time.</sentence>
+<sentence id="s14">4 This case involves a consideration of the provisions of Div 208 of Pt 3 - 6 as modified by the provisions of Subdiv 709-B of Pt 3 - 90 of the ITAA 97.</sentence>
+<sentence id="s15">Although this interaction has been the subject of academic and other writings, for example, see Stephen Barkoczy, "Consolidation and Imputation" (2003) 6(1) Journal of Australian Taxation 78, it certainly has not been the subject of any judicial consideration before now.</sentence>
+<sentence id="s16">THE SCHEME - THE SUBJECT OF THE RULING 
+ 
+5 I do not propose to set out the description of the 'scheme' as it appears in the notice of private ruling; merely the salient features necessary for an understanding of the dispute between the applicants and the Commissioner, and its resolution.</sentence>
+<sentence id="s17">6 On 10 April 1979, Austral Refrigeration Pty Limited ('Austral Refrigeration') was incorporated in NSW.</sentence>
+<sentence id="s18">From this time to 20 May 2002, it was effectively owned (not less than 95%) by non-residents.</sentence>
+<sentence id="s19">7 From 13 May 1997 to 20 May 2002, Austral Refrigeration was taken to be an exempting company by virtue of s 160APHBA of the ITAA 36 by the enactment on 16 July 1999 of the Taxation Laws Amendment Act (No 2) 1999 (Cth) (Act No 93 of 1999).</sentence>
+<sentence id="s20">8 On 24 April 2002, Austral Refrigeration Holdings Pty Limited ('Austral Holdings') was incorporated.</sentence>
+<sentence id="s21">It was not effectively owned by non-residents and was therefore not taken to be an exempting company by virtue of s 160 APHBA.</sentence>
+<sentence id="s22">9 On 21 May 2002, Austral Holdings acquired all the issued shares of Austral Refrigeration.</sentence>
+<sentence id="s23">It is not in dispute that as a result of this event, Austral Refrigeration ceased to be an exempting company (s 160APHBA) and became a former exempting company (subs 160APHBE(1) of the ITAA 36).</sentence>
+<sentence id="s24">In consequence, the franking credits of Austral Refrigeration (and its subsidiaries) were quarantined by being converted to exempting credits.</sentence>
+<sentence id="s25">10 On 1 July 2002, Pt IIIAA of the ITAA 36 ceased to apply.</sentence>
+<sentence id="s26">The consolidation regime (Pt 3 -9, including Subdiv 709-B, of the ITAA 97) and new franking regime (Pt 3 -6, including Div 208, of the ITAA 97) commenced application.</sentence>
+<sentence id="s27">In consequence, the franking and exempting account balances of Austral Holdings (and its wholly owned subsidiaries) as at 1 July 2002 were converted from an 'adjusted amount' basis to a 'tax-paid' basis pursuant to ss 205-10 and 208-111 of the Income Tax (Transitional Provisions) Act 1997 (Cth).</sentence>
+<sentence id="s28">11 On 1 November 2002, Austral Holdings and its wholly-owned subsidiaries, including Austral Refrigeration, elected to form a tax consolidated group effective that day, with Austral Holdings as the head company.</sentence>
+<sentence id="s29">The franking surplus and the exempting surplus of each joining company, including Austral Refrigeration, was transferred to Austral Holdings as head company: subss 709-60(2), 709-165(1) and the rule in item 3 of subs 709-165(2) of the ITAA 97.</sentence>
+<sentence id="s30">Austral Holdings as head company became a former exempting entity at the joining time: the rule in item 1 of subs 709-165(2).</sentence>
+<sentence id="s31">12 On 9 July 2003, Austral Holdings became effectively owned by non-residents.</sentence>
+<sentence id="s32">In consequence, it became an exempting entity under s 208-20 of the ITAA 97, and the Austral Holdings tax consolidated group's exempting surplus converted to a franking surplus under item 10 of s 208-130 of the ITAA 97.</sentence>
+<sentence id="s33">13 On 6 February 2004, Hastie Holdings Pty Ltd ('Hastie Holdings'), the head company of a consolidated group and not effectively owned by non-residents, acquired all the issued shares of Austral Holdings.</sentence>
+<sentence id="s34">It is not in dispute that as a result of this event, the Austral Holdings consolidated group ceased to exist and Austral Holdings and its subsidiaries became members of the Hastie Holdings consolidated group.</sentence>
+<sentence id="s35">Austral Holdings ceased to be an exempting entity and the central issue in dispute is whether it became a former exempting entity under s 208-50 of the ITAA 97 .</sentence>
+<sentence id="s36">14 Hastie Group Limited ('Hastie Group') is an Australian incorporated company.</sentence>
+<sentence id="s37">It was incorporated on 4 February 2005.</sentence>
+<sentence id="s38">At all times from incorporation to the present time, it has not been effectively owned by non-residents.</sentence>
+<sentence id="s39">Its shares were listed on the Australian Stock Exchange on 29 March 2005.</sentence>
+<sentence id="s40">On 1 April 2005, Hastie Group acquired Hastie Holdings and its subsidiaries.</sentence>
+<sentence id="s41">Hastie Group and its wholly-owned Australian resident subsidiaries elected to form a tax consolidated group from 1 April 2005.</sentence>
+<sentence id="s42">THE RULING 
+ 
+15 The questions on which the applicants sought a ruling and the Commissioner's responses were as follows:
+ 
+1.</sentence>
+<sentence id="s43">Did subs 208-50(2) of ITAA 97 operate to exclude Austral Holdings as a former exempting entity (as defined in s 208-50 of the ITAA 1997) at the time of the acquisition by Hastie Holdings of 100% of the issued share capital of Austral Holdings on 6 February 2004?</sentence>
+<sentence id="s44">Ruling: No.</sentence>
+<sentence id="s45">2.</sentence>
+<sentence id="s46">Did s 709-60 of the ITAA 97 operate to transfer Austral Holdings franking balance of $8,599,669 (stated on a tax-paid basis at 30%) as franking credits to the franking account of Hastie Holdings (as head company) when Austral Holdings became a member of the Hastie Holdings tax consolidated group on 6 February 2004?</sentence>
+<sentence id="s47">Ruling: No.</sentence>
+<sentence id="s48">16 It is common ground that the answer (viz, yes or no) to the second question is the same as that to the first.</sentence>
+<sentence id="s49">RELEVANT STATUTORY PROVISIONS 
+ Division 208 of Part 3 - 6 of the ITAA 97: The Imputation System --- Exempting entities and former exempting entities 
+ 
+17 The key provisions of this Division are ss 208-20, 208-50 and 208-115, item 1 para (b).</sentence>
+<sentence id="s50">18 Section 208-20 provides as follows:
+ 
+ 'A corporate tax entity is an exempting entity at a particular time if, at that time, the entity is effectively owned by prescribed persons'.</sentence>
+<sentence id="s51">
+
+19 Section 208-50 provides as follows:
+ 
+ 
+ '(1) Subject to subsection (2) a *corporate tax entity is a former exempting entity if it has, at any time, ceased to be an *exempting entity and is not again an exempting entity.</sentence>
+<sentence id="s52">
+ 
+ 
+ 
+ 
+ 
+ (2) If an entity that, at any time, becomes effectively owned by prescribed persons ceases to be so effectively owned within 12 months after that time, the entity is not taken, by so ceasing, to become a former exempting entity.</sentence>
+<sentence id="s53">'
+ 
+ 
+
+20 Section 208-115 provides relevantly as follows:
+ 
+ 'The following table sets out when a credit arises in the *exempting account of a *former exempting entity.</sentence>
+<sentence id="s54">A credit in the former exempting entity's account is called an exempting credit .</sentence>
+<sentence id="s55">
+ 
+ Exempting Credits 
+ 
+ Item 
+ 
+ If: 
+ 
+ A credit of: 
+ 
+ Arises: 
+ 
+ 
+ 1 
+ 
+ 
+ The entity had a *franking surplus at the time it became a *former exempting entity (at the time of its transition ) 
+ 
+ 
+ An amount equal to:
+ 
+ (a) in a case not covered by paragraph (b) the franking surplus; or
+ (b) if the entity has been a former exempting entity at any time within a period of 12 months before its transition - so much of the franking surplus as would have been the entity's *exempting surplus had it remained a former exempting entity throughout the period' 
+ 
+ 
+ Immediately after its transition 
+ 
+ 
+ 
+
+21 Paragraph (b) of s 208-115, item 1 deals expressly with the situation where a former exempting entity reverts to its status as an exempting entity for a period of less than 12 months, and proceeds on the basis that it will become a former exempting entity again when that period of less than 12 months is over.</sentence>
+<sentence id="s56">Subdivision 709-B of Part 3 - 90 of the ITAA 97: Consolidated Groups --- Other rules applying when entities become subsidiary members etc - Imputation Issues 
+ 
+22 The key provisions of this Subdivision are ss 709-155 and 709-165.</sentence>
+<sentence id="s57">23 Section 709-155 provides:
+ 
+ '(1) To determine whether a *consolidated group is an *exempting entity or *former exempting entity, the tests in Division 208 are applied to the *head company of the group.</sentence>
+<sentence id="s58">
+ 
+ 
+ 
+ 
+ 
+ (2) However, there are some additional rules that can alter the way that Division 208 applies to a *consolidated group.</sentence>
+<sentence id="s59">These are set out in sections 709-160 to 709-175.</sentence>
+<sentence id="s60">(3) In applying those rules to an entity that is a *member of a *consolidated group:
+ 
+ (a) Division 208 is to be applied before those rules; and
+ 
+ (b) that Division is to be applied just after the entity became a member of the group but, for a *subsidiary member, it is to be applied on the assumption that the subsidiary was not a member of the group at that time.</sentence>
+<sentence id="s61">(4) Except as mentioned in paragraph (3)(b), Division 208 has no application to a *subsidiary member of a *consolidated group.</sentence>
+<sentence id="s62">'
+ 
+
+24 Section 709-165 provides relevantly as follows:
+ 
+ '(1) This section operates if:
+ 
+ 
+ 
+ 
+ (a) the *head company of a *consolidated group is neither an exempting entity nor a *former exempting entity; and
+ 
+ (b) a *corporate tax entity becomes a *subsidiary member of the group at a time (also the joining time ); and 
+ 
+ 
+ 
+ 
+ (c) the entity is a *former exempting entity at the joining time.</sentence>
+<sentence id="s63">
+ 
+ 
+ (2) These rules apply to the *consolidated group.</sentence>
+<sentence id="s64">
+ 
+ 
+ 
+ 
+ 
+ Rules applying to *consolidated group 
+ 
+ Item 
+ 
+ Rule: 
+ 
+ 
+ 
+ 
+ 1 
+ 
+ 
+ The *head company becomes a *former exempting entity at the joining time' 
+ 
+ 
+ 
+ THE APPLICANTS' ARGUMENT 
+ 
+25 Putting to one side for the moment the tax consolidation provisions of Subdiv 709-B of Pt 3 - 9 of the ITAA 97, the applicants' argument as to why s 208-50(2) did operate to exclude (I prefer and shall hereinafter use the word 'preclude') Austral Holdings becoming a former exempting entity at the time of the acquisition by Hastie Holdings of 100% of the issued share capital of Austral Holdings on 6 February 2004 may be summarised as follows:
+ 
+ 
+ (1) At no time prior to 9 July 2003 was Austral Holdings an exempting entity as defined in s 208-20.</sentence>
+<sentence id="s65">At all times prior to that date, it was sufficiently owned by Australian residents that it was not 'effectively owned by prescribed persons' (foreign residents: s 208-40), and thus not an exempting entity under s 208-20.</sentence>
+<sentence id="s66">
+ 
+ 
+ 
+ 
+ 
+ (2) Under s 208-50 a corporate tax entity is a former exempting entity only if it has 'ceased to be an exempting entity and is not, again an exempting entity' and then only 'subject to subsection (2)' (subs (1)).</sentence>
+<sentence id="s67">If subs (2) has become applicable, the entity is not a former exempting entity .</sentence>
+<sentence id="s68">
+ 
+ 
+ 
+ 
+ 
+ (3) In the present case, the date on which, relevant to the present ruling, Austral Holdings 'ceased to be an exempting entity ' is 6 February 2004.</sentence>
+<sentence id="s69">But for subs 208-50(2), Austral Holdings would on that date have become a former exempting entity , but subs (2) precludes that outcome: 6 February 2004 is 'within 12 months after' 9 July 2003, the date on which Austral Holdings first became an exempting entity .</sentence>
+<sentence id="s70">
+ 
+ 
+ 
+ 
+ 
+ (4) It follows that Austral Holdings is not a former exempting entity as defined in Div 208.</sentence>
+<sentence id="s71">
+ 
+
+26 However, there are some additional rules that can alter the way that Div 208 applies to a consolidated group.</sentence>
+<sentence id="s72">These are set out in ss 709-160 to 709-175: subs 709-155(2).</sentence>
+<sentence id="s73">In applying these rules to an entity that is a member of a tax consolidated group, Div 208 is to be applied before these rules and Div 208 is to be applied just after the entity became a member of the group, but on the assumption that the subsidiary member was not a member of the group at that time: subs 709-155(3).</sentence>
+<sentence id="s74">27 The applicants accept that where Austral Holdings and its wholly owned subsidiaries, including Austral Refrigeration, elected to form a tax consolidated group on 1 November 2002, Austral Holdings became a former exempting entity by force of the rule in item 1 of subs 709-165(2), but only as the head company of the Austral Holdings consolidated group; according to the applicants, Austral Holdings did not, at that time, become a former exempting entity for any other purpose because until 9 July 2003, it had never been an exempting entity and therefore could never have ceased to be an exempting entity : see subs 208-50(1).</sentence>
+<sentence id="s75">Therefore, when it ceased to be an exempting entity on 6 February 2004 after having become a exempting entity for the first time on 9 July 2003, subs 208-50(2) precluded it from becoming a former exempting entity : see [25(3)] above.</sentence>
+<sentence id="s76">THE COMMISSIONER'S ARGUMENT 
+ 
+28 In summary, the Commissioner submitted that Austral Holdings did (again) become a former exempting entity on 6 February 2004 because:
+ 
+ 
+ (1) It had previously become a former exempting entity on 1 November 2002 when it elected to form a tax consolidated group, by force of the rule in item 1 of subs 709-165(2); its status as such was not limited to its position as head company of the Austral Holdings consolidated group; it became a former exempting entity at that time for all purposes, for the reasons expounded below.</sentence>
+<sentence id="s77">(2) The operation of the rule in item 1 of subs 709-165(2), that Austral Holdings became a former exempting entity on 1 November 2002 necessarily involves, having regard to the terms of subs 208-50(1), acceptance that Austral Holdings is an entity which has at a prior time ceased to be an exempting entity and is not at the joining time an exempting entity .</sentence>
+<sentence id="s78">(3) On 6 February 2004, when Austral Holdings ceased to be an exempting entity , it then satisfied the requirements for an entity to be a former exempting entity under subs 208-50(1), not because it had ceased to be an exempting entity on 6 February 2004 (which is ignored for the purpose by reason of subs 208-50(2)), but because it had ceased to be an exempting entity at a prior time due to the earlier operation of the rule in item 1 of subs 709-165(2), as described in (2) above.</sentence>
+<sentence id="s79">
+ 
+
+29 The Commissioner submitted that this approach is entirely consistent both with the words used in the relevant provisions and with the legislative scheme of Div 208 and Subdiv 709-B, whereas the applicants' approach is not.</sentence>
+<sentence id="s80">ANALYSIS 
+ Relevant Principles of Statutory Interpretation 
+ 
+30 On a purely textual analysis of the relevant provisions, I am of the view that either argument is reasonably tenable, although I have a marginal preference for the applicants' argument.</sentence>
+<sentence id="s81">On the other hand, having regard to the principles of construction more recently enunciated by the High Court of Australia ( CIC Insurance Limited v Bankstown Football Club Limited [1997] HCA 10 ; (1997) 187 CLR 297) , followed by Full Courts of this Court ( HP Mercantile Pty Limited v Commissioner of Taxation [2005] FCAFC 126 ; (2005) 143 FCR 553) , not only with respect to taxation statutes but statutes generally, it would be inappropriate to confine oneself to a purely textual analysis.</sentence>
+<sentence id="s82">This is not to say that recourse may not be made to a textual analysis where there is a lack of guidance as to legislative policy from legitimate sources or where that policy as identified is incapable of manifestation through the text of the statute: Cf.</sentence>
+<sentence id="s83">Reliance Carpet Co Pty Ltd v Commissioner of Taxation (2007) 160 FCR 449.</sentence>
+<sentence id="s84">But that is not this case.</sentence>
+<sentence id="s85">31 In CIC Insurance Ltd v Bankstown Football Club Ltd [1997] HCA 2 ; (1995) 187 CLR 384 , Brennan CJ, Dawson, Toohey and Gummow JJ, with whom Gaudron J agreed on this point, said at 408:
+ 
+ 'It is well settled that at common law, apart from any reliance upon s 15AB of the Acts Interpretation Act 1901 (Cth), the court may have regard to reports of law reform bodies to ascertain the mischief which a statute is intended to cure.</sentence>
+<sentence id="s86">Moreover, the modern approach to statutory interpretation (a) insists that the context be considered in the first instance, not merely at some later stage when ambiguity might be thought to arise, and (b) uses "context" in its widest sense to include such things as the existing state of the law and the mischief which, by legitimate means such as those just mentioned, one may discern the statute was intended to remedy.</sentence>
+<sentence id="s87">Instances of general words in a statute being so constrained by their context are numerous.</sentence>
+<sentence id="s88">In particular, as McHugh JA pointed out in Isherwood v Butler Pollnow Pty Ltd , if the apparently plain words of a provision are read in the light of the mischief which the statute was designed to overcome and of the objects of the legislation, they may wear a very different appearance.</sentence>
+<sentence id="s89">Further, inconvenience or improbability of result may assist the court in preferring to the literal meaning an alternative construction which, by the steps identified above, is reasonably open and more closely conforms to the legislative intent.</sentence>
+<sentence id="s90">' 
+
+32 In HP Mercantile Pty Ltd v Commissioner of Taxation [2005] FCAFC 126 ; (2005) 143 FCR 553 Hill J, with whom Stone J and Allsop J agreed, said at [44]:
+ 
+ 'It is clear, both having regard to the modern principles of interpretation as enunciated by the High Court in cases such as CIC Insurance Ltd v Bankstown Football Club Ltd [1997] HCA 2 ; (1997) 187 CLR 384 and s 15AA of the Acts Interpretation Act 1901 (Cth) that the Court will prefer an interpretation of a statute which would give effect to the legislative purpose, as opposed to one that would not.</sentence>
+<sentence id="s91">This requires the Court to identify that purpose, both by reference to the language of the statute itself and also any extrinsic material which the Court is authorised to take into account.</sentence>
+<sentence id="s92">' 
+ 
+ Division 2A of Part IIIAA of ITAA 36 --- The Legislative Scheme 
+ 
+33 There can be no doubt that the legislative scheme of Div 2A of Pt IIIAA of the ITAA 36 was that franking credits accumulated during a period of substantial ownership by non-residents should never be available as franking credits to resident shareholders (unless the period of ownership by non-residents was less than 12 months).</sentence>
+<sentence id="s93">34 It is equally clear that this legislative scheme, untrammelled by the overlay of the consolidation regime, contemplated that where a company became an exempting company for less than 12 months, that period was ignored in determining its status when it ceased to be an exempting company .</sentence>
+<sentence id="s94">In other words, if it was a former exempting company prior to becoming an exempting company , it again became a former exempting company ; if it was a company of no status, it again became a company of no status: see s 160APHBE, subss 160AQCNI(3), (4), (5) and 160AQCNG(1).</sentence>
+<sentence id="s95">Division 208 of Part 3 - 6 of ITAA 97 --- The Legislative Scheme 
+ 
+35 With effect from 1 July 2002, the provisions of Div 2A of Pt IIIAA of ITAA 36 ceased to operate, and Div 208 of Pt 3 - 6 of ITAA 97 commenced operation.</sentence>
+<sentence id="s96">The relevant extrinsic material does not indicate that there was any intended change in the basic operation of the legislative scheme.</sentence>
+<sentence id="s97">36 As indicated in [17] above, the key provisions of the legislative scheme in Div 208 for present purposes are ss 208- 20 (which replaced former s 160APHBA), 208-50 (which replaced former s 160APHE) and 208-115, item 1, para (b) (which replaced former subss 160ACQNI(3) and (4)).</sentence>
+<sentence id="s98">37 The provisions dealing with the application of Div 208 to a consolidated group are found in Subdiv 709-B.</sentence>
+<sentence id="s99">It is apparent from the Explanatory Memorandum to the New Business Tax System (Consolidation and Other Measures) Bill (No 2) 2002, which preceded the Act which introduced Subdiv 709-B into the ITAA 97, that Subdiv 709-B was intended to apply the exempting entity provisions in Div 208 to a consolidated group in a manner consistent with two principles: first, that the consolidated group would operate its franking account at the head entity level; and second, that the franking surplus accumulated by corporate tax entities during a period of effective ownership by non-residents should be quarantined.</sentence>
+<sentence id="s100">38 Where the head company was a no status entity (neither an exempting entity nor a former exempting entity ) at the time a subsidiary member, which was either an exempting entity or a former exempting entity, became a member of the group, this was intended to be achieved by the head company taking over the status of that subsidiary member.</sentence>
+<sentence id="s101">The relevant provisions are s 709-160 where the subsidiary member was an exempting entity, and s 709-165 where the subsidiary member was a former exempting entity .</sentence>
+<sentence id="s102">In each of those situations, the relevant provision provides for the head company to become an exempting entity or a former exempting entity , as appropriate at the joining time.</sentence>
+<sentence id="s103">39 It is instructive to consider how the legislative scheme would operate in respect of alternative factual scenarios:
+ 
+1.</sentence>
+<sentence id="s104">If Austral Holdings had not become effectively owned by non-residents on 9 July 2003, that is it remained a former exempting entity until 6 February 2004 when it was taken over by Hastie Holdings, then at 6 February 2004 the exempting surplus of Austral Holdings would have become an exempting surplus of Hastie Holdings, so that the restrictions imposed by the legislative scheme would have continued to operate with respect to those exempting credits; or
+ 
+2.</sentence>
+<sentence id="s105">Alternatively, if Austral Holdings became effectively owned by non-residents on 9 July 2003 but the period of such ownership had continued for more than 12 months before Austral Holdings was taken over by Hastie Holdings, again, the present issue would not have arisen, and the franking credits of Austral Holdings would have become exempting credits of Hastie Holdings at the time when Austral Holdings was taken over.</sentence>
+<sentence id="s106">40 The applicants' case is based upon the proposition that a significantly different result now obtains, such that the exempting credits of Austral Holdings are liberated from the restrictions of the legislative scheme under Div 208, as a consequence of one factual event, combined with a suggested interpretation of subs 208-50(2).</sentence>
+<sentence id="s107">The crucial factual event is that Austral Holdings was an exempting company (from 9 July 2003 to 6 February 2004) for a period of less than 12 months.</sentence>
+<sentence id="s108">The applicants' case comes down to the proposition that the fact that this period of effective ownership by non-residents was less than 12 months extinguishes the operation of the legislative scheme in relation to the exempting credits of Austral Holdings.</sentence>
+<sentence id="s109">41 There does not seem to me to be any rational reason, nor any support in the explanatory memoranda, for the proposition that a period of effective ownership by non-residents lasting for less than 12 months should operate to free quarantined franking credits (arising from a prior period of several years of effective ownership by non-residents) from the restrictions of the legislative scheme under Div 208.</sentence>
+<sentence id="s110">42 The legislative scheme does offer a limited exit door, but it is not available to Austral Holdings as at 6 February 2004.</sentence>
+<sentence id="s111">Under subs 208-50(2), an entity which has been effectively owned by non-residents for less than 12 months may, on ceasing to be so owned, exit the statutory scheme of Div 208.</sentence>
+<sentence id="s112">However, that concession is not intended to allow entities which have been subject to the statutory scheme for seven years (like the Austral entities) to exit the scheme.</sentence>
+<sentence id="s113">The applicants' argument seeks to distort that operation.</sentence>
+<sentence id="s114">43 For the foregoing reasons, I am of the view that when Austral Holdings was taken over by Hastie Holdings on 6 February 2004, it became (again) a former exempting entity by reason of the provisions of subs 208-50(1); subs 208-50(2) did not preclude this.</sentence>
+<sentence id="s115">On the contrary, it facilitated that status by requiring its less than 12 month transitory status as an exempting entity to be ignored.</sentence>
+<sentence id="s116">Of course, it would have been otherwise had Austral Holdings been a no status entity prior to it becoming an exempting entity on 9 July 2003.</sentence>
+<sentence id="s117">In that situation, when it ceased to be an exempting entity on 6 February 2004, it would have reverted to a no status entity by reason of the provisions of subs 208-50(2).</sentence>
+<sentence id="s118">44 The applicants' appeal must be dismissed with costs.</sentence>
+<sentence id="s119">I certify that the preceding forty-four (44) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Edmonds.</sentence>
+<sentence id="s120">Associate:
+
+Dated: 7 April 2008 
+
+
+ Counsel for the Applicant: AH Slater QC and M L Robertson 
+ 
+ Solicitor for the Applicant: KPMG Tax Lawyers 
+ 
+ Counsel for the Respondent: BJ Sullivan SC and M Richmond 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ Date of Hearing: 17 March 2008 
+ 
+ Date of Judgment: 7 April 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/444.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<case>
+<name>SZJBA v Minister for Immigration and Citizenship (Corrigendum 19 October 2007) [2007] FCA 1592 (16 October 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1592.html</AustLII>
+<citphrases>
+<citphrase id="cp0.0" type=cited from="[2007] FCA 1318">migration law</citphrase>
+<citphrase id="cp0.1" type=cited from="[2007] FCA 1318">appeal from decision of federal magistrate</citphrase>
+<citphrase id="cp0.2" type=cited from="[2007] FCA 1318">whether any appealable error</citphrase>
+<citphrase id="cp0.3" type=cited from="[2007] FCA 1318">whether migration review tribunal complied with its obligations under s 360 of the migration act 1958 (cth)</citphrase>
+<citphrase id="cp0.4" type=cited from="[2007] FCA 1318">burden of proof on judicial review</citphrase>
+<citphrase id="cp0.5" type=cited from="[2007] FCA 1318">whether negligence of migration agent established</citphrase>
+<citphrase id="cp0.6" type=cited from="[2007] FCA 1318">relevance of s 361 of the migration act 1958 (cth)</citphrase>
+<citphrase id="cp0.7" type=cited from="[2007] FCA 1318">effect of mistranslation of sponsor's statement to interviewing officer where interviewing officer also the delegate</citphrase>
+<citphrase id="cp0.8" type=cited from="[2007] FCA 1318">whether supposed admissions made</citphrase>
+<citphrase id="cp0.9" type=cited from="[2007] FCA 1318">whether perception of interviewing officer/delegate seriously mistaken on account of mistranslation</citphrase>
+<citphrase id="cp0.10" type=cited from="[2007] FCA 1318">tribunal relied on account of interviewing officer/delegate</citphrase>
+<citphrase id="cp0.11" type=cited from="[2007] FCA 1318">whether the tribunal acted unreasonably in failing to make enquiries of interviewing officer/delegate</citphrase>
+<citphrase id="cp0.12" type=cited from="[2007] FCA 1318">exceptional case</citphrase>
+<citphrase id="cp0.13" type=cited from="[2007] FCA 1318">finding of jurisdictional error upheld</citphrase>
+<citphrase id="cp1.0" type=cited from="[2007] HCA 35">szfde v minister for immigration and citizenship  immigration</citphrase>
+<citphrase id="cp1.1" type=cited from="[2007] HCA 35">refugees</citphrase>
+<citphrase id="cp1.2" type=cited from="[2007] HCA 35">the refugee review tribunal ("the tribunal") affirmed a decision refusing the appellants' application for protection visas</citphrase>
+<citphrase id="cp1.3" type=cited from="[2007] HCA 35">the appellants did not attend the tribunal hearing as a result of fraudulent advice given by a purported registered migration agent</citphrase>
+<citphrase id="cp1.4" type=cited from="[2007] HCA 35">whether there was fraud "by" or "on" the tribunal.  immigration</citphrase>
+<citphrase id="cp1.5" type=cited from="[2007] HCA 35">refugee review tribunal</citphrase>
+<citphrase id="cp1.6" type=cited from="[2007] HCA 35">inquisitorial process</citphrase>
+<citphrase id="cp1.7" type=cited from="[2007] HCA 35">distinction between tribunal process and inter partes litigation</citphrase>
+<citphrase id="cp1.8" type=cited from="[2007] HCA 35">whether fraud practised by an agent upon the applicants for a protection visa subverted the operation of div 4 of pt 7 of the migration act 1958 (cth)</citphrase>
+<citphrase id="cp1.9" type=cited from="[2007] HCA 35">whether this fraud led to the jurisdiction of the tribunal remaining constructively unexercised.  administrative law</citphrase>
+<citphrase id="cp1.10" type=cited from="[2007] HCA 35">constitutional writs</citphrase>
+<citphrase id="cp1.11" type=cited from="[2007] HCA 35">mandamus and certiorari</citphrase>
+<citphrase id="cp1.12" type=cited from="[2007] HCA 35">availability of constitutional writs in cases of fraud.</citphrase>
+<citphrase id="cp2.0" type=cited from="[2006] HCA 63">szbel v minister for immigration and multicultural and indigenous affairs  immigration</citphrase>
+<citphrase id="cp2.1" type=cited from="[2006] HCA 63">refugees</citphrase>
+<citphrase id="cp2.2" type=cited from="[2006] HCA 63">protection visa decision</citphrase>
+<citphrase id="cp2.3" type=cited from="[2006] HCA 63">procedural fairness</citphrase>
+<citphrase id="cp2.4" type=cited from="[2006] HCA 63">appellant claimed he feared persecution on basis of his conversion to christianity if returned to iran</citphrase>
+<citphrase id="cp2.5" type=cited from="[2006] HCA 63">delegate of the first respondent refused to grant appellant protection visa because not satisfied of the genuineness of appellant's conversion to christianity</citphrase>
+<citphrase id="cp2.6" type=cited from="[2006] HCA 63">review by refugee review tribunal</citphrase>
+<citphrase id="cp2.7" type=cited from="[2006] HCA 63">appellant invited by tribunal to give evidence relating to the issues arising in relation to the decision under review</citphrase>
+<citphrase id="cp2.8" type=cited from="[2006] HCA 63">appellant gave evidence addressed to the delegate's concern regarding the genuineness of his conversion to christianity</citphrase>
+<citphrase id="cp2.9" type=cited from="[2006] HCA 63">tribunal affirmed the delegate's decision not to grant a protection visa on the basis that appellant's claims were not credible</citphrase>
+<citphrase id="cp2.10" type=cited from="[2006] HCA 63">whether tribunal failed to notify the appellant adequately of the issues to which its reasoning processes were directed</citphrase>
+<citphrase id="cp2.11" type=cited from="[2006] HCA 63">whether failure of tribunal to ask the appellant to address issues that it considered might be important amounted to a denial of procedural fairness.</citphrase>
+<citphrase id="cp3.0" type=cited from="[2006] HCA 49">szayw v minister for immigration and multicultural and indigenous affairs  immigration</citphrase>
+<citphrase id="cp3.1" type=cited from="[2006] HCA 49">refugees</citphrase>
+<citphrase id="cp3.2" type=cited from="[2006] HCA 49">protection visa decision</citphrase>
+<citphrase id="cp3.3" type=cited from="[2006] HCA 49">review by refugee review tribunal</citphrase>
+<citphrase id="cp3.4" type=cited from="[2006] HCA 49">hearing of an application for review by the tribunal to be "in private"</citphrase>
+<citphrase id="cp3.5" type=cited from="[2006] HCA 49">appellant making common cause with other visa applicants</citphrase>
+<citphrase id="cp3.6" type=cited from="[2006] HCA 49">application for review conducted with other applicants present</citphrase>
+<citphrase id="cp3.7" type=cited from="[2006] HCA 49">whether hearing of application conducted "in private".</citphrase>
+<citphrase id="cp4.0" type=cited from="[2005] HCA 77">nais v minister for immigration and multicultural and indigenous affairs  immigration</citphrase>
+<citphrase id="cp4.1" type=cited from="[2005] HCA 77">refugee review tribunal</citphrase>
+<citphrase id="cp4.2" type=cited from="[2005] HCA 77">substantial delay between first tribunal hearing and tribunal decision</citphrase>
+<citphrase id="cp4.3" type=cited from="[2005] HCA 77">whether delay resulted in real and substantial risk of prejudice to appellants</citphrase>
+<citphrase id="cp4.4" type=cited from="[2005] HCA 77">whether prejudice to appellants can be inferred</citphrase>
+<citphrase id="cp4.5" type=cited from="[2005] HCA 77">whether delay by administrative tribunal constitutes denial of procedural fairness or failure to conduct review as required by law</citphrase>
+<citphrase id="cp4.6" type=cited from="[2005] HCA 77">whether decision of administrative tribunal may be set aside following substantial delay</citphrase>
+<citphrase id="cp4.7" type=cited from="[2005] HCA 77">effect of delay on question of assessing appellants' demeanour</citphrase>
+<citphrase id="cp4.8" type=cited from="[2005] HCA 77">calculation of the period of delay.  immigration</citphrase>
+<citphrase id="cp4.9" type=cited from="[2005] HCA 77">refugee review tribunal</citphrase>
+<citphrase id="cp4.10" type=cited from="[2005] HCA 77">migration act 1958 (cth), s 420 provides for an objective of administrative review that is "fair, just, economical, informal and quick"</citphrase>
+<citphrase id="cp4.11" type=cited from="[2005] HCA 77">relevance of s 420 to complaint of delay</citphrase>
+<citphrase id="cp4.12" type=cited from="[2005] HCA 77">special considerations relevant to delay in asylum cases.  administrative law</citphrase>
+<citphrase id="cp4.13" type=cited from="[2005] HCA 77">jurisdictional error</citphrase>
+<citphrase id="cp4.14" type=cited from="[2005] HCA 77">whether denial of procedural fairness</citphrase>
+<citphrase id="cp4.15" type=cited from="[2005] HCA 77">significance of delay</citphrase>
+<citphrase id="cp4.16" type=cited from="[2005] HCA 77">grounds for judicial review</citphrase>
+<citphrase id="cp4.17" type=cited from="[2005] HCA 77">whether delay affected the refugee review tribunal's capacity to make a proper assessment of demeanour</citphrase>
+<citphrase id="cp4.18" type=cited from="[2005] HCA 77">whether there was a real and substantial risk that the tribunal's capacity to assess the appellants was impaired.  administrative law</citphrase>
+<citphrase id="cp4.19" type=cited from="[2005] HCA 77">judicial review</citphrase>
+<citphrase id="cp4.20" type=cited from="[2005] HCA 77">assessment of fairness of procedures followed by administrative decision-maker</citphrase>
+<citphrase id="cp4.21" type=cited from="[2005] HCA 77">substantial delay between first tribunal hearing and tribunal decision</citphrase>
+<citphrase id="cp4.22" type=cited from="[2005] HCA 77">limited role of courts performing judicial review</citphrase>
+<citphrase id="cp4.23" type=cited from="[2005] HCA 77">relevance of general notions of fairness and justice</citphrase>
+<citphrase id="cp4.24" type=cited from="[2005] HCA 77">relevance of authority on delay in context of appeals against judicial determinations</citphrase>
+<citphrase id="cp4.25" type=cited from="[2005] HCA 77">importance of contextual factors in assessing complaint of delay.  administrative law</citphrase>
+<citphrase id="cp4.26" type=cited from="[2005] HCA 77">jurisdictional error</citphrase>
+<citphrase id="cp4.27" type=cited from="[2005] HCA 77">substantial delay between first tribunal hearing and tribunal decision</citphrase>
+<citphrase id="cp4.28" type=cited from="[2005] HCA 77">appropriate remedy where denial of procedural fairness due to substantial delay</citphrase>
+<citphrase id="cp4.29" type=cited from="[2005] HCA 77">failure by appellants to seek mandamus</citphrase>
+<citphrase id="cp4.30" type=cited from="[2005] HCA 77">whether relief should be refused on discretionary grounds.</citphrase>
+<citphrase id="cp5.0" type=cited from="[2005] HCA 72">applicant veal of 2002 v minister for immigration and multicultural and indigenous affairs  immigration</citphrase>
+<citphrase id="cp5.1" type=cited from="[2005] HCA 72">application for protection visa</citphrase>
+<citphrase id="cp5.2" type=cited from="[2005] HCA 72">decision of refugee review tribunal</citphrase>
+<citphrase id="cp5.3" type=cited from="[2005] HCA 72">procedural fairness</citphrase>
+<citphrase id="cp5.4" type=cited from="[2005] HCA 72">where tribunal reviewed an unsolicited letter received by the department of immigration and multicultural and indigenous affairs, which made allegations against the appellant</citphrase>
+<citphrase id="cp5.5" type=cited from="[2005] HCA 72">where tribunal did not inform the appellant of the existence of the letter or its contents</citphrase>
+<citphrase id="cp5.6" type=cited from="[2005] HCA 72">where tribunal affirmed decision under review and said that in reaching its decision it gave no weight to the letter</citphrase>
+<citphrase id="cp5.7" type=cited from="[2005] HCA 72">whether procedural fairness required the tribunal to inform the appellant of the existence of the letter or its contents.</citphrase>
+<citphrase id="cp6.0" type=cited from="[2005] HCA 24">saap &amp; anor v minister for immigration and multicultural and indigenous affairs  immigration</citphrase>
+<citphrase id="cp6.1" type=cited from="[2005] HCA 24">refugees</citphrase>
+<citphrase id="cp6.2" type=cited from="[2005] HCA 24">decision of refugee review tribunal ("tribunal")</citphrase>
+<citphrase id="cp6.3" type=cited from="[2005] HCA 24">tribunal invited the first appellant to appear to give evidence and present arguments under migration act 1958 (cth), s 425</citphrase>
+<citphrase id="cp6.4" type=cited from="[2005] HCA 24">evidence was later taken from first appellant's daughter in absence of first appellant</citphrase>
+<citphrase id="cp6.5" type=cited from="[2005] HCA 24">tribunal affirmed decision under review by relying on information obtained from first appellant's daughter</citphrase>
+<citphrase id="cp6.6" type=cited from="[2005] HCA 24">tribunal failed to give the first appellant particulars in writing of information</citphrase>
+<citphrase id="cp6.7" type=cited from="[2005] HCA 24">tribunal failed to invite the first appellant in writing to comment on information</citphrase>
+<citphrase id="cp6.8" type=cited from="[2005] HCA 24">whether tribunal breached migration act , s 424a.  immigration</citphrase>
+<citphrase id="cp6.9" type=cited from="[2005] HCA 24">construction of migration act , s 424a</citphrase>
+<citphrase id="cp6.10" type=cited from="[2005] HCA 24">whether the provisions of pt 7 div 4 have sequential or ambulatory operation</citphrase>
+<citphrase id="cp6.11" type=cited from="[2005] HCA 24">relevance of refugee convention in case of ambiguity.  immigration</citphrase>
+<citphrase id="cp6.12" type=cited from="[2005] HCA 24">jurisdictional error</citphrase>
+<citphrase id="cp6.13" type=cited from="[2005] HCA 24">whether a breach of migration act , s 424a amounts to jurisdictional error that invalidates the decision.  immigration</citphrase>
+<citphrase id="cp6.14" type=cited from="[2005] HCA 24">procedural fairness</citphrase>
+<citphrase id="cp6.15" type=cited from="[2005] HCA 24">general law</citphrase>
+<citphrase id="cp6.16" type=cited from="[2005] HCA 24">whether tribunal breached rules of procedural fairness.  administrative law (cth)</citphrase>
+<citphrase id="cp6.17" type=cited from="[2005] HCA 24">certiorari</citphrase>
+<citphrase id="cp6.18" type=cited from="[2005] HCA 24">mandamus</citphrase>
+<citphrase id="cp6.19" type=cited from="[2005] HCA 24">jurisdictional error</citphrase>
+<citphrase id="cp6.20" type=cited from="[2005] HCA 24">whether grant of relief should be withheld on discretionary grounds</citphrase>
+<citphrase id="cp6.21" type=cited from="[2005] HCA 24">relevant factors</citphrase>
+<citphrase id="cp6.22" type=cited from="[2005] HCA 24">judiciary act 1903 (cth), s 39b.  practice</citphrase>
+<citphrase id="cp6.23" type=cited from="[2005] HCA 24">joinder of party</citphrase>
+<citphrase id="cp6.24" type=cited from="[2005] HCA 24">tribunal was not named as a party for the relief sought under judiciary act , s 39b</citphrase>
+<citphrase id="cp6.25" type=cited from="[2005] HCA 24">whether the tribunal was a necessary party to the proceedings</citphrase>
+<citphrase id="cp6.26" type=cited from="[2005] HCA 24">"officer or officers of the commonwealth"</citphrase>
+<citphrase id="cp6.27" type=cited from="[2005] HCA 24">judiciary act , s 39b.</citphrase>
+<citphrase id="cp7.0" type=cited from="[2004] HCA 62">applicant naff of 2002 v minister for immigration and multicultural and indigenous affairs  immigration</citphrase>
+<citphrase id="cp7.1" type=cited from="[2004] HCA 62">refugees</citphrase>
+<citphrase id="cp7.2" type=cited from="[2004] HCA 62">refugee review tribunal</citphrase>
+<citphrase id="cp7.3" type=cited from="[2004] HCA 62">decision</citphrase>
+<citphrase id="cp7.4" type=cited from="[2004] HCA 62">judicial review</citphrase>
+<citphrase id="cp7.5" type=cited from="[2004] HCA 62">procedural fairness</citphrase>
+<citphrase id="cp7.6" type=cited from="[2004] HCA 62">non-compliance with statutory duties</citphrase>
+<citphrase id="cp7.7" type=cited from="[2004] HCA 62">tribunal concerned by inconsistencies in applicant's evidence at oral hearing</citphrase>
+<citphrase id="cp7.8" type=cited from="[2004] HCA 62">tribunal said it would give the applicant a chance to respond in writing to its concerns</citphrase>
+<citphrase id="cp7.9" type=cited from="[2004] HCA 62">whether tribunal's failure to do so involved a failure to complete the review process</citphrase>
+<citphrase id="cp7.10" type=cited from="[2004] HCA 62">whether failure involved a breach of the duty to conduct a review under s 414(1) of the migration act 1958 (cth)</citphrase>
+<citphrase id="cp7.11" type=cited from="[2004] HCA 62">whether failure involved a breach of the duty to hear from the applicant under s 425(1)</citphrase>
+<citphrase id="cp7.12" type=cited from="[2004] HCA 62">whether reviewable error where absence of evidence from the applicant about effect of failure.  migration act 1958 (cth), ss 56 , 414 (1), 415 (1), 425 (1), 427 (1)(b), 420 , pt 7 divs 2-7a.</citphrase>
+<citphrase id="cp8.0" type=cited from="[2004] HCA 25">applicant s v minister for immigration and multicultural affairs  immigration</citphrase>
+<citphrase id="cp8.1" type=cited from="[2004] HCA 25">refugees</citphrase>
+<citphrase id="cp8.2" type=cited from="[2004] HCA 25">application for protection visa</citphrase>
+<citphrase id="cp8.3" type=cited from="[2004] HCA 25">well-founded fear of persecution for reason of membership of particular social group</citphrase>
+<citphrase id="cp8.4" type=cited from="[2004] HCA 25">particular social group identified as able-bodied young men from afghanistan</citphrase>
+<citphrase id="cp8.5" type=cited from="[2004] HCA 25">whether member of a particular social group</citphrase>
+<citphrase id="cp8.6" type=cited from="[2004] HCA 25">whether afghan society must perceive the particular social group</citphrase>
+<citphrase id="cp8.7" type=cited from="[2004] HCA 25">whether well-founded fear of persecution</citphrase>
+<citphrase id="cp8.8" type=cited from="[2004] HCA 25">whether enmity or malignity necessary to establish persecution</citphrase>
+<citphrase id="cp8.9" type=cited from="[2004] HCA 25">whether facts reveal law of general application</citphrase>
+<citphrase id="cp8.10" type=cited from="[2004] HCA 25">whether implementation of law of general application can amount to persecution</citphrase>
+<citphrase id="cp8.11" type=cited from="[2004] HCA 25">whether implementation of ad hoc policy can amount to persecution.</citphrase>
+<citphrase id="cp9.0" type=cited from="[2004] HCA 18">minister for immigration and multicultural affairs v respondents s152/2003  immigration</citphrase>
+<citphrase id="cp9.1" type=cited from="[2004] HCA 18">refugees</citphrase>
+<citphrase id="cp9.2" type=cited from="[2004] HCA 18">applications for protection visas by de facto husband and wife nationals of ukraine</citphrase>
+<citphrase id="cp9.3" type=cited from="[2004] HCA 18">well-founded fear of persecution</citphrase>
+<citphrase id="cp9.4" type=cited from="[2004] HCA 18">husband claimed to suffer religious persecution as jehovah's witness</citphrase>
+<citphrase id="cp9.5" type=cited from="[2004] HCA 18">refugee review tribunal found that incidents of which husband complained were individual and random incidents and did not amount to persecution, and that the chance that he would suffer persecution in future was remote</citphrase>
+<citphrase id="cp9.6" type=cited from="[2004] HCA 18">tribunal rejected claim that state encouraged or condoned persecution of jehovah's witnesses</citphrase>
+<citphrase id="cp9.7" type=cited from="[2004] HCA 18">whether full court of federal court erred in concluding that tribunal committed jurisdictional error in failing to consider a different claim of whether the husband might suffer future harm from private individuals because of religious belief and whether the government of ukraine was able in a practical sense to stop such harm occurring</citphrase>
+<citphrase id="cp9.8" type=cited from="[2004] HCA 18">absence of evidence before tribunal to support a conclusion that ukraine did not provide level of protection required.  immigration</citphrase>
+<citphrase id="cp9.9" type=cited from="[2004] HCA 18">refugees</citphrase>
+<citphrase id="cp9.10" type=cited from="[2004] HCA 18">applications for protection visas</citphrase>
+<citphrase id="cp9.11" type=cited from="[2004] HCA 18">relevance of attitude or capacity of state to whether fear of harm well-founded, to whether there is persecution, to whether a person is outside country of nationality owing to well-founded fear of persecution and to unwillingness of person to seek protection of state</citphrase>
+<citphrase id="cp9.12" type=cited from="[2004] HCA 18">protection theory and accountability theory</citphrase>
+<citphrase id="cp9.13" type=cited from="[2004] HCA 18">non-state actor</citphrase>
+<citphrase id="cp9.14" type=cited from="[2004] HCA 18">harm by non-state actors</citphrase>
+<citphrase id="cp9.15" type=cited from="[2004] HCA 18">persecution by non-state actors</citphrase>
+<citphrase id="cp9.16" type=cited from="[2004] HCA 18">state complicity in persecution</citphrase>
+<citphrase id="cp9.17" type=cited from="[2004] HCA 18">persecution tolerated or condoned by state</citphrase>
+<citphrase id="cp9.18" type=cited from="[2004] HCA 18">failure of state protection</citphrase>
+<citphrase id="cp9.19" type=cited from="[2004] HCA 18">unwilling or unable to provide protection.  international law</citphrase>
+<citphrase id="cp9.20" type=cited from="[2004] HCA 18">treaty</citphrase>
+<citphrase id="cp9.21" type=cited from="[2004] HCA 18">interpretation</citphrase>
+<citphrase id="cp9.22" type=cited from="[2004] HCA 18">refugees convention</citphrase>
+<citphrase id="cp9.23" type=cited from="[2004] HCA 18">"persecution"</citphrase>
+<citphrase id="cp9.24" type=cited from="[2004] HCA 18">different theories of persecution</citphrase>
+<citphrase id="cp9.25" type=cited from="[2004] HCA 18">meaning of treaty provisions</citphrase>
+<citphrase id="cp9.26" type=cited from="[2004] HCA 18">proper approach to meaning</citphrase>
+<citphrase id="cp9.27" type=cited from="[2004] HCA 18">primacy of text</citphrase>
+<citphrase id="cp9.28" type=cited from="[2004] HCA 18">approaches of courts in countries of refuge</citphrase>
+<citphrase id="cp9.29" type=cited from="[2004] HCA 18">protection theory and accountability theory</citphrase>
+<citphrase id="cp9.30" type=cited from="[2004] HCA 18">whether a third theory applicable.</citphrase>
+<citphrase id="cp10.0" type=cited from="[2004] HCA 32">minister for immigration and multicultural and indigenous affairs v sglb  immigration</citphrase>
+<citphrase id="cp10.1" type=cited from="[2004] HCA 32">refugees</citphrase>
+<citphrase id="cp10.2" type=cited from="[2004] HCA 32">procedural fairness</citphrase>
+<citphrase id="cp10.3" type=cited from="[2004] HCA 32">refugee review tribunal</citphrase>
+<citphrase id="cp10.4" type=cited from="[2004] HCA 32">jurisdictional error</citphrase>
+<citphrase id="cp10.5" type=cited from="[2004] HCA 32">expert medical advice</citphrase>
+<citphrase id="cp10.6" type=cited from="[2004] HCA 32">psychological state of applicant assumed to be possible explanation for unsatisfactory evidence</citphrase>
+<citphrase id="cp10.7" type=cited from="[2004] HCA 32">whether denial of procedural fairness by failing to order further psychological assessment of applicant</citphrase>
+<citphrase id="cp10.8" type=cited from="[2004] HCA 32">whether denial of procedural fairness by accepting that applicant suffered stress disorder</citphrase>
+<citphrase id="cp10.9" type=cited from="[2004] HCA 32">whether denial of procedural fairness by acceptance of effects of disorder on applicant without expert medical advice.  statutes</citphrase>
+<citphrase id="cp10.10" type=cited from="[2004] HCA 32">construction</citphrase>
+<citphrase id="cp10.11" type=cited from="[2004] HCA 32">privative clause</citphrase>
+<citphrase id="cp10.12" type=cited from="[2004] HCA 32">whether putative errors of the refugee review tribunal fell within the operation of s 474 of the migration act 1958 (cth).</citphrase>
+<citphrase id="cp11.0" type=cited from="[2003] HCA 71">appellant s395/2002 v minister for immigration and multicultural affairs  appellant s396/2002 v minister for immigration and multicultural affairs  immigration</citphrase>
+<citphrase id="cp11.1" type=cited from="[2003] HCA 71">refugees</citphrase>
+<citphrase id="cp11.2" type=cited from="[2003] HCA 71">particular social group identified as homosexual men in bangladesh</citphrase>
+<citphrase id="cp11.3" type=cited from="[2003] HCA 71">whether well-founded fear of persecution</citphrase>
+<citphrase id="cp11.4" type=cited from="[2003] HCA 71">whether error of law by refugee review tribunal in finding that no real chance of persecution because appellants conducted themselves discreetly and would continue to do so</citphrase>
+<citphrase id="cp11.5" type=cited from="[2003] HCA 71">whether finding had effect of requiring appellants to act discreetly to avoid persecution</citphrase>
+<citphrase id="cp11.6" type=cited from="[2003] HCA 71">whether need to act discreetly to avoid serious harm constituted persecution.</citphrase>
+<citphrase id="cp12.0" type=cited from="[2003] HCA 60">re minister for immigration and multicultural affairs; ex parte applicant s154/2002  immigration</citphrase>
+<citphrase id="cp12.1" type=cited from="[2003] HCA 60">refugees</citphrase>
+<citphrase id="cp12.2" type=cited from="[2003] HCA 60">refugee review tribunal</citphrase>
+<citphrase id="cp12.3" type=cited from="[2003] HCA 60">procedural fairness</citphrase>
+<citphrase id="cp12.4" type=cited from="[2003] HCA 60">whether tribunal misled applicant into believing factual claim had been accepted as true</citphrase>
+<citphrase id="cp12.5" type=cited from="[2003] HCA 60">whether tribunal relied on evidence tendered earlier to disbelieve factual claim without giving applicant opportunity to demonstrate evidence was not inconsistent with factual claim</citphrase>
+<citphrase id="cp12.6" type=cited from="[2003] HCA 60">whether tribunal relied on belated disclosure of rape incident to disbelieve factual claim in circumstances where belated disclosure might have been explicable</citphrase>
+<citphrase id="cp12.7" type=cited from="[2003] HCA 60">whether subsequent hearing and provision of written submissions cured any earlier breach of requirements of procedural fairness</citphrase>
+<citphrase id="cp12.8" type=cited from="[2003] HCA 60">inquisitorial hearing by tribunal</citphrase>
+<citphrase id="cp12.9" type=cited from="[2003] HCA 60">whether failure by tribunal to afford procedural fairness amounting to jurisdictional error.</citphrase>
+<citphrase id="cp15.0" type=cited from="[2003] HCA 1">re minister for immigration and multicultural and indigenous affairs; ex parte applicants s134/2002  immigration</citphrase>
+<citphrase id="cp15.1" type=cited from="[2003] HCA 1">refugees</citphrase>
+<citphrase id="cp15.2" type=cited from="[2003] HCA 1">temporary protection visas</citphrase>
+<citphrase id="cp15.3" type=cited from="[2003] HCA 1">refugee review tribunal ("the tribunal") affirmed decision of delegate of the minister for immigration and multicultural and indigenous affairs ("the minister") not to grant protection visas</citphrase>
+<citphrase id="cp15.4" type=cited from="[2003] HCA 1">minister not bound to consider whether to exercise power</citphrase>
+<citphrase id="cp15.5" type=cited from="[2003] HCA 1">minister decided not to exercise power under s 417 of the migration act 1958 (cth) ("the act ") to substitute for the decision of the tribunal a decision more favourable to the prosecutors</citphrase>
+<citphrase id="cp15.6" type=cited from="[2003] HCA 1">whether decisions of the tribunal and the minister "privative clause decisions" under s 474 of the act .  immigration</citphrase>
+<citphrase id="cp15.7" type=cited from="[2003] HCA 1">refugees</citphrase>
+<citphrase id="cp15.8" type=cited from="[2003] HCA 1">applications for temporary protection visas by mother and children</citphrase>
+<citphrase id="cp15.9" type=cited from="[2003] HCA 1">first prosecutor's application asserted that she was a person to whom australia had protection obligations under the refugees convention</citphrase>
+<citphrase id="cp15.10" type=cited from="[2003] HCA 1">application not made on basis of membership of a family unit, to one of whom protection obligations were owed</citphrase>
+<citphrase id="cp15.11" type=cited from="[2003] HCA 1">documents before the tribunal indicated that the first prosecutor's husband held a temporary protection visa and had applied for a permanent protection visa</citphrase>
+<citphrase id="cp15.12" type=cited from="[2003] HCA 1">first prosecutor did not know of her husband's whereabouts or immigration status</citphrase>
+<citphrase id="cp15.13" type=cited from="[2003] HCA 1">tribunal did not notice documents or appreciate their significance</citphrase>
+<citphrase id="cp15.14" type=cited from="[2003] HCA 1">tribunal did not consider whether prosecutors entitled to protection visas on basis of membership of a family unit of which one person was owed protection obligations and had been granted a protection visa</citphrase>
+<citphrase id="cp15.15" type=cited from="[2003] HCA 1">whether constructive failure to exercise jurisdiction</citphrase>
+<citphrase id="cp15.16" type=cited from="[2003] HCA 1">whether denial of procedural fairness.  immigration</citphrase>
+<citphrase id="cp15.17" type=cited from="[2003] HCA 1">refugees</citphrase>
+<citphrase id="cp15.18" type=cited from="[2003] HCA 1">whether jurisdictional error in decision by minister to refuse to substitute for the decision of the tribunal a decision more favourable to the prosecutors</citphrase>
+<citphrase id="cp15.19" type=cited from="[2003] HCA 1">utility of relief.</citphrase>
+<citphrase id="cp16.0" type=cited from="[2003] HCA 26">dranichnikov v minister for immigration and multicultural affairs  re minister for immigration and multicultural affairs; ex parte dranichnikov  immigration</citphrase>
+<citphrase id="cp16.1" type=cited from="[2003] HCA 26">refugees</citphrase>
+<citphrase id="cp16.2" type=cited from="[2003] HCA 26">protection visa</citphrase>
+<citphrase id="cp16.3" type=cited from="[2003] HCA 26">fear of persecution for reason of membership of particular social group</citphrase>
+<citphrase id="cp16.4" type=cited from="[2003] HCA 26">whether refugee review tribunal considered applicant was member of broader class of social group than that claimed</citphrase>
+<citphrase id="cp16.5" type=cited from="[2003] HCA 26">whether tribunal misunderstood and failed to address applicant's case</citphrase>
+<citphrase id="cp16.6" type=cited from="[2003] HCA 26">whether constructive failure by tribunal to exercise jurisdiction</citphrase>
+<citphrase id="cp16.7" type=cited from="[2003] HCA 26">whether failure to accord natural justice.  practice and procedure</citphrase>
+<citphrase id="cp16.8" type=cited from="[2003] HCA 26">high court</citphrase>
+<citphrase id="cp16.9" type=cited from="[2003] HCA 26">concurrent applications for special leave to appeal and for constitutional writs</citphrase>
+<citphrase id="cp16.10" type=cited from="[2003] HCA 26">discretionary considerations in the grant of constitutional relief</citphrase>
+<citphrase id="cp16.11" type=cited from="[2003] HCA 26">whether availability of appeal a discretionary bar to constitutional relief</citphrase>
+<citphrase id="cp16.12" type=cited from="[2003] HCA 26">relevance of repeal of applicable legislation to the form of relief provided.</citphrase>
+<citphrase id="cp17.0" type=cited from="[2003] HCA 11">minister for immigration and multicultural affairs v wang  immigration</citphrase>
+<citphrase id="cp17.1" type=cited from="[2003] HCA 11">review</citphrase>
+<citphrase id="cp17.2" type=cited from="[2003] HCA 11">refugee review tribunal</citphrase>
+<citphrase id="cp17.3" type=cited from="[2003] HCA 11">orders made by federal court on application for review</citphrase>
+<citphrase id="cp17.4" type=cited from="[2003] HCA 11">where tribunal erred in law in making earlier decision</citphrase>
+<citphrase id="cp17.5" type=cited from="[2003] HCA 11">power of court to refer matter to tribunal constituted by member who made earlier decision</citphrase>
+<citphrase id="cp17.6" type=cited from="[2003] HCA 11">power of court to give direction as to constitution of tribunal</citphrase>
+<citphrase id="cp17.7" type=cited from="[2003] HCA 11">proper considerations in exercise of such discretion</citphrase>
+<citphrase id="cp17.8" type=cited from="[2003] HCA 11">whether direction in the interests of justice</citphrase>
+<citphrase id="cp17.9" type=cited from="[2003] HCA 11">whether necessary to do justice to preserve tribunal's findings of fact on first review.  immigration</citphrase>
+<citphrase id="cp17.10" type=cited from="[2003] HCA 11">review</citphrase>
+<citphrase id="cp17.11" type=cited from="[2003] HCA 11">refugee review tribunal</citphrase>
+<citphrase id="cp17.12" type=cited from="[2003] HCA 11">nature of proceedings before</citphrase>
+<citphrase id="cp17.13" type=cited from="[2003] HCA 11">how tribunal in second hearing should regard findings of fact made in first hearing.</citphrase>
+<citphrase id="cp18.0" type=cited from="[2002] HCA 30">muin v refugee review tribunal  lie v refugee review tribunal  administrative law</citphrase>
+<citphrase id="cp18.1" type=cited from="[2002] HCA 30">constitutional writs</citphrase>
+<citphrase id="cp18.2" type=cited from="[2002] HCA 30">procedural fairness</citphrase>
+<citphrase id="cp18.3" type=cited from="[2002] HCA 30">alleged failure to have regard to relevant documents</citphrase>
+<citphrase id="cp18.4" type=cited from="[2002] HCA 30">alleged failure to provide reasonable opportunity to respond to adverse material</citphrase>
+<citphrase id="cp18.5" type=cited from="[2002] HCA 30">jurisdictional error for denial of procedural fairness and natural justice.  immigration</citphrase>
+<citphrase id="cp18.6" type=cited from="[2002] HCA 30">refugee</citphrase>
+<citphrase id="cp18.7" type=cited from="[2002] HCA 30">protection visa</citphrase>
+<citphrase id="cp18.8" type=cited from="[2002] HCA 30">decision by minister to refuse application for visa</citphrase>
+<citphrase id="cp18.9" type=cited from="[2002] HCA 30">review of decision by refugee review tribunal</citphrase>
+<citphrase id="cp18.10" type=cited from="[2002] HCA 30">obligation of secretary of department of immigration and multicultural affairs to give relevant documents to registrar of tribunal for purpose of review</citphrase>
+<citphrase id="cp18.11" type=cited from="[2002] HCA 30">nature and extent of obligation</citphrase>
+<citphrase id="cp18.12" type=cited from="[2002] HCA 30">migration act 1958 (cth), ss 418(3) , 424 (1).  constitutional law (cth)</citphrase>
+<citphrase id="cp18.13" type=cited from="[2002] HCA 30">high court</citphrase>
+<citphrase id="cp18.14" type=cited from="[2002] HCA 30">federal court</citphrase>
+<citphrase id="cp18.15" type=cited from="[2002] HCA 30">review of administrative decision by officers of the commonwealth</citphrase>
+<citphrase id="cp18.16" type=cited from="[2002] HCA 30">migration</citphrase>
+<citphrase id="cp18.17" type=cited from="[2002] HCA 30">refusal to grant protection visa to claimant for refugee status</citphrase>
+<citphrase id="cp18.18" type=cited from="[2002] HCA 30">requirement of procedural fairness</citphrase>
+<citphrase id="cp18.19" type=cited from="[2002] HCA 30">alleged failure to have regard to relevant documents</citphrase>
+<citphrase id="cp18.20" type=cited from="[2002] HCA 30">alleged failure to provide reasonable opportunity to respond to adverse materials</citphrase>
+<citphrase id="cp18.21" type=cited from="[2002] HCA 30">jurisdictional error</citphrase>
+<citphrase id="cp18.22" type=cited from="[2002] HCA 30">availability of constitutional relief under s 75(v) and other relief for denial of procedural fairness and natural justice.</citphrase>
+<citphrase id="cp19.0" type=cited from="[2001] WASC 276">practice and procedure</citphrase>
+<citphrase id="cp19.1" type=cited from="[2001] WASC 276">rules of the supreme court 1971 (wa) , o 56 r 3administrative law</citphrase>
+<citphrase id="cp19.2" type=cited from="[2001] WASC 276">prerogative writs</citphrase>
+<citphrase id="cp19.3" type=cited from="[2001] WASC 276">application for a writ of certiorari</citphrase>
+<citphrase id="cp19.4" type=cited from="[2001] WASC 276">whether minister of local government acted lawfully in suspending local council</citphrase>
+<citphrase id="cp19.5" type=cited from="[2001] WASC 276">whether the minister for local government is required to afford procedural fairness to the applicant councillors before suspension under part 8 of the local government act 1995 (wa) administrative law</citphrase>
+<citphrase id="cp19.6" type=cited from="[2001] WASC 276">prerogative writs</citphrase>
+<citphrase id="cp19.7" type=cited from="[2001] WASC 276">application for a writ of prohibition to prohibit inquiry panel established by minister of local government, pursuant to s 8.20 of local government act 1995 (wa) , from proceeding to hear inquiry</citphrase>
+<citphrase id="cp19.8" type=cited from="[2001] WASC 276">whether conduct of members of inquiry panel gave rise to a reasonable apprehension of bias</citphrase>
+<citphrase id="cp19.9" type=cited from="[2001] WASC 276">turns on own facts</citphrase>
+<citphrase id="cp20.0" type=cited from="[2001] HCA 23">re minister for immigration and multicultural affairs; ex parte epeabaka  immigration</citphrase>
+<citphrase id="cp20.1" type=cited from="[2001] HCA 23">refugees</citphrase>
+<citphrase id="cp20.2" type=cited from="[2001] HCA 23">protection visa</citphrase>
+<citphrase id="cp20.3" type=cited from="[2001] HCA 23">affirmation by refugee review tribunal of decision to refuse application for protection visa</citphrase>
+<citphrase id="cp20.4" type=cited from="[2001] HCA 23">public statements made by tribunal member on personal internet home page about truthfulness of applicants for refugee status</citphrase>
+<citphrase id="cp20.5" type=cited from="[2001] HCA 23">whether pt 7 of migration act 1958 (cth) constitutes a code excluding the common law rules of natural justice and in particular the ostensible bias rule.  administrative law</citphrase>
+<citphrase id="cp20.6" type=cited from="[2001] HCA 23">natural justice</citphrase>
+<citphrase id="cp20.7" type=cited from="[2001] HCA 23">bias</citphrase>
+<citphrase id="cp20.8" type=cited from="[2001] HCA 23">reasonable apprehension of bias</citphrase>
+<citphrase id="cp20.9" type=cited from="[2001] HCA 23">whether a reasonable party or member of the public might apprehend that decision of tribunal member was affected by a prejudiced mind</citphrase>
+<citphrase id="cp20.10" type=cited from="[2001] HCA 23">whether ostensible bias may be inferred from statements made after a decision.</citphrase>
+<citphrase id="cp21.0" type=cited from="[2000] HCA 57">re refugee review tribunal; ex parte aala  immigration</citphrase>
+<citphrase id="cp21.1" type=cited from="[2000] HCA 57">refugees</citphrase>
+<citphrase id="cp21.2" type=cited from="[2000] HCA 57">review tribunal</citphrase>
+<citphrase id="cp21.3" type=cited from="[2000] HCA 57">failure to afford procedural fairness</citphrase>
+<citphrase id="cp21.4" type=cited from="[2000] HCA 57">prosecutor denied opportunity to be heard on matters affecting credibility</citphrase>
+<citphrase id="cp21.5" type=cited from="[2000] HCA 57">whether prosecutor denied possibility of a successful outcome.  administrative law</citphrase>
+<citphrase id="cp21.6" type=cited from="[2000] HCA 57">constitutional writs</citphrase>
+<citphrase id="cp21.7" type=cited from="[2000] HCA 57">nature of constitutional writ of prohibition</citphrase>
+<citphrase id="cp21.8" type=cited from="[2000] HCA 57">procedural fairness</citphrase>
+<citphrase id="cp21.9" type=cited from="[2000] HCA 57">availability of writ of prohibition for failure to accord procedural fairness</citphrase>
+<citphrase id="cp21.10" type=cited from="[2000] HCA 57">whether prohibition available as of right or by discretion</citphrase>
+<citphrase id="cp21.11" type=cited from="[2000] HCA 57">whether application should be rejected due to delay.  constitutional law</citphrase>
+<citphrase id="cp21.12" type=cited from="[2000] HCA 57">construction of constitution</citphrase>
+<citphrase id="cp21.13" type=cited from="[2000] HCA 57">meaning to be given to words in s 75(v)</citphrase>
+<citphrase id="cp21.14" type=cited from="[2000] HCA 57">relevance of meaning at time of commencement of constitution .</citphrase>
+<citphrase id="cp23.0" type=cited from="[1985] FCA 47">administrative law</citphrase>
+<citphrase id="cp23.1" type=cited from="[1985] FCA 47">judicial review</citphrase>
+<citphrase id="cp23.2" type=cited from="[1985] FCA 47">migration</citphrase>
+<citphrase id="cp23.3" type=cited from="[1985] FCA 47">application for permanent residence in australia by spouse of person having permanent resident status</citphrase>
+<citphrase id="cp23.4" type=cited from="[1985] FCA 47">validity of decision to refuse application</citphrase>
+<citphrase id="cp23.5" type=cited from="[1985] FCA 47">failure of minister to take into account relevant material</citphrase>
+<citphrase id="cp23.6" type=cited from="[1985] FCA 47">unreasonableness of decision</citphrase>
+<citphrase id="cp23.7" type=cited from="[1985] FCA 47">ambit of material relevant for consideration in determining reasonableness.  migration act 1958 ss. 6 , 6a  administrative decisions (judicial review) act 1977 s.5  administrative law</citphrase>
+<citphrase id="cp23.8" type=cited from="[1985] FCA 47">judicial review</citphrase>
+<citphrase id="cp23.9" type=cited from="[1985] FCA 47">immigration and aliens</citphrase>
+<citphrase id="cp23.10" type=cited from="[1985] FCA 47">review of minister's decision refusing an application for a permanent entry permit to australia, spouse having permanent resident status</citphrase>
+<citphrase id="cp23.11" type=cited from="[1985] FCA 47">whether minister had failed to take into account relevant considerations</citphrase>
+<citphrase id="cp23.12" type=cited from="[1985] FCA 47">whether exercise of power was so unreasonable that no reasonable person could have so exercised the power</citphrase>
+<citphrase id="cp23.13" type=cited from="[1985] FCA 47">taking of further evidence to adduce facts not before the minister</citphrase>
+<citphrase id="cp23.14" type=cited from="[1985] FCA 47">administrative decisions (judicial review) act 1977 (cth), ss 5(1)(e) , 5 (2), 5 (2)(a), 5 (2)(b), 5 (2)(f), 5 (2)(g), 6 (2), 13</citphrase>
+<citphrase id="cp23.15" type=cited from="[1985] FCA 47">migration act 1958 (cth), ss 6 , 6a. in an application for review of a decision of the minister for immigration and ethnic affairs made in 1984 refusing an application for a permanent entry permit to an applicant who was the spouse of a permanent resident on the basis that the applicant's marriage had been assessed as being one where the parties did not genuinely intend to continue living as a married couple in australia, it being the minister's policy to refuse permanent entry permits in such cases.  held: (1) that relevant considerations which should have been taken into account were not, thus making the minister's decision invalid pursuant to s 5(2)(b) of the administrative decisions (judicial review) act 1977 (the act), such considerations being:  (i) a report made in 1981 by an interviewing officer in suva expressing an opinion that the marriage relationship was genuine, such report being part of the history of the relationship, all of which was relevant in determining the quality of the marriage as at the date of the minister deciding the application. although the report was not presented to the minister, it was on the departmental file and was accordingly to be regarded as being constructively before him.  peko-wallsend ltd v. minister for aboriginal affairs (1985) 59 alr 51 , referred to.  (ii) statutory declarations of neighbours and acquaintances as to the applicant leading a normal married life and a letter of a social worker as to the applicant's wife living at home with the applicant, such documents being available to the minister, but there being nothing to indicate that he had taken any account of them.  (2) that in determining whether an administrative decision made under statutory authority falls within s 5(2)(g) of the act</citphrase>
+<citphrase id="cp23.16" type=cited from="[1985] FCA 47">(a) the court should construe that paragraph in the light of the common law principle of which that paragraph is a legislative enactment, that principle being stated by lord diplock in bromley london borough city council v. greater london council (1983) 1 ac 768 to be the invalidation of administrative decisions "that looked at objectively are so devoid of any plausible justification that no reasonable body of persons could have reached them" and by menzies j in parramatta city council v. pestell [1972] hca 59 ; (1972) 128 clr 305 to be the invalidation of an administrative decision "based on an opinion which could not be justified on any reasonable grounds".  perkins v. cuthill [1981] fca 44 ; (1981) 34 alr 669 ; plegas v. mccabe (unreported, federal court of australia, lockhart j, 3 august 1984; willara pty ltd v. mcveigh (1984) 54 alr 65 ; re w (an infant) (1971) ac 682 ; associated provincial picture houses v. wednesbury corporation [1947] ewca civ 1 ; (1948) 1 kb 223 ; secretary of state for education and science v. tameside metropolitan borough council [1976] ukhl 6 ; (1977) ac 1014 ; borkovic v. minister for immigration and ethnic affairs (1981) 39 alr 186 ; hamblin v. duffy [1981] fca 38 ; (1981) 50 flr 308 ; mixnam's properties ltd v. chertsey urban district council (1964) 1 qb 214 , referred to.  (b) the court is entitled to consider those facts which were known to the decision-maker actually or constructively together only with such additional facts as the decision-maker would have learned but for any unreasonable conduct by him where such facts are obtainable from material that is readily available.  (3) that, having taken further evidence relating to the matters arising out of the interviews by the departmental officer, and having reviewed and analysed the evidence and the manner in which the decision was reached by the minister, and bearing in mind the strength of the case required before it may be said that a decision falls within s 5(2)(g) of the act, the minister's decision was "devoid of any plausible justification" and that it accordingly be set aside pursuant to that paragraph of the act and the matter remitted to the minister for further consideration. in reaching this decision the court took into account, inter alia, the following matters:  (i) the existence of the statutory declarations and the social worker's letter asserting that there was a normal marriage relationship, the declarants and writer thereof being apparently credible and independent and such documents asserting a conclusion contrary to that formed by the minister and the fact that the minister had not further investigated the statements contained in those documents as he ought to have done.  (ii) that the only matters tending to show lack of intention to live together were the circumstances of the marriage four years earlier and more importantly, interviews by a departmental officer of the applicant and his wife, such interviews containing inconsistencies in their recollection of details in their daily lives, the minister believing that such inconsistencies indicated that the wife did not live with her husband. the interviewing officer should have given the applicant an opportunity to deal with those matters which excited an adverse reaction in the officer before permitting those matters to be used in a manner adverse to the applicant in the decision-making process.  (iii) the interviews which were relied upon by the minister as the primary method of determining the genuineness of the relationship were rushed and short and in any case, neither a verbatim record nor at least contemporaneous notes of the interviews were made and kept, as ought to have been done.  hearing  sydney, 1985, february 5-6, 26.</citphrase>
+<citphrase id="cp24.0" type=cited from="[1984] HCA 29">companies</citphrase>
+<citphrase id="cp24.1" type=cited from="[1984] HCA 29">national companies and securities commission</citphrase>
+<citphrase id="cp24.2" type=cited from="[1984] HCA 29">hearing</citphrase>
+<citphrase id="cp24.3" type=cited from="[1984] HCA 29">contraventions of legislation suspected</citphrase>
+<citphrase id="cp24.4" type=cited from="[1984] HCA 29">hearing to investigate whether contraventions occurred and whether application should be made to court for orders</citphrase>
+<citphrase id="cp24.5" type=cited from="[1984] HCA 29">statutory requirement to observe rules of natural justice</citphrase>
+<citphrase id="cp24.6" type=cited from="[1984] HCA 29">extent to which witness entitled to be represented and take part</citphrase>
+<citphrase id="cp24.7" type=cited from="[1984] HCA 29">findings</citphrase>
+<citphrase id="cp24.8" type=cited from="[1984] HCA 29">whether necessary or appropriate for commission to publicize</citphrase>
+<citphrase id="cp24.9" type=cited from="[1984] HCA 29">companies act 1981 (cth), ss. 5(1) , 16a, 137 , 138 , 146 (1); companies (acquisition of shares) act 1980 (cth), ss. 11 , 45 (1); national companies and securities commission act 1979 (cth), ss. 36 , 37 , 38 , 39, 40, 41, 42.  administrative tribunals</citphrase>
+<citphrase id="cp24.10" type=cited from="[1984] HCA 29">proceedings</citphrase>
+<citphrase id="cp24.11" type=cited from="[1984] HCA 29">hearing</citphrase>
+<citphrase id="cp24.12" type=cited from="[1984] HCA 29">investigation of whether contraventions of legislation had occurred and whether application should be made to court for orders</citphrase>
+<citphrase id="cp24.13" type=cited from="[1984] HCA 29">statutory requirement to observe rules of natural justice</citphrase>
+<citphrase id="cp24.14" type=cited from="[1984] HCA 29">witness</citphrase>
+<citphrase id="cp24.15" type=cited from="[1984] HCA 29">right to be represented and take part</citphrase>
+<citphrase id="cp24.16" type=cited from="[1984] HCA 29">findings</citphrase>
+<citphrase id="cp24.17" type=cited from="[1984] HCA 29">whether necessary or appropriate to publicize.</citphrase>
+<citphrase id="cp25.0" type=citing from="[2010] FCA 1267">migration</citphrase>
+<citphrase id="cp25.1" type=citing from="[2010] FCA 1267">unrepresented appellant</citphrase>
+<citphrase id="cp25.2" type=citing from="[2010] FCA 1267">difficulties encountered</citphrase>
+<citphrase id="cp25.3" type=citing from="[2010] FCA 1267">adverse findings as to credit</citphrase>
+<citphrase id="cp25.4" type=citing from="[2010] FCA 1267">no appellable error  practice and procedure</citphrase>
+<citphrase id="cp25.5" type=citing from="[2010] FCA 1267">leave to raise new ground of appeal</citphrase>
+<citphrase id="cp25.6" type=citing from="[2010] FCA 1267">refused</citphrase>
+<citphrase id="cp26.0" type=citing from="[2010] FMCA 255">migration</citphrase>
+<citphrase id="cp26.1" type=citing from="[2010] FMCA 255">refugee review tribunal</citphrase>
+<citphrase id="cp26.2" type=citing from="[2010] FMCA 255">documents drafted after decision are not relevant to jurisdictional error</citphrase>
+<citphrase id="cp26.3" type=citing from="[2010] FMCA 255">no failure to take into account a relevant consideration</citphrase>
+<citphrase id="cp26.4" type=citing from="[2010] FMCA 255">no obligation to provide a witness an opportunity to provide further comments</citphrase>
+<citphrase id="cp26.5" type=citing from="[2010] FMCA 255">no general obligation on tribunal to make enquiries</citphrase>
+<citphrase id="cp26.6" type=citing from="[2010] FMCA 255">weight attributed to evidence is a matter for the tribunal</citphrase>
+<citphrase id="cp26.7" type=citing from="[2010] FMCA 255">holding three hearings not a denial of meaningful opportunity</citphrase>
+<citphrase id="cp26.8" type=citing from="[2010] FMCA 255">no jurisdictional error</citphrase>
+<citphrase id="cp26.9" type=citing from="[2010] FMCA 255">application dismissed.</citphrase>
+<citphrase id="cp27.0" type=citing from="[2010] FMCA 285">migration</citphrase>
+<citphrase id="cp27.1" type=citing from="[2010] FMCA 285">rrt decision</citphrase>
+<citphrase id="cp27.2" type=citing from="[2010] FMCA 285">indian applicants claiming religious persecution as christians</citphrase>
+<citphrase id="cp27.3" type=citing from="[2010] FMCA 285">disbelieved as to their religion</citphrase>
+<citphrase id="cp27.4" type=citing from="[2010] FMCA 285">no weight given to corroborative documents and photographs</citphrase>
+<citphrase id="cp27.5" type=citing from="[2010] FMCA 285">whether findings irrational or showed bias</citphrase>
+<citphrase id="cp27.6" type=citing from="[2010] FMCA 285">no jurisdictional error found</citphrase>
+<citphrase id="cp27.7" type=citing from="[2010] FMCA 285">application dismissed.</citphrase>
+<citphrase id="cp28.0" type=citing from="[2010] FCA 202">migration</citphrase>
+<citphrase id="cp28.1" type=citing from="[2010] FCA 202">inquisitorial function of refugee review tribunal</citphrase>
+<citphrase id="cp28.2" type=citing from="[2010] FCA 202">primary responsibility of an appellant to advance submissions relevant to claims made</citphrase>
+<citphrase id="cp28.3" type=citing from="[2010] FCA 202">findings of fact</citphrase>
+<citphrase id="cp28.4" type=citing from="[2010] FCA 202">findings as to credibility</citphrase>
+<citphrase id="cp28.5" type=citing from="[2010] FCA 202">no benefit of the doubt</citphrase>
+<citphrase id="cp28.6" type=citing from="[2010] FCA 202">no jurisdictional error</citphrase>
+<citphrase id="cp29.0" type=citing from="[2010] FCA 105">migration</citphrase>
+<citphrase id="cp29.1" type=citing from="[2010] FCA 105">alleged failure to allow sufficient time to answer questions</citphrase>
+<citphrase id="cp29.2" type=citing from="[2010] FCA 105">alleged failure to allow adjournments of sufficient duration</citphrase>
+<citphrase id="cp29.3" type=citing from="[2010] FCA 105">onus of proof</citphrase>
+<citphrase id="cp29.4" type=citing from="[2010] FCA 105">importance of understanding why information relevant to review</citphrase>
+<citphrase id="cp29.5" type=citing from="[2010] FCA 105">onus of establishing ground of review</citphrase>
+<citphrase id="cp30.0" type=citing from="[2010] FMCA 90">migration</citphrase>
+<citphrase id="cp30.1" type=citing from="[2010] FMCA 90">chinese applicant claiming persecution for falun gong activities</citphrase>
+<citphrase id="cp30.2" type=citing from="[2010] FMCA 90">disbelieved by tribunal on plausibility grounds</citphrase>
+<citphrase id="cp30.3" type=citing from="[2010] FMCA 90">tribunal had no duty to make enquiries</citphrase>
+<citphrase id="cp30.4" type=citing from="[2010] FMCA 90">no error in application of s.91r(3)</citphrase>
+<citphrase id="cp30.5" type=citing from="[2010] FMCA 90">no jurisdictional error</citphrase>
+<citphrase id="cp30.6" type=citing from="[2010] FMCA 90">application dismissed.</citphrase>
+<citphrase id="cp31.0" type=citing from="[2009] FMCA 1300">migration</citphrase>
+<citphrase id="cp31.1" type=citing from="[2009] FMCA 1300">review of decision of refugee review tribunal decision</citphrase>
+<citphrase id="cp31.2" type=citing from="[2009] FMCA 1300">applicant seeking impermissible merits review</citphrase>
+<citphrase id="cp31.3" type=citing from="[2009] FMCA 1300">tribunal properly assessed applicant's claims</citphrase>
+<citphrase id="cp31.4" type=citing from="[2009] FMCA 1300">tribunal not required to make inquiries in the circumstances</citphrase>
+<citphrase id="cp31.5" type=citing from="[2009] FMCA 1300">tribunal considered corroborative evidence</citphrase>
+<citphrase id="cp31.6" type=citing from="[2009] FMCA 1300">findings open to tribunal on what was before it</citphrase>
+<citphrase id="cp31.7" type=citing from="[2009] FMCA 1300">tribunal understood test to be applied under s.91r</citphrase>
+<citphrase id="cp31.8" type=citing from="[2009] FMCA 1300">choice and weight of country information for the tribunal</citphrase>
+<citphrase id="cp31.9" type=citing from="[2009] FMCA 1300">two independent bases of tribunal's reasoning</citphrase>
+<citphrase id="cp31.10" type=citing from="[2009] FMCA 1300">tribunal specifically dealt with applicant's concerns regarding relocation</citphrase>
+<citphrase id="cp31.11" type=citing from="[2009] FMCA 1300">no bias</citphrase>
+<citphrase id="cp31.12" type=citing from="[2009] FMCA 1300">no jurisdictional error</citphrase>
+<citphrase id="cp31.13" type=citing from="[2009] FMCA 1300">application dismissed.</citphrase>
+<citphrase id="cp32.0" type=citing from="[2009] FMCA 1198">migration</citphrase>
+<citphrase id="cp32.1" type=citing from="[2009] FMCA 1198">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp32.2" type=citing from="[2009] FMCA 1198">information fell within exceptions</citphrase>
+<citphrase id="cp32.3" type=citing from="[2009] FMCA 1198">no obligation to give applicant information</citphrase>
+<citphrase id="cp32.4" type=citing from="[2009] FMCA 1198">inconsistencies in evidence not "information"</citphrase>
+<citphrase id="cp32.5" type=citing from="[2009] FMCA 1198">tribunal "sufficiently indicated" dispositive issue</citphrase>
+<citphrase id="cp32.6" type=citing from="[2009] FMCA 1198">applicant seeking impermissible merits review</citphrase>
+<citphrase id="cp32.7" type=citing from="[2009] FMCA 1198">no general obligation on tribunal to further investigate</citphrase>
+<citphrase id="cp32.8" type=citing from="[2009] FMCA 1198">no bias or the apprehension of bias</citphrase>
+<citphrase id="cp32.9" type=citing from="[2009] FMCA 1198">weight attributed to evidence a matter for tribunal</citphrase>
+<citphrase id="cp32.10" type=citing from="[2009] FMCA 1198">no jurisdictional error</citphrase>
+<citphrase id="cp32.11" type=citing from="[2009] FMCA 1198">application dismissed.</citphrase>
+<citphrase id="cp33.0" type=citing from="[2009] FCA 1247">migration</citphrase>
+<citphrase id="cp33.1" type=citing from="[2009] FCA 1247">student visa</citphrase>
+<citphrase id="cp33.2" type=citing from="[2009] FCA 1247">whether appellant had complied with conditions of visa</citphrase>
+<citphrase id="cp33.3" type=citing from="[2009] FCA 1247">whether tribunal should have made decision pursuant to s 359c of the migration act 1958</citphrase>
+<citphrase id="cp33.4" type=citing from="[2009] FCA 1247">whether information before tribunal was sufficient to make decision</citphrase>
+<citphrase id="cp33.5" type=citing from="[2009] FCA 1247">whether tribunal should have sought further information</citphrase>
+<citphrase id="cp33.6" type=citing from="[2009] FCA 1247">whether tribunal failed to make an obvious inquiry about a critical fact, the existence of which is easily ascertained</citphrase>
+<citphrase id="cp33.7" type=citing from="[2009] FCA 1247">whether failure to make that inquiry was a jurisdictional error    practice and procedure</citphrase>
+<citphrase id="cp33.8" type=citing from="[2009] FCA 1247">whether leave should be granted to allow new grounds of appeal to be argued</citphrase>
+<citphrase id="cp33.9" type=citing from="[2009] FCA 1247">whether grounds of appeal relating to conduct of tribunal ought to be allowed where grounds were not argued before federal magistrate</citphrase>
+<citphrase id="cp33.10" type=citing from="[2009] FCA 1247">whether prejudicial to respondent</citphrase>
+<citphrase id="cp34.0" type=citing from="[2009] FCA 1118">administrative law</citphrase>
+<citphrase id="cp34.1" type=citing from="[2009] FCA 1118">natural justice and procedural fairness</citphrase>
+<citphrase id="cp34.2" type=citing from="[2009] FCA 1118">bias and apprehension of bias</citphrase>
+<citphrase id="cp34.3" type=citing from="[2009] FCA 1118">failure to comply with agency head's procedures employment</citphrase>
+<citphrase id="cp34.4" type=citing from="[2009] FCA 1118">suspected breach of australian public service code of conduct</citphrase>
+<citphrase id="cp34.5" type=citing from="[2009] FCA 1118">imposition of sanctions including reduction in classification</citphrase>
+<citphrase id="cp35.0" type=citing from="[2009] FMCA 945">migration</citphrase>
+<citphrase id="cp35.1" type=citing from="[2009] FMCA 945">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp35.2" type=citing from="[2009] FMCA 945">whether tribunal failed to take into account a relevant consideration</citphrase>
+<citphrase id="cp35.3" type=citing from="[2009] FMCA 945">whether tribunal needed to refer to relevant documents</citphrase>
+<citphrase id="cp35.4" type=citing from="[2009] FMCA 945">whether documents formed only part of "background narrative"</citphrase>
+<citphrase id="cp35.5" type=citing from="[2009] FMCA 945">whether claim had been "abandoned"</citphrase>
+<citphrase id="cp35.6" type=citing from="[2009] FMCA 945">whether a finding about particular matter was subsumed in findings of greater generality</citphrase>
+<citphrase id="cp35.7" type=citing from="[2009] FMCA 945">whether conclusions as to credibility were open on available material</citphrase>
+<citphrase id="cp35.8" type=citing from="[2009] FMCA 945">whether applicant seeks impermissible merits review</citphrase>
+<citphrase id="cp35.9" type=citing from="[2009] FMCA 945">whether tribunal under duty to inquire</citphrase>
+<citphrase id="cp35.10" type=citing from="[2009] FMCA 945">no jurisdictional error</citphrase>
+<citphrase id="cp35.11" type=citing from="[2009] FMCA 945">application dismissed.</citphrase>
+<citphrase id="cp36.0" type=citing from="[2009] FMCA 946">migration</citphrase>
+<citphrase id="cp36.1" type=citing from="[2009] FMCA 946">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp36.2" type=citing from="[2009] FMCA 946">whether s.425 requires that the applicant physically appear before the tribunal</citphrase>
+<citphrase id="cp36.3" type=citing from="[2009] FMCA 946">whether the tribunal complied with s.424aa</citphrase>
+<citphrase id="cp36.4" type=citing from="[2009] FMCA 946">whether tribunal sufficiently indicated to applicant that his credibility was at issue</citphrase>
+<citphrase id="cp36.5" type=citing from="[2009] FMCA 946">whether application invites court to engage in impermissible merits review</citphrase>
+<citphrase id="cp36.6" type=citing from="[2009] FMCA 946">whether tribunal failed to inquiry and investigate claims</citphrase>
+<citphrase id="cp36.7" type=citing from="[2009] FMCA 946">whether there was actual bias</citphrase>
+<citphrase id="cp36.8" type=citing from="[2009] FMCA 946">no jurisdictional error</citphrase>
+<citphrase id="cp36.9" type=citing from="[2009] FMCA 946">application dismissed.</citphrase>
+<citphrase id="cp37.0" type=citing from="[2009] FCAFC 123">migration</citphrase>
+<citphrase id="cp37.1" type=citing from="[2009] FCAFC 123">cancellation of transitional special category visa on character grounds under s 501 of the migration act 1958 (cth)</citphrase>
+<citphrase id="cp37.2" type=citing from="[2009] FCAFC 123">whether jurisdictional error. held</citphrase>
+<citphrase id="cp37.3" type=citing from="[2009] FCAFC 123">appeal dismissed</citphrase>
+<citphrase id="cp38.0" type=citing from="[2009] FMCA 750">migration</citphrase>
+<citphrase id="cp38.1" type=citing from="[2009] FMCA 750">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp38.2" type=citing from="[2009] FMCA 750">whether tribunal failed to put dispositive issue to applicant pursuant to s.425 where "alternative basis"</citphrase>
+<citphrase id="cp38.3" type=citing from="[2009] FMCA 750">no jurisdictional error in separate and independent basis for decision</citphrase>
+<citphrase id="cp38.4" type=citing from="[2009] FMCA 750">tribunal entitled to make findings as to applicant's memory difficulties</citphrase>
+<citphrase id="cp38.5" type=citing from="[2009] FMCA 750">tribunal took into account relevant material</citphrase>
+<citphrase id="cp38.6" type=citing from="[2009] FMCA 750">adverse credibility finding made within jurisdiction</citphrase>
+<citphrase id="cp38.7" type=citing from="[2009] FMCA 750">no illogicality or unreasonableness</citphrase>
+<citphrase id="cp38.8" type=citing from="[2009] FMCA 750">no obligation on tribunal to obtain further information from medical practitioner where medical certificate insufficient to support applicant's claims</citphrase>
+<citphrase id="cp38.9" type=citing from="[2009] FMCA 750">country information fell within exception in s.424a(3)(a)</citphrase>
+<citphrase id="cp38.10" type=citing from="[2009] FMCA 750">applicant seeking impermissible merits review</citphrase>
+<citphrase id="cp38.11" type=citing from="[2009] FMCA 750">no jurisdictional error</citphrase>
+<citphrase id="cp38.12" type=citing from="[2009] FMCA 750">application dismissed.  migration</citphrase>
+<citphrase id="cp38.13" type=citing from="[2009] FMCA 750">application to re-open argument</citphrase>
+<citphrase id="cp38.14" type=citing from="[2009] FMCA 750">whether unreasonableness in tribunal failing to make enquiries of applicant's medical practitioner</citphrase>
+<citphrase id="cp38.15" type=citing from="[2009] FMCA 750">whether sglb or prasad to be applied to circumstances</citphrase>
+<citphrase id="cp38.16" type=citing from="[2009] FMCA 750">obligation in prasad does not arise in circumstances</citphrase>
+<citphrase id="cp38.17" type=citing from="[2009] FMCA 750">no obligation on tribunal in circumstances to make further enquiries</citphrase>
+<citphrase id="cp38.18" type=citing from="[2009] FMCA 750">no unreasonable analysis in tribunal's decision</citphrase>
+<citphrase id="cp38.19" type=citing from="[2009] FMCA 750">application to reopen argument dismissed.</citphrase>
+<citphrase id="cp39.0" type=citing from="[2009] FMCA 582">migration</citphrase>
+<citphrase id="cp39.1" type=citing from="[2009] FMCA 582">application to review decision of the refugee review tribunal</citphrase>
+<citphrase id="cp39.2" type=citing from="[2009] FMCA 582">whether tribunal failed to comply with s.425 of the migration act by not providing an interpreter for the primary applicant at the tribunal hearing</citphrase>
+<citphrase id="cp39.3" type=citing from="[2009] FMCA 582">whether tribunal failed to consider an integer of the applicant's claim</citphrase>
+<citphrase id="cp39.4" type=citing from="[2009] FMCA 582">whether breach of s.424a.</citphrase>
+<citphrase id="cp41.0" type=citing from="[2009] FCA 622">migration</citphrase>
+<citphrase id="cp41.1" type=citing from="[2009] FCA 622">appeal</citphrase>
+<citphrase id="cp41.2" type=citing from="[2009] FCA 622">appellant complained about conduct of migration agent during second hearing before refugee review tribunal</citphrase>
+<citphrase id="cp41.3" type=citing from="[2009] FCA 622">whether tribunal had duty to initiate enquiries</citphrase>
+<citphrase id="cp41.4" type=citing from="[2009] FCA 622">whether tribunal failed to obtain important information on a critical issue that was readily available</citphrase>
+<citphrase id="cp41.5" type=citing from="[2009] FCA 622">whether case is rare and exceptional and arises from special circumstances</citphrase>
+<citphrase id="cp42.0" type=citing from="[2009] FMCA 343">migration</citphrase>
+<citphrase id="cp42.1" type=citing from="[2009] FMCA 343">rrt decision</citphrase>
+<citphrase id="cp42.2" type=citing from="[2009] FMCA 343">chinese applicant claiming political persecution</citphrase>
+<citphrase id="cp42.3" type=citing from="[2009] FMCA 343">disbelieved by tribunal</citphrase>
+<citphrase id="cp42.4" type=citing from="[2009] FMCA 343">no jurisdictional error affecting reasoning of tribunal</citphrase>
+<citphrase id="cp42.5" type=citing from="[2009] FMCA 343">tribunal obtained student visa application from department of immigration</citphrase>
+<citphrase id="cp42.6" type=citing from="[2009] FMCA 343">whether required to follow s.424(2) formalities</citphrase>
+<citphrase id="cp42.7" type=citing from="[2009] FMCA 343">whether jurisdictional error arising from irregularity</citphrase>
+<citphrase id="cp42.8" type=citing from="[2009] FMCA 343">discretion to refuse relief where procedural error was without any significance</citphrase>
+<citphrase id="cp42.9" type=citing from="[2009] FMCA 343">application dismissed.</citphrase>
+<citphrase id="cp43.0" type=citing from="[2009] FMCA 268">migration</citphrase>
+<citphrase id="cp43.1" type=citing from="[2009] FMCA 268">rrt decision</citphrase>
+<citphrase id="cp43.2" type=citing from="[2009] FMCA 268">indian claiming fear of persecution for reasons of caste, political activity, and conversion to christianity</citphrase>
+<citphrase id="cp43.3" type=citing from="[2009] FMCA 268">claims of political activities disbelieved</citphrase>
+<citphrase id="cp43.4" type=citing from="[2009] FMCA 268">relocation found reasonable by tribunal</citphrase>
+<citphrase id="cp43.5" type=citing from="[2009] FMCA 268">no jurisdictional error found</citphrase>
+<citphrase id="cp43.6" type=citing from="[2009] FMCA 268">application dismissed.</citphrase>
+<citphrase id="cp44.0" type=citing from="[2009] FMCA 248">migration</citphrase>
+<citphrase id="cp44.1" type=citing from="[2009] FMCA 248">rrt decision</citphrase>
+<citphrase id="cp44.2" type=citing from="[2009] FMCA 248">bangladeshi fearing persecution for political activities</citphrase>
+<citphrase id="cp44.3" type=citing from="[2009] FMCA 248">disbelieved by tribunal</citphrase>
+<citphrase id="cp44.4" type=citing from="[2009] FMCA 248">no error in discounting of corroborative letters</citphrase>
+<citphrase id="cp44.5" type=citing from="[2009] FMCA 248">conclusion on credibility not manifestly unreasonable nor based on illogical foundation</citphrase>
+<citphrase id="cp44.6" type=citing from="[2009] FMCA 248">no jurisdictional error</citphrase>
+<citphrase id="cp44.7" type=citing from="[2009] FMCA 248">application dismissed.</citphrase>
+<citphrase id="cp45.0" type=citing from="[2009] FCA 79">migration</citphrase>
+<citphrase id="cp45.1" type=citing from="[2009] FCA 79">character test</citphrase>
+<citphrase id="cp45.2" type=citing from="[2009] FCA 79">documents before tribunal included criminal history, sentencing decision and medical reports</citphrase>
+<citphrase id="cp45.3" type=citing from="[2009] FCA 79">whether tribunal obliged to investigate provenance of the documents</citphrase>
+<citphrase id="cp45.4" type=citing from="[2009] FCA 79">provenance not challenged in tribunal</citphrase>
+<citphrase id="cp45.5" type=citing from="[2009] FCA 79">tribunal under no obligation to investigate provenance of documents</citphrase>
+<citphrase id="cp45.6" type=citing from="[2009] FCA 79">applicant dyslexic</citphrase>
+<citphrase id="cp45.7" type=citing from="[2009] FCA 79">whether tribunal obliged to put each matter to applicant and to read excerpts of documents to him</citphrase>
+<citphrase id="cp45.8" type=citing from="[2009] FCA 79">applicant represented by counsel</citphrase>
+<citphrase id="cp45.9" type=citing from="[2009] FCA 79">tribunal under no such obligation</citphrase>
+<citphrase id="cp46.0" type=citing from="[2009] FMCA 44">migration</citphrase>
+<citphrase id="cp46.1" type=citing from="[2009] FMCA 44">rrt decision</citphrase>
+<citphrase id="cp46.2" type=citing from="[2009] FMCA 44">bangladeshi applicant claiming political persecution</citphrase>
+<citphrase id="cp46.3" type=citing from="[2009] FMCA 44">claims not made in visa application</citphrase>
+<citphrase id="cp46.4" type=citing from="[2009] FMCA 44">delay in raising them before tribunal</citphrase>
+<citphrase id="cp46.5" type=citing from="[2009] FMCA 44">tribunal rejected claims as recent invention</citphrase>
+<citphrase id="cp46.6" type=citing from="[2009] FMCA 44">whether conclusion affected by fraud of migration agent</citphrase>
+<citphrase id="cp46.7" type=citing from="[2009] FMCA 44">fraudulent conduct not established</citphrase>
+<citphrase id="cp46.8" type=citing from="[2009] FMCA 44">no jurisdictional error by tribunal in consideration of corroborative documents</citphrase>
+<citphrase id="cp46.9" type=citing from="[2009] FMCA 44">no duties on tribunal to inquire or obtain translations</citphrase>
+<citphrase id="cp46.10" type=citing from="[2009] FMCA 44">no jurisdictional error in tribunal's application of s.91r(3)</citphrase>
+<citphrase id="cp46.11" type=citing from="[2009] FMCA 44">application dismissed.</citphrase>
+<citphrase id="cp48.0" type=citing from="[2008] FMCA 1726">migration</citphrase>
+<citphrase id="cp48.1" type=citing from="[2008] FMCA 1726">rrt decision</citphrase>
+<citphrase id="cp48.2" type=citing from="[2008] FMCA 1726">pakistani claiming persecution by muslim extremists</citphrase>
+<citphrase id="cp48.3" type=citing from="[2008] FMCA 1726">disbelieved by tribunal</citphrase>
+<citphrase id="cp48.4" type=citing from="[2008] FMCA 1726">his claims and evidence were considered</citphrase>
+<citphrase id="cp48.5" type=citing from="[2008] FMCA 1726">no apprehension of bias</citphrase>
+<citphrase id="cp48.6" type=citing from="[2008] FMCA 1726">no obligation to investigate purported translation of newspaper article</citphrase>
+<citphrase id="cp48.7" type=citing from="[2008] FMCA 1726">reasoning rational and open to tribunal</citphrase>
+<citphrase id="cp48.8" type=citing from="[2008] FMCA 1726">no jurisdictional error established</citphrase>
+<citphrase id="cp48.9" type=citing from="[2008] FMCA 1726">application dismissed.</citphrase>
+<citphrase id="cp49.0" type=citing from="[2008] FCA 1937">migration</citphrase>
+<citphrase id="cp49.1" type=citing from="[2008] FCA 1937">chinese citizen claiming to be a member of the unregistered roman catholic church in the people's republic of china</citphrase>
+<citphrase id="cp49.2" type=citing from="[2008] FCA 1937">not believed by the refugee review tribunal</citphrase>
+<citphrase id="cp49.3" type=citing from="[2008] FCA 1937">no jurisdictional error</citphrase>
+<citphrase id="cp50.0" type=citing from="[2008] FCA 1803">migration</citphrase>
+<citphrase id="cp50.1" type=citing from="[2008] FCA 1803">reliance on a magazine article to establish the genuineness of claims made by the appellant in respect of his alleged involvement in an incident</citphrase>
+<citphrase id="cp50.2" type=citing from="[2008] FCA 1803">tribunal unable to be satisfied as to genuineness of magazine account</citphrase>
+<citphrase id="cp50.3" type=citing from="[2008] FCA 1803">alleged failure by tribunal to inquire into the authenticity of the article and consequential denial of a fair hearing</citphrase>
+<citphrase id="cp50.4" type=citing from="[2008] FCA 1803">consideration of what constitutes rare and exceptional circumstances where further inquiry may be appropriate</citphrase>
+<citphrase id="cp51.0" type=citing from="[2008] FMCA 1201">migration</citphrase>
+<citphrase id="cp51.1" type=citing from="[2008] FMCA 1201">applications to tribunal to reschedule hearings and provide extensions of time</citphrase>
+<citphrase id="cp51.2" type=citing from="[2008] FMCA 1201">tribunal required medical evidence of inability to attend or respond</citphrase>
+<citphrase id="cp51.3" type=citing from="[2008] FMCA 1201">psychologists report provided</citphrase>
+<citphrase id="cp51.4" type=citing from="[2008] FMCA 1201">not medical evidence</citphrase>
+<citphrase id="cp51.5" type=citing from="[2008] FMCA 1201">no breach of s.425</citphrase>
+<citphrase id="cp51.6" type=citing from="[2008] FMCA 1201">real and meaningful invitation to appear.</citphrase>
+<citphrase id="cp52.0" type=citing from="[2008] FMCA 1268">migration</citphrase>
+<citphrase id="cp52.1" type=citing from="[2008] FMCA 1268">review of decision of refugee review tribunal</citphrase>
+<citphrase id="cp52.2" type=citing from="[2008] FMCA 1268">whether jurisdictional error</citphrase>
+<citphrase id="cp52.3" type=citing from="[2008] FMCA 1268">protection (class xa) visa</citphrase>
+<citphrase id="cp52.4" type=citing from="[2008] FMCA 1268">whether the tribunal gave proper consideration to potentially corroborative material</citphrase>
+<citphrase id="cp52.5" type=citing from="[2008] FMCA 1268">the proper characterisation of such material</citphrase>
+<citphrase id="cp52.6" type=citing from="[2008] FMCA 1268">whether the tribunal had a duty to enquire into the authenticity of such material</citphrase>
+<citphrase id="cp52.7" type=citing from="[2008] FMCA 1268">beneficial construction of tribunal decision</citphrase>
+<citphrase id="cp52.8" type=citing from="[2008] FMCA 1268">the operation of s.420 of the act in light of s.422b of the act</citphrase>
+<citphrase id="cp52.9" type=citing from="[2008] FMCA 1268">natural justice</citphrase>
+<citphrase id="cp52.10" type=citing from="[2008] FMCA 1268">procedural fairness.</citphrase>
+<citphrase id="cp53.0" type=citing from="[2008] FCA 1372">migration</citphrase>
+<citphrase id="cp53.1" type=citing from="[2008] FCA 1372">application to raise ground of appeal abandoned below</citphrase>
+<citphrase id="cp53.2" type=citing from="[2008] FCA 1372">jurisdiction or discretion</citphrase>
+<citphrase id="cp53.3" type=citing from="[2008] FCA 1372">role of appellate court to correct error</citphrase>
+<citphrase id="cp53.4" type=citing from="[2008] FCA 1372">public law</citphrase>
+<citphrase id="cp53.5" type=citing from="[2008] FCA 1372">need for timely decisions</citphrase>
+<citphrase id="cp53.6" type=citing from="[2008] FCA 1372">certificates filed by appellant</citphrase>
+<citphrase id="cp53.7" type=citing from="[2008] FCA 1372">inquiry initiated by tribunal unearthed opposing evidence</citphrase>
+<citphrase id="cp53.8" type=citing from="[2008] FCA 1372">certificates said to be " fake &amp; forged "</citphrase>
+<citphrase id="cp53.9" type=citing from="[2008] FCA 1372">further inquiry required</citphrase>
+<citphrase id="cp53.10" type=citing from="[2008] FCA 1372">appeal allowed</citphrase>
+<citphrase id="cp54.0" type=citing from="[2008] FMCA 1211">migration</citphrase>
+<citphrase id="cp54.1" type=citing from="[2008] FMCA 1211">judicial review of refusal to grant protection visa</citphrase>
+<citphrase id="cp54.2" type=citing from="[2008] FMCA 1211">whether tribunal failed to make relevant enquiries</citphrase>
+<citphrase id="cp54.3" type=citing from="[2008] FMCA 1211">relevant considerations when considering reasonableness of tribunal conduct.</citphrase>
+<citphrase id="cp55.0" type=citing from="[2008] FCAFC 108">administrative law</citphrase>
+<citphrase id="cp55.1" type=citing from="[2008] FCAFC 108">consideration of the principles informing whether a decision of the administrative appeals tribunal in part founded upon inferences unsupported by evidence of primary facts gives rise to an error of law</citphrase>
+<citphrase id="cp55.2" type=citing from="[2008] FCAFC 108">consideration of the principles upon which a court exercising supervisory review of administrative decision-making will examine a process of reasoning leading to findings of fact social welfare and services</citphrase>
+<citphrase id="cp55.3" type=citing from="[2008] FCAFC 108">consideration of the provisions of the social security act 1991 (cth) dealing with an applicant's entitlement to austudy payments</citphrase>
+<citphrase id="cp55.4" type=citing from="[2008] FCAFC 108">consideration of whether an applicant is 'undertaking qualifying study' giving rise to an entitlement to austudy payments</citphrase>
+<citphrase id="cp55.5" type=citing from="[2008] FCAFC 108">consideration of the construction of s 1237a of the social security act 1991 (cth)</citphrase>
+<citphrase id="cp56.0" type=citing from="[2008] FCA 789">migration</citphrase>
+<citphrase id="cp56.1" type=citing from="[2008] FCA 789">refugee review tribunal</citphrase>
+<citphrase id="cp56.2" type=citing from="[2008] FCA 789">applicant to make out his case</citphrase>
+<citphrase id="cp56.3" type=citing from="[2008] FCA 789">inquisitorial functions of tribunal</citphrase>
+<citphrase id="cp56.4" type=citing from="[2008] FCA 789">alleged inadequate translation service</citphrase>
+<citphrase id="cp56.5" type=citing from="[2008] FCA 789">no denial of opportunity to present case</citphrase>
+<citphrase id="cp56.6" type=citing from="[2008] FCA 789">onus on applicant in judicial review proceedings</citphrase>
+<citphrase id="cp56.7" type=citing from="[2008] FCA 789">onus not discharged</citphrase>
+<citphrase id="cp57.0" type=citing from="[2008] FCA 755">migration</citphrase>
+<citphrase id="cp57.1" type=citing from="[2008] FCA 755">alleged contradictory findings by refugee review tribunal</citphrase>
+<citphrase id="cp57.2" type=citing from="[2008] FCA 755">failure to accept claims</citphrase>
+<citphrase id="cp57.3" type=citing from="[2008] FCA 755">impermissible merits review</citphrase>
+<citphrase id="cp57.4" type=citing from="[2008] FCA 755">no failure to provide " adverse information "</citphrase>
+<citphrase id="cp57.5" type=citing from="[2008] FCA 755">leave to raise new ground refused</citphrase>
+<citphrase id="cp57.6" type=citing from="[2008] FCA 755">no denial of opportunity to give evidence and make submissions</citphrase>
+<citphrase id="cp57.7" type=citing from="[2008] FCA 755">inquisitorial function of tribunal</citphrase>
+<citphrase id="cp58.0" type=citing from="[2008] FCA 774">migration</citphrase>
+<citphrase id="cp58.1" type=citing from="[2008] FCA 774">consideration of grounds of appeal contending for jurisdictional error on the part of the refugee review tribunal in failing to investigate and enquire into documents put to the tribunal and a failure to investigate the content of material raised by the documents</citphrase>
+<citphrase id="cp58.2" type=citing from="[2008] FCA 774">consideration of a failure of procedural fairness on the part of the tribunal as a contended ground of error on the part of the federal magistrate in failing to find a failure of procedural fairness on the part of the tribunal and jurisdictional error</citphrase>
+<citphrase id="cp59.0" type=citing from="[2008] FCA 600">migration</citphrase>
+<citphrase id="cp59.1" type=citing from="[2008] FCA 600">judicial review</citphrase>
+<citphrase id="cp59.2" type=citing from="[2008] FCA 600">protection visa</citphrase>
+<citphrase id="cp59.3" type=citing from="[2008] FCA 600">where appellant worked for migration agent as a nanny</citphrase>
+<citphrase id="cp59.4" type=citing from="[2008] FCA 600">where agent told appellant to work rather than go to tribunal hearing</citphrase>
+<citphrase id="cp59.5" type=citing from="[2008] FCA 600">where appellant did not understand english</citphrase>
+<citphrase id="cp59.6" type=citing from="[2008] FCA 600">whether invitation in english to attend hearing was "real and meaningful"</citphrase>
+<citphrase id="cp59.7" type=citing from="[2008] FCA 600">whether tribunal failed to undertake a reasonably open and regular administrative procedural step</citphrase>
+<citphrase id="cp59.8" type=citing from="[2008] FCA 600">where appellant subsequently gave false information to the federal magistrate</citphrase>
+<citphrase id="cp59.9" type=citing from="[2008] FCA 600">allegation of third party fraud on tribunal</citphrase>
+<citphrase id="cp59.10" type=citing from="[2008] FCA 600">leave sought to adduce further evidence explaining failure to attend hearing</citphrase>
+<citphrase id="cp60.0" type=citing from="[2008] FCA 357">migration</citphrase>
+<citphrase id="cp60.1" type=citing from="[2008] FCA 357">whether jurisdictional error</citphrase>
+<citphrase id="cp60.2" type=citing from="[2008] FCA 357">obligation to obtain additional information</citphrase>
+<citphrase id="cp60.3" type=citing from="[2008] FCA 357">requirements of natural justice</citphrase>
+<citphrase id="cp60.4" type=citing from="[2008] FCA 357">hearing rule</citphrase>
+<citphrase id="cp60.5" type=citing from="[2008] FCA 357">wednesbury unreasonableness</citphrase>
+<citphrase id="cp61.0" type=citing from="[2008] FCAFC 1">migration law</citphrase>
+<citphrase id="cp61.1" type=citing from="[2008] FCAFC 1">notice of invitation to appear issued by tribunal under s 425a of the migration act 1958 (cth) communicated effect of s 426(2)</citphrase>
+<citphrase id="cp61.2" type=citing from="[2008] FCAFC 1">information forming part of tribunal's reason to affirm delegate's decision given to the appellant pursuant to s 424a</citphrase>
+<citphrase id="cp61.3" type=citing from="[2008] FCAFC 1">failure to contact appellant after non-attendance at hearing did not subvert invite issued under s 425.</citphrase>
+<citphrase id="cp62.0" type=citing from="[2008] FMCA 4">migration</citphrase>
+<citphrase id="cp62.1" type=citing from="[2008] FMCA 4">application to review decision of refugee review tribunal</citphrase>
+<citphrase id="cp62.2" type=citing from="[2008] FMCA 4">whether the tribunal failed to comply with s.425 of the migration act, whether apprehended bias, failure to have regard to relevant considerations or constructive failure to exercise jurisdiction.</citphrase>
+</citphrases>
+<citances>
+<sentence id="cs0" from="[2010] FCA 1267"></sentence>
+<sentence id="cs1" from="[2010] FMCA 255">Third, and in any event, there is no general obligation or duty on the Tribunal to make enquiries in the statutory context under which the Tribunal is required to operate ( Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 121 at [21] to [22] per Gummow and Hayne JJ. See also SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 at [46] per Allsop J, WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 at [24] ). </sentence>
+<sentence id="cs2" from="[2010] FMCA 285">In relation to the complaint that the Tribunal failed to make inquiries to the assistant parish priest who was the purported author of a letter received by the Tribunal, I am not satisfied that this omission evidences any jurisdictional error. The Tribunal is normally not bound to make further inquiries to establish the authenticity or truth of corroborative documents, and there is no circumstance in the present case which brings the situation within the extraordinary circumstances in which a duty to make further inquiries might arise. I have assumed that Minister for Immigration &amp; Citizenship v SZIAI (2009) 259 ALR 429 , [2009] HCA 39 at [25] gives continuing life to the principles previously applied in cases such as Minister for Immigration &amp; Citizenship v Le [2007] FCA 1318 ; (2007) 164 FCR 151 at [77] , and SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] - [60]. In the absence of any obligation to make such an inquiry, the failure of the Tribunal to make it would not cause a fair-minded lay observer in the present case to doubt whether the Tribunal might not be conducting its review with an open mind. </sentence>
+<sentence id="cs3" from="[2010] FCA 202">They are to be found in the provisions of the Migration Act . The core function, in the words of s 414 of the Act, is to "review the decision" which is the subject of a valid application made to the Tribunal under s 412 of the Act. 
+ 
+
+ 
+See also: SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [57] , [2007] FCA 1592 ; 164 FCR 14 at 28 to 29 per Allsop J. </sentence>
+<sentence id="cs4" from="[2010] FCA 105">Although the Tribunal performs an inquisitorial function ( Minister for Immigration and Citizenship v SZIAI [2009] HCA 39 at [18] , [2009] HCA 39 ; 259 ALR 429 at 434; SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [57] , [2007] FCA 1592 ; 164 FCR 14 at 28 to 29), it remains the primary responsibility of a claimant to present such evidence and to advance such submissions as are considered relevant to the claims being made: Abebe v Commonwealth [1999] HCA 14 ; (1999) 197 CLR 510 at 576; SZJZS v Minister for Immigration and Citizenship [2008] FCA 789 at [15] to [16] , 102 ALD 318 at 321 to 322; SZLVZ v Minister for Immigration and Citizenship [2008] FCA 1816 at [24] . </sentence>
+<sentence id="cs5" from="[2010] FMCA 90">In particular, I do not consider that the Tribunal was under any legal obligation to adjourn, so as to engage in further investigations as to the authenticity of the documents presented by the applicant, either by itself or by requesting the Secretary to conduct investigations pursuant to s.427(1)(d). It has been well-established in the Federal Court that the exercise of the Tribunal's discretion in relation to investigation is not vitiated by a failure to investigate, except in exceptional circumstances (cf. Minister for Immigration &amp; Citizenship v Le [2007] FCA 1318 ; (2007) 164 FCR 151 at [77] , and SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] - [60]) . This line of authority may have survived the High Court's judgment in Minister for Immigration and Citizenship v SZIAI [2009] HCA 39 (see [25]). Assuming that it has, I can find nothing in the present circumstances satisfying the principles which have been articulated in the Federal Court. Importantly, the argument presented in particular (iii) of Ground 1 does not explain how inquiries " of the PRC authorities directly " could properly have been made by the Tribunal, nor how they would have clearly resolved the Tribunal's concerns about these documents. </sentence>
+<sentence id="cs6" from="[2009] FMCA 1300">It is the case, as Mr Pinder, in my view, again correctly submitted, that there is no general duty on the Tribunal to have made inquiries or to have investigated, nor to have made inquiries of his employer in the circumstances of this case ( Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 121 at [21] to [22] per Gummow and Hayne JJ. See also SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 at [46] per Allsop J, WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 at [24] ). </sentence>
+<sentence id="cs7" from="[2009] FMCA 1198">As to the reference of failure to investigate, there is no general obligation on the Tribunal to make any further investigation that I can see in this case. The applicant does not say with any specificity what the Tribunal failed to investigate. If what he means is that it failed to make inquiries, then, as have said, I cannot see that there is any obligation on the Tribunal to have done so ( Minister for Immigration and Multicultural and Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 121 at [21] to [22] per Gummow and Hayne JJ; see also SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [46] per Allsop J; WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 at [24] ). </sentence>
+<sentence id="cs8" from="[2009] FCA 1247">Secondly, the appellant submits that the Tribunal, pursuant to SZJBA v Minister for Immigration and Citizenship and Another [2007] FCA 1592 ; (2007) 164 FCR 14 , was obliged to undertake reasonably open and regular administrative steps to permit or facilitate fulfilment of the ' real and meaningful nature of the invitation to comment ' (at [53]). The appellant submits that such obligation arises where the Tribunal is aware that the record of claims made by an applicant and received by the Tribunal is incomplete. It is submitted by the appellant that the Tribunal was aware of a ' conspicuous absence of any explanation ' of the medical records submitted by the appellant. </sentence>
+<sentence id="cs9" from="[2009] FCA 1118">SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 was another case where the circumstances were rare or exceptional. In that case a coversheet together with a five page submission had apparently been forwarded by facsimile to the Refugee Review Tribunal in response to a s 424A letter under the Migration Act 1958 (Cth) inviting comment on certain information, but only the cover sheet was received. Allsop J, as his Honour then was, held that it was a case where the Tribunal needed to see and should have inquired about the absence of the missing five page submission. </sentence>
+<sentence id="cs10" from="[2009] FMCA 945">I agree with the Minister's submissions that, but for exceptional circumstances, the Tribunal is under no general duty to inquire ( Minister for Immigration and Multicultural and Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 121 at 21-22 per Gummow and Hayne JJ; see also SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at 46 per Allsop J; WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 at 24). </sentence>
+<sentence id="cs11" from="[2009] FMCA 946">As the Minister submits, there is no general duty to inquire ( Minister for Immigration and Multicultural and Indigenous Affairs v SGLB [2004] HCA 32 ; (2004) 207 ALR 121 at [21] to [22] per Gummow and Hayne JJ; see also SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [46] per Allsop J; WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 at [24] ). </sentence>
+<sentence id="cs12" from="[2009] FCAFC 123">25 As to ground 3, her Honour was satisfied that the appellant's counsel in the hearing before the Tribunal had been properly instructed and had had an opportunity to flag the need for further inquiries into the provenance of psychological and sentencing reports, but had not done so. Her Honour distinguished the present case from that in SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 , where the failure in the Tribunal's process was merely " to take a simple administrative step of an office or housekeeping nature ". Her Honour also placed importance on the fact that there was no challenge to the facts contained in those documents. Her Honour accordingly held that no duty to make further inquiries arose in these circumstances. </sentence>
+<sentence id="cs13" from="[2009] FMCA 750">The issue before the Court on appeal was whether the Tribunal should have made further enquiries of the two persons who had provided the certification, and/or the Association itself (at [16]). It is important to note that the way that the matter was argued before his Honour did not involve any submission that the power of the Tribunal to make further enquiries imposed upon it any duty or obligation to do so. This was done with reference to SGLB , SZJBA v Minister for Immigration and Citizenship and Another [2007] FCA 1592 , and WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 (at [18]). The issue before his Honour, therefore, was "whether or not it was unreasonable not to have made further inquiries" (at [18]). </sentence>
+<sentence id="cs14" from="[2009] HCATrans 165">Firstly, the judgment of Justice Allsop in SZJBA [2007] FCA 1592 ; 164 FCR 14 at page 29 of the judgment. Your Honours were taken to Justice Allsop's judgment in SZJBA [2007] FCA 1592 ; 164 FCR 14.</sentence>
+<sentence id="cs15" from="[2009] FMCA 582">While this ground is expressed in terms of procedural fairness, in submissions the applicant placed reliance on s.425 of the Migration Act which requires the Tribunal to invite the applicant to appear before it to give evidence and present arguments relating to the issues arising in relation to the decision under review. It was contended that the requisite " meaningful opportunity " to appear to give evidence and present arguments under s.425 (see Allsop J in SZJBA v Minister for Immigration and Citizenship and Another [2007] FCA 1592 ; (2007) 164 FCR 14 at [53] and SZGYM v Minister for Immigration and Citizenship [2007] FCA 1923 at [27] per Graham J) had not been provided. In light of s.422B of the Act and the manner in which this ground was argued I have considered whether there was a failure to comply with s.425 of the Act.  Reference was made to the remarks of Goldberg J in Mazhar (at [31]), including the oft-cited comment that the invitation to a hearing " must not be a hollow shell or am empty gesture" (also see SZJBA v Minister for Immigration and Citizenship and Another [2007] FCA 1592 ; (2007) 164 FCR 14 at [53] per Allsop J). Particular reliance was placed on SZGYM in which Graham J stated at [27]: Whilst there is no provision in the Act dealing with the engagement of interpreters it is evident that a meaningful opportunity to give evidence and present arguments in the case of a person who is not fluent in the English language will only be afforded if an interpreter is present and it is evident that, subject to a reasonably accurate interpretation, that which the applicant wishes to convey to the Tribunal and that which the Tribunal wishes to convey to the applicant is fairly interpreted. </sentence>
+<sentence id="cs16" from="[2009] FCA 576"></sentence>
+<sentence id="cs17" from="[2009] FCA 622">She characterised the case as "rare and exceptional", and the inquiries which she thought were required as "not difficult to make and straightforward" (see [77] --- [79]). Similar conclusions have been reached in other recent cases (cf. SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] --- [60], and SZIAI v Minister for Immigration &amp; Citizenship [2008] FCA 1372 at [29] ). However, all the authorities have emphasised that the obligation to initiate inquiries is exceptional, and arises from some special circumstance in the procedures followed by the Tribunal, in which there is "readily available and centrally important" information which it is obviously reasonable to expect the Tribunal to obtain (cf. SZICU v Minister for Immigration &amp; Citizenship [2008] FCAFC 1 at [29] ).</sentence>
+<sentence id="cs18" from="[2009] FMCA 343">In relation to the contention that the Tribunal should have made contact with the doctor, I accept the submission of counsel for the Minister. He referred to Minister for Immigration and Multicultural &amp; Indigenous Affairs v SGLB (2004) 207 ALR 12 , where at [19], [43] and [124], their Honours emphasised that the Tribunal has no general duty to obtain medical evidence through its own inquiries, in circumstances which have some similarity with the present. In the present case, there was no special circumstance which would give rise to any such duty (compare: Minister for Immigration &amp; Citizenship v Le [2007] FCA 1318 ; (2007) 164 FCR 151 at [77] , SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] - [60], SZIAI v Minister for Immigration &amp; Citizenship [2008] FCA 1372 [Special leave granted 13-2-09], SZICU v Minister for Immigration &amp; Citizenship [2008] FCAFC 1 at [29] , and Wrecker v Secretary, DEST [2008] FCAFC 108 ; (2008) 168 FCR 272 at [110] ). I can therefore detect no error, whether jurisdictional or otherwise, in relation to the Tribunal's consideration of the applicant's claims about her mental state and the letter from Dr Zhu. </sentence>
+<sentence id="cs19" from="[2009] FMCA 268">The applicant's references to Pestell's case and Prasad's case are obscure. This is not a case where it is reasonably arguable that there was any obvious inquiry required to be taken by the Tribunal which was not taken (compare Minister for Immigration &amp; Citizenship v Le [2007] FCA 1318 ; (2007) 164 FCR 151 at [77] , SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] - [60], and SZIAI v Minister for Immigration &amp; Citizenship [2008] FCA 1372 [Special leave granted 13-02-09], with SZICU v Minister for Immigration &amp; Citizenship [2008] FCAFC 1 at [29], and Wecker v Secretary, Department of Education, Science and Training [2008] FCAFC 108 ; (2008) 168 FCR 272 at [110] ). </sentence>
+<sentence id="cs20" from="[2009] FMCA 248">In relation to the Tribunal's failure to initiate inquiries in Bangladesh, I can identify no basis for bringing the present situation within the exceptional cases where a duty can arise (compare Minister for Immigration &amp; Citizenship v Le [2007] FCA 1318 ; (2007) 164 FCR 151 at [77] , SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] - [60], and SZIAI v Minister for Immigration &amp; Citizenship [2008] FCA 1372 [Special leave granted 13-2-09], with SZICU v Minister for Immigration &amp; Citizenship [2008] FCAFC 1 at [29] , and Wrecker v Secretary, DEST (2008) 168 FCR 272 at [110]) </sentence>
+<sentence id="cs21" from="[2009] FCA 79">Mr Aporo relies on SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; [2007] FCA 1592 ; (2007) 164 FCR 14 at [53] ---[56]. In that case Allsop J considered a circumstance in which the Tribunal relied upon the fact that an appellant failed to submit a response to the invitation to make submissions when in fact the Tribunal had received a cover sheet stating that submissions were enclosed even though, apparently by mistake, they were not. The appellant submitted that in those circumstances the Tribunal should have made inquiries about the missing enclosure and the comments the appellant intended to make, as it was on notice that the enclosure had been forwarded.</sentence>
+<sentence id="cs22" from="[2009] FMCA 44">Kenny J held in that case that the Tribunal should have inquired into the qualifications of an interpreter at a Departmental interview, whose interpretation of a critical admission was called into question. She characterised the case as "rare or exceptional" , and the inquiries which she thought were required as "not difficult to make" and "straightforward" (see [77]-[79]). Similar conclusions have been reached in other recent cases (cf. SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 at [59] - [60], and SZIAI v Minister for Immigration &amp; Citizenship [2008] FCA 1372 at [29] ). However, all the authorities have emphasised that the obligation to initiate inquiries is exceptional, and arises from some special circumstance in the procedures followed by the Tribunal, in which there is "readily available and centrally important" information which it is obviously reasonable to expect the Tribunal to obtain (cf. SZICU v Minister for Immigration &amp; Citizenship [2008] FCAFC 1 at [29] ). </sentence>
+<sentence id="cs23" from="[2009] FCA 2">In Yang , an application for a student visa had been rejected upon the ground that the undertaking of studies at the year 10 level in Australia would have involved a "regression" with respect to the school level which the applicant had achieved in China, which was said to be "year 12". However, the decision-maker had taken no step to ascertain what was involved in schooling at that year level in China. In another case in the same line, SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 the decision-maker received the cover sheet of a facsimile communication, which indicated that the communication consisted of five pages. The remaining pages were not received. The decision-maker took no step to contact the sender with a view to enquiring about the missing pages. </sentence>
+<sentence id="cs24" from="[2008] FMCA 1726"></sentence>
+<sentence id="cs25" from="[2008] FCA 1937">
+ 
+ 
+39 It seems to me that the circumstances of this case were not such as to require the Tribunal to make some further inquiry about the documents submitted by the appellant before making a decision on the application for review. The circumstances in which such inquiry is required are limited to rare or exceptional cases such as were considered by Kenny J in Minister for Immigration and Citizenship v Le [2007] FCA 1318 ; (2007) 242 ALR 455 and by Allsop J, as his Honour then was, in SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14. </sentence>
+<sentence id="cs26" from="[2008] FCA 1803">31 It is useful to also note a judgment of Allsop J, as his Honour then was, in SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14 , to which reference was helpfully made by counsel for the appellant. In that case, a cover sheet together with a five page submission had apparently been forwarded by facsimile to the Tribunal in response to a s 424A letter inviting comment on certain information, but only the cover sheet was received. Plainly, it was a case where the Tribunal needed to see, and should have inquired about the absence of, the missing five page submission.</sentence>
+<sentence id="cs27" from="[2008] FMCA 1201">In any event, the Tribunal did not proceed without making enquiries; it made repeated enquiries of the applicant and his lawyers, and it gave an opportunity to respond until the decision was handed down. The practical difficulties of obtaining confidential information from 
+Dr Crimmins are to be contrasted with the situation in Lee (supra) where the Tribunal could simply have obtained information that was in the possession of the department. The present case is also distinguishable from SZJBA v MIC [2007] FCA 1592 where pages were missing from a document sent by facsimile.  In SZJBA v MIC [2007] FCA 1592 Justice Allsop held that in relation to s.425A letters each invitation must be real and meaningful. SZJBA is a very different case from the present. There a page was missing from a facsimile sent to the Tribunal. The applicant was not in a position to know of the defect. Here the applicant was fully aware of the shortfall in his material --- he was best placed to provide further material --- but declined. The Court makes the same comments it made in relation to SCAR . </sentence>
+<sentence id="cs28" from="[2008] FMCA 1268">I note the clear qualification placed on these general principles in the remarks of Kenny J in Minister for Immigration and Citizenship v Le [2007] FCA 1318 (2007) 242 ALR 455 , in particular at [63] that: A failure by a decision maker to obtain important information on a critical issue, which the decision-maker knows or ought reasonably to know is readily available, may be characterized as so unreasonable that no reasonable decision maker would proceed to make the decision without making the inquiry: see Prasad at FCR 169-70; ALR 562-4 per Wilcox J ... 
+And at [77]:
+ 
+ this is one of those rare or exceptional cases where a decision-maker acting reasonably would have made some further inquiry before making a decision. 
+ It is in this context that I note the remarks of Wilcox J in Prasad as quoted by Kenny J, with emphasis, in Le at [64] that: Equally, [a power] is exercised in an improper manner if the decision-maker makes his decision --- which perhaps in itself, reasonably reflects the material before him --- in a manner so devoid of any plausible justification that no reasonable person could have taken this course, for example by unreasonably failing to ascertain relevant facts which he knew to be readily available to him. I also note the endorsement of the remarks of Kenny J in SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 by Allsop J at [60]: The same conclusion is to be reached by the application of the principles that in certain circumstances the decision of a Tribunal or decision-maker will be vitiated if some inquiry is not made. Most recently, Kenny J examined these cases in her Honour's comprehensive judgment in Minister for Immigration and Citizenship v Le [2007] FCA 1318. It can readily accepted, as her Honour said, that there is no general obligation to inquire found in s 424(7), nor is there a general obligation to initiate inquiries or to make an applicant's case for him or her.</sentence>
+<sentence id="cs29" from="[2008] FCA 1372">In this circumstance what vitiates the decision is the manner in which it was made. Since this is a limited proposition, it does not conflict with the larger statement that the Tribunal is under no general duty with respect to making enquiries... 
+Appl'd: Bunnag v Minister for Immigration and Citizenship [2008] FCA 357 at [36] per McKerracher J. In circumstances where a migration agent forwards by way of facsimile a cover sheet together with a five page submission and where only the cover sheet is received, it has been held to be unreasonable for the Tribunal not to inquire about the missing pages: SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 , 164 FCR 14 per Allsop J. 18 There was, however, no opposition to advancing the submission as to a failure to make inquiries in terms of the decision being unreasonable. So structured, the dispute centred upon whether or not it was unreasonable not to have made further inquiries. No submission was advanced on behalf of the Appellant, nor could it have been advanced, that the power of the Tribunal to make further inquiries imposed upon it " any duty or obligation to do so ": Minister for Immigration and Multicultural and Indigenous Affairs v SGLB [2004] HCA 32 at [43] , 207 ALR 12 at 21---2 per Gummow and Hayne JJ. See also: SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [46] , [2007] FCA 1592 ; 164 FCR 14 at 25 per Allsop J; WAGJ v Minister for Immigration &amp; Multicultural &amp; Indigenous Affairs [2002] FCAFC 277 at [24] . Nor was any submission advanced on behalf of the Respondent Minister that there was not a line of inquiry which was readily available to the Tribunal and centrally relevant to the task being undertaken: eg, Li v Minister for Immigration and Citizenship [2007] FCA 1098 at [28] , [2007] FCA 1098 ; 96 ALD 361 at 367 per Kenny J. The simple submission advanced on behalf of the Respondent Minister was that there was material upon which the Tribunal could justifiably have based its decision and there was, in those circumstances, no duty to inquire further. The response of the Association was disclosed to the now Appellant and he provided his response.</sentence>
+<sentence id="cs30" from="[2008] FMCA 1211">The applicant relied upon the decisions of Wickramasinghe v The Minister for Immigration [2005] FMCA 1558 , SZJBA v The Minister for Immigration [2007] FCA 1592 ; (2007) 164 FCR 14 ; (2007) 98 ALD 270 and Minister for Immigration v Le [2007] FCA 1318; (2007) 164 FCR 151; (2007) 242 ALR 455 ; (2007) 97 ALD 112 . </sentence>
+<sentence id="cs31" from="[2008] FCAFC 108">109 Although the Tribunal is invested with these powers, the Tribunal is under no statutory duty to exercise a power of inquiry or compulsion. In that sense, the Tribunal is in an analogous position to the Refugee Review Tribunal in relation to that Tribunal's permissive powers ( MIMIA v SGLB (2004) 207 ALR 12 per Gummow and Hayne JJ at [43] per Callinan J at [124]; SZJBA v Minister for Immigration and Citizenship &amp; Anor 96 ALD 270 ; [2007] FCA 1592 per Allsop J [46] to [49]). The circumstances under which a decision will be invalid for failure to inquire are strictly limited. In Prasad v Minister for Immigration and Ethnic Affairs [1985] FCA 47 ; (1985) 6 FCR 155 at 169-170, Wilcox J put the limitation in these terms:
+ It is no part of the duty of the decision-maker to make the applicant's case for him. It is not enough that the court finds that the sounder course would have been to make inquiries. But in a case where it is obvious that material is readily available which is centrally relevant to the decision to be made, it seems to me that to proceed to a decision without making any attempt to obtain that information may properly be described as an exercise of decision-making power in a manner so unreasonable that no unreasonable person would have so exercised it. It would follow that the court, on judicial review, should receive evidence as to the existence and nature of that information. </sentence>
+<sentence id="cs32" from="[2008] FCA 789">15 Insofar as the second contention is concerned, it may be accepted that the Tribunal carries out an " inquisitorial process ": SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [53] , [2007] FCA 1592 ; 164 FCR 14 at 27---8. Allsop J there observed:
+ [53] ... the obligation of the Tribunal to give a real and meaningful invitation to comment carried with it the obligation to take reasonably open and regular administrative procedural steps to permit or facilitate fulfilment of the real and meaningful nature of the invitation, where not to take such steps would undermine or subvert the meaningfulness or the reality of the invitation. That obligation involves such mundane things as opening letters, reading them once opened and taking at least basic simple steps that would be taken in any well-run commercial, professional or governmental office, conformable with the recognition of the importance of the response to the invitation to the rights of the applicant and the review process contained within Pt 7 of the Migration Act . This does not rest on some posited duty of inquiry. It is not engaging in steps that require for their enforcement some express statutory power. ... ... [57] These conclusions can be fortified by the recognition, so often stated, that the Tribunal is engaged in an inquisitorial process... [58] This inquisitorial function has become relevant in a number of contexts. In Applicant S [2004] HCA 25 ; 217 CLR 387 at [76] McHugh J said: If the Tribunal had considered the issue that it was legally required to consider, it was open to the Tribunal to investigate whether such a perception existed, whether within the Afghan society or some section of it, or objectively. Indeed, arguably in the context of its inquisitorial process, the Tribunal had a duty to seek evidence concerning this vital matter. See also: Re Minister for Immigration and Multicultural Affairs; Ex parte Applicant S 154/2002 [2003] HCA 60 at [58] , [2003] HCA 60 ; 201 ALR 437 at 450---1; Minister for Immigration and Multicultural and Indigenous Affairs v SGLB [2004] HCA 32 at [73] , 207 ALR 12 at 30---3.  The legislative requirement is that an invitation must be extended to an applicant " to appear before the Tribunal to give evidence and present arguments relating to the issues arising in relation to the decision under review ": Migration Act , s 425(1). This right is " clearly an important and central right " in the review system established by Part 7 of the Migration Act : Liu v Minister for Immigration and Multicultural Affairs [2001] FCA 1362 at [44] , [2001] FCA 1362 ; 113 FCR 541 at 552; Amankwah v Minister for Immigration and Multicultural Affairs [1999] FCA 1162 at [13] [1999] FCA 1162 ; , 91 FCR 248 at 251. And the obligation imposed upon the Tribunal is an obligation to give a " real and meaningful invitation to comment ": SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [53] , [2007] FCA 1592 ; 164 FCR 14 at 27---8 per Allsop J.</sentence>
+<sentence id="cs33" from="[2008] FCA 755">19 In those circumstances, it is not possible to conclude that the now Appellant husband, when he attended the Tribunal hearing, was deprived of the opportunity to make submissions as set forth in s 425(1) of the Migration Act 1958 (Cth). That section provides as follows:
+ Tribunal must invite applicant to appear (1) The Tribunal must invite the applicant to appear before the Tribunal to give evidence and present arguments relating to the issues arising in relation to the decision under review. ... This right to a hearing is " clearly an important and central right " in the review system established by Part 7 of the Migration Act : Liu v Minister for Immigration &amp; Multicultural Affairs [2001] FCA 1362 at [44] , [2001] FCA 1362 ; 113 FCR 541 at 552; Amankwah v Minister for Immigration &amp; Multicultural Affairs [1999] FCA 1162 at [13] , [1999] FCA 1162 ; 91 FCR 248 at 251. The invitation to attend an oral hearing " must not be a hollow shell or an empty gesture ": Mazhar v Minister for Immigration &amp; Multicultural Affairs [2000] FCA 1759 at [31] , [2000] FCA [2000] FCA 1759 ; 1759 ; 183 ALR 188 at 194---5. The obligation imposed upon the Tribunal is an obligation to give a " real and meaningful invitation to comment ": SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 at [53] , [2007] FCA 1592 ; 164 FCR 14 at 27---8 per Allsop J.</sentence>
+<sentence id="cs34" from="[2008] FCA 774">33 Notwithstanding those matters and the emphasis given to them by the appellant, the question for determination before this Court is whether there is error on the part of the Federal Magistrate. The ground is really put forward on the footing that the Federal Magistrate erred by failing to find error on the part of the Tribunal by reason of jurisdictional error because the Tribunal failed to make external inquiries of either the Australian High Commission or other authorities such as the Department of Foreign Affairs and Trade or United Nations agencies as to the content and accuracy of the documents. I am not satisfied that there is any such jurisdictional error on this ground. In other words, the Tribunal, consistent with authority, is not required to make external forensic third party inquiry in relation to the documents ( Prasad v MIEA [1985] FCA 47 ; (1985) 6 FCR 155 at 169 per Wilcox J; MIMIA v SGLB (2004) 207 ALR 12 ; [2004] HCA 32 per Gummow and Hayne JJ at [43] per Callinan J at [124]; Appellant S395/2002 v MIMA [2003] HCA 71 ; (2003) 78 ALD 8 ; 203 ALR 112 ; SZJBA v Minister for Immigration and Citizenship &amp; Anor 96 ALD 270 ; [2007] FCA 1592 per Allsop J [46] to [49]).</sentence>
+<sentence id="cs35" from="[2008] FCA 600">61 As to the appellant's third ground, the appellant argues that the Tribunal failed to undertake a reasonably open and regular administrative procedural step necessary to provide the appellant with a real and meaningful invitation to the hearing, such as seeking to contact the appellant by telephone on the day of the hearing. In making this argument, the appellant relies on the principles set out in SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; (2007) 164 FCR 14. However, that case is inapposite here for the reasons set out below. 62 In SZJBA [2007] FCA 1592 ; 164 FCR 14 , Allsop J said, starting at [53]:
+ 
+ On either basis, the obligation of the Tribunal to give a real and meaningful invitation to comment carried with it the obligation to take reasonably open and regular administrative procedural steps to permit or facilitate fulfilment of the real and meaningful nature of the invitation, where not to take such steps would undermine or subvert the meaningfulness or the reality of the invitation. That obligation involves such mundane things as opening letters, reading them once opened and taking at least basic simple steps that would be taken in any well-run commercial, professional or governmental office, conformable with the recognition of the importance of the response to the invitation to the rights of the applicant and the review process contained within Pt 7 of the Migration Act . This does not rest on some posited duty of inquiry.</sentence>
+<sentence id="cs36" from="[2008] FCA 357">86 This case is therefore quite distinguishable from Le [2007] FCA 1318. In that case a statement to the effect of withdrawal of sponsorship because the marriage relationship had ended had been mistranslated. It is also clearly distinguishable from SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; (2007) 98 ALD 270. See also SZICU v Minister for Immigration and Citizenship [2008] FCAFC 1 at [29] . 
+ </sentence>
+<sentence id="cs37" from="[2008] FCAFC 1">29 The appellant relied in submissions on the decision of SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 ; (2007) 98 ALD 270. In our opinion, that case is distinguishable from the present case because in that case there was a failure to inquire into readily available and centrally relevant information, which is not the situation in the present case. Having regard to the procedural history in the present case, there was no apparent reason for the Tribunal to consider that further inquiries as to why the appellant did not appear would have been of any assistance to it in reaching a conclusion. The obligation imposed on the Tribunal by ss 425 and 425A of the Act is satisfied if the appellant is notified as to the time and place of the hearing.</sentence>
+<sentence id="cs38" from="[2008] FMCA 4">The letters were submitted to the Tribunal after it had given the applicant's adviser (who indicated that he had come into the matter late and had not a chance to obtain firm instructions) the requested opportunity to put on further submissions and file documents in support of the application. It could not be said that the Tribunal's invitation to do so was not " real and meaningful " (see SZJBA v Minister for Immigration and Citizenship [2007] FCA 1592 at [50] --- [60]. The Tribunal considered the letters and their content. The fact that because the Tribunal considered the applicant completely lacked credibility, it did not accept that the contents of the letters were true does not establish a failure to meet its s.425(1) obligation. </sentence>
+<sentence id="cs39" from="[2007] FCA 2036">21 The authorities of the Court have made it clear that as a general rule there is no duty on the Tribunal to carry out its own inquiries. This is not a case where the Tribunal failed to complete the exercise of its jurisdiction by omitting to take administrative steps which were necessary to complete the exercise of jurisdiction. See SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 at [48] to [56].</sentence>
+<sentence id="cs40" from="[2007] FCA 1727">11 The third ground of appeal also fails. This is not a case in which there was a duty on the Tribunal to make further inquiries, nor is it a case in which the Tribunal failed to complete the necessary administrative steps. See SZJBA v Minister for Immigration &amp; Citizenship [2007] FCA 1592 at [59] - [60] per Allsop J. </sentence>
+</citances>
+<legistitles>
+<title id="l0">COMMONWEALTH OF AUSTRALIA CONSTITUTION ACT </title>
+<title id="l1">COMMONWEALTH OF AUSTRALIA CONSTITUTION ACT - SECT 61 Executive power</title>
+<title id="l2">COMMONWEALTH OF AUSTRALIA CONSTITUTION ACT - SECT 75 Original jurisdiction of High Court</title>
+<title id="l3">MIGRATION ACT 1958 </title>
+<title id="l4">MIGRATION ACT 1958 - SECT 154 Officer not liable--criminal justice stay certificates or warrants</title>
+<title id="l5">MIGRATION ACT 1958 - SECT 201 Deportation of non-citizens in Australia for less than 10 years who are convicted of crimes</title>
+<title id="l6">MIGRATION ACT 1958 - SECT 414 Refugee Review Tribunal must review decisions</title>
+<title id="l7">MIGRATION ACT 1958 - SECT 420 Refugee Review Tribunal's way of operating</title>
+<title id="l8">MIGRATION ACT 1958 - SECT 424 Tribunal may seek information</title>
+<title id="l9">MIGRATION ACT 1958 - SECT 424A Information and invitation given in writing by Tribunal</title>
+<title id="l10">MIGRATION ACT 1958 - SECT 424B Requirements for written invitation etc.</title>
+<title id="l11">MIGRATION ACT 1958 - SECT 424C Failure to give information, comments or response in response to written invitation</title>
+<title id="l12">MIGRATION ACT 1958 - SECT 425 Tribunal must invite applicant to appear</title>
+<title id="l13">MIGRATION ACT 1958 - SECT 426 Applicant may request Refugee Review Tribunal to call witnesses</title>
+<title id="l14">MIGRATION ACT 1958 - SECT 427 Powers of the Refugee Review Tribunal etc.</title>
+<title id="l15">FEDERAL COURT RULES </title>
+</legistitles>
+</case>

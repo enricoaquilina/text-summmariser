@@ -1,0 +1,1518 @@
+<?xml version="1.0"?>
+<case>
+<name>Stora Enso Australia Pty Ltd v CPI Group Limited [2006] FCA 1685 (8 December 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1685.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">misleading and deceptive conduct</catchphrase>
+<catchphrase "id=c1">invoice agreement between applicant and respondent whereby respondent undertook to pay invoices for supply of paper by applicant to third party companies</catchphrase>
+<catchphrase "id=c2">where respondent/cross-claimant at time considering acquiring third parties' business</catchphrase>
+<catchphrase "id=c3">where cross-claim that agreement invalid for misleading and deceptive conduct partly based on silence</catchphrase>
+<catchphrase "id=c4">whether cross-claimant could reasonably have expected cross-respondents to warn of companies' poor payment history and financial position</catchphrase>
+<catchphrase "id=c5">failure by both parties to call witness where both parties submitted that jones v dunkel inference should be drawn against other party</catchphrase>
+<catchphrase "id=c6">where witness equally available to both parties</catchphrase>
+<catchphrase "id=c7">whether principle in jones v dunkel applies</catchphrase>
+<catchphrase "id=c8">expert evidence</catchphrase>
+<catchphrase "id=c9">use of expert evidence to impeach credit of witness</catchphrase>
+<catchphrase "id=c10">opinion evidence about existence of fact furnished to prove fact's existence</catchphrase>
+<catchphrase "id=c11">whether permissible</catchphrase>
+<catchphrase "id=c12">trade practices</catchphrase>
+<catchphrase "id=c13">evidence</catchphrase>
+<catchphrase "id=c14">evidence</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ Introduction 
+ 
+1 Two companies involved in the wholesale distribution of paper in Australia have been unable to resolve a commercial dispute.</sentence>
+<sentence id="s1">One is Stora Enso Australia Pty Ltd, the other CPI Group Limited.</sentence>
+<sentence id="s2">SEA supplied paper to a group of related companies, the Boomerang companies.</sentence>
+<sentence id="s3">The dispute concerns an invoicing agreement between SEA and CPI made in June and July 2003.</sentence>
+<sentence id="s4">Under the agreement, SEA was to continue to supply paper to the Boomerang companies.</sentence>
+<sentence id="s5">SEA was to invoice the Boomerang companies and CPI for the paper.</sentence>
+<sentence id="s6">CPI would pay SEA the amounts invoiced.</sentence>
+<sentence id="s7">CPI could then recover the amounts paid from the Boomerang companies.</sentence>
+<sentence id="s8">CPI was then contemplating acquiring the business of the Boomerang companies.</sentence>
+<sentence id="s9">The companies in the group were wound up in 2004 and assets purchased by CPI.</sentence>
+<sentence id="s10">CPI does not dispute it entered the invoicing agreement nor does it dispute the amount payable to SEA under the agreement.</sentence>
+<sentence id="s11">However CPI claims that it was induced to enter the agreement by the unlawful conduct of SEA.</sentence>
+<sentence id="s12">It claims SEA engaged in misleading and deceptive conduct.</sentence>
+<sentence id="s13">CPI claims from SEA damages equal to the outstanding amount it was obliged to pay SEA under the agreement.</sentence>
+<sentence id="s14">2 The proceedings take the form of a claim by SEA against CPI and a cross claim by CPI against SEA and Stora Enso Oyj ("SEO").</sentence>
+<sentence id="s15">SEA is a wholly owned subsidiary of SEO, a company incorporated in Finland.</sentence>
+<sentence id="s16">SEA now only alleges breach of contract by CPI and has abandoned claims under the Trade Practices Act 1974 (Cth) ("TP Act").</sentence>
+<sentence id="s17">SEA claims the sum of $3,967,544.65, the amount outstanding under the invoicing agreement.</sentence>
+<sentence id="s18">In its cross claim against SEA, CPI alleged contravention of s 52 of the TP Act arising from representations made by SEA, as well as SEA's silence and its failure to warn CPI of the Boomerang companies' precarious financial position and poor payment history.</sentence>
+<sentence id="s19">CPI's cross claim also involved an alleged contravention of s 52 of the TP Act based on the same facts.</sentence>
+<sentence id="s20">The representations on which CPI relied are discussed more fully at [ 119 ] to [ 123 ].</sentence>
+<sentence id="s21">At the trial, CPI abandoned its claim based on s 51AA of the TP Act and its claim that based on the relationship CPI had with SEA and SEO, both companies owed CPI a duty of care, which had been breached.</sentence>
+<sentence id="s22">The central issue is whether SEA engaged in conduct proscribed by s 52 and is liable to pay damages to CPI under s 82 of the TP Act .</sentence>
+<sentence id="s23">THE FACTS 
+ The commercial arrangements 
+ 
+3 The following is an overview of some of the commercial background in which the invoicing agreement between CPI and SEA was made.</sentence>
+<sentence id="s24">Contentious matters of detail are discussed later.</sentence>
+<sentence id="s25">4 In March 1993, Stora Feldmuhle Carbonless Paper GmbH operated a paper manufacturing mill in Germany ("the Mill") and entered an agency agreement with SEA.</sentence>
+<sentence id="s26">The Mill at that time formed part of the Stora Enso group.</sentence>
+<sentence id="s27">Generally, no distinction will be drawn between the owner and operator of the paper production facility and the facility itself.</sentence>
+<sentence id="s28">Under the agency agreement, SEA was to act as agent for the Mill on a commission basis for the sale in Australia and New Zealand of carbonless paper produced by the Mill.</sentence>
+<sentence id="s29">The dispute in these proceedings concerns Giroform carbonless paper supplied either in sheets or rolls.</sentence>
+<sentence id="s30">Under the agency agreement, no commission was payable to SEA on orders where payment was not received by the Mill.</sentence>
+<sentence id="s31">The agreement applied to all deliveries beginning 1 April 1993, was not limited in duration and could be terminated at the end of a calendar year with six months notice.</sentence>
+<sentence id="s32">The mechanism for terminating this agreement assumed significance during the events of 2003 central to these proceedings.</sentence>
+<sentence id="s33">5 In March 1994, the Mill entered a distributor agreement with SEA, in which SEA was appointed distributor for the sale of carbonless paper to the Australian company Boomerang Trading Pty Ltd. SEA was to take all credit risks for sales and incurred a liability to the Mill.</sentence>
+<sentence id="s34">The Mill was to deliver the products directly to Boomerang Trading.</sentence>
+<sentence id="s35">The distributor agreement became effective on 1 May 1994 and was of indefinite duration.</sentence>
+<sentence id="s36">As with the agency agreement, either party could terminate the agreement at the end of a calendar year with six months notice.</sentence>
+<sentence id="s37">Under the agreement, SEA received a dealer discount of 2 per cent on the price invoiced by the Mill.</sentence>
+<sentence id="s38">6 SEA sold and distributed carbonless paper through two merchants in Australia, CPI and the Boomerang companies.</sentence>
+<sentence id="s39">Those companies were, at least primarily, Boomerang Paper (Aust) Pty Ltd, Boomerang Paper (WA) Pty Ltd and Boomerang Paper (Qld) Pty Ltd which operated businesses in Melbourne, Perth and Brisbane respectively, through trading trusts.</sentence>
+<sentence id="s40">I refer to those companies as Boomerang Melbourne, Boomerang Perth and Boomerang Brisbane, respectively.</sentence>
+<sentence id="s41">Before the commencement of the agency agreement, Boomerang Trading had acted as non-exclusive distributor of the Mill.</sentence>
+<sentence id="s42">The relationship between Boomerang Trading and the other Boomerang companies is not clear but is not in issue.</sentence>
+<sentence id="s43">The terms 'Boomerang companies' and 'Boomerang' has been used in these reasons where the distinction between the Boomerang companies and individual companies is not of significance.</sentence>
+<sentence id="s44">7 In June 1994, SEA, with the Mill's consent, entered into a distributor agreement with Boomerang Trading granting it non-exclusive distribution rights for the sale in Australia of carbonless paper.</sentence>
+<sentence id="s45">The agreement became effective on 1 May 1994, was not limited in duration and could be terminated at the end of a calendar year with six months prior notice.</sentence>
+<sentence id="s46">SEA's invoices to Boomerang Trading had to be paid with 75 days after the invoice dates for Giroform reels and 90 days after the bill of lading dates for Giroform sheets.</sentence>
+<sentence id="s47">8 One of the Boomerang companies' major customers was Moore Business Systems Australia Pty Ltd. On 14 June 2002, the Mill and Moore entered a supply agreement.</sentence>
+<sentence id="s48">The agreement was also signed by a representative of SEA.</sentence>
+<sentence id="s49">By that time the Mill was no longer part of the Stora Enso group and was owned and operated by Mitsubishi Hitee Paper (Bielefeld) GmbH, although SEO still retained an interest in the Mill.</sentence>
+<sentence id="s50">Under the supply agreement, which was for the period 1 October 2002 to September 2004, the Mill guaranteed to supply Moore with carbonless paper on a 'just in time' delivery basis.</sentence>
+<sentence id="s51">Moore agreed to purchase all its carbonless paper in Australia from the Mill's accredited merchants, Boomerang and CPI.</sentence>
+<sentence id="s52">Prices listed in an attachment to the agreement were firm for the first 12 months and prices for the second 12 months were to be negotiated and agreed before the end of May 2003.</sentence>
+<sentence id="s53">9 SEA acted as the agent for the Mill until December 2003.</sentence>
+<sentence id="s54">The agency agreement was terminated by the Mill giving six months notice in June 2003.</sentence>
+<sentence id="s55">10 At this point the principal actors should be introduced.</sentence>
+<sentence id="s56">Mr Juhani Ellenberg ([ 90 ]) was the managing director of SEA and Mr Andre Freilinger was the company's financial controller.</sentence>
+<sentence id="s57">Mr Nereo Fabrello ([ 67 ] --- [ 71 ]) was SEA's national sales manager for carbonless paper.</sentence>
+<sentence id="s58">Mr Timo Laipio was a director of SEA and vice president of corporate marketing and sales at Stora Enso's international office in London.</sentence>
+<sentence id="s59">Mr Dieter Koeppen was international sales manager of the Mill and was based in Germany.</sentence>
+<sentence id="s60">Mr Bernard Cassell ([ 105 ] --- [ 106 ]) was chief operating officer of CPI though became its managing director in September 2003.</sentence>
+<sentence id="s61">Mr Birol Akdogan was CPI's chief financial officer.</sentence>
+<sentence id="s62">Mr Ian Aiken and Mr Peter Jolly, were directors of Boomerang.</sentence>
+<sentence id="s63">All but Mr Koeppen and Mr Aitken gave evidence and were cross examined.</sentence>
+<sentence id="s64">The paragraph numbers after some of the names represent the point in these reasons where the credit of the witness is discussed.</sentence>
+<sentence id="s65">11 The invoicing agreement was made in late June and early July 2003 in circumstances in which, for some time, the Boomerang companies had been struggling financially and had failed to pay SEA on time and in full for paper supplied by SEA.</sentence>
+<sentence id="s66">Additionally, SEA was not able to obtain adequate credit insurance covering its trading with the Boomerang companies.</sentence>
+<sentence id="s67">The invoicing agreement was also made at a time when CPI was investigating acquiring the business of the Boomerang companies.</sentence>
+<sentence id="s68">It is convenient to consider under discrete headings, several aspects of the relationship and dealings between SEA, CPI, the Mill and the Boomerang companies and make findings about contentious issues of fact.</sentence>
+<sentence id="s69">Plainly enough however, each aspect is only part of a continuum of interrelated events in the period early 2001 to early 2004.</sentence>
+<sentence id="s70">The following are findings of fact.</sentence>
+<sentence id="s71">If I simply recite evidence without comment, it can be taken and that I have made a finding consistent with that evidence.</sentence>
+<sentence id="s72">Relationship between SEO, SEA and CPI generally 
+ 
+12 CPI contended this was not simply a dispute involving commercial parties operating at arm's length with no relationship or history of cooperation.</sentence>
+<sentence id="s73">Certain aspects of the relationship identified by CPI were not disputed by SEA or SEO.</sentence>
+<sentence id="s74">The following description of the relationship between the companies is drawn from CPI's written submissions which was based on the evidence of Mr Cassell.</sentence>
+<sentence id="s75">I accept, as fact, the description.</sentence>
+<sentence id="s76">Since at least 1986, the Stora Enso group and its antecedents, through SEA, had been CPI's largest supplier of coated paper, and until December 2003, was CPI's sole supplier of carbonless paper.</sentence>
+<sentence id="s77">In 1988, CPI approached the Stora Enso's group's antecedent, Feldmuehle AG, and offered it equity in CPI.</sentence>
+<sentence id="s78">Feldmuehle took up an equity share in CPI of approximately 20 per cent at that time.</sentence>
+<sentence id="s79">13 In 1990, the Feldmuehle AG group was acquired by Stora Kopparbergs Bergslags AB of Sweden, becoming the Stora group.</sentence>
+<sentence id="s80">In 1998 the Stora group merged with the Enso group of Finland.</sentence>
+<sentence id="s81">This formed the Stora Enso group of which SEO is the ultimate parent company.</sentence>
+<sentence id="s82">At no point since it became a shareholder has the Stora Enso group or any of its antecedents sold any shares in CPl.</sentence>
+<sentence id="s83">The Stora Enso group's shareholding in CPI has reduced in terms of percentage due to share issues by CPI.</sentence>
+<sentence id="s84">Until approximately September 2003, the Stora Enso group's shareholding in CPI was approximately 12 per cent.</sentence>
+<sentence id="s85">At the time of these proceedings the Stora Enso group's interest had reduced to 7.61 per cent.</sentence>
+<sentence id="s86">CPI was the only Australian company in which SEO or its subsidiary FPB Holdings AG had a shareholding during this period.</sentence>
+<sentence id="s87">14 In addition, the relationship between CPI and SEA and SEO involved regular meetings over approximately the last 15 years between executives of CPI and executives from within the Stora Enso group and its antecedents.</sentence>
+<sentence id="s88">The Stora Enso group has had a representative on the board of CPI since approximately 1988 (though the representative rarely attended meetings) and board papers were supplied to SEO through its representative on the board of CPI before every board meeting.</sentence>
+<sentence id="s89">The board papers included all information material to CPI's performance including budgets, accounts and reports on operations from senior CPI executives.</sentence>
+<sentence id="s90">Two examples of cooperation between SEO and CPI were, firstly, the assistance provided by SEO executive Mr Sven Rosman to CPI in 2002 when CPI was experiencing financial trouble, and secondly, the specific arrangements between the Stora Enso group and CPI in respect of MAP Limited, a very large customer of CPI.</sentence>
+<sentence id="s91">15 Evidence was also given by Mr Laipio about the relationship between the companies, which was not challenged in cross examination.</sentence>
+<sentence id="s92">I accept his evidence, subject to the matters referred to in the preceding two paragraphs.</sentence>
+<sentence id="s93">His evidence was that the relationship between CPI and SEA was not a special one but rather, a normal commercial relationship between SEA and a customer.</sentence>
+<sentence id="s94">CPI was not given any preferential treatment in relation to trading terms with SEO's mills and provision of credit to CPI by the mills was governed by the credit policies of SEO.</sentence>
+<sentence id="s95">Credit insurance, cutting supply to Moore and the financial position of Boomerang 
+ 
+16 From at least February 2001, one of the Boomerang companies, Boomerang Melbourne, was not paying amounts due to SEA for paper supplied, in accordance with the applicable terms of trade.</sentence>
+<sentence id="s96">Another member of the group, Boomerang Queensland, was in a similar position later.</sentence>
+<sentence id="s97">While both the level of overall debt and the amount not paid in accordance with the trading terms fluctuated, both were significant amounts.</sentence>
+<sentence id="s98">The former was of the order of $6 million to $8 million and the latter, at May 2003, was around $2 million.</sentence>
+<sentence id="s99">Over the period from April 2001 to mid 2003, the indebtedness of the Boomerang companies was a cause of increasing concern to Mr Ellenberg, Mr Fabrello and Mr Koeppen, amongst others.</sentence>
+<sentence id="s100">17 Those Boomerang companies which were defaulting were, at least in April 2001 and probably later, paying other suppliers in accordance with the applicable terms of trade.</sentence>
+<sentence id="s101">Mr Fabrello believed, as expressed in an email to Mr Koeppen of 5 April 2001, that the reason these companies were paying other suppliers but not SEA was because SEA was reliable and not 'rumour spreaders'.</sentence>
+<sentence id="s102">18 In an email of 15 October 2001, Mr Fabrello told Mr Koeppen that SEA had a problem in that it no longer had credit insurance for Boomerang Melbourne.</sentence>
+<sentence id="s103">The original insurance had lapsed and could not be renewed while the account was overdue.</sentence>
+<sentence id="s104">He noted that, at present, 'we' needed to urgently get Boomerang Melbourne back to terms and get them reinsured.</sentence>
+<sentence id="s105">Mr Fabrello accurately described the position in relation to credit insurance for Boomerang Melbourne in October 2001 and, with one qualification, it remained the position until July 2003 and beyond.</sentence>
+<sentence id="s106">The qualification is that from 2 November 2001, the Stora Enso group's internal insurance company, Pankavara, provided credit insurance for up to $600,000 for Boomerang Melbourne which, on 2 January 2002, was increased to $730,000.</sentence>
+<sentence id="s107">That insurance was provided in response to an application by Mr Freilinger on behalf of SEA for cover in the sum of $2,500,000.</sentence>
+<sentence id="s108">It is not clear whether a reference to Boomerang in some of this correspondence is a reference to Boomerang Melbourne or to all three of the Boomerang companies.</sentence>
+<sentence id="s109">Generally, the context suggests that the reference is to Boomerang Melbourne and I proceed on that basis.</sentence>
+<sentence id="s110">19 In a responsive email of 16 October 2001, Mr Koeppen told M Fabrello that he understood that SEA had credit insurance and credit or limit approval from SEO for all three Boomerang companies.</sentence>
+<sentence id="s111">Mr Koeppen also asked to be told immediately of the outcome of a meeting with representatives of Boomerang Melbourne, which Mr Fabrello had foreshadowed in his email of 15 October 2001.</sentence>
+<sentence id="s112">The meeting took place on 17 October 2001 and was attended, one behalf of SEA, by Mr Fabrello, Mr Ellenberg and Mr Freilinger.</sentence>
+<sentence id="s113">Mr Fabrello's report of the meeting to Mr Koeppen was positive in the sense that the Boomerang representatives had indicated steps were being taken to deal, at least in part, with Boomerang's debt to SEA.</sentence>
+<sentence id="s114">Mr Fabrello noted that when the payments were back to agreed terms of trade, SEA would reinsure Boomerang Melbourne with Pankavara.</sentence>
+<sentence id="s115">However, Mr Fabrello also noted that the representatives of Boomerang Melbourne were showing some resistance to disclosing to SEA their records of accounts.</sentence>
+<sentence id="s116">20 Matters had not improved materially by January 2002.</sentence>
+<sentence id="s117">On 30 January 2002, another meeting took place between representatives of SEA and those of Boomerang Melbourne.</sentence>
+<sentence id="s118">By letter dated 31 January 2002, Mr Freilinger wrote to Boomerang Melbourne noting that while SEA was highly appreciative of their long business relationship and Boomerang Melbourne's genuine commitment towards resolving the matter, SEA could not continue to supply paper to Boomerang if the position reflected in the current trading account continued.</sentence>
+<sentence id="s119">Mr Freilinger demanded that Boomerang Melbourne's account be brought within terms no later than 31 March 2002.</sentence>
+<sentence id="s120">A copy of this letter was sent to both Mr Ellenberg and Mr Fabrello.</sentence>
+<sentence id="s121">21 In March 2002, Boomerang Melbourne brought its account within agreed trading terms.</sentence>
+<sentence id="s122">On that basis, SEA sought, on 18 April 2002, to increase the level of credit insurance from Pankavera.</sentence>
+<sentence id="s123">That application was ultimately declined on 3 June 2002.</sentence>
+<sentence id="s124">Pankavera suggested insurance be sought from a local insurer.</sentence>
+<sentence id="s125">22 On 28 June 2002, Mr Fabrello met with Mr Aiken and Mr Jolly in Melbourne.</sentence>
+<sentence id="s126">Discussion took place on credit insurance and the continued supply of carbonless paper to the Boomerang companies.</sentence>
+<sentence id="s127">An email dated 1 July 2002 from Mr Fabrello to Mr Ellenberg and Mr Freilinger, summarised the discussions.</sentence>
+<sentence id="s128">Mr Fabrello told Mr Aiken and Mr Jolly the following:
+ 
+1.</sentence>
+<sentence id="s129">Stora Enso group's policy was that all customers must be fully insured.</sentence>
+<sentence id="s130">SEA had a deadline of the end of October to ensure all customers were fully insured;
+ 
+2.</sentence>
+<sentence id="s131">SEA had credit risk insurance of only $700,000 for Boomerang Melbourne and would have to obtain the balance of cover with local insurance companies;
+ 
+3.</sentence>
+<sentence id="s132">To enable insurance application to proceed, SEA required Boomerang Melbourne's financial figures from July 2001 to June 2002 and Boomerang Melbourne to be up to date with payments; and
+ 
+4.</sentence>
+<sentence id="s133">If SEA could not insure the Boomerang companies for the full cover required, then SEA would have to consider invoicing Moore direct to reduce exposure to the insurance level available.</sentence>
+<sentence id="s134">At the meeting, Mr Aiken and Mr Jolly were not able to give a firm commitment as to when Boomerang Melbourne would be able to guarantee on time monthly payments.</sentence>
+<sentence id="s135">They did not think it would be necessary for SEA to invoice Moore directly.</sentence>
+<sentence id="s136">This was the first occasion on which the continuation of supply of paper to Moore was discussed.</sentence>
+<sentence id="s137">23 The supply agreement between Moore and the Mill was referred to earlier (at [8]).</sentence>
+<sentence id="s138">Moore accounted for 50 per cent of Boomerang Melbourne's revenues.</sentence>
+<sentence id="s139">What Mr Fabrello had in mind with what he told the Boomerang directors at the meeting of 28 June 2002 was that Boomerang Melbourne would continue to supply paper to Moore and SEA would invoice Moore directly and be paid directly but on the basis that Boomerang Melbourne would still receive its commission.</sentence>
+<sentence id="s140">However, under this arrangement, Boomerang Melbourne would not receive the payments from Moore as part of its revenue stream.</sentence>
+<sentence id="s141">There was further discussion about this matter between Mr Fabrello and Mr Jolly, and possibly others, in late August 2002.</sentence>
+<sentence id="s142">The discussions culminated in a note from Mr Jolly of 27 August 2002 to Mr Fabrello pointing out that Morrows (Boomerang's accountants) had said that such an arrangement would have a major effect on Boomerang Melbourne's cash flow.</sentence>
+<sentence id="s143">24 By some time probably shortly after September 2002, auditors (PwC) had considered, in a short report, SEA's exposure to Boomerang Melbourne.</sentence>
+<sentence id="s144">PwC had informed SEA's management that, amongst other things, if Boomerang Melbourne refinanced through the Scottish Pacific Bank, monies should be paid by that bank directly to SEA.</sentence>
+<sentence id="s145">The report noted that 'management' (of SEA) was currently considering whether to sell directly to a major customer of Boomerang and pay Boomerang a commission for provision of storage and cutting of inventory.</sentence>
+<sentence id="s146">This was plainly a reference to the proposal to invoice Moore directly.</sentence>
+<sentence id="s147">The report also noted that provision could be made in SEA's accounts if there were doubts at the end of the year about the recoverability of the amounts owed by Boomerang Melbourne.</sentence>
+<sentence id="s148">25 By an email of 9 December 2002, Mr Koeppen told Mr Fabrello and Mr Freilinger (who forwarded the email to Mr Ellenberg) that the amount then owed by SEA to the Mill, approximately $3.56 million, had to be paid immediately.</sentence>
+<sentence id="s149">This amount was outstanding because of Boomerang Melbourne's failure to pay its accounts.</sentence>
+<sentence id="s150">26 By this time, SEA's difficulties with Boomerang Melbourne had attracted the interest of Mr Laipio in London.</sentence>
+<sentence id="s151">On 10 December 2002, Mr Laipio emailed Mr Ellenberg (copied to Mr Freilinger) noting the PwC audit report and the actions it proposed.</sentence>
+<sentence id="s152">In a responsive email of 16 December 2002 to Mr Laipio and Mr Ellenberg, Mr Freilinger canvassed strategies based on his understanding of the financial position of the Boomerang companies and their limited capacity to retrieve the situation in the short term.</sentence>
+<sentence id="s153">Mr Freilinger noted that SEA was the title taker of the paper being supplied by the Mill to the Boomerang companies and that SEA carried the credit risk.</sentence>
+<sentence id="s154">He also rejected as partly unrealistic the recommendations of the auditors, in particular, the suggestion that funds might be transferred from the Scottish Pacific Bank to SEA.</sentence>
+<sentence id="s155">He noted that such funds would mainly be used by Boomerang to pay off debts with the National Australia Bank.</sentence>
+<sentence id="s156">He also noted that SEA had not made a final decision to proceed with the plan to invoice Moore directly.</sentence>
+<sentence id="s157">27 Mr Laipio responded with an email of 16 December 2002 to Mr Freilinger and Mr Ellenberg.</sentence>
+<sentence id="s158">He pointed out that Stora Enso group members must not carry credit risk on third party paper, even though SEO owned 20 per cent of the supplying Mill.</sentence>
+<sentence id="s159">He indicated his support for renegotiating the commission rate with the Mill in order to make a decent profit on SEA's sales in the future.</sentence>
+<sentence id="s160">He asked that in the discussions with the Mill about the commission rate, Mr Freilinger and Mr Ellenberg discuss transferring the credit risk fully to the Mill.</sentence>
+<sentence id="s161">He proffered the Stora Enso group's policies as an argument they might use.</sentence>
+<sentence id="s162">He concluded on this point by saying, 'the sooner we releave [sic] ourselves from the risk the better'.</sentence>
+<sentence id="s163">I do not accept CPI's submission that this email indicated that SEA was not concerned with maintaining its agency agreement with the Mill.</sentence>
+<sentence id="s164">Rather it evidenced a desire to maintain the agency agreement but on terms more favourable to SEA.</sentence>
+<sentence id="s165">Mr Freilinger responded to Mr Laipio the following day.</sentence>
+<sentence id="s166">He indicated that discussing commissions with the Mill and transferring risk was more a matter for Mr Ellenberg.</sentence>
+<sentence id="s167">He said SEA's efforts all along had been directed at targeting the need to cover the risk as soon as possible but no later than the day Boomerang's account was back within terms.</sentence>
+<sentence id="s168">He noted also that changes within Boomerang's legal structure might improve the chances of getting local credit cover and that 'we will certainly try'.</sentence>
+<sentence id="s169">He also noted that SEA was then seeking credit cover for Moore so that SEA did not swap one high risk with another, noting that Boomerang had credit cover for all its customers.</sentence>
+<sentence id="s170">He also suggested that the directors (of SEA) should be patient until at least February 2003, when SEA should receive funds which were not available to Boomerang at that time.</sentence>
+<sentence id="s171">28 On 5 February February 2003, Mr Jolly emailed Mr Freilinger explaining that further payments would be made shortly, and that the sale of real estate would settle in the middle of February and that $1 million would be paid a few days later.</sentence>
+<sentence id="s172">In February and March 2003, SEA was engaged in discussions with QBE insurance about credit cover for the Boomerang companies.</sentence>
+<sentence id="s173">On 25 March 2003, Mr Freilinger was advised that QBE Insurance would grant cover up to $1 million for the Boomerang companies, although ultimately that offer was not taken up.</sentence>
+<sentence id="s174">29 On 26 March 2003, Mr Ellenberg set out a plan of action in an email to Mr Fabrello and Mr Freilinger.</sentence>
+<sentence id="s175">It involved a fresh application to Pankavera for credit insurance of $3 million for Boomerang without specifying Moore separately.</sentence>
+<sentence id="s176">In the meantime the options with QBE would be kept on hold.</sentence>
+<sentence id="s177">As part of the plan, Mr Fabrello was to inform Boomerang that SEA was giving up the Moore's quantities after the contract period ended in September 2003, which was recorded as 'done'.</sentence>
+<sentence id="s178">The purpose of this was said to be 'to cut the exposure by roughly half' at Boomerang.</sentence>
+<sentence id="s179">The application to Pankavera was made on 28 March 2003.</sentence>
+<sentence id="s180">At Pankavara's request, financial figures for Boomerang were provided in early April 2003.</sentence>
+<sentence id="s181">30 Further correspondence between Mr Freilinger and Mr Laipio also occurred at this time.</sentence>
+<sentence id="s182">By email of 3 April 2003, Mr Laipio inquired of Mr Freilinger whether he had told the internal auditor that SEA had managed to get credit cover for Boomerang from a local insurer.</sentence>
+<sentence id="s183">Mr Freilinger responded by explaining that the local insurer, QBE, had only offered a level of insurance substantially lower than was required and that they had been disappointed by QBE's response.</sentence>
+<sentence id="s184">Mr Freilinger went on to say that SEA had concluded that the only way forward was to reduce the level of supply to Boomerang, noting that 50 per cent of the business with Boomerang was on-sold to a single customer (Moore) whose contract expired in September 2003.</sentence>
+<sentence id="s185">Mr Freilinger noted that they had indicated to Boomerang that SEA would not seek to extend this contract and that Boomerang should look for alternative suppliers.</sentence>
+<sentence id="s186">Mr Freilinger also noted that although details had to be worked out, the aim was 'risk reduction with a soft landing'.</sentence>
+<sentence id="s187">31 Also in early April 2003, Mr Jolly contacted Mr Freilinger.</sentence>
+<sentence id="s188">They discussed the steps Boomerang was taking (in relation to Boomerang Melbourne and Boomerang Perth) to refinance in order to release funds for Boomerang Melbourne.</sentence>
+<sentence id="s189">Mr Jolly said a meeting had been planned with CPI to discuss the sale of Boomerang Perth.</sentence>
+<sentence id="s190">Mr Jolly indicated that he would contact Mr Freilinger as more details emerged.</sentence>
+<sentence id="s191">Mr Freilinger told Mr Jolly that SEA had a firm plan to cut the Moore business.</sentence>
+<sentence id="s192">In an email note of this conversation sent by Mr Freilinger to Mr Ellenberg and Mr Fabrello on 4 April 2003, Mr Freilinger recorded that Mr Jolly agreed to cutting the Moore business but confirmed that if SEA was to invoice Moore directly, the effect would only be to cut Boomerang's funds and shift the problem.</sentence>
+<sentence id="s193">32 Pankavera refused additional credit insurance cover on 8 April 2003.</sentence>
+<sentence id="s194">33 On 2 May 2003, Mr Fabrello and Mr Koeppen exchanged emails.</sentence>
+<sentence id="s195">The first email, from Mr Fabrello, set out his understanding of the position in three numbered points.</sentence>
+<sentence id="s196">The first was that because of the poor payment history of Boomerang Melbourne, SEA could not get sufficient insurance cover.</sentence>
+<sentence id="s197">For reasons he detailed, he thought that the poor payment history was not likely to change in the short term under current ownership.</sentence>
+<sentence id="s198">He observed, as his second numbered point, that SEA had to reduce its exposure to Boomerang but in a way that allowed Boomerang to continue with all its existing business including Moore so that the cash flow would remain stable.</sentence>
+<sentence id="s199">He noted that if 'we' stopped supplying Moore and Boomerang were not able to replace the volume, then 'we' would have less exposure per month but would expect payments to get worse and the total debt would remain at the current level.</sentence>
+<sentence id="s200">Mr Fabrello proposed three options: 
+ 
+ 'The best options we have are: 
+ A) Boomerang find another Carbonless supplier for the Moore business --- in this scenario it would then be most likely that we would lose all the reel business at Boomerang as running two stocks would be a logistic nightmare.</sentence>
+<sentence id="s201">However if this allowed Boomerang to continue to operate then we would have a very good chance of getting all our money.</sentence>
+<sentence id="s202">
+ B) We convince Boomerang to sell and CPI to buy and takeover the outstanding debt.</sentence>
+<sentence id="s203">
+ C) We convince CPI to invoice Boomerang for Giroform reel sales to Moore.</sentence>
+<sentence id="s204">In this case CPI would get the commission owed to Stora Enso.</sentence>
+<sentence id="s205">
+ 
+ Both B and C would enable is to continue with Giroform at Boomerang...' 
+
+34 He then asked Mr Koeppen: 'For these scenarios are you able to make any special extra commission offer to CPI perhaps for a fixed period as a support'.</sentence>
+<sentence id="s206">35 Mr Fabrello's third numbered point was:
+ 
+ 'I have advised Boomerang that [SEA] will not support the Moore business after September and that [the Mill] will not take over the invoicing.</sentence>
+<sentence id="s207">
+ As far as the [SEA] board is concerned I have to advise Moore of a significant price increase in May which will force a change.</sentence>
+<sentence id="s208">
+ I have told Boomerang to find an alternative supply as per the option A) above quickly so that they will be able to offer the alternative option when I advise Moore.</sentence>
+<sentence id="s209">
+ Despite my following this up several times with Boomerang they have yet to act seriously about an alternative and appear to be basing their future on some arrangement with CPI which could take some time to negotiate.</sentence>
+<sentence id="s210">
+ 
+ I am having a meeting with Bernard at CPI next wednesday to get an idea of their position and will then visit Boomerang to push them along the alternative supply.</sentence>
+<sentence id="s211">
+ We are running out of time'.</sentence>
+<sentence id="s212">
+
+36 Mr Koeppen responded by saying that for Giroform's long term strategy, 'we' had to continue with our reels business in Australia which meant continuing to do business with Boomerang.</sentence>
+<sentence id="s213">He preferred options B and C. He then noted a number of propositions or questions.</sentence>
+<sentence id="s214">What costs were 'we' considering?</sentence>
+<sentence id="s215">2, 3, 4, 5 per cent?</sentence>
+<sentence id="s216">What was CPI's mid/long term target?</sentence>
+<sentence id="s217">Was it to become a 'market leader in Carbonless'?</sentence>
+<sentence id="s218">Mr Koeppen concluded the email by asking whether he should come to Australia.</sentence>
+<sentence id="s219">37 On 14 May 2003, Mr Freilinger wrote to Melbourne insurance brokers, McMahon Brinx, with whom Mr Fabrello had been corresponding by email.</sentence>
+<sentence id="s220">Enclosed with the letter was an insurance proposal seeking credit insurance for SEA's trading with the Boomerang group.</sentence>
+<sentence id="s221">In the proposal, Mr Freilinger recorded the total amount outstanding from the Boomerang group as $6,349,390 at 31 March 2003 of which, at 14 May 2003, approximately $2.1 million was overdue accounts.</sentence>
+<sentence id="s222">38 On 14 May 2003, a board meeting of SEA took place in Osaka, Japan.</sentence>
+<sentence id="s223">Present were Mr Ellenberg and Mr Laipio and one other.</sentence>
+<sentence id="s224">The minutes of that meeting included the following:
+ 
+ '2.</sentence>
+<sentence id="s225">Minutes of the previous meeting 19.11.2002 
+ 
+ &gt; Hillegossen/Boomerang.</sentence>
+<sentence id="s226">[SEA] has a partial cover for this business from Pankavara and is cutting out some 40% (Moores) of Boomerang business to fit into the insurance frame.</sentence>
+<sentence id="s227">In the background CPI is negotiating to take Boomerang over'.</sentence>
+<sentence id="s228">
+
+
+While the meaning of this notation is not entirely clear on its face, the evidence of Mr Ellenberg (which itself was not entirely clear) was to the effect that it reflected a decision of the board.</sentence>
+<sentence id="s229">It was either a decision or at least a notation of what had been reported as the then present intention of SEA's local management.</sentence>
+<sentence id="s230">39 On 20 May 2003, Mr Fabrello wrote to Moore seeking to extend the time for agreement on prices for the second twelve month period (which was October 2002 to September 2004) under the supply agreement between the Mill and Moore, from the end of May 2003 to the end of June 2003.</sentence>
+<sentence id="s231">Mr Fabrello gave as the reason for negotiations not having commenced the resignation of Moore's national purchasing manager.</sentence>
+<sentence id="s232">This may have been correct but the extension was also sought because it fit into the strategy that SEA was developing.</sentence>
+<sentence id="s233">Moore agreed to the extension.</sentence>
+<sentence id="s234">40 On 27 May 2003, Mr Fabrello wrote to Boomerang saying that Moore had agreed to an extension until the end of June 2003 to negotiate the price for the second twelve month period under the supply agreement.</sentence>
+<sentence id="s235">Mr Fabrello also said that the Mill would be increasing its price by at least 7.5 per cent for the new period and that the Mill was prepared to let the business lapse if Moore did not accept the increase.</sentence>
+<sentence id="s236">These latter comments were not true, which Mr Fabrello acknowledged in cross examination.</sentence>
+<sentence id="s237">41 Also on 27 May 2003, Mr Fabrello sent an email to Mr Koeppen, which was as follows:
+ 
+ 'Update 
+ Step 1.</sentence>
+<sentence id="s238">Bernard [Cassell] has the Boomerang financials and is rushing his study to be completed this week.</sentence>
+<sentence id="s239">(this is confidential - we are not suppose to have this info) 
+ We should know whether CPI has intention to proceed with offer next monday - then it depends if agreements can be reached with Boomerang.</sentence>
+<sentence id="s240">
+ Step 2.</sentence>
+<sentence id="s241">Another attempt at getting insurance cover through alternative channels is in process.</sentence>
+<sentence id="s242">If [SEA] could get cover then there would be no problem in continuing the exposure to Boomerang.</sentence>
+<sentence id="s243">Andre believes the chances are very low of getting cover.</sentence>
+<sentence id="s244">
+ Step 3.</sentence>
+<sentence id="s245">If CPI decide not to proceed with purchase and insurance fails then I would ask Bernard if CPI could take over the invoicing of Boomerang sales to Moore.</sentence>
+<sentence id="s246">
+ Final Step 4.</sentence>
+<sentence id="s247">If there are no options left then [SEA] has to reduce exposure (invoicing) to Boomerang to a lower level.</sentence>
+<sentence id="s248">This means losing the Moore business for Giroform.</sentence>
+<sentence id="s249">
+ However [SEA] needs Boomerang to remain in business to ensure that we do not end up with a bad debt.</sentence>
+<sentence id="s250">By us forcing Boomerang out of Moore we actually increase the risk of this happening so we have suggested to Boomerang that they have an alternative option to offer Moore if and when we have to take step 4.</sentence>
+<sentence id="s251">
+ The best solution after step 4 is for Boomerang to continue the Moore Business with an alternative so that they can maintain their cash flow and gross margin from this business.</sentence>
+<sentence id="s252">
+ I would anticipate that [SEA] would have to take step 4 by the end of week 24'.</sentence>
+<sentence id="s253">
+ The possible acquisition by CPI of Boomerang 
+ 
+42 In September 2002, Mr Fabrello and Mr Cassell discussed the possible acquisition by CPI of the business of the Boomerang companies.</sentence>
+<sentence id="s254">It is probable that about this time, Mr Fabrello rang Mr Jolly and asked him if he was interested in selling his business to CPI.</sentence>
+<sentence id="s255">The discussion with Mr Cassell was initiated by Mr Fabrello.</sentence>
+<sentence id="s256">Mr Cassell said that CPI was not in a position to look at any acquisitions at the time but could be interested later in 2002 or early 2003.</sentence>
+<sentence id="s257">Later in 2002 or perhaps early 2003, Mr Cassell told Mr Fabrello that CPI was in a position to 'look at Boomerang'.</sentence>
+<sentence id="s258">In early 2003, Mr Cassell told him that if CPI purchased Boomerang, it would need him to join CPI and manage the acquisition.</sentence>
+<sentence id="s259">There were various versions in the evidence as to what was said about the nature of Mr Fabrello's proposed role.</sentence>
+<sentence id="s260">I am satisfied that Mr Fabrello was asked to take up employment with CPI to manage the acquisition during the process of transition.</sentence>
+<sentence id="s261">In effect, the position was to supervise the merger.</sentence>
+<sentence id="s262">He was not asked to take on any greater role in CPI.</sentence>
+<sentence id="s263">Mr Fabrello accepted the proposal at a later date.</sentence>
+<sentence id="s264">In late 2002 and early 2003, Mr Fabrello was actively promoting the acquisition of the businesses of the Boomerang companies by CPI.</sentence>
+<sentence id="s265">43 In one conversation with Mr Jolly in either late 2002 or early 2003 about the sale of the Boomerang companies, Mr Fabrello indicated that he thought that a sale would be a good thing.</sentence>
+<sentence id="s266">He expressed the view that Boomerang and CPI were a natural fit.</sentence>
+<sentence id="s267">He went on to indicate that he could not retire until the problem with Boomerang's overdue accounts was solved, which would happen if CPI bought Boomerang's business.</sentence>
+<sentence id="s268">44 In mid May 2003, confidentiality undertakings between CPI and Boomerang were executed by, amongst others, Mr Cassell and Mr Akdogan, to facilitate CPI obtaining confidential commercial information from the Boomerang companies.</sentence>
+<sentence id="s269">Plainly, this was an early step in the process of CPI considering whether to acquire the Boomerang companies or their assets.</sentence>
+<sentence id="s270">By letter dated 21 May 2003, Morrows sent CPI special purpose financials for the Boomerang companies.</sentence>
+<sentence id="s271">45 On 23 May 2003, a CPI board meeting took place.</sentence>
+<sentence id="s272">Mr Cassell presented a report as chief operating officer which included the following in relation to the acquisition of the Boomerang companies:
+ 
+ 'Expansion Opportunity --- Boomerang Paper 
+ 
+ Boomerang Paper is the Australian equivalent of Reel Papers specialising in the sale of carbonless reels and offset reels for the continuous stationary market.</sentence>
+<sentence id="s273">They also distribute Mitsubishi carbonless as do CPI.</sentence>
+<sentence id="s274">
+ 
+ An opportunity has arisen to acquire this Group which operates in Victoria, Queensland and Western Australia.</sentence>
+<sentence id="s275">It is majority owned by Ian Aitken.</sentence>
+<sentence id="s276">Were CPI to acquire Boomerang we would effectively be the major supplier of carbonless and offset reels in both Australia and New Zealand.</sentence>
+<sentence id="s277">
+ 
+ Whilst we realise this is not the ideal time to be looking at acquisitions , strategically this is very important.</sentence>
+<sentence id="s278">
+ 
+ In order to assist in such an acquisition we have spoken to [the Mill] about providing some assistance for the acquisition .</sentence>
+<sentence id="s279">We also raised the prospect of CPI taking over the mill agency from [SEA] .</sentence>
+<sentence id="s280">Dieter Koppan has indicated that both were possible and he is prepared to fly to Australia on 10 June if appropriate to help facilitate the transaction.</sentence>
+<sentence id="s281">
+ 
+ Finally, we have also spoken with Nereo Fabrello who handles the Mitsubishi carbonless agency for [SEA].</sentence>
+<sentence id="s282">He has indicated that if such a transaction were to occur he would join CPI.</sentence>
+<sentence id="s283">There is little doubt that Nereo is one of the most capable players in our industry.</sentence>
+<sentence id="s284">The role discussed with him would be to help manage the cultural fit issues.</sentence>
+<sentence id="s285">(Nereo has a close relationship with both Boomerang and CPI), as well as to train someone to ultimately take over from him, (Nereo is 64 years old although he looks only 54).</sentence>
+<sentence id="s286">He is very well respected by everyone in the industry.</sentence>
+<sentence id="s287">
+ 
+ A confidentiality agreement has been executed but as yet we have no information.</sentence>
+<sentence id="s288">A delay has been caused by Ian's divorce settlement which is now finalised so we hope to start discussions immediately.</sentence>
+<sentence id="s289">
+ 
+ There is a time pressure to conclude this transaction because if [the Mill] are to change the agency to CPI they must give notice by 30 June for it to end on 31 December.</sentence>
+<sentence id="s290">It is worth bearing in mind that the current commission income earned by this agency is approximately $500,000 per annum and Nereo estimates only $100,000 per annum cost would need to be brought across.</sentence>
+<sentence id="s291">On top of this we could expect some assistance by way of extended terms etc which could make the whole deal more affordable.</sentence>
+<sentence id="s292">
+ 
+ Permission is sought to continue these discussions'.</sentence>
+<sentence id="s293">(emphasis added)
+ 
+
+The board resolved to allow Mr Cassell to continue discussions with Boomerang.</sentence>
+<sentence id="s294">It is clear that at this stage Mr Cassell viewed the acquisition of the Boomerang companies as strategically very important, and considered that it might well involve the acquisition of the mill agency from SEA was also known.</sentence>
+<sentence id="s295">Mr Cassell also plainly appreciated at that time that he would be under time pressure to conclude the arrangements by 30 June 2003.</sentence>
+<sentence id="s296">46 On 30 May 2003, Mr Akdogan requested that Morrows provide special purpose financial reports in electronic format for the years 1999 to 2002 inclusive for the three Boomerang companies.</sentence>
+<sentence id="s297">47 On 5 June 2003, Mr Akdogan sent Mr Cassell spreadsheets relating to the financial position of the Boomerang companies.</sentence>
+<sentence id="s298">It is tolerably clear from this email that Mr Akdogan was proceeding on the basis that CPI was proposing to acquire the assets of the Boomerang companies, although he noted that this was a matter that needed to be confirmed.</sentence>
+<sentence id="s299">On the same day, Mr Akdogan wrote to Morrows requesting further information to "assess the opportunity".</sentence>
+<sentence id="s300">On 10 June 2003 there was a meeting between Mr Stanley, from Morrows, and Mr Cassell.</sentence>
+<sentence id="s301">Discussion about the Boomerang acquisition also took place at a dinner meeting of 12 June 2003 attended by Mr Fabrello, Mr Cassell and Mr Koeppen.</sentence>
+<sentence id="s302">48 The financial accounts of Boomerang provided to CPI between 21 May 2003 and 23 June 2003 can be summarised as follows: 
+ 
+1.</sentence>
+<sentence id="s303">For Boomerang Brisbane, profit and loss statement and balance sheets for 1999 to 2002;
+ 
+2.</sentence>
+<sentence id="s304">For Boomerang Perth, profit and loss statements and balance sheets from 2000 to 2002.</sentence>
+<sentence id="s305">3.</sentence>
+<sentence id="s306">For Boomerang Melbourne, profit and loss statement for 2000 to 2002 and for 2002/2003 up to the end of the quarter ending 30 April 2003.</sentence>
+<sentence id="s307">4.</sentence>
+<sentence id="s308">For Boomerang Melbourne, balance sheets for 2001/2002 and for 2002/2003 up to the end of the quarter ending 30 April 2003.</sentence>
+<sentence id="s309">49 Adopting the analysis contained in SEA's submissions, the accounts showed the following trading and asset position:
+ Company Year Profit/Loss ($) Boomerang Brisbane 1999 (84,630) 
+ 
+ (200,481) 
+ 2000 109,132 
+ 
+ (91,348) 
+ 2001 5247 
+ 2002 993 Boomerang Perth 2000 105,289 
+ 2001 136,142 
+ 2002 (319,323) Boomerang Melbourne 2000 332,807 
+ 2001 (596,385) 
+ 2002 (325,230) 
+ 2003
+(30/04) 79,825
+(245,405) 
+ 
+
+50 On what was probably 20 June 2003, Mr Fabrello telephoned Mr Cassell, advising that he had decided to retire and that he would not join CPI.</sentence>
+<sentence id="s310">Mr Cassell flew to Sydney and met with Mr Fabrello on 23 June 2003 to try to convince him to change his mind but was unable to do so.</sentence>
+<sentence id="s311">51 On 26 June 2003, another CPI board meeting took place.</sentence>
+<sentence id="s312">In the chief operating officer's report, Mr Cassell said:
+ 
+ 'Acquisition Opportunities 
+ 
+ Attached to this report is a Memorandum of Understanding concerning the supply arrangements for carbonless paper.</sentence>
+<sentence id="s313">The net affect of what has been agreed is that Mitsubishi Carbonless are prepared to fund a significant proportion of the purchase price of Boomerang Paper through extended trading terms.</sentence>
+<sentence id="s314">They will also effectively transfer the Agency of their product to us from Stora Enso Australia, which will yield an additional $350,000 pa EBIT.</sentence>
+<sentence id="s315">Also attached is a summary sheet of the performance of the Boomerang Group of the last three years prepared by Birol.</sentence>
+<sentence id="s316">We do not yet have all the information to determine an offer price.</sentence>
+<sentence id="s317">A couple of meetings have been held with the owner of Boomerang, Ian Aiken, and he appears receptive to the next step'.</sentence>
+<sentence id="s318">(emphasis added) 
+
+52 The minutes of the board meeting reveal the following consideration of the Boomerang acquisition:
+ 
+ 'Boomerang Paper Update 
+ 
+ Mr Cassell provided an update on negotiations with Boomerang Paper.</sentence>
+<sentence id="s319">He advised that both Boomerang Paper and Mitsubishi Carbonless were very keen to do a deal.</sentence>
+<sentence id="s320">However discussions with Mr Nereo Fabrello regarding his employment with CPI Group Ltd was stalled because of Mr Fabrello's unexpected decision to retire.</sentence>
+<sentence id="s321">Mr Cassell advised that CPI would continue to negotiate with the various stakeholders and continue on the due diligence'.</sentence>
+<sentence id="s322">(emphasis added)
+ 
+
+It is apparent from the extract above that within days before entering into the invoicing agreement, Mr Cassell appeared quite positive about the acquisition of the Boomerang companies business proceeding.</sentence>
+<sentence id="s323">53 In January 2004, the Boomerang companies went into receivership.</sentence>
+<sentence id="s324">On 12 February 2004, CPI completed the purchase of assets of the companies.</sentence>
+<sentence id="s325">The total amount paid by CPI was $2,831,972.</sentence>
+<sentence id="s326">In his managing director's report to the board of CPI in February 2004, Mr Cassell said:
+ 
+ 'Using various contacts we established that the prices paid were in all probability below a normal sale value'.</sentence>
+<sentence id="s327">
+
+54 The terms of sale were reported as follows:
+ 
+ 'Half thirty days after settlement and the balance sixty days after settlement'.</sentence>
+<sentence id="s328">
+
+55 Mr Cassell also reported:
+ 
+ 'The cash required to make these payments has in effect been provided by two suppliers, [the Mill] and Australian Paper.</sentence>
+<sentence id="s329">The former is providing an additional 60 days trading terms, i.e.</sentence>
+<sentence id="s330">now 120 days after month of usage of consignment of stock.</sentence>
+<sentence id="s331">Average monthly payment by CPI is $400,000 - $500,000.</sentence>
+<sentence id="s332">The latter is providing an additional 30 days trading terms i.e now 60 days payment.</sentence>
+<sentence id="s333">Average monthly payment by CPI is $1,000,000.</sentence>
+<sentence id="s334">Both these extended trading terms will also be available for any purchases by Boomerang.</sentence>
+<sentence id="s335">We are also continuing our negotiations with other suppliers for similar support'.</sentence>
+<sentence id="s336">
+
+56 The Mill had assisted CPI in the manner contemplated by the memorandum of understanding, discussed below.</sentence>
+<sentence id="s337">The memorandum of understanding between CPI and the Mill and its implementation 
+ 
+57 On 12 and 17 June 2003, Mr Fabrello met with Mr Cassell and Mr Koeppen, in Melbourne.</sentence>
+<sentence id="s338">The meeting of 12 June 2003 took place over dinner.</sentence>
+<sentence id="s339">The meeting of 17 June 2003 is discussed in more detail shortly.</sentence>
+<sentence id="s340">58 On 17 June 2003, a draft memorandum of understanding between CPI and the Mill was prepared to reflect the agreement reached at the June meetings.</sentence>
+<sentence id="s341">The draft was as follows:
+ 
+ 
+ 'MEMORANDUM OF UNDERSTANDING 
+ 
+ CPI GROUP LTD 
+ AND 
+ [THE MILL]
+ 
+ 
+ 
+ 
+ BACKGROUND 
+ 
+ a) [The Mill] is a supplier of Carbonless papers to Australia and New Zealand.</sentence>
+<sentence id="s342">
+ 
+ b) [SEA] is the current exclusive agent for [the Mill] in Australia and New Zealand.</sentence>
+<sentence id="s343">
+ 
+ c) The customers for [the Mill] product in Australia and New Zealand are CPI Group Ltd ("CPI") and the Boomerang Trading Group ("Boomerang").</sentence>
+<sentence id="s344">
+ 
+ d) [SEA] wishes to reduce its credit exposure to Boomerang and limit sales to them.</sentence>
+<sentence id="s345">
+ 
+ e) [The Mill] wishes to maintain sales to Boomerang.</sentence>
+<sentence id="s346">
+ 
+ f) CPI wishes to acquire the business of Boomerang.</sentence>
+<sentence id="s347">
+ 
+ In recognition of the above [the Mill] and CPI have agreed on the following actions set out in this Memorandum of Understanding.</sentence>
+<sentence id="s348">
+ 
+ 
+ 1.</sentence>
+<sentence id="s349">CPI confirms that it is negotiating with Boomerang for the purchase of its business and that it intends to try and conclude this acquisition as soon as possible.</sentence>
+<sentence id="s350">
+ 
+ 
+ 
+ 2.</sentence>
+<sentence id="s351">In the meantime CPI agrees that it will be invoiced by [SEA] for all sales to Boomerang and that it will in turn invoice Boomerang for those sales, i.e.</sentence>
+<sentence id="s352">CPI will assume Boomerang's credit risk.</sentence>
+<sentence id="s353">
+ 
+ 
+ 
+ 3.</sentence>
+<sentence id="s354">In return for CPI assuming the credit risk on Boomerang, [the Mill] agrees to pay CPI 2% rebate calculated on the invoice value of all sales to Boomerang.</sentence>
+<sentence id="s355">
+ 
+ 
+ 
+ 4.</sentence>
+<sentence id="s356">[The Mill] agrees that it will terminate the agency for its carbonless papers in Australia and New Zealand with [SEA] to take effect 31 December 2003 (or sooner if mutually agreed), and that it will enter into similar arrangements with CPI effective 1 January 2004 (or sooner if mutually agreed).</sentence>
+<sentence id="s357">
+ 
+ 
+ 
+ 5.</sentence>
+<sentence id="s358">CPI agrees that it will employ Mr Nereo Fabrello once the arrangements with [the Mill] are in place (or sooner if mutually agreed).</sentence>
+<sentence id="s359">
+ 
+ 
+ 
+ 6.</sentence>
+<sentence id="s360">[SEA] will warrant that all invoices raised to CPI in respect of Boomerang purchases are true and correct and have been accepted by Boomerang.</sentence>
+<sentence id="s361">
+ 
+ 
+ 
+ 7.</sentence>
+<sentence id="s362">[The Mill] agrees that in the event that CPI is successful in its acquisition of Boomerang it will extend the current payment terms on reels to 120 days from the current 60 days (CPI) and 75 days (Boomerang).</sentence>
+<sentence id="s363">This arrangement will continue for two years following which it will be further discussed between the parties.</sentence>
+<sentence id="s364">' 
+
+59 On 18 June 2003, Mr Ellenberg emailed Mr Koeppen, the subject being described as 'CPI/Boomerang'.</sentence>
+<sentence id="s365">Mr Ellenberg indicated that Mr Fabrello had explained to him the arrangements for CPI taking over the invoicing of the Boomerang companies.</sentence>
+<sentence id="s366">Mr Ellenberg noted that this arrangement solved the "credit cover problem".</sentence>
+<sentence id="s367">He also noted that a 2 per cent commission to CPI was the 'spoken carrot' and that CPI had a long-term interest in Boomerang as had the Mill in selling 12,000 tonnes into the Australasian market.</sentence>
+<sentence id="s368">Lastly, Mr Ellenberg noted that the board of SEA were worried about two things, namely the history of payment beyond the terms of trade (including the lack of credit cover) and the overall level of 2 per cent commission.</sentence>
+<sentence id="s369">Mr Ellenberg was in effect asking the Mill to assume responsibility for the 2 per cent commission which would be payable to CPI under the invoicing agreement.</sentence>
+<sentence id="s370">Mr Ellenberg concluded by implying there was a need to resolve the matter quickly because the Moore deadline was at the end of the following week.</sentence>
+<sentence id="s371">60 Mr Koeppen replied by email of 21 June 2003 sent to both Mr Ellenberg and Mr Fabrello.</sentence>
+<sentence id="s372">He noted, first, that CPI's takeover of Boomerang was only a matter of time as it fitted perfectly into CPI's long-term strategy/portfolio.</sentence>
+<sentence id="s373">He also noted that, in effect, the invoice agreement solved SEA's 'payment/credit/insurance problem' and SEA 'remain[ed] in B[oomerang] business'.</sentence>
+<sentence id="s374">That latter point must have related only to the six months following June 2003.</sentence>
+<sentence id="s375">It is highly unlikely, in my opinion, that Mr Koeppen was at this point attempting to maintain a charade to the effect that SEA would continue indefinitely as the Mill's agent in Australia.</sentence>
+<sentence id="s376">However, it is obvious that Mr Koeppen was not being completely frank with Mr Ellenberg who, unlike Mr Fabrello, did not know that at that time, the Mill had reached an in principle agreement with CPI for it to take over the agency.</sentence>
+<sentence id="s377">The other matter Mr Koeppen noted was that 'we, stay with this important B[oomerang]-volume in [Australia]'.</sentence>
+<sentence id="s378">For the reason just given (that Mr Koeppen was not trying to maintain a charade), Mr Koeppen was more likely than not referring to the Mill when he spoke of 'we' retaining the sales volume to Boomerang.</sentence>
+<sentence id="s379">He proposed that the additional 2 per cent payable to CPI be borne equally by the Mill and SEA.</sentence>
+<sentence id="s380">Mr Ellenberg agreed by email of 23 June 2003.</sentence>
+<sentence id="s381">Mr Ellenberg did not send a copy of this email to Mr Fabrello.</sentence>
+<sentence id="s382">Notwithstanding Mr Ellenberg's agreement to the proposal, there were further discussions between Mr Fabrello and Mr Koeppen about this arrangement.</sentence>
+<sentence id="s383">On 27 June 2003, Mr Fabrello sent Mr Koeppen an email (copied to Mr Freilinger) suggesting that it was much simpler to pay SEA 3 per cent for the Boomerang invoicing and for SEA to then pay CPI 2 per cent from that amount.</sentence>
+<sentence id="s384">61 By letter dated 26 June 2003, the Mill terminated the agency agreement and distributor agreement with SEA, effective at the end of 2003.</sentence>
+<sentence id="s385">Mr Koeppen was a co-signatory to the letter.</sentence>
+<sentence id="s386">The letter indicated that the Mill had learnt that SEA was no longer willing to maintain business with Boomerang due to credit problems and its poor payment record.</sentence>
+<sentence id="s387">He explained that as a result, the Mill had only one customer in the Australian market, CPI, and that the Mill therefore no longer needed an agent, particularly since there was no suitable successor to Mr Fabrello who was said to have 'undoubted brilliant expertise and market reputation [who could not] be replaced by someone within a short period of time'.</sentence>
+<sentence id="s388">The letter does not state entirely accurately SEA's position in relation to Boomerang, although Mr Koeppen may have misunderstood SEA's reluctance to deal with the Boomerang companies as being a firm commitment not to deal with the group.</sentence>
+<sentence id="s389">62 After receiving the letter of 26 June 2003, Mr Ellenberg did nothing to persuade Mr Koeppen and the Mill to change its mind.</sentence>
+<sentence id="s390">He was cross examined about this.</sentence>
+<sentence id="s391">His evidence, which I accept, was that despite being surprised by the Mill's termination of the agreements, he accepted, in view of the date of the letter, that the Mill was merely exercising its legal rights under the agency agreement to terminate at the end of that year with six months' notice.</sentence>
+<sentence id="s392">He agreed that the letter did not correctly reflect SEA's position where it referred to SEA not being willing to the maintain business with Boomerang, since SEA was pursuing the invoicing arrangement with CPI.</sentence>
+<sentence id="s393">His explanation for why he did not contact the Mill to correct the inaccuracies in the letter was that he felt under no obligation to do so because the Mill was legally entitled to terminate and he saw the letter was final and definite.</sentence>
+<sentence id="s394">Although he said he subsequently spoke to Mr Koeppen about the termination, he said he did not recall raising the inaccuracies contained in the letter.</sentence>
+<sentence id="s395">63 In relation to the statement in the Mill's letter that it would only have one customer, CPI, Mr Ellenberg agreed that the termination made commercial sense for the Mill.</sentence>
+<sentence id="s396">He accepted that it was inaccurate to say that the Mill would only have one customer, since SEA would be continuing business with Boomerang under the invoicing agreement until the termination became effective at the end of the year.</sentence>
+<sentence id="s397">Mr Ellenberg said he believed that the acquisition would probably go ahead, so that in the near future the only customer would be CPI.</sentence>
+<sentence id="s398">He did not embrace a suggestion put to him in cross-examination that the termination was a blessing in disguise having regard to the problems SEA had with Boomerang.</sentence>
+<sentence id="s399">I accept Mr Ellenberg's evidence to the effect that he did not seek to persuade the Mill to change its mind because it was exercising, in an unqualified way, its right to terminate the agreements in a context in which he assumed it was likely CPI would take over Boomerang and it would make no real commercial sense to the Mill to maintain SEA as its agent.</sentence>
+<sentence id="s400">64 The final memorandum of understanding between CPI and the Mill was signed on behalf of the Mill on 27 June 2003 and by CPI on 7 July 2003.</sentence>
+<sentence id="s401">The final version was identical to the draft except that clause 5 (which referred to CPI's agreement to employ Mr Fabrello) was replaced with the following clause:
+ 
+ '5.</sentence>
+<sentence id="s402">CPI agrees that it will employ a suitable person to provide leadership for sales of carbonless papers.</sentence>
+<sentence id="s403">' 
+ 
+
+65 In an email of 27 June 2003 to Mr Cassell, Mr Koeppen indicated that he generally agreed on the action set out in the memorandum of understanding and it was on the basis that the document had been signed.</sentence>
+<sentence id="s404">He noted that existing contracts had been terminated.</sentence>
+<sentence id="s405">He went on to say that there were 'a lot of important open questions about our common future targets'.</sentence>
+<sentence id="s406">He said he had discussed the matter with his board and indicated a particular individual (perhaps the CEO) wanted to meet him as soon as possible.</sentence>
+<sentence id="s407">Mr Koeppen then noted, with something of a personal flourish, 'Bernard, last time you have been in the Mill was in the mid 80 th !!</sentence>
+<sentence id="s408">' by which he presumably meant the mid 1980's.</sentence>
+<sentence id="s409">He then extended the invitation to Mr Cassell to visit the plant and said 'we are looking forward, [to] welcoming you here at Bielefield'.</sentence>
+<sentence id="s410">Mr Koeppen proposed some dates and indicated he would pick up Mr Cassell from the airport or station.</sentence>
+<sentence id="s411">Mr Fabrello's position 
+ 
+66 The position of Mr Fabrello is important.</sentence>
+<sentence id="s412">On CPI's case, he agreed to work with CPI once it had acquired Boomerang's business, yet while that arrangement remained in place (at least in form if not substance) and before he announced his decision to retire in late June 2003, he participated in one meeting (19 May 2003) in which Mr Ellenberg misled Mr Cassell about matters relating to Boomerang's business and, at another meeting (17 June 2003), made a statement to Mr Cassell about the state of Boomerang's accounts which was patently false.</sentence>
+<sentence id="s413">67 It is convenient, at this point, to say something about the credit of Mr Fabrello.</sentence>
+<sentence id="s414">He impressed me in the witness box as an honest and thoughtful person.</sentence>
+<sentence id="s415">Much was made by counsel for CPI of Mr Fabrello's oral evidence concerning the reason why he did not continue with the arrangement to commence working with CPI when it acquired the Boomerang companies.</sentence>
+<sentence id="s416">It was a reason which Mr Fabrello had not mentioned in either his dealings with Mr Cassell and Mr Ellenberg or in his affidavit evidence in chief.</sentence>
+<sentence id="s417">He told Mr Ellenberg on 20 June 2003 of his decision to retire from employment with SEA effective 30 August 2003 (although it was later extended to December 2003) and told Mr Cassell of his decision not to take up employment with CPI.</sentence>
+<sentence id="s418">His evidence about why he did not take up the position with CPI was that it was not the same position to which he had earlier agreed and that he was not going to be a party to working with CPI when it involved changing the agency.</sentence>
+<sentence id="s419">68 I accept Mr Fabrello's evidence about what motivated him to resign and his explanation for failing to tell Mr Ellenberg, when he told him of his resignation, that SEA was at risk of losing the agency as a result of the discussions at the meeting of 17 June 2003 involving him, Mr Cassell and Mr Koeppen (and probably the earlier dinner meeting on 12 June 2003).</sentence>
+<sentence id="s420">His evidence was to the effect that shortly before the meetings in June 2003 he became aware of the possibility of SEA losing the agency.</sentence>
+<sentence id="s421">69 Counsel for CPI pointed to the reference in Mr Cassell's report of 23 May 2003 (see [44] above) to the figures passed on by Mr Fabrello about the income and costs of maintaining the agency.</sentence>
+<sentence id="s422">He also pointed to option C in the email Mr Fabrello sent Mr Koeppen on 2 May 2003 (see [33] above) referring to 'CPI (getting) the commission owed to (SEA)'.</sentence>
+<sentence id="s423">These matters founded a submission that Mr Fabrello had known well before June 2003 that SEA would lose the agency if CPI acquired the Boomerang business.</sentence>
+<sentence id="s424">Indeed a submission was made that Mr Fabrello never intended to take up employment with CPI and, from the outset, was promoting the acquisition (and agreeing to being involved) only as a means of resolving the problem concerning SEA's unpaid accounts for that company's benefit before his retirement.</sentence>
+<sentence id="s425">It had been a deliberate ruse.</sentence>
+<sentence id="s426">Reference was made to the conversation with Mr Jolly (see [ 43 ] above).</sentence>
+<sentence id="s427">A significant difficulty with the submission that Mr Fabrello had acted duplicitously from the outset is that this was never put to Mr Fabrello.</sentence>
+<sentence id="s428">It should have been put if counsel for CPI proposed to make the submission.</sentence>
+<sentence id="s429">However, I accept his evidence that he came to appreciate that SEA might lose the agency at about the time of the meetings in June 2003.</sentence>
+<sentence id="s430">It may be that they appreciated this possibility shortly before 23 May 2003 when Mr Cassell obtained information from him about the income and costs associated with the agency after Mr Cassell had spoken to Mr Koeppen about its possible acquisition.</sentence>
+<sentence id="s431">Mr Fabrello was not able to deny that the acquisition of the agency might have been discussed by him with Mr Cassell before 23 May 2003.</sentence>
+<sentence id="s432">70 However it does not follow that Mr Fabrello's evidence about why he decided not to take up employment with CPI should be rejected.</sentence>
+<sentence id="s433">I do not accept that his initial acceptance of the offer of employment was part of a deliberate ruse and that he never intended to take up employment with CPI.</sentence>
+<sentence id="s434">There is no evidentiary foundation of substance on which to base such a finding and it was not put to Mr Fabrello.</sentence>
+<sentence id="s435">His evidence generally was to the contrary effect.</sentence>
+<sentence id="s436">If his initial acceptance of employment was genuine, as I conclude it was, then at some point he changed his mind and I am satisfied, as Mr Fabrello said in evidence, that it was when the appreciated the agency might be lost to SEA.</sentence>
+<sentence id="s437">He then appreciated the consequences for his then employer, SEA.</sentence>
+<sentence id="s438">He told Mr Cassell on, probably, 20 June 2003 that he would no longer take up employment with CPI and would be retiring, in part, to try and stop (although belatedly) the termination of the agency and, if it was terminated, it would enable him to distance himself from the loss by SEA of the agency.</sentence>
+<sentence id="s439">Apart from the consequences of his withdrawal from the arrangement, Mr Fabrello at that time believed that it was certain CPI would go ahead with the purchase of the Boomerang business and the agency would be terminated.</sentence>
+<sentence id="s440">He was too embarrassed to tell Mr Ellenberg of what had been occurring and what lay behind his reason to retire and said he now regrets not having been more frank.</sentence>
+<sentence id="s441">71 Another basis on which counsel for CPI challenged Mr Fabrello's credit concerned his explanation for not telling Mr Cassell about the trading position of the Boomerang companies.</sentence>
+<sentence id="s442">Mr Fabrello said that he understood, in June 2003, that CPI had the financial records of Boomerang and, as far as he was concerned, they must have known its position.</sentence>
+<sentence id="s443">An argument was mounted that if Mr Cassell could not have said, at the meeting of 19 May 2003, that CPI had Boomerang's financial records (because, as to the first batch, they were first received on or after 21 May 2003), then Mr Fabrello would not have otherwise known that CPI had the financial records or at least have known what they contained.</sentence>
+<sentence id="s444">However, it is clear from Mr Fabrello's email to Mr Koeppen of 27 May 2003 (see [ 41 ] above) that Mr Fabrello knew Mr Cassell had financial records and was in the process of studying them.</sentence>
+<sentence id="s445">It is also probable that Mr Fabrello's knowledge of what Mr Cassell was doing had come from Mr Cassell.</sentence>
+<sentence id="s446">The invoicing agreement 
+ 
+72 From the events discussed to this point as well as two meetings, one on 19 May and the other on 17 June 2003 (which are discussed shortly), emerged the invoicing agreement.</sentence>
+<sentence id="s447">On 25 June 2003, SEA sent an undated letter to CPI setting out the terms of the invoicing arrangement.</sentence>
+<sentence id="s448">The letter was prepared by Mr Fabrello's to reflect what was decided at the meeting on 17 June 2003.</sentence>
+<sentence id="s449">The letter read:
+ 
+ 'Dear Bernard [Cassell]
+ Re; Agreement to Invoice Boomerang Paper Companies 
+ 
+ This is to confirm the following agreement between Stora Enso Australia Pty Ltd and CPI Group Ltd. 
+ 
+ CPI Group agrees to accept Invoices from Stora Enso Australia for all Boomerang Paper Companies purchases of Giroform Carbonless Paper.</sentence>
+<sentence id="s450">
+ The Boomerang Companies are Boomerang Paper (Aust) Pty Ltd, Boomerang Paper (Qld) Pty Ltd, Boomerang Paper (WA) Pty Ltd. 
+ 
+ Stora Enso Australia agrees to pay CPI a rebate of two percent of the invoiced sales values (excluding GST) for all Boomerang Paper companies invoices.</sentence>
+<sentence id="s451">This rebate will be paid monthly by means of a credit note.</sentence>
+<sentence id="s452">
+ 
+ Either party can terminate this agreement by giving two months written notice.</sentence>
+<sentence id="s453">
+ 
+ Stora Enso Australia warrants that all invoices raised to CPI in respect Boomerang Paper purchases are true and correct and have been accepted by the Boomerang Paper company concerned.</sentence>
+<sentence id="s454">
+ 
+ This will be effective all Invoiced raised from July 1 st 2003.</sentence>
+<sentence id="s455">
+ 
+ Details of invoicing procedures are attached.</sentence>
+<sentence id="s456">
+ 
+ Please confirm you acceptance of this agreement.</sentence>
+<sentence id="s457">
+ 
+ Yours truly 
+ 
+ Juhani Ellenberg 
+ Managing Director 
+ Stora Enso Australia Pty Ltd' 
+
+ 73 The attachment to the letter was as follows:
+ 
+ 'Procedure for Boomerang Invoicing by CPI group.</sentence>
+<sentence id="s458">
+ 
+ 1.</sentence>
+<sentence id="s459">Stora Enso will continue to raise individual invoices for the Boomerang Companies.</sentence>
+<sentence id="s460">
+ 
+ 2.</sentence>
+<sentence id="s461">These will now be raised as pro forma invoices which will have to signed off [sic] as correct by the Boomerang companies.</sentence>
+<sentence id="s462">
+ 
+ 3.</sentence>
+<sentence id="s463">Stora Enso will then consolidate the invoices and raise a single line invoice to CPI group for the total value of the invoices.</sentence>
+<sentence id="s464">
+ Separate invoices will be raised for consignment reels, Indent reels and Indent sheets as payment terms are different for each category.</sentence>
+<sentence id="s465">
+ Terms are 
+ - Consignment Reels --- 75 days from end of reported sales month.</sentence>
+<sentence id="s466">
+ - Indent Reels --- 90 days from Bill of Lading Days 
+ - Indent Sheets --- 120 days from Bill of Lading Date 
+ 
+ 4.</sentence>
+<sentence id="s467">CPI group will then invoice Boomerang for the same value of these invoices.</sentence>
+<sentence id="s468">
+ 
+ 5.</sentence>
+<sentence id="s469">CPI will make payments to Stora Enso Australia Pty Ltd on the agreed terms less the value of any credit notes raised.</sentence>
+<sentence id="s470">
+ 
+ Juhani Ellenberg 
+ Managing Director 
+ Stora Enso Australia Pty Ltd' 
+
+74 CPI replied with the following letter to SEA dated 2 July 2003:
+ 
+ 'Dear Juhani [Ellenberg]
+ 
+ With regard to your letter of agreement between Stora Enso Australia Pty Ltd and CPI Group Ltd, CPI Group Ltd hereby confirms its acceptance of the arrangement for all invoices raised from 1 July 2003.</sentence>
+<sentence id="s471">
+ 
+ Please direct all correspondence (including invoices) relating to the day-to-day managing of this arrangement to our Chief Financial Officer, Mr Birol Akdogan.</sentence>
+<sentence id="s472">
+ 
+ Yours sincerely 
+ 
+ Bernard P Cassell 
+ Chief Operating Officer' 
+
+75 Mr Fabrello then wrote to Mr Aiken on 9 July 2003, informing Boomerang that CPI Group had agreed to take over the invoicing of sales to the Boomerang companies, explaining the new arrangement.</sentence>
+<sentence id="s473">The letter repeated the payment terms set out in the annexure to the invoicing agreement (see [ 73 ] above) including that consignment reels were to be paid for 75 days from the end of reported month sales.</sentence>
+<sentence id="s474">Mr Jolly rang Mr Fabrello and indicated Boomerang would not be able to meet those payment terms.</sentence>
+<sentence id="s475">Mr Fabrello agreed to adjust the terms.</sentence>
+<sentence id="s476">He sent Mr Aitken a letter on 11 July 2003 in almost identical terms to the letter of 9 July 2003, save that the term for consignment reels was 90 days and not 75.</sentence>
+<sentence id="s477">The invoicing arrangement was accepted by Mr Aitken by letter dated 17 July 2003.</sentence>
+<sentence id="s478">On 28 July 2003 Mr Fabrello wrote to Mr Akdogan setting out an 'update of the original procedure' which included the 90 days, rather than the 75 days, term for consignment reels.</sentence>
+<sentence id="s479">It is possible Mr Akdogan was told by Mr Fabrello that this amendment to the terms was because of a clerical error.</sentence>
+<sentence id="s480">However I do not accept that this was a deliberate attempt by Mr Fabrello to conceal the true position concerning Boomerang's trading position.</sentence>
+<sentence id="s481">76 SEA supplied carbonless paper to Boomerang under the invoicing agreement from 1 July 2003 to October 2003 and issued the invoices and credit notes.</sentence>
+<sentence id="s482">The invoices raised by SEA and sent to CPI for each month from July to October 2003 were in the following amounts:
+ 
+ 
+ 
+ Month (2003) 
+ 
+ Total 
+ 
+ July 
+ 
+ $1,366,340.18 
+ 
+ August 
+ 
+ $1,267,448.37 
+ 
+ September 
+ 
+ $1,370,508.14 
+ 
+ October 
+ 
+ $1,801,950.45 
+ 
+
+CPI paid in full the July 2003 invoice.</sentence>
+<sentence id="s483">77 SEA also raised and issued in favour of CPI the credit notes representing the commission payable to CPI for each of the months July to October 2003, which totalled $116,124.97.</sentence>
+<sentence id="s484">Also during the period July to October 2003, SEA allowed CPI, and CPI was entitled to, a further rebate for price support, the total amount of which was $356,237.34.</sentence>
+<sentence id="s485">SEA took into account this amount in calculating the amount owed to it by CPI.</sentence>
+<sentence id="s486">The invoiced amounts for the months August to October 2003 remain outstanding.</sentence>
+<sentence id="s487">78 SEA had been requiring payments from the Boomerang companies of at least $250,000 per week from about early April 2003 to reduce existing debt.</sentence>
+<sentence id="s488">On that basis, SEA would have been expecting to receive from Boomerang over the period July to October 2003 payments of about $4 million.</sentence>
+<sentence id="s489">In fact over this period, SEA received at least $3.153 million from Boomerang Melbourne and Boomerang Brisbane in amounts paid by Boomerang to SEA, preferentially, in reduction of its pre-existing debt.</sentence>
+<sentence id="s490">79 In October 2003, Mr Cassell sought to withdraw from the invoicing agreement.</sentence>
+<sentence id="s491">On 26 September 2003, he met with Mr Harrison who was an accountant from the firm Douglas and Harrison, which had been retained by CPI in early August 2003 to undertake due diligence inquiries concerning the acquisition of the Boomerang businesses.</sentence>
+<sentence id="s492">Mr Cassell's evidence, which I accept, was that this was the first occasion on which a substantial deficiency in Boomerang's net assets had been made known to him.</sentence>
+<sentence id="s493">Mr Cassell had a further conversation with Mr Harrison in early October 2003.</sentence>
+<sentence id="s494">80 Mr Cassell then organised a meeting with Mr Ellenberg, Mr Fabrello, Mr Koeppen and Mr Gillman from Douglas and Harrison.</sentence>
+<sentence id="s495">They met on 22 October 2003 in Melbourne.</sentence>
+<sentence id="s496">Mr Gillman explained his firm's conclusions about the insolvency of the Boomerang companies.</sentence>
+<sentence id="s497">He left the meeting.</sentence>
+<sentence id="s498">The meeting then continued over lunch.</sentence>
+<sentence id="s499">Mr Cassell indicated that CPI did not consider itself bound by the invoicing agreement because he had been misled.</sentence>
+<sentence id="s500">He complained that 'you' (probably a reference to each of Mr Ellenberg, Mr Fabrello and Mr Koeppen) should have told him about the arrears on the Boomerang account.</sentence>
+<sentence id="s501">Mr Cassell's evidence was that he asked why he had not been told.</sentence>
+<sentence id="s502">Mr Ellenberg accepted that something like that was said by Mr Cassell.</sentence>
+<sentence id="s503">Mr Fabrello's evidence was a little different.</sentence>
+<sentence id="s504">His evidence was that Mr Cassell, after referring to financial records obtained in the course of the due diligence, said SEA had been negligent in its dealings with the Boomerang companies, although he also gave evidence that Mr Cassell had earlier asked how long Boomerang had been overdue in payments.</sentence>
+<sentence id="s505">It is unlikely this question would have been asked by Mr Cassell if he had known the true position earlier.</sentence>
+<sentence id="s506">81 While there are differences in the evidence about precisely what was said, it is probable that Mr Cassell did complain about being misled.</sentence>
+<sentence id="s507">This was the import of the evidence of Mr Cassell and Mr Ellenberg and, in substance, the evidence of Mr Fabrello.</sentence>
+<sentence id="s508">Mr Cassell's evidence was that, in response to his question about why he had not been told about Boomerang's position, Mr Fabrello said that he was surprised Mr Cassell did not know.</sentence>
+<sentence id="s509">In cross examination Mr Fabrello denied saying this at the meeting, although his denial was far from emphatic.</sentence>
+<sentence id="s510">What appears to be a qualification in his answer, namely that he did not say that at the meeting , was not explored in cross examination.</sentence>
+<sentence id="s511">It is probable that Mr Fabrello did make an observation about being surprised that Mr Cassell did not know, probably at that meeting, but in any case at about that time.</sentence>
+<sentence id="s512">I accept that Mr Fabrello genuinely did not know that Mr Cassell was unaware of Boomerang's position.</sentence>
+<sentence id="s513">That he made the statement about being surprised at the meeting is consistent with what appears to be the tenor of the conversation on the evidence of Mr Cassell, Mr Ellenberg and Mr Fabrello.</sentence>
+<sentence id="s514">At the meeting, Mr Fabrello then said that they needed to talk about the matter in more detail so they could find a satisfactory solution, to which Mr Cassell agreed.</sentence>
+<sentence id="s515">82 On 2 November 2003, Mr Fabrello gave Mr Aitken and Mr Jolly a written instruction that they were to cease immediately to use the consignment stock owned by the Mill stored in Boomerang premises in Melbourne, Brisbane and Perth and that this action '[had] become necessary because of the ongoing late payments of accounts'.</sentence>
+<sentence id="s516">Mr Ellenberg sent a copy of this instruction to Mr Cassell and Mr Koeppen.</sentence>
+<sentence id="s517">The meeting of 19 May 2003 
+ 
+83 On 19 May 2003, Mr Ellenberg and Mr Fabrello met with Mr Cassell.</sentence>
+<sentence id="s518">The meeting had probably been organized by Mr Fabrello.</sentence>
+<sentence id="s519">Mr Ellenberg's version in chief was:
+ 
+ 
+ 
+ 'Cassell "We've decided to acquire Boomerang.</sentence>
+<sentence id="s520">They will fit into our sales portfolio.</sentence>
+<sentence id="s521">We have started the due diligence which is ongoing.</sentence>
+<sentence id="s522">We have received some financials" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ellenberg "Bernard, existing credit insurance policy of [SEA] dictates that we have credit cover for all customers.</sentence>
+<sentence id="s523">We have a problem with Boomerang in that we have inadequate credit cover from our internal insurer Pankavara.</sentence>
+<sentence id="s524">We could not proceed with external cover from QBE because we don't have adequate title taking business in Australia.</sentence>
+<sentence id="s525">There is a credit issue with Boomerang.</sentence>
+<sentence id="s526">The QBE decision not to proceed leaves us with inadequate insurance cover and no choice but to cut supply to Moore which is half the Boomerang exposure.</sentence>
+<sentence id="s527">As you know, we have a shaky customer here.</sentence>
+<sentence id="s528">" 
+ 
+ 
+ 
+ 
+ Cassell "Yes.</sentence>
+<sentence id="s529">I know about the insurance issue".</sentence>
+<sentence id="s530">
+ 
+ 
+ 
+ 
+ Ellenberg "Do you have basket cover for your customers.</sentence>
+<sentence id="s531">You may be able to cover Boomerang.</sentence>
+<sentence id="s532">" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cassell "Yes, that's a possibility.</sentence>
+<sentence id="s533">You shouldn't cut supply to Moore's.</sentence>
+<sentence id="s534">If you cut out Moore's, then that is only a short term way of dealing with your credit problem.</sentence>
+<sentence id="s535">It's not a good idea.</sentence>
+<sentence id="s536">We're looking at taking over Boomerang and if you cut supply then that would affect Boomerang's business.</sentence>
+<sentence id="s537">It wouldn't be good for us.</sentence>
+<sentence id="s538">[Mr Fabrello] and I have been talking about another way of dealing with your insurance problem.</sentence>
+<sentence id="s539">We could take over the invoicing so that the supply can continue.</sentence>
+<sentence id="s540">That would mean the Boomerang business continues and it will allow our purchase to proceed.</sentence>
+<sentence id="s541">" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ellenberg " [Mr Fabrello] has mentioned this to me.</sentence>
+<sentence id="s542">Can we discuss this in further detail".</sentence>
+<sentence id="s543">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cassell "If you continue supply to Boomerang, CPI will assume responsibility for the invoices.</sentence>
+<sentence id="s544">This way CPI takes on the credit risk and your credit problem is solved.</sentence>
+<sentence id="s545">" 
+ 
+ 
+ 
+ 
+ There was then further discussion between Mr Cassell, Mr Fabrello and myself.</sentence>
+<sentence id="s546">I also recall Mr Fabrello saying to Mr Cassell 
+ 
+ 
+ 
+ 
+ Fabrello "I will contact Dieter Koeppen and discuss your proposal with him and then I will get back to you.</sentence>
+<sentence id="s547">"' 
+ 
+ 
+ 
+ 
+
+84 Mr Fabrello's version in chief was:
+ 
+ '...</sentence>
+<sentence id="s548">I raised with [Mr Cassell] the possibility of CPI assuming responsibility for the invoicing to Boomerang for Giroform paper.</sentence>
+<sentence id="s549">While I cannot recollect the precise conversation which took place at the meeting on the 19th May last, I recall that words to the following effect were said: 
+ 
+ 
+ 
+ 
+ Ellenberg: "We are not able to get credit insurance for Boomerang.</sentence>
+<sentence id="s550">Because of this problem we will have to cut supply to Moore".</sentence>
+<sentence id="s551">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cassell: "I've got the Boomerang financial figures and we've got people looking at those figures so that we can decide if we are going to purchase.</sentence>
+<sentence id="s552">We're trying to rush the investigation and make an offer by the end of this month.</sentence>
+<sentence id="s553">Could you hold of making any move on Moore until CPI make a decision on whether to proceed with the purchase of Boomerang.</sentence>
+<sentence id="s554">" 
+ 
+ 
+ 
+ 
+ Most of that discussion took place between Mr Ellenberg and Bernard Cassell.</sentence>
+<sentence id="s555">My role was to provide information if required.</sentence>
+<sentence id="s556">' 
+ 
+
+85 Mr Cassell's version in chief was:
+ 
+ 
+ 
+ '[Ellenberg]: "As [the Mill] is now only 24% owned by Stora Enso Group, making it a minority shareholder, products emanating from that plant are no longer eligible to be covered by the credit insurance provided by Stora Enso Group's internal credit insurance company.</sentence>
+<sentence id="s557">This is because of a change in the policy of our credit insurance company - they will only cover products coming from mills we own.</sentence>
+<sentence id="s558">It is a board requirement of SEO that all credit be insured.</sentence>
+<sentence id="s559">I have not been able to obtain or arrange a sufficient amount of cover for Boomerang.</sentence>
+<sentence id="s560">Due to this board requirement, we now don't have any choice.</sentence>
+<sentence id="s561">If we can't get enough cover then we can't supply Boomerang, at least in respect of the Moores account.</sentence>
+<sentence id="s562">We will have to cut off that supply.</sentence>
+<sentence id="s563">Would CPI be prepared to stand in the middle of SEA and Boomerang for the purchases necessary for Boomerang to supply Moores?</sentence>
+<sentence id="s564">This would enable Boomerang to continue to supply Moores.</sentence>
+<sentence id="s565">Boomerang would continue the supply but it would be invoiced through CPI.</sentence>
+<sentence id="s566">CPI would receive a fee for doing the business.</sentence>
+<sentence id="s567">" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [Cassell]: "We could consider it.</sentence>
+<sentence id="s568">What sort of fee are you talking about?</sentence>
+<sentence id="s569">" 
+ 
+ [Ellenberg]: "How much would you require?</sentence>
+<sentence id="s570">" 
+ 
+ [Cassell]: "I don't know.</sentence>
+<sentence id="s571">I'll have to think about it".</sentence>
+<sentence id="s572">
+ 
+ [Ellenberg]: "How is the Boomerang acquisition going?</sentence>
+<sentence id="s573">" 
+ 
+ [Cassell]: "It's early days.</sentence>
+<sentence id="s574">We haven't seen any financial information yet.</sentence>
+<sentence id="s575">" 
+ 
+ 
+ 
+ 
+ I understood the references to the Moore's account to be references to Moore Business Forms, which I understood was a major customer of Boomerang.</sentence>
+<sentence id="s576">
+ 
+ The reason for the Stora Enso Group's inability to obtain adequate cover from external sources was not discussed.</sentence>
+<sentence id="s577">I was not surprised that adequate insurance for Boomerang was not available as it is often difficult to obtain adequate credit insurance cover with the Australian market, and I knew from previous enquiries into Boomerang in 1995 that Boomerang operated a complex structure.</sentence>
+<sentence id="s578">' 
+
+86 Before considering this evidence in detail, it is desirable to make some general observations about evidence of this type, namely conflicting evidence of what was said in a conversation which might be viewed as central to the success or otherwise of the proceedings.</sentence>
+<sentence id="s579">Having regard to the evidence as a whole, it is necessary for me to ascertain what, as a matter of fact, was probably said.</sentence>
+<sentence id="s580">The evidence concerned a conversation that occurred in May 2003.</sentence>
+<sentence id="s581">There are no contemporaneous notes or other written records of the conversation which are often the best guide as to what was said.</sentence>
+<sentence id="s582">While Mr Cassell made a record of the conversation in November 2003 (which is discussed later at [ 103 ]), that was a record made some months later and for a particular purpose, rendering it an unreliable guide.</sentence>
+<sentence id="s583">The written records of the conversation in the affidavits were created for the purposes of these proceedings, between over two and almost three years after the meeting.</sentence>
+<sentence id="s584">The oral evidence about the conversation was given well over three years after it occurred.</sentence>
+<sentence id="s585">A written or oral account of a conversation made years after it occurred, is likely to be imperfect even where the person giving the account is genuinely trying to recall what was said.</sentence>
+<sentence id="s586">87 Four aspects of this conversation warrant special consideration.</sentence>
+<sentence id="s587">The first is what was said by Mr Ellenberg about the reason SEA was having problems with credit insurance for Boomerang.</sentence>
+<sentence id="s588">The second is whether Mr Ellenberg said there was a credit issue with Boomerang, and the third was whether Mr Ellenberg said, in relation to Boomerang, they 'had a shaky customer here'.</sentence>
+<sentence id="s589">The last is what was said about cutting supply to Moore.</sentence>
+<sentence id="s590">88 In some respects, this last matter is easiest to deal with because, on the pleadings, it is admitted that 'on or about 19 May 2003 SEA informed CPI that SEA intended to restrict the sale and supply by it of Giroform Carbonless Paper to the Boomerang Companies in respect of a particular customer, Moore Business Systems Australia Pty Ltd by 30 June 2003'.</sentence>
+<sentence id="s591">However SEA and SEO denied that this statement was false in that it represented that, as CPI alleged, 'SEA had no intention of restricting supply of paper to the Boomerang Companies in respect of Moore'.</sentence>
+<sentence id="s592">It is significant that on both Mr Ellenberg's and Mr Cassell's version of this conversation, the discussion did not proceed on the basis that cutting supply to Moore was a decision that had been made by SEA which was irrevocable.</sentence>
+<sentence id="s593">That is, on neither version was it a decision that was going to be implemented irrespective of what emerged from the meeting of 19 May 2003.</sentence>
+<sentence id="s594">On Mr Ellenberg's version, the proposition that supply would be cut to Moore was met with the response from Mr Cassell that SEA should not cut supply and reasons why.</sentence>
+<sentence id="s595">On Mr Cassell's version, the proposition that supply would be cut to Moore was conditional.</sentence>
+<sentence id="s596">It was conditional on CPI not being prepared to stand in the middle so that supply could be maintained, and on the basis that CPI was considering acquiring Boomerang.</sentence>
+<sentence id="s597">It is probable, in my view, that what Mr Ellenberg said about cutting supply to Moore was no more than an intimation that this was a course being actively considered and which would be implemented if necessary.</sentence>
+<sentence id="s598">89 As to why there was a credit insurance issue with the Boomerang companies, Mr Cassell's version of the conversation was that Mr Ellenberg explained the source of the problem as being a decision of the board of SEO that its internal credit insurance company would only cover products coming from mills owned by the Stora Enso group.</sentence>
+<sentence id="s599">If this had been said, it was plainly a lie.</sentence>
+<sentence id="s600">While Mr Ellenberg was keen to resolve the problems SEA had with the Boomerang companies and was by then under considerable pressure to do so, I do not think it probable that he would have resorted to lying.</sentence>
+<sentence id="s601">90 Firstly, my impression of Mr Ellenberg in the witness box was not a negative one.</sentence>
+<sentence id="s602">He appeared to give an honest account, even if mistaken on some points.</sentence>
+<sentence id="s603">While some of his answers were verbose and a little confused, it was clear that English was not his first language.</sentence>
+<sentence id="s604">In addition, he developed a pattern of answering questions in cross examination in a formulaic way, by giving a very short answer and then seeking to explain or expand on the answer.</sentence>
+<sentence id="s605">That method of answering was, for some time, accepted by the cross examiner and the cross examination proceeded on that basis.</sentence>
+<sentence id="s606">I do not think he can be criticised for responding in this way.</sentence>
+<sentence id="s607">My impression was not of a dishonest person or one who gave deliberately false evidence.</sentence>
+<sentence id="s608">This is so notwithstanding that some of his evidence was wrong having regard to other objective evidence (for example, his evidence that Mr Cassell said that he had the financial records from Boomerang which, as at 19 May 2003, was not the case).</sentence>
+<sentence id="s609">91 Equally significant, if not more important, is that the alleged false explanation given by SEA for the lack of credit insurance, which was that internal credit insurance was not available in relation to the sale of products from external mills, would have impacted on the credit insurance that SEA had from its internal insurer for CPI.</sentence>
+<sentence id="s610">In evidence was a credit limit application form signed by Mr Cassell and dated 7 February 2003.</sentence>
+<sentence id="s611">It was for credit insurance for CPI, to be provided by Stora Enso group's internal insurance company.</sentence>
+<sentence id="s612">Also in evidence was an email dated 23 April 2003 from Mr Freilinger to a Mr Weaver who was clearly employed by CPI.</sentence>
+<sentence id="s613">The email concerned the provision of financial details from CPI for the purposes of obtaining credit insurance including credit insurance for New Zealand subsidiaries of CPI.</sentence>
+<sentence id="s614">In his email Mr Freilinger said 'it is [SEA's] policy to seek trade debtors insurance for all our major customers through our Finnish based insurance company'.</sentence>
+<sentence id="s615">He also spoke of 'CPI's last credit limit application' and asked Mr Weaver to complete and return an attached credit limit application together with 'your December financial accounts/ASX report'.</sentence>
+<sentence id="s616">'Your' was plainly a reference to CPI.</sentence>
+<sentence id="s617">Counsel for CPI referred to an ambiguous answer given by Mr Ellenberg to suggest that SEA did not have credit insurance for CPI provided by Pankavera or at all.</sentence>
+<sentence id="s618">In the face of the documents, I do not accept this is so.</sentence>
+<sentence id="s619">This conclusion is supported by the direct evidence of Mr Laipio.</sentence>
+<sentence id="s620">SEA did have such insurance for CPI and it was with Pankavera.</sentence>
+<sentence id="s621">92 CPI was being supplied by SEA with the same paper from the same source as the Boomerang companies.</sentence>
+<sentence id="s622">In my opinion, it is unlikely that Mr Ellenberg would have provided an explanation about the problems with the Boomerang companies which was a lie and could readily be exposed as such given that there was no suggestion of any problems with the credit insurance for CPI.</sentence>
+<sentence id="s623">Additionally, there was no suggestion that it had been necessary for SEA, because of this policy as it would apply to CPI, to have had recourse to an external insurer.</sentence>
+<sentence id="s624">Had there been problems or had it been necessary to have had recourse to an external insurer, it is probable Mr Cassell would have known and Mr Ellenberg could have assumed Mr Cassell knew.</sentence>
+<sentence id="s625">Moreover, from Mr Ellenberg's perspective, the relationship between SEA and CPI was going to be an ongoing one.</sentence>
+<sentence id="s626">In those circumstances, I doubt that Mr Ellenberg would run the risk of concocting the explanation that Mr Cassell gave evidence about.</sentence>
+<sentence id="s627">I reject the account given by Mr Cassell concerning the reason given by Mr Ellenberg.</sentence>
+<sentence id="s628">93 However, did Mr Ellenberg say there was a credit issue with the Boomerang and that they 'had a shaky customer'?</sentence>
+<sentence id="s629">Putting aside, for the moment, the direct evidence of Mr Ellenberg and Mr Cassell, as well as that of Mr Fabrello, it is necessary to consider whether it is likely that Mr Ellenberg put Mr Cassell on notice that there were credit problems with Boomerang.</sentence>
+<sentence id="s630">This would have been the probable consequence of Mr Ellenberg saying those things, at least if they had been absorbed and understood by Mr Cassell.</sentence>
+<sentence id="s631">It is highly unlikely, in my opinion, that Mr Cassell would have proceeded as he did after the meeting on 19 May 2003, if he knew that there was, or was likely to be, a credit problem with the Boomerang companies.</sentence>
+<sentence id="s632">Mr Cassell did nothing to ascertain what the problem was or its extent by immediately questioning Mr Ellenberg.</sentence>
+<sentence id="s633">It is highly unlikely, in my opinion, that Mr Cassell would have volunteered, at the 19 May 2003 meeting, taking over the invoicing (which is Mr Ellenberg's version of the conversation) without asking more about what the credit problems were with Boomerang, had such problems been alluded to by Mr Ellenberg.</sentence>
+<sentence id="s634">94 Notwithstanding the extensive cross examination of both Mr Cassell and Mr Akdogan about what they had gleaned from the financial records of the Boomerang companies provided in May and June 2003 and the expert evidence (as to which see [ 113 ]), I am satisfied that neither were aware of the significant problem concerning members of the Boomerang companies paying SEA in accordance with the terms of trade and the extent of the arrears.</sentence>
+<sentence id="s635">My reasons for reaching this conclusion are twofold.</sentence>
+<sentence id="s636">The first is that I accept the evidence concerning the reaction of Mr Cassell in October 2003 when the true trading position of the Boomerang companies was revealed.</sentence>
+<sentence id="s637">It was one of genuine surprise and, in his words, 'great anger and annoyance at what had happened'.</sentence>
+<sentence id="s638">That reaction was consistent with no prior knowledge of the true position and inconsistent with prior knowledge.</sentence>
+<sentence id="s639">95 The second is that even though Mr Cassell was under pressure to finalise an agreement with the Mill by 30 June 2003 so that notice could be given by the Mill terminating SEA's agency, it is improbable, in my opinion, that he would have been so committed to the transaction to have exposed CPI to a potentially significant liability by entering the invoicing agreement with actual knowledge of the Boomerang companies' then trading position.</sentence>
+<sentence id="s640">It would have made limited commercial sense.</sentence>
+<sentence id="s641">For a perceived possible gross annual commission income of approximately $500,000 a year, CPI was exposing itself to liability to underwrite the payment of sales by SEA to the Boomerang companies of well over $1 million per month with a real risk that the Boomerang companies would not, in turn, pay CPI.</sentence>
+<sentence id="s642">96 While the invoicing agreement provided the additional benefit to CPI of preserving the business of the Boomerang companies pending the proposed acquisition by CPI, had Mr Cassell actually known about Boomerang's trading position, it is probable, in my opinion, that his interest in acquiring the Boomerang companies (and even their assets) would have been considerably tempered.</sentence>
+<sentence id="s643">The prospects of the acquisition proceeding would have been considerably reduced.</sentence>
+<sentence id="s644">The acquisition not proceeding would also have rendered remote the prospect of SEA losing the agency and CPI gaining it.</sentence>
+<sentence id="s645">Had Mr Cassell known Boomerang's real trading position, Mr Cassell would also have realised that the strategy for acquiring Boomerang, which provided the rationale for CPI entering the invoicing agreement and the new arrangements with the Mill more generally, was seriously flawed.</sentence>
+<sentence id="s646">It is improbable that he would have pursued that strategy in the face of actual knowledge about the position of the Boomerang companies, at least not without endeavouring to ascertain for himself the position, by questioning Mr Ellenberg there and then or by making direct enquiries of the Boomerang companies immediately afterwards.</sentence>
+<sentence id="s647">He did not do so.</sentence>
+<sentence id="s648">97 It is true that Mr Ellenberg gave evidence that he said that they had a shaky customer and there was a credit issue with Boomerang.</sentence>
+<sentence id="s649">He adhered to that evidence in cross-examination.</sentence>
+<sentence id="s650">Mr Fabrello could not recall whether it was said.</sentence>
+<sentence id="s651">However, while Mr Ellenberg may now believe that is what he said, I am not affirmatively satisfied that it was said.</sentence>
+<sentence id="s652">I am satisfied, on the balance of probabilities, that it was not said.</sentence>
+<sentence id="s653">However I am also satisfied, on the balance of probabilities, that nothing was said by Mr Ellenberg which misled, or was intended to mislead, Mr Cassell about the reasons why Mr Ellenberg was proposing the invoicing agreement as a mechanism which would enable SEA to continue to supply the Boomerang companies and Moore while also allowing CPI to continue pursuing its objective of acquiring the Boomerang companies.</sentence>
+<sentence id="s654">The meeting of 17 June 2003 
+ 
+98 As noted earlier, a meeting took place on 17 June 2003 between Mr Cassell, Mr Fabrello and Mr Koeppen from which emerged the memorandum of understanding.</sentence>
+<sentence id="s655">Of particular significance in these proceedings is the contention of CPI that Mr Fabrello in effect assured Mr Cassell that the Boomerang companies were paying their accounts on time.</sentence>
+<sentence id="s656">Mr Fabrello denied that he said this, and it was also denied by SEA in its defence to CPI's cross claim.</sentence>
+<sentence id="s657">99 Mr Fabrello's version in chief of this meeting was:
+ 
+ 'I recall attending two (2) meetings in Melbourne with Bernard Cassell and Dieter Koeppen on the 12 th and 17 th June 2003 respectively.</sentence>
+<sentence id="s658">The first meeting took place over dinner at a restaurant.</sentence>
+<sentence id="s659">At that meeting we discussed the invoicing arrangement and I recall Bernard Cassell saying words to the effect: 
+ 
+ 
+ 
+ 
+ Cassell: "We'll know in about a week if we are going ahead with the purchase".</sentence>
+<sentence id="s660">
+ 
+ 
+ 
+ 
+ The second meeting on the 17 th June 2003 took place in the offices of CPI in Melbourne.</sentence>
+<sentence id="s661">That meeting was also attended by Mr Cassell, Mr Koeppen and me and I recall words to the following effect were said: 
+ 
+ 
+ 
+ 
+ Cassell: "We have decided to proceed with the Boomerang acquisition.</sentence>
+<sentence id="s662">We need to be assured that the Moore business will be maintained, and therefore CPI will take over the invoicing to Boomerang and I expect that the acquisition will take place soon.</sentence>
+<sentence id="s663">" 
+ 
+ 
+ 
+ 
+ I recall that during the conversation with Bernard Cassell about the agreement between SEA and CPI concerning it taking over the invoicing, I wrote a summary of the terms of the agreement in a pad which were later typed by me and I incorporated those terms into the letter which was forwarded to CPI Group Limited on the 25 th June 2003.</sentence>
+<sentence id="s664">... 
+ 
+ I recall Mr Koeppen saying during the course of the meeting words to the following effect: 
+ 
+ 
+ 
+ 
+ Koeppen: "The Mill will pay a 2% commission to CPI to taking over the invoicing.</sentence>
+<sentence id="s665">" 
+ 
+ 
+ 
+ 
+ Cassell: "That's acceptable".</sentence>
+<sentence id="s666">' 
+
+100 During cross examination Mr Fabrello denied that, in a response to a question from Mr Cassell whether Boomerang was paying its accounts on time, he had said words to the effect 'yes, give or take a few days'.</sentence>
+<sentence id="s667">101 Mr Cassell's version in chief of this meeting was:
+ 
+ 'Dieter Koppen ("Koppen"), the International Sales Manager of [the Mill], visited Australia in June and met with me and Fabrello for dinner on 12 June 2003 and on 17 June 2003 in CPI's boardroom ("June Meeting").</sentence>
+<sentence id="s668">I cannot recall which part of the discussions occurred at which of the June Meetings.</sentence>
+<sentence id="s669">However, the June Meetings included conversations to the following effect: 
+ 
+ [Fabrello]: "Have you decided what fee you would need?</sentence>
+<sentence id="s670">" 
+ 
+ [Cassell]: "Yes.</sentence>
+<sentence id="s671">CPI would require a commission of 2%.</sentence>
+<sentence id="s672">" 
+ 
+ I chose the figure of 2% because I knew this was the usual level of commission paid to a mill agent.</sentence>
+<sentence id="s673">
+ 
+ [Koeppen]: "Sounds reasonable.</sentence>
+<sentence id="s674">" 
+ 
+ [Fabrello]: "I agree.</sentence>
+<sentence id="s675">" 
+ 
+ [The Mill] advised its intention to terminate its agency agreement for carbonless papers with SEA and enter into similar arrangements with CPI effective 1 January 2004.</sentence>
+<sentence id="s676">This was expressed in words to the following effect: 
+ 
+ 
+ 
+ 
+ [Koeppen]: " [The Mill] will terminate the mill agency arrangements with SEA, to take effect on 31 December 2003, and enter into similar arrangements with CPI.</sentence>
+<sentence id="s677">" 
+ 
+ 
+ 
+ 
+ At the meetings we also discussed the level of financial support that [The Mill] would be able to offer if CPI ultimately acquired the business of Boomerang.</sentence>
+<sentence id="s678">This included, amongst other things, an offer to extend payment terms from [The Mill] to 120 days as a way to provide funding to assist CPI in acquiring the business of Boomerang.</sentence>
+<sentence id="s679">This arrangement was expressed in words to the following effect during the meetings: 
+ 
+ 
+ 
+ 
+ [Koeppen]: "If CPI is successful in its acquisition of Boomerang, [The Mill] will also be able to extend the current payment terms for both Boomerang and CPI to 120 days.</sentence>
+<sentence id="s680">" 
+ 
+ 
+ 
+ 
+ The meetings went on to discuss the practical arrangements by which the Invoicing Arrangement would work.</sentence>
+<sentence id="s681">This was expressed in words to the following effect: 
+ 
+ 
+ 
+ 
+ [Cassell]: "CPI will require all invoices to be signed off first by Boomerang.</sentence>
+<sentence id="s682">Boomerang must have agreed to all the invoices before I will take them on.</sentence>
+<sentence id="s683">I don't want to be involved in any dispute, whether that be about particular invoices or about payment.</sentence>
+<sentence id="s684">What are Boomerang's trading terms with SEA?</sentence>
+<sentence id="s685">" 
+ 
+ 
+ 
+ 
+ [Fabrello]: "75 days.</sentence>
+<sentence id="s686">" 
+ 
+ [Cassell]: "Is Boomerang paying its account on time?</sentence>
+<sentence id="s687">" 
+ 
+ [Fabrello]: "Yes, give or take a few days.</sentence>
+<sentence id="s688">" 
+ 
+ 
+ 
+ 
+ [Cassell]: "I am not providing any funding.</sentence>
+<sentence id="s689">I am only going to pay when I get paid by Boomerang.</sentence>
+<sentence id="s690">" 
+ 
+ 
+ 
+ 
+ [Fabrello]: "Yes, of course.</sentence>
+<sentence id="s691">" 
+ 
+ My comments in relation to CPI not providing funding to Boomerang were directed to ensuring that CPI would not be required to meet any timing difference between receipt of funds from Boomerang and the date upon which an invoice fell due for payment to SEA.</sentence>
+<sentence id="s692">
+ 
+ [The draft memorandum of understanding or MoU] between CPI and [the Mill] ... was prepared on 17 June 2003 to reflect the agreement reached at the June meetings.</sentence>
+<sentence id="s693">
+ 
+ The trading terms for Boomerang advised by Fabrello in the June Meetings (namely, 75 days) were confirmed in paragraph 7 of the Draft MoU.</sentence>
+<sentence id="s694">I saw nothing in the Draft MoU, and in particular paragraph 7, to suggest Boomerang were not paying their account in accordance with the terms advised to me.</sentence>
+<sentence id="s695">' 
+
+102 During cross examination, Mr Cassell indicated that he believed the statement by Mr Fabrello about the trading position of the Boomerang companies was made at the meeting on 17 June 2003 which is the date pleaded.</sentence>
+<sentence id="s696">103 In determining which version of events should be accepted, it is necessary to refer to a report prepared by Mr Cassell for the CPI board which met on 20 November 2003.</sentence>
+<sentence id="s697">In that report he sought to explain what by then was, as he described it, 'a serious situation', regarding the invoicing agreement, and what had been revealed about the state of Boomerang's accounts.</sentence>
+<sentence id="s698">In his report, he set out a version of events concerning the acquisition of Boomerang's business.</sentence>
+<sentence id="s699">He recounted how, at a meeting in May with Mr Ellenberg and Mr Fabrello (plainly a reference to the meeting of 19 May 2003), he inquired as to the trading terms for Boomerang and whether Boomerang was currently paying on time.</sentence>
+<sentence id="s700">He recorded that Mr Fabrello advised at that meeting that yes, Boomerang was paying on time give or take a few days.</sentence>
+<sentence id="s701">The board minutes record that the Chairman 'acknowledged the difficulties encountered by Mr Cassell, but reprimanded him for the decisions leading to the current situation the Group faced'.</sentence>
+<sentence id="s702">104 I have little hesitation in accepting that Mr Fabrello did not affirm that Boomerang was paying its accounts on time, give or take a few days even though he accepted that he was asked by Mr Cassell what the terms of trade were.</sentence>
+<sentence id="s703">In my opinion, Mr Cassell invented this conversation as a means of explaining what proved to be a gross misjudgement, at least with the benefit of hindsight, of entering the invoicing agreement with SEA in late June and early July 2003.</sentence>
+<sentence id="s704">He needed to explain to his board, as he did in his report to the November 2003 board meeting, why CPI was liable to underwrite, effectively, Boomerang's purchases of paper as a result of the operation of invoicing agreement.</sentence>
+<sentence id="s705">It was not sufficient for him to rely on what had in fact transpired, namely that he had not been told about the poor trading record of Boomerang and had not been alerted to it himself or been advised of it by Mr Akdogan when they looked at Boomerang's accounts in May and June 2003.</sentence>
+<sentence id="s706">It was necessary for him to contrive an account of events most favourable for him.</sentence>
+<sentence id="s707">This can be illustrated by his description in his report of the invoicing agreement as "in the nature of a handshake agreement" to diminish its significance and to say, wrongly, that he simply signed a letter from Mr Ellenberg for audit purposes.</sentence>
+<sentence id="s708">It can also be illustrated by what Mr Cassell said in the report about when Mr Fabrello made the representation about the trading record of the Boomerang companies which is discussed shortly.</sentence>
+<sentence id="s709">105 Before explaining further the basis for this conclusion, I should say something about my impression of Mr Cassell as a witness more generally.</sentence>
+<sentence id="s710">It was not favourable.</sentence>
+<sentence id="s711">His evidence of events was, generally, given precisely and without qualification.</sentence>
+<sentence id="s712">He rarely expressed doubt about his recollection of events and conversations.</sentence>
+<sentence id="s713">However his recollection was demonstrably imperfect.</sentence>
+<sentence id="s714">He was asked in cross examination about Mr Fabrello's account of the 19 May 2003 meeting.</sentence>
+<sentence id="s715">As noted earlier, part of Mr Fabrello's account was that Mr Cassell had said they were trying to rush the investigation (of Boomerang's financial position) and make an offer by the end of the month.</sentence>
+<sentence id="s716">It was put to Mr Cassell that there was significant time pressure to which he said 'not with CPI'.</sentence>
+<sentence id="s717">It was then put to him that the agency agreement could only be terminated by six months notice to be given by 30 June in any year.</sentence>
+<sentence id="s718">His answer was that '(he) certainly didn't know that at the time', that is, on 19 May 2003.</sentence>
+<sentence id="s719">An emphatic and unqualified answer.</sentence>
+<sentence id="s720">He then said that he believed he came to know of the arrangements for notice shortly before the meetings in June 2003 and also that he had not been planning in May 2003 to acquire the agency from SEA.</sentence>
+<sentence id="s721">He did not accept that he then knew that to achieve the termination of the agency with SEA and its acquisition by CPI in 2003, notice had to be given by 30 June 2003.</sentence>
+<sentence id="s722">106 All these answers were wrong having regard to his report to the 23 May 2003 board meeting set out above at [ 45 ].</sentence>
+<sentence id="s723">When this was drawn to his attention, he conceded that his answers were wrong.</sentence>
+<sentence id="s724">But he had little choice but to make the concession.</sentence>
+<sentence id="s725">They were questions concerning matters of considerable significance.</sentence>
+<sentence id="s726">In my view, Mr Cassell created in his own mind a version of events most favourable to his personal position and, as a consequence, favourable to CPI.</sentence>
+<sentence id="s727">Whether his evidence generally was deliberately false I cannot say with any certainty.</sentence>
+<sentence id="s728">I cannot entirely discount the possibility that it was.</sentence>
+<sentence id="s729">In any event, his evidence is not a reliable account of the events in question.</sentence>
+<sentence id="s730">I accept his evidence concerning disputed questions of fact only in so far as it is clearly corroborated by contemporaneous documents or is consistent with what, in the circumstances, is the probable course events took having regard to the evidence of others.</sentence>
+<sentence id="s731">107 Returning to the evidence concerning the 12 and 17 June 2003 meetings, it is significant that in Mr Cassell's report to the November 2003 board meeting, he said that the statement of Mr Fabrello to the effect that Boomerang's accounts were paid on time was said at the 19 May 2003 meeting and not the June 2003 meetings.</sentence>
+<sentence id="s732">While this may evince nothing more than confusion, it is also consistent with the entire account of the conversation being a fabrication.</sentence>
+<sentence id="s733">An important factor supportive of Mr Fabrello's denial is that, on Mr Cassell's version, Mr Fabrello would have been saying something in front of Mr Koeppen that Mr Koeppen would have known to be wrong, which he probably understood to have been significant to Mr Cassell, and which Mr Koeppen did not immediately correct.</sentence>
+<sentence id="s734">108 At the meetings of 12 and 17 June 2003, CPI represented by Mr Cassell, and the Mill, represented by Mr Koeppen, were establishing a new commercial relationship of significance to both.</sentence>
+<sentence id="s735">It is true that the arrangement then being discussed had the potential of enabling the Mill to recoup monies not paid by SEA because they had not been paid by Boomerang.</sentence>
+<sentence id="s736">However it is nonetheless highly unlikely that Mr Koeppen would have stood by and said nothing in the face of what would have been a manifest and gross misrepresentation by Mr Fabrello of the trading position of Boomerang.</sentence>
+<sentence id="s737">Mr Cassell's evidence did not suggest (nor did Mr Fabrello's evidence) that Mr Koeppen was not present for a period during the meetings.</sentence>
+<sentence id="s738">Indeed his evidence was to the contrary effect at least in relation to the 17 June 2003 meeting.</sentence>
+<sentence id="s739">Moreover it is improbable that Mr Koeppen was prepared to do anything, almost in a conspiratorial way, to have CPI assume responsibility for Boomerang's payments including allowing the alleged statement by Mr Fabrello to pass without comment.</sentence>
+<sentence id="s740">It will be recalled that shortly after the meeting of 17 June 2003, Mr Koeppen extended, by the e-mail of 27 June 2003, what can fairly be described as a warm invitation to Mr Cassell to visit the Mill.</sentence>
+<sentence id="s741">The meetings of 12 and 17 June 2003 were designed to, and did, establish a relationship between CPI and the Mill which was intended to endure.</sentence>
+<sentence id="s742">109 I accept Mr Fabrello's evidence that he believed, at this time, Mr Cassell would have known the true trading position of the Boomerang companies.</sentence>
+<sentence id="s743">Failure to call Mr Koeppen 
+ 
+110 Both parties submitted that the other should have called Mr Koeppen, and that the failure to do so enlivened the principle in Jones v Dunkel [1959] HCA 8 ; (1959) 101 CLR 298.</sentence>
+<sentence id="s744">That is, each submitted that the unexplained failure of the other to call Mr Koeppen would sustain an inference that his evidence would not have assisted the other's case.</sentence>
+<sentence id="s745">The legal principle is also that the failure enables available inferences to be drawn more confidently.</sentence>
+<sentence id="s746">Neither SEA nor CPI sought to explain by evidence why they had not called Mr Koeppen (see West v Government Insurance Office of NSW [1981] HCA 38 ; (1981) 148 CLR 62 at 70), although counsel for SEA did elicit from Mr Cassell that Mr Koeppen had been in Australia shortly before the trial and he had been in contact with him.</sentence>
+<sentence id="s747">It seems to me that either party could have called Mr Koeppen, although there may have been problems about requiring his attendance if he had not been willing to give evidence.</sentence>
+<sentence id="s748">He is, in a sense, in both SEA's and CPI's camp (to use the term often used in this area of legal discourse) and would have been equally available to both.</sentence>
+<sentence id="s749">He has an ongoing commercial relationship, on behalf of the Mill, with CPI.</sentence>
+<sentence id="s750">SEO also has an interest in the Mill.</sentence>
+<sentence id="s751">There is a division of judicial opinion whether, in circumstances where a witness is equally available to both parties, the principle operates to enable inferences to be drawn against both: see the discussion in AMP Services Ltd v Manning [2006] FCA 256 at [49] and also Built Interiors Pty Ltd v Three Dinosaurs Pty Ltd [2003] NSWCA 290 at [49] .</sentence>
+<sentence id="s752">111 The single most significant fact about which Mr Koeppen could have given evidence was evidence of what Mr Fabrello said at the meeting of 17 June 2003.</sentence>
+<sentence id="s753">CPI bears the burden of proving the pleaded statement was made.</sentence>
+<sentence id="s754">For reasons discussed later, I am not satisfied it was.</sentence>
+<sentence id="s755">However, in my opinion, the principle in Jones v Dunkel does not have a material role to play in this case and, as to that conversation, I would prefer to rest my conclusion on the reasons I gave earlier.</sentence>
+<sentence id="s756">112 CPI submitted that the principle operated more generally, adversely to SEA, and particularly in relation to the issue of whether SEA had made a decision to cut supply to Moore.</sentence>
+<sentence id="s757">But again I doubt whether the principle in Jones v Dunkel has a material role to play.</sentence>
+<sentence id="s758">The relevant factual issue was the position which had been adopted by SEA by 19 May 2003 in relation to supplying Moore, and what was said by Mr Ellenberg to Mr Cassell about that matter on that day.</sentence>
+<sentence id="s759">That particular issue was not a matter about which Mr Koeppen was likely to be able to give evidence beyond giving evidence about the Mill's attitude and contractual obligations.</sentence>
+<sentence id="s760">Both of those matters are addressed by contemporaneous records (emails and contracts).</sentence>
+<sentence id="s761">The accounting evidence 
+ 
+ 113 SEA filed expert accounting evidence well before the hearing.</sentence>
+<sentence id="s762">The expert was Ms Wheatley.</sentence>
+<sentence id="s763">At that time no responsive expert accounting evidence was filed by CPI.</sentence>
+<sentence id="s764">However, it sought to file such evidence days before the hearing was scheduled to commence.</sentence>
+<sentence id="s765">It was allowed to do so.</sentence>
+<sentence id="s766">Its expert was Mr Phillips.</sentence>
+<sentence id="s767">Ultimately, the two experts conferred and a joint report was prepared, although differences of opinion remained.</sentence>
+<sentence id="s768">Somewhat simplified, the experts addressed the question of what a chief financial officer in the position of Mr Akdogan might have gleaned from the financial information provided to him before 26 June 2003.</sentence>
+<sentence id="s769">114 SEA submitted that the purpose of its expert's evidence was not to demonstrate incompetence on the part of Mr Akdogan, but rather to lend weight to the proposition that on the balance of probabilities he and Mr Cassell in fact new that Boomerang would not be able to meet its obligations.</sentence>
+<sentence id="s770">CPI challenged the conclusions reached by Ms Wheatley but also submitted that the expert evidence said nothing about the actual knowledge of Mr Akdogan, still less Mr Cassell, and whether they had actual knowledge of the financial position of the Boomerang companies was not a matter for expert evidence.</sentence>
+<sentence id="s771">115 What, in substance, SEA sought to do with the expert evidence was no more than to impeach the credit of Mr Akdogan and also Mr Cassell.</sentence>
+<sentence id="s772">Its thesis was that an expert says a competent chief financial officer would have understood certain things from the financial information Mr Akdogan was sent.</sentence>
+<sentence id="s773">Accordingly, Mr Akdogan did understand (or would have had doubts about), the financial position of the Boomerang companies as it related to its trading position and indebtedness to SEA at the time the invoicing agreement was made.</sentence>
+<sentence id="s774">The expert's evidence could establish this, notwithstanding Mr Akdogan's evidence that he did not have such knowledge.</sentence>
+<sentence id="s775">116 For my part, I do not see how expert evidence can be used this way.</sentence>
+<sentence id="s776">Regrettably, the submissions of the parties did not involve any substantial analysis of the use that could be made in the evidence having regard to the Evidence Act 1995 (Cth) or limits on its use.</sentence>
+<sentence id="s777">The relevant fact in issue for the purposes of s 55 of the Evidence Act is whether Mr Akdogan and Mr Cassell knew the amount the Boomerang companies owed SEA at the time the invoicing agreement was made, knew to what extent it was then in arrears and knew its trading history with SEA over the preceding two years or at least had doubts in relation to these things.</sentence>
+<sentence id="s778">Expert evidence to the effect that Mr Akdogan should have known (or should have had doubts about) is not, in my opinion, evidence which could rationally affect (directly or indirectly) the assessment of the probability of the existence of that fact in issue.</sentence>
+<sentence id="s779">117 However, views can differ about whether evidence is relevant, as is evident from the different approaches of the members of the High Court in Smith v The Queen [2001] HCA 50 ; (2001) 206 CLR 650.</sentence>
+<sentence id="s780">Even if the accounting evidence of SEA can be characterised as relevant, in the statutory sense, it appears to me to be evidence caught by s 76(1) of the Evidence Act and not saved by s 79.</sentence>
+<sentence id="s781">That is, it is not admissible because it is opinion evidence about the existence of a fact furnished to prove the fact's existence.</sentence>
+<sentence id="s782">Ms Wheatley's evidence is, in substance, that Mr Akdogan should have known and is led to prove he did know.</sentence>
+<sentence id="s783">For the purposes of s 79 , her field of expertise and specialised knowledge is accounting practices.</sentence>
+<sentence id="s784">It is not in the behavioural sciences enabling evidence to be given about how accountants or anyone else might in fact behave in particular circumstances.</sentence>
+<sentence id="s785">118 If I am wrong, and the accounting evidence should be considered in the mix of evidence, it involved no more, at its highest, than an opinion that Mr Akdogan should have had doubts about the Boomerang companies' capacity to meet its obligations under the invoicing agreement.</sentence>
+<sentence id="s786">That was Ms Wheatley's view, but not a view shared by Mr Phillips, although he did say that had a reasonably competent chief financial officer had been asked to investigate the invoicing arrangement, further information would have been requested.</sentence>
+<sentence id="s787">For the reasons I have given, I am not satisfied, notwithstanding the accounting evidence, that Mr Akdogan or Mr Cassell actually knew of the Boomerang companies' poor trading history and level of indebtedness to SEA at the time the invoicing agreement was made.</sentence>
+<sentence id="s788">Also, for those reasons, I am not satisfied that the information in the accounting records (apart from the views expressed by the experts about what they might reveal) which were seen by Mr Akdogan and Mr Cassell alerted them to the trading and general financial position the Boomerang companies were then in, or had been in for the preceding two years or so.</sentence>
+<sentence id="s789">CONCLUSION 
+ The pleaded misleading and deceptive conduct 
+ 
+ 119 CPI alleged SEA engaged in misleading and deceptive conduct or conduct likely to mislead or deceive.</sentence>
+<sentence id="s790">The conduct relied upon was three representations and, generally, SEA's failure to disclose the true position concerning the Boomerang companies' trading history and its then current indebtedness, that is, its silence.</sentence>
+<sentence id="s791">Two of the representations were made at a meeting on 19 May 2003 and the third at a meeting on 7 June 2003.</sentence>
+<sentence id="s792">120 First, at a meeting on 19 May 2003, SEA was said have informed CPI that SEA intended to restrict the sale and supply by SEA of carbonless paper to the Boomerang companies in respect of Moore, by 30 June 2003 ('the first representation').</sentence>
+<sentence id="s793">CPI contended that the first representation was false because SEA had no such intention.</sentence>
+<sentence id="s794">121 Secondly, CPI alleged that, at the same meeting, SEA represented that it could no longer obtain credit insurance in respect of monies owing by the Boomerang companies to SEA because paper products emanating from the Mill were no longer eligible to be covered by SEA's internal credit insurance company, Pankavara ('the second representation').</sentence>
+<sentence id="s795">CPI contended that the second representation was false and that the reason SEA could no longer obtain credit insurance for the Boomerang companies was because of Boomerang's poor payment history.</sentence>
+<sentence id="s796">122 Thirdly, CPI contends that at a meeting on or about 17 June 2003, SEA represented to CPI through Mr Fabrello that the Boomerang companies were making payments for carbonless paper supplied to the Boomerang companies by SEA wholly or substantially within the trading terms between SEA and the Boomerang companies ('the third representation').</sentence>
+<sentence id="s797">123 The second aspect of CPI's claim was based on SEA's silence, in failing to advise or warn CPI of the Boomerang companies' poor financial position and payment record, namely:
+ 
+1.</sentence>
+<sentence id="s798">The companies had cash flow problems and other difficulties and/or was insolvent, between at least 1 January 2001 and 30 June 2003;
+ 
+2.</sentence>
+<sentence id="s799">The companies failed to pay for the carbonless paper supplied by SEA within SEA's trading terms, for the same period as above;
+ 
+3.</sentence>
+<sentence id="s800">The companies owed SEA nearly $6.5 million as at 31 May 2003; and
+ 
+4.</sentence>
+<sentence id="s801">The companies were significantly in arrears and outside the credit limit SEA had approved, at the relevant times.</sentence>
+<sentence id="s802">124 CPI alleged that by reason of the representations and silence, it entered into the invoice agreement and thereby suffered loss and damage in the form of its liability under that agreement to pay, in effect, the amount now claimed by SEA.</sentence>
+<sentence id="s803">125 I now consider whether any, or any combination, of these representations and the silence are established on the evidence and, if so, do they constitute conduct proscribed by s 52 of the TP Act .</sentence>
+<sentence id="s804">While discussed under separate headings, I appreciate that the totality of the conduct established by the evidence must be considered in determining whether there has been proscribed conduct.</sentence>
+<sentence id="s805">The first representation 
+ 
+126 As noted earlier, it is not denied on the pleadings that the statement said to constitute this representation, was made.</sentence>
+<sentence id="s806">The issue is whether it was false, as alleged.</sentence>
+<sentence id="s807">CPI's case, as pleaded, was that SEA had no intention of restricting supply of paper to the Boomerang companies in respect of Moore.</sentence>
+<sentence id="s808">I do not accept this contention.</sentence>
+<sentence id="s809">First, as already discussed, what Mr Ellenberg said about cutting supply to Moore, was no more than an intimation that this was a course being actively considered and would be given effect to if necessary.</sentence>
+<sentence id="s810">It is true that Mr Fabrello, in his email correspondence with Mr Koeppen on 2 May 2003, canvassed the option of cutting supply to the Moore business together with two other options (one of which involved the acquisition by CPI of the Boomerang business) and that Mr Koeppen effectively rejected the option of cutting supply to the Moore business.</sentence>
+<sentence id="s811">However Mr Koeppen's views were not determinative of the position and on 14 May 2003 the board of SEA, which included Mr Ellenberg and Mr Laipio, noted the proposal to cut supply to Moore.</sentence>
+<sentence id="s812">There is no real basis for doubting that the proposal was advanced and noted and it was and would remain a course of action which SEA would embark upon if necessary.</sentence>
+<sentence id="s813">In addition, whether CPI would acquire the Boomerang business was not then known and cutting supply to Moore was a course of action which was viewed as unnecessary if the acquisition went ahead.</sentence>
+<sentence id="s814">That cutting supply to Moore continued to be a course actively canvassed by Mr Fabrello was evident from his email to Mr Koeppen of 27 May 2003.</sentence>
+<sentence id="s815">While again it was not canvassed as the only option, it remained a course open to SEA even if it would only be pursued by SEA if events unfolded in a particular way.</sentence>
+<sentence id="s816">The second representation 
+ 
+127 For the reasons given at [ 89 ] and following, this representation was not, as a matter of fact, made
+ The third representation 
+ 
+128 For the reasons given at [ 104 ] above, this representation was not, as a matter of fact, made.</sentence>
+<sentence id="s817">Silence 
+ 
+129 It is clear from the evidence as a whole, that neither Mr Ellenberg nor Mr Fabrello told Mr Cassell, in a way which would have been readily and clearly understood, that the Boomerang companies were seriously in arrears and owed SEA over $6 million at the time CPI entered the invoicing agreement.</sentence>
+<sentence id="s818">In my opinion, CPI should succeed in its cross claim if Mr Ellenberg or Mr Fabrello should have disclosed the true position in all the circumstances.</sentence>
+<sentence id="s819">130 It is convenient to discuss the applicable legal principles before discussing the facts.</sentence>
+<sentence id="s820">Silence, or the failure to disclose information, can constitute misleading and deceptive conduct for the purposes of s 52 of the TP Act .</sentence>
+<sentence id="s821">In Demagogue Pty Ltd v Ramensky and Another (1992) 39 FCR 31, the Full Court dismissed an appeal where the trial judge had held that a vendor (by its real estate agent) had failed to disclose that access to a property purchased by the respondents was to be by public road as opposed to private driveway and that such failure was misleading and deceptive within the terms of the Act.</sentence>
+<sentence id="s822">The failure to disclose the relevant information occurred in the context of a positive representation from the agent of the appellant as to the proposed construction of the private driveway, and certain documents included in the contract of sale which referred to a 'driveway'.</sentence>
+<sentence id="s823">Black CJ said (at 32):
+ 
+ 'Silence is to be assessed as a circumstance like any other.</sentence>
+<sentence id="s824">To say this is certainly not to impose any general duty of disclosure; the question is simply whether, having regard to all the relevant circumstances, there has been conduct that is misleading or deceptive or that is likely to mislead or deceive.</sentence>
+<sentence id="s825">To speak of "mere silence" or of a duty of disclosure can divert attention from that primary question.</sentence>
+<sentence id="s826">Although "mere silence" is a convenient way of describing some fact situations, there is in truth no such thing as "mere silence" because the significance of silence always falls to be considered in the context in which it occurs.</sentence>
+<sentence id="s827">That context may or may not include facts giving rise to a reasonable expectation , in the circumstances of the case, that if particular matters exist they will be disclosed'.</sentence>
+<sentence id="s828">(emphasis added)
+ 
+
+and Gummow J said (at 40):
+ 
+ '"Conduct" within the meaning of s 52 includes refusing to do an act and refusal to do an act includes a reference to "refraining (otherwise than inadvertently) from doing that act": s 4(2).</sentence>
+<sentence id="s829">But in any case where a failure to speak is relied upon the question must be whether in the particular circumstances the silence constitutes or is part of misleading or deceptive conduct.</sentence>
+<sentence id="s830">The expanded meaning given by s 4(2) to "conduct" should not distract attention from the fundamental issue in the case at hand.</sentence>
+<sentence id="s831">' 
+ 
+
+Gummow J expressed doubt that it was necessary to inquire in such a case about whether an independent "duty to disclose" had arisen on the basis that to do so digressed from the application of the terms of s 52 .</sentence>
+<sentence id="s832">
+ 
+131 Another Full Court judgment followed shortly, Warner and Another v Elders Rural Finance Limited and Others (1993) 41 FCR 399 in which Hill J said at 405:
+ 
+ 'To that extent, therefore, I would agree with Gummow J in Demagogue Pty Ltd v Ramensky (1992) 39 FCR 31, that the search for a "duty to disclose" might be to digress from the application of the terms of s 52.</sentence>
+<sentence id="s833">Certainly I agree, with respect to his Honour, that neither Henjo Investments Pty Ltd v Collins Marrickville Pty Ltd (1988) 39 FCR 546 nor Rhone-Poulenc Agrochimie SA v UIM Chemical Services Pty Ltd (1986) 12 FCR 477 ultimately depended upon the existence of a duty and my analysis in Winterton (supra) in fact points to the fact that Henjo (supra), in which the applicant was successful, was what I have labelled "a half-truth case".</sentence>
+<sentence id="s834">I would not understand what his Honour said in Demagogue (supra), however, to mean that it was irrelevant that a duty to speak arose, for so to say would be to disapprove the language of Bowen CJ in Rhone-Poulenc and of Lockhart J in Henjo (at 557), both of which passages have been often cited with approval, including by Full Courts of this court: see, for example, Kabwand Pty Ltd v National Australia Bank Ltd [1989] ATPR 50,367.</sentence>
+<sentence id="s835">
+ 
+ The test adopted by Black CJ, in separate comments, and by Gummow J, with whom Cooper J agreed, in Demagogue , of the need to find a reasonable expectation that silence would be broken before failure to speak is misleading or deceptive, differs little, if at all, from the test I suggested in Winterton when I spoke of "entitlement to expect" or "entitlement to infer".</sentence>
+<sentence id="s836">
+ 
+ I would not have entered into further discussion of the matter but for the "Editorial Comment" with which Demagogue was published in the CCH report of the judgment (15 ATPR 40,844).</sentence>
+<sentence id="s837">That comment suggested that there was some conflict between the judgment of Gummow J in Demagogue and my discussion in Winterton .</sentence>
+<sentence id="s838">With respect, I think that the learned authors place too great an emphasis upon the comments made by Gummow J, with respect to the existence of a "duty to disclose".</sentence>
+<sentence id="s839">If one accepts the formulation of "reasonable expectation" in Demagogue as a test to be applied, either universally, or, at least, in most cases, the existence of a duty to disclose will still have significance'.</sentence>
+<sentence id="s840">
+
+132 The approach in Demagogue has been applied on many occasions including most recently by the Full Court of this Court in Fleetman Pty Ltd v Cairns Pty Ltd [2005] FCAFC 80 (per Marshall, Mansfield and Siopis JJ) in which, in a joint judgment, their Honours referred with approval, to the above passage on the reasons of the Chief Justice.</sentence>
+<sentence id="s841">Similarly, the Court of Appeal of New South Wales in Hardy v Your Tabs Pty Ltd (in liq) [2000] NSWCA 150 per Heydon JA (at [69]) with whom Meagher JA and Foster AJA agreed, cited with approval the same passage.</sentence>
+<sentence id="s842">133 The Court of Appeal of Western Australia in Warwick Entertainment Centre Pty Ltd and Another v Alpine Holdings Pty Ltd and Others (2005) 224 ALR 134 at 145, at [45], (per Steytler P with whom McClure and Pullin JJA agreed) said:
+ 
+ 'In Demagogue , the court held that conduct may be misleading or deceptive under s 52 if there is a reasonable expectation of disclosure of information and that information is not disclosed: see also Hardy v Your Tabs Pty Ltd (in liq) [2000] NSWCA 150 '.</sentence>
+<sentence id="s843">
+ 
+
+Steytler P then said (at [46]):
+ 
+ 'The evidence established, and the trial judge found, that the representations to which I have referred were important to the respondents.</sentence>
+<sentence id="s844">That must have been obvious to the appellants, who must consequently have known that the respondents would rely upon them.</sentence>
+<sentence id="s845">In these circumstances it was reasonable for the respondents to expect that, if the situation altered [which it did] , they would be told of this [which they were not]' .</sentence>
+<sentence id="s846">
+
+134 In Butcher and Another v Lachlan Elder Realty Pty Ltd [2004] HCA 60 ; (2004) 212 ALR 357, which was a case on the effect of a disclaimer and the passing on of information, rather than on a failure to disclose material information, the High Court considered a question similar to that consider in Demagogue involving the sale of real estate.</sentence>
+<sentence id="s847">McHugh J (dissenting on a different point) at 383 to 384, at [109], analysed s 52 and said:
+ 
+ 'The question whether conduct is misleading or deceptive or is likely to mislead or deceive is a question of fact.</sentence>
+<sentence id="s848">In determining whether a contravention of s 52 has occurred, the task of the court is to examine the relevant course of conduct as a whole.</sentence>
+<sentence id="s849">It is determined by reference to the alleged conduct in the light of the relevant surrounding facts and circumstances.</sentence>
+<sentence id="s850">It is an objective question that the court must determine for itself.</sentence>
+<sentence id="s851">It invites error to look at isolated parts of the corporation's conduct.</sentence>
+<sentence id="s852">The effect of any relevant statements or actions or any silence or inaction occurring in the context of a single course of conduct must be deduced from the whole course of conduct.</sentence>
+<sentence id="s853">Thus, where the alleged contravention of s 52 relates primarily to a document, the effect of the document must be examined in the context of the evidence as a whole.</sentence>
+<sentence id="s854">The court is not confined to examining the document in isolation.</sentence>
+<sentence id="s855">It must have regard to all the conduct of the corporation in relation to the document including the preparation and distribution of the document and any statement, action, silence or inaction in connection with the document'.</sentence>
+<sentence id="s856">(references omitted)
+ 
+
+The majority (Gleeson CJ, Hayne and Heydon JJ) said at 366 to 367, at [37] to [39]:
+ 
+ 'The plaintiff must establish a causal link between the impugned conduct and the loss that is claimed.</sentence>
+<sentence id="s857">That depends on analysing the conduct of the defendant in relation to that plaintiff alone.</sentence>
+<sentence id="s858">So here, it is necessary to consider the character of the particular conduct of the particular agent in relation to the particular purchasers, bearing in mind what matters of fact each knew about the other as a result of the nature of their dealings and the conversations between them, or which each may be taken to have known.</sentence>
+<sentence id="s859">Indeed, counsel for the purchasers conceded that the mere fact that a person had engaged in the conduct of supplying a document containing misleading information did not mean that that person had engaged in misleading conduct: it was crucial to examine the role of the person in question.</sentence>
+<sentence id="s860">
+ 
+ The relevant principles.</sentence>
+<sentence id="s861">In Yorke v Lucas [(1985) [1985] HCA 65 ; 158 CLR 661 at 666], Mason ACJ, Wilson, Deane and Dawson JJ said that a corporation could contravene s 52 even though it acted honestly and reasonably: 
+ 
+ That does not, however, mean that a corporation which purports to do no more than pass on information supplied by another must nevertheless be engaging in misleading or deceptive conduct if the information turns out to be false.</sentence>
+<sentence id="s862">If the circumstances are such as to make it apparent that the corporation is not the source of the information and that it expressly or impliedly disclaims any belief in its truth or falsity, merely passing it on for what it is worth, we very much doubt that the corporation can properly be said to be itself engaging in conduct that is misleading or deceptive.</sentence>
+<sentence id="s863">In applying those principles, it is important that the agent's conduct be viewed as a whole.</sentence>
+<sentence id="s864">It is not right to characterise the problem as one of analysing the effect of its "conduct" divorced from "disclaimers" about that "conduct" and divorced from other circumstances which might qualify its character.</sentence>
+<sentence id="s865">Everything relevant the agent did up to the time when the purchasers contracted to buy the Rednal land must be taken into account.</sentence>
+<sentence id="s866">It is also important to remember that the relevant question must not be reduced to a crude inquiry: "Did the agent realise the purchasers were relying on the diagram?</sentence>
+<sentence id="s867">" To do that would be impermissibly to dilute the strict liability which s 52 imposes'.</sentence>
+<sentence id="s868">(references omitted) 
+
+135 Returning to the facts of this matter, were the circumstances such that before 3 July 2003 when CPI agreed to the invoicing agreement, that company, principally acting through Mr Cassell, could have reasonably expected to have been told of the poor trading history of the Boomerang companies and the level of indebtedness to SEA?</sentence>
+<sentence id="s869">Some matters would support an affirmative answer.</sentence>
+<sentence id="s870">They include the following.</sentence>
+<sentence id="s871">The invoicing agreement was proposed by SEA and proposed for its benefit.</sentence>
+<sentence id="s872">It would no longer carry the risk of Boomerang accounts not being paid on time or even not being paid at all.</sentence>
+<sentence id="s873">SEA would no longer have to worry about the vexed and long standing question of credit insurance.</sentence>
+<sentence id="s874">The invoicing agreement was being proposed by SEA to a company with which it had enjoyed a long trading relationship and with whom it had corporate connections of some longevity and significance.</sentence>
+<sentence id="s875">The personal relationships between the principal actors, Mr Ellenberg, Mr Fabrello and Mr Cassell were comparatively warm or at least attended by a measure of comfort from regular contact.</sentence>
+<sentence id="s876">While CPI would receive a commission under the agreement, it was modest having regard to the potential liability it was assuming under the invoicing agreement.</sentence>
+<sentence id="s877">136 However, ultimately I am not satisfied that CPI could reasonably have expected to be told of the problems with the Boomerang companies, and I am not satisfied that SEA engaged in conduct proscribed by s 52.</sentence>
+<sentence id="s878">Since at least mid May 2003, CPI had been investigating the businesses of the Boomerang companies with a view to acquiring them.</sentence>
+<sentence id="s879">The rationale for its participation in the invoicing arrangements embodied in the invoicing agreement was to facilitate its purchase of the Boomerang companies by preserving its trading status quo.</sentence>
+<sentence id="s880">These matters were known to both Mr Ellenberg and Mr Fabrello and that fact was known by Mr Cassell.</sentence>
+<sentence id="s881">On any of the versions of the conversation of 19 May 2003, the proposal for the invoicing agreement was linked to CPI's purchase of the Boomerang companies.</sentence>
+<sentence id="s882">Since May 2003, CPI had been in contact either directly or indirectly through its accountants, with the Boomerang companies and had been analysing the financial position of the companies.</sentence>
+<sentence id="s883">Again this was known by Mr Fabrello and probably Mr Ellenberg, and again that fact was known by Mr Cassell.</sentence>
+<sentence id="s884">137 In these circumstances, CPI could have, but did not, seek even preliminary information from the Boomerang companies about their recent trading history and the level of indebtedness before assuming the liability it did under the invoicing agreement.</sentence>
+<sentence id="s885">With this ready access to information, it is difficult to conceive of why CPI could reasonably have expected to be told of something which it could have readily ascertained itself.</sentence>
+<sentence id="s886">What Mr Cassell did was, in effect, to depute to Mr Akdogan the task of analysing the financial accounts of Boomerang without any particular and urgent focus on their payment history in settling accounts with SEA.</sentence>
+<sentence id="s887">It might be thought that, in the circumstances, CPI had no reason to believe it should make enquiries.</sentence>
+<sentence id="s888">But CPI had received no assurances that the Boomerang companies' trading history and current level of indebtedness were entirely regular and no risks attended entering the invoicing agreement.</sentence>
+<sentence id="s889">Mr Ellenberg and Mr Fabrello knew they had not given such assurances.</sentence>
+<sentence id="s890">138 Were it not for CPI's need to move with considerable haste, acting through Mr Cassell, to consummate its plan to acquire the agency and the income stream it would produce as soon as practicable as part of an overall stratagem which involve the acquisition of the business of the Boomerang companies, it may well have made these enquiries.</sentence>
+<sentence id="s891">Mr Ellenberg certainly did not know that Mr Cassell or Mr Akdogan would not make the obvious and sensible inquiries before finally committing to the invoicing agreement because CPI was under significant time constraints to consummate its arrangements with the Mill including cancelling the agency.</sentence>
+<sentence id="s892">While Mr Fabrello ultimately knew that time constraints were impacting on the course of action being followed by Mr Cassell, I accept that he believed Mr Cassell would have known of the trading problems of Boomerang and felt no need to volunteer that information.</sentence>
+<sentence id="s893">In my opinion, neither Mr Ellenberg nor Mr Fabrello were in a position where it could be said that they should have believed it was necessary for them to tell Mr Cassell about Boomerang's trading history and level of indebtedness.</sentence>
+<sentence id="s894">Nor, objectively, were they in that position.</sentence>
+<sentence id="s895">Similarly Mr Cassell was not in a position where he could reasonably have expected to have been told of Boomerang's circumstances.</sentence>
+<sentence id="s896">139 I do not accept the thesis propounded by counsel for CPI that there was, in effect, a conspiracy of silence involving Mr Ellenberg, Mr Fabrello and Mr Koeppen, who quite deliberately set about ensuring Mr Cassell never knew of the position of the Boomerang companies.</sentence>
+<sentence id="s897">Overwhelmingly the evidence points to a situation in which Mr Ellenberg and Mr Fabrello did not know Mr Cassell would not do the obvious, namely make some assessment of, and commercial judgment about, the risks of entering the invoicing agreement before doing so.</sentence>
+<sentence id="s898">Orders 
+ 
+140 CPI's cross-claim should be dismissed.</sentence>
+<sentence id="s899">CPI should be ordered to pay SEA $3,967,544.65 plus interest.</sentence>
+<sentence id="s900">If there is an issue about the calculation of interest I will hear the parties further.</sentence>
+<sentence id="s901">I certify that the preceding one hundred and forty (140) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Moore.</sentence>
+<sentence id="s902">Associate:
+
+Dated: 8 December 2006
+
+
+ Counsel for the Applicant and Cross Respondents: Mr I Barker QC and Mr J van Aalst 
+ 
+ Solicitor for the Applicant and Cross Respondents: Hardings 
+ 
+ Counsel for the Respondent and Cross Claimant: Mr J Sackar QC and Mr J Stoljar 
+ 
+ Solicitor for the Respondent and Cross Claimant: Corrs Chambers Westgarth 
+ 
+ Date of Hearing: 15, 16, 19 - 23 June 2006, 3 and 21 August 2006 
+ 
+ Date of Judgment: 8 December 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1685.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<case>
+<name>Weatherford Australia Pty Ltd v Screenex Pty Ltd [2009] FCA 331 (9 April 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/331.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">patents</catchphrase>
+<catchphrase "id=c1">divisional application</catchphrase>
+<catchphrase "id=c2">error in request</catchphrase>
+<catchphrase "id=c3">wrong parent application cited</catchphrase>
+<catchphrase "id=c4">whether can be amended after lapse of correct application</catchphrase>
+<catchphrase "id=c5">whether should be amended</catchphrase>
+<catchphrase "id=c6">nature of error</catchphrase>
+<catchphrase "id=c7">undetected error in operation of computer database</catchphrase>
+<catchphrase "id=c8">whether akin to clerical error</catchphrase>
+<catchphrase "id=c9">whether error should have been picked up earlier</catchphrase>
+<catchphrase "id=c10">whether other party prejudiced by amendment.</catchphrase>
+<catchphrase "id=c11">patents</catchphrase>
+<catchphrase "id=c12">amendment of patent request</catchphrase>
+<catchphrase "id=c13">whether corresponding amendment on register should be made</catchphrase>
+<catchphrase "id=c14">whether entry is an "error or defect"</catchphrase>
+<catchphrase "id=c15">whether patentee has standing to apply.</catchphrase>
+<catchphrase "id=c16">"person aggrieved".</catchphrase>
+<catchphrase "id=c17">intellectual property</catchphrase>
+<catchphrase "id=c18">intellectual property</catchphrase>
+<catchphrase "id=c19">statutes</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ Subject to the allegations of invalidity advanced by the respondent, Screenex Pty Ltd ("Screenex"), the first applicant, Weatherford Australia Pty Ltd ("Weatherford"), is the proprietor, and the second applicant, Johnson Screens (Australia) Pty Ltd, is the exclusive licensee, of the two patents in suit, namely, patent No 627919 for an invention titled "Modular Screen Panel System" ("the 919 patent") and patent No 729679 for an invention titled "Particle Screening System" ("the 679 patent").</sentence>
+<sentence id="s1">The applicants allege that Screenex has infringed certain claims in each of these patents.</sentence>
+<sentence id="s2">By an Amended Notice of Motion dated 25 September 2008, the applicants now move for orders --- pursuant to s 105(1) of the Patents Act 1990 (Cth) ("the Act"), to amend the patent request for the 679 patent lodged on 19 November 1998 ("the first request") by replacing "60947/90 (acceptance No 627919) filed 25 August 1989" in the section marked "Divisional Application Details" with "46797/97 filed 1 December 1997"; pursuant to s 105(1) of the Act, to amend the patent request for the 679 patent lodged on 22 November 2000 ("the second request") by replacing "60947/90 (acceptance No 627919 --- filed 25 August 1989)" in the section marked "Divisional Application Details" with "46797/97 filed 1 December 1997"; and pursuant to s 192 of the Act, to amend the entry in the Register of Patents for the 679 patent, on the final line of the extract after the words "Divisional of", by replacing "627919" with "46797/97".</sentence>
+<sentence id="s3">According to the applicants, the need for these amendments arises from the following circumstances.</sentence>
+<sentence id="s4">A provisional specification (No PJ5978) for an invention titled "Particle Screening System" was filed in the name of Hunter Wire Products Ltd ("Hunter") on 25 August 1989.</sentence>
+<sentence id="s5">Patent application No 60947/90 for an invention titled "Particle Screening System" was filed in the name of Hunter on 13 August 1990.</sentence>
+<sentence id="s6">The applicants refer to this as the "grandparent" application.</sentence>
+<sentence id="s7">Patent application No 46797/97 for an invention titled "Particle Screening System" was filed in the name of Hunter on 1 December 1997.</sentence>
+<sentence id="s8">This was a divisional application made pursuant to s 39(1) of the Act, relying on the grandparent application.</sentence>
+<sentence id="s9">The applicants refer to this as the "first divisional" application.</sentence>
+<sentence id="s10">These applications were formally in order, and no need to amend arises from them.</sentence>
+<sentence id="s11">The grandparent application was granted as the 919 patent on 25 June 1998.</sentence>
+<sentence id="s12">On 19 November 1998, Mr Christopher Owens, a partner in the firm of FB Rice &amp; Co, lodged the first request, namely, patent application No 93275/98 for an invention titled "Particle Screening System" in the name of USF Johnson Screens Pty Ltd.</sentence>
+<sentence id="s13">This was also a divisional application made pursuant to s 39(1) of the Act, relying on the grandparent application.</sentence>
+<sentence id="s14">The applicants refer to this as the "second divisional" application.</sentence>
+<sentence id="s15">This application was not formally in order, in two respects.</sentence>
+<sentence id="s16">First, it should have been made in the name of Hunter (by then called USF Johnson Screens (Newcastle) Pty Ltd).</sentence>
+<sentence id="s17">This error was subsequently corrected in circumstances to which I shall refer.</sentence>
+<sentence id="s18">Although the error itself is not presently controversial, it will be necessary presently to mention steps later taken by Mr Owens to correct it.</sentence>
+<sentence id="s19">Secondly, the application should have relied on the first divisional application, not the grandparent application.</sentence>
+<sentence id="s20">That was because, by the time of the application, the grandparent application had proceeded to grant, and was no longer available as a basis for a divisional application (see Patents Regulations 1991 (Cth), as then in force, reg 3.11(2)).</sentence>
+<sentence id="s21">By contrast, the first divisional application remained pending and was so available.</sentence>
+<sentence id="s22">It is this second error which gives rise to the present motion.</sentence>
+<sentence id="s23">In his affidavit sworn on 14 July 2008, Mr Owens explains that the second error came about by reason of the way in which a database of patent applications then in use in his firm operated with respect to "pointers" to related applications.</sentence>
+<sentence id="s24">Thus the database file for the second divisional application originally contained a pointer to the first divisional application as its intended parent.</sentence>
+<sentence id="s25">However, at some time (Mr Owens estimates between 4 September and 19 November 1998) an additional pointer was added to that file.</sentence>
+<sentence id="s26">It pointed to the grandparent application as though it were the intended parent.</sentence>
+<sentence id="s27">When the request form for the second divisional application was automatically generated from the database, it seems that the pointer to the grandparent application electronically overrode the pointer to the first divisional application, and thus appeared on the form.</sentence>
+<sentence id="s28">What I have called the first error was referred to in a letter from the examiner to Mr Owens dated 22 June 1999.</sentence>
+<sentence id="s29">Referring to a number of possible grounds of objection, the examiner said that the second divisional application did not satisfy s 39 of the Act "because the applicant is not an applicant of the parent application".</sentence>
+<sentence id="s30">In his affidavit, Mr Owens does not refer to this letter.</sentence>
+<sentence id="s31">He does, however, exhibit a "Request to Amend a Complete Specification" dated 22 November 2000 which requested the Commissioner's leave to amend the second divisional application, and dealt with the problem concerning the name in which it had been lodged.</sentence>
+<sentence id="s32">He enclosed the second request, which was in the form of a new originating request, in which Hunter (by then called USF Johnson Screens (Newcastle) Pty Ltd) was named as the applicant.</sentence>
+<sentence id="s33">However, what I have called the second error had not come to Mr Owens' attention, and the grandparent application was still identified (by the operation of the pointer in the database) as the original application by reference to which the then divisional application was said to be justified.</sentence>
+<sentence id="s34">There was no explanation for the lapse of time between 22 June 1999, when the first error was identified by the examiner, and 22 November 2000, when the second request was lodged (save, possibly that Mr Owens states that the first error "came to [his] attention" in November 2000).</sentence>
+<sentence id="s35">Mr Owens was not cross-examined on his affidavit.</sentence>
+<sentence id="s36">The first divisional application did not proceed to grant, and lapsed on 28 June 2000.</sentence>
+<sentence id="s37">Whether anyone in the Patents Office noticed the second error does not appear from the material before the court.</sentence>
+<sentence id="s38">However, counsel for Screenex accepted that it was probable, as a matter of inference, that the second divisional application was processed as though it were reliant on the first divisional application.</sentence>
+<sentence id="s39">They accepted that the prospect of the Patents Office consciously processing the second divisional application by reference to the grandparent application, which had by then proceeded to grant and was obviously unavailable as a divisional parent, was quite unlikely.</sentence>
+<sentence id="s40">The second divisional application itself proceeded to grant on 11 December 2000, as the 679 patent.</sentence>
+<sentence id="s41">It was ostensibly reliant on the grandparent application (by then granted as the 919 patent).</sentence>
+<sentence id="s42">On 4 July 2002, the 679 patent was assigned to Weatherford.</sentence>
+<sentence id="s43">The second error seems to have gone unnoticed for a number of years.</sentence>
+<sentence id="s44">However, in the course of preparing to issue this proceeding, the error came to the attention of the applicants' solicitors.</sentence>
+<sentence id="s45">The Statement of Claim, filed on 3 April 2007, contained the allegation that the 679 patent "was granted on a divisional application from [the first divisional application] ... and has at all material times been subsisting and in full force and effect.</sentence>
+<sentence id="s46">" In its Defence filed on 18 June 2007, Screenex admitted that the patent bore "a notation that it was granted on a divisional application from [the first divisional application]" (which was wrong and which had not, in terms, been alleged), but denied that the patent had at all material times been subsisting and in full force and effect.</sentence>
+<sentence id="s47">The particulars of that denial did not refer to any problem arising from the misidentification of the parent application that was relevant to the 679 patent.</sentence>
+<sentence id="s48">By an email dated 14 March 2008, Screenex's solicitors notified the applicants' solicitors that they had noticed that an endorsement on the 679 patent showed that the relevant application was a divisional one based on the grandparent application, not on the first divisional application as alleged in the Statement of Claim.</sentence>
+<sentence id="s49">Screenex's solicitors invited the applicants to consider an amendment.</sentence>
+<sentence id="s50">By reply email dated 18 March 2008, the applicants' solicitors asserted that the patent was granted upon the first divisional application, which was itself a divisional application based on the grandparent application.</sentence>
+<sentence id="s51">They said that they did not propose to amend their pleading.</sentence>
+<sentence id="s52">By leave granted on 6 June 2008, on 10 June 2008 Screenex amended its Defence, now to "admit" that the 679 patent bore "a notation that it was granted on a divisional application from [the grandparent application]", and to deny that the patent was granted on a divisional application from the first divisional application.</sentence>
+<sentence id="s53">In Amended Particulars of Invalidity filed on the same day, Screenex said that none of the claims in the 679 patent was entitled to the priority date of the grandparent application, and cited additional prior art, including the first divisional application itself.</sentence>
+<sentence id="s54">It was, it seems, substantially in response to this position taken by Screenex that the applicants filed their Notice of Motion.</sentence>
+<sentence id="s55">The power to order an amendment of a patent request, even at this late stage, is given to the court by s 105(1) of the Act, in the following terms: 
+ In any relevant proceedings in relation to a patent, the court may, on the application of the patentee, by order direct the amendment of the patent, the patent request or the complete specification in the manner specified in the order.</sentence>
+<sentence id="s56">
+
+ In support of their motion, the applicants make the following submissions.</sentence>
+<sentence id="s57">They point to Mr Owens' evidence that, when he caused the first request to be made, he intended to rely upon the first divisional application.</sentence>
+<sentence id="s58">The hard copy files of his firm (extracts from which are in evidence) demonstrated an intention to rely on that application.</sentence>
+<sentence id="s59">It was obvious to Mr Owens that, as an application which had proceeded to grant, the grandparent application could never have been relied on.</sentence>
+<sentence id="s60">The applicants say that the error was an inadvertent processing one which occurred, in some ultimately mysterious way, somewhere in the interface between the database used in Mr Owens' firm and the printing of the first request itself.</sentence>
+<sentence id="s61">This was, according to the applicants, the electronic equivalent of what has traditionally been referred to as a "clerical error".</sentence>
+<sentence id="s62">The applicants say that they have been frank, with Screenex and with the court, about the error and the need to correct it, and have not sought to take advantage of broader patent protection than they knew they were entitled to at any particular time.</sentence>
+<sentence id="s63">They accept that a long time has passed since the first request was made, but they say that they came to court to deal with the problem as soon as it was squarely brought to their attention, and they claim that Screenex will not be prejudiced by the granting of the amendments, despite that passage of time.</sentence>
+<sentence id="s64">The motion is opposed by Screenex.</sentence>
+<sentence id="s65">It points out that allowing the amendment to the first request would entitle the applicants to a priority date of 25 August 1989 (the priority date of the 919 patent), whereas the priority date to which the 679 patent would otherwise be entitled is 19 November 1998 (or 12 November 2000 when the second request was made).</sentence>
+<sentence id="s66">Thus it says that to allow the amendments would substantially alter the balance of the parties' rights and obligations with respect to the issues in this proceeding, specifically on the matters of priority date and the availability of the first divisional application as an item of prior art.</sentence>
+<sentence id="s67">Screenex points out that the first divisional application lapsed on 28 June 2000, and that a new divisional application could not have been made (in reliance upon the first divisional application) at any time since then, and could not now be made.</sentence>
+<sentence id="s68">What the applicants are seeking is, in effect, an amendment to regularise something done irregularly many years ago, and which could no longer be regularly done.</sentence>
+<sentence id="s69">Indeed, at one point, counsel for Screenex submitted that the second request was not to be understood as an amendment to the second divisional application, but as a purported application in its own right.</sentence>
+<sentence id="s70">Yet, so understood, the application was incompetent (ie as a divisional one based on the first divisional application) because of the lapsing of the first divisional application in the intervening period.</sentence>
+<sentence id="s71">The second request could not, therefore, be amended under s 105.</sentence>
+<sentence id="s72">Screenex contends that the applicants (and, inferentially, Weatherford's predecessors in title) have not been open and frank about how the second error came about, and have not explained why it was not detected earlier.</sentence>
+<sentence id="s73">It resists the proposition that it is, in effect, good enough for Mr Owens to say that something went wrong in the database and the error remained undetected for many years.</sentence>
+<sentence id="s74">It asks, rhetorically, why did not the examiner's letter of 22 June 1999, and the amendment to which it led 17 months later, put Mr Owens fairly on notice of the matter of defects in the second divisional application generally, and cause the second error to be uncovered?</sentence>
+<sentence id="s75">Screenex is critical of the applicants' solicitors' failure to face up to the error when it came to their attention upon preparing the papers for this proceeding, and of their reliance on the first divisional application in their Statement of Claim notwithstanding their admitted knowledge of the error.</sentence>
+<sentence id="s76">Screenex resists the proposition that the error is analogous to a clerical one, contending instead that it was "a systemic error running through the patent attorneys' entire automated data entry program and one that appears not to have been monitored or checked in any way".</sentence>
+<sentence id="s77">Neither, according to Screenex, was it an "obvious" error: anyone looking only at the 679 patent would assume that it was divisionally based on the grandparent application, and that it had a valid priority date of 25 August 1989.</sentence>
+<sentence id="s78">There may have been any number of manufacturers and potential inventors who were thus discouraged from their labours by the false impression created by the terms of the patent.</sentence>
+<sentence id="s79">Before turning to the discretionary considerations arising under s 105 , I should deal with Screenex's submissions of want of power based upon the circumstance that the second request was filed after the lapsing of the first divisional application.</sentence>
+<sentence id="s80">An immediate problem with the submission is that, if the second request were incompetent, one would be left with the first request which was filed within time.</sentence>
+<sentence id="s81">Subject possibly to allowing an amendment thereof to cure the first error, that request could be uncontroversially dealt with under s 105.</sentence>
+<sentence id="s82">The better view, however, is that, in November 2000, Mr Owens lodged a conventional application to amend, and attached the second request as a formalisation of the state of affairs which would be brought about if the amendment were to be granted.</sentence>
+<sentence id="s83">It was granted.</sentence>
+<sentence id="s84">As an amendment rather than a new request, the second request could, in my view, be lodged and processed notwithstanding that a new request could no longer be made.</sentence>
+<sentence id="s85">Turning to discretionary matters, the starting point for a consideration of the applicants' motion, in my view, is a recognition that s 105 of the Act is not concerned merely with the amendment of a court document by which a patentee seeks to enforce his or her patent.</sentence>
+<sentence id="s86">Rather, the section permits the amendment of documents by reference to which a cause of action as such is brought into existence and defined.</sentence>
+<sentence id="s87">Certain amendments which would have the result of expanding the substance of the complete specification, or the scope of a claim, in a patent are, by the operation of s 102 , not allowable.</sentence>
+<sentence id="s88">Neither are certain amendments which would produce the result that the specification no longer complies with subs (2) or (3) of s 40.</sentence>
+<sentence id="s89">Subject to those riders, however, it must be accepted that amendments which would give the patentee a basis for a claim of infringement not otherwise arising are at least within the range of outcomes contemplated by s 105.</sentence>
+<sentence id="s90">An amendment which would remove a ground of invalidity, for example, could be made.</sentence>
+<sentence id="s91">In a sense, therefore, it begs the question to contend that the granting of the present motion would give the applicants a range of rights which they do not presently have, or would deny Screenex a defence which it presently has.</sentence>
+<sentence id="s92">The more important questions, in my view, are whether the granting of the motion would allow the applicants to take unfair advantage of the error which they now seek to correct, or would unfairly prejudice Screenex in the sense of leaving it in a less beneficial position than it would have occupied if the correct details had been included in the first request when originally made (and repeated in the second request).</sentence>
+<sentence id="s93">A significant circumstance in the present case, and one which is relevant to the questions just referred to, is that the applicants seek to give formal expression to a situation which, in a practical sense, corresponds with that which would have appeared (albeit mistakenly) to Screenex, or to the hypothetical manufacturer or inventor, upon an examination of the terms of the 679 patent itself.</sentence>
+<sentence id="s94">By this I mean that a person searching the register would have looked at the patent and assumed, from the reference to the 919 patent, that the patent had a priority date of 25 August 1989.</sentence>
+<sentence id="s95">This was always intended by Hunter (through its attorney Mr Owens) and is what would have been the case had the second error not been made.</sentence>
+<sentence id="s96">Thus it is difficult to see how Screenex, or any such person, would be prejudiced by the grant of the present motion.</sentence>
+<sentence id="s97">Indeed, counsel for Screenex were unable to point to any prejudice which their client would suffer if the amendment were to be allowed; that is to say, they were unable to point to any respect in which, as a result of the correction of the error, Screenex would now be in a worse position than it would have occupied if the error had never been made in the first place.</sentence>
+<sentence id="s98">It was not suggested, for example, that there was some point of objection which might have been taken to the second divisional application proceeding to grant in December 2000 if the first divisional application had been regularly referred to in the first and second requests.</sentence>
+<sentence id="s99">The considerations to which I have just referred would, of course, play out rather differently if there were evidence that the applicants had obtained an unfair advantage from the existence on the register, over a period of years, of a patent which they knew to be misleading in a material particular, such as in the identification of the parent application by reference to which it derived its priority date.</sentence>
+<sentence id="s100">In Smith Kline &amp; French Laboratories v Evans Medical Ltd [1989] 1 FSR 561 , 569, Aldous J said that "a patentee who seeks to obtain an unfair advantage from a patent, which he knows or should have known should be amended" would not be allowed to amend.</sentence>
+<sentence id="s101">It is perhaps significant that his Lordship referred not to "a patent which was registered in error" but to "a patent, which ... should be amended", thereby implying that the vice, where there is one, is not the existence of the original error, but the passage of time between the discovery of the error and the steps taken by the patentee to correct it.</sentence>
+<sentence id="s102">Indeed, his Lordship's judgment implies that amendments should be made where appropriate, and made promptly.</sentence>
+<sentence id="s103">A patentee who, in the knowledge of an error which might affect the validity of the patent, the definition of the period of the monopoly granted by the patent, or some other aspect of the rights and obligations arising from registration, defers action to amend, thereby taking opportunistic advantage of the existence of the error, is unlikely to be in a strong position to call for the favourable exercise of the court's discretion under s 105.</sentence>
+<sentence id="s104">That, however, is not the present case.</sentence>
+<sentence id="s105">Hunter's original error was an innocent one, and no-one appears to have appreciated its existence until the investigations which the present proceeding made necessary.</sentence>
+<sentence id="s106">There is no suggestion that Hunter, or the applicants, knew of the existence of the error and sought to obtain an unfair advantage from it.</sentence>
+<sentence id="s107">The only sense in which one might say that Hunter "should have known" that the first request should be amended (before the matter came to the attention of the applicants' solicitors in the course of preparing for this case) is that Mr Owens' firm, having been alerted to the existence of the first error in June 1999, ought then to have taken the opportunity to ensure that no other errors remained.</sentence>
+<sentence id="s108">However, this criticism implies all manner of factual assumptions about the characteristics of the database, and of the firm's office systems, in relevant respects.</sentence>
+<sentence id="s109">I am in no position to make those assumptions.</sentence>
+<sentence id="s110">In his affidavit, Mr Owens goes to some lengths to explain how, he infers, the original error occurred and why it remained undetected.</sentence>
+<sentence id="s111">In the context of a world in which no-one is perfect, and in which "clerical" errors have always been an unhappy feature of commercial life, I am not prepared to hold that Hunter, or more recently Weatherford, "should have known" of the second error in any sense which would imply culpability.</sentence>
+<sentence id="s112">There is, perhaps, a sense in which the response of the applicants' solicitors to their discovery of the second error in the course of preparing the Statement of Claim in this proceeding might be viewed as disingenuous.</sentence>
+<sentence id="s113">Realising that the endorsement on the 679 patent referred to the wrong parent, instead of moving promptly then to apply for an amendment, they filed a pleading which alleged that the patent was granted on a divisional application from the first divisional application.</sentence>
+<sentence id="s114">That allegation reflected what ought to have been done in November 1998, not what had been done.</sentence>
+<sentence id="s115">The applicants' solicitors justified the approach they took by saying that the purpose of their pleading was "to avoid doubt as to the applicants' position".</sentence>
+<sentence id="s116">In a sense that was true, but the course adopted was not the one most clearly calculated to draw attention to the error and to have it corrected.</sentence>
+<sentence id="s117">However, the solicitors did not merely sweep the matter under the carpet, as it were; they made it the subject of a pleading which, strictly, was not otherwise necessary to make good the applicants' cause of action.</sentence>
+<sentence id="s118">That in turn put Screenex on inquiry as to the identity of the parent application, and the error came to their attention.</sentence>
+<sentence id="s119">This approach to the problem on behalf of the applicants, while not ideal, at least gave Screenex the opening to put the matter of the appropriate parent application in issue, and did not (save possibly with respect to costs) prejudice Screenex in its defence to the applicants' case.</sentence>
+<sentence id="s120">I do not consider that the approach taken by the solicitors should count against the applicants on their present motion.</sentence>
+<sentence id="s121">It is true, as counsel for Screenex pointed out, that, since the lapsing of the first divisional application in June 2000, a new divisional application based on that application could not have been made, and could not now be made.</sentence>
+<sentence id="s122">But the circumstances are not, in my view, analogous to those arising when an amendment is sought to be made to the constitution of a proceeding so as to introduce a cause of action by then statute-barred.</sentence>
+<sentence id="s123">In such a case, it would clearly be contrary to the policy of the relevant limitations statute to allow the new cause of action to be pursued.</sentence>
+<sentence id="s124">There is no such consideration in a case such as the present.</sentence>
+<sentence id="s125">Once it be accepted, as it must, that s 105 contemplates the making of amendments on matters which may affect substantive rights and obligations, it is not possible to discern any respect in which the achievement of the objects of the Act would necessarily be compromised by the making of such amendments, even after the passage of many years.</sentence>
+<sentence id="s126">If this were a case in which prejudice arguably arose by reason of the loss or unavailability of evidence necessary to conduct Screenex's defence, different considerations might well apply.</sentence>
+<sentence id="s127">It is not suggested, however, that it is such a case.</sentence>
+<sentence id="s128">For the above reasons, I am persuaded that the amendment sought by the applicants should be made.</sentence>
+<sentence id="s129">However, I propose to hear the parties as to the terms, if any, to which the court's order should be subject pursuant to s 105(2) of the Act.</sentence>
+<sentence id="s130">Screenex submits that, if the amendments are to be made, they should operate prospectively only, because the effect of retrospective amendments would be to deny Screenex the defence of invalidity presently said to be available by reason of lack of novelty by reference to a priority date of 19 November 1998.</sentence>
+<sentence id="s131">It submits that it would thus be prejudiced by the retrospective operation of the amendments sought by the applicants.</sentence>
+<sentence id="s132">This concept of prejudice is not, however, apposite to an application to amend of the present kind.</sentence>
+<sentence id="s133">What Screenex submits, in effect, is that the amendments would deny it the opportunity to take advantage of what I have held to be an innocent and unintended error in the first and second requests.</sentence>
+<sentence id="s134">That is true, of course, but Screenex's present position of advantage has, from its own point of view, been adventitiously brought about by the very error which the applicants seek to rectify.</sentence>
+<sentence id="s135">The more important question is whether Screenex stands to be prejudiced by the making of the amendments now rather than at some earlier time, or rather than confronting a situation in which the second error had never been made.</sentence>
+<sentence id="s136">Nothing put to me on the hearing of the motion suggests that it will.</sentence>
+<sentence id="s137">There is, for example, no suggestion of an irreversible change of position on the part of Screenex.</sentence>
+<sentence id="s138">Having concluded that the amendments are proper to be made, I consider that the natural course is to make them operative from the respective dates when each of the original errors, now being corrected, was made.</sentence>
+<sentence id="s139">That brings me to the applicants' motion under s 192(1) of the Act.</sentence>
+<sentence id="s140">That subsection reads as follows: 
+ A person aggrieved by: 
+ (a) the omission of an entry from the Register; or
+ (b) an entry made in the Register without sufficient cause; or
+ (c) an entry wrongly existing in the Register; or
+ (d) an error or defect in an entry in the Register;
+ may apply to a prescribed court for an order to rectify the Register.</sentence>
+<sentence id="s141">
+
+ 
+The applicants submit that, if the amendments sought under s 105 are to be made, a consequential amendment should then be made to the register.</sentence>
+<sentence id="s142">It is submitted on behalf of Screenex that the applicants cannot be regarded as "persons aggrieved" within the meaning of s 192.</sentence>
+<sentence id="s143">Screenex says that Weatherford's predecessor in title was responsible for the error which is now sought to be corrected, and that the applicants' position does not, therefore, have the quality of innocence which the word "aggrieved" implies.</sentence>
+<sentence id="s144">I cannot accept that submission.</sentence>
+<sentence id="s145">The term "person aggrieved" is very commonly used in legislation to refer to a person who is disadvantaged by an event or state of affairs and who has a legitimate interest in the achievement of the correction, compensation or other remedial outcome for which the statute in question provides.</sentence>
+<sentence id="s146">The degree of responsibility of a patentee for an entry in the register arguably requiring amendment under s 192 is, of course, a matter to be considered on the merits, but it is hard to envisage a situation in which the patentee, or an exclusive licensee, ought not be regarded as a person aggrieved by the subsistence of one or more of the circumstances referred to in the lettered paragraphs of subs (1).</sentence>
+<sentence id="s147">In my view the applicants are persons aggrieved and have standing to bring the present application.</sentence>
+<sentence id="s148">On the assumption that the applicants' motion under s 105 is to be granted, it could hardly be suggested that the reference to the 919 patent on the register is other than "an error or defect" in the terms of s 192(1)(d).</sentence>
+<sentence id="s149">That is not, of course, to imply any fault on the part of the Patents Office in the matter of making up the register.</sentence>
+<sentence id="s150">Its error was based squarely on the error in the first request.</sentence>
+<sentence id="s151">However, an error or defect exists nonetheless.</sentence>
+<sentence id="s152">Indeed, even absent an amendment under s 105 , the register probably contains a defect on its face, in that it purports to justify the 679 patent by reference to an earlier application (or, more accurately, by reference to the patent granted on an earlier application) which had, by the time of the first request, proceeded to grant and which was not, therefore, any longer available as a divisional parent.</sentence>
+<sentence id="s153">On the assumption referred to, it would, in my opinion, be inappropriate for the register to remain in its present terms.</sentence>
+<sentence id="s154">An amendment to the register should be regarded as consequential upon the granting of the motion under s 105.</sentence>
+<sentence id="s155">I propose to order rectification of the register as sought by the applicants.</sentence>
+<sentence id="s156">I certify that the preceding twenty-eight (28) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jessup.</sentence>
+<sentence id="s157">Associate:
+ 
+ 
+Dated: 9 April 2009
+ 
+ Counsel for the Applicants: Mr B Caine SC 
+ 
+ Solicitor for the Applicants: Clayton Utz 
+ 
+ Counsel for the Respondent: Mr C Golvan SC and Mr S Ricketson 
+ 
+ Solicitor for the Respondent: DMH Lawyers 
+ Date of Hearing: 18 March 2009 
+ 
+ Date of Judgment: 9 April 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/331.html 
+ 
+ </sentence>
+</sentences>
+</case>

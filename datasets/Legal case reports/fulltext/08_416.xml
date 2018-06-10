@@ -1,0 +1,1370 @@
+<?xml version="1.0"?>
+<case>
+<name>Pan Pharmaceuticals Limited (In Liquidation) v Selim [2008] FCA 416 (2 April 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/416.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">expert evidence</catchphrase>
+<catchphrase "id=c1">opinion rule</catchphrase>
+<catchphrase "id=c2">admissibility of experts' reports under section 79 of the evidence act 1995 (cth)</catchphrase>
+<catchphrase "id=c3">whether evidence is based on specialised knowledge based on training, study or experience</catchphrase>
+<catchphrase "id=c4">whether the facts and assumptions upon which the opinions are based are adequate</catchphrase>
+<catchphrase "id=c5">whether evidence is more than a bare ipse dixit</catchphrase>
+<catchphrase "id=c6">general discretion to exclude evidence</catchphrase>
+<catchphrase "id=c7">section 135 of the evidence act 1995 (cth)</catchphrase>
+<catchphrase "id=c8">leave to file evidence out of time</catchphrase>
+<catchphrase "id=c9">whether probative value is substantially outweighed by prejudicial effect</catchphrase>
+<catchphrase "id=c10">whether admissible opinion evidence is of significant probative value if the facts and assumptions upon which the opinion are based are inadequately detailed in an expert's report</catchphrase>
+<catchphrase "id=c11">effect of expert's involvement in preparation of one party's case including involvement in drafting of that party's statement of claim</catchphrase>
+<catchphrase "id=c12">whether expert is sufficiently independent</catchphrase>
+<catchphrase "id=c13">evidence</catchphrase>
+<catchphrase "id=c14">evidence</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+
+ BACKGROUND 
+ 
+1 The second plaintiffs, Anthony McGrath and Christopher Honey ( the Liquidators ), are the liquidators of the first plaintiff, Pan Pharmaceuticals Limited ( Pan ).</sentence>
+<sentence id="s1">The Liquidators have brought this proceeding in the name of Pan and in their capacity as liquidators of Pan.</sentence>
+<sentence id="s2">I shall refer to all plaintiffs as the Liquidators.</sentence>
+<sentence id="s3">2 The defendant, Mr James Selim, was the chief executive officer of Pan.</sentence>
+<sentence id="s4">The Liquidators are claiming damages against Mr Selim on the basis that he breached the duties that he owed to Pan as its chief executive officer.</sentence>
+<sentence id="s5">More specifically, the Liquidators say that Mr Selim failed to ensure that Pan adopted and applied good manufacturing principles ( GMP ).</sentence>
+<sentence id="s6">3 The proceeding has been on foot for some years and it is presently fixed for hearing commencing on 2 June 2008.</sentence>
+<sentence id="s7">Questions have arisen concerning the extent to which the Court should permit the Liquidators to rely upon expert evidence concerning aspects of the operations of Pan that are alleged to have resulted in breach of duties by Mr Selim, including opinion evidence under ss 79 and 80 of the Evidence Act 1995 ( the Evidence Act ).</sentence>
+<sentence id="s8">The questions arise in a context where the Liquidators have failed to comply with the Court's directions in relation to the filing of such evidence.</sentence>
+<sentence id="s9">4 On 9 June 2006, the Court ordered that, by 1 December 2006, the Liquidators serve, inter alia, all affidavits, both lay and expert, on which they wish to rely.</sentence>
+<sentence id="s10">On 16 November 2006, because the Liquidators were unable to comply with that order, the Court ordered that that order be vacated and that, by 31 May 2007, the Liquidators serve all lay affidavits on which they intend to rely and all expert affidavits on which they intend to rely.</sentence>
+<sentence id="s11">However, on 12 March 2007, those orders were also vacated and the Court ordered that the Liquidators serve all lay affidavits on which they intend to rely and all expert affidavits on which they intend to rely by 31 May 2007.</sentence>
+<sentence id="s12">5 The Liquidators failed to comply with the directions of 12 March 2007 so far as they concern expert opinion evidence.</sentence>
+<sentence id="s13">No satisfactory explanation has been provided for the failure, other than that the task was more complex and the identification of appropriate experts was more difficult than had been anticipated.</sentence>
+<sentence id="s14">It is somewhat surprising that no attempt was made by the Liquidators and their advisers, until well after 31 May 2008, to have the matter relisted for the purpose of proffering some explanation and seeking an extension of time for compliance with the directions.</sentence>
+<sentence id="s15">6 Notwithstanding that they failed to comply with the directions, the Liquidators indicated at a directions hearing on 25 September 2007 that they wished to rely on three reports ( the Disputed Reports ), relating to expert evidence, as follows:
+ 
+&#8226; reports of Stephen John Williams dated 3 September 2007 ( the GMP Report ) and 10 October 2007 ( the Remediation Costs Report ); and
+ 
+&#8226; a report of Dr Julian Maxwell Clark dated 6 September 2007 ( the Clark Report ).</sentence>
+<sentence id="s16">The Court ordered the Liquidators to file and serve a motion in relation to variation of the then current orders for filing the Liquidators' evidence, together with any supporting affidavits on which they wish to rely.</sentence>
+<sentence id="s17">The motion and affidavits were to be filed by 3 October 2007 and the motion was initially listed for hearing on 12 October 2007.</sentence>
+<sentence id="s18">7 In addition, each party was directed to serve on all other parties an outline of the opinion or expert evidence on which that party proposed to rely as follows:
+ 
+&#8226; The Liquidators: by 19 October 2007;
+ 
+&#8226; Mr Selim: by 5 November 2007; and
+ 
+&#8226; All other parties (cross-respondents): by 22 November 2007.</sentence>
+<sentence id="s19">The Liquidators filed an outline pursuant to that direction, explaining the reliance that they wished to place on the Disputed Reports.</sentence>
+<sentence id="s20">8 The material in the Disputed Reports is voluminous and detailed.</sentence>
+<sentence id="s21">Reliance upon the material is vehemently opposed by Mr Selim.</sentence>
+<sentence id="s22">Mr Selim, for reasons related to his health, is anxious that the proceeding be heard as soon as reasonably practicable and contends that he would be placed under unfair pressure and stress by having to respond, at this stage, to the material on which the Liquidators now seek to rely.</sentence>
+<sentence id="s23">Apart from the failure of the Liquidators to comply with the Court's directions, Mr Selim also opposes the admission of the Disputed Reports on the bases that much of their contents is irrelevant or of little weight, that they do not satisfy the requirements of s 79 of the Evidence Act for the admission of opinion evidence and that, even if some of the material is otherwise admissible, it should be rejected under s 135 of the Evidence Act .</sentence>
+<sentence id="s24">Under s 135 , the Court may refuse to admit evidence if its probative value is substantially outweighed by the danger that the evidence might:
+ 
+ (a) be unfairly prejudicial to a party; or
+ (b) be misleading or confusing; or
+ (c) cause or result in undue waste of time.</sentence>
+<sentence id="s25">
+
+9 Before examining in detail the content of the Disputed Reports and the bases upon which Mr Selim objects to them, it is desirable to outline the case that the Liquidators seek to establish against Mr Selim 
+ THE LIQUIDATORS' CASE AGAINST MR SELIM 
+ 
+10 Pan was a manufacturer of therapeutic goods.</sentence>
+<sentence id="s26">By reason of the provisions of the Therapeutic Goods Act 1989 (Cth) ( the TG Act ), Pan was not permitted to manufacture therapeutic goods unless it was the holder of a licence under the TG Act.</sentence>
+<sentence id="s27">Under the TG Act, the Secretary of the Department of Health and Ageing ( the Secretary ) had power to suspend or revoke a licence if the holder failed to comply with any conditions of the licence.</sentence>
+<sentence id="s28">11 Pan was the holder of a licence under the TG Act until April 2003.</sentence>
+<sentence id="s29">The conditions of that licence included that Pan must observe the requirements of the 1990 Australian Code of Good Manufacturing Practice for Therapeutic Goods --- Medicinal Products ( the Code ) and that the person nominated as having control over quality control measures must maintain such control.</sentence>
+<sentence id="s30">The Code included requirements that the quality assurance manager be promptly notified of all departures from the master formulae for products, that the quality assurance or quality control department should participate in the investigation of deviations and that Pan have in place a documented procedure for the review of reports of such deviations, the assessment of whether a significant problem exists and the allocation of tasks for corrective action.</sentence>
+<sentence id="s31">12 Most of the goods manufactured by Pan were either registered or listed on the Australian Register of Therapeutic Goods ( the Register ) kept under the TG Act.</sentence>
+<sentence id="s32">Such goods had to be manufactured in compliance with the information provided as part of the application for listing or registration.</sentence>
+<sentence id="s33">The Secretary had power to cancel the registration or listing of goods on the Register if it appeared to the Secretary that the quality, safety or efficacy of the goods was unacceptable.</sentence>
+<sentence id="s34">13 On 5 February 2003, the Therapeutic Goods Administration ( TGA ), which is part of the Department of Health and Ageing, identified a number of alleged critical deficiencies in Pan's compliance with the Code and, as a result, a delegate of the Secretary imposed a new condition on Pan's licence, preventing it from manufacturing certain products.</sentence>
+<sentence id="s35">Following that, the TGA conducted a broader audit of Pan's operations, which led to an audit report in April 2003 that identified additional alleged critical deficiencies in Pan's compliance with the Code.</sentence>
+<sentence id="s36">As a result of those reports, and on the recommendation of an expert advisory group appointed by the TGA, Pan's licence was suspended by a delegate of the Secretary on 28 April 2003.</sentence>
+<sentence id="s37">14 Mr Selim was the only director of Pan with executive management responsibility and he was involved in various aspects of Pan's manufacturing operations.</sentence>
+<sentence id="s38">Prior to the listing of Pan for quotation on the Australian Securities Exchange ( the ASX ) in 1999, Mr Selim was aware of serious problems with product quality, compliance with the Code and quality assurance and quality control procedures.</sentence>
+<sentence id="s39">He was aware that serious problems of that type continued to occur from the time of Pan's listing on the ASX up until April 2003.</sentence>
+<sentence id="s40">15 Paragraphs 69 and 70 of the second further amended statement of claim filed by the Liquidators ( the Statement of Claim ) assert that a person in the position of Mr Selim would have ensured or, alternatively, would have taken reasonable steps to ensure, that he was regularly and sufficiently informed as to whether or not Pan was acting in compliance with the Code and the conditions of Pan's licence.</sentence>
+<sentence id="s41">The reasonable steps would have included the following action:
+ 
+&#8226; Requiring that Pan's quality assurance manager provide Mr Selim with written monthly reports detailing various matters.</sentence>
+<sentence id="s42">&#8226; Requiring that Pan's general manager provide Mr Selim with written monthly reports dealing with other specified matters.</sentence>
+<sentence id="s43">&#8226; If Mr Selim had delegated any of his powers in relation to Pan's compliance with the Code and the conditions of its licence to the general manager, requiring that the general manager provide him with such written reports as when necessary to ensure that the general manager was exercising the powers in conformity with the duties alleged in the statement of claim.</sentence>
+<sentence id="s44">&#8226; Requiring copies of minutes of regular meetings between managers and from time to time attending such meetings.</sentence>
+<sentence id="s45">16 Paragraph 72 of the Statement of Claim then asserts that, had Mr Selim ensured that he was regularly and sufficiently informed as to whether or not Pan was acting in compliance with the Code and the conditions of its licence or, alternatively, taken the steps pleaded in paragraph 70, Mr Selim would, by no later than May 2002, have known, inter alia, each of the following matters:
+ 
+&#8226; Pan's General Manager was regularly authorising that raw materials that failed specification be released for use in manufacturing and that finished products that failed specification be released for sale.</sentence>
+<sentence id="s46">&#8226; From time to time Pan's General Manager was authorising the release of raw materials for use in manufacturing and the release of finished products for sale prior to the completion of all the testing required by the Code.</sentence>
+<sentence id="s47">&#8226; From time to time raw materials specified in the registered formulation for a product were substituted for other raw materials.</sentence>
+<sentence id="s48">&#8226; From time to time, finished products were released and dispatched without the completion of any or all quality control testing of the raw materials utilised.</sentence>
+<sentence id="s49">&#8226; One of Pan's standard operating procedures ( SOPs ), dealing with the acceptance of finished products and raw material analytical results which are outside specification, was in breach of a requirement of the Regulations made under the TG Act, requiring that control over quality control measures remain with Pan's quality assurance manager.</sentence>
+<sentence id="s50">&#8226; There was an entrenched practice at Pan of changing formulations of products to enable a satisfactory product to be made.</sentence>
+<sentence id="s51">&#8226; Pan's Validation Master Plan had been implemented only in limited respects.</sentence>
+<sentence id="s52">&#8226; The computer controls at Pan were inadequate and there had been no validation of the computer system.</sentence>
+<sentence id="s53">&#8226; There were serious deficiencies in the measures employed at Pan to present cross contamination.</sentence>
+<sentence id="s54">&#8226; There were significant deviations in the products manufactured by Pan.</sentence>
+<sentence id="s55">&#8226; There were instances of poor GMP practices throughout Pan's operations.</sentence>
+<sentence id="s56">&#8226; There was a practice by which the control by Pan's quality assurance manager over quality control matters was regularly overridden by Dr Brennan, Pan's general manager.</sentence>
+<sentence id="s57">&#8226; There was an inadequate number of staff to carry out all the quality assurance and quality control testing required by the Code.</sentence>
+<sentence id="s58">&#8226; Pan did not implement reasonable procedures for the regular audit of its compliance with GMP.</sentence>
+<sentence id="s59">&#8226; Pan did not have in place adequate training procedures.</sentence>
+<sentence id="s60">&#8226; Pan did not have in place or did not adequately implement certain identified systems, practices, procedures and policies.</sentence>
+<sentence id="s61">&#8226; Correspondence between Pan on the one hand and the TGA concerning a proposed validation master plan.</sentence>
+<sentence id="s62">17 The Liquidators claim that a reasonable person having the same position and responsibilities with Pan as Mr Selim had, in order to fulfil his duties as chief executive officer, was required to take reasonable steps to ensure that:
+ 
+&#8226; Responsibility for and authority over all quality control measures remained at all times with the quality assurance manager;
+ 
+&#8226; Pan at all times employed adequate staff to carry out the testing required by the Code in relation to the products it manufactured;
+ 
+&#8226; Pan implemented reasonable procedures for the internal audit of its compliance with the Code;
+ 
+&#8226; Pan had in place reasonable procedures for the training of its staff;
+ 
+&#8226; Pan had various other systems, procedures, policies and/or practices in place to ensure compliance with the Code;
+ 
+&#8226; Pan adopted a validation master plan in the form proposed by a Mr Humphreys, an external GMP consultant, and had in place such resources as were reasonably required for the purposes of implementing that plan;
+ 
+&#8226; He was regularly and sufficiently informed of whether Pan was complying with the Code and the conditions of its licence.</sentence>
+<sentence id="s63">The Liquidators claim that, in breach of his duties, Mr Selim failed to take reasonable steps to ensure each of those seven matters.</sentence>
+<sentence id="s64">The Liquidators say that that alleged breach by Mr Selim of his duties caused the adverse findings in the audits conducted by the TGA, leading to the loss of Pan's business.</sentence>
+<sentence id="s65">THE DISPUTED REPORTS 
+ 
+18 The GMP Report begins with an executive summary section, running to four pages, which is followed by a background section, running to five pages.</sentence>
+<sentence id="s66">There are then seven sections dealing with each of the seven aspects identified in the instructions and the questions, running to some 88 pages.</sentence>
+<sentence id="s67">Thus, the total GMP Report is 97 pages in length, ignoring the table of contents.</sentence>
+<sentence id="s68">19 The Liquidators seek to rely on the GMP Report in two distinct ways as follows:
+ 
+&#8226; As counterfactual evidence of the recommendations that would have been made to Pan had Mr Selim engaged a quality assurance consultant in May 2002 to conduct a full GMP audit of Pan and commissioned that consultant to prepare a corrective action plan.</sentence>
+<sentence id="s69">&#8226; As expert opinion evidence of Pan's non-compliance with the Code.</sentence>
+<sentence id="s70">The Remediation Costs Report follows on from that first purpose, by providing estimates of the likely costs, as at May 2002, of implementing the corrective action identified in the GMP Report.</sentence>
+<sentence id="s71">20 The Clark Report itself, without its attachments and annexures, consists of 192 paragraphs running to some 76 pages, ignoring the table of contents.</sentence>
+<sentence id="s72">The Clark Report was originally to be relied upon by the Liquidators as being expert evidence as to:
+ 
+&#8226; what a reasonable chief executive officer in the position of Mr Selim would do in relation to particular areas of operation;
+ 
+&#8226; the steps that would be practicable for someone in the position of Mr Selim to take as regards improving Pan's GMP compliance and quality assurance and control; and
+ 
+&#8226; considerations that would bear on whether taking such steps was warranted or necessary.</sentence>
+<sentence id="s73">21 The Liquidators now seek to rely only on parts of the Clark Report and to rely on those parts on a much more limited basis, namely, as evidence:
+ 
+&#8226; that the measures identified in the extracted parts were reasonably practicable to implement for a pharmaceutical manufacture in the assumed circumstances of Pan in the period 2000 to 2003; and
+ 
+&#8226; of the considerations that would be relevant to a chief executive officer of a firm in the assumed position of Pan in deciding what measures to adopt.</sentence>
+<sentence id="s74">22 The Liquidators say that the rejection of the Disputed Reports would be highly prejudicial to their case and that the interests of justice dictate that they be permitted to rely upon them, notwithstanding the very significant and almost contumelious failure to comply with the Court's orders.</sentence>
+<sentence id="s75">Mr Selim responds that the rejection of the Disputed Reports would not be unduly prejudicial to the Liquidators' case because they are either entirely, or for the most part, inadmissible or, to the extent that they are admissible, they would have so little weight that their rejection would not prejudice the Liquidators' case to any significant degree.</sentence>
+<sentence id="s76">23 Mr Selim's complaints concerning the Disputed Reports may be summarised as follows:
+ 
+&#8226; They do not identify the basis upon which it could be found that the relevant witness has the requisite specialised knowledge for the purposes of s 79 of the Evidence Act : Mr Williams does not give any indication on when he has performed a similar exercise or seen one performed in relation to his opinions; Dr Clark's credentials and experience are extraordinarily insufficient for the purpose for which he is being put forward.</sentence>
+<sentence id="s77">&#8226; They do not establish what it is that the opinions are based on.</sentence>
+<sentence id="s78">&#8226; They are not reports based on opinions derived as a result of an explanation of how a defined field of specialised knowledge possessed by the witness, by reason of training, study or experience, and on which the opinion is wholly or substantially based, applies to the facts established or assumed, so as to produce the opinion.</sentence>
+<sentence id="s79">Rather, the Disputed Reports are, in many respects, an adoption, without more, of a highly detailed, lengthy set of assumptions, the drafting of which results in their being nothing more than answers to grossly leading questions.</sentence>
+<sentence id="s80">&#8226; In the case of the Clark Report, Dr Clark does not possess the necessary and required degree of independence, in so far as his initial retainer was to assist the Liquidators' legal team to draft the claim against Mr Selim: in undertaking that role, Dr Clark prepared parts of the statement of claim and the schedules to it; further, he provided advice to the Liquidators, in respect of which the Liquidators claim legal professional privilege and which they have declined to provide to Mr Selim or his legal advisors, and Dr Clark incorporated substantial parts of the advice that he gave into the Clark Report.</sentence>
+<sentence id="s81">24 In order to focus attention on the opinion evidence on which the Liquidators seek to rely, I directed them to prepare a document extracting the opinions in the Disputed Reports in respect of which the Liquidators rely on s 79 of the Evidence Act , identifying for each opinion:
+ 
+&#8226; the reasoning in support of the opinion, 
+ 
+&#8226; the specialised knowledge on which the opinion is based ; and
+ 
+&#8226; the training, study or experience on which the specialised knowledge is based.</sentence>
+<sentence id="s82">On 21 December 2007, the Liquidators filed a document in relation to each of the Disputed Reports, extracting opinions on which the Liquidators wish to rely ( the Extracts Documents ).</sentence>
+<sentence id="s83">RELEVANT PRINCIPLES AS TO ADMISSIBLITY 
+ 
+25 Four separate functions have been identified as being performed by so called expert witnesses, as follows:
+ 
+&#8226; generalising from experience,
+ 
+&#8226; acting as librarian,
+ 
+&#8226; acting as statistician, and
+ 
+&#8226; acting as advocate.</sentence>
+<sentence id="s84">(See Arnotts Limited v Trade Practices Commission (1990) 24 FCR 313 at 350-352).</sentence>
+<sentence id="s85">26 A person experienced in a particular discipline may, in the course of a lifetime, accumulate a mass of material about the subject of the person's expertise, from his or her own practice, from journals, from newspaper reports and from discussion with fellow practitioners, much of which the person may not be able to recall but which enables him or her to express an opinion more accurately than one who has examined only the facts regarding particular instances.</sentence>
+<sentence id="s86">Such a witness may base an opinion on his or her experience, without having to prove by admissible evidence all the facts on which the opinion is based.</sentence>
+<sentence id="s87">Such witnesses regularly generalise from experience, calling in aid all their training and professional experience in expressing an opinion upon a matter within their field (see Arnotts at 350-1).</sentence>
+<sentence id="s88">27 In many instances, a witness who has experience in a particular discipline may not himself or herself know the answer to a particular problem from his or her own study or experience.</sentence>
+<sentence id="s89">However, being trained in the relevant discipline, the witness may be able to refer to works of authority in which the answer is given.</sentence>
+<sentence id="s90">In that sense, the witness may be said to be acting as a librarian.</sentence>
+<sentence id="s91">In that function, the witness is not giving evidence of his or her own opinion, except to say that, in his or her opinion, the books to which reference is made are of sufficient standing to be accepted by the Court (see Arnotts at 351.).</sentence>
+<sentence id="s92">28 The third function of such a witness can be to apply statistical methods to material available from various sources in order to draw relevant conclusions.</sentence>
+<sentence id="s93">The statistical expertise and experience of the witness may be brought to bear on material otherwise in evidence (see Arnotts at 351-2).</sentence>
+<sentence id="s94">29 However, it is not permissible for such a witness to take over the role of advocate, although a witness having expertise in a particular discipline may have a legitimate role of advocacy in that the evidence given by the witness may include arguments as to the conclusions that can be drawn, and perhaps should be drawn, from the facts that the witness is asked to assume.</sentence>
+<sentence id="s95">Nevertheless, the extent to which opinion evidence, if so given, will have greater or less weight will depend upon the extent to which the witness furnishes specific detail as to the actual experience of the witness.</sentence>
+<sentence id="s96">Even if the witness is not required to prove by admissible evidence all the facts on which an opinion is based, those facts ought to be stated with sufficient specificity to enable them to be tested by cross examination (see Arnotts at 352).</sentence>
+<sentence id="s97">30 Before opinion evidence will be admissible pursuant to s 79 , two prerequisites must be satisfied as follows:
+ 
+&#8226; Specialised knowledge derived from training, study or experience must be identified.</sentence>
+<sentence id="s98">&#8226; The opinion sought to be relied upon must be shown to be wholly or substantially based on that specialised knowledge.</sentence>
+<sentence id="s99">Knowledge is "more than subjective belief or unsupported speculation": it refers to "any body of known facts or any body of ideas inferred from [known] facts or accepted as truth on good grounds" (see R v Tang (2006) 65 NSWLR 681 at 712).</sentence>
+<sentence id="s100">Further, under s 80 , evidence of an opinion is not inadmissible only because it is about a fact in issue or an alternate issue or about a matter of common knowledge.</sentence>
+<sentence id="s101">31 The prerequisites contained in s 79 may well have the practical effect of emphasising the need for attention to requirements of form.</sentence>
+<sentence id="s102">By directing attention to whether an opinion is wholly or substantially based on specialised knowledge, which is in turn based on training, study or experience, the section will not be satisfied unless the opinion is "presented in the form that makes it possible to answer that question" ( HG v The Queen [1999] HCA 2 ; (1999) 197 CLR 414 at 427).</sentence>
+<sentence id="s103">The Court must be furnished with the necessary scientific criteria for testing the accuracy of the conclusion.</sentence>
+<sentence id="s104">32 Opinion evidence must go beyond a bare ipse dixit ( Makita (Australia) Pty Ltd v Sprowles (2001) 52 NSWLR 705 at 745 and R v Tang at 715).</sentence>
+<sentence id="s105">Before opinion evidence will be admissible under s 79 , the witness must explain how the field of specialised knowledge in which the witness is expert by reason of training, study or experience and on which the opinion is wholly or substantially based applies to the facts assumed or observed so as to produce the opinion given.</sentence>
+<sentence id="s106">Unless those two prerequisites are satisfied, the opinion evidence will be of no value to the Court, in the sense that it would be accorded no weight.</sentence>
+<sentence id="s107">It should not be left to the cross-examiner to attempt to illicit the facts or assumptions upon which opinions are based.</sentence>
+<sentence id="s108">The evidence must demonstrate an identifiable reasoning process against which the conclusions can be tested ( Ocean Marine Mutual Insurance Association (Europe) OV v Jetopay Pty Ltd [2000] FCA 1463 ; (2000) 120 FCR 146 at 151).</sentence>
+<sentence id="s109">33 In considering the weight of so-called expert evidence, it is necessary to consider two aspects of the evidence.</sentence>
+<sentence id="s110">The first aspect is the expertise or experience of the expert.</sentence>
+<sentence id="s111">In considering the expertise or knowledge of the expert, it is easy enough to identify disciplines such as the following:
+ 
+&#8226; hard science, such as pathology, chemistry, physics and the like;
+ 
+&#8226; technical or applied science, such as engineering, medicine and the like;
+ 
+&#8226; social sciences, such as economics, anthropology and the like;
+ 
+ In addition, an expert witness may have expertise or special knowledge resulting from particular education or learning, such as in the case of lawyers, medical practitioners and the like, where some technical study or education has been undertaken.</sentence>
+<sentence id="s112">34 Alternatively, such special knowledge or expertise might be the result of experience, where no particular technical study or education has been undertaken by the witness, such as in the case of managers and the like.</sentence>
+<sentence id="s113">Such evidence will often have less weight afforded to it.</sentence>
+<sentence id="s114">While it may be admissible as opinion evidence, because of the provisions of ss 79 and 80 , the Court may often be in as good a position as the so-called expert to assess such matters if it simply goes to ordinary experience.</sentence>
+<sentence id="s115">35 The second aspect to be considered in assessing the weight of expert evidence is the nature of the evidence that the expert is to give.</sentence>
+<sentence id="s116">An expert witness might give evidence in the following categories, which are non exhaustive:
+ 
+&#8226; opinion evidence as to what actually happened in particular circumstances, on the basis of assumptions that the expert is asked to make, as when a pathologist expresses an opinion about cause of death;
+ 
+&#8226; opinion evidence as to what might be likely to happen in the future, on the basis of assumptions that the expert is asked to make, as when an economist might predict the effect of identified phenomena on a market;
+ 
+&#8226; evidence of what is normally done in particular circumstances experienced by the expert, as when a legal practitioner says what is normally done in a conveyancing transaction ;
+ 
+&#8226; evidence as to what can be done in particular circumstances that the expert is asked to assume, and which the expert has not experienced, as when an engineer says what could have been done to avoid a failure of a particular structure;
+ 
+&#8226; evidence concerning special usage of language or terms in the field of the expert's expertise, as when a chemist explains special usage of terms that have a different meaning in everyday speech;
+ 
+&#8226; opinion evidence about what should or ought to have been done in particular circumstances that the expert is asked to assume, as when a legal practitioner says what enquiries ought to have been undertaken in a particular transaction, as distinct from what enquiries are ordinarily undertaken;
+ 
+&#8226; opinion evidence as to whether particular conduct that the expert is asked to assume satisfies or falls short of some legal standard, as when a medical practitioner says that a particular procedure was conducted negligently.</sentence>
+<sentence id="s117">36 Very little, if any weight, should ever be accorded the last category of opinion evidence.</sentence>
+<sentence id="s118">It may be admissible by reason of the operation of s 80 , however, in so far as it is an opinion by reference to a legal standard, it will be essential, before it can be admissible and certainly before any weight can be afforded to it, that the expert's understanding of the relevant legal standard be established and be shown to be in accordance with the law.</sentence>
+<sentence id="s119">37 Thus, an opinion as to whether conduct satisfies or falls short of a particular standard, such as whether particular conduct was in breach of a duty of care entails an examination as to what the expert's understanding is of the duty of care.</sentence>
+<sentence id="s120">Where the so-called opinion is proffered as to whether conduct satisfies or falls short of a statutory requirement, such as the Code, the expert must make clear just what his understanding of the effect of the Code might be.</sentence>
+<sentence id="s121">Unless the witness makes perfectly clear what he understands the Code to mean, his evidence as to whether particular conduct satisfies or falls short of it cannot be tested and can have no weight.</sentence>
+<sentence id="s122">THE GMP REPORT 
+ 
+38 The GMP Report of 3 September 2007 was furnished in response to instructions of 11 May 2007 given to Mr Williams by the Liquidators' solicitors.</sentence>
+<sentence id="s123">The letter of instructions enclosed:
+ 
+&#8226; a list of questions;
+ 
+&#8226; a Statement of Assumptions;
+ 
+&#8226; nine volumes of documents referred to in the Statement of Assumptions;
+ 
+&#8226; the Court's Guidelines for Expert Witnesses.</sentence>
+<sentence id="s124">The letter of instructions also informed Mr Williams that the Liquidators' solicitors wished to meet with him before he commenced drafting his report.</sentence>
+<sentence id="s125">39 Mr Williams was asked to assume that the Code set out the relevant quality principles with what Pan was required to comply.</sentence>
+<sentence id="s126">It also informed him that the questions related to aspects of Pan's operations and quality control that generally correspond with the Liquidators' allegations concerning Mr Selim's failure to take reasonable steps, as outlined above.</sentence>
+<sentence id="s127">40 For each of those seven aspects, Mr Williams was asked to provide his opinion on what he would have advised in a report to Pan had he been retained by Pan as a consultant on GMP, in or about May 2002, and requested to conduct a full GMP audit of Pan and to prepare, in conjunction with Pan's own quality assurance manager, a plan of corrective action to ensure the compliance of Pan's practices and procedures with the Code and the conditions of Pan's licence.</sentence>
+<sentence id="s128">He was also asked to provide an explanation as to what matters he would take into account in giving that opinion and the reasons for that opinion, together with his opinion and reasons on whether a number of particular actions specified by the solicitors in the questions should have been taken.</sentence>
+<sentence id="s129">41 The questions in relation to each matter were in a similar form.</sentence>
+<sentence id="s130">Each matter was the subject of two questions.</sentence>
+<sentence id="s131">The first question was as follows:
+ 
+ Would your report have included recommendations regarding measures relating to [the relevant matter]?</sentence>
+<sentence id="s132">If so:
+ (a) identify the steps that you would have recommended be taken; and
+ (b) explain why those steps would have been recommended.</sentence>
+<sentence id="s133">
+
+Thus, the attention of Mr Williams was drawn expressly to the question of whether, in providing such a report to Pan, he would have included recommendations regarding measures relating to each of the seven aspects that are the subject of the Liquidators' complaint in the Statement of Claim.</sentence>
+<sentence id="s134">That of itself has the consequence that the Court does not have the benefit of Mr Williams untutored evidence as to what such a hypothetical report from him would have included.</sentence>
+<sentence id="s135">One of the very significant questions that will fall for decision by the Court was thus pre-empted, namely, whether, if such a hypothetical report had been sought by Mr Selim at the relevant time, any of the seven aspects complained of would have been the subject of such a report.</sentence>
+<sentence id="s136">42 That difficulty is exacerbated by the form of the second question in relation to each of the seven matters.</sentence>
+<sentence id="s137">The form of the second question in relation to each aspect was as follows:
+ 
+ If the answer to [the previous question] is affirmative, please indicate (giving reasons) whether the steps you would have recommended be taken would have included any action in relation to any of the matters set out below:
+ 
+ [here followed references to the very specific particulars set out in the Statement of Claim in relation to the relevant matter] 
+ 
+ In answering the above question with reference to each of the particular matters ... 
+ 
+ 
+ &#8226; If in your opinion an action would have been taken, please describe that action and the reasons for it.</sentence>
+<sentence id="s138">&#8226; If in your opinion no action would have been taken, please explain why.</sentence>
+<sentence id="s139">
+ 
+ 
+ 
+
+43 Thus, the attention of Mr Williams was drawn specifically to the matters particularised by the Liquidators as being breaches by Mr Selim of his duties as chief executive officer.</sentence>
+<sentence id="s140">Accordingly, the Court would not have the benefit of Mr Williams's untutored evidence as to whether in his hypothetical report, Mr Williams would have had regard to those specific questions.</sentence>
+<sentence id="s141">44 Attached to the Statement of Assumptions was a schedule listing relevant officers and employees of Pan and another schedule containing a glossary of terms used in the Statement of Assumptions.</sentence>
+<sentence id="s142">The assumptions that Mr Williams was invited to make for the purposes of his opinion went through several versions.</sentence>
+<sentence id="s143">The version attached to the GMP Report is dated 27 August 2007 and runs to 49 pages.</sentence>
+<sentence id="s144">45 The Statement of Assumptions is a detailed statement of facts relating to Pan and its operations containing the kind of detail that it would be necessary for the Court to include in its findings in the course of its reasons for judgment.</sentence>
+<sentence id="s145">The Statement of Assumptions also contains legal propositions concerning Pan's regulatory environment, statements concerning Pan's contractual arrangements with parties with whom Pan had entered into written supply agreements and statements concerning Pan's potential liability to consumers under the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s146">46 The Statement of Assumptions contains material under the following further rubrics:
+ 
+ &#8226; Overview of the structure of operations of Pan;
+ &#8226; The office held by [Mr] Selim and [Mr] Selim's responsibilities within Pan;
+ &#8226; Audits, GMP meetings and reports on quality assurance [at Pan];
+ &#8226; Other sources of knowledge concerning quality assurance [at Pan].</sentence>
+<sentence id="s147">
+
+Throughout the Statement of Assumptions there are references to the nine volumes of documents provided by the solicitors to Mr Williams with the letter of instructions.</sentence>
+<sentence id="s148">The GMP Report itself also cross-refers to both the Statement of Assumptions and the nine volumes of other documents.</sentence>
+<sentence id="s149">47 In the section of the GMP Report entitled "Background to the Report" Mr Williams defined the following terms:
+ 
+ 
+ (a) Critical deficiency : A deficiency that has produced, or may result in a significant risk of producing, a product which is harmful to the user.</sentence>
+<sentence id="s150">(b) Major deficiency : A non-critical deficiency [that]: 
+ 
+ 
+ 
+ 
+ &#8226; ... has produced or may produce a product which does not comply with its marketing authorisation ... ; and/or 
+ &#8226; indicates a major deviation from [the Code]; and/or
+ &#8226; indicates a major deviation from the terms of the manufacturing licence ... ; and/or
+ &#8226; indicates a failure to carry out satisfactory procedures for release or batches; and/or
+ &#8226; indicates a failure of the person responsible for QA/QC to fulfil his/her duties; and/or
+ &#8226; consists of several other deficiencies, none of which on its own may be major, but which may together represent a major deficiency and should be explained and reported as such.</sentence>
+<sentence id="s151">
+ 
+ 
+ 
+ 
+ (c) Other deficiency : 
+ 
+ 
+ 
+ 
+ &#8226; A deficiency, which cannot be classified as either critical or major, that indicates a departure from good manufacturing practice.</sentence>
+<sentence id="s152">&#8226; A deficiency may be "other" either because it is judged as minor, or because there is insufficient information to classify it as major or critical.</sentence>
+<sentence id="s153">&#8226; One-off minor lapses or less significant issues are usually not formally reported, but are brought to the attention of the manufacturer.</sentence>
+<sentence id="s154">
+ 
+ 
+ 
+ 
+
+Mr Williams asserted that his definitions are consistent with definitions of the TGA in place in May 2002.</sentence>
+<sentence id="s155">He does not refer to any TGA material in support of that assertion.</sentence>
+<sentence id="s156">48 Having regard to the detail of the material placed before Mr Williams and the detail contained in the GMP Report itself, the analysis of the GMP Report, and the testing of the opinions contained in it, many of which will be contested by Mr Selim, would occupy a very considerable amount of Court time as well as judicial time out of Court.</sentence>
+<sentence id="s157">I do not propose to deal exhaustively with the whole of the GMP Report.</sentence>
+<sentence id="s158">However, in order to explain the nature of the evidence and the deficiencies in the material, I shall say something about the various sections of the GMP Report.</sentence>
+<sentence id="s159">Since particular attention was focussed on Section 2 , I shall begin with Section 2 as exemplifying the GMP Report and its deficiencies.</sentence>
+<sentence id="s160">However, before dealing with the detail of the GMP Report, I shall say something about Mr Williams expertise and experience.</sentence>
+<sentence id="s161">Mr Williams Training, Study and Experience 
+ 
+49 A detailed curriculum vitae of Mr Williams was annexed to the GMP Report.</sentence>
+<sentence id="s162">That shows that Mr Williams has been employed in the pharmaceutical industry since 1971.</sentence>
+<sentence id="s163">During that period he held line management positions in quality assurance, quality control, production and packaging in Australian based multinationals such as CSL Limited and Faulding (Mayne Pharma and now Hospira).</sentence>
+<sentence id="s164">During the period, Mr Williams prepared for and hosted a number of GNP audits including audits from sponsors, the TGA, the United Kingdom's Medicines and Health Care Regulatory Authority and the United States' Federal Drug Agency ( FDA ).</sentence>
+<sentence id="s165">50 In his role as a quality assurance manager in industry, Mr Williams has overseen and been responsible for the following areas:
+ 
+&#8226; compliance with the Code;
+ 
+&#8226; quality assurance programs development and administration;
+ 
+&#8226; facility and process validation;
+ 
+&#8226; quality control testing laboratories; and
+ 
+&#8226; GMP training programs.</sentence>
+<sentence id="s166">51 Since 1989, Mr Williams has been a full time professional consultant in GMP and quality assurance within the pharmaceutical industry.</sentence>
+<sentence id="s167">In that role he has generally been required to conduct the following analyses and project roles for clients:
+ 
+&#8226; assessing GMP compliance for a range of codes, including the Code;
+ 
+&#8226; preparing clients for regulatory audits;
+ 
+&#8226; assisting clients in responding to TGA and FDA deficiencies; and
+ 
+&#8226; preparing remediation programs to bring clients into compliance.</sentence>
+<sentence id="s168">52 In the area of compliance training as a consultant, Mr Williams has had the following experience in the past 18 years:
+ 
+&#8226; developing multiple training packages for industry and clients in the areas of quality assurance, GMP, validation and good auditing practices;
+ 
+&#8226; analysing client compliance training programs; and
+ 
+&#8226; developing training programs and conducting training programs in GMP, validation and quality assurance.</sentence>
+<sentence id="s169">53 Mr Williams says that he has consulted to a range of companies including:
+ 
+&#8226; MediHerb,
+ 
+&#8226; Golden Glow,
+ 
+&#8226; Parke Davis,
+ 
+&#8226; Pharmaction/Probiotec, and
+ 
+&#8226; Herron Pharmaceuticals.</sentence>
+<sentence id="s170">He says that his contact with those companies was in fields directly related to quality assurance, GMP compliance, training and validation.</sentence>
+<sentence id="s171">54 Following Mr Selim's complaints, the Liquidators filed an affidavit, affirmed by Mr Williams on 29 November 2007, in which Mr Williams expanded on:
+ 
+&#8226; his experience as a consultant in relation to GMP;
+ 
+&#8226; the standards that he applied in making the observations and recommendations set out in the GMP Report;
+ 
+&#8226; the standards that were applied by other consultants who offered GMP consultancy services; and
+ 
+&#8226; the standards of GMP compliance of pharmaceutical and manufacturing companies.</sentence>
+<sentence id="s172">In the affidavit, Mr Williams also answered a series of further questions posed to him by the Liquidators' solicitors.</sentence>
+<sentence id="s173">55 Mr Williams said that he has been a fulltime consultant, specialising in providing advice and training in relation to GMP since 1989.</sentence>
+<sentence id="s174">About 75% of his work involved consulting to manufacturing companies within Australia.</sentence>
+<sentence id="s175">The balance involved consulting to manufacturing companies in South East Asia.</sentence>
+<sentence id="s176">56 During the period of twelve years prior to May 2002, Mr Williams provided services of the following types:
+ 
+&#8226; Advice on GMP compliance, validation and quality assurance, entailing the provision of professional services and advice to clients regarding compliance with various codes of GMP in relation to improving compliance with such codes, strengthening quality assurance systems and implementing validation programs.</sentence>
+<sentence id="s177">&#8226; Developing and delivering GMP, good laboratory practices, quality assurance and validation training packages, for prescription, over the counter and complimentary manufacturers.</sentence>
+<sentence id="s178">57 During the period from 1990 up to May 2002, Mr Williams provided consultancy or auditing services to approximately twenty clients that manufactured complimentary medicines and over the counter products, including:
+ 
+&#8226; MediHerb, a manufacture of complimentary medicines with a staff of around 20 to 30 people and a range of over 100 products.</sentence>
+<sentence id="s179">&#8226; Golden Glow, a manufacturer of complimentary medicines with a staff of around 30 to 40 and a range of in excess of 100 products.</sentence>
+<sentence id="s180">&#8226; Parke-Davis, a manufacturer of over the counter and prescription products with in excess of 250 staff and a product range well in excess of 150 products.</sentence>
+<sentence id="s181">&#8226; Probiotech, formerly PharmAction, a contract manufacturer of prescription, over the counter and complimentary medicines with in excess of 80 staff manufacturing in excess of 150 products.</sentence>
+<sentence id="s182">&#8226; Herron Pharmaceuticals, a manufacturer of complimentary medicines and over the counter products with in excess of 150 staff and a product range in excess of 250 products.</sentence>
+<sentence id="s183">58 In the period up to May 2002, Mr Williams was engaged, either by himself or with another consultant, on around 15 occasions to carry out a full GMP audit and recommend any corrective action.</sentence>
+<sentence id="s184">Those occasions related to one or other of the above clients, other than Probiotech.</sentence>
+<sentence id="s185">59 During the period from 1989 onwards, Mr Williams has worked for SeerPharma Pty Ltd ( SeerPharma ) and its predecessor, Pharma Systems International (PSI) Pty Ltd. As at May 2002, SeerPharma had active projects for around 30 to 40 companies to whom consultancy services regarding GMP validation training on quality systems were being provided on a continuing or ad-hoc basis.</sentence>
+<sentence id="s186">Mr Williams had direct experience with approximately 20 to 25% of those projects.</sentence>
+<sentence id="s187">60 Mr Williams said that there is extensive discussion between the GMP consultants in relation to the projects on which they are working, which involves a discussion in relation to the nature of manufacturing practices and operations.</sentence>
+<sentence id="s188">In the two years up to May 2002, Mr Williams had direct or indirect experience, as I have described, with more than 30 manufacturing companies.</sentence>
+<sentence id="s189">Over the five year period to May 2002, he had direct or indirect experience with more than 100 manufacturing companies.</sentence>
+<sentence id="s190">61 Mr Williams was cross examined on his affidavit of 29 November 2007.</sentence>
+<sentence id="s191">In particular, he was asked about the statements made in paragraph 49 of the GMP Report.</sentence>
+<sentence id="s192">He said that, before he formed and expressed that opinion, he turned his mind to an industry survey that he was asked to carry out by Bristol-Myers on their quality assurance and quality control levels.</sentence>
+<sentence id="s193">He surveyed three other companies and compared them to Bristol-Myers.</sentence>
+<sentence id="s194">The other three companies that he surveyed were Sigma, Parke-Davis and Pfizer.</sentence>
+<sentence id="s195">Mr Williams also said that his consulting experience at Herron, Parke-Davis and PharmAction and his experience when he was a quality assurance manager and a quality control manager were matters to which he turned his mind when considering staffing levels.</sentence>
+<sentence id="s196">Mr Williams said that he turned his mind to the staff levels in the quality assurance department in each of Herron Pharmaceuticals, Parke-Davis, PharmAction and Sigma.</sentence>
+<sentence id="s197">Section 2 of the GMP Report 
+ 
+62 Section 2 of the GMP Report deals with " Quality Assurance And Quality Control Staffing Levels ".</sentence>
+<sentence id="s198">The questions put to Mr Williams in relation to that aspect were as follows:
+ 
+ 
+ 3.</sentence>
+<sentence id="s199">Would your report have included recommendations regarding measures relating to staffing levels in the quality control department?</sentence>
+<sentence id="s200">If so: 
+ 
+ 
+ 
+ 
+ (a) identify the steps that you would have recommended be taken; and
+ (b) explain why those steps would have been recommended.</sentence>
+<sentence id="s201">
+ 
+ 
+ 
+ 
+ 4.</sentence>
+<sentence id="s202">If the answer to question 3 is affirmative, please indicate (giving reasons) whether the steps you would have recommended be taken would have included any action in relation to any of the matters set out below: 
+ 
+ 
+ 
+ 
+ (a) Any mechanisms by which Selim would be kept informed as to whether Pan was employing adequate members of staff to carry out the testing required by the GMP Code (eg by reports, meeting or minutes).</sentence>
+<sentence id="s203">(b) Employing mechanisms such as "key ratio" systems.</sentence>
+<sentence id="s204">(c) Any investigating or reporting obligations that were appropriate for Mr Elia [Quality Assurance Manager] in relation to the adequacy of Pan's quality control resources.</sentence>
+<sentence id="s205">(d) The number of staff to be employed for testing raw materials, process controls, finished products, stability and validation.</sentence>
+<sentence id="s206">(e) Actions upon identifying any deficiency in the number of staff.</sentence>
+<sentence id="s207">
+ 
+ 
+ 
+ 
+ In answering the above question with reference to each of the particular matters (a) to (e): 
+ 
+ 
+ 
+ 
+ &#8226; If in your opinion an action would have been taken, please describe that action and the reasons for it.</sentence>
+<sentence id="s208">&#8226; If in your opinion no action would have been taken, please explain why.</sentence>
+<sentence id="s209">
+ 
+ 
+ 
+ 
+
+63 Section 2 of the GMP Report begins as follows:
+ 
+ Paragraph 48: My report would have included recommendations regarding measures relating to staffing levels in the quality control department.</sentence>
+<sentence id="s210">Paragraph 49: With respect to the staffing levels within the Quality Assurance area and Quality Control laboratories I would advise that the QA and QC groups were significantly understaffed for the rate of new products being introduced, and the number of raw materials/finished products being tested each month.</sentence>
+<sentence id="s211">The basis for my opinion is primarily the range of activities required under the [Code], the large production/testing throughput and the large volume of existing products having to be maintained compared to the low number of staff employed within the QA/QC departments and in comparison to industry norms.</sentence>
+<sentence id="s212">
+ 
+ 
+ 
+ 
+
+The GMP Report then sets out recommendations as follows:
+ 
+ Paragraph 49.1: ... An external consultancy should conduct a full analysis of the resource requirements for both the QA department and the QC testing laboratory, matched to the volume of new products being introduced and the number of batches of raw materials and finished products being tested and maintained ...
+ 
+ Paragraph 49.2: ...</sentence>
+<sentence id="s213">The external consultancy should establish key ratios ... for the resource loads and Pan management should use these ratios for future QA/QC budgeting purposes ...
+ 
+ Paragraph 49.3: ...</sentence>
+<sentence id="s214">The QA Manager should re-introduce monthly reporting by the QA Manager to the General Manager and ensure that those monthly reports include key ratio metrics on such items as testing throughput, backlogs, constraints and resource requirements.</sentence>
+<sentence id="s215">... 
+ 
+ Paragraph 49.4: ...</sentence>
+<sentence id="s216">In the event that the laboratory and/or the QA Manager could not meet their requirements the General Manager should confer with the CEO in regard to provision of more permanent staff, a pool of contract staff or out-sourcing work to qualified contract testing laboratories.</sentence>
+<sentence id="s217">...
+ 
+
+Clearly enough, the recommendations made by Mr Williams are in response to the specific matters referred to in Question 4.</sentence>
+<sentence id="s218">64 The GMP Report then proceeds to say why those steps would have been recommended.</sentence>
+<sentence id="s219">He says that, in relation to the staffing levels within the quality assurance and quality control laboratories, he had the following concerns:
+ 
+ Paragraph 50.1: There is no formal system for assessing or matching resource levels to the workloads in the QA and QC departments.</sentence>
+<sentence id="s220">...
+ 
+ Paragraph 50.2: In relation to laboratory staffing levels the number of staff in my opinion was inadequate for the required workload ... 
+ 
+ Paragraph 50.3: In relation to quality assurance staffing levels have I two concerns regarding the effective functioning of the Quality Assurance Department, based on its resource levels:
+ 
+ 
+ 
+ (a) in my opinion there are insufficient QA staff to adequately complete the expected responsibilities of the department ...
+ 
+ (b) The introduction of new products regularly, and the resources required for maintenance of existing products, would make it extremely difficult, in my opinion, to effectively maintain the products in compliance with the [Code] and registration obligations ... 
+ 
+ 
+ 
+
+65 Section 2 ends with the observation that the matter of staffing levels was "rated a major deficiency" because the resource levels for the Quality Assurance Department ( the QA Department ) and the Quality Control laboratory (the QC Laboratory ) were not matched to the resource requirements and therefore did not comply with cll 302 and 802 of the Code.</sentence>
+<sentence id="s221">Mr Williams quoted extracts from cll 302 and 802, which relevantly require that key personnel should be "adequate in number" and that provision for the management of quality should include "an adequately staffed laboratory".</sentence>
+<sentence id="s222">However, no criteria for adequacy are stated in the Code.</sentence>
+<sentence id="s223">66 In the Extracts Document for the GMP Report, the Liquidators set out the opinions of Mr Williams that they seek to have admitted pursuant to s 79 of the Evidence Act .</sentence>
+<sentence id="s224">In relation to Section 2 of the GMP Report, the first opinion is the following statement in the GMP Report:
+ 
+ Paragraph 50.1(c): Based on the information I have reviewed there is no key ratio reporting system for the laboratory so, in my opinion, it would be very difficult for the General Manager or CEO to be assured that the staffing levels were governed properly to the volume of work.</sentence>
+<sentence id="s225">Since QA and QC activities are often seen as an operating overhead it is important to have metrics in place to justify resource levels.</sentence>
+<sentence id="s226">
+
+There appear to be two statements of opinion in that extract as follows:
+ 
+&#8226; It would be very difficult for the general manager or chief executive officer to be assured that the staffing levels were properly governed by the volume of work; and
+ 
+&#8226; It is important to have metrics in place to justify resource levels.</sentence>
+<sentence id="s227">The balance of the extract appears to be part of the reasoning leading to those opinions.</sentence>
+<sentence id="s228">67 The Extracts Document endeavours to explain Mr Williams' reasoning as follows:
+ 
+&#8226; The Code requires quality assurance and quality control staffing to be adequate;
+ 
+&#8226; At least a certain number of tests must be conducted on each batch of products and, at most, a certain number of batches can be tested by any one analyst in any one day, so that the main factor in terms of adequacy of staff is volume of production.</sentence>
+<sentence id="s229">&#8226; Examples of key ratios include the following:
+ 
+ 
+ &#61863; number of tests required and completed per analyst per week;
+ &#61863; average labour hours required and expended per test;
+ &#61863; backlog tracking;
+ &#61863; number of quality assurance staff per product/annum; 
+ 
+
+&#8226; Mr Williams has not seen any such system in the material provided to him in relation to Pan;
+ 
+&#8226; It would therefore be difficult to ensure that "staffing levels were governed properly to the volume of work".</sentence>
+<sentence id="s230">68 In one sense, the first opinion leads nowhere.</sentence>
+<sentence id="s231">The Liquidators did not put forward the statement contained in para 49, which is set out above, as an opinion of Mr Williams upon which they would rely.</sentence>
+<sentence id="s232">That statement was that the quality assurance and quality control groups were significantly understaffed for the rate of new products being introduced and the number of raw materials/finished products being tested each month.</sentence>
+<sentence id="s233">The present absence of key ratios is simply a mechanism whereby one determines the adequacy of staff level.</sentence>
+<sentence id="s234">69 The second opinion in the Extracts Documents from Section 2 of the GMP Report is the following:
+ 
+ Paragraphs 50.2 and 50.2(b):
+ 
+ In relation to laboratory staffing levels the number of staff in my opinion was inadequate for the required workload.</sentence>
+<sentence id="s235">In my opinion both the QA and the QC staffing levels were well below industry norms, even allowing for a mix of complementary and registered medicines.</sentence>
+<sentence id="s236">
+
+Different reasoning is advanced in relation to quality assurance staffing levels, on the one hand, and quality control staffing levels, on the other hand.</sentence>
+<sentence id="s237">70 As regards quality control staffing levels, the reasoning is said to be as follows:
+ 
+&#8226; The normal functions of a QC Laboratory include a number of activities.</sentence>
+<sentence id="s238">&#8226; According to the Statement of Assumptions, the number of employees in quality control, which means a combination of quality assurance and quality control staff, was fourteen as at December 2001.</sentence>
+<sentence id="s239">&#8226; According to the Statement of Assumptions, the laboratory needed to test somewhere between 1,100 and 1,700 batches per month.</sentence>
+<sentence id="s240">&#8226; As a minimum, no less than five tests would normally be conducted on any batch on average and, accordingly, a reasonable estimate of the number of tests would be around 7,000 per month.</sentence>
+<sentence id="s241">&#8226; On the assumption that there were approximately eight laboratory staff, every analyst had to test up to 200 lots per month or up to ten per day: if each lot or batch required five tests, that amounted to 50 tests per day or 6 per hour.</sentence>
+<sentence id="s242">&#8226; The staff levels in the laboratory must have been grossly inadequate to handle the testing volume required: in running laboratories analysts generally manage at best three to four batches per day.</sentence>
+<sentence id="s243">&#8226; Therefore, key personnel responsible for managing and supervising manufacture, quality assurance and quality control were not adequate in number.</sentence>
+<sentence id="s244">71 The only question of opinion that is contained in the reasoning and the conclusion is the assertion that analysts generally manage at best three to four batches per day.</sentence>
+<sentence id="s245">Mr Williams asserts that conclusion is based on studies that he has previously conducted relating to laboratory staffing loads and on his experience.</sentence>
+<sentence id="s246">However, he does not identify in the GMP Report those studies or the particular experience that gives rise to that opinion.</sentence>
+<sentence id="s247">72 As regards quality assurance staffing levels, the reasoning appears to be as follows:
+ 
+&#8226; Pan had a quality assurance staff of no more than three people, including the quality assurance manager.</sentence>
+<sentence id="s248">&#8226; According to cl 805 of the Code, the QA Department is responsible for a number of separate tasks.</sentence>
+<sentence id="s249">&#8226; Pan had a library of over 4,000 products, each of which required quality assurance approvals, oversight and maintenance of product related documents.</sentence>
+<sentence id="s250">&#8226; It is usual for a QA Department with a large portfolio of products to have subordinate managers for:
+ 
+ 
+ (i) master batch records and specifications maintenance,
+ (ii) compliance and internal auditing,
+ (iii) complaints management,
+ (iv) change control/validation oversight,
+ (v) failure investigations, deviations and corrective actions, and
+ (vi) release for supply offices plus clerical and technical assistance.</sentence>
+<sentence id="s251">
+ 
+
+&#8226; The QA Department would need somewhere between seven to ten staff to manage and maintain the product portfolio effectively.</sentence>
+<sentence id="s252">&#8226; The introduction of a new product, even if it is a variation of an existing product, required at least some twelve separate steps.</sentence>
+<sentence id="s253">&#8226; It would take two to three full time quality assurance staff just to manage the documentation associated with that activity.</sentence>
+<sentence id="s254">&#8226; Given the number of subordinate managers required to deal with the activities referred to above and the number of staff required to deal with the activity connected with the introduction of a new product, the staffing levels of the QA Department were inadequate.</sentence>
+<sentence id="s255">73 The gravamen of the reasoning is that Pan needed a group of subordinate managers.</sentence>
+<sentence id="s256">No specific or concrete examples are given of the use of such managers by companies comparable to Pan.</sentence>
+<sentence id="s257">The assertion is not susceptible of testing.</sentence>
+<sentence id="s258">74 The third opinion in the Extracts Document from Section 2 of the GMP Report is as follows:
+ 
+ Paragraphs 50.2(e) and (h): 
+ ...as a minimum no less than about five tests would normally be conducted on any batch on average; analysts generally manage a best [three to four] batches per day.</sentence>
+<sentence id="s259">
+
+The Liquidators say that that opinion is based on studies conducted by Mr Williams in relation to staffing loads and on his experience.</sentence>
+<sentence id="s260">However, as I have already said, the studies and the particular experience are not identified in the GMP Report.</sentence>
+<sentence id="s261">75 The Liquidators assert that Mr Williams' opinion concerning the number of tests that would normally be conducted and the number of batches that could be managed by an analyst per day is based on Mr Williams' specialised knowledge of such matters.</sentence>
+<sentence id="s262">They say that such knowledge is based on his experience in working in and running laboratories and in preparing resource budgets, his experience in consulting to companies in relation to their laboratory operations and a specific study he has conducted of four pharmaceutical manufacturers, which involved assessing their level of staffing relative to their level of production.</sentence>
+<sentence id="s263">76 The GMP Report says that it is normal industry practice for functional departments, such as the QA Department and the QC Laboratory, to report formally to a general manager on a regular basis, usually monthly.</sentence>
+<sentence id="s264">In a subsequent affidavit, Mr Williams says that, in his experience, around eighty percent of manufacturing companies have such a practice in place.</sentence>
+<sentence id="s265">However, he does not identify any such company.</sentence>
+<sentence id="s266">77 The GMP Report also states that the level of staff in Pan's QA Department and its QC Laboratory was below "industry norms" and that high numbers of staff were required to cope with the volume of tests and the documentation that needed to be maintained.</sentence>
+<sentence id="s267">However, the GMP Report says nothing of the so called industry norms.</sentence>
+<sentence id="s268">In his later affidavit Mr Williams says that that: 
+ 
+ I formed this opinion based on my experience as a manager of QA/QC departments where I was required to prepare resource budgets, based on my experience in reviewing the operations of QA/QC departments as part of consulting with a number of manufacturers of complementary medicines and [over-the-counter] products, such as Herron Pharmaceuticals and Pharmaction, and based on a survey conducted by SeerPharma of [three to four] manufacturers in 2004 to ascertain their levels of staffing relative to their level of production.</sentence>
+<sentence id="s269">
+
+ Significantly, the results of the survey were not produced and the manufacturers were not identified.</sentence>
+<sentence id="s270">78 The next opinion extracted from the Section 2 of the GMP Report is as follows:
+ 
+ Paragraph 50.3(a): ...there are insufficient QA staff to adequately complete the expected responsibilities of the department ... the number of QA staff resourced to [the responsibilities of the QA department under cl 805 of the Code] was inadequate.</sentence>
+<sentence id="s271">...</sentence>
+<sentence id="s272">It is usual for a QA department with a large portfolio of products to have sub-ordinate managers for: 
+ 
+ 
+ (i) master batch records and specifications maintenance;
+ (ii) compliance and internal auditing;
+ (iii) complaints management;
+ (iv) change controls/validation oversight;
+ (v) failure investigations, deviations and corrective actions; and
+ (vi) release for supply officers plus clerical and technical assistants.</sentence>
+<sentence id="s273">
+ 
+ 
+ My best estimate, based on my experience in running and consulting to QA departments, is that the QA department would need somewhere between [seven to ten] staff to effectively manage and maintain the product portfolio.</sentence>
+<sentence id="s274">
+
+79 The Liquidators say that Mr Williams' reasoning, as disclosed in the GMP Report, is as follows:
+ 
+&#8226; He started with the assumption that Pan had a quality assurance staff of no more than 3 people, including the quality assurance manager.</sentence>
+<sentence id="s275">&#8226; He identified the range of tasks for which the QA Department is responsible.</sentence>
+<sentence id="s276">&#8226; It is usual for a QA Department to have a series of subordinate managers to deal with those tasks.</sentence>
+<sentence id="s277">&#8226; The QA Department would need between 7 and 10 staff to maintain the portfolio, in addition to the current 2 to 3 staff, and around 6 subordinate managers of the type identified in paragraphs (i) --- (vi) quoted above.</sentence>
+<sentence id="s278">80 The next opinion extracted by the Liquidators from the GMP Report is as follows:
+ 
+ Paragraph 50.3(b): The introduction of new products regularly, and the resources required for maintenance of existing products, would make it extremely difficult, in my opinion, to effectively maintain the products in compliance with the [Code] and registration obligations.</sentence>
+<sentence id="s279">For example the introduction of a new product, even if it is a variation of existing product, requires at least the following steps:
+ [(i) --- (xii)]
+ ...it would take [two to three] fulltime QA staff just to manage the documentation associated with this activity.</sentence>
+<sentence id="s280">
+
+ The same comments are applicable to this opinion as I have made above concerning the opinion that staffing levels are below industry norms.</sentence>
+<sentence id="s281">81 The Liquidators say that the reasoning in support of that opinion involves the following:
+ 
+&#8226; Identifying the range of tasks involved in the development of new products and those in respect of which the QA Department must provide oversight or sign-off.</sentence>
+<sentence id="s282">&#8226; Identifying the staffing levels typical in industry to manage the documentation involved with introduction of new products.</sentence>
+<sentence id="s283">&#8226; Therefore, it would be very difficult to perform the necessary QA tasks in relation to the introduction of new products, on the basis of the assumed staffing levels at Pan.</sentence>
+<sentence id="s284">They point to the evidence contained in Mr Williams' subsequent affidavit, as to his training, study or experience, upon which his claimed specialised knowledge is based.</sentence>
+<sentence id="s285">However, it is significant that Mr Williams refers to no specific staffing levels in relation to any particular company with which he has had experience.</sentence>
+<sentence id="s286">While that may not be fatal to the admissibility of his opinion, it goes very much to the weight of the evidence, if it were admitted.</sentence>
+<sentence id="s287">82 The Extracts Document also refers to Mr Williams' conclusion that, in paragraph 52 of the GMP Report, the deficiencies in staffing levels to which he refers constituted a "major deficiency".</sentence>
+<sentence id="s288">The Liquidators say that the classification of deficiencies in complying with GMP involves the application of specialised knowledge regarding the possible consequences and risks attached to the deficiency and the assessment of the significance of those risks.</sentence>
+<sentence id="s289">The Liquidators again point to Mr Williams' subsequent affidavit as to his training, study and experience as the basis for his specialised knowledge on which the opinion is based.</sentence>
+<sentence id="s290">Section 1 of the GMP Report 
+ 
+83 Section 1 is concerned with " Authority of the Quality Assurance Manager" .</sentence>
+<sentence id="s291">It follows the structure of Section 2, as outlined above.</sentence>
+<sentence id="s292">The opinions extracted by the Liquidators are as follows:
+ 
+ Paragraph 37.2(b): ...it is normal industry practice for functional departments such as the QA department and QC laboratories to formally report to a General Manager on a regular basis, usually monthly.</sentence>
+<sentence id="s293">The purpose of this is to ensure clear, traceable and regular communication to senior management of activities, risks and issues.</sentence>
+<sentence id="s294">Paragraph 40.2: The [standard operating procedures] that describe position descriptions for the QA and QC Managers do not sufficiently define their levels and authority and reporting relationships to demonstrate the independence of the person in charge of Quality Control on the TGA licence.</sentence>
+<sentence id="s295">...the effect of this deficiency is that the authority of the QA Manager is insufficiently clear and [that] he could be bypassed in decisions relating to independently evaluating product quality and the testing of raw materials and finished products.</sentence>
+<sentence id="s296">Paragraph 41: Compliance rating: Critical Deficiency...
+ 
+
+84 The Liquidators acknowledge that the first opinion has no explicit reasoning to support it.</sentence>
+<sentence id="s297">The GMP Report does not identify any specific expertise or furnish any particulars of standards generally observed in the industry.</sentence>
+<sentence id="s298">The Liquidators point to assertions in Mr Williams' later affidavit that, in his experience, around 80% of manufacturing companies have such a practice in place.</sentence>
+<sentence id="s299">He says that the manufacturing companies that do not have that practice are usually smaller and exchange information informally.</sentence>
+<sentence id="s300">However, no particular companies are identified and no explanation is given as to how the figure of 80% was arrived at.</sentence>
+<sentence id="s301">Mr Williams asserted in cross-examination that his assertions were based on his auditing experience and his consulting experience.</sentence>
+<sentence id="s302">85 Mr Williams identifies particular features that are absent from relevant standard operating procedures as a result of which he says there was no separation between those having authority for production and for quality.</sentence>
+<sentence id="s303">However, the so called opinion is an assertion about Pan's job descriptions, in terms that they "do not sufficiently define ... levels and authority and reporting relationships", without specifying any standard of which the job descriptions fall short.</sentence>
+<sentence id="s304">86 The conclusion that there is a "critical deficiency" is simply a conclusion without reference to any other instance of a company that has exhibited a critical deficiency.</sentence>
+<sentence id="s305">Sections 3 and 4 of the GMP report 
+ 
+87 These sections deal with "Internal Audits" and "Training" respectively.</sentence>
+<sentence id="s306">They follow the format of Sections 1 and 2.</sentence>
+<sentence id="s307">The opinions extracted by the Liquidators are as follows:
+ 
+ Paragraph 61.1: The SOP... covering internal audits is grossly inadequate and lacks any details regarding processes and corrective actions.</sentence>
+<sentence id="s308">For example, in my experience in an SOP setting out internal audit programs there are usually details of sequential audits steps [sic] such as:
+ (a) planning;
+ (b) conducting the audit;
+ (c) classifying observations/Write up of report;
+ (d) debrief auditee and agree corrective actions; and
+ (e) follow up or verification of closure.</sentence>
+<sentence id="s309">Paragraph 64.1: ...the effect of this deficiency ... is that the existing audit program would not be effective, particularly in relation to implementing corrective actions and prevention of re-occurrence of compliance problems.</sentence>
+<sentence id="s310">Paragraphs 64.2(b): There are a number of observations (in the internal audit reports) that would be rated either as critical or major under the TGA definitions for GMP non-compliances [seven matters were then set out]...
+ 
+ Paragraph 64.3(b): The company makes liquids, creams and softgel caps all of which may be susceptible to microbiological contamination.</sentence>
+<sentence id="s311">Paragraph 65: Compliance Rating: Major Deficiency...
+ 
+ Paragraph 73.1: ...the training programs for induction, GMP principles and SOPs lack structure and effectiveness.</sentence>
+<sentence id="s312">...the effect of this deficiency is that [Pan] does not have assurance that all GMP related employees are effectively training to carry out their tasks.</sentence>
+<sentence id="s313">Paragraph 73.2(b): ...the SOP training program did not have any system for assessment of skill or knowledge transfer to operators.</sentence>
+<sentence id="s314">Paragraph 73.2(e): There was a computerised GMP program...</sentence>
+<sentence id="s315">The value of this product is dependent on the English literacy of the employee and the utilisation of the assessments to identify those staff who lack understanding of GMP principles.</sentence>
+<sentence id="s316">Paragraph 73.2(f): ...three key indicators of inadequate training in the workplace, in part, would be: 
+ 
+ 
+ (i) significant manufacturing deviations;
+ (ii) repeated out of specification test results; and
+ (iii) multiple observations of non-compliance during QA audits.</sentence>
+<sentence id="s317">
+ 
+ 
+ 
+ Paragraph 73.2: ...the effect of this deficiency (ie in relation to assessing effectiveness of training) is that [Pan] does not have assurance that all GMP related employees are effectively trained to carry out their tasks.</sentence>
+<sentence id="s318">Paragraph 73.3(b): The training requirements for such a workforce are significant and ... would require detailed co-ordination ... the training requirements vary depending on the company, the job requirement and the department, however, they can be approximated as follows:
+ 
+ [Estimates for the number of written procedures for a position, the number of training events per annum and the time for each training event were then set out.</sentence>
+<sentence id="s319">]
+ 
+ Therefore the volume of training management per annum would be approximately two full time personnel.</sentence>
+<sentence id="s320">Paragraph 73.3(c): The training requirements include the following --- training schedules, training events, assessments and records/evidence of training.</sentence>
+<sentence id="s321">Each of these require [sic] management oversight and co-ordination.</sentence>
+<sentence id="s322">
+
+88 The Extracts Document does not go beyond stating that the opinion is based on Mr Williams' specialised knowledge regarding training practices and his specialised knowledge regarding the elements of a training program.</sentence>
+<sentence id="s323">It may be that Mr Williams has experience that would enable him to say what is normally done in pharmaceutical companies carrying on a business similar to that of Pan.</sentence>
+<sentence id="s324">It is not apparent from the GMP Report what that experience is.</sentence>
+<sentence id="s325">89 In his subsequent affidavit, Mr Williams says that, in his experience, around 90% of the SOPs relating to internal audit all contain most of the steps he identifies as missing from Pan's SOPs.</sentence>
+<sentence id="s326">He says that, in the case of large companies, they almost always contain all or most of those steps.</sentence>
+<sentence id="s327">He says that the manufacturing companies that do not have that practice are usually smaller and exchange information informally (paragraph 74(c)).</sentence>
+<sentence id="s328">90 No explanation is given as to how the figure of 90% was reached and Mr Williams concedes that some of the steps he refers to are not contained in such unidentified SOPs.</sentence>
+<sentence id="s329">Significantly, Mr Williams does not address the fact that the TGA audit of Pan carried out in May 2002 found no difficulty with Pan's SOPs and found that Pan's operators were conversant with the SOPs.</sentence>
+<sentence id="s330">Sections 5, 6 and 7 of the GMP Report 
+ 
+91 These sections deal respectively with:
+ 
+&#8226; Reporting Procedures Regarding Compliance with GMP and Conditions of Licence;
+ 
+&#8226; Further Systems, Procedures, Polices and Practices Regarding Compliance with the Code and the Conditions of Pan's Licence; and
+ 
+&#8226; Implementation of Validation Master Plan.</sentence>
+<sentence id="s331">92 The substance of the opinions expressed in Section 5 is that it is a critical deficiency not to employ a trend register or other quality metric.</sentence>
+<sentence id="s332">Mr Williams provides no identification of other companies who maintained trend registers as at May 2002 or what is covered by such a register.</sentence>
+<sentence id="s333">93 Section 6 is concerned with:
+ 
+&#8226; product complaints,
+ 
+&#8226; deviations and investigations,
+ 
+&#8226; introduction of new products, and
+ 
+&#8226; potential contamination.</sentence>
+<sentence id="s334">Mr Williams say that the reason for focussing on those four areas is that they are areas where "ineffective controls" could most likely result in the release of "defective product" to the market place or the failure to identify released products that "could merit recall action".</sentence>
+<sentence id="s335">94 The opinions in the Extracts Document in relation to Section 6 are as follows:
+ 
+ Paragraph 88.3: The nature and profile of the complaints in many instances indicated significant production control and/or formulation problems (eg metal fragments, odour, changed overages, mould, leaking capsules, foreign substances, missing results or results failing specifications).</sentence>
+<sentence id="s336">
+
+The Extracts Document acknowledges that the reasoning is not expressly set out in the GMP Report and that the opinion is implicitly based on Mr Williams' awareness of the likely causes of particular types of product complaints which, it is said, is in turn based on his experience in investigating such complaints.</sentence>
+<sentence id="s337">However, the conclusion is simply not shown to be based on any particular experience and a complete absence of reasoning makes the opinion worthless.</sentence>
+<sentence id="s338">95 Subsequently, the GMP Report contained a notation that the failure to ensure all product related complaints were routed via the QA Department for investigation was a major deficiency.</sentence>
+<sentence id="s339">The GMP Report also asserts that the following constituted a critical deficiency:
+ 
+ 
+ Paragraph 90.2 (a) The structure of the master manufacturing instructions did not allow for nominated variations to excipients for listed products but this was a common practice...
+ (b) There have been instances of substitutions and changes to formulation (addition of non registered raw materials) without application to the TGA for prior approval of those changes...
+ (c) There was [a] common practice within Pan whereby the composition of batches were altered from the (registered) formulation under the deviation system.</sentence>
+<sentence id="s340">(d) ...the system for approving changes and deviations is not in compliance with [the Code] in that it was not mandatory for the QA manager to pre-approve changes to formulae...
+ 
+ 
+ 
+ Paragraph 92.2: [The following matters constitute a major deficiency:] 
+ 
+ 
+ (a) ...except for soft gel there does not appear to be any step that includes trial batches to verify the suitability for manufacture or validation of the proposed formulation and process steps as required by clause 6.11 of [the Code];
+ (b) ...there is no consideration of stability studies to verify nominated shelf life at the point of introduction of a new product...</sentence>
+<sentence id="s341">The TGA requires that the manufacture or sponsor hold evidence of stability of products at the time of registration or listing and availability of this evidence is a condition of release for supply...
+ (c) ...there was no description or account of how test methods would be validated as part of a new product introduction.</sentence>
+<sentence id="s342">(d) There did not appear to be any consideration of the potential impact of a new product on the cleaning of common equipment.</sentence>
+<sentence id="s343">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+96 The Extracts Document boldly asserts that the opinions are based on Mr Williams' specialised knowledge of "the likely causes of particular types of product complaints", "the possible consequences attaching to these practices' and 'the risks attaching to deficiencies".</sentence>
+<sentence id="s344">The GMP Report makes no effort to identify the particular training, study or experience on which the so-called specialised knowledge is based other than his general experience described already.</sentence>
+<sentence id="s345">97 Section 7 is Mr Williams' assessment of alleged deficiencies in implementing a recommended validation plan.</sentence>
+<sentence id="s346">The Extracts Document identifies the following opinions:
+ 
+ Paragraph 107.4: ...validation activity is resource intensive.</sentence>
+<sentence id="s347">Paragraph 107.5: ...validation is a core compliance requirement and the site supports over 4,000 products --- this workload would easily justify the appointment of a full time resource group headed by a validation officer.</sentence>
+<sentence id="s348">It is most likely this officer would need support resources such as protocol writer(s) and clerical assistants.</sentence>
+<sentence id="s349">Paragraph 109: In my experience the TGA directed industry to the Pharmaceutical Inspection Cooperation Scheme (PIC/S) guidance for validation called "Validation Master Plan --- Installation and Operational Qualification, non sterile process validation and cleaning validation".</sentence>
+<sentence id="s350">The TGA was a member of the PIC/S Scheme and supported the guidelines introduced by PIC/S.</sentence>
+<sentence id="s351">The PIC/S [Validation Master Plan] document was adopted by PIC/S in December 1998 and brought into force in March 1999.</sentence>
+<sentence id="s352">In my experience, TGA auditors generally applied the principles in that document to the industry as a means of interpreting [the Code] requirements for validation.</sentence>
+<sentence id="s353">Paragraph 110.7: ...the effect of certain changes [made by Dr Brennan around March 2002 to Pan's consultants draft validation report] was: 
+ 
+ 
+ (a) a significant weakening of the initial intent of the [second] draft document, which had previously addressed the requirements to the PIC/S Guidance Document...
+ (b) a reduction in the level of testing or verification associated with process validation...
+ (c) a reduction in the oversight required to be provided by the QA manager... 
+ 
+ 
+ 
+ Paragraph 111: The final Pan [Validation Master Plan] although still well constructed, in general has a number of specific weaknesses which would, in my opinion, impair effective implementation.</sentence>
+<sentence id="s354">Many of these weaknesses were introduced at the final draft by Dr Brennan's changes.</sentence>
+<sentence id="s355">[The identified weaknesses are then set out]
+ The effect of this deficiency and the removal of some requirements is that the validation program, its coverage and scheduled completions may not be achieved.</sentence>
+<sentence id="s356">One key effect is that new products and significant changes to existing products do not automatically fall under consideration for validation.</sentence>
+<sentence id="s357">Given that new products were regularly introduced... it is highly likely that many products would be in commercial manufacture without validation support under the requirements of the [Validation Master Plan].</sentence>
+<sentence id="s358">Paragraph 113: [There were a] significant number of manufacturing deviations, changes to formulations, incidents of raw material and finished product being out of specifications, and complaints from customers/sponsors over the previous three years.</sentence>
+<sentence id="s359">These four factors are, in my opinion, reliable indicators of the effectiveness of in-process controls and therefore process validations... End point testing, on a limited number of samples, has been shown to not be effective in assuring safety, efficacy or purity of pharmaceutical products.</sentence>
+<sentence id="s360">Paragraph 115: ...the failure of the Validation Master Plan and programs to address in sufficient detail the requirements for computer validation, process validation, validation of changes and validation of new product introduction [is a] Major Deficiency.</sentence>
+<sentence id="s361">
+
+98 The Extracts Document asserts that Mr Williams has specialised knowledge of the range of tasks involved in a validation program and that this specialised knowledge is based on his extensive experience in developing, implementing and reviewing validation programs and is experience in training in relation to validation.</sentence>
+<sentence id="s362">99 In relation to the assertions in paragraph 109 concerning the pharmaceutical inspection to operation scheme, the Extracts Documents says that that material is factual evidence admissible apart from s 79 of the Evidence Act .</sentence>
+<sentence id="s363">However, it is no more than bald assertion about what TGA did or did not do.</sentence>
+<sentence id="s364">If the TGA "directed industry" as the GMP Report asserts, that can be proved.</sentence>
+<sentence id="s365">The assertion is no more than a conclusion based on unidentified primary facts.</sentence>
+<sentence id="s366">The Deficiencies of the GMP Report 
+ 
+100 The Liquidators assert that the GMP Report goes to a counterfactual scenario based on Mr Selim's being a person who should have been aware of the matters pleaded in the Statement of Claim and who accordingly should have called in a person such as Mr Williams to conduct a full GMP audit and prepare a corrective action plan.</sentence>
+<sentence id="s367">The Liquidators refer specifically to paragraph 72 of the Statement of Claim.</sentence>
+<sentence id="s368">101 Mr Selim complains that the GMP Report, however, is not premised on paragraph 72.</sentence>
+<sentence id="s369">Rather, it is premised on the 49 pages of the Statement of Assumptions and 9 volumes of documents, which go well beyond paragraph 72 and have taken the Liquidators four years to compile.</sentence>
+<sentence id="s370">102 The GMP Report and the further affidavits affirmed by Mr Williams furnish no evidence of what a full GMP audit or corrective action plan customarily looked like in May 2002.</sentence>
+<sentence id="s371">While Mr Williams asserted in cross-examination that he had conducted 72 audits in his career, many with multiple repeats, he did not produce in answer to a subpoena any audit reports that looked anything like the GMP Report.</sentence>
+<sentence id="s372">103 Mr Williams and SeerPharma failed to produce, in answer to subpoenas, any documents that would demonstrate whether Mr Williams had relevant expertise in providing the sort of report he was asked to assume that he had been retained to provide in May 2002.</sentence>
+<sentence id="s373">If Mr Williams had provided a full GMP audit and corrective action plan for a company in Australia in an industry similar to Pan in the years prior to May 2002, there should have been no difficulty in identifying the client and the approximate date upon which the plan or audit was provided.</sentence>
+<sentence id="s374">The inference is clearly open that Mr Williams never did such work and that the conclusionary statements in Mr Williams' curriculum vit&aacute;e, mask Mr Williams' lack of relevant expertise to express the opinions contained in the GMP Report.</sentence>
+<sentence id="s375">104 None of the documents produced in answer to subpoenas is similar to what a GMP compliance audit at May 2002 or any other relevant time would have looked like.</sentence>
+<sentence id="s376">Even if it be accepted that the purpose of the GMP Report was not to produce a counterfactual audit report, but to indicate the deficiencies that would have been identified if an audit had been conducted and the corrective action that would have been recommended, the Court could not conclude with any safety or specificity what Mr Williams would have found or recommended, particularly in circumstances where he was comprehensively assisted by the written work and consultative assistance of solicitors and counsel for the Liquidators.</sentence>
+<sentence id="s377">Mr Williams had never previously produced anything similar in size or scope to the GMP Report for a company that resembles Pan.</sentence>
+<sentence id="s378">He had never produced anything during the relevant period that took the extraordinary amount of time that the GMP Report took to produce and that required the background assistance of four years of legal work and subsequent consultation with lawyers.</sentence>
+<sentence id="s379">105 Mr Williams accepted in cross-examination that a usual GMP audit report would:
+ 
+&#8226; Involve spending between one to three days at the premises of the client;
+ 
+&#8226; Be conducted on a sampling basis, as opposed to looking at every single document and process;
+ 
+&#8226; Be turned around, back to the client, within a week or, at most, two weeks;
+ 
+&#8226; Not be settled in consultation with lawyers;
+ 
+&#8226; Would not be based on carefully compiled assumptions about the history of the company; and
+ 
+&#8226; Would not be assisted by the provision of voluminous documents on the company.</sentence>
+<sentence id="s380">In contrast, the GMP Report took about 15 or 16 days of full time work over a period of four to five months, involved at least five lengthy meetings with lawyers at which the content of the report was discussed and was assisted by the provision of ten volumes of documents concerning Pan.</sentence>
+<sentence id="s381">106 Mr Williams indicated that a particular report that he furnished to Morgan Grenfell, which was produced in answer to a subpoena, had similarities with the way he normally conducted audit reports.</sentence>
+<sentence id="s382">The substance and length of the Morgan Grenfell report is entirely different from the GMP Report.</sentence>
+<sentence id="s383">The Morgan Grenfell report related to a company called MediHerb.</sentence>
+<sentence id="s384">In the Morgan Grenfell report, the TGA view of MediHerb at the relevant time was considered central to the audit.</sentence>
+<sentence id="s385">107 The GMP Report does not purport to be a full GMP audit or corrective action plan.</sentence>
+<sentence id="s386">Rather it is a series of answers to the highly specific and leading questions posed by the solicitors for the Liquidators.</sentence>
+<sentence id="s387">Mr Williams was led to provide answers to highly specific questions as to the actions that the Liquidators assert should have been taken.</sentence>
+<sentence id="s388">The questions go into such detail as, for example, employing "key ratio" mechanisms, making recommendations about internal audits, what a written training program should address and what reporting procedures for the QA manager should be established.</sentence>
+<sentence id="s389">108 Nowhere in the GMP Report, which Mr Williams took months to prepare and which was based on assumptions that took the Liquidators' legal team years to generate, does Mr Williams identify an actual example of an industry company, similar to Pan or otherwise, that followed or did not follow what Mr Williams identified as norms or practices.</sentence>
+<sentence id="s390">His opinions therefore are virtually incapable of being tested.</sentence>
+<sentence id="s391">109 The Liquidators also seek to rely on the GMP Report for identification of the following:
+ 
+&#8226; The GMP standards applicable to a business such as Pan's in May 2002,
+ 
+&#8226; Standards of practice for the conduct of the operations of pharmaceutical manufacturing companies such as Pan as at May 2002, and
+ 
+&#8226; Deficiencies in Pan's systems and operations, by reference to those standards.</sentence>
+<sentence id="s392">110 However, Mr Williams does not identify any independent body of GMP standards generally observed by businesses like Pan's, other than the Code.</sentence>
+<sentence id="s393">Rather, much of the GMP Report represents Mr Williams' conclusions as to whether standards in the Code were breached.</sentence>
+<sentence id="s394">Of necessity, that involves either the construction of the Code or the application of the Code to the facts that Mr Williams was asked to assume.</sentence>
+<sentence id="s395">They are roles for the Court and not for opinion evidence.</sentence>
+<sentence id="s396">Even if opinion evidence as to those matters might strictly, so long as s 79 were satisfied, be admissible under s 80 of the Evidence Act , the evidence would have little, if any, weight.</sentence>
+<sentence id="s397">111 Even if the construction of the Code were something on which expert evidence were required, because of technical or scientific ambiguity or some particular technical or scientific usage, Mr Williams does not address such matters in the GMP Report.</sentence>
+<sentence id="s398">In particular, the GMP Report contains no statement of Mr Williams' view of the interpretation of the Code, in so far as that might be different from its meaning in ordinary English.</sentence>
+<sentence id="s399">There is no reference to any particular experience on the part of Mr Williams where the Code has been interpreted in a particular way different from its meaning in ordinary English and there is no reference to any general body of opinion on the interpretation of the Code.</sentence>
+<sentence id="s400">There are merely assertions that Pan has breached the Code.</sentence>
+<sentence id="s401">At its highest, the GMP Report represents a statement by Mr Williams of what he now says he would have concluded, had he been furnished, in or before May 2002, with the Statement of Assumptions and the nine volumes of documents.</sentence>
+<sentence id="s402">112 For opinion evidence of Mr Williams to be afforded any weight, it would be necessary to demonstrate that he has had broad experience in the types of matters under consideration and has been called upon to perform the tasks about which he expresses opinions or that he has scientifically researched such tasks.</sentence>
+<sentence id="s403">It would be necessary to show how his experience and specialised knowledge in the particular field forms a basis for his opinion.</sentence>
+<sentence id="s404">113 An example is Mr Williams' treatment of key ratios.</sentence>
+<sentence id="s405">Mr Williams outlines what he considers to be relevant key ratio indicators.</sentence>
+<sentence id="s406">He refers to the Code, implying that the Code requires a key ratio system.</sentence>
+<sentence id="s407">The Code does not mention such a concept.</sentence>
+<sentence id="s408">The GMP Report makes no suggestion that "key ratios" were matters considered by the industry at any time prior to May 2002.</sentence>
+<sentence id="s409">Those observations appear to be prompted by the specific question posed to Mr Williams by the Liquidators' solicitors.</sentence>
+<sentence id="s410">114 There is no suggestion in the GMP Report or in Mr Williams' affidavits that there is any single company in Australia that uses a key ratio system.</sentence>
+<sentence id="s411">There is no evidence of levels of staff in QA Departments or QC Laboratories at any other companies like Pan at the relevant time.</sentence>
+<sentence id="s412">There is no evidence about the effect, in terms of quality, of the testing done by different levels of staff.</sentence>
+<sentence id="s413">115 The most that can be gleaned from the GMP Report is that Mr Williams is of the opinion that key ratios are something to which a company should aspire.</sentence>
+<sentence id="s414">However, in the absence of some specific indication that key ratios were employed in the industry prior to May 2002 and the way in which they were employed by comparable businesses, that opinion has no weight.</sentence>
+<sentence id="s415">Neither the GMP Report nor Mr Williams' affidavits afford any means of testing his opinions as to how many people Pan should have employed and what impact any deficiency would actually have had on the products manufactured by Pan.</sentence>
+<sentence id="s416">116 Mr Williams on several occasions uses phrases such as "industry norm" and asserts matters based on his "experience".</sentence>
+<sentence id="s417">However, neither the GMP Report nor Mr Williams' affidavits contain evidence of practices generally observed in the industry.</sentence>
+<sentence id="s418">No examples are given to demonstrate that there is any norm and Mr Williams does not at any time specifically identify any practice observed by any other company.</sentence>
+<sentence id="s419">After months of work, Mr Williams does not identify any specific company where the industry norms and practices to which he purports to refer were either observed or not observed.</sentence>
+<sentence id="s420">Mr Williams accepted that he did not spell out the actual basis of any of the claimed industry norms by reference to actual examples; nor did he identify a single occasion in his career where he had been confronted with any of the situations of which he wrote in the GMP Report.</sentence>
+<sentence id="s421">117 In cross-examination, Mr Williams accepted that the so called industry norm as to staffing levels was no more than the notion that the more work there is, the more people are needed in the laboratory, although automation can reduce the number of analysts needed.</sentence>
+<sentence id="s422">Nevertheless, Mr Williams purports to express opinions about the specific number of extra staff required, based on an alleged industry norm.</sentence>
+<sentence id="s423">Mr Williams gave examples, in the course of cross-examination, of the numbers of staff employed in the quality assurance departments of a number of companies engaged in the industry as follows:
+ 
+&#8226; Herron: "probably four, maybe five",
+ 
+&#8226; Parke-Davis: "approximately half a dozen",
+ 
+&#8226; PharmAction: "about four", and
+ 
+&#8226; Sigma: "probably half a dozen".</sentence>
+<sentence id="s424">118 Mr Williams was asked to assume, for the purposes of the GMP Report, that the Pan QA Department had two or three staff.</sentence>
+<sentence id="s425">Mr Williams was then asked what was the industry norm that he derived from his knowledge of the number of people at the four other companies.</sentence>
+<sentence id="s426">His response was that he would expect to see somebody controlling documentation, somebody controlling internal audit, somebody controlling invalidation, somebody looking at registration of the product and somebody sometimes looking after specification and looking after deviations and batch release.</sentence>
+<sentence id="s427">He acknowledged that no such industry norm was spelt out in the GMP Report.</sentence>
+<sentence id="s428">119 Mr Williams was then asked where in the GMP Report he identified the respects in which Pan did not meet that so called industry norm.</sentence>
+<sentence id="s429">Mr Williams then drew a distinction between quality assurance and quality control, suggesting that companies would have substantially more people in the QC Laboratory, which involved laboratory testing.</sentence>
+<sentence id="s430">Mr Williams then gave evidence as to his understanding of the numbers of staff in the quality control departments of other companies as follows:
+ 
+&#8226; Herron: "in excess of ten",
+ 
+&#8226; Parke-Davis: "probably twenty", and
+ 
+&#8226; PharmAction: "ranging between six and fifteen".</sentence>
+<sentence id="s431">Mr Williams accepted that none of those figures were included in the GMP Report.</sentence>
+<sentence id="s432">His explanation was that he was not sure it was necessary to do so.</sentence>
+<sentence id="s433">120 Mr Williams was then directed to one of the Assumptions that he had been asked to make, namely that Pan had 18 people in the laboratory in addition to the quality assurance manager and the quality control manager.</sentence>
+<sentence id="s434">The assumption was that approximately 5 staff members undertook raw materials testing, 9 staff members undertook in-process controls, 1 or 2 staff members undertook finished product testing and 2 staff members undertook stability testing.</sentence>
+<sentence id="s435">The assumption also went on to state that the number of staff employed in the laboratory was never assessed or determined by reference to any form of key ratio system or any other system based on how many products Pan produced.</sentence>
+<sentence id="s436">121 Mr Williams was asked, in the light of that assumption, what was the industry norm from which he derived the number of people needed in the QC Laboratory as of May 2002.</sentence>
+<sentence id="s437">His response was that it would depend on the level of activity in the business, in relation to the number of batches they were testing or releasing.</sentence>
+<sentence id="s438">He said that it in a QC Laboratory the number of analysts is dependant upon the volume of work, so it would vary from company to company.</sentence>
+<sentence id="s439">That led to his acceptance of the proposition that the industry norm was no more than that the more work there was the more people were needed in the laboratory, subject to the level of automation.</sentence>
+<sentence id="s440">122 The Liquidators say that the gist of Mr Williams' opinion was that, although he refers to "the industry norm", Pan simply did not have sufficient staff to meet its workload.</sentence>
+<sentence id="s441">Nevertheless, for the reasons already indicated, the GMP Report does not demonstrate how the allegedly specialised knowledge on which that opinion is said to be based is based on any specific or particular training, study or experience of Mr Williams.</sentence>
+<sentence id="s442">There is no indication in the GMP Report of any quantifiable technical or scientific analysis that would assist the Court in identifying the industry norms referred to by Mr Williams.</sentence>
+<sentence id="s443">The various bases for the industry norms or practices to which Mr Williams refers are no more than a most general rule of thumb, unconstrained by any specific actual or practical experience on the part of Mr Williams.</sentence>
+<sentence id="s444">123 The Liquidators respond to the criticism of Section 2 of the GMP Report by suggesting that the GMP Report provides cogent reasons for the adoption of a key ratio system.</sentence>
+<sentence id="s445">They rely on the proposition that s 79 of the Evidence Act does not preclude an expert from generalising from experience in forming an opinion, so long as the expert possesses specialised knowledge and the opinion is wholly or substantially based on that knowledge.</sentence>
+<sentence id="s446">The expert does not need to identify individual examples in support of an opinion for that to be so.</sentence>
+<sentence id="s447">Be that as it may, the absence of specific examples in support of an opinion will go to the weight that should be afforded to the opinion.</sentence>
+<sentence id="s448">124 The evidence of the GMP Report is not based on the fields of expertise described above, such as hard science, applied science or one of the social sciences.</sentence>
+<sentence id="s449">Nor is it the result of particular education or learning.</sentence>
+<sentence id="s450">Rather, it is based only on the experience of the witness.</sentence>
+<sentence id="s451">125 There may be admissible opinion evidence within the GMP Report.</sentence>
+<sentence id="s452">However, substantial parts of the GMP Report consist of impermissible interpretation of the Code, and reproduction of the detailed assumptions that Mr Williams was asked to make and the voluminous supporting documents with which he was provided, which are prejudicial and of little weight.</sentence>
+<sentence id="s453">Neither Mr Selim nor the Court should be required to spend time extracting admissible evidence in the GMP Report in circumstances where it was produced four months after the date fixed by the Court, without any approach on behalf of the Liquidators to the Court for an extension of time or explanation for the blatant failure to comply with the Court's direction.</sentence>
+<sentence id="s454">In fact, the GMP Report was produced some 15 months after the Court first gave directions about its filing.</sentence>
+<sentence id="s455">On the earlier occasions when it was apparent that the Liquidators were unable to comply with the Court's directions, the time for compliance was extended.</sentence>
+<sentence id="s456">It is now apparent that Mr Williams had not even been instructed until well after the expiry of the time originally fixed.</sentence>
+<sentence id="s457">126 Having regard to the argumentative nature of the GMP Report and the leading nature of the questions posed for Mr Williams' opinion, it should be given little weight of its own.</sentence>
+<sentence id="s458">It would be unfair for Mr Selim to have to cross-examine on the GMP Report in its current form, thereby running the risk of eliciting answers that may have greater weight than the GMP Report itself.</sentence>
+<sentence id="s459">127 The GMP Report is cast in highly prejudicial terms from Mr Selim's point of view, apart from the prejudice arising from its late provision.</sentence>
+<sentence id="s460">Any admissible opinion evidence in the GMP Report is of such equivocal weight and would generate such further hearing time that I do not consider that any inconvenience or detriment from its rejection outweighs the inconvenience and unfairness involved for Mr Selim in preparing to answer the GMP Report at this stage.</sentence>
+<sentence id="s461">In the circumstances, to the extent that there is admissible evidence in the GMP Report, I would reject it under s 135 of the Evidence Act .</sentence>
+<sentence id="s462">128 Nevertheless, the GMP Report appears to represent a substantial part of the case that the Liquidators seek to mount against Mr Selim, albeit not in an admissible form as evidence.</sentence>
+<sentence id="s463">Accordingly, while I would reject the GMP Report as evidence, it could possibly constitute a substantial submission on behalf of the Liquidators.</sentence>
+<sentence id="s464">If the material in the Statement of Assumptions is established by admissible evidence, a great deal of the work of counsel for the Liquidators will have been done by the GMP Report.</sentence>
+<sentence id="s465">That observation itself emphasises the defects of so called opinion evidence in a form such as the GMP Report.</sentence>
+<sentence id="s466">THE REMEDIATION COSTS REPORT 
+ 
+129 Following the provision of the GMP report, Mr Williams was asked to answer several additional questions in respect of the recommendations set out in the GMP Report.</sentence>
+<sentence id="s467">In response, Mr Williams provided the Remediation Costs Report of 10 October 2007.</sentence>
+<sentence id="s468">The Liquidators seek to rely on the Remediation Costs Report as evidence of the equipment, consultancy and other matters likely to be required to satisfy the recommendations in the GMP Report and the quantum of the cost of the equipment, consultancy and other matters.</sentence>
+<sentence id="s469">130 In respect of each of the additional questions, Mr Williams was asked what he would have advised in the report to Pan had he been asked, in or about June 2002, to provide further details on the conclusions set out in the GMP Report.</sentence>
+<sentence id="s470">131 The further questions posed to Mr Williams were as follows:
+ 
+ 
+ 1.</sentence>
+<sentence id="s471">To the extent that you have made a recommendation to the effect that Pan should engage an external party to provide some service, please estimate: 
+ 
+ 
+ 
+ 
+ (a) the anticipated cost range which would have been incurred by Pan had it complied with your recommendation; and
+ (b) the anticipated cost range of any related or ongoing cost, further to the identified at 1(a),which you anticipate Pan would incur through following your recommendation and, if appropriate, the intervals at which any such ongoing cost would be incurred.</sentence>
+<sentence id="s472">
+ 
+ 
+ 
+ 
+ 2.</sentence>
+<sentence id="s473">To the extent that you have made a recommendation to the effect that Pan should purchase equipment or should carry out or commission any infrastructure work in relation to the site, please estimate: 
+ 
+ 
+ 
+ 
+ (a) the anticipated cost range of capital expenditure and any related costs which would have been incurred by Pan had it complied with your recommendation; and
+ (b) the frequency at which such equipment would need to be replaced, or the frequency and anticipated cost range of any ongoing infrastructure work in relation to the site.</sentence>
+<sentence id="s474">
+ 
+ 
+ 
+ 
+ 3.</sentence>
+<sentence id="s475">To the extent that you have made a recommendation to the effect that Pan should hire any additional staff, please: 
+ 
+ 
+ 
+ 
+ (a) provide details of the role to be filled;
+ (b) advise whether the role would be full time or part time, estimating the anticipated number of hours per week the person completing the role would be engaged
+ (c) advise whether the role relates to a temporary or permanent position; and
+ (d) if the role is for a temporary position, define the duration of the role.</sentence>
+<sentence id="s476">
+ 
+ 
+ 
+ 
+
+132 The Remediation Costs Report consists of estimates of costs in relation to the following separate matters:
+ 
+&#8226; Commission and external expert to rewrite all quality assurance related procedures to bring them into line with the current GMP.</sentence>
+<sentence id="s477">&#8226; Rewrite management and job descriptions and quality assurance procedures to reflect separation of authority and responsibility between quality assurance/quality control and production.</sentence>
+<sentence id="s478">&#8226; Establish quality metrics, trend analysis and a quality forum for regular reporting on GMP compliance and quality members and introduce a corrective action tracking system to verify closeout of problems.</sentence>
+<sentence id="s479">&#8226; Commission a study to evaluate what additional quality assurance and quality control resources are required.</sentence>
+<sentence id="s480">&#8226; Employ additional staff to ensure that such resources are available for the QA Department and QC Laboratory and introduce key ratio metrics to manage forward resource planning.</sentence>
+<sentence id="s481">&#8226; Commission a comprehensive independent external GMP and quality assurance compliance audit to establish a real base line of the gaps between current internal practices and the requirements of the Code and the TGA manufacturing principles.</sentence>
+<sentence id="s482">&#8226; Commission a literacy review of existing employees to identify those that may have difficulty understanding instructions or documenting records.</sentence>
+<sentence id="s483">&#8226; Commission a study to evaluate the additional training resources needed to deliver effective and compliant training.</sentence>
+<sentence id="s484">&#8226; Employ or internally appoint a dedicated training coordinator or manager to set up a structured training system.</sentence>
+<sentence id="s485">&#8226; Engage external expertise to deliver sustained GMP and quality assurance principles training.</sentence>
+<sentence id="s486">&#8226; Revise completely the customer complaints systems and introduce a searchable software based solution for managing and tracking complaints and their resolution.</sentence>
+<sentence id="s487">&#8226; Engage an independent pharmaceutical formulation expert to conduct a systematic review of all products manufactured over the last three years.</sentence>
+<sentence id="s488">&#8226; Commission an external GMP expert consultant/engineer to review the factory's potential for cross contamination of products.</sentence>
+<sentence id="s489">&#8226; Conduct a retrospective review of the training practices for all common equipment and revalidate cleaning effectiveness.</sentence>
+<sentence id="s490">&#8226; Appoint a validation officer and establish a dedicated validation team to implement validation programs.</sentence>
+<sentence id="s491">&#8226; Revise existing new product introduction procedures to include risk based process validation programs.</sentence>
+<sentence id="s492">133 The Remediation Costs report contains Mr Williams' estimate of costs, either on a one off or annual basis for each of those items.</sentence>
+<sentence id="s493">The Liquidators rely on s 79 only in respect of those estimates.</sentence>
+<sentence id="s494">That is to say, in relation to each of the items, the Liquidators rely on Mr Williams' opinion as to the range of costs in respect of each recommendation.</sentence>
+<sentence id="s495">134 The Liquidators support the admission of the Remediation Costs Report on the basis that, where Mr Williams has recommended an external service provider be retained, the costing is based upon Mr Williams' estimate of the hours required to complete that task and his knowledge of the prevailing daily rates.</sentence>
+<sentence id="s496">Where Mr Williams has recommended that additional staff be employed, the costing is based upon Mr Williams' recommendation as to the number of position and level of staff to be employed.</sentence>
+<sentence id="s497">The Liquidators say that there is no reason to find that Mr Williams' experience does not equip him to estimate the totality, in circumstances where Mr Williams has prepared the costing for the activities set out in most of the sections at some point, including for Herron and PharmAction.</sentence>
+<sentence id="s498">135 None of Mr Williams' evidence discloses expertise in the area of costs estimates so as to support the opinions contained in the Remediation Costs report.</sentence>
+<sentence id="s499">Mr Williams gives no example of ever having done a similar exercise himself.</sentence>
+<sentence id="s500">He accepted in cross-examination that he has never previously been called upon to cost a corrective plan of the magnitude he suggests.</sentence>
+<sentence id="s501">The detail of the Remediation Costs Report effectively recommends rebuilding Pan from the ground up through complicated and extreme measures, with the assistance of numerous external consultants.</sentence>
+<sentence id="s502">The course suggested would take at least twelve months.</sentence>
+<sentence id="s503">No attention is given to the possible impact of those measures in the context of a listed company, which would require disclosure to ASX, investors and the TGA, or to the question of whether the other directors of Pan would have approved the course suggested.</sentence>
+<sentence id="s504">136 The first recommendation involves the complete redrafting of all procedures, which Mr Williams estimates would take between 5,000 and 6,500 man hours.</sentence>
+<sentence id="s505">There is no suggestion that such a project has ever been shown to have been undertaken or done before in any other company.</sentence>
+<sentence id="s506">The estimated cost is between $328,000 and $666,875.</sentence>
+<sentence id="s507">Mr Selim suggests that such a proposal should not be accepted by the Court, in circumstances where Mr Williams has neither performed a similar process nor given any example where a company was required to undertake such a vast quantity of work.</sentence>
+<sentence id="s508">137 In relation to the rewriting of procedures, Mr Williams states that his rationale for the recommendation is that the upgrade of the quality system needs to be outsourced rather than completed internally because he does not consider that the management of Pan had the depth of knowledge or demonstrated skills to bring Pan up to standard without external advice.</sentence>
+<sentence id="s509">He says that this view is based on the disrepair of the quality system itself, as set out in the GMP Report.</sentence>
+<sentence id="s510">138 In relation to the question of rewriting procedures, Mr Williams says that his estimate is based on the engagement of an external party consisting of a senior consultant, a team of technical writers and clerical administration support.</sentence>
+<sentence id="s511">He identifies the team as consisting of:
+ 
+&#8226; Four technical writers,
+ 
+&#8226; A senior consultant,
+ 
+&#8226; A clerical contact administrator, and
+ 
+&#8226; An experienced trainer.</sentence>
+<sentence id="s512">139 However, there is nothing in the Remediation Costs Report to explain the basis upon which that estimate is derived from any particular training, study or experience on the part of Mr Williams.</sentence>
+<sentence id="s513">While the estimates of Mr Williams as to rates of particular personnel may be admissible, his conclusions and opinions as to what would be entailed can be afforded little weight.</sentence>
+<sentence id="s514">140 In any event, the Remediation Costs Report cannot stand without the GMP Report.</sentence>
+<sentence id="s515">Since I propose to reject the GMP Report, the Remediation Cost Report should also be rejected.</sentence>
+<sentence id="s516">THE CLARK REPORT 
+ 
+141 The Extracts Document produced by the Liquidators in respect of the Clark Report has an attachment entitled "Measures that were reasonably practicable to adopt".</sentence>
+<sentence id="s517">The attachment sets out numerous extracts from the Clark Report.</sentence>
+<sentence id="s518">The Liquidators say specifically that they do not rely on the Clark Report as evidence that the steps identified by Dr Clark were necessary, that failure to implement the steps showed a lack of care or skill or that it was common to implement the steps.</sentence>
+<sentence id="s519">The Liquidators propose that Dr Clark's evidence be admitted on the basis that it is evidence only of measures that were reasonably practicable to adopt and not as evidence of what ought to have been done or what a hypothetical reasonable officer would have done.</sentence>
+<sentence id="s520">142 As to whether measures were reasonably practicable, the Liquidators say that Dr Clark's specialised knowledge regarding whether or not measures are reasonably practicable is based on his experience as a senior executive officer of Faulding, with responsibility for Faulding's manufacturing operations, including its manufacture of complementary medicines and as chief executive officer of Pharmacia LBK Biotechnology and Biochrom.</sentence>
+<sentence id="s521">The Liquidators say that his knowledge is also based on his experience in observing the practices in place at Faulding prior to his appointment to the role of chief executive officer, in observing the practices in place at Faulding after he ceased that appointment and in observing the practices adopted at Cenovis and Golden Glow, which were also manufacturers of complementary medicines.</sentence>
+<sentence id="s522">143 While the questions posed to Dr Clark for the purposes of the Clark Report were different from those posed to Mr Williams, the substance of the areas covered by the questions was similar.</sentence>
+<sentence id="s523">The questions covered the seven aspects that were the subject of the allegations of breach by Mr Selim.</sentence>
+<sentence id="s524">Dr Clark's attention was drawn to specific matters, many of which corresponded with the matters that were the subject of the questions to Mr Williams.</sentence>
+<sentence id="s525">The introduction to the questions referred to the Statement of Assumptions and drew attention to defined terms in the Statement of Assumptions.</sentence>
+<sentence id="s526">The introduction pointed out that each of the questions refers to the conduct of a "reasonable officer" and said that by that expression the following was intended:
+ 
+ ...a person who exercises powers and discharges duties with the degree of care and diligence that a reasonable person in [Mr] Selim's position would if they:
+ 
+ (a) were a director or officer of a corporation in Pan's circumstances; 
+ 
+ 
+ (b) occupied the office held by [Mr] Selim and had the same responsibilities within Pan as [Mr] Selim had; and
+ (c) had the knowledge, experience and skills of [Mr] Selim.</sentence>
+<sentence id="s527">
+ 
+
+The introduction asserted that the questions were directed to the action that such "a Reasonable Officer would have take" during the period from March 2000 to April 2003.</sentence>
+<sentence id="s528">144 By way of example, the questions directed to Dr Clark concerning quality assurance and quality control staffing levels were as follows:
+ 
+ 
+ 3.</sentence>
+<sentence id="s529">Would a Reasonable Officer have taken any steps in relation to staffing levels for carrying out the testing required by [the Code] in relation to the products that Pan manufactured?</sentence>
+<sentence id="s530">If so: 
+ 
+ 
+ 
+ 
+ (a) please explain why, in your opinion, a Reasonable Officer would have taken steps in relation to this subject, identifying the relevant considerations; 
+ 
+ 
+ 
+ 
+ (b) identify the steps that would have been taken; and:
+ (c) explain why those steps would or should have been taken.</sentence>
+<sentence id="s531">4.</sentence>
+<sentence id="s532">Would a Reasonable Officer have taken any steps in response to the request for an increase in staff numbers from Mr Elia at the meeting of 22 November 2001 (referred to in paragraph 225 of the Assumptions)?</sentence>
+<sentence id="s533">If so: 
+ 
+ 
+ 
+ 
+ (a) please explain why, in your opinion, a Reasonable Officer would have taken steps in relation to this subject, identifying the relevant considerations;
+ (b) identify the steps that would have been taken; and
+ (c) explain why those steps would or should have been taken.</sentence>
+<sentence id="s534">
+ 
+ 
+ 
+ 
+ 5.</sentence>
+<sentence id="s535">Would a Reasonable Officer have taken any steps in response to becoming aware at any time within the Period that Pan did not employ an adequate number of staff to carry out the testing required by the GMP Code?</sentence>
+<sentence id="s536">If so: 
+ 
+ 
+ 
+ 
+ (a) please explain why, in your opinion, a Reasonable Officer would have taken steps in relation to this subject, identifying the relevant considerations;
+ (b) identify the steps that would have been taken; and
+ (c) explain why those steps would or should have been taken.</sentence>
+<sentence id="s537">
+ 
+ 
+ 
+ 
+ 6.</sentence>
+<sentence id="s538">If the answer(s) to questions 3, 4 and/or 5 is affirmative, please indicate (giving reasons) whether the steps a Reasonable Officer would have taken would have included any action in relation to any of the matters set out below: 
+ 
+ 
+ 
+ 
+ (a) Any mechanisms by which the CEO would be kept informed as to whether Pan was employing adequate numbers of staff to carry out the testing required by the GMP Code (eg, by reports, meeting or minutes).</sentence>
+<sentence id="s539">(b) Employing mechanisms such as "key ratio" systems.</sentence>
+<sentence id="s540">(c) Any investigating or reporting obligations that were appropriate for Mr Elia in relation to the adequacy of Pan's quality control resources.</sentence>
+<sentence id="s541">(d) The number of staff to be employed for testing.</sentence>
+<sentence id="s542">
+ 
+ 
+ 
+ 
+ In answering the above question with reference to each of the particular matters (a) to (d): 
+ 
+ 
+ 
+ 
+ &#8226; If in your opinion an action would have been taken, please describe that action and the reasons for it.</sentence>
+<sentence id="s543">&#8226; If in your opinion no action would have been taken, please explain why.</sentence>
+<sentence id="s544">
+ 
+ 
+
+145 Section 2 of the Clark Report, which deals with quality assurance and quality control staffing levels and responds to the four questions quoted above, consists of paragraphs 49 to 68.</sentence>
+<sentence id="s545">The Extract Document for the Clark Report contains extracts from paragraphs 51, 52, 54, 55, 56 and 58.</sentence>
+<sentence id="s546">In each case, however, the extract is cast in terms of what a reasonable officer "would" or "should" do.</sentence>
+<sentence id="s547">At no time does the Clark Report speak in terms of the reasonable practicability of particular measures.</sentence>
+<sentence id="s548">At no stage does the Clark report identify the criteria of practicability.</sentence>
+<sentence id="s549">Rather, it appears that the Liquidators invite the Court simply to conclude from Dr Clark's assertion that certain things should be done that those things were reasonably practicable.</sentence>
+<sentence id="s550">146 The Clark Report does not purport to be evidence of the matters upon which the Liquidators now seek to have it admitted.</sentence>
+<sentence id="s551">That is to say, before the substance of the Clark Report could be admitted for the limited purpose for which the Liquidators now seek to rely on it, it would have to be completely recast.</sentence>
+<sentence id="s552">It should not be admitted as evidence of something that it does not say.</sentence>
+<sentence id="s553">Dr Clark's Lack of Objectivity 
+ 
+147 Dr Clark has had a long involvement with the claims by the Liquidators.</sentence>
+<sentence id="s554">On 22 July 2003, well before the proceeding was commenced, the Liquidators' solicitors wrote to Dr Clark in connection with their investigation of a potential claim against Mr Selim.</sentence>
+<sentence id="s555">Dr Clark agreed to assess the conduct of Mr Selim and to provide a report to the Liquidator.</sentence>
+<sentence id="s556">Between August 2003 and November 2003 Dr Clark:
+ 
+&#8226; reviewed or considered information concerning Pan, including an outline of assumed facts, provided to him by the Liquidators' solicitors;
+ 
+&#8226; provided advice to the Liquidators' solicitors on the matters raised with him, including a draft opinion;
+ 
+&#8226; suggested questions for investigation relevant to the potential claim against Mr Selim;
+ 
+&#8226; provided the Liquidators' solicitors with the names of individuals with expertise in compliance with the Code.</sentence>
+<sentence id="s557">148 Between November 2003 and May 2004, Dr Clark provided his views, as requested, in respect of sections of a draft statement of claim and in respect of the standards that he considered that a reasonable chief executive officer in the position of Mr Selim would adhere to.</sentence>
+<sentence id="s558">He was provided with additional documents for review throughout the period and considered those documents in formulating his opinions at the time.</sentence>
+<sentence id="s559">149 The proceeding was commenced on 7 April 2004.</sentence>
+<sentence id="s560">Following service of the original statement of claim, the Liquidators' solicitors requested Dr Clark to commence work on the preparation of a report.</sentence>
+<sentence id="s561">In July 2004, they provided him with a copy of Mr Selim's request for particulars of the original statement of claim and asked him to review and discuss appropriate answers to certain of the requests.</sentence>
+<sentence id="s562">Dr Clark drafted a response.</sentence>
+<sentence id="s563">Between October 2004 and April 2005, Dr Clark worked on a draft report, which was to be used by the Liquidators' solicitors for the purposes of a mediation with Mr Selim that was to be conducted at the end of April 2005.</sentence>
+<sentence id="s564">150 Between May 2005 and May 2007, Dr Clark had no involvement with the proceeding.</sentence>
+<sentence id="s565">However, on 3 May 2007, he was retained by the Liquidators' solicitors to provide a report for the purpose of tendering it in the proceeding.</sentence>
+<sentence id="s566">It is significant, in the present context, that this occurred some 10 months after the Liquidators were first directed to file affidavits as to expert evidence.</sentence>
+<sentence id="s567">151 By letter of 7 May 2007, Dr Clark was provided with:
+ 
+&#8226; a list of questions with instructions concerning the questions;
+ 
+&#8226; the Statement of Assumptions;
+ 
+&#8226; ten volumes of documents referred to in the Statement of Assumptions;
+ 
+&#8226; Federal Court Guidelines for Expert Witnesses.</sentence>
+<sentence id="s568">The Statement of Assumptions was amended from time to time .</sentence>
+<sentence id="s569">152 Ultimately, Dr Clark produced the Clark Report dated 6 September 2007.</sentence>
+<sentence id="s570">He originally said, in an affidavit affirmed on 18 October 2007, that, although there was some overlap between documents provided to him prior to May 2005 and the documents provided to him in May 2007, in preparing the Clark Report he relied only on the material in the Statement of Assumptions.</sentence>
+<sentence id="s571">However, in the course of cross-examination, Dr Clark accepted that he "cut-and-pasted" many paragraphs of the earlier reports into the Clark Report.</sentence>
+<sentence id="s572">153 In 1998 and 1999 Dr Clark was the executive general manager of the health care consumer division of FH Faulding Pty Limited.</sentence>
+<sentence id="s573">In about 1998, Dr Clark visited Pan and met Mr Selim and Mr John Brennan in that capacity.</sentence>
+<sentence id="s574">The purpose of his visit was to obtain an overview of Pan's capabilities.</sentence>
+<sentence id="s575">He asserted in his affidavit that he did not rely on any observations he had made in dealings that he had had with Pan during that visit.</sentence>
+<sentence id="s576">Dr Clark also visited Pan's premises in November 2003 in connection with the retainer he had from the Liquidators at that time.</sentence>
+<sentence id="s577">He asserted in the affidavit that, for the purposes of the Clark Report, he did not rely on any discussions he had during that visit.</sentence>
+<sentence id="s578">154 Between August 2003 and May 2005, Dr Clark played the role of advising the Liquidators' solicitors on matters relevant to the claim, suggesting questions for further investigation and assisting in the drafting of the original statement of claim and responses to requests for particulars of the statement of claim.</sentence>
+<sentence id="s579">The drafts prepared by Dr Clark have been the subject of a claim for privilege by the Liquidators, such that the extent of his involvement is not capable of being fully tested.</sentence>
+<sentence id="s580">That is significant in circumstances where Dr Clark accepted that he relied on earlier draft reports prepared by him in preparing the Clark Report, which the Liquidators now seek to tender.</sentence>
+<sentence id="s581">155 Dr Clark says that he recognises that his primary duty is to the Court and to provide independent evidence such that no matters of significance that he regards as relevant have been withheld from the Court.</sentence>
+<sentence id="s582">On the other hand, he declines to reveal in his affidavit or give evidence as to the substance of the numerous prior communications that he has had with the Liquidators' solicitors in helping them to formulate their case against Mr Selim.</sentence>
+<sentence id="s583">It is well nigh impossible to test his credibility or reliability in circumstances where his role in the formulation of the case against Mr Selim is substantially unknown.</sentence>
+<sentence id="s584">156 Dr Clark accepted that, by 13 August 2003, he had provided to the Liquidators a draft report that was critical of Mr Selim in respect of a number of the areas that appear in the Clark Report and six or seven areas in which Mr Selim is said to have failed in his duty.</sentence>
+<sentence id="s585">Dr Clark was also the author of detailed schedules to the original statement of claim making serious allegations against Mr Selim.</sentence>
+<sentence id="s586">157 The prior involvement of Dr Clark in the preparation of the Liquidators' case against Mr Selim is not necessarily fatal to the admissibility of the Clark Report.</sentence>
+<sentence id="s587">However, in the light of Dr Clark's lack of independence and the insistence on professional privilege on the part of the Liquidators, it would be unfair to Mr Selim for Dr Clark's evidence to be before the Court.</sentence>
+<sentence id="s588">It cannot be properly tested.</sentence>
+<sentence id="s589">It should be afforded so little weight that its exclusion would not prejudice the Liquidators' case.</sentence>
+<sentence id="s590">Dr Clark's Lack of Specialised Knowledge 
+ 
+158 Mr Selim also complains about Dr Clark's report on several other bases.</sentence>
+<sentence id="s591">First, he says Dr Clark does not have the required degree of specialised knowledge of how an appropriate chief executive officer performs in a business equivalent to Pan's.</sentence>
+<sentence id="s592">Secondly, the format of the evidence given by Dr Clark is challenged.</sentence>
+<sentence id="s593">159 Dr Clark was never chief executive officer of a company equivalent to Pan.</sentence>
+<sentence id="s594">The highest position that he has held was head of division within Faulding but he was not chief executive officer.</sentence>
+<sentence id="s595">Dr Clark was never a member of the board of Faulding and did not have a direct line of reporting to the board of Faulding.</sentence>
+<sentence id="s596">There were many functions performed by Mr Selim, such as being responsible for investor relations, that were not performed by Dr Clark.</sentence>
+<sentence id="s597">Dr Clark frankly admitted that he was not experienced in dealing with the TGA.</sentence>
+<sentence id="s598">160 While Dr Clark conducted a consultancy from 1999 onwards, he did not identify any consultancy that brought him into direct contact with chief executive officers of pharmaceutical companies such as Pan, in a way that would enable him to observe the practices of such companies.</sentence>
+<sentence id="s599">Dr Clark accepted in cross-examination that he understood only a bit about the practices of chief executive officers and could not recall any specific discussion relating to GMP.</sentence>
+<sentence id="s600">He also conceded that he just did not know how chief executive officers facing similar situations to Mr Selim had in fact behaved in Australia at the relevant time.</sentence>
+<sentence id="s601">He could not remember any of the specific practices of the two businesses, Cenovis and Golden Glow, that were acquired while he worked at Faulding.</sentence>
+<sentence id="s602">161 That lack of experience is recognised, in a sense, in Dr Clark's affidavit of 6 December 2007, in which the standards and practices of responsible senior executives are touched on rather than that of a chief executive officer .</sentence>
+<sentence id="s603">Dr Clark observed in that affidavit that, while at Faulding, he did not provide to the management of any rival company any details of the practices and procedures adopted within Faulding in relation to manufacturing operations and cannot recall being provided with such information by the management of any other company, other than in the context of an acquisition of that company by Faulding.</sentence>
+<sentence id="s604">162 Mr Selim also complains that the Clark Report does not satisfy the prerequisites of s 79 of the Evidence Act in that he does not set out material from which a conclusion could be drawn that Dr Clark's expressed opinions are wholly or substantially based on any specialised knowledge that he possesses.</sentence>
+<sentence id="s605">163 In a curriculum vitae attached to the Clark Report, Dr Clark asserts that his industry experience consists of: 
+ 
+ business and product development, organisation, commercialisation, marketing and manufacturing experience directly gained in the following areas: 
+ 
+ 
+ &#8226; Consumer products...
+ &#8226; Complementary medicine...
+ &#8226; Pharmaceuticals...
+ &#8226; Biotechnology and biologics...
+ &#8226; Clinical research organisation services
+ &#8226; Analytical instruments, sensors and control software and related services
+ &#8226; Bimolecular purification systems...
+ &#8226; Marine sciences and biodiversity
+ &#8226; Bulk chemicals, polymers, fine chemicals and reagents
+ &#8226; Training and education.</sentence>
+<sentence id="s606">
+ 
+ 
+ 
+
+The description is in highly general terms and does not disclose any experience that Dr Clark has actually had of companies similar to Pan.</sentence>
+<sentence id="s607">Nor does his report disclose how his opinions are based upon the experience described in those general terms.</sentence>
+<sentence id="s608">164 The Liquidators also seek to rely upon the affidavit of Dr Clark affirmed on 6 December 2007.</sentence>
+<sentence id="s609">In that affidavit, Dr Clark responded to a series of questions posed by the Liquidators' solicitors.</sentence>
+<sentence id="s610">In particular, paragraphs 48 to 55 of the affidavit contain Dr Clarks response to a request to "identify the range of general considerations that a reasonably competent and careful CEO ( or equivalent responsible senior executive ) would take into account, when making decisions regarding GMP and Quality Issues" (my emphasis).</sentence>
+<sentence id="s611">In addition, the Liquidators seek to rely on paragraphs 57 to 62 of Dr Clark's affidavit as evidence of the fact that senior executives of specific companies identified in the affidavit adopted the practices and procedures identified in the paragraphs at the relevant time.</sentence>
+<sentence id="s612">165 Paragraphs 56 to 62 of Dr Clark's affidavit purport to respond to a question in the following terms:
+ 
+ In your First Report, you describe steps which a Reasonable Officer would have taken on the Assumptions in relation to various areas of operation.</sentence>
+<sentence id="s613">With respect to each step identified below, do you have any basis for expressing a view as to the extent (if at all) the step was consistent with generally observed standards or practices (as at May 2002) amongst CEOs of pharmaceutical manufacturing companies: 
+ 
+ 
+ (i) The Reasonable Officer should require the QA Manager to report to the Reasonable Officer regularly in writing (Report, paragraph 26);
+ (ii) The Reasonable Officer must ensure that that there is a clear operational and management distinction between manufacturing, marketing and quality assurance (Report, paragraph 31);
+ (iii) The Reasonable Officer should ensure that all senior managers follow the directives and decisions of the QA Manager, and any disagreement with the QA Manager's decisions must be taken up in discussion with the Reasonable Officer together with the QA Manager (Report, paragraph 38);
+ (iv) The Reasonable Officer would require that the QA Manager held regular QA meetings with senior management, typically monthly (Report, paragraph 52);
+ (v) The Reasonable Officer would have reporting mechanisms in place, such as headcount key ratios, so that resource constraints could be identified, communicated, prioritised and addressed (Report, paragraph 53);
+ (vi) The Reasonable Officer would insist that the QC laboratory and batch records specifically were audited more than once a year and such audits would be unannounced (Report, paragraph 73);
+ (vii) The Reasonable Officer would ensure follow-up of internal audits, making sure that corrective actions have been taken and there is an improvement plan in place to remedy deficiencies (Report, paragraph 75);
+ (viii) The Reasonable Officer would ensure that there was a written GMP training program in place, and would require regular reporting on the training program (Report, paragraphs 98-99); and
+ (ix) The Reasonable Officer, faced with the information available to Mr Selim as at May 2002, would have engaged an external consultant to conduct a full GMP audit of the company, and to develop with the QA manager a plan for corrective action (Report, paragraph 181).</sentence>
+<sentence id="s614">
+ 
+
+166 For example, paragraph 56 is as follows:
+ 
+ I adopted the measures set out in paragraphs (i)-(viii) above at both the Salisbury and Mulgrave manufacturing plants during my time as head of the Development and Operations Unit of Faulding.</sentence>
+<sentence id="s615">I am aware that my predecessor in the equivalent role at Faulding... also adopted those practices prior to my appointment.</sentence>
+<sentence id="s616">
+
+167 The material contained in the affidavit of 6 December 2007 should not be admitted.</sentence>
+<sentence id="s617">It is no more than bald assertion by Dr Clark.</sentence>
+<sentence id="s618">It would have been possible for him to give evidence about what he actually observed in the particular companies to which he refers in his affidavit.</sentence>
+<sentence id="s619">Rather, the question to which paragraphs 56 to 62 are a response to pick up the language of the Clark Report.</sentence>
+<sentence id="s620">168 Thus, the first two steps identified in the question are:
+ 
+(i) The reasonable officer should require the QA manager to report to the reasonable officer regularly in writing;
+ 
+(ii) The reasonable officer must ensure that there is a clear operational and management distinction between manufacturing, marketing and quality assurance.</sentence>
+<sentence id="s621">Dr Clark's response, the bald assertion that he adopted the measures set out in those paragraphs, has no real weight at all.</sentence>
+<sentence id="s622">169 In relation to paragraphs 56 to 62 of Dr Clark's affidavit of 6 December 2007, Mr Selim makes the following complaints:
+ 
+&#8226; The assertions about the measures he adopted at Faulding are conclusionary in form.</sentence>
+<sentence id="s623">&#8226; There is no evidence of what in fact occurred and the assertions are general as to be incapable of being tested.</sentence>
+<sentence id="s624">&#8226; As to at least two of the eight matters that he says he adopted at Faulding, he cannot confirm whether they were maintained at Faulding after he left.</sentence>
+<sentence id="s625">&#8226; As to half of the matters, he cannot say whether they were in place at Cenovis and Golden Glow, which were acquired by Faulding.</sentence>
+<sentence id="s626">&#8226; Dr Clark accepts that he was never in fact faced with a situation involving information that he was asked to assume was faced by Mr Selim.</sentence>
+<sentence id="s627">&#8226; To the extent that Dr Clark says that he engaged consultants to prepare a GMP audit, he has produced no evidence of the form that the audit took.</sentence>
+<sentence id="s628">&#8226; Significantly, Dr Clark concedes that he was not in a position to observe whether chief executive officers of pharmaceutical companies outside the Faulding group observed any of the practices to which he refers and the matters were never raised in discussions with other chief executive officers.</sentence>
+<sentence id="s629">Thus, Mr Selim says, Dr Clark's evidence is mere conclusory assertion, incapable of being tested, about practices that were in place in Faulding up to 1999 and in part in place in two companies acquired by Faulding.</sentence>
+<sentence id="s630">Such evidence does not establish any industry norm or standard.</sentence>
+<sentence id="s631">There is great substance and merit in those complaints, which would be bases for rejection of the affidavit.</sentence>
+<sentence id="s632">170 I do not regard Dr Clark's report or his affidavit of 6 December 2007 as having any significant evidentiary weight on the limited basis upon which the Liquidators seek to have the material admitted.</sentence>
+<sentence id="s633">In order to test the assertions made by Dr Clark, it would be necessary for Mr Selim's counsel to spend an inordinate time in cross-examining Dr Clark as to the specific matters about which he makes broad generalisations.</sentence>
+<sentence id="s634">That is both unfair for Mr Selim and a substantial waste of time and costs, particularly in circumstances where the Clark Report was produced some four months and the affidavit some six months after the time fixed by the Court for the filing of expert evidence.</sentence>
+<sentence id="s635">CONCLUSION 
+ 
+171 To the extent that the Disputed Reports contain admissible evidence, they should be accorded very little, if any, weight.</sentence>
+<sentence id="s636">On the other hand, the admission of the Disputed Reports at this stage would be unfairly prejudicial to Mr Selim.</sentence>
+<sentence id="s637">In addition, substantial judicial and court time, involving substantial cost, would be occupied by the examination of the content of the Disputed Reports.</sentence>
+<sentence id="s638">Accordingly, in circumstances where the Liquidators failed to comply with the Court's explicit directions, I do not propose to admit the Disputed Reports, although I may, at an appropriate time, to a limited extent, admit them as submissions.</sentence>
+<sentence id="s639">I certify that the preceding one hundred and one-hundred and seventy-one (171) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Emmett.</sentence>
+<sentence id="s640">Associate: 
+
+Dated: 2 April 2008
+
+ Counsel for the Plaintiffs: Mr J Sheahan SC, Mr H Stowe, Mr S Nixon 
+ 
+ Solicitor for the Plaintiffs: Blake Dawson 
+ 
+ Counsel for the Defendant: Mr J Gleeson SC, Mr P Kulevski, Mr J A Watson 
+ 
+ Solicitor for the Defendant: McLachlan Thorpe Partners 
+ 
+ Counsel for the Commonwealth: Mr R J Webb SC, Mr D Brogan 
+ 
+ Solicitor for the Commonwealth: Australian Government Solicitor 
+ 
+ Dates of Hearing: 5, 6, 7, 10 and 11 December 2007 
+ 
+ Date of Last Submission: 7 February 2008 
+ 
+ Date of Judgment: 2 April 2008 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/416.html 
+ 
+ </sentence>
+</sentences>
+</case>

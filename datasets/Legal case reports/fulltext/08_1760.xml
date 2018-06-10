@@ -1,0 +1,970 @@
+<?xml version="1.0"?>
+<case>
+<name>Bing! Software Pty Ltd v Bing Technologies Pty Limited (No 1) [2008] FCA 1760 (25 November 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1760.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">trade marks</catchphrase>
+<catchphrase "id=c1">alleged infringement of s120 trade marks act 1995 (cth) by software enabled internet postal service</catchphrase>
+<catchphrase "id=c2">whether mark substantially identical or deceptively similar</catchphrase>
+<catchphrase "id=c3">whether goods or services in respect of which mark registered</catchphrase>
+<catchphrase "id=c4">nature of first respondent's business</catchphrase>
+<catchphrase "id=c5">nature of software</catchphrase>
+<catchphrase "id=c6">whether software incidental to service</catchphrase>
+<catchphrase "id=c7">effect of undertaking given during trial</catchphrase>
+<catchphrase "id=c8">trade marks</catchphrase>
+<catchphrase "id=c9">assessment of damages</catchphrase>
+<catchphrase "id=c10">whether damages at large applicable to trade mark infringement</catchphrase>
+<catchphrase "id=c11">whether wrongful conduct enough</catchphrase>
+<catchphrase "id=c12">whether applicant established damage</catchphrase>
+<catchphrase "id=c13">trade practices</catchphrase>
+<catchphrase "id=c14">whether breach of ss 52 and 53 trade practices act 1974 (cth) (tpa)</catchphrase>
+<catchphrase "id=c15">application of established principles</catchphrase>
+<catchphrase "id=c16">whether confusion transient and ephemeral</catchphrase>
+<catchphrase "id=c17">whether representation of sponsorship or approval</catchphrase>
+<catchphrase "id=c18">tort</catchphrase>
+<catchphrase "id=c19">wrongful passing off</catchphrase>
+<catchphrase "id=c20">whether applicant established elements pursuant to recognised principles</catchphrase>
+<catchphrase "id=c21">whether sufficient reputation in mark</catchphrase>
+<catchphrase "id=c22">likelihood of injury to business</catchphrase>
+<catchphrase "id=c23">intellectual property</catchphrase>
+<catchphrase "id=c24">intellectual property</catchphrase>
+<catchphrase "id=c25">intellectual property</catchphrase>
+<catchphrase "id=c26">intellectual property</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+ 1 Before me is an amended application filed on 20 November 2007.</sentence>
+<sentence id="s1">The applicant, BING!</sentence>
+<sentence id="s2">Software Pty Ltd ACN 079 281 197, claims:
+ 
+&#8226; trade mark infringement;
+ 
+&#8226; misleading or deceptive conduct pursuant to sections 52 and 53 Trade Practices Act 1974 (Cth) ("TPA"); and
+ 
+&#8226; passing off.</sentence>
+<sentence id="s3">2 For convenience, I will continue to refer to BING!</sentence>
+<sentence id="s4">Software Pty Ltd ACN 079 281 197 as "the applicant" in these proceedings, and Bing Technologies Pty Ltd ACN 098 420 903 and Mr Cranitch as "the respondents".</sentence>
+<sentence id="s5">BACKGROUND 
+ 
+3 Both the applicant and the first respondent are companies incorporated under the Corporations Act 2001 (Cth).</sentence>
+<sentence id="s6">The sole director of the applicant is Mr Emmanuel Theodosiou.</sentence>
+<sentence id="s7">At all material times Mr Cranitch was in effective control of the first respondent through his roles as managing director, secretary and Chief Executive Officer of the first respondent.</sentence>
+<sentence id="s8">Mr Cranitch, through an associated company, was also in control of a majority of the issued share capital of the first respondent.</sentence>
+<sentence id="s9">4 The applicant is the registered proprietor of Trade Mark 836622 with a priority date of 24 May 2000 ("the Bing Trade Mark").</sentence>
+<sentence id="s10">Registered Trade Mark 836622 is as follows:
+ 
+ 
+5 So far as is relevant in these proceedings the Bing Trade Mark is registered in respect of the following goods and services:
+ Class 9 Software for the legal profession and other industries and professions not limited in any way to a specific industry or commercial sector; Class 35 Distribution and sales of computer software.</sentence>
+<sentence id="s11">Class 42 Design of computer software; programming maintenance, upgrading and updating of computer software for the legal profession and other industries and professions not limited in any way to a specific industry or commercial sector... 
+6 The applicant commenced business in 1997 by marketing (primarily to law firms) and licensing a new Family Court document automation software package under the trade mark BING!</sentence>
+<sentence id="s12">.</sentence>
+<sentence id="s13">The Bing Trade Mark appears on the software (on-screen), on software user guides and on the footer of Family Court documents created using the software.</sentence>
+<sentence id="s14">The Bing Trade Mark and the word BING!</sentence>
+<sentence id="s15">are also used on the applicant's software and marketing material.</sentence>
+<sentence id="s16">7 The applicant maintains a website www.bing.com.au featuring the Bing Trade Mark, and since 1997 has also developed software products for various markets, all incorporating the word and following exclamation mark " BING!</sentence>
+<sentence id="s17">".</sentence>
+<sentence id="s18">The applicant lead evidence that its annual fees for the past three years have exceeded $350,000, and that it maintains a list of customers, with 1400 law firms having purchased BING!</sentence>
+<sentence id="s19">software since 1997.</sentence>
+<sentence id="s20">The applicant submits that currently more than 500 entities subscribe to its products.</sentence>
+<sentence id="s21">8 In his affidavit of 3 December 2007, Mr Cranitch deposed that the business of the first respondent was the provision of an internet protocol postal mail service.</sentence>
+<sentence id="s22">The nature of the business is that, by using the service, customers of the first respondent can route letters over the internet and have them printed and posted at points closest to the recipient, with the result that customers experience faster, cheaper and more efficient letter-based communications.</sentence>
+<sentence id="s23">Mr Cranitch deposed that the first respondent did not sell a product, rather it sold a service , and that it did not target legal firms as customers in any marketing or advertising.</sentence>
+<sentence id="s24">Mr Cranitch deposed further that approximately 90% of the first respondent's income was derived from posting invoices, statements and debt collection letters.</sentence>
+<sentence id="s25">9 The first respondent purchased the domain name www.bing.com for $US25,000 and had purchased the domain names www.easymail.com and www.easymail.com.au from third parties.</sentence>
+<sentence id="s26">The first respondent has also registered the domain name www.easypost.com.au .</sentence>
+<sentence id="s27">In relation to the use of hardware and software, Mr Cranitch deposed:
+ 
+&#8226; the client creates the relevant letter;
+ 
+&#8226; the first respondent provides a print driver called "mail room";
+ 
+&#8226; the driver is not sold, rather it is provided as a means to access the service;
+ 
+&#8226; most of the first respondent's clients use an older version of the print driver called EasyMail.</sentence>
+<sentence id="s28">10 The following logo appears prominently on the first respondent's website and on its products:
+ 
+ 
+11 The first respondent also uses the word "bing" in a variety of guises, including:
+ 
+&#8226; without a red arrow above the letter "i";
+ 
+&#8226; in a black rectangular box without the words "postal mail internet speed"; and
+ 
+&#8226; in the following forms: Bing and bing .</sentence>
+<sentence id="s29">12 These logos are set out later in the judgment.</sentence>
+<sentence id="s30">13 On 6 February 2007 the first respondent lodged an application for the trade mark "Bing" for classes 9, 16, 38 and 39, described as follows:
+ Class 9 --- electronic mail handling apparatus; electronic mail installations; electronic mail servers; electronic mail terminals; electronic mailing machines; stamping mail (apparatus to check).</sentence>
+<sentence id="s31">Class 16 --- machines for office use for moistening mail; machines for office use for opening mail; machines for office use for signing mail; machines for office use for stamping mail; machines for office use for wrapping mail; machines for office use in addressing mail; machines for office use in cancelling mail; machines for office use in closing mail; machines for office use in endorsing (franking) mail; mail inserting machines for office use; mail order catalogue; mailers (office machines); mailing labels; printed sheets of paper for mailing purposes.</sentence>
+<sentence id="s32">Class 38 --- data transmission by electronic mail; electronic mail; provision of electronic mail facilities.</sentence>
+<sentence id="s33">Class 39 --- forwarding of mail; franking of mail; mail forwarding.</sentence>
+<sentence id="s34">14 On 5 September 2007 the applicant lodged opposition to the granting of the trade mark registration to the first respondent.</sentence>
+<sentence id="s35">15 During the course of the hearing Mr Crowe SC for the respondents informed the court that he had received instructions from the first respondent to offer an undertaking to the court that the first respondent in relation to all references to the software the subject of the proceedings would not use the word "bing" when directly referring to that software in any documentation, on websites, or otherwise.</sentence>
+<sentence id="s36">Mr Crowe SC explained that the first respondent was not offering to change its name, but offered an undertaking that it would not refer to the software itself as "bing" nor any other combination of words using the word "bing" (TS 86 ll 18-25).</sentence>
+<sentence id="s37">I will consider this undertaking in more detail later in this judgment.</sentence>
+<sentence id="s38">CLAIM OF THE APPLICANT 
+ 
+16 In the Amended Application filed 20 November 2007 the applicant sought the following orders:
+ 
+1.</sentence>
+<sentence id="s39">A declaration that the conduct of the first respondent in using the name or sign "bing" and trading under the name or style in connection with the word "bing" with the distribution sale and supply of software within Australia:
+ 
+ 
+ (a) infringes the applicant's registered Trade Mark numbered 836622 BING!</sentence>
+<sentence id="s40">("the Bing Trade Mark");
+ (b) constitutes misleading and deceptive conduct or conduct which is likely to mislead and deceive in contravention of sections 52 and/or 53 of the Trade Practices Act 1974 ;
+ (c) constitutes a wrongful passing off by the first respondent of its goods or services for the goods or services supplied by the applicant.</sentence>
+<sentence id="s41">
+ 
+
+2.</sentence>
+<sentence id="s42">An order permanently restraining the first respondent, whether by itself, its servants, officers or agents from using within Australian the sign BING or any sign which is deceptively similar to the Bing Trade Mark as a sign in connection with the distribution, sale and supply of software.</sentence>
+<sentence id="s43">3.</sentence>
+<sentence id="s44">An order that the respondents deliver up to the applicant for destruction all marketing material in their possession or under their power or control in connection with the advertising and/or supply of the software which material uses or contains the Bing Trade Mark or any mark deceptively similar thereto and, to the extent that such material is stored in electronic form, that such material be permanently deleted and the respondent verify such delivery up or deletion by affidavit.</sentence>
+<sentence id="s45">4.</sentence>
+<sentence id="s46">An order that the first respondent forthwith change its corporate name to a name not incorporating the word Bing or any word deceptively similar thereto.</sentence>
+<sentence id="s47">5.</sentence>
+<sentence id="s48">An order that the first respondent transfer the registration of the domain name www.bing.com to the applicant.</sentence>
+<sentence id="s49">6.</sentence>
+<sentence id="s50">Damages:
+ 
+ 
+ (a) for infringement of the Bing Trade Mark;
+ (b) for passing off;
+ (c) pursuant to section 82 of the TPA.</sentence>
+<sentence id="s51">
+ 
+
+7.</sentence>
+<sentence id="s52">Further or other orders under section 87 of the TPA.</sentence>
+<sentence id="s53">8.</sentence>
+<sentence id="s54">Further and/or in the alternative to the relief sought in paragraph 6 above, at the option of the applicant, an account of profits made by the respondent by the said trade mark infringements and passing off and payment of the amount found to be due on the taking of such account.</sentence>
+<sentence id="s55">9.</sentence>
+<sentence id="s56">Interest under section 51A of the Federal Court Act 1976 .</sentence>
+<sentence id="s57">10.</sentence>
+<sentence id="s58">Costs.</sentence>
+<sentence id="s59">11.</sentence>
+<sentence id="s60">Such further or other orders as the Court thinks fit.</sentence>
+<sentence id="s61">17 In the Amended Statement of Claim filed 20 November 2007, the applicant pleaded in summary that:
+ 
+1.</sentence>
+<sentence id="s62">Both respondents had infringed the Bing Trade Mark.</sentence>
+<sentence id="s63">2.</sentence>
+<sentence id="s64">The applicant had not authorised either respondent to use the Bing Trade Mark or any sign or signs which were deceptively similar thereto in connection with the distribution, sale or supply of software.</sentence>
+<sentence id="s65">3.</sentence>
+<sentence id="s66">The first respondent had infringed the Bing Trade Mark in that it had:
+ 
+ 
+ o within Australia, distributed, sold and supplied software;
+ o since 2004, promoted, marketed, distributed and supplied software to businesses in Australia;
+ o used the Bing Trade Mark or a sign which was substantially identical or deceptively similar thereto in connection with its business;
+ o filed trade mark application 1189460 for Bing in classes 9, 16, 38 and 39;
+ o on 8 March 2007 changed its name from EasyPost Australia Pty Ltd to Bing Technologies Pty Ltd, and has changed the name of the office mail system from EasyPost to Bing;
+ o since March 2007 marketed and promoted the office mail system using material which prominently featured the word Bing as a sign, and identified the office mail as Bing on service agreements with customers.</sentence>
+<sentence id="s67">
+ 
+
+4.</sentence>
+<sentence id="s68">The conduct of the first respondent in infringing the Bing Trade Mark was, in summary, directed by Mr Cranitch.</sentence>
+<sentence id="s69">5.</sentence>
+<sentence id="s70">By reason of, inter alia , the use by the applicant of Bing Trade Mark and the promotion of the trade mark in connection with its business as pleaded in the Amended Statement of Claim, the conduct of the first respondent had caused members of the public to believe that the first respondent's business was conducted by or under the authority of, or was connected in the course of trade or commerce with, the applicant or had the sponsorship or approval of the applicant, and the first respondent had therefore infringed the exclusive rights conferred by registration of the Bing Trade Mark.</sentence>
+<sentence id="s71">6.</sentence>
+<sentence id="s72">By reason of, inter alia , the conduct of the first respondent in using the name "Bing" the first respondent had engaged in conduct in contravention of sections 52 and/or 53 TPA.</sentence>
+<sentence id="s73">7.</sentence>
+<sentence id="s74">By reason of , inter alia , the conduct of the first respondent in using the name "Bing" the first respondent had passed off and/or threatened to pass off:
+ 
+ 
+ o its business as and for the applicant's business or as and for a business which is related to, authorised by, licensed by, approved or sponsored by or associated with the applicant;
+ o the products offered for sale, sold and supplied by the first respondent as and for part of the applicant's goods and services;
+ o the said products as and for products offered for sale, sold and supplied by or under the authority of the applicant; and/or
+ o the said products as being approved by and/or associated with the applicant.</sentence>
+<sentence id="s75">
+ 
+
+8.</sentence>
+<sentence id="s76">The conduct of the first respondent had taken place at the direction of and with the authority of Mr Cranitch, had been carried out by Mr Cranitch, and was pursuant to a plan or design devised by Mr Cranitch.</sentence>
+<sentence id="s77">9.</sentence>
+<sentence id="s78">The first respondent had made profits from its wrongful acts and conduct.</sentence>
+<sentence id="s79">10.</sentence>
+<sentence id="s80">The applicant had requested the first respondent to cease such conduct but the first respondent had neglected, refused or failed to do so.</sentence>
+<sentence id="s81">11.</sentence>
+<sentence id="s82">Mr Cranitch had aided, abetted, counselled or procured the conduct of the first respondent or had been knowingly concerned in or a party to the conduct of the first respondent, and was a person involved in the passing off and contraventions of the TPA.</sentence>
+<sentence id="s83">12.</sentence>
+<sentence id="s84">The applicant had sustained loss and damage by reason of the conduct of the respondents and would, unless such acts and conduct were restrained, continue to suffer loss and damage.</sentence>
+<sentence id="s85">DEFENCE 
+ 
+18 While the respondents in the Amended Defence filed 19 November 2007 admitted that the first respondent had used and continued to use the word "Bing" in the course of its business, it otherwise denied the substance of the applicant's allegations.</sentence>
+<sentence id="s86">In summary, the respondents:
+ 
+1.</sentence>
+<sentence id="s87">Contended that the first respondent was in the business of supplying mailing services, including distributing and supplying software called EasyPost.</sentence>
+<sentence id="s88">2.</sentence>
+<sentence id="s89">Denied that they were selling software.</sentence>
+<sentence id="s90">3.</sentence>
+<sentence id="s91">Said that the word "Bing" was used by the first respondent in connection with mail services and not in respect of the classes of goods or services of the Bing Trade Mark.</sentence>
+<sentence id="s92">4.</sentence>
+<sentence id="s93">Denied that the word "Bing" was substantially identical or deceptively similar to the Bing Trade Mark.</sentence>
+<sentence id="s94">5.</sentence>
+<sentence id="s95">Denied that either respondent had infringed the Bing Trade Mark.</sentence>
+<sentence id="s96">6.</sentence>
+<sentence id="s97">Denied that the first respondent required any authority, sponsorship or approval from the applicant.</sentence>
+<sentence id="s98">7.</sentence>
+<sentence id="s99">Denied that the respondents had engaged in any conduct in breach of ss 52 or 53 TPA or passing off on the basis that, inter alia :
+ 
+ 
+ &#8226; the first respondent's business was in a different area of commerce to the business of the applicant;
+ &#8226; other trade marks and companies used the word "Bing" in the same, similar and other areas of commerce to the business of the applicant, so the public were not likely to be misled or deceived by the respondents' use of the word "Bing";
+ &#8226; there is a commonly used piece of software that is distributed as part of the UNIX operating system called Bing.</sentence>
+<sentence id="s100">This Bing software was developed in 1995 and was in existence and distributed for six years prior to the company "Bing!</sentence>
+<sentence id="s101">Software" being granted its trade mark.</sentence>
+<sentence id="s102">Accordingly the public are not likely to be misled or deceived by the respondents' use of the word "Bing".</sentence>
+<sentence id="s103">
+ 
+ CONSIDERATION 
+ 
+19 Both the applicant and the respondents made helpful submissions in these proceedings.</sentence>
+<sentence id="s104">20 The basis of the applicant's claim so far as it relies on infringement of trade mark is s 20 Trade Marks Act 1995 (Cth) ("the Act ") which provides:
+ (1) If a trade mark is registered, the registered owner of the trade mark has, subject to this Part, the exclusive rights: 
+ 
+ (a) to use the trade mark; and
+ (b) to authorise other persons to use the trade mark; 
+ 
+ in relation to the goods and/or services in respect of which the trade mark is registered.</sentence>
+<sentence id="s105">
+ 
+ Note 1: For registered owner see section 6.</sentence>
+<sentence id="s106">Note 2: For use see section 7.</sentence>
+<sentence id="s107">Note 3: In addition, the regulations may provide for the effect of a protected international trade mark: see Part 17A.</sentence>
+<sentence id="s108">
+ 
+ (2) The registered owner of a trade mark has also the right to obtain relief under this Act if the trade mark has been infringed.</sentence>
+<sentence id="s109">
+ 
+ Note: For what amounts to an infringement of a trade mark see Part 12.</sentence>
+<sentence id="s110">
+ 
+ (3) The rights are taken to have accrued to the registered owner as from the date of registration of the trade mark.</sentence>
+<sentence id="s111">
+ 
+ Note: For date of registration see section 6.</sentence>
+<sentence id="s112">
+ 
+ (4) If the trade mark is registered subject to conditions or limitations, the rights of the registered owner are restricted by those conditions or limitations.</sentence>
+<sentence id="s113">
+ 
+ Note: For limitations see section 6.</sentence>
+<sentence id="s114">
+ 
+ (5) .... 
+21 In the Amended Application the applicant pleaded s 120 of the Act .</sentence>
+<sentence id="s115">Section 120 sets out circumstances in which a trade mark is infringed.</sentence>
+<sentence id="s116">From the pleadings it appeared that the basis of the applicant's claims were potentially s 120(1) and (2) which provide:
+ (1) A person infringes a registered trade mark if the person uses as a trade mark a sign that is substantially identical with, or deceptively similar to, the trade mark in relation to goods or services in respect of which the trade mark is registered.</sentence>
+<sentence id="s117">(2) A person infringes a registered trade mark if the person uses as a trade mark a sign that is substantially identical with, or deceptively similar to, the trade mark in relation to: 
+ 
+ (a) goods of the same description as that of goods ( registered goods ) in respect of which the trade mark is registered; or
+ (b) services that are closely related to registered goods; or
+ (c) services of the same description as that of services ( registered services ) in respect of which the trade mark is registered; or
+ (d) goods that are closely related to registered services.</sentence>
+<sentence id="s118">
+ 
+However, the person is not taken to have infringed the trade mark if the person establishes that using the sign as the person did is not likely to deceive or cause confusion.</sentence>
+<sentence id="s119">... 
+22 During the course of the proceedings Mr Franklin SC for the applicant clarified that, in fact, the applicant was relying only on s 120(1) (TS 19 - 20 ).</sentence>
+<sentence id="s120">23 In addition to its reliance on the Act , the applicant also claimed passing off, and conduct in breach of ss 52 and 53 TPA.</sentence>
+<sentence id="s121">Section 52 provides:
+ (1) A corporation shall not, in trade or commerce, engage in conduct that is misleading or deceptive or is likely to mislead or deceive.</sentence>
+<sentence id="s122">(2) Nothing in the succeeding provisions of this Division shall be taken as limiting by implication the generality of subsection (1).</sentence>
+<sentence id="s123">24 So far as relevant in these proceedings s 53 provides:
+ A corporation shall not, in trade or commerce, in connexion with the supply or possible supply of goods or services or in connexion with the promotion by any means of the supply or use of goods or services: 
+ 
+ ...
+ 
+ (c) represent that goods or services have sponsorship, approval, performance characteristics, accessories, uses or benefits they do not have;
+ 
+ (d) represent that the corporation has a sponsorship, approval or affiliation it does not have.</sentence>
+<sentence id="s124">
+ 
+ 
+25 The validity of the applicant's trade mark is not in dispute, nor is there a dispute that the first respondent uses the word "bing" as a trade mark (albeit unregistered).</sentence>
+<sentence id="s125">It became clear both from submissions of the parties and the conduct of the case that the following issues required determination:
+ 
+1.</sentence>
+<sentence id="s126">Whether the trade mark used by the first respondent --- namely the word "bing" in various guises --- was substantially identical to the applicant's trade mark.</sentence>
+<sentence id="s127">2.</sentence>
+<sentence id="s128">Whether the trade mark used by the first respondent --- namely the word "bing" in various guises --- was deceptively similar to the applicant's trade mark.</sentence>
+<sentence id="s129">3.</sentence>
+<sentence id="s130">Whether the goods or services in respect of which the first respondent uses the word "bing" in various guises were goods or services in respect of which the trade mark was registered.</sentence>
+<sentence id="s131">4.</sentence>
+<sentence id="s132">Liability, if any, of Mr Cranitch for infringement, if any, of the applicant's trade mark.</sentence>
+<sentence id="s133">5.</sentence>
+<sentence id="s134">Whether the conduct of the first respondent amounted to conduct in breach of s 52 or s 53 TPA.</sentence>
+<sentence id="s135">6.</sentence>
+<sentence id="s136">Whether the conduct of the first respondent amounted to passing off.</sentence>
+<sentence id="s137">7.</sentence>
+<sentence id="s138">Liability, if any, of Mr Cranitch in relation to conduct of the first respondent in breach of the TPA or conduct in the nature of constituted passing off, if any.</sentence>
+<sentence id="s139">8.</sentence>
+<sentence id="s140">In the event that the applicant has substantiated its case or any part thereof --- appropriate remedies.</sentence>
+<sentence id="s141">26 In the context of the legislation I have set out above, I will now turn to each of these issues.</sentence>
+<sentence id="s142">1.</sentence>
+<sentence id="s143">IS THE FIRST RESPONDENT'S USAGE OF "BING" SUCH THAT IT IS SUBSTANTIALLY IDENTICAL TO THE APPLICANT'S TRADE MARK?</sentence>
+<sentence id="s144">
+ 
+27 Although in the Amended Statement of Claim the applicant claimed that the first respondent's use of the word "bing" was substantially identical to the applicant's trade mark, the applicant in written submissions stated that it was content to rely on deceptive similarity although it "might" be arguable that the marks were substantially identical because the words were identical.</sentence>
+<sentence id="s145">To that extent, there appears to be some concession by the applicant that it cannot establish an infringement of its trade mark within the meaning of s 120(1) on the basis of substantial identity.</sentence>
+<sentence id="s146">28 However the claim by the applicant as to substantial identity was not specifically abandoned.</sentence>
+<sentence id="s147">It is appropriate for me to consider this allegation.</sentence>
+<sentence id="s148">29 In The Shell Company of Australia Ltd v Esso Standard Oil (Australia) Ltd (1963) 109 CLR 407 , Windeyer J considered "substantial identity" in terms of trade marks.</sentence>
+<sentence id="s149">His Honour said:
+ In considering whether marks are substantially identical they should, I think, be compared side by side, their similarities and differences noted and the importance of these assessed having regard to the essential features of the registered mark and the total impression of resemblance or dissimilarity that emerges from the comparison.</sentence>
+<sentence id="s150">"The identification of an essential feature depends", it has been said, "partly on the Court's own judgment and partly on the burden of the evidence that is placed before it": de Cordova v Vick Chemical Co (1951) 68 RPC 103 at p 106.</sentence>
+<sentence id="s151">Whether there is substantial identity is a question of fact: see Fraser Henleins Pty Ltd v Cody [1945] HCA 49 ; (1945) 70 CLR 100 per Latham CJ...and Ex parte O'Sullivan; Re Craig (1944) SR (NSW) 291 per Jordan CJ, where the meaning of the expression was considered.</sentence>
+<sentence id="s152">30 These principles are well settled and have been applied on numerous occasions by the Full Court of the Federal Court (for example, Starr Partners Pty Limited v Dev Prem Pty Ltd [2007] FCAFC 42 ; Crazy Ron's Communications Pty Limited v Mobileworld Communications Pty Limited [2004] FCAFC 196 ; (2004) 209 ALR 1).</sentence>
+<sentence id="s153">31 Further, it is clear that in considering whether the competing marks are substantially identical within s 120(1) of the Act a comparison must be undertaken of the registered trade mark and the whole of the respondent's mark, and not merely part of it: Angove's Pty Ltd v Johnson and Eclar Investments Pty Ltd (1981) 55 FLR 1 at 8.</sentence>
+<sentence id="s154">32 As I noted earlier in this judgment, the applicant's registered trade mark is as follows:
+ 
+ 
+33 The respondents use "bing" in a number of ways, including the following:
+ 
+and
+ 
+and
+ 
+
+
+
+
+and
+ Bing 
+and
+ bing 
+ 
+34 In considering the Bing Trade Mark and the respondents' varied uses of "bing" side by side, an obvious similarity is that the trade marks of both the applicant and the first respondent include the word "bing".</sentence>
+<sentence id="s155">It is also not in dispute that both parties pronounce the word "bing" in the same way, which is relevant in considering the similarity or otherwise of the marks (Gummow J in Wingate Marketing Pty Ltd v Levi Strauss &amp; Co (1994) 121 ALR 191 at 229).</sentence>
+<sentence id="s156">35 The fact that both marks include the same word does not conclusively mean that the marks are "substantially identical": Marc A Hammond Pty Ltd v Papa Carmine Pty Ltd (1973) 28 FLR 160; Angove's Pty Ltd v Johnson (1983) 66 FLR 216.</sentence>
+<sentence id="s157">Indeed, the fact that the Bing Trade Mark is written in capital letters, and the first respondent's mark is not, suggests that the two marks are not substantially identical: SAP Australia Pty Ltd v Sapient Australia Pty Ltd [1999] FCA 1821 ; (1999) 169 ALR 1 at 11.</sentence>
+<sentence id="s158">36 In considering the competing marks side by side a number of important differences are apparent:
+ 
+ 
+ (a) the applicant's trade mark is in upper case whereas the first respondent's use of the word "bing" is lower case;
+ (b) the applicant's trade mark utilises an exclamation mark whereas the first respondent's mark does not;
+ (c) the applicant's trade mark is in the form of a logo utilising an oval shape in which the word and following exclamation mark "BING!</sentence>
+<sentence id="s159">" appear, whereas the first respondent's mark, even without the words "POSTAL MAIL INTERNET SPEED", appears different and does not, for example, utilise any such oval background;
+ (d) the first respondent's mark frequently utilises a red arrow above the letter "i" whereas the applicant's trade mark does not;
+ (e) the first respondent's mark is often used in conjunction with the words "POSTAL MAIL INTERNET SPEED" whereas the applicant's trade mark is not.</sentence>
+<sentence id="s160">
+ 
+
+37 In my view, notwithstanding that both marks include the word "bing", the two marks are not "substantially identical" for the purposes of s 120(1) of the Act .</sentence>
+<sentence id="s161">2.</sentence>
+<sentence id="s162">IS THE FIRST RESPONDENT'S USAGE OF "BING" SUCH THAT IT IS DECEPTIVELY SIMILAR TO THE APPLICANT'S TRADE MARK?</sentence>
+<sentence id="s163">
+ 
+38 Section 10 of the Act provides:
+ For the purposes of this Act , a trade mark is taken to be deceptively similar to another trade mark if it so nearly resembles that other trade mark that it is likely to deceive or cause confusion.</sentence>
+<sentence id="s164">39 The concept of "deceptive similarity" in the context of trade marks was described by Windeyer J in Shell 109 CLR 407 at 415 as follows:
+ On the question of deceptive similarity a different comparison must be made from that which is necessary when substantial identity is in question.</sentence>
+<sentence id="s165">The marks are not now to be looked at side by side.</sentence>
+<sentence id="s166">The issue is not abstract similarity, but deceptive similarity.</sentence>
+<sentence id="s167">Therefore the comparison is the familiar one of trade mark law.</sentence>
+<sentence id="s168">It is between, on the one hand, the impression based on recollection of the plaintiff's mark that persons of ordinary intelligence and memory would have; and, on the other hand, the impressions that such persons would get from the defendant's television exhibitions.</sentence>
+<sentence id="s169">To quote Lord Radcliffe again: "The likelihood of confusion or deception in such cases is not disproved by placing the two marks side by side and demonstrating how small is the chance of error in any customer who places his order for goods with both the marks clearly before him...</sentence>
+<sentence id="s170">It is more useful to observe that in most persons the eye is not an accurate recorder of visual detail, and that marks are remembered rather by general impressions or by some significant detail than by any photographic recollection of the whole": de Cordova v Vick Chemical Co at 106.</sentence>
+<sentence id="s171">And in Australian Woollen Mills Ltd v FS Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 Dixon and McTiernan JJ said "In deciding this question, the marks ought not, of course, to be compared side by side.</sentence>
+<sentence id="s172">An attempt should be made to estimate the effect or impression produced on the mind of potential customers by the mark or device for which the protection of an injunction is sought.</sentence>
+<sentence id="s173">The impression or recollection which is carried away and retained is necessarily the basis of any mistaken belief that the challenged mark or device is the same" (at 658)...(at 416).</sentence>
+<sentence id="s174">The deceptiveness that is contemplated must result from similarity; but the likelihood of deception must be judged not by the degree of similarity alone, but by the effect of that similarity in all the circumstances.</sentence>
+<sentence id="s175">40 Further, it is clear that:
+ 
+&#8226; The concept in s 10 of the allegedly infringing trade mark being "likely" to deceive or cause confusion does not import a requirement that it be more probable than not that the mark has that effect.</sentence>
+<sentence id="s176">The probability of deception or confusion must be finite and non-trivial.</sentence>
+<sentence id="s177">There must be a "real tangible danger of its occurring": Southern Cross Refrigerating Co v Toowoomba Foundry Pty Ltd [1955] HCA 15 ; (1954) 91 CLR 529 at 594-595; Registrar of Trade Marks v Woolworths Ltd [1999] FCA 1020 ; (1999) 93 FCR 365 at 380.</sentence>
+<sentence id="s178">&#8226; A trade mark is likely to cause confusion if the result of its use will be that a number of persons are caused to wonder whether it might not be the case that the two products or closely related products and services come from the same source.</sentence>
+<sentence id="s179">It is enough if the ordinary person entertains a reasonable doubt: Southern Cross Refrigerating Co v Toowoomba Foundry Pty Ltd [1955] HCA 15 ; (1954) 91 CLR 529 at 594-595; Registrar of Trade Marks v Woolworths Ltd [1999] FCA 1020 ; (1999) 93 FCR 365 at 382.</sentence>
+<sentence id="s180">&#8226; Deceptive similarity must be judged by the standards of "ordinary" people keeping in mind the likelihood that they may have only an imperfect recollection of the registered mark: Johnson &amp; Johnson v Kalnin [1993] FCA 210 ; (1993) 114 ALR 215 at 220.</sentence>
+<sentence id="s181">&#8226; Deceptiveness flows not only from the degree of similarity itself between the marks, but also from the effect of that similarity considered in relation to the circumstances of the goods, the prospective purchasers and the market covered by the monopoly attached to the registered trade mark: NSW Dairy Corporation v Murray Goulburn Co-Operative Company Ltd (1989) 14 IPR 26 at 67, cf Windeyer J in Shell 109 CLR 407 at 416.</sentence>
+<sentence id="s182">41 The evidence demonstrates that the businesses of the parties are completely different, that the parties have no customers in common and that they operate in completely different markets.</sentence>
+<sentence id="s183">These factors militate against a finding of deceptive similarity of the trade marks.</sentence>
+<sentence id="s184">However on balance, I consider that the first respondent's usage of "bing" in its different forms is such that it is deceptively similar to the applicant's trade mark within the meaning of s 10 and s 120(1) of the Act .</sentence>
+<sentence id="s185">I form this view for the following reasons:
+ 
+&#8226; Notwithstanding that the respective trade marks of the applicant and the first respondent are different visually, as I have already observed the marks of both the applicant and the first respondent feature the word "bing" and the spelling and pronunciation of "bing" as used by both applicant and first respondent are identical.</sentence>
+<sentence id="s186">As Mr Franklin submitted --- "bing" is "bing".</sentence>
+<sentence id="s187">&#8226; Although the trade marks are used in respect of different services --- an issue to which I shall shortly return --- a customer using either the applicant's products or the first respondent's internet postal service does so by using a computer .</sentence>
+<sentence id="s188">Indeed the first respondent's advertisement in the December 2007 edition of the Virgin Blue in-flight magazine, which was the subject of evidence given by Mr Paul Kenna, depicts an Australia Post mail box linked by a computer cord to a computer and monitor, with the first respondent's trade mark displayed on the monitor.</sentence>
+<sentence id="s189">In this respect I consider that the average consumer with ordinary intelligence with an imperfect recollection of the applicant's trade mark, seeing or hearing the first respondent's mark, might be caused to wonder whether goods or services supplied pursuant to the first respondent's mark might be sourced from the applicant.</sentence>
+<sentence id="s190">Indeed this was the substance of evidence given by Mr Paul Kenna.</sentence>
+<sentence id="s191">&#8226; There is evidence of actual confusion in relation to the Bing Trade Mark and the first respondent's trade marks from:
+ 
+ o evidence of Mr James Helm in relation to individuals whom he deposed contacted the applicant in the mistaken belief that they were contacting the first respondent (affidavits of James Helm sworn 1 November 2007, 8 November 2007 and 10 January 2008); and
+ 
+ o as I have already noted, evidence of Mr Paul Kenna, a Victorian solicitor.</sentence>
+<sentence id="s192">Mr Kenna deposed that he had been aware of the applicant's products because he had previously contacted it in relation to its conveyancing software, and that he had assumed an advertisement in the December 2007 edition of the Virgin Blue in-flight magazine placed by the first respondent related to the applicant's products (affidavit of Paul Kenna sworn 12 December 2007).</sentence>
+<sentence id="s193">In my view whether Mr Kenna first contacted the applicant or the first respondent in relation to this confusion is irrelevant and does not materially detract from the substance of Mr Kenna's evidence.</sentence>
+<sentence id="s194">I accept the submission of the applicant that Mr Kenna knew of the applicant because of its conveyancing software and, that, upon seeing the advertisement with the trade mark "bing", Mr Kenna thought that the "mailing software" emanated from the applicant.</sentence>
+<sentence id="s195">While the authorities indicate that evidence of actual confusion such as the evidence of Mr Kenna does not conclusively establish that the first respondent's trade mark is deceptively similar to the applicant's registered trade mark, nonetheless evidence of actual confusion may be of considerable importance (Davison M, Johnston J &amp; Kennedy P, Shanahan's Australian Law of Trade Marks &amp; Passing Off (4th ed, Lawbook Co, 2008) at [30.2510] and cases cited therein).</sentence>
+<sentence id="s196">&#8226; On balance, expert evidence of Associate Professor Alpert supports a finding that the marks are deceptively similar.</sentence>
+<sentence id="s197">Although Associate Professor Alpert gave evidence that the respective brands of the applicant and the first respondent, as depicted on their websites, appeared different (TS 138 ll 1-4), he also expressed the opinions that:
+ 
+ 
+ o if a potential customer only saw the word "bing", it could lead the customer to wonder if it was related to the applicant (TS 139 ll 29-31);
+ o a consumer who knew the BING!</sentence>
+<sentence id="s198">Software brand could be caused to wonder whether "bing" "in lower case" came from the same source (TS 139 ll 38-44);
+ o the word "bing" was prominent in the respective brands of the applicant and first respondent (TS 140 ll 28-47);
+ o a person who has an imperfect recollection of the Bing Trade Mark in relation to any software would be likely to be confused when they saw "bing" on the computer screen in relation to the first respondent's software (TS 142-143);
+ o an IT person, who had never seen the first respondent's website and its branding, but who knew of the applicant, might be confused on seeing the first respondent's software as displayed on a computer screen (TS 144 ll 7-10);
+ o on seeing the advertisement in the Virgin Blue magazine with the single word "bing", a person with knowledge of the BING!</sentence>
+<sentence id="s199">Software might be confused into thinking that BING!</sentence>
+<sentence id="s200">Software had branched into a different product range (TS 151 ll 37-42);
+ o consumers would experience both "purchase confusion" and "initial consideration confusion" in relation to the respective marks of the applicant and first respondent (TS 153 ll 9-24).</sentence>
+<sentence id="s201">
+ 
+
+42 Notwithstanding this deceptive similarity however, the respondents will only have breached the Act if the goods or services in respect of which the first respondent uses the word "bing" in various guises are of the same description in respect of which the trade mark is registered.</sentence>
+<sentence id="s202">3.</sentence>
+<sentence id="s203">ARE THE GOODS OR SERVICES, IN RESPECT OF WHICH THE FIRST RESPONDENT USES THE WORD "BING", GOODS OR SERVICES IN RESPECT OF WHICH THE TRADE MARK IS REGISTERED?</sentence>
+<sentence id="s204">
+ 
+43 As I noted earlier in this judgment, the applicant's trade mark is registered in respect of the following goods and services:
+ Class 9 Software for the legal profession and other industries and professions not limited in any way to a specific industry or commercial sector; Class 35 Distribution and sales of computer software.</sentence>
+<sentence id="s205">Class 42 Design of computer software; programming maintenance, upgrading and updating of computer software for the legal profession and other industries and professions not limited in any way to a specific industry or commercial sector... 
+44 The first respondent has sought to register its trade mark in respect of goods and services other than those listed, however this is obviously not conclusive in the context of the applicant's claim (cf Southern Cross Refrigerating Co v Toowoomba Foundry Proprietary Ltd (1954) 91 CLR 592 at 606).</sentence>
+<sentence id="s206">Submissions of the parties 
+ 
+45 Submissions of the applicant in relation to this issue may be summarised as follows:
+ 
+&#8226; The first respondent's use of the word "bing" is in relation to goods or services covered by the registration of the applicant's trade mark.</sentence>
+<sentence id="s207">Further, there is ample evidence that the respondents distribute computer software, and that in conducting its business the first respondent distributes and installs on each of its customer's computers the bing software that is necessary to operate the system.</sentence>
+<sentence id="s208">&#8226; The first respondent's promotional material uses the trade mark "bing" in relation to its software, and through installation and use of the software, the trade mark "bing" appears on the computer screen in various guises.</sentence>
+<sentence id="s209">It is clear from the respondents' own evidence that the first respondent uses the mark "bing" in relation to at least software (class 9); distribution of computer software (class 35), and updating of computer software (class 42).</sentence>
+<sentence id="s210">&#8226; The software distributed by the first respondent has a number of components including "bing Client", "bing Virtual Printer Driver", "Popup bing Mailroom", "Control bing Printer", and "bing Help".</sentence>
+<sentence id="s211">&#8226; Customers of the first respondent enter a software license agreement in respect of the software (and updates) provided to the customer by the first respondent under the name "bing".</sentence>
+<sentence id="s212">Further, the software licence agreements refer frequently therein to "bing".</sentence>
+<sentence id="s213">&#8226; The comparison is between the applicant's registered mark normally used in relation to any goods or services for which it is registered, including software, the distribution of software, software development, maintenance and upgrades, and the first respondent's actual use.</sentence>
+<sentence id="s214">The first respondent's use of "bing" in the course of conducting a business that involves the distribution of software to customers and the entering into of software licence agreements in relation to the Bing software so distributed, confirms or exacerbates that confusion.</sentence>
+<sentence id="s215">&#8226; The first respondent uses "bing" in various guises as a trade mark in relation to goods and services.</sentence>
+<sentence id="s216">&#8226; It is clear that the first respondent's service is a "software enabled" service, and is used in relation to goods or services for which the trade mark is registered, including "software" and "distribution of software".</sentence>
+<sentence id="s217">&#8226; How the applicant uses its trade mark, and whether there is any likelihood of deception or confusion because the applicant sells primarily legal software and the first respondent provides postal services, are irrelevant considerations because the applicant has exclusive rights to the trade mark under s 120(1) of the Act .</sentence>
+<sentence id="s218">&#8226; Notwithstanding submissions of the respondents in relation to s 120(2) the proviso to s 120(2) does not apply where the first respondent's use is in relation to goods and services covered by the registration.</sentence>
+<sentence id="s219">Legal principles in relation to goods and services of the same description are irrelevant to this case.</sentence>
+<sentence id="s220">The question whether the parties operate in different market segments is irrelevant if the specification of goods and services in the registration is sufficiently wide to encompass the respondent's actual use.</sentence>
+<sentence id="s221">&#8226; The first respondent does not have to "sell" a product to use a trade mark in respect of goods and services covered by the registration.</sentence>
+<sentence id="s222">46 In reply, the respondents submitted in summary:
+ 
+&#8226; The applicant fixes upon the fact that the first respondent provides, as part of its postal service, software to customers.</sentence>
+<sentence id="s223">To accept the applicant's case would be to accept that it has a monopoly in the use of the name "bing" as a trade mark in respect of any service which provides software even though the provision of that software is ancillary to the actual service acquired by customers.</sentence>
+<sentence id="s224">This approach has been rejected by the courts.</sentence>
+<sentence id="s225">&#8226; Although the first respondent is actually engaged in the provision of postal services , the applicant is trying to elevate those services to that of provision of computer software, relying upon the incidental use of that software in the conduct of the first respondent's business.</sentence>
+<sentence id="s226">That is an incorrect approach and contrary to binding authority on this Court.</sentence>
+<sentence id="s227">&#8226; This case is very similar to that in SAP Australia Pty Ltd v Sapient Australia Pty Ltd [1999] FCA 1821 ; (1999) 169 ALR 1.</sentence>
+<sentence id="s228">&#8226; The applicant is trying to distract the court by the fact that the services or goods offered by the parties might have some features in common.</sentence>
+<sentence id="s229">The Court should not be distracted by the fact that, in part, the services or goods provided by the first respondent involves the provision of software to its customers.</sentence>
+<sentence id="s230">&#8226; In any event, on the morning of the second day of the trial the first respondent provided an open undertaking to the Court that it would not use the word "bing" either by itself or in combination with any other words in directly referring to the software it provides to its customers.</sentence>
+<sentence id="s231">Goods or services in respect of which the trade mark was registered: relevant principles 
+ 
+47 The inquiry in s 120(1) as to whether use of a trade mark concerns goods or services in respect of which a trade mark is registered is simple, involving a comparison between the registered mark used notionally, fairly and normally in respect of any goods and services, with the alleged infringer's actual use.</sentence>
+<sentence id="s232">Resolution of the inquiry is a question of fact: Re Spillers Ltd's Trade Mark Application (1953) 70 RPC 51; cf Wal-Mart Stores Inc v Cadbury Schweppes Pty Ltd (2004) 61 IPR 596.</sentence>
+<sentence id="s233">Findings 
+ 
+48 The essence of the applicant's case in relation to whether the first respondent's goods and services are those in respect of which its trade mark is registered, is that:
+ 
+&#8226; its trade mark is registered in relation to both software and services relevant to software;
+ 
+&#8226; the first respondent's infringement occurs where the word "bing" is used directly on software (for example, "bing Client"), in combination with the word "software" (for example in the agreements) or on the website in direct relation to software (for example "bing Professional"); and
+ 
+&#8226; the activities of the first respondent include goods in respect of which the applicant's trade mark is registered (software) and services (for example updating software).</sentence>
+<sentence id="s234">49 Leaving to one side for the moment the undertaking given by the first respondent, the essence of the respondents' case is that the first respondent conducts an internet postal service for which the use of software is but incidental.</sentence>
+<sentence id="s235">I shall return to discuss the first respondent's undertaking later in the judgment.</sentence>
+<sentence id="s236">50 The respondents cite in support of their case MID Sydney Pty Ltd v Australian Tourism Co Ltd (1998) 90 FCR 236 and SAP Australia [1999] FCA 1821 ; 169 ALR 1 , both of which are authorities for the proposition that, when comparing services, one should focus primarily on a comparison of the totality of the two services rather than the individual aspects of those services (cf comments in Davison M, Monotti A and Wiseman L, Australian Intellectual Property Law (Cambridge University Press, 2008) p 105).</sentence>
+<sentence id="s237">This contention is superficially attractive, however in my view falters on closer examination.</sentence>
+<sentence id="s238">51 In this case it is clear from the affidavit of Mr Theodosiou, the sole director of the applicant, sworn 1 November 2007 (para 13) that the applicant conducts a "software business" which exhibits characteristics including:
+ 
+&#8226; the applicant's "goods" are, in substance, software packages which generate Family Court forms and conveyancing forms;
+ 
+&#8226; the applicant produces licence agreements, user guides and marketing material relating to the legal software packages upon which the applicant's trade mark appears;
+ 
+&#8226; the trade mark is also registered in respect of services provided by the applicant, including the distribution and updating of software it provides customers.</sentence>
+<sentence id="s239">52 This can be contrasted with the first respondent's service.</sentence>
+<sentence id="s240">I agree with the respondents that the first respondent is engaged in the provision of internet postal services , which prima facie are not goods or services in respect of which the applicant's trade mark is registered.</sentence>
+<sentence id="s241">However I consider it is also clear that, as Mr Franklin submitted, the first respondent's service is, in the manner in which it is conducted with the majority of its clients, a software-enabled service.</sentence>
+<sentence id="s242">While customers can access the first respondent's service without specific software (an issue to which I will return later in the judgment), the first respondent provides software, bearing the trade mark "bing", to customers to allow the customers to effect the internet postal service it provides, and to access that service.</sentence>
+<sentence id="s243">I consider that this observation applies equally to:
+ 
+&#8226; activities of the first respondent in assisting customers install software and deal with problems with software; and
+ 
+&#8226; service updates provided by the first respondent.</sentence>
+<sentence id="s244">53 Indeed, as the evidence demonstrates, the first respondent entered detailed software licence agreements with its customers in relation to software called "bing" software.</sentence>
+<sentence id="s245">To that extent the software is considerably more than "incidental" to the operation of the first respondent's service.</sentence>
+<sentence id="s246">It is an important aspect of the service which allows its operation.</sentence>
+<sentence id="s247">54 In considering the principles articulated in MID Sydney 90 FCR 236 and SAP Australia [1999] FCA 1821 ; 169 ALR 1 I am of the view that the facts of the case before me do not support an application of those principles.</sentence>
+<sentence id="s248">55 In MID Sydney 90 FCR 236 (so far as material in the present case) the appellant was the registered proprietor of the trade mark "The Chifley Tower", registered for services in class 36 described as " leasing of office and retail space; building and property management ".</sentence>
+<sentence id="s249">The respondents proposed to use the word "Chifley" in relation to hotel-related services.</sentence>
+<sentence id="s250">The Full Court accepted that the hotel business entailed "management" of hotel properties.</sentence>
+<sentence id="s251">However the Court did not accept that hotel-related services therefore were "property management" services within the meaning of class 36.</sentence>
+<sentence id="s252">As the Court observed:
+ The conduct of an hotel business includes the accommodation of guests, the operation of restaurants and bars (including compliance with the liquor licensing law) and the provision of conference and business facilities and of other services normally offered by hoteliers.</sentence>
+<sentence id="s253">These activities cannot ordinarily be described as "property management services".</sentence>
+<sentence id="s254">To elaborate on what might be thought an obvious proposition about the ordinary use of language is often not profitable.</sentence>
+<sentence id="s255">But the ordinary meaning of property management services - and this is supported by Mr Garnett's evidence about his own business activities - would not encompass the occupation of a property under contract with, or licence or lease from, its owner or lessee in order to manage a business, for the benefit of both the manager and the owner or lessee, conducted on that property.</sentence>
+<sentence id="s256">(at 242) 
+56 Later their Honours continued:
+ It was suggested that, if a manager provided services falling within the description "property management services", those services did not lose that character because they formed part of an overall business having features other than the provision of property management services.</sentence>
+<sentence id="s257">Certainly it is true that a provider of property management services is no less such a provider because it provides, in the course of its business, other services as well.</sentence>
+<sentence id="s258">But where, in this case, services are performed which are incidental to the conduct of the hotel business, it is not correct, in our view, to conclude that Touraust is using the word "Chifley" (or a sign incorporating it) in relation to property management services.</sentence>
+<sentence id="s259">(at 242-243) 
+57 So far as concerns the software provided by the first respondent to its customers bearing the moniker "bing", in my view that software is a "good" which is both severable from the internet postal service, and would in other circumstances be capable of being the subject of a registered trade mark in its own right within Class 9.</sentence>
+<sentence id="s260">Similarly, distributing and updating that software are "services" within classes 35 and 42.</sentence>
+<sentence id="s261">The software supplied by the first respondent, and the services provided by the first respondent in support thereof, are not, to draw an analogy with MID Sydney 90 FCR 236 , goods or services which lose their features as software because they form part of an overall broader service.</sentence>
+<sentence id="s262">The software remains software, which requires distribution and updating, no matter that it is used in connection with the first respondent's internet postal service.</sentence>
+<sentence id="s263">58 The respondents also submitted that the facts of this case parallel those in SAP Australia [1999] FCA 1821 ; 169 ALR 1.</sentence>
+<sentence id="s264">In SAP Australia [1999] FCA 1821 ; 169 ALR 1 the first appellant, a subsidiary of a German company (the second appellant), had traded in Australia since 1989, and distributed computer software products of the second appellant in Australia.</sentence>
+<sentence id="s265">The first appellant had also established a training college under the name "Sapient College".</sentence>
+<sentence id="s266">The second appellant had registered in Australia the trade marks SAP and SAPIENT COLLEGE in respect of Class 41:
+ Education; providing of training; cultural activities; the foregoing including post graduate, further and advanced education and training in business, business management, management, business administration, computers, computer peripherals and computer software, information technology, intellectual property, telecommunications, science and technology, medical technology and science, technology management, stress management and therapy, personal development, lifestyle, relaxation and remedial techniques.</sentence>
+<sentence id="s267">59 The respondent was incorporated in Australia in 1998 and provided custom-designed computer systems for clients and some ancillary training.</sentence>
+<sentence id="s268">The appellants alleged infringement by the respondent of the registered trade marks, misleading or deceptive conduct in contravention of s 52 TPA, and passing off.</sentence>
+<sentence id="s269">The action at first instance was dismissed.</sentence>
+<sentence id="s270">60 In dismissing the appeal before it the Full Court observed that there was some force in the respondent's contention that the trial judge erred, favourably to the appellants, in finding that the respondent's use of "Sapient" was in relation to the same services as the services in respect of which the second appellant's trade mark was registered.</sentence>
+<sentence id="s271">Their Honours continued:
+ While Sapient Australia provides instruction to its customers on how to use the software solutions it has specifically designed and implemented for them, the provision of that instruction is no more than an incident to the provision of the more broadly based consulting service.</sentence>
+<sentence id="s272">Sapient Australia is simply not engaged in the general activity of providing education and training in computer software.</sentence>
+<sentence id="s273">Its trade is quite different: see MID Sydney Pty Ltd v Australian Tourism Co Ltd (1998) 42 IPR 561 at 565-8.</sentence>
+<sentence id="s274">In the light of the conclusion we have reached it is not necessary to consider whether we should depart from his Honour's finding on this point... (at 11) (emphasis added) 
+61 Where the analogy between these proceedings and SAP Australia [1999] FCA 1821 ; 169 ALR 1 breaks down is that while the Full Court accepted in SAP Australia that "broadly based consulting services" could include supplementary training as an adjunct to the provision of custom designed computer systems for clients, in this case it does not follow that software provided by the first respondent is no more than an incident to the provision of its service.</sentence>
+<sentence id="s275">As I noted earlier, the software used by the first respondent is a product in its own right --- the copyright therein is owned by a third party, and the first respondent has exclusive distribution rights (TS 66 ll 12-13).</sentence>
+<sentence id="s276">The first respondent provides the software even though, as Mr Cranitch conceded during cross-examination, the first respondent has some clients who do not use the software, but send to the first respondent documents in the form of PDF files, word documents and publisher documents (TS 71 ll 40-41).</sentence>
+<sentence id="s277">The software and associated services are an important part of the first respondent's internet postal service.</sentence>
+<sentence id="s278">62 In ascertaining whether software is "incidental" to its internet postal service as submitted by the first respondent, it is useful to test the first respondent's hypothesis in this way.</sentence>
+<sentence id="s279">Computer hardware cannot properly function without the benefit of software.</sentence>
+<sentence id="s280">Yet it could scarcely be said in relation to a computer that software loaded on to a computer hard drive was "incidental" to the computer itself, merely because the software allowed the computer to operate in certain ways.</sentence>
+<sentence id="s281">This is clear from the many cases involving claims of infringement of trade mark with respect to software (for example, Microsoft Corporation v PC Club Australia Pty Ltd [2005] FCA 1522 and Microsoft Corporation v Ezy Loans Pty Ltd (2005) 62 IPR 54).</sentence>
+<sentence id="s282">63 Software is pervasive in twenty-first century Australia.</sentence>
+<sentence id="s283">In the words of one writer:
+ In case you have not noticed, software is now a key part of our social structure -- we sense it in our cars, in our supermarkets, in our televisions, in our computers -- we sense it everywhere; it is a ubiquitous, undulating, architectural, air like, water like commodity that infiltrates our daily lives.</sentence>
+<sentence id="s284">(Brian Fitzgerald, "Software as discourse?</sentence>
+<sentence id="s285">: A constitutionalism for information society (1999) AltLJ 25) 
+64 However its omnipresence does not, in itself, mean that it fulfils an incidental role in relation to functionalities such as the service provided by the first respondent.</sentence>
+<sentence id="s286">Further, the fact that the software used by the first respondent is not sold by the first respondent, or indeed that it has no operation other than in relation to the first respondent's service, does not mean that it is not "software" for the purposes of classes 9, 35 and 42 for which the applicant has a statutory monopoly.</sentence>
+<sentence id="s287">65 Accordingly, and putting aside for the moment the undertaking given by the first respondent (to which I will return later in this judgment), in my view the software provided by the first respondent and services in respect of distributing and updating that software, are goods and services in respect of which the applicant's trade mark is registered.</sentence>
+<sentence id="s288">Accordingly, I find that the first respondent has infringed the applicant's trade mark.</sentence>
+<sentence id="s289">4.</sentence>
+<sentence id="s290">LIABILITY, IF ANY, OF MR CRANITCH FOR INFRINGEMENT, IF ANY, OF THE APPLICANT'S TRADE MARK 
+ 
+66 In considering the liability of a director of a company for conduct of the company which has infringed the intellectual property rights of a third party, Lindgren J in Microsoft Corporation v Auschina Polaris Pty Ltd (1996) 71 FCR 231 explained:
+ The "procured or directed" test, sometimes referred to as the "authorised, procured or directed" test, focuses attention on the relationship between the director's intention and the particular corporate conduct which the law characterises as tortious.</sentence>
+<sentence id="s291">What seems to underlie this test is the notion that, necessarily, companies can engage in tortious conduct only through human beings, and, at least ordinarily, where a particular human being involved and responsible to an appropriate extent can be identified, he should, as a matter of policy, be liable... (at 243-244) 
+67 In my view it is clear on the evidence that:
+ 
+&#8226; Mr Cranitch is the managing director and Chief Executive Officer of the first respondent, and is in effective control of the first respondent;
+ 
+&#8226; Mr Cranitch did the relevant background searches prior to the first respondent using the word "bing" in relation to its services (Cranitch affidavit paras 47-55);
+ 
+&#8226; the decision to use "bing" in relation to the services of the first respondent was made by Mr Cranitch (Cranitch affidavit paras 42-46).</sentence>
+<sentence id="s292">68 As the conduct of the first respondent infringed the applicant's trade mark, in my view it is clear that Mr Cranitch had procured or directed that conduct, and accordingly is similarly liable for such infringement (cf also King v Milpurrurru (1996) 66 FCR 474).</sentence>
+<sentence id="s293">5.</sentence>
+<sentence id="s294">WHETHER THE CONDUCT OF THE FIRST RESPONDENT AMOUNTED TO REPRESENTATIONS IN BREACH OF SECTION 52 OR SECTION 53 TPA 
+ Section 52 TPA 
+ 
+69 In both written and oral submissions the applicant emphasised that, so far as concerned a cause of action under the TPA, its primary claim related to alleged breach of s 52.</sentence>
+<sentence id="s295">The applicant in the amended statement of claim claimed that the first respondent had, inter alia , contravened s 52 TPA on the basis of the same conduct on which the applicant alleged infringement of its trade mark.</sentence>
+<sentence id="s296">70 Relevant principles in the context of claimed breach of s 52 , as explained by the Full Court in SAP Australia [1999] FCA 1821 ; 169 ALR 1 at 14, include the following:
+ 
+&#8226; Initial confusion is sufficient and it is not necessary for confusion to induce or be likely to induce a transaction.</sentence>
+<sentence id="s297">Conduct which misleads a customer so that, under some mistaken impression of a trader's connection or affiliation, he or she opens negotiations or invites approaches may be misleading or deceptive even if the true position emerges before the transaction is concluded.</sentence>
+<sentence id="s298">&#8226; However, each case depends on its own facts and conduct may not be misleading or deceptive or likely to mislead or deceive, notwithstanding that it may engender temporary and commercially irrelevant error (cf Knight v Beyond Properties Pty Ltd [2007] FCAFC 170 at [56] ; Hansen Beverage Company v Bickfords (Australia) Pty Ltd [2008] FCAFC 181 at [41] ).</sentence>
+<sentence id="s299">&#8226; Characterisation of conduct as "misleading or deceptive or likely to mislead or deceive" involves a judgment of a notional cause and effect relationship between the conduct and putative consumer's state of mind.</sentence>
+<sentence id="s300">71 In addition to these principles, it is also clear that:
+ 
+&#8226; In order to determine whether there has been any contravention of s 52 it is necessary to determine whether or not the conduct complained of amounted to a representation which has or would be likely to lead to a misconception arising in the minds of that section of the public to whom the conduct has been directed: Astrazeneca Pty Ltd v GlaxoSmithKline Australia Pty Ltd [2006] FCAFC 22 at [34] .</sentence>
+<sentence id="s301">&#8226; Whether or not there is the requirement of some exclusive reputation as an element in the common law tort of passing off, there is no such requirement in relation to Pt V of the TPA.</sentence>
+<sentence id="s302">The question is not whether an applicant has shown a sufficient reputation in a particular get-up or name.</sentence>
+<sentence id="s303">The question is whether the use of the particular get-up or name by an alleged wrongdoer in relation to his product is likely to mislead or deceive persons familiar with the claimant's product to believe that the two products are associated, having regard to the state of knowledge of consumers in Australia of the claimant's product: Cadbury Schweppes Pty Ltd v Darrell Lea Chocolate Shops Pty Limited (2007) 159 FCR 359 at 419; Hansen Beverage Company v Bickfords (Australia) Pty Ltd [2008] FCAFC 181 at [39] .</sentence>
+<sentence id="s304">&#8226; Where the relevant conduct involves representations to the public at large or to a section thereof, such as prospective purchasers of a product the respondent markets or proposes to market, the issue is one of identifying the "ordinary" or "reasonable" members of that class of prospective purchasers: Campomar Sociedad, Limitada v Nike International Ltd [2000] HCA 12 ; [2000] 202 CLR 45 at 84-85.</sentence>
+<sentence id="s305">&#8226; It is necessary to isolate by some criterion a representative member of the class of prospective purchasers: Campomar [2000] HCA 12 ; 202 CLR 45 at 85.</sentence>
+<sentence id="s306">This excludes erroneous or fanciful assumptions: Campomar [2000] HCA 12 ; 202 CLR 45 at 86.</sentence>
+<sentence id="s307">&#8226; Where a transitory association between the names of two products in the mind of a member of the public is immediately dispelled upon a comparison of those products, this brief association will generally be of no significance and therefore will not give rise to misleading conduct or deception: Knight v Beyond Properties Pty Ltd [2007] FCAFC 170 at [53] .</sentence>
+<sentence id="s308">72 The applicant's submissions as to misleading and deceptive conduct under s 52 TPA overlap significantly with its contentions as to liability of the first respondent under s 53 TPA and the tort of passing off.</sentence>
+<sentence id="s309">Evidence to which the applicant referred in the general context of its claims of misrepresentation was:
+ 
+&#8226; affidavit evidence;
+ 
+&#8226; documentary evidence, including the applicant's computer programs, user guide, licence agreements, packaging on software, disks, stationery, promotional material, website, and advertisements using the Bing trade mark.</sentence>
+<sentence id="s310">73 In this case both the applicant and the first respondent use the word "bing" prominently in their respective trade marks.</sentence>
+<sentence id="s311">In the context of discussing infringement under the Act I considered the similarity between the two trade marks.</sentence>
+<sentence id="s312">I also noted that there is evidence from Mr James Helm and Mr Paul Kenna indicating that a small number of people were actually confused by the first respondent's trade mark into believing (temporarily) that it was related to the applicant.</sentence>
+<sentence id="s313">74 In terms of s 52 TPA, the applicant has submitted that the "section of the public" against whom the first respondent's conduct was directed was the general public who were potential purchasers of the service offered by the first respondent.</sentence>
+<sentence id="s314">At its narrowest, I consider that, because of the nature of the service offered by the first respondent, the relevant section of the public would be the business community rather than consumers in general, however I do not think this distinction is material for the purposes of the applicant's s 52 claim.</sentence>
+<sentence id="s315">In particular, I note that:
+ 
+&#8226; The websites of both applicant and the first respondent are in the public domain, available to any member of the public who chooses to access them.</sentence>
+<sentence id="s316">&#8226; The first respondent's advertisement in the relevant Virgin Blue in-flight magazine (upon which the applicant has partially based its claim) was presumably aimed at any member of the public who chose to fly with the airline during the month of publication.</sentence>
+<sentence id="s317">I do not understand the applicant's case to be confined to members of the public who use aircraft --- rather the general public is the relevant class for the purposes of the applicant's claim under s 52 TPA.</sentence>
+<sentence id="s318">&#8226; The applicant's submissions in relation to s 52 are by reference to "members of the public" (for example, TS 4 ll 25-41).</sentence>
+<sentence id="s319">75 Assuming that it is "ordinary members" of the general public at whom the first respondent's conduct is directed, it is clear however that evidence of misconception arising in the minds of members of the public was minimal.</sentence>
+<sentence id="s320">Such evidence of misconception as exists from the evidence of Mr Helm (primarily arising from the similarity of the domain names used by the parties), and Mr Kenna (arising from the advertisement in the Virgin Blue in-flight magazine), demonstrates that any confusion was transient and ephemeral.</sentence>
+<sentence id="s321">The evidence also indicates that, while there were a small number of instances of initial confusion, those instances were resolved at the point of inquiry.</sentence>
+<sentence id="s322">Indeed this could scarcely be otherwise --- the goods and services of the applicant and the first respondent are so different that an ordinary member of the public seeking services offered by one of the parties would clearly not be satisfied by services offered by the other, and would realise this very quickly.</sentence>
+<sentence id="s323">76 To that extent I consider that any brief association between the two trade marks in the mind of a member of the public would generally be of no significance, and that a significant number of members of the general public, in fact or by inference, have not been misled or would likely not be misled by the first respondent's use of the trade mark "bing" for the purposes of s 52 TPA (cf Hansen [2008] FCAFC 181 at [46] - [48] ).</sentence>
+<sentence id="s324">77 Accordingly, I consider that the applicant's claim against the first respondent for breach of s 52 TPA fails.</sentence>
+<sentence id="s325">Section 53 TPA 
+ 
+78 In para 15 of the Amended Statement of Claim, the applicant specifically pleaded that, by reason of the first respondent's conduct, the first respondent had contravened and/or threatened and intended to continue to contravene the provisions of s 53 TPA because the first respondent:
+ 
+&#8226; had represented and/or threatened to represent that its business is operated by or under the authority of the applicant whereas its business was not operated by or under the authority of the applicant;
+ 
+&#8226; had represented and/or threatened to represent that its business is operated under or with the sponsorship and/or approval of the applicant whereas its business is not operated with the sponsorship and/or approval of the applicant;
+ 
+&#8226; has represented and/or threatens to represent that the products offered for sale, sold and supplied by the first respondent are offered for sale, sold and supplied by or under the authority of the applicant, whereas such products are not offered for sale, sold, or supplied by or under the authority of the applicant; and
+ 
+&#8226; has represented and/or threatened to represent that the products offered for sale, sold or supplied by the first respondent are offered for sale, sold or supplied under or with the sponsorship and/or approval of the applicant whereas such products were not offered for sale, sold or supplied with the sponsorship or approval of the applicant.</sentence>
+<sentence id="s326">79 During the proceedings Mr Franklin SC for the applicant submitted that, although breach of s 53 had been established, the applicant was not relying heavily on s 53 because the applicant considered that its case had been established in relation to s 52 (TS 22 - 23 ).</sentence>
+<sentence id="s327">Notwithstanding this submission I propose to consider the applicant's claim under s 53.</sentence>
+<sentence id="s328">More specifically, it is clear from submissions that the basis of the applicant's claim is subs 53(c) and 53(d) TPA.</sentence>
+<sentence id="s329">These sections provide:
+ A corporation shall not, in trade or commerce, in connection with the supply or possible supply of goods or services or in connection with the promotion by any means of the supply or use of goods or services: ... (c) represent that goods or services have sponsorship, approval, performance characteristics, accessories, uses or benefits they do not have; (d) represent that the corporation has a sponsorship, approval or affiliation it does not have; ... 
+80 In order for the applicant to substantiate its case under s 53 , the applicant needs to establish that, by the use of the confusingly or deceptively similar name and mark ("bing"), the first respondent has represented that it has the necessary connection with the applicant such that a substantial number of members of the public will believe that the first respondent or its services has the sponsorship or approval of the applicant ( 10th Cantanae Pty Ltd v Shosana Pty Ltd (1987) 79 ALR 299 at 301-302; Mark Foys Pty Ltd v TVSN (Pacific) [2000] FCA 1626 ; (2000) 104 FCR 61 at 77-78).</sentence>
+<sentence id="s330">81 In this case there is no evidence that, in breach of s 53 TPA, the first respondent has:
+ 
+&#8226; represented that its goods or services have sponsorship, approval, performance characteristics, accessories, uses or benefits they do not have; or
+ 
+&#8226; represented that it had a sponsorship, approval or affiliation it did not have.</sentence>
+<sentence id="s331">82 While the respective trade marks of both parties feature the word "bing" there is absolutely no evidence that in doing so the first respondent represented any relationship with the applicant, that the first respondent's service was in any way related to the products and services provided by the applicant, or that the first respondent's service had, for example, uses or benefits which it did not have.</sentence>
+<sentence id="s332">While not conclusive, I also consider that the substantial differences between the products and service offered by the applicant and the service offered by the first respondent militate against the application of s 53 (cf Australian Home Loans Ltd t/as Aussie Home Loans v Phillips [1998] FCA 181 ; (1998) 40 IPR 392).</sentence>
+<sentence id="s333">83 This finding is further supported by the absence of evidence before me that either the applicant or its products have a reputation from which the first respondent would be able to benefit (cf Australian Home Loans Ltd t/as Aussie Home Loans v Phillips [1998] FCA 181 ; (1998) 40 IPR 392 ; Mark Foys Pty Ltd v TVSN (Pacific) Ltd [2000] FCA 1626).</sentence>
+<sentence id="s334">Other than evidence of a small number of inquiries temporarily confusing the applicant with the first respondent, there is no evidence that the applicant or its products and service are sufficiently well-known that a substantial number of members of the public, or even a substantial number of members of those sections of the public which are likely to engage either with the applicant or respondent, would be misled in terms of ss 53(c) or 53 (d) TPA.</sentence>
+<sentence id="s335">84 I do not consider the claim of the applicant in relation to s 53 TPA substantiated.</sentence>
+<sentence id="s336">6.</sentence>
+<sentence id="s337">WHETHER THE CONDUCT OF THE FIRST RESPONDENT AMOUNTED TO PASSING OFF 
+ 
+85 In order to substantiate a claim in passing off the applicant must show:
+ 
+1) A misrepresentation.</sentence>
+<sentence id="s338">2) Made by a trader in the course of trade.</sentence>
+<sentence id="s339">
+ 
+ 3) To prospective customers of his or ultimate consumers of goods or services supplied by him.</sentence>
+<sentence id="s340">4) Which is calculated to injure the business or goodwill of another trader (in the sense that this is a reasonably foreseeable consequence); and
+ 5) Which causes actual damage to a business or goodwill of a trader by whom the action is brought or (in a quia timet action) will probably do so.</sentence>
+<sentence id="s341">
+ 
+
+(Lord Diplock in Erven Warnink Besloten Vennootschop v J Townend and Sons (Hull) Ltd (1979) AC 731 at 742; cf Moorgate Tobacco Co Ltd v Philip Morris Ltd [1984] HCA 73 ; (1984) 156 CLR 414 at 443-444 and Re Conagra Inc v McCain Foods (Aust) Pty Ltd [1992] FCA 159 ; (1992) 33 FCR 302.</sentence>
+<sentence id="s342">) 
+ 
+86 The applicant is not required to establish proof of an intention to deceive as a necessary ingredient in the cause of action: Conagra [1992] FCA 159 ; 33 FCR 302 at 308.</sentence>
+<sentence id="s343">87 Applying principles relevant to the tort of passing off to the facts of this case, for the following reasons I do not consider that the applicant has substantiated its claim in respect of passing off.</sentence>
+<sentence id="s344">88 First, I have already found that the first respondent's use of the word "bing" did not constitute conduct in breach of ss 52 and 53 TPA.</sentence>
+<sentence id="s345">Similarly I do not consider that the first respondent's conduct amounted to a misrepresentation in terms of the applicant's claim for passing off.</sentence>
+<sentence id="s346">89 Second, I do not consider that the evidence has established a sufficient reputation in the applicant in relation to the mark "BING!</sentence>
+<sentence id="s347">" such that a substantial number of persons would recognise relevant products or services under that mark as emanating from a single source --- rather I consider that evidence is scant as to the applicant's reputation in commerce including in relation to the Bing Trade Mark.</sentence>
+<sentence id="s348">90 Third, in light of my finding as to the applicant's reputation, and the complete divergence between the businesses of the parties and their prospective customers, I do not consider that the applicant has established a likelihood of injury to its business from the use of "bing" by the first respondent.</sentence>
+<sentence id="s349">91 Finally, and as I will discuss later in this judgment, I consider the lack of proven actual damage to the applicant from the conduct of the first respondent militates against the existence of grounds for a passing off claim in these circumstances.</sentence>
+<sentence id="s350">7.</sentence>
+<sentence id="s351">LIABILITY, IF ANY, OF MR CRANITCH IN RELATION TO CONDUCT OF THE FIRST RESPONDENT IN BREACH OF THE TPA OR CONDUCT IN THE NATURE OF PASSING OFF, IF ANY 
+ 
+92 As I have held that the first respondent has not acted in breach of s 52 or s 53 TPA, and that the conduct of the first respondent has not constituted passing off, it follows that Mr Cranitch is similarly not liable in any personal capacity.</sentence>
+<sentence id="s352">93 Notwithstanding this I will briefly consider whether, had the applicant substantiated its case against the first respondent in relation to its claims under the TPA or in relation to passing off, Mr Cranitch would have been liable in relation to the first respondent's conduct.</sentence>
+<sentence id="s353">94 In paras 16A, 16B, 16C of the applicant's Amended Statement of Claim filed 20 November 2007, the applicant pleads:
+ 16A.</sentence>
+<sentence id="s354">The conduct of the first respondent appearing in paragraphs 12-16 above: 
+ 
+ 
+ (a) has taken place at the direction of and with the authority of the second respondent;
+ (b) has been carried out by the second respondent; and
+ (c) was pursuant to a plan or design devised by the second respondent.</sentence>
+<sentence id="s355">
+ 
+ 
+ 
+ Particulars 
+ 
+ 
+ 
+ 
+ 
+ i.</sentence>
+<sentence id="s356">The second respondent prepared and filed the trade mark application referred to in paragraph 9.
+ ii.</sentence>
+<sentence id="s357">The second respondent gave instructions to, and communicated with, Blink Studios in connection with the rebranding of the office mail system from EasyPost to Bing.</sentence>
+<sentence id="s358">iii.</sentence>
+<sentence id="s359">The second respondent approved the change of the first respondent's corporate name.</sentence>
+<sentence id="s360">iv.</sentence>
+<sentence id="s361">The second respondent negotiated the purchase by the first respondent of the domain name.</sentence>
+<sentence id="s362">
+ 
+ 
+ 16B.</sentence>
+<sentence id="s363">The second respondent 
+ 
+ 
+ (a) has aided, abetted, counselled or procured the conduct of the first respondent; or
+ (b) has been knowingly concerned in, or a party to the conduct of the first respondent.</sentence>
+<sentence id="s364">
+ 
+ 
+16C.</sentence>
+<sentence id="s365">In the premises the second respondent is a person involved in the said passing off and contraventions of the TPA.</sentence>
+<sentence id="s366">TPA 
+ 
+95 Section 75B TPA provides, so far as relevant:
+ (1) A reference in this Part to a person involved in a contravention of a provision of Part IV , IVA, IVB, V or VC, or of section 75AU, 75AYA or 95AZN, shall be read as a reference to a person who: 
+ 
+ (a) has aided, abetted, counselled or procured the contravention; 
+ 
+ 
+ 
+ 
+ (b) has induced, whether by threats or promises or otherwise, the contravention;
+ (c) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention; or 
+ 
+ 
+ 
+ 
+ (d) has conspired with others to effect the contravention.</sentence>
+<sentence id="s367">
+ 
+ 
+96 To the extent that the applicant claims personal liability of Mr Cranitch within the scope of the TPA it is evident from para 16B Amended Statement of Claim that the applicant has relied on s 75B.</sentence>
+<sentence id="s368">97 Section 75B reflects the intention of Parliament to bring to account natural persons whose conduct brings about the contravention of the law by a corporation: Fencott v Miller [1983] HCA 12 ; (1983) 152 CLR 570 at 583; Red Bull Australia Pty Ltd v Sydneywide Distributors Pty Ltd (2001) FCA 1228 at [75] .</sentence>
+<sentence id="s369">However because s 75B imports the requirements of the criminal law ( Yorke v Lucas [1985] HCA 65 ; (1985) 158 CLR 661) , in order to establish accessorial liability pursuant to s 75B the applicant must establish the following:
+ 
+&#8226; in circumstances where the applicant contends that a person has aided and abetted --- the applicant must demonstrate that the relevant person was aware or ought to have been aware of the facts which gave rise to the contravention of the TPA, and intentionally participated in the contravention ( Yorke v Lucas [1985] HCA 65 ; 158 CLR 661) ; and
+ 
+&#8226; in circumstances where the applicant contends that a person was knowingly concerned in a contravention --- the applicant must demonstrate that the relevant person had actual knowledge of the essential elements of the contravention and intentional participation in it ( Yorke v Lucas [1985] HCA 65 ; 158 CLR 661).</sentence>
+<sentence id="s370">98 In this case I consider that, had the applicant substantiated its claims against the first respondent with ss 52 and 53 TPA, Mr Cranitch similarly would have been personally liable pursuant to s 75B.</sentence>
+<sentence id="s371">I form this view because:
+ 
+&#8226; the applicant has pleaded actual knowledge by Mr Cranitch of the relevant contraventions of the TPA in the Amended Statement of Claim;
+ 
+&#8226; earlier in this judgment I described the relationship of Mr Cranitch to the first respondent and his management role with the first respondent.</sentence>
+<sentence id="s372">In my view it is clear that Mr Cranitch, in his role as managing director, secretary and Chief Executive Officer of the first respondent, and in effective control of the first respondent through an associated company, was the ultimate decision-maker of the first respondent and to that extent had actual knowledge through his personal involvement in conduct of the first respondent (cf Red Bull Australia (2001) FCA 1228 at [75] ).</sentence>
+<sentence id="s373">Passing Off 
+ 
+99 As is clear from para 16A Amended Statement of Claim the applicant claims that the conduct of the first respondent had been carried out by Mr Cranitch.</sentence>
+<sentence id="s374">In para 16C Amended Statement of Claim the applicant claims further that Mr Cranitch was a person "involved in the said passing off".</sentence>
+<sentence id="s375">The applicant submitted that the activities of Mr Cranitch in:
+ 
+&#8226; making the decision to change the brand from "EasyMail" and looking for a new name;
+ 
+&#8226; conducting all negotiations with the seller of bing.com;
+ 
+&#8226; conducting background inquiries which revealed the existence of the applicant's registered trade mark;
+ 
+formed the basis for a finding that Mr Cranitch was jointly and severally liable with the first respondent.</sentence>
+<sentence id="s376">100 Second, the applicant has pleaded that the conduct of the first respondent took place at the direction of and with the authority of Mr Cranitch, pursuant to a plan or design devised by Mr Cranitch (para 16A Amended Statement of Claim), and that Mr Cranitch has, inter alia , been knowingly concerned in or a party to the conduct of the first respondent (para 16B Amended Statement of Claim).</sentence>
+<sentence id="s377">Accordingly the pleadings support a claim by the applicant alleging liability of Mr Cranitch in respect of tortious conduct for which the first respondent is liable.</sentence>
+<sentence id="s378">Joint tortfeasor 
+ 
+101 To the extent that the applicant contends that Mr Cranitch is jointly liable with the first respondent for passing off, I would not consider the claim of the applicant substantiated by the evidence even had I considered the activities of the first respondent constituted passing off.</sentence>
+<sentence id="s379">Although it was clear from the evidence that Mr Cranitch was significantly involved in the activities of the first respondent and the development of the first respondent's trade mark, all activities of the first respondent in connection with its trade mark were carried out by the first respondent.</sentence>
+<sentence id="s380">I can identify no basis for asserting that Mr Cranitch himself passed off the first respondent's services as being those of the applicant or as being in any other way associated with the applicant.</sentence>
+<sentence id="s381">Involvement by Mr Cranitch in relation to management of the first respondent, and Mr Cranitch's involvement in decision-making in relation to development of the first respondent's "bing" trade mark, do not, in my view, amount to passing off (cf observations of the Full Court in Sydneywide Distributors Pty Ltd v Red Bull Australia Pty Ltd [2002] FCAFC 30 ; (2002) 55 IPR 354 at 399).</sentence>
+<sentence id="s382">Liability for first respondent's conduct 
+ 
+102 Had I found that the first respondent had engaged in passing off, then in order for tortious liability to be imposed on Mr Cranitch it would have been necessary to establish that Mr Cranitch had conferred on the first respondent his authority to engage in the relevant conduct: King v Milpurrurru 66 FCR 474 at 480-481, 494; Microsoft Corporation v Auschina Polaris Pty Ltd (1996) 71 FCR 231 at 245-246; Microsoft Corporation v Ezy Loans Pty Ltd (2005) 62 IPR 54 at 73; Microsoft Corporation v Tyn Electronics Pty Ltd (in liq) (2005) 63 IPR 137 at 145.</sentence>
+<sentence id="s383">103 As I have already found, the evidence demonstrates that Mr Cranitch, in his senior executive role in the first respondent, procured or authorised the first respondent's conduct.</sentence>
+<sentence id="s384">Accordingly I consider that, had the applicant substantiated its claim against the first respondent in passing off, Mr Cranitch would have been similarly liable.</sentence>
+<sentence id="s385">8.</sentence>
+<sentence id="s386">REMEDIES 
+ 
+104 I have found that both the first respondent and Mr Cranitch infringed the registered trade mark of the applicant under the Act , but that the applicant has not substantiated its claims in relation to breach of the TPA or passing off.</sentence>
+<sentence id="s387">Accordingly, I now turn to the applicant's claims for injunctive and associated relief and damages.</sentence>
+<sentence id="s388">In this respect I note that, in closing submissions, the applicant elected to seek an award of damages rather than an account of profits pursuant to s 126(b) of the Act and in accordance with the principles in Colbeam Palmer Ltd v Stock Affiliates Pty Ltd [1968] HCA 50 ; (1968) 122 CLR 25 at 32.</sentence>
+<sentence id="s389">Prospective injunctive and other relief 
+ 
+105 On 11 March 2008 the first respondent gave an undertaking in Court through its counsel, Mr Crowe SC.</sentence>
+<sentence id="s390">Any consideration of relief which would have been available to the applicant must be carried out in light of this undertaking.</sentence>
+<sentence id="s391">106 The undertaking was in the following terms:
+ MR CROWE: Your Honour, while Mr Cranitch is coming to the courtroom, I have instructions from the first respondent to offer an undertaking to the court --- to give an undertaking to the court that the first respondent in relation to all references to the software, the subject of these proceedings, will not use the word "BING!</sentence>
+<sentence id="s392">" when directly referring to that software in any documentation, on websites, or otherwise.</sentence>
+<sentence id="s393">To make that plain it is not offering to change its name, but it is offering an undertaking that it will not refer to the software itself as BING!</sentence>
+<sentence id="s394">or any other combination of words using the word "BING!".</sentence>
+<sentence id="s395">(TS 86 ll 18-25) 
+107 Mr Crowe SC for the respondents explained the undertaking as follows:
+ The undertaking is plain.</sentence>
+<sentence id="s396">Where there is a reference to software it will not be referred to as BING!</sentence>
+<sentence id="s397">software, or BING!</sentence>
+<sentence id="s398">mailroom software or any other combination of words using the name BING!</sentence>
+<sentence id="s399">(TS 87 ll 8-10) 
+108 On 12 March 2008 Mr Cranitch swore an affidavit in relation to this undertaking, which affidavit was filed in Court on 13 March 2008.</sentence>
+<sentence id="s400">In the affidavit Mr Cranitch deposes as to steps taken by the first respondent to change all uses of the word "bing" in reference to software, where the word appears in documentation, on websites and otherwise, to its former name "EasyMail".</sentence>
+<sentence id="s401">Mr Cranitch's evidence, which is unchallenged, was that from the afternoon of 11 March 2008:
+ 
+&#8226; he had directed staff of the first respondent that no software should be issued by the first respondent to any customers or any other persons;
+ 
+&#8226; the software could no longer be downloaded from the first respondent's website at www.bing.com ;
+ 
+&#8226; he had instructed the staff of the first respondent to remove all references to the word "bing" in connection with software from the first respondent's website at www.bing.com , which process should be completed within 7 days;
+ 
+&#8226; he had directed the staff of the first respondent that no external marketing could be authorised by the first respondent which used the word "bing" in connection with the first respondent's software;
+ 
+&#8226; the first respondent's document entitled "Software Licence Terms &amp; Conditions" which prefaced the instalment of the first respondent's software, had been altered such that all references to the word "bing" in connection with software had been amended to read "EasyMail".</sentence>
+<sentence id="s402">Mr Cranitch deposed that this new licence agreement would be used in the future;
+ 
+&#8226; a notice had been prepared which would be circulated to all of the first respondent's staff to inform them of the undertaking and that, subject to the undertaking, the word "bing" would not be used with reference to software in any of the first respondent's documentation, on websites or otherwise.</sentence>
+<sentence id="s403">A copy of the notice was attached to the affidavit;
+ 
+&#8226; the first respondent had commenced its review and alteration of its user manual which accompanied software provided by the first respondent to its customers to allow customers to use the first respondent's electronic postal network system.</sentence>
+<sentence id="s404">Mr Cranitch deposed that this would take three weeks to complete, and that the first respondent had issued a direction to its staff that no software was to be provided by the first respondent until the user manual had been corrected;
+ 
+&#8226; the first respondent had commenced its review and alteration of its agreements, service application forms, promotion agreements, Bing pilot account request forms and other forms and agreements used by the first respondent which used the word "bing" in connection with software.</sentence>
+<sentence id="s405">Mr Cranitch deposed that he expected the review to take seven days to complete.</sentence>
+<sentence id="s406">109 In relation to the undertaking, Mr Crowe SC later explained:
+ In terms of the undertaking which has been provided, it's not offered to limit the injunctive relief which would be made, your Honour.</sentence>
+<sentence id="s407">It's provided, we say in a way which would avoid there being injunctive relief granted at all if you accepted our submissions in relation to the MID decision, the SAP decision, the fact that we were not using the mark in respect of the goods and services in respect of which it was registered.</sentence>
+<sentence id="s408">The purpose of the undertaking was just to, as I said, quite frankly, to bring ourselves even more squarely within the MID decision.</sentence>
+<sentence id="s409">In MID, for example, there was no suggestion that particular aspects of the service that was provided which might have fallen within the definition of property management services was separately called Chifley.</sentence>
+<sentence id="s410">So we've taken that out of our scenario to bring us on all fours, we say, with the Chifley decision.</sentence>
+<sentence id="s411">(TS 216 ll 25-35) 
+110 Mr Franklin SC submitted however that the provision of the undertaking had minimal, if any, effect upon the relief sought by the applicant because:
+ The respondent then, your Honour is free, if one goes no further than this, to continue describing its service as a software enabled service, to continue, your Honour, saying in relation to the service, one click of the button on your computer and your mail is instantly transferred through our service, to continue all of that activity, to continue advertising in the Virgin Blue magazine in an advertisement, your Honour, which we say your Honour quite correctly pointed out to Professor Alpert was evocative of software.</sentence>
+<sentence id="s412">(TS 208 ll 13-19) 
+111 I consider that the plain effect of this undertaking, as implemented in accordance with Mr Cranitch's affidavit, is that any infringement by the respondents of the applicant's trade mark to the extent that the trade mark "bing" appears on software provided by the first respondent has ceased.</sentence>
+<sentence id="s413">112 If "bing" does not appear on, inter alia , software, agreements pertaining to software, or computer screens with reference to software when a customer accesses the first respondent's service or website, I understand that the first respondent would only use "bing" to describe itself and the operation of its internet postal service.</sentence>
+<sentence id="s414">This service is not covered by the applicant's trade mark.</sentence>
+<sentence id="s415">The fact that the internet postal service requires customers to use a computer and, invariably, software in the course of using the computer to effect and access the service --- either the first respondent's EasyMail software or alternative methods including emailing PDF attachments --- does not mean in the circumstances following the provision of the undertaking that the first respondent's conduct infringes the applicant's registered trade mark.</sentence>
+<sentence id="s416">The first respondent's internet postal service involves considerably more than use of software --- indeed key activities are printing mail in the appropriate location, folding it and posting it.</sentence>
+<sentence id="s417">These activities are not goods and services the subject of the applicant's registered trade mark.</sentence>
+<sentence id="s418">113 Mr Crowe SC submitted that, if the first respondent could not successfully rely on MID Sydney 90 FCR 236 prior to the provision of the undertaking, it could do so following the provision of the undertaking (cf TS 174 ll 28-37).</sentence>
+<sentence id="s419">In my view this is not strictly the case.</sentence>
+<sentence id="s420">As I have already observed, I do not consider that MID Sydney 90 FCR 236 applies because I consider that the software is not "incidental" to the provision of the internet postal service in the sense used in MID Sydney 90 FCR 236 and SAP Australia [1999] FCA 1821 ; 169 ALR 1.</sentence>
+<sentence id="s421">However if the software provided by the first respondent does not bear the mark "bing", I do not see how the applicant's trade mark is infringed through the first respondent continuing to call itself "bing" in relation to provision of an internet postal service, which (according to Mr Cranitch's affidavit of 12 March 2008) uses a software called "Easymail".</sentence>
+<sentence id="s422">I do not accept that the applicant has a monopoly in the use of the name "bing" as a trade mark in respect of any service, including services which are not the subject of the applicant's registered trade mark, simply because the service requires a person using it to use any form of software.</sentence>
+<sentence id="s423">Such a proposition, in my view, takes the applicant's statutory monopoly beyond that sanctioned by the Act .</sentence>
+<sentence id="s424">114 The first respondent's undertaking obviously does not address any past conduct which may have infringed the applicant's trade mark.</sentence>
+<sentence id="s425">However, other than continuing to call itself "bing" in relation to provision of internet postal services where the mark "bing" does not appear on any software or in any documentary references to software, and which in my view constitutes neither infringement of the applicant's trade mark nor misrepresentation in terms of the TPA or passing off, the applicant has not demonstrated conduct of the first respondent having an on-going effect for which the undertaking provided is not an answer in terms of the applicant's contentions regarding use of the trade mark and software (contrast, for example, Yeatman v L Homberger &amp; Co (1912) 29 RPC 645).</sentence>
+<sentence id="s426">I consider that the terms of the undertaking provided by the first respondent are adequate to protect any rights of the applicant has in relation to this matter.</sentence>
+<sentence id="s427">115 It is not in dispute that the undertaking given by the first respondent in Court through its Counsel is enforceable by order of the Court: O 35 r 11 Federal Court Rules .</sentence>
+<sentence id="s428">Indeed courts have, on occasion, declined to grant injunctions in circumstances where an undertaking given by one of the parties is adequate to protect the rights of the other (for example Simos J in Community First Credit Union Ltd v Khan (unreported, Supreme Court of New South Wales, 30 August 1995)).</sentence>
+<sentence id="s429">However it is also recognised that, in a proper case, a party may insist upon an injunction notwithstanding an undertaking which has been given (cf Phillimore and Pickford LJJ in Winkle &amp; Co Ltd v Gent &amp; Son (1914) 31 RPC 473 at 479, 480).</sentence>
+<sentence id="s430">116 I do not consider an injunction in the terms sought by the applicant in this case is warranted in light of the undertaking given by the first respondent, for the reasons I have already outlined.</sentence>
+<sentence id="s431">However, as I consider that there has been infringement of the applicant's trade mark I am prepared to make an order in terms of the undertaking given by the first respondent through its counsel on 11 March 2008.</sentence>
+<sentence id="s432">117 In relation to the claim of the applicant in para 3 of the Amended Application, I consider that the undertaking given by the first respondent and the actions of the respondents to date and as anticipated by Mr Cranitch's affidavit of 12 March 2008 answer that claim adequately.</sentence>
+<sentence id="s433">As I propose to make an order in terms of that undertaking, in my view an order for delivery up and destruction as sought by the applicant is not warranted (cf Colbeam [1968] HCA 50 ; 122 CLR 25 at 39 per Windeyer J).</sentence>
+<sentence id="s434">118 In relation to the claim of the applicant in para 4 of the Amended Application --- although it is open to the Court to order a change of corporate name in appropriate circumstances (as, for example, was ordered by the Court in Anakin Pty Ltd v Chatswood BBQ King Pty Ltd [2008] FCA 1517) I do not consider these appropriate circumstances.</sentence>
+<sentence id="s435">As I have already explained, in my view the undertaking of the first respondent and the order I propose to make adequately address issues raised by the applicant.</sentence>
+<sentence id="s436">119 In relation to the order sought by the applicant in para 5 of the Amended Application, namely that the first respondent transfer the registration of the domain name www.bing.com , I make the following observations:
+ 
+&#8226; The first respondent, apparently in good faith, acquired the domain name from the United States for the not inconsiderable sum of $US25,000.</sentence>
+<sentence id="s437">An order in the nature of that sought by the applicant, which would deprive the first respondent of that asset, is not lightly entertained by the Court.</sentence>
+<sentence id="s438">&#8226; While it may be commonplace for companies in Australia to use a ".com" or ".com.au" domain name, the first respondent's domain name is registered in the United States.</sentence>
+<sentence id="s439">An order that the first respondent transfer an international domain name to remedy infringement of an Australian trade mark --- which trade mark is territorial in its operation --- would in my view require extraordinary circumstances.</sentence>
+<sentence id="s440">&#8226; The applicant has relied on a number of cases in support of its application for an order that the first respondent be ordered to transfer the domain name, namely the English Court of Appeal case British Telecommunications PLC v One In A Million Ltd (1998) 42 IPR 289 and the High Court of New Zealand case Oggi Advertising Ltd v McKenzie (1998) 44 IPR 661.</sentence>
+<sentence id="s441">Further, Hill J ordered transfer of a domain name in CSR Ltd v Resource Capital Australia Pty Ltd [2003] FCA 279 ; (2003) 128 FCR 408.</sentence>
+<sentence id="s442">However each of those cases involved cybersquatting, defined by The Australian Concise Oxford Dictionary as "the practice of registering names, especially well-known company or brand names, as Internet domains, in the hope of reselling them at a profit", and which practice is, as Hill J noted in CSR Ltd [2003] FCA 279 ; 128 FCR 408 , conduct somewhat suggestive of criminality and fraud.</sentence>
+<sentence id="s443">The facts in each of those cases were very different from those in the case before me.</sentence>
+<sentence id="s444">120 I consider that the facts of this case fall short of justifying an order depriving the first respondent of the domain name it currently owns and ordering it transferred to the applicant.</sentence>
+<sentence id="s445">Damages 
+ 
+121 The applicant conceded in this case that it had not lead evidence establishing any actual loss of sales revenue arising from the conduct of the first respondent, but instead claimed damages "at large" as awarded in Review Australia Pty Ltd v Innovative Lifestyle Investments Pty Lt d [2008] FCA 74.</sentence>
+<sentence id="s446">Damages sought by the applicant were in the sum of $50,000, representing:
+ 
+&#8226; damages on the basis of notional royalty;
+ 
+&#8226; diminution in the value of the applicant's trade mark; and
+ 
+&#8226; loss of reputation.</sentence>
+<sentence id="s447">122 The applicant submitted in this case that factors of assistance to the Court in determining an award of damages at large included:
+ 
+&#8226; the amount of time and effort the applicant had spent developing its reputation;
+ 
+&#8226; that the respondent had had the benefit of using the applicant's asset, namely the Bing trade mark;
+ 
+&#8226; the fact that the respondent had paid $25,000 for the www.bing.com domain name, which was an unlawful use of the applicant's property; and
+ 
+&#8226; the fact that the first respondent pays the owner of the copyright in the first respondent's software the sum of $300,000 per annum.</sentence>
+<sentence id="s448">123 In relation to assessment of damages in such cases, in Enzed Holdings Ltd v Wynthea Pty Ltd [1984] FCA 373 ; (1984) 57 ALR 167 at 183 the Full Court observed as follows:
+ The principle is clear.</sentence>
+<sentence id="s449">If the court finds damage has occurred it must do its best to quantify the loss even if a degree of speculation and guess work is involved.</sentence>
+<sentence id="s450">Furthermore, if actual damage is suffered, the award must be for more than nominal damages.</sentence>
+<sentence id="s451">We should add that we can see no reason why this principle should not apply in cases under the Trade Practices Act as well as in cases at common law.</sentence>
+<sentence id="s452">We emphasize, however, that the principle applies only when the court finds that loss or damage has occurred.</sentence>
+<sentence id="s453">It is not enough for a plaintiff merely to show wrongful conduct by the defendant.</sentence>
+<sentence id="s454">(emphasis added) 
+124 In this case the applicant has not established any damage by way of loss of sales, loss of reputation or, indeed, any impact whatsoever --- adverse or otherwise --- on the value of its trade mark or otherwise, from the conduct of the first respondent.</sentence>
+<sentence id="s455">I have already observed several times throughout this judgment that the activities and customer base of each of the applicant and the first respondent are completely removed from the other.</sentence>
+<sentence id="s456">There is scant evidence as to the reputation of the applicant, including in relation to its registered trade mark, and no evidence that its reputation has been affected.</sentence>
+<sentence id="s457">Any confusion between the services offered by the applicant and the first respondent was demonstrated to be short-lived and immediately resolved on inquiry.</sentence>
+<sentence id="s458">I consider this to be a case where the applicant has shown wrongful conduct by the respondents, but not substantiated any damage arising from that conduct.</sentence>
+<sentence id="s459">Accordingly, there is no evidence to warrant compensatory damages or even nominal damages in the absence of quantification of damages (cf The Sanitas Company Ltd v Condy (1887) 4 RPC 530 ; Munday v Carey (1905) 22 RPC 273 ; Paramount Pictures Corporation v Hasluck (2006) 70 IPR 293 at 302).</sentence>
+<sentence id="s460">125 In claiming that damages "at large" should be awarded the applicant relied in part on the decision of Jessup J in Review Australia Pty Ltd v Innovative Lifestyle Investments Pty Ltd [2008] FCA 74.</sentence>
+<sentence id="s461">However:
+ 
+&#8226; I consider that Review Australia [2008] FCA 74 is distinguishable from this case.</sentence>
+<sentence id="s462">In Review Australia Jessup J accepted that the market presence of the respondents' product did bring about some minor dilution of the applicant's reputation for originality (at [30]).</sentence>
+<sentence id="s463">In my view there is some evidence of minor and short-lived confusion of a small number of consumers, but no evidence that there has been any dilution of the applicant's reputation in any respect by the market presence of the first respondent.</sentence>
+<sentence id="s464">There is, for example, no evidence (unlike in Review Australia ) that any value placed by the applicant on its goods and services has been diminished by the activities of the respondents.</sentence>
+<sentence id="s465">I make this observation particularly in light of the completely different activities of the parties and the markets in which they operate.</sentence>
+<sentence id="s466">&#8226; In the absence of demonstration by the applicant of any damage, the principles articulated by the Full Court in Enzed Holdings [1984] FCA 373 ; 57 ALR 167 which I have outlined earlier in this judgment militate against an award of damages.</sentence>
+<sentence id="s467">&#8226; Although the applicant relies on evidence of Associate Professor Alpert to the effect that, on the balance of probabilities, the use by the respondents of the mark "bing" has caused a diminution in the value of the applicant's trade mark, I accord the witness' evidence no weight in relation to this issue because:
+ 
+ 
+ o I am not satisfied that Associate Professor Alpert is an expert on valuation of trademarks or intellectual property law.</sentence>
+<sentence id="s468">Associate Professor Alpert's expert report dated 21 December 2007 concerned an overview of key issues from a marketing/branding/consumer behaviour perspective, which area appears to be his area of expertise (Introduction para (c) to report);
+ o considering the witness' expert report and the contents thereof, I draw the inference that, prior to the hearing, he had not directed his mind to the question of monetary valuation of the trade mark in question.</sentence>
+<sentence id="s469">Indeed in referring to "brand values" in his report, Associate Professor Alpert appeared to equate the term with brand aspects rather than any financial concept (note, for example, TS 137 ll 34-44, TS 138 ll 1-4);
+ o Associate Professor Alpert's evidence in relation to possible diminution in the value of the applicant's trade mark was theoretical, highly qualified, and not particularly helpful.</sentence>
+<sentence id="s470">I refer in particular to: 
+ 
+ 
+ 
+ 
+ &#9642; the fact that, in response to a question from Mr Franklin SC as to whether the witness had any experience in assessing the value of the trade mark, the witness replied: 
+ 
+ 
+ 
+ 
+ 
+ Not quantitatively, but in what we teach, marketing branding is essential, and we stress the value of the brand.</sentence>
+<sentence id="s471">(TS 132 ll 4-6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ &#9642; the witness merely agreed that he was able to give the Court "opinions as to the general proposition that a brand is a valuable asset" (TS 132 ll 8-10) and that "these situations can be complex" (TS 132 ll 13-15);
+ &#9642; in response to a question from Mr Franklin SC as to whether Associate Professor Alpert was able to give the Court expert advice on possible causes of diminution and the value of brand, the witness replied: "I'd like to think so, yes" (TS 132 ll 18);
+ &#9642; the witness merely agreed that, assuming that one has a valuable brand that is protected by a registered trademark or a de facto monopoly, one of the reasons that that value might diminish is if someone uses the same or a similar brand in the same market (TS 132 ll 30-33).</sentence>
+<sentence id="s472">
+ 
+ 
+ 
+ 
+ In noting this evidence I intend no criticism of the witness who was endeavouring to be of assistance.</sentence>
+<sentence id="s473">However, in my view, the evidence raises not only serious questions as to the witness' expertise in relation to the issue of value of the relevant brand, but also serious doubts as to its probity.</sentence>
+<sentence id="s474">
+ 
+
+126 Accordingly, I consider that I should make no order as to compensatory damages or damages "at large".</sentence>
+<sentence id="s475">127 It would be appropriate for the parties to file written submissions as to the form the final injunction should take based upon the undertaking given by the first respondent in Court.</sentence>
+<sentence id="s476">Accordingly, at this stage the proper order is that the parties be directed to file written submissions by 4.00 pm on 28 November 2008 as to the form of the final injunctive relief based upon my reasons in this judgment, and costs, and that the matter be listed to return next week for final orders to be made.</sentence>
+<sentence id="s477">I certify that the preceding one hundred and twenty-seven (127) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Collier.</sentence>
+<sentence id="s478">Associate:
+
+Dated: 25 November 2008
+
+ Counsel for the Applicant: Mr A Franklin SC 
+ 
+ Solicitor for the Applicant: Bennett &amp; Philp 
+ 
+ Counsel for the Respondents: Mr A Crowe SC 
+ 
+ Solicitor for the Respondents: Holding Redlich 
+
+ Date of Hearing: 13 March 2008 
+ 
+ Date of Judgment: 25 November 2008 
+
+ 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1760.html 
+ 
+ </sentence>
+</sentences>
+</case>

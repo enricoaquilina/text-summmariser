@@ -1,0 +1,384 @@
+
+<DOC>
+<DOCNO> FBIS3-21019 </DOCNO>
+<HT>    "jpest007___94016" </HT>
+
+
+<HEADER>
+<AU>   JPRS-EST-94-007 </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Europe/International </ABS>
+<DATE1>   17 March 1994 </DATE1>
+<F P=100> WEST EUROPE </F>
+<F P=101> AEROSPACE </F>
+<H3> <TI>   ESA Envisat Advanced Synthetic Aperture Radar Discussed </TI></H3>
+<F P=102>  BR0402093094 Noordwijk ESA BULLETIN in English Nov 93 pp 
+30-35 </F>
+
+<F P=103> BR0402093094 </F>
+<F P=104>  Noordwijk ESA BULLETIN </F>
+
+
+<TEXT>
+Language: <F P=105> English </F>
+Article Type:BFN 
+
+<F P=106> [Article by S. Karnevi and E. Dean: "Envisat's Advanced </F>
+Synthetic Aperture Radar: ASAR"] 
+  [Text] An advanced Synthetic Aperture Radar (ASAR) has 
+been selected as the imaging radar sensor for the Envisat-1 
+payload. In addition to providing continuity of data with the 
+single-swath, single-polarisation Active Microwave 
+Instrumentation (AMI) currently flying on ERS-1 (and ERS-2), the 
+ASAR has the additional advantages of offering: greater 
+coverage, with more flexibility in the choice of swath 
+positions, a wider range of incidence angles, and a wide swath 
+capability; dual polarisation; and improved wave mode 
+capabilities. 
+<H5>  ASAR'S Role </H5>
+  The objectives for the Advanced SAR are very similar to 
+those 
+of the AMI on ERS-1 and ERS-2. The main task will again be that 
+of monitoring the Earth's environment to collect more precise 
+information on global change, focussing specifically on global 
+climate and all of the factors that may influence it. 
+  Monitoring of the Earth's bio-mass, especially the 
+deforestation in the large primeval forests in the equatorial 
+regions, will allow better modelling of the influence on the 
+greenhouse effect and global climate and facilitate the 
+implementation of countermeasures. 
+  Desertification and the distribution of humidity, changes in 
+water levels, flooded areas, and the extent of the ice caps 
+around the North and South Poles are other major factors that 
+need to be monitored in order to improve our understanding of 
+global climate change. 
+  Envisat's SAR images will also further improve our 
+understanding of ocean dynamics, the interactions between oceans 
+and atmosphere, as well as both manmade and natural processes in 
+coastal zones. 
+  The major advantage of using a SAR for earth-observation 
+tasks lies in its ability to acquire imagery day or night and 
+independent of cloud cover and weather conditions. This 
+weather-independent capability is of vital importance for 
+disaster assessment, as major floods or large oil spills, 
+usually occur in weather conditions that drastically curtail the 
+usefulness of optical sensors. 
+  ERS-1 SAR images have also proved extremely useful for 
+shipping operations in Arctic ice. Ocean-wave spectra taken 
+around the globe with ASAR will further improve the safety of 
+shipping routes and offshore activities. 
+  As experience with SAR data grows, its contribution to 
+resource management will also become more and more important. 
+In addition to the bio-mass estimating application already 
+mentioned, improved classification methods will allow more 
+accurate harvest predictions, better estimates of sweet-water 
+resources and, via geological surveys, support the search for 
+mineral resources. 
+<H5>  The ASAR Instrument </H5>
+  Given the rapid expansion in the SAR data user community, it 
+is essential that Envisat should carry an instrument that not 
+only provides data continuity with ERS-1 and ERS-2, but also at 
+the same time represents a step forward in terms of both system 
+flexibility and the scientific and operational value of its data 
+sets. 
+  To satisfy these needs, the ASAR design incorporates: 
+  -- A flexible swath-position capability, which will offer 
+the 
+choice between several image swath positions at various 
+distances from the subsatellite track with different incidence 
+angles. 
+  -- A dual-polarisation facility (cf. vertical only on ERS), 
+offering horizontal or vertical polarisation imaging. 
+  The ASAR's ability to switch between different swaths offers 
+very fast multiplexing, so that an overall swath more than 400 
+km wide can be imaged in one pass. In addition to this 
+so-called "Wide Swath Mode", the ASAR can be set to operate at a 
+coarse spatial resolution of only 1000 m. The data rate will 
+then be low enough for tape recording onboard the spacecraft. 
+This is known as the "Global Monitoring Mode" and it 
+constitutes a tool for monitoring such features as ice coverage, 
+snow coverage, deforestation, desertification or humidity, 
+without interruption and on a global scale, due to its 
+independence from ground-station coverage. 
+  The ASAR's ability to switch between two polarisation allows 
+a special "Alternating Polarisation Mode" to be implemented 
+which permits half of the looks at a scene to be acquired with a 
+horizontal, and the other half with a vertical polarisation in a 
+single pass, thereby considerably increasing the target 
+classification capability (especially if used in conjunction 
+with multi-temporal imaging of the same scene). 
+  Furthermore ASAR will, like ERS, have a "Wave Mode" for 
+taking 5 x 5 km images but more frequently, over 100 or 200 km 
+distances, and with two such images in any swath over the 
+oceans, to supply ocean-wave spectra on a global basis. 
+  The ASAR instrument is divided functionally into two 
+sub-assemblies: 
+  -- An Antenna Sub-Assembly (ASA), containing the 
+phased-array 
+antenna electronics distributed over 20 "tiles", and 
+  -- A Central Electronics Sub-Assembly (CESA), providing 
+signal (RF) generation and reception, control signals, power 
+conditioning and data formatting. 
+  The ASAR antenna consists of five hinged panels, each 
+containing four tiles. 
+  The CESA equipment units are mounted on three of the Payload 
+Equipment Bay panels inside the spacecraft. 
+  Control of the instrument covers the following functions: 
+  -- Selecting the required mode and generating the 
+appropriate 
+timeline. 
+  -- Selecting the required antenna beam pattern for the 
+required swath (or beam patterns in modes where multiple swaths 
+are needed). 
+  -- Housekeeping, including setting redundancy paths. 
+  -- Monitoring the status of all equipment. 
+  -- Patching and dumping any software. 
+  Control is maintained by sending macro-commands via the 
+onboard computer to the Instrument Control Unit (ICU). 
+<H5>  Instrument Performance </H5>
+  The ASAR instrument has several operating modes, which can 
+be 
+grouped into four areas: 
+  -- Support modes 
+  -- Operational modes 
+  -- Calibration modes 
+  -- Test/health-check modes. 
+  The various roles are summarised in Table 1. 
+
+
+
+  Table 1. ASAR operating modes 
+
+Support modes 
+
+Off                                      Instrument electrically disconnected 
+                                         from the platform 
+
+Standby                                  Instrument communications active and 
+                                         capable of receiving 
+
+                                         Commands and transmitting telemetry 
+                                         on demand. The internal monitoring 
+                                         system is active 
+
+Heater                                   Ovens of all units requiring 
+                                         temperature stabilisation are active 
+
+                                         and stable 
+
+Pre-operation                            All units are active, but no 
+                                         transmissions are occurring 
+
+Operation modes 
+
+Wide swath                               This mode operates with wide swath 
+                                         and reduced spatial 
+
+                                         resolution 
+
+Image                                    High resolution, selectable swath 
+                                         position 
+
+Wave                                     Sampled imaging mode, low data rate 
+
+Global monitoring                        Wide swath, low spatial resolution, 
+                                         low data rate 
+
+Alternating polarisation                 Interleaved vertically and 
+                                         horizontally polarised (VV and HH) 
+
+                                         imaging at high resolution, 
+                                         selectable swath position 
+
+Calibration modes 
+
+External calibration                     External characterisation to ground 
+                                         receivers 
+
+Test/Health-check modes 
+
+Module stepping                          Individual health check on each T/R 
+                                         module 
+
+Test                                     On-ground testing facility 
+
+
+  The operational modes can themselves be divided into three 
+different categories: 
+  -- High-spatial-resolution imaging modes 
+  -- Low-spatial-resolution imaging modes 
+  -- Wave mode. 
+<H5>  High-spatial-resolution Imaging Modes </H5>
+  In these two modes - the so-called "Image Mode" and 
+"Alternating Polarisation Mode" - the ASAR operates as an 
+imaging radar with high spatial resolution (typically a few tens 
+of metres), and relatively narrow swaths (up to 120 km). 
+  The Image Mode provides continuous coverage over a single 
+swath nominally 100 km wide. The swath can be selected anywhere 
+within a 500 km region (incidence angle range 15-45 degrees). 
+For nominal operation, seven swaths (IS1 to IS7) are defined 
+over this region. The imaging is performed by transmitting a 
+continuous series of pulses and acquiring the required echo 
+information after the appropriate return trip delay. 
+  The transition to Image Mode is made automatically following 
+the appropriate macro-command. Before the actual measurement of 
+data is initiated, a period of stabilisation, noise measurement 
+and internal calibration is performed. Echo measurement then 
+starts, during which the initial calibration is updated on a 
+regular basis. Image Mode operation continues uninterrupted 
+until the receipt of another macro-command to switch to another 
+mode. 
+  The Alternating Polarisation Mode provides vertically and 
+horizontally polarised imaging of the same scene by interleaving 
+looks with each polarisation along track within the synthetic 
+aperture. The echo measurement is made within repetition cycles 
+containing two bursts of transmissions on each of the 
+polarisations. The sequence is only interrupted when the 
+internal calibration requires updating (as for the Image Mode). 
+<H5>  Low-Spatial-Resolution Imaging Modes </H5>
+  These are the "Wide Swath Mode" and "Global Monitoring 
+Mode", 
+in which the ASAR operates as an imaging radar with low spatial 
+resolution (100 m to 1 km) and relatively wide swath (more than 
+400 km). To obtain global coverage for the Global Monitoring 
+Mode, the data is stored onboard the satellite and transferred 
+to ground when it passes over a ground station. 
+  The Wide Swath Mode provides continuous coverage over a 
+swath 
+nominally 400 km wide, which is divided into five subswaths 
+ranging from 60 to 100 km in width. The ASAR transmits bursts 
+of pulses to each of the subswaths in turn in such a way that a 
+continuous along-track image is built up for each subswath. 
+  During a transition to Wide Swath Mode, all the necessary 
+data transfers and timing parameters are established. 
+Stabilisation, noise measurement and internal calibration 
+follow in a similar manner to the Image Mode, after which the 
+echo measurement sequence itself commences. For each subswath, 
+there is a burst of transmissions followed by a short quiescent 
+period whilst the echoes from the last transmit pulses are 
+received. Transmissions then switch to the next subswath in the 
+cycle. The updating of the internal calibration is performed at 
+the end of each subswath transmission burst. 
+  The Global Monitoring Mode provides continuous along-track 
+sampling across a 400 km swath, again using a SAR scanning 
+technique. This mode has a low data rate due to a slightly 
+reduced along-track duty ratio and the use of digital filtering 
+for reduction in the across-track direction. The same subswaths 
+as defined for the Wide Swath Mode are used. 
+<H5>  Wave Mode </H5>
+  In the "Wave Mode", the ASAR uses the facilities of the 
+Image 
+Mode to image small areas of the ocean surface, measuring the 
+changes in radar backscatter from the surface due to wave 
+action. The imaging is carried out to a high spatial resolution 
+over one or two areas across a swath of approximately 5 km x 5 
+km at intervals of nominally 100 or 200 km in the along-track 
+direction. 
+  The transition to Wave Mode is identical to that for the 
+Image Mode, including the initial calibration sequence. This is 
+followed by a burst of transmissions covering the 5 km 
+along-track vignette distance. A quiescent period is then used 
+to transfer the data to the Payload Data Handling and 
+Transmission System via the low-rate data interface. The total 
+duration of the repetition cycle is the time taken to traverse 
+the 100 or 200 km separation between vignettes. Noise and 
+calibration sequences are repeated at the start of each cycle. 
+  The predicted in-orbit performances of the ASAR instrument 
+in 
+its various modes of operation are presented in Table 2. The 
+instrument is still in the development stage and its final 
+performance parameters will be established as part of the 
+Preliminary Design Review, scheduled for early 1994. 
+
+
+
+  Table 2. Predicted in-orbit performance of ASAR 
+
+                Operational 
+                Modes 
+
+Parameter       Unit           Image      Alt.       Wide       Global     Wave 
+                                          polar      swath      mon. 
+
+Polarisation    -              VV or HH   VV + HH    VV or HH   VV or HH   VV or HH 
+
+
+Spatial         m              -30        -30        - 100      -1000 m    -30 
+resolution 
+
+Radiometric     dB             1.8 to     2.9 to     2.6 to     1.6        1.6 to 
+resolution*                    3.0        4.7        3.0                   2.5 
+
+Ambiguity 
+ratios:* 
+
+- Point         dB             bigger     bigger     bigger     bigger     bigger 
+target                         than 27    than 20    than 23    than 25    than 27 
+                                          dB 
+
+- Distributed   dB             7 to 21    8 to 23    7 to 25    9 to 26    7 to 22 
+target 
+
+Swath width     km             56 to      56 to      406        406        5 x 5 
+                               120        120 
+
+Incidence       deg            15-45      15-45                            15-45 
+angle 
+
+Localisation    km             smaller    smaller    smaller    smaller    smaller 
+accuracy                       than       than       than       than       than 
+                               0.35       0.35       0.35       0.35       0.35 
+
+DC power        W              1200       1200 
+consumption 
+
+Data            Mbit/s 
+rate(mean) 
+
+Radiometric     dB             smaller    smaller    smaller    smaller    smaller 
+accuracy                       than 1.4   than 1.4   than 1.4   than 1.3   than 1.7 
+
+
+* Swath dependent 
+
+
+<H5>  Product Processing </H5>
+  The images acquired by ASAR will be processed on the ground 
+and distributed mainly from ESRIN in Frascati(I). The products 
+will fall into four main categories: 
+  -- High-Resolution Images, generated within 24 h of sensing 
+and normally distributed by non-electronic means, similar to the 
+ERS-1 Precision Image (PRI). 
+  -- Fast-Delivery Products, delivered within 3 h of sensing 
+via electronic links; this product will have a lower geometric 
+resolution (approx. 100 m pixels). 
+  -- Browse Products, delivered within 3 h, but with very low 
+resolution, and used for Browse Catalogues. 
+  -- Wave Imagettes and Spectra, similar to the ERS-1 wave 
+spectra, but with the ASAR enhancements. 
+<H5>  Conclusion </H5>
+  In addition to achieving comparable performance to ERS-1 in 
+the swath that coincides with the ERS-1 single fixed swath, the 
+ASAR instrument will give Envisat-1: 
+  -- Wider swath and incidence-angle coverage 
+  -- A second channel of information by means of the dual- 
+polarisation capability 
+  -- Variable spatial resolutions and data rates. 
+  In addition, the ASAR can be tuned during its in-orbit 
+lifetime to make optimum use of the power available. Satellite 
+instrument designs are generally driven by end-of-life 
+requirements, which often results in under-utilisation early in 
+a mission. The ASAR's built-in flexibility will allow it to 
+take advantage of beginning-of-life conditions. It will also 
+enable operating modes other than the baseline modes that were 
+identified in Table 1 to be explored during the Envisat-1 
+mission, thereby helping to define requirements and modes of 
+operation for future SAR missions. 
+
+</TEXT>
+
+</DOC>

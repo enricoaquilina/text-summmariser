@@ -1,0 +1,305 @@
+<?xml version="1.0"?>
+<case>
+<name>Bradken Resources Pty Ltd v Lynx Engineering Consultants Pty Ltd [2008] FCA 1257 (29 August 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1257.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">patents</catchphrase>
+<catchphrase "id=c1">unjustified threats</catchphrase>
+<catchphrase "id=c2">ss 128 and 129 of the patents act 1990 (cth)</catchphrase>
+<catchphrase "id=c3">assuming the threat was made and that the defence under s 129(b) is not established, whether the court has a discretion to decline to grant relief sought by an applicant</catchphrase>
+<catchphrase "id=c4">meaning of the word "may" in the context of s 129</catchphrase>
+<catchphrase "id=c5">whether certain matters are relevant to the exercise of the discretion</catchphrase>
+<catchphrase "id=c6">whether breach of contract and confidence, or infringement of copyright or contravention of certain provisions of the trade practices act 1974 (cth) by the applicant in relation to the conduct to which the threats related is relevant to the exercise of the discretion to decline to grant relief under s 129</catchphrase>
+<catchphrase "id=c7">whether the applicant's having "dirty hands" is relevant to the exercise of the discretion</catchphrase>
+<catchphrase "id=c8">whether the discretion is like the discretion to decline to grant relief in the auxiliary jurisdiction of a court of equity</catchphrase>
+<catchphrase "id=c9">patents</catchphrase>
+<catchphrase "id=c10">unjustified threats</catchphrase>
+<catchphrase "id=c11">ss 128 and 129 of the patents act 1990 (cth)</catchphrase>
+<catchphrase "id=c12">the defence available under ss 57 and 129 (b) in an unjustified threats proceeding</catchphrase>
+<catchphrase "id=c13">whether, for the defence to be available, the conduct, which was the subject of the threats, must infringe the claims of the complete specification as published at the time of the threats and as published at the time at which the conduct will occur if that conduct has not yet occurred at the time the threat was made</catchphrase>
+<catchphrase "id=c14">whether the defence is only available after the grant of the patent which is the subject of the application referred to in s 57</catchphrase>
+<catchphrase "id=c15">summary judgment</catchphrase>
+<catchphrase "id=c16">s 31a of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase "id=c17">application to strike out certain allegations in a defence</catchphrase>
+<catchphrase "id=c18">intellectual property</catchphrase>
+<catchphrase "id=c19">intellectual property</catchphrase>
+<catchphrase "id=c20">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 The Court has three applications before it.</sentence>
+<sentence id="s1">They have been heard together.</sentence>
+<sentence id="s2">Two separate proceedings are involved, although the parties in each proceeding are the same.</sentence>
+<sentence id="s3">Bradken Resources Pty Limited ( Bradken ) is the applicant in both and Lynx Engineering Consultants Pty Limited ( Lynx ) is the respondent in both.</sentence>
+<sentence id="s4">Both proceedings are concerned with Australian Patent Application Number 749848 for an invention titled "Side Reinforced Bulk Material Transport Container" ( the Patent Application ).</sentence>
+<sentence id="s5">The Patent Application was lodged by Lynx.</sentence>
+<sentence id="s6">2 Proceeding NSD 439 of 2007 ( the Appeal Proceeding ) is an appeal by Bradken from part of a decision of a delegate of the Commissioner of Patents ( the Commissioner ) to reject the opposition to the Patent Application filed by Bradken.</sentence>
+<sentence id="s7">Lynx has filed a cross-appeal in the Appeal Proceeding.</sentence>
+<sentence id="s8">3 Proceeding NSD 2461 of 2007 ( the Threats Proceeding ) is a claim by Bradken that a letter of 11 October 2007 ( the Threats Letter ) to BHP Billiton Iron Ore Pty Limited ( BHP ) constitutes unjustifiable threats by Lynx within s 128 of the Patents Act 1990 (Cth) ( the 1990 Act ).</sentence>
+<sentence id="s9">The Threats Letter was written by Watermark Patent and Trade Mark Attorneys acting for Lynx.</sentence>
+<sentence id="s10">4 Prior to the commencement of both the Appeal Proceeding and the Threats Proceeding, Lynx had commenced proceedings numbers WAD 219 of 2006 and WAD 217 of 2007 in the Western Australia Registry of the Court.</sentence>
+<sentence id="s11">On 13 February 2008, those proceedings were consolidated by order of the Court ( the Confidential Information Proceeding ).</sentence>
+<sentence id="s12">The respondents in the Confidential Information Proceeding are ANI Corporation Limited, trading as "ANI Bradken Rail Transportation Group" ( ANI ), Bradken, Bradken Limited and WorleyParsons Services Pty Limited ( WorleyParsons ).</sentence>
+<sentence id="s13">5 It appears to be undisputed that it would be desirable for the Appeal Proceeding and the Threats Proceeding to be managed together, since the outcome of the Appeal Proceeding could have a bearing on issues in the Threats Proceedings.</sentence>
+<sentence id="s14">However, Lynx has applied in each of the Appeal Proceeding and the Threats Proceeding for an order that each proceeding be transferred to the Western Australia Registry and that, when transferred, it be managed together with the Confidential Information Proceeding.</sentence>
+<sentence id="s15">6 Bradken, in its turn, has applied for orders striking out certain paragraphs of the Defence filed by Lynx in the Threats Proceeding.</sentence>
+<sentence id="s16">In the Defence, Lynx relies, inter alia , on s 129(b) and 57 of the 1990 Act.</sentence>
+<sentence id="s17">However, Lynx also alleges in the Defence that Bradken should be denied relief by reason of the conduct that it alleges against Bradken in the Confidential Information Proceeding.</sentence>
+<sentence id="s18">7 It is desirable to say something about the provisions of the 1990 Act that are relevant to the Threats Proceeding.</sentence>
+<sentence id="s19">I shall then say something about each of the three proceedings in order to place in context the issues raised by the three applications presently before the Court.</sentence>
+<sentence id="s20">STATUTORY CONTEXT 
+ 
+8 Sections 57, 128 and 129 of the 1990 Act are of particular importance in the present context.</sentence>
+<sentence id="s21">However, I shall first say something about the regime for public inspection of documents relevant to a patent application.</sentence>
+<sentence id="s22">That regime is relevant to one of the questions raised by the strike out motion.</sentence>
+<sentence id="s23">9 Under s 29(1) of the 1990 Act, a person may apply for a patent by filing a patent request.</sentence>
+<sentence id="s24">Section 49(1) provides that the Commissioner must accept a patent request and complete specification relating to an application for a patent if certain prerequisites are satisfied.</sentence>
+<sentence id="s25">Under s 49(5)(b), where the Commissioner accepts a patent request and a complete specification, the Commissioner must publish a notice of the acceptance in the Official Journal .</sentence>
+<sentence id="s26">10 Under s 53 of the 1990 Act, where a patent application is made, the Commissioner must publish prescribed information about the applicant and the application.</sentence>
+<sentence id="s27">Section 54(1) provides that, where a complete specification filed in respect of an application has not become open to public inspection, the Commissioner must , if asked to do so by the applicant, publish a notice that the complete specification is open to public inspection.</sentence>
+<sentence id="s28">Under s 54(3), where a complete specification has been filed in respect of an application, the prescribed period has ended and the specification is not open to public inspection, the Commissioner must publish a notice that the specification is open to public inspection.</sentence>
+<sentence id="s29">11 Section 55(1) then provides that, where a notice is published under s 54, the specification concerned and other prescribed documents are open to public inspection.</sentence>
+<sentence id="s30">Section 55(2) provides that, where a notice is published under s 49(5)(b) in relation to an application, the documents specified in s 55(2) that have not already become open to public inspection become open to public inspection.</sentence>
+<sentence id="s31">Under s 56, except as otherwise provided by the Act, documents of the kind mentioned in s 55 must not be published or be open to public inspection.</sentence>
+<sentence id="s32">12 Section 57(1) provides that, after a complete specification relating to an application has become open to public inspection, and until a patent is granted on the application, the applicant has the same rights as he or she would have had if a patent for the invention had been granted on the day when the specification became open to public inspection.</sentence>
+<sentence id="s33">However, s 57(3) provides that s 57(1) does not give the applicant a right to start proceedings in respect of the doing of an act unless:
+ 
+(a) a patent is granted on the application; and
+ 
+(b) the act would, if done after the grant of the patent, have constituted an infringement of a claim of the specification.</sentence>
+<sentence id="s34">13 Section 128(1) provides that, where a person threatens a person with infringement proceedings, or other similar proceedings, a person aggrieved may apply for:
+ 
+(a) a declaration that the threats are unjustifiable; and
+ 
+(b) an injunction against the continuance of the threats; and
+ 
+(c) the recovery of any damages sustained by the applicant as a result of the threats.</sentence>
+<sentence id="s35">14 Section 129 relevantly provides that the Court may grant the applicant the relief applied for under s 128, unless the respondent satisfies the Court that the acts about which the threats were made infringed, or would infringe:
+ 
+(a) a claim that is not shown by the applicant to be invalid; or
+ 
+(b) rights under s 57 in respect of a claim that is not shown by the applicant to be a claim that would be invalid if the patent had been granted.</sentence>
+<sentence id="s36">The reference to a claim in paragraphs (a) and (b) is a reference to a claim of a standard patent or application for a standard patent.</sentence>
+<sentence id="s37">15 Section 130(1) of the 1990 Act provides that the respondent in proceedings under s 128 may apply, by way of counter-claim, for relief to which the respondent would be entitled in separate proceedings for an infringement by the applicant of the patent to which the threats relate.</sentence>
+<sentence id="s38">Section 130(2) permits the applicant to apply in the proceedings, after the respondent has applied by way of counter-claim, for the revocation of the Patent.</sentence>
+<sentence id="s39">The provisions of the Act relating respectively to infringement proceedings and revocation of a patent apply mutatis mutandis to such proceedings.</sentence>
+<sentence id="s40">THE PATENT APPLICATION AND THE APPEAL PROCEEDING 
+ 
+16 The Patent Application was lodged on 30 March 1999 and became open to public inspection on and from 16 December 1999.</sentence>
+<sentence id="s41">The Commissioner accepted the Patent Application on 4 July 2002.</sentence>
+<sentence id="s42">17 On 4 October 2002, Bradken filed a Notice of Opposition to the grant of a patent pursuant to the Patent Application.</sentence>
+<sentence id="s43">On 13 March 2007 a delegate of the Commissioner made a decision that the opposition did not succeed except in relation to certain claims.</sentence>
+<sentence id="s44">The delegate directed that Lynx be given leave to file amendments in relation to those claims.</sentence>
+<sentence id="s45">The Appeal Proceeding was brought by Bradken in respect of that decision.</sentence>
+<sentence id="s46">18 On 11 May 2007, Lynx filed amendments to the Patent Application pursuant to the leave given by the delegate ( the Lynx Amendments ).</sentence>
+<sentence id="s47">On 16 July 2007, Bradken filed submissions in relation to the Lynx Amendments.</sentence>
+<sentence id="s48">However, notice of acceptance of the Lynx Amendments was published on 1 November 2007.</sentence>
+<sentence id="s49">On 31 January 2008, Bradken filed an opposition to the Lynx Amendments.</sentence>
+<sentence id="s50">THE CONFIDENTIAL INFORMATION PROCEEDING 
+ 
+19 In the Confidential Information Proceeding, Lynx claims a declaration that ANI, Bradken and Bradken Limited have infringed the copyright of Lynx in various drawings and materials containing technical specifications and other manufacturing details ( the Lynx Copyright Works) .</sentence>
+<sentence id="s51">Lynx also claims a declaration that those three respondents have breached a duty of confidence owed to Lynx in respect of the Lynx Copyright Works on the basis that the information contained in the Lynx Copyright Works is unpublished confidential information of Lynx ( the Lynx Confidential Information ).</sentence>
+<sentence id="s52">Lynx further claims a declaration that the respondents have engaged in misleading and deceptive conduct under ss 52 and 53 of the Trade Practices Act 1974 (Cth) ( the Trade Practices Act ).</sentence>
+<sentence id="s53">Lynx also claims consequential relief in respect of the alleged infringement of copyright, breach of duty of confidence and misleading and deceptive conduct.</sentence>
+<sentence id="s54">20 Lynx alleges that Bradken used, and procured and joined in the use of, the Lynx Confidential Information knowingly to manufacture, or join in and procure the manufacture of, railway wagons that are the subject of the claimed invention of the Patent Application and to market such wagons and sell them or offer them for sale.</sentence>
+<sentence id="s55">Lynx asserts that, by doing so, Bradken achieved a head start in relation to the manufacture, offering for sale, marketing and sale of such wagons because it avoided the need for independent design, development, marketing and manufacture.</sentence>
+<sentence id="s56">Lynx alleges that products designed, developed, marketed and manufactured by Bradken involve the use of the Lynx Confidential Information in breach of contractual and equitable obligations of confidence.</sentence>
+<sentence id="s57">THE THREATS PROCEEDING 
+ 
+21 In the threats proceeding, Bradken claims an order restraining Lynx from representing that the Patent Application permits it to sue any third party for infringement of a patent and from representing that Lynx has an expectation that the Patent Application will proceed to grant and that thereupon it will obtain rights to sue any third party for infringement of a patent.</sentence>
+<sentence id="s58">Bradken also claims damages pursuant to s 129 of the 1990 Act.</sentence>
+<sentence id="s59">Bradken makes the following relevant allegations:
+ 
+&#8226; At all material times, Bradken was engaged in negotiations with BHP for the supply to BHP of railway wagons for the bulk transport of materials.</sentence>
+<sentence id="s60">&#8226; At all material times, Lynx was also indirectly engaged in negotiations with BHP for the supply to BHP of railway wagons for the bulk transport of materials.</sentence>
+<sentence id="s61">&#8226; Lynx was aware that Bradken was engaged with BHP in such negotiations.</sentence>
+<sentence id="s62">&#8226; On 11 October 2007, Lynx caused the Threats Letter to be sent to BHP.</sentence>
+<sentence id="s63">&#8226; The Threats Letter conveyed that Lynx intends to bring proceedings against BHP in respect of any use or proposed use of railway wagons supplied to BHP by Bradken.</sentence>
+<sentence id="s64">22 In the Threats Letter, Lynx's patent and trademark attorneys assert that Lynx is the owner of the Patent Application and a copy of the specification is enclosed with the Threats Letter.</sentence>
+<sentence id="s65">After referring to the history of the Patent Application and the Appeal Proceeding, the Threats Letter draws attention to s 117 and s 13 of the 1990 Act.</sentence>
+<sentence id="s66">Section 13 specifies the exclusive rights that are given to a patentee by a patent.</sentence>
+<sentence id="s67">Section 117 specifies when a patent is infringed by the supply of a product by one person to another.</sentence>
+<sentence id="s68">After setting out the terms of those provisions, the Threats Letter ends by saying:
+ We bring the [Patent Application] and above information to your attention to assist you to avoid potential infringement issues, and trust that you would not wish to be drawn into proceedings relating to... the subject of the abovementioned accepted and pending patent applications.</sentence>
+<sentence id="s69">23 In its amended defence filed in the Threats Proceeding ( the Defence ), Lynx denies that the Threats Letter contains threats within s 128 of the 1990 Act.</sentence>
+<sentence id="s70">In addition, in paragraph 4 of the Defence, Lynx relevantly says that, but for the Appeal Proceeding and Bradken's opposition to the Lynx Amendments, Lynx:
+ 
+(i) would have been entitled, after the decision of the Commissioner's delegate, to the grant of a patent in respect of the Patent Application as published on 18 October 1999, except as disallowed by the Commissioner's delegate and as amended by the Lynx Amendments;
+ 
+(ii) would have been entitled to the grant of a patent pursuant to the Patent Application upon and in accordance with the decision of the Commissioner's delegate and the leave to amend granted by the delegate;
+ 
+(iii) having exercised that leave, would have been entitled to the grant of a patent pursuant to the Patent Application, as amended by the Lynx Amendments, upon the expiry of the time for opposition to the amendments after acceptance and publication; and
+ 
+(iv) would have held and would hold a patent in respect of the invention the subject of the Patent Application.</sentence>
+<sentence id="s71">24 Lynx then says, in paragraph 15, that the acts about which any threats were made by the Threats Letter would infringe the rights of Lynx under s 57 of the 1990 Act in respect of the claims of the Patent Application that Lynx would have had, if a patent for the invention the subject of the Patent Application had been granted on the day on which the complete specification became open to public inspection.</sentence>
+<sentence id="s72">In particular, Lynx makes the following allegations:
+ 
+ 
+ (a) The claims that would be infringed upon the grant of a patent pursuant to the Patent Application ( the Relevant Claims ) are certain claims of the complete specification of the Patent Application embodying the Lynx Amendments to the complete specification of the Patent Application as accepted by the Commissioner of Patents on 22 October 2007 and published on 1 November 2007.</sentence>
+<sentence id="s73">(b) The infringements are certain railway wagons manufactured and supplied to date and the offer to manufacture and supply such wagons ( Bradken Wagons ).</sentence>
+<sentence id="s74">(c) The claims of the complete specification of the Patent Application on the day on which that complete specification became open to public inspection are substantially the same as the Relevant Claims and would have been infringed by the infringements referred to in (b) above if a patent had been granted on the day on which that complete specification became open to public inspection.</sentence>
+<sentence id="s75">
+ 
+
+25 By paragraph 16 of the Defence, Lynx alleges that, by reason of the facts and matters pleaded in paragraph 4, Bradken is not entitled to, and should, in the discretion of the Court, be denied, the relief claimed in the Threats Proceeding.</sentence>
+<sentence id="s76">26 In paragraph 17 of the Defence, Lynx asserts that the acts of Bradken, to which the Threats Letter related, were assisted, facilitated and made possible by the wrongful acts and conduct of Bradken complained of in the Confidential Information Proceeding.</sentence>
+<sentence id="s77">Lynx also asserts in paragraph 17 that, by reason of the conduct complained of in the Confidential Information Proceeding, Bradken is not entitled to, and should be denied, the relief sought against Lynx in the Threats Proceeding.</sentence>
+<sentence id="s78">27 Lynx particularises the allegations in paragraph 17 as follows:
+ 
+&#8226; Bradken claims that the alleged threats by Lynx are unjustified because of the construction of the Threats Letter, which threatens infringement of the Patent Application.</sentence>
+<sentence id="s79">&#8226; Bradken used and procured and joined in the use of, the Lynx Confidential Information and did so knowingly, to manufacture or join in and procure the manufacture of Bradken Wagons and to market and sell or offer Bradken Wagons for sale.</sentence>
+<sentence id="s80">&#8226; By so doing, Bradken avoided independent design, development, marketing and manufacture of the Bradken wagons and achieved a head start in relation to the manufacture, offering for sale, marketing and sale of those wagons.</sentence>
+<sentence id="s81">&#8226; Bradken acted in concert with ANI, Bradken Limited and WorleyParsons.</sentence>
+<sentence id="s82">&#8226; A patent would have been granted but for Bradken's opposition to the Patent Application and the appeal in the Appeal Proceedings and Bradken's opposition to the Lynx Amendments.</sentence>
+<sentence id="s83">&#8226; Products designed, developed, marketed and manufactured by Bradken involving use of the Lynx Confidential Information in breach of contractual and equitable obligations of confidence are the products in respect of which it is alleged that Lynx has made unjustified threats.</sentence>
+<sentence id="s84">&#8226; Conduct of Bradken, of which complaint is made in the Confidential Information Proceedings, in using the Lynx Confidential Information in breach of contractual and equitable obligations of confidence is thus directly and immediately related to the declaratory, injunctive and other relief claimed by Bradken against Lynx in the Threats Proceeding.</sentence>
+<sentence id="s85">&#8226; So far as the conduct of Bradken, of which complaint is made in the Confidential Information Proceedings, is found and held to have been in breach of contract or to have contravened the provisions of the Trade Practices Act and to have constituted infringement of copyright, that wrongful conduct is, in the same manner as the wrongful use of confidential information referred to above, directly and immediately related to the declaratory, injunctive and other relief claimed by Bradken against Lynx in the Threats Proceeding.</sentence>
+<sentence id="s86">THE STRIKE OUT APPLICATION 
+ 
+28 Bradken's application to strike out paragraphs of the Defence is based on s 31A of the Federal Court of Australia Act 1976 (Cth).</sentence>
+<sentence id="s87">Section 31A requires the Court to consider the question of whether there is a real issue of law or fact to be decided.</sentence>
+<sentence id="s88">The Court must conduct an enquiry into the merits of the issues of law.</sentence>
+<sentence id="s89">While the enquiry should not necessarily be for the purpose of resolving the legal questions, that can be done.</sentence>
+<sentence id="s90">The object is not simply to determine whether the argument is hopeless, but whether the argument is sufficiently strong to warrant the matter going to trial.</sentence>
+<sentence id="s91">If the Court can resolve contested legal issues at a summary hearing, without undue delay, it may be preferable to do so in the interests of saving costs and time.</sentence>
+<sentence id="s92">Where there is a real issue of law, the Court can hear and decide it without the need for a trial or evidence.</sentence>
+<sentence id="s93">Once the issues of law are resolved, it may be clear, one way or the other whether the matter should be allowed to go to trial (see Jefferson Ford Pty Ltd v Ford Motor Company of Australia Limited [2008] FCAFC 60 at [23] and [131]).</sentence>
+<sentence id="s94">29 Bradken's application is to strike out paragraphs 15, 16 and 17 of the Defence filed by Lynx.</sentence>
+<sentence id="s95">However, in the course of the hearing, Lynx foreshadowed amendments that answered Bradken's complaints about paragraph 15.</sentence>
+<sentence id="s96">I shall deal separately with each paragraph of the Defence that Bradken seeks to have struck out.</sentence>
+<sentence id="s97">Paragraph 15 
+ 
+30 In the form in which paragraph 15 was cast when the application to strike it out was filed, Lynx alleged that the acts about which threats were made would infringe its rights under s 57 in respect of:
+ 
+(i) the claims in the complete specification as originally published, or alternatively 
+ 
+(ii) the claims of the complete specification as accepted and published except for the claims rejected by the Commissioner's delegate, or alternatively ;
+ 
+(iii) the claims of the complete specification as amended by the Lynx amendments.</sentence>
+<sentence id="s98">Bradken asserted that subparagraph 15 (iii) could not be relied upon because the Lynx Amendments were not published until 1 November 2007, some weeks after the date of the Threats Letter.</sentence>
+<sentence id="s99">31 However, Lynx has now made clear that paragraph 15 (iii) was not intended to assert a separate defence based only on claims included in the complete specification following the Lynx Amendments.</sentence>
+<sentence id="s100">The three subparagraphs of paragraph 15 were simply intended to accord with the language of s 57 , which is incorporated, by reference, in s 129(b).</sentence>
+<sentence id="s101">It follows from the language of s 57(1) that, for the rights granted by that provision to be an answer to a claim under s 129, the acts in respect of which alleged threats were made, that took place before the date of the grant of a patent, must be shown to have infringed, not only a claim of the patent as eventually granted, but also a published claim of the complete specification as it stood at the time when the relevant act occurred .</sentence>
+<sentence id="s102">In the context of the Threats Proceeding, no act had occurred as at the date of the Threats Letter.</sentence>
+<sentence id="s103">Nevertheless, the existence of the Patent Application will still constitute a defence to the claim under ss 128 and 129 for unjustifiable threats, if Lynx can show that the acts to which the Threats Letter relates would have infringed claims of the putative patent as granted, as well as claims in the complete specification of the Patent Application at the time when the acts in respect of which the threats are made occurred.</sentence>
+<sentence id="s104">32 Thus, it is necessary for Lynx to assert that the acts to which the Threats Letter relates would have infringed claims of the complete specification of the Patent Application at the time when those acts occurred, being a time after the date of the Threats Letter.</sentence>
+<sentence id="s105">Lynx may have to accept that, in the events that have happened, if a patent is granted in respect of the Patent Application, it may be limited to claims of the complete specification as amended by the Lynx Amendments.</sentence>
+<sentence id="s106">However, so long as the claims in the complete specification, as amended by the Lynx Amendments, do not go beyond the claims of the complete specification as originally published and made available for public inspection, Lynx may be entitled to the Defence contemplated by s 129(b).</sentence>
+<sentence id="s107">Bradken does not suggest otherwise.</sentence>
+<sentence id="s108">It follows that paragraph 15, in its amended form, should be permitted to stand.</sentence>
+<sentence id="s109">Paragraph 16 
+ 
+33 Paragraph 16 of the Defence asserts that Bradken is not entitled to succeed in its claim under ss 128 and 129 because its conduct in commencing the Appeal Proceeding and opposing the Lynx Amendments has delayed the grant of a patent to Lynx.</sentence>
+<sentence id="s110">Thus, paragraph 16 appears to be based on the assumption that the Defence contemplated by s 129 is available only after a patent has been granted.</sentence>
+<sentence id="s111">That appears to me to be a misconception.</sentence>
+<sentence id="s112">34 It may be that the conduct of Bradken, in appealing from the delegate's decision and opposing the Lynx Amendments, has delayed the grant of a patent to Lynx.</sentence>
+<sentence id="s113">That will depend upon the outcome of the Appeal Proceeding and the outcome of the opposition to the Lynx Amendments.</sentence>
+<sentence id="s114">However, the clear language of s 129(b) indicates that a defence to unjustifiable threats can be founded upon the contingent rights conferred by s 57(1) , notwithstanding that s 5 does not confer a right to start a proceeding prior to grant of a patent.</sentence>
+<sentence id="s115">That is to say, even though a patent has not been granted, the contingent rights conferred by s 57(1) can be relied upon as an answer to a claim under ss 128 and 129.</sentence>
+<sentence id="s116">The fact that Bradken has exercised its statutory rights to appeal from the decision of the Commissioner's delegate and to oppose amendments to the Patent Application cannot disentitle Bradken to the relief that it might otherwise be entitled pursuant to ss 128 and 129.</sentence>
+<sentence id="s117">Paragraph 16 should be struck out.</sentence>
+<sentence id="s118">Paragraph 17 
+ 
+35 The extent to which discretionary matters may be an answer to a claim for relief under ss 128 and 129 is not without doubt.</sentence>
+<sentence id="s119">Bradken contends that the Court should resolve those doubts at this stage of the Threats Proceeding.</sentence>
+<sentence id="s120">There is something to be said for such an approach if the resolution of the question would either dispose of, or substantially shorten, the Threats Proceeding.</sentence>
+<sentence id="s121">36 The first question that arises in relation to that contention is whether the use of the word "may" in s 129 signifies discretion or whether the context in which it is used indicates that it is no more than the grant of a power, such that, if the circumstances for the exercise of the power are established, the power must be exercised.</sentence>
+<sentence id="s122">Lynx contends that the power to grant an injunction conferred by s 129 of the 1990 Act is to be construed as a power in the auxiliary jurisdiction of a Court of Equity.</sentence>
+<sentence id="s123">It says that an express provision conferring a power to grant injunctions is discretionary, in the sense in which injunctions and declarations generally are discretionary in a Court of Equity; in such circumstances, the Court has a discretion to refuse relief on the basis that the person seeking that relief has been guilty of an impropriety, in the legal sense, in a matter pertinent to the claim, being impropriety that is directly and immediately related to the rights asserted by the claimant.</sentence>
+<sentence id="s124">37 The meaning of the word "may" in a particular statutory context does not depend upon its abstract meaning but upon the particular context in which the word is used.</sentence>
+<sentence id="s125">The particular context may indicate circumstances in which the power is to be exercised, such that, in those circumstances, the word "may" means "must".</sentence>
+<sentence id="s126">That is to say, while the word is normally used to confer authority, the context of its use might be such as to indicate that that authority must be exercised if the relevant circumstances are such as to call for the exercise of the authority.</sentence>
+<sentence id="s127">In those circumstances, the word is not used to give a discretion, but to confer a power upon the Court, the exercise of which depends, not upon the discretion of the Court, but upon the proof of the particular circumstances in which the power arises (see Finance Facilities Pty Ltd v Federal Commissioner of Taxation [1971] HCA 12 ; (1971) 127 CLR 106 at 134-135).</sentence>
+<sentence id="s128">38 Section 33(2A) of the Acts Interpretation Act 1901 (Cth) ( the Acts Interpretation Act ), which was inserted in 1987, applies to the 1990 Act.</sentence>
+<sentence id="s129">Section 33(2A) provides that where an Act assented to after the commencement of that provision provides that a person, court or body may do a particular act or thing, and the word may is used, the Act or thing may be done at the discretion of the person, court or body.</sentence>
+<sentence id="s130">Under s 2 of the Acts Interpretation Act that definition will apply except so far as the contrary intention appears.</sentence>
+<sentence id="s131">The definition would indicate that at least a discretion is conferred on the Court as to whether and what relief, within s 128(1), should be granted.</sentence>
+<sentence id="s132">The perhaps more difficult question is how far that discretion extends, and what considerations are relevant to its exercise.</sentence>
+<sentence id="s133">(See also New South Wales Diary Corporation v Murray Goulburn Co-operative Company Ltd [1990] HCA 60 ; (1990) 171 CLR 363 at 391, EOS Australia Pty Ltd v Expo Tomei Pty Ltd (1998) 42 IPR 277 at 287, Maine Industries Pty Ltd v Advanced Engineering Group Pty Ltd (2008) 166 FCR 312 at 342-3) .</sentence>
+<sentence id="s134">
+ 
+39 Sections 128 and 129 were intended to have a strict and drastic effect, namely, to supplement a less effective common law remedy.</sentence>
+<sentence id="s135">Irreparable damage may be caused by unjustifiable or groundless threats of legal proceedings in relation to an alleged monopoly.</sentence>
+<sentence id="s136">Accordingly, it would not be surprising that there should be a strict provision with regard to such threats.</sentence>
+<sentence id="s137">The second part of s 129 ( the unless clause ) may suggest that the only answer that may be made to an action for threats is to prove that the acts that are the subject of the threats would infringe an existing patent or would infringe a patent if granted pursuant to a subsisting application.</sentence>
+<sentence id="s138">Thus, there is no strong affirmative reason why the remedies under s 129 are discretionary, in the sense in which the remedies of declaration and injunction are discretionary in a Court of Equity (see Norbert Steinhardt and Son Ltd v Meth [1961] HCA 33 ; (1961) 105 CLR 440 at 447-448).</sentence>
+<sentence id="s139">40 On the other hand, it cannot be thought that the Parliament intended that it would be obligatory for the Court, in all circumstances where a prima facie basis for relief under ss 128 and 129 is made out, to grant a declaration or an injunction.</sentence>
+<sentence id="s140">For example, where the moving party does not press for all of the relief contemplated by the provisions, the Court would not insist on granting all of that relief (see Benmax v Austin Motor Co Limited (1953) 70 RPC 284 at 296).</sentence>
+<sentence id="s141">Once the making of a threat has been established, it is prima facie unjustifiable unless the person making the threat establishes that it was justified.</sentence>
+<sentence id="s142">The Court may grant the relief applied for unless the person threatening infringement proceedings establishes that the relevant conduct infringes or would infringe a valid claim of a patent or prospective patent.</sentence>
+<sentence id="s143">Nevertheless, such relief should not be granted by consent or in default of defence or appearance at trial unless it is established to the satisfaction of the Court that it is proper to do so.</sentence>
+<sentence id="s144">41 However, the Court has a discretion as to whether to grant all of the relief contemplated, assuming the moving party presses for such relief.</sentence>
+<sentence id="s145">For example, where a declaration will be adequate to vindicate the position of the moving party, and it is unlikely that there will be any further unjustifiable threats, the Court may, in the exercise of its discretion, decline to grant an injunction ( Occupational and Medical Innovations Limited v Retractable Technologies Inc (2007) 73 IPR 312 at 325).</sentence>
+<sentence id="s146">Further, where the Court concludes that a patent, if valid, would have been infringed and the threats related only to bringing proceedings alleging such infringement of that patent, and there was no evidence that the threats were likely to be repeated because infringement proceedings had in fact been commenced, the Court may decline to exercise the discretion to grant relief (see JMVB Enterprises Pty Ltd v Camoflag Pty Ltd (2006) 67 IPR 68 at 108).</sentence>
+<sentence id="s147">In addition, where the Court revokes the patent that is relied upon by the respondent, in a proceeding brought under ss 128 and 129, the Court may conclude that there is no reason to make a declaration that the threats were unjustified, since the revocation of the patent of itself establishes that.</sentence>
+<sentence id="s148">The Court may therefore, in its discretion, while granting an injunction against the making of further threats, decline to make a declaration (see Townsend Controls Pty Ltd v Gilead (1989) 16 IPR 469 at 475).</sentence>
+<sentence id="s149">42 However, those principles are not decisive of the question raised by paragraph 17 of the Defence filed by Lynx.</sentence>
+<sentence id="s150">Assuming that there is some discretion in the Court where the moving party has established a prima facie entitlement to relief, there will still be a question as to the nature of the factors or matters that the Court may take into account or have regard to in deciding whether to refuse relief under ss 128 and 129.</sentence>
+<sentence id="s151">Of course, that question will arise only in circumstances where the Defence afforded by the unless clause in s 129 has not been established.</sentence>
+<sentence id="s152">43 Ultimately, Bradken's contention must be that the matters, which Lynx asserts in paragraph 17 of the Defence are relevant to the exercise of any discretion, are not in fact relevant to the exercise of any discretion that the Court has.</sentence>
+<sentence id="s153">That is to say, Bradken contends that, even if it be established that it were guilty of breach of confidence, infringement of copyright and contravention of the Trade Practices Act as alleged in paragraph 17, that would not disentitle it to the relief under ss 128 and 129 that it claims in the Threats Proceeding.</sentence>
+<sentence id="s154">That is to say, any disentitling conduct alleged must relate to the conduct that is the subject of complaint under s 128 and s 129, namely, the making of threats that are not justified.</sentence>
+<sentence id="s155">44 Bradken's contention, of course, must be considered in the context of the assumption that the threats in the Threats Letter, assuming that it contains threats, are unjustifiable.</sentence>
+<sentence id="s156">That is to say, the contention proceeds on the basis that Lynx is not able to demonstrate that the acts to which the Threats Letter relates would infringe any patent that might be granted pursuant to the Patent Application, whether amended or not.</sentence>
+<sentence id="s157">45 Lynx contends that it would be unconscionable for Bradken to insist upon its rights under ss 128 and 129 in circumstances where the conduct complained of in paragraph 17 enabled Bradken to develop and exploit the product about which Lynx has made the alleged threats that are the subject of the Threats Proceeding.</sentence>
+<sentence id="s158">Lynx says that the allegations made in paragraph 17 raise matters that encompass misconduct that is directly and immediately related to Bradken's allegation of unjustifiable threats.</sentence>
+<sentence id="s159">It says that those allegations establish a direct and immediate connection, namely, that the breaches of confidence, infringement of copyright and contravention of the Trade Practices Act alleged enabled Bradken to do the acts that Lynx alleges would be an infringement of a patent if one is granted to Lynx pursuant to the Patent Application.</sentence>
+<sentence id="s160">Lynx argues that the alleged impropriety is therefore directly relevant to whether or not Lynx can establish its defence under s 129 and whether Bradken can succeed in obtaining the relief it claims in relation to the alleged threats.</sentence>
+<sentence id="s161">46 However, that indicates a misconception in the approach adopted by Lynx.</sentence>
+<sentence id="s162">That is to say, the question of discretionary refusal of relief raised by paragraph 17 only arises if Lynx fails to establish the Defence contemplated by s 129 on the basis of the rights conferred by s 57.</sentence>
+<sentence id="s163">If that defence is established, the question of discretionary refusal simply does not arise.</sentence>
+<sentence id="s164">If that defence is not established, Lynx cannot rely on any prospective infringement of the rights it would have if a patent were granted pursuant to the Patent Application.</sentence>
+<sentence id="s165">That is to say, the reason why the Defence would not be established would be that Lynx has failed to establish that it has prospective rights pursuant to the Patent Application under s 57 of the 1990 Act.</sentence>
+<sentence id="s166">47 If the Threats Letter makes threats as alleged by Bradken, the threats concern the conduct of BHP.</sentence>
+<sentence id="s167">That is to say, Bradken alleges in the Threats Proceeding that Lynx threatened BHP with infringement proceedings or other similar proceedings.</sentence>
+<sentence id="s168">The unless clause in s 129 does not give a right to make threats.</sentence>
+<sentence id="s169">Rather, it operates as a statutory defence to proceedings in respect of conduct that is otherwise unlawful.</sentence>
+<sentence id="s170">Section 129 does not afford a statutory defence to Lynx on the basis that the conduct about which the threat complains is allegedly in breach of other legal obligations or entitlements.</sentence>
+<sentence id="s171">48 Even if it be the fact that, in connection with its negotiations with BHP, Bradken infringed copyright owned by Lynx or wrongfully used confidential information of Lynx or contravened the Trade Practices Act , those matters have no necessary connection with what must be assumed to be an unjustifiable threat by Lynx of a proceeding alleging infringement of claims of a patent or claims of a patent that might contingently be granted.</sentence>
+<sentence id="s172">Section 130 can be called in aid by a respondent to a proceeding alleging unjustifiable threats.</sentence>
+<sentence id="s173">Thus, Lynx could file a counter claim in the Threats Proceeding for relief to which it would be entitled in separate proceedings for infringement of the patent to which it would be entitled.</sentence>
+<sentence id="s174">On the assumption that must be made, that the threat made by Lynx is unjustifiable, any such counter claim would fail.</sentence>
+<sentence id="s175">Even if the Lynx Copyright Works and the Lynx Confidential Information relate to the subject matter of the Patent Application, that will be no answer to the assertion that Lynx has made unjustifiable threats in relation to a monopoly that it does not have, and will not have, as a consequence of the Patent Application.</sentence>
+<sentence id="s176">49 I would be disposed to conclude that the matters alleged in paragraph 17 of the Defence filed in the Threats Proceeding would not constitute a discretionary bar to the grant of relief under ss 128 and 129, in the sense that they might be in a Court of Equity, assuming the right to such relief is otherwise established by Bradken.</sentence>
+<sentence id="s177">However, the matter is not beyond argument.</sentence>
+<sentence id="s178">50 Further, the facts alleged in paragraph 17 could have a real bearing on the question of damages that Bradken may have sustained as a result of the alleged threats.</sentence>
+<sentence id="s179">In the Threats Proceeding, Bradken claims an order that Lynx pay damages pursuant to s 129 and that an enquiry be held to determine the nature and extent of Bradken's loss and damage occasioned by reason of the alleged threats and to assess the quantum of that loss and damage.</sentence>
+<sentence id="s180">If it be the fact that Bradken has been guilty of breach of confidence, infringement of copyright or contravention of the Trade Practices Act , as alleged in paragraph 17, that could well have a bearing on the question of whether any loss or damage that it may have suffered was caused by the alleged threats.</sentence>
+<sentence id="s181">Accordingly, I am not satisfied that there is no reasonable prospect that the matters alleged in paragraph 17 would not be relevant in determining whether to grant the relief claimed by Bradken.</sentence>
+<sentence id="s182">At this stage, Bradken has not particularised its loss or damage.</sentence>
+<sentence id="s183">It is possible that, when it has done so, it would be apparent that there is no interrelationship between the loss and damage claimed by Bradken and the matters alleged in paragraph 17 of the Defence filed by Lynx.</sentence>
+<sentence id="s184">That, however, is a matter for another day.</sentence>
+<sentence id="s185">51 Accordingly, paragraph 17 should be permitted to stand, at least at this stage of the Threats Proceeding.</sentence>
+<sentence id="s186">THE TRANSFER APPLICATION 
+ 
+52 In the light of the conclusion that I have reached regarding paragraph 17 of the Defence filed by Lynx, I would have transferred the Threats Proceeding and the Appeal Proceeding to the Western Australia Registry to be managed by the judge who is responsible for the management of the Confidential Information Proceeding.</sentence>
+<sentence id="s187">There is no real opposition to the proposition that the Threats Proceeding and the Appeal Proceeding should be managed together with the Confidential Information Proceeding if paragraph 17 is allowed to stand.</sentence>
+<sentence id="s188">53 However, following the completion of argument in relation to the motions, Bradken applied for summary dismissal of the Confidential Information Proceeding.</sentence>
+<sentence id="s189">The parties therefore asked that the Court not yet determine the question of transfer of the Threats Proceeding and the Appeal Proceeding to the Western Australia Registry.</sentence>
+<sentence id="s190">If the Confidential Information Proceeding were to be dismissed summarily, there would be no reason to transfer either of the New South Wales proceedings to Western Australia.</sentence>
+<sentence id="s191">CONCLUSION 
+ 
+54 I propose to direct Lynx to file a further amended defence in the light of the conclusions reached above.</sentence>
+<sentence id="s192">The three motions should be stood over pending the determination of the summary dismissal application brought in connection with the Confidential Information Proceeding.</sentence>
+<sentence id="s193">While Lynx has had a certain degree of success in relation to the strike out application, much of that success is the result of clarification of its defence.</sentence>
+<sentence id="s194">In the circumstances, I would be disposed to order that the costs of the strike out application be the parties' costs of the Threats Proceeding.</sentence>
+<sentence id="s195">However, if either party wishes to seek any other order, I will give directions for the making of written submissions.</sentence>
+<sentence id="s196">I certify that the preceding fifty-four (54) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Emmett.</sentence>
+<sentence id="s197">Associate:
+
+
+Dated: 29 August 2008
+
+
+ Counsel for Bradken: Mr SCG Burley SC and Mr ADB Fox Solicitor for Bradken: Griffith Hack Counsel for Lynx: Mr JJ Garnsey QC and Mr RJL McCormack Solicitor for Lynx: Karp Steedman Ross-Adjie Date of Hearing: 20 and 25 June 2008 and 1 August 2008 Date of Judgment: 29 August 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1257.html 
+ 
+ </sentence>
+</sentences>
+</case>

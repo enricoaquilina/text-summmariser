@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<case>
+<name>Jarra Creek Central Packing Shed Pty Ltd v Amcor Limited [2006] FCA 1802 (21 December 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1802.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">representative proceeding brought by group who claim to have suffered loss in respect of alleged contraventions of s 45 of the trade practices act 1974 (cth)</catchphrase>
+<catchphrase "id=c1">parallel proceedings in federal court instituted by the accc in victorian registry</catchphrase>
+<catchphrase "id=c2">appropriate application in this proceeding of discovery protocol negotiated by parties to accc proceedings</catchphrase>
+<catchphrase "id=c3">application for production of documents in "text-searchable" pdf format as opposed to image-based tiff format</catchphrase>
+<catchphrase "id=c4">application for discovery of electronic databases in their native electronic format</catchphrase>
+<catchphrase "id=c5">application for an additional nine fields of "meta-data" to be produced in relation to discoverable documents</catchphrase>
+<catchphrase "id=c6">advantages of the provision of meta-data in the course of discovery, particularly as to tracing the origin, amendment history and transmission of electronic documents and assisting with de-duplication- principle that court may limit discovery by restricting it to specific issues or allowing discovery in "waves."</catchphrase>
+<catchphrase "id=c7">discovery</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 By Amended Notice of Motion, the applicant ("Jarra") seeks orders for discovery which are resisted by the respondents.</sentence>
+<sentence id="s1">There are three principal areas of dispute in relation to Jarra's proposed orders.</sentence>
+<sentence id="s2">2 The first question is whether the respondents should be ordered to file and serve an affidavit deposing as to what records are kept and the way in which such records are made and retained by them.</sentence>
+<sentence id="s3">Jarra also seeks information as to how certain pulp and paper products ("PPP") and corrugated fibreboard packaging products ("CFP") are categorised or grouped for the purpose of recording production, production cost, sales volumes, sales revenues, sales margins or profits and production figures.</sentence>
+<sentence id="s4">In addition, details are sought as to how PPP and CFP production capacities are recorded, monitored, analysed and reported.</sentence>
+<sentence id="s5">Information is further sought as to how the costs in manufacturing or supplying PPP or CFP products are recorded, monitored, analysed and reported.</sentence>
+<sentence id="s6">3 The second area of dispute relates to an order that the Amcor entities make initial discovery of certain electronic databases, one of the principal databases being an Oracle database.</sentence>
+<sentence id="s7">4 The third dispute concerns the application of a discovery protocol formulated in relation to the proceedings brought by the Australian Competition and Consumer Commission ("ACCC") against the Visy entities.</sentence>
+<sentence id="s8">This protocol covers the form in which information is to be provided by the parties in the ACCC proceeding and contains provisions in relation to specific categories of meta-data and the de-duplication of electronic documents.</sentence>
+<sentence id="s9">5 The proceeding before me is a representative action brought pursuant to Part IVA of the Federal Court of Australia Act 1976 (Cth) .</sentence>
+<sentence id="s10">The Application and Statement of Claim were filed on 11 April 2006.</sentence>
+<sentence id="s11">The Amcor entities on 7 July 2006 filed a Cross-Claim against the Visy entities, and the Visy companies filed a Defence to that Cross-Claim on 23 August 2006.</sentence>
+<sentence id="s12">A Defence was filed by the Amcor respondents on 7 July 2006 and there has been no Reply by the Applicants to date.</sentence>
+<sentence id="s13">6 It is not necessary for the purposes of this discovery application to descend into the detail of the issues in the case.</sentence>
+<sentence id="s14">The Application is brought by a group whose members are described as "all those persons who purchased and paid more than $100,000.00 for corrugated fibreboard packaging products in Australia during the period 1 May 2000 to 1 May 2005.</sentence>
+<sentence id="s15">" The applicants claim to have suffered loss and seek declarations and damages in respect of alleged contraventions of s 45 of the Trade Practices Act 1974 (Cth) alleging that arrangements were made between the Amcor and Visy companies which related to the fixing, controlling or maintaining of prices for the supply of corrugated fibre board packaging products.</sentence>
+<sentence id="s16">The allegations in the Statement of Claim are disputed.</sentence>
+<sentence id="s17">On 27 July 2006, I ordered that the parties agree on categories of discoverable documents or, in default, file an application for discovery.</sentence>
+<sentence id="s18">The parties have been unable to agree on the scope of these categories.</sentence>
+<sentence id="s19">7 In late 2005, five months before this proceeding was instituted, the ACCC commenced proceedings against the Visy entities and certain individuals in relation to alleged breaches of s 45 of the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s20">Those proceedings raise issues of fact and law which, it is said, are identical to the issues in the present proceeding.</sentence>
+<sentence id="s21">The ACCC proceedings also make allegations against the Amcor entities as one of the parties to the arrangement.</sentence>
+<sentence id="s22">8 On 23 February 2006, Heerey J, who is the Docket Judge for the ACCC proceeding, ordered discovery in that proceeding.</sentence>
+<sentence id="s23">This order has been treated by the parties as requiring them to give "general" discovery in that matter and there was no reference in the order as to categories of documents for discovery purposes.</sentence>
+<sentence id="s24">I understand that matter has been tentatively fixed for hearing to commence in October 2007.</sentence>
+<sentence id="s25">9 On 16 June 2006, the Visy entities agreed with the ACCC as to the terms of an Electronic Document Exchange Protocol ("the ACCC Protocol") in respect of discovery in the ACCC proceeding.</sentence>
+<sentence id="s26">That discovery involves many thousands of documents.</sentence>
+<sentence id="s27">The ACCC Protocol required the parties to exchange discovered documents in prescribed electronic format described as single page TIFF files.</sentence>
+<sentence id="s28">The parties later agreed to the processing of documents in the possession of Visy companies and their storage on a Ringtail database ("the Existing Database").</sentence>
+<sentence id="s29">The discovery is now well-advanced, with a total of 19,653 documents stored in the Existing Database, of which 15,556 are images of hard-copy paper documents and 4,097 are images of original electronic documents (namely emails and the attachments to them) as well as electronic files which have been located as a result of searches of computer servers and computer back-up systems.</sentence>
+<sentence id="s30">No doubt, in many cases, some of the documents or attachments will contain many pages of material.</sentence>
+<sentence id="s31">It is also anticipated that a further 10,000 hard-copy documents and 15,969 electronic documents are in the process of being imaged and added to the Existing Database.</sentence>
+<sentence id="s32">Further searches are also underway for potentially discoverable documents in relation to the ACCC proceeding.</sentence>
+<sentence id="s33">To date, the Visy entities have spent in the order of $35,000.00 processing documents for inclusion, and anticipate spending an additional $57,000.00 in respect of additional electronic and hard-copy documents.</sentence>
+<sentence id="s34">The Visy entities have provided an estimate that their total costs for processing documents for discovery in accordance with the ACCC Protocol will be in the range of $240,000.00 to $320,000.00.</sentence>
+<sentence id="s35">10 In addition, the Visy entities claim that if the Amended Notice of Motion is granted in this proceeding, there will be further costs incurred in the rectification of coding and other adjustments to the documents which has not been counted.</sentence>
+<sentence id="s36">It is also submitted that these figures are exclusive of the costs of examining the documents for the purpose of obtaining legal advice as to discoverability and issues such as privilege.</sentence>
+<sentence id="s37">11 Furthermore, there is a dispute as to extent and number of fields relating to meta-data that it is appropriate to provide at this early stage of the proceeding.</sentence>
+<sentence id="s38">The expression "meta-data," which is the subject of a substantial part of the claim for discovery in relation to electronic records, is a reference to electronic information created by and embedded in electronic documents in the form of electronic data.</sentence>
+<sentence id="s39">The term describes data contained within an electronic file relating to the identification, origin or history of the file itself.</sentence>
+<sentence id="s40">It is, in effect, electronic information about other electronic data.</sentence>
+<sentence id="s41">Meta-data can be used to ascertain the author and origin of a document, the existence of any attachments, and whether the document was sent or received by any particular individual.</sentence>
+<sentence id="s42">The information which is contained in the meta-data is not visible on a print-out of the relevant document, which shows only the face content and does not disclose the layers of electronic data beneath the visually readable information.</sentence>
+<sentence id="s43">12 In the processing of the meta-data, advanced software may assist in ascertaining the provenance of a document and whether any alterations or deletions have been made to a document's original format.</sentence>
+<sentence id="s44">A new sector of the software industry has developed which provides methods of searching large fields of meta-data in a matter of seconds.</sentence>
+<sentence id="s45">These applications have proven invaluable to lawyers, particularly in complex litigation involving the collection and analysis of vast numbers of electronic communications.</sentence>
+<sentence id="s46">13 In addition, meta-data can also provide substantial assistance in managing large volumes of documents and assisting with de-duplication, an electronic process by which software identifies absolutely identical documents and "clusters" those which look like they are almost duplicates of each other.</sentence>
+<sentence id="s47">Evidence from Mr McCormack, a computer expert for Jarra, states that the provision of meta-data reduces the need to check for duplicate copies because it can be filtered electronically to ensure that similar documents are clustered.</sentence>
+<sentence id="s48">This eliminates the need for documents that only have immaterial differences to be examined for production.</sentence>
+<sentence id="s49">14 Jarra claims that the provision of suitable and sufficient fields of meta-data is critical to minimise human error and enable the use of software filters to perform keyword searches and cluster related documents.</sentence>
+<sentence id="s50">The ACCC Protocol, which the Amcor and Visy entities have already accepted, provides for the discovery of fourteen fields or parameters of meta-data in relation to electronic communications.</sentence>
+<sentence id="s51">Jarra seeks an additional nine fields of meta-data information.</sentence>
+<sentence id="s52">The evidence is that this will involve substantial additional expenditure of time and cost, and Jarra has not offered to meet these expenses
+ 
+15 Given the comprehensive nature and utility of meta-data information, Jarra contends that it is likely that the Amcor and Visy entities will have already captured a great deal of the required detailed meta-data to assist them in their own internal processing of documents, even though they have not been required to produce complete data to the ACCC.</sentence>
+<sentence id="s53">However, there is no evidentiary factual basis for this contention.</sentence>
+<sentence id="s54">REASONING ON THE APPLICATION 
+ 
+16 Under O 15 r 3 of the Federal Court Rules , the Court may order that discovery will not be required or that it be limited to documents or classes of documents as may be specified in the order.</sentence>
+<sentence id="s55">The Court may also make such orders as are required to prevent unnecessary discovery.</sentence>
+<sentence id="s56">This Court is well aware of the problems created by unnecessary discovery and its impact on a complex proceeding.</sentence>
+<sentence id="s57">As highlighted by Practice Note 14, the Court is concerned with reducing the expense and burden of discovery.</sentence>
+<sentence id="s58">The Note provides that the Court will not order general discovery as a matter of course, but will expect to be satisfied as to whether any and what discovery is essential.</sentence>
+<sentence id="s59">The Court will determine whether discovery should be limited in order to reduce expense by restricting it to particular issues or allowing discovery in stages.</sentence>
+<sentence id="s60">In deciding whether to order discovery, the Court will have regard to the issues in the case and the order in which they are likely to be resolved, as well as the resources and circumstances of parties and the likely costs and benefits of the discovery.</sentence>
+<sentence id="s61">Practice Note 14 also states that orders for discovery will usually be limited to documents required to be disclosed under O 15 r 2(3), which sets out limited classes of documents.</sentence>
+<sentence id="s62">The word "document" is broadly defined in the Federal Court Rules to include documents encompassed by the definition of "document" in the Evidence Act 1995 (Cth), as well as any material data or information stored or recorded by mechanical or electronic means: see O 1 r 4.</sentence>
+<sentence id="s63">From this description, it is clear that embedded electronic information in relation to relevant documents, including the information embodied in electronic meta-data, is discoverable.</sentence>
+<sentence id="s64">The touchstone in both the Rules and the Practice Notice is the necessity for documents to be produced in order to ensure a comprehensive and fair determination of the matter on the merits.</sentence>
+<sentence id="s65">17 The first relevant question is whether the respondents, at this stage of the proceeding, should be required to disclose on oath all details as to their records and methods of recording regarding the categorization of PPP and CFP products and other matters as outlined in as in paragraph 2 of the Amended Notice of Motion and noted above at [2].</sentence>
+<sentence id="s66">18 The difficulty with this requirement is that it proceeds on the basis that relevant records will not be discovered.</sentence>
+<sentence id="s67">In my view, the first step is to get disclosure and production of the basic relevant documents.</sentence>
+<sentence id="s68">Having examined those documents, if a proper basis can be made out that this disclosure is inadequate, then additional documents can be sought.</sentence>
+<sentence id="s69">The purpose of discovery is to obtain all records relevant to the issues before the Court as raised on the pleadings or particularised.</sentence>
+<sentence id="s70">The question then arises as to whether it is necessary to provide the detailed record keeping information sought before any documents are discovered or inspected in this proceeding.</sentence>
+<sentence id="s71">19 It is further submitted that the orders requested in paragraph 2 should not be granted on the basis that the material sought that paragraph relates only to damages, which will be decided at a later stage.</sentence>
+<sentence id="s72">It is also said that paragraph 2 is too broad because it relates to the pulp and paper (PPP) products and not solely to the corrugated fibre board (CFB) products which are at the centre of the proceeding.</sentence>
+<sentence id="s73">20 On the available evidence, I consider that the information could be relevant to the liability issue, and that some of the material relating to the PPP products may arguably bear on the question of the existence, nature and extent of the alleged price-fixing arrangements.</sentence>
+<sentence id="s74">However, I am not persuaded that this information as to record-keeping, methods of analysis, production costs and the other matters as referred to in paragraph 2 is necessary to enable adequate discovery at this stage.</sentence>
+<sentence id="s75">No evidentiary basis has been made out to justify such a requirement.</sentence>
+<sentence id="s76">21 Under the ACCC Protocol, which has been accepted by both respondent groups in this proceeding, discovery of a large volume of documents will be provided.</sentence>
+<sentence id="s77">Due to the overlap of legal and factual matters with the ACCC proceeding, I consider that the information called for under that Protocol should be disclosed and, subject to claims of privilege and confidentiality, those documents can be inspected.</sentence>
+<sentence id="s78">I am satisfied that the ACCC, in consultation with the Visy entities, has worked out a substantially suitable protocol which is suitable for application in this proceeding with some adjustment.</sentence>
+<sentence id="s79">The ACCC Protocol was no doubt drawn up after considerable negotiations.</sentence>
+<sentence id="s80">At present, I am not persuaded that the Protocol is inadequate or inappropriate as a basis for discovery.</sentence>
+<sentence id="s81">This case is one in which discovery in stages is appropriate, and by a staged production and inspection, a proper basis may be laid for any request for additional discovery.</sentence>
+<sentence id="s82">Having regard to the expense, delay and complexity of the discovery process, as well as the prolongation of the trial process by unnecessary discovery, it is essential that orders for further discovery be substantiated.</sentence>
+<sentence id="s83">22 I am informed that discovery in the ACCC proceeding is substantially advanced although by no means complete.</sentence>
+<sentence id="s84">For the above reasons, and having regard to the fact that there is no present reason to believe that any particular document or class of document will not be produced in accordance with the ACCC Protocol, I am not persuaded that the information sought in paragraph 2 of the Amended Notice of Motion is necessary at this stage on the material presently before me.</sentence>
+<sentence id="s85">23 The second dispute concerns only the Amcor entities and relates to a number of electronic databases, including an Oracle database, in respect of which Jarra seeks reports and extracts as outlined in paragraph 4 of the Amended Notice of Motion.</sentence>
+<sentence id="s86">24 This proposed order is resisted on the ground that the Amcor entities wrote to Jarra two days before the hearing setting out several difficulties presented by Jarra's request for the production of eight databases in native electronic format.</sentence>
+<sentence id="s87">In particular, it was highlighted that the cost to the Amcor entities of providing the Oracle database in this format would be in the vicinity of $100,000.00.</sentence>
+<sentence id="s88">It was also emphasised in this letter that it would be difficult to regenerate certain reports and information from several of the other databases.</sentence>
+<sentence id="s89">The letter indicated that Amcor was continuing its enquiries in relation to the obtaining the specific information as contained in the databases, and was in the course of taking steps to provide the information in a mutually acceptable form.</sentence>
+<sentence id="s90">In my view, in these circumstances, it is premature to require disclosure or production of the information as outlined in the Amended Notice of Motion until those avenues have been explored.</sentence>
+<sentence id="s91">25 The next matter concerns the form of the discovery and any modifications to the ACCC Protocol which should apply.</sentence>
+<sentence id="s92">In considering the position of the Visy entities, the first question is whether they should be required to produce their electronic information documentation in PDF rather than TIFF format as provided for in the ACCC Protocol.</sentence>
+<sentence id="s93">The essential difference between these two formats is that the PDF format is "text-searchable," whereas with the TIFF format each page is scanned as a single image and cannot be text-searched.</sentence>
+<sentence id="s94">I note that the Amcor entities do not object to production in PDF format.</sentence>
+<sentence id="s95">However, the Visy entities say that such a requirement is unduly oppressive and that the production of documents in PDF format will involve substantial extra time and expense as well as the duplication of documents in two different formats.</sentence>
+<sentence id="s96">It is further submitted that the Visy entities are well advanced in preparing discovery using the TIFF format.</sentence>
+<sentence id="s97">Jarra responds by arguing that this objection can be met by limiting the PDF requirement to future discovery.</sentence>
+<sentence id="s98">26 The difficulty with this approach is that there will be then two different formats used for production and discovery in the present proceedings.</sentence>
+<sentence id="s99">Again, Jarra does not offer to meet any costs of the conversion of the records from TIFF format to PDF format.</sentence>
+<sentence id="s100">Having regard to the material before me, I do not think it is appropriate at this stage for an order to be made requiring the conversion of records to PDF format.</sentence>
+<sentence id="s101">I am not convinced that sufficient cause has been shown to depart from the ACCC Protocol in relation to this.</sentence>
+<sentence id="s102">27 The final matter concerns the important question of disclosure of the meta-data which attaches to the electronic records.</sentence>
+<sentence id="s103">As noted earlier, the ACCC Protocol anticipates the production of fourteen meta-data searchable fields.</sentence>
+<sentence id="s104">Jarra seeks to have the Protocol varied in this proceeding to require the meta-data fields to be increased to 23 fields.</sentence>
+<sentence id="s105">The advantages of taking this course have been outlined by Mr McCormack in his evidence.</sentence>
+<sentence id="s106">Although I am satisfied that meta-data could prove useful in providing additional searchable information to reduce the number of discoverable documents, I am not persuaded that the incremental nine data fields are necessary at this point.</sentence>
+<sentence id="s107">Again, I think that inspection should first be undertaken of the thousands of documents which will be produced under the ACCC Protocol as it now stands.</sentence>
+<sentence id="s108">The question as to the necessity for the additional meta-data fields involving further expense can then be deferred and canvassed if necessary on a fresh application at a later stage, with the assistance of reference to specific documents.</sentence>
+<sentence id="s109">28 In reaching this conclusion, I have taken into account the evidence that meta-data could be useful in reducing the need to check for duplicate documents.</sentence>
+<sentence id="s110">Nevertheless, I do not think this advantage outweighs the desirability of first examining the documents produced using the fourteen fields on the first wave with a view to reviewing the position at a later stage of the proceeding.</sentence>
+<sentence id="s111">29 Accordingly, I dismiss the Amended Notice of Motion.</sentence>
+<sentence id="s112">In relation to costs, I consider that the costs should be costs be in accordance with the outcome.</sentence>
+<sentence id="s113">30 As to further orders, I consider that orders to the general effect of those set out in the Draft Minutes of Order sought by the Amcor entities provide an appropriate basis for orders in relation to discovery at this point.</sentence>
+<sentence id="s114">I therefore propose to make orders in the form of that Draft and the Schedules, with the exception that there will be no order that documents must be produced in PDF format.</sentence>
+<sentence id="s115">31 I direct the parties to consult and draw up Short Minutes to give effect to these reasons.</sentence>
+<sentence id="s116">If there is any disagreement, I will hear the parties at time to be arranged with my Associate.</sentence>
+<sentence id="s117">32 The proceeding is adjourned to 20 April 2007 at 9.30 am for further directions.</sentence>
+<sentence id="s118">I certify that the preceding thirty-two (32) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tamberlin.</sentence>
+<sentence id="s119">Associate:
+
+Dated: 21 December 2006
+
+ Counsel for the Applicant: Mr. L. Armstrong 
+ 
+ Solicitor for the Applicant: Maurice Blackburn Cashman Pty Ltd 
+ 
+ Counsel for the Respondents/Cross-Claimants: Mr. P Solomon 
+ 
+ Solicitor for the Respondents/Cross-Claimants: Allens Arthur Robinson 
+ 
+ Counsel for the Cross-Respondents: Mr. M. H.O'Bryan 
+ 
+ Solicitor for the Cross-Respondents: Arnold Bloch Leibler 
+ 
+ Date of Hearing: 17 November 2006 
+ 
+ Date of Judgment: 21 December 2006 
+
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1802.html 
+ 
+ </sentence>
+</sentences>
+</case>

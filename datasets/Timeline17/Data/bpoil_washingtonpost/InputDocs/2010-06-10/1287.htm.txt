@@ -1,0 +1,106 @@
+Why is oil spill hard to predict ? 
+Look to the clouds . 
+Oil pools along Barataria Bay on the Louisiana coast . 
+The BP Gulf oil spill has become the most recent example of a '' Black Swan '' -- i.e. , an improbable , unpredicted event having tremendous impacts . 
+Retrospective analysis might demonstrate the Deepwater Horizon explosion and resulting massive flow of oil into the Gulf was a relatively likely `` accident '' waiting to happen . 
+Without benefit of hindsight , though , it 's been an event totally unanticipated with far-reaching consequences and one due to human failings , not an unavoidable natural disaster -LRB- e.g. , earthquake , hurricane -RRB- . 
+Avoidable or not , we are in the position now of having to manage to the extent possible what heretofore was an unimaginable crisis . 
+The ability to manage the crisis is dependent upon at least three fundamental questions : Exactly how much oil has spilled ? 
+Where is the oil located ? 
+And where will it go ? 
+Unfortunately , there appears to be considerable uncertainty on answers to the first two questions , while the third is probably unanswerable beyond a few days in advance . 
+A reasonable analogy is predicting the development and motion of a cloud where imperfect measurements of its dimensions , location and background wind field are magnified over time by imperfect forecast models . 
+To extend this analogy consider the following ... Oil : A column of oil gushing from the bottom of the Gulf reaches the surface where it spreads out more or less uniformly as a thin sheen over an increasingly large area . 
+Cloud : A plume of rising moist air reaches the level of condensation -LRB- beneath a stable layer of air that prevents it from rising further -RRB- where the newly formed cloud droplets spread out as a thin canopy over an increasingly large expanse of the sky . 
+Oil : Over time , wind , waves and local surface currents begin to break up the oil into an array of congealed lumps of varying size and thickness . 
+These lumps tend to spread apart and organize non-uniformly into clusters and long streaks -LRB- streamers -RRB- as functions of the variability in the strength and direction of surface winds and currents , surface wave characteristics -LRB- height , period , etc. -RRB- , degree of mixing with sea water , and vertical temperature and salinity structure of the underlying water column . 
+Cloud : Over time , the stable layer of air destabilizes -LRB- allowing the moist air to penetrate higher -RRB- with the original thin cloud being replaced by puffy cumulus clouds of varying horizontal and vertical dimensions . 
+The individual clouds tend to organize into cloud clusters and lines of clouds spreading across the sky non-uniformly as functions of the variability in the strength and direction of winds , degree of mixing between cloud and surrounding air , and vertical stability of the air mass . 
+Oil : At least some oil will come ashore unexpectedly in the concentrated form of , for example , tar balls and mousse at the whim of winds , waves and currents . 
+What might otherwise have been a great day for the beach or exploring the wetlands along the Gulf coast becomes a panicky rush to clean up and\/or leave . 
+Cloud : Some cloud clusters unexpectedly develop into thunderstorms at the whim of local atmospheric conditions . 
+What otherwise was a great day to be outdoors becomes a panicky rush to pack up and seek cover . 
+-LRB- I realize the analogy breaks down when considering that the long-term danger and after-effects of thunderstorms most certainly are not comparable to the long-term , massive , far-reaching impacts of the oil spill . 
+But , please stay with me . -RRB- 
+Oil : Eventually there is a good chance the oil spill will encounter the Loop Current , which would carry it and related consequences around -LRB- or between -RRB- the Florida Keys and be picked up by the Gulf Stream . 
+Cloud : There 's a good chance the further development and motion of the cloud clusters will be governed by the jet stream , which propagates them and associated weather far beyond the area of initial development . 
+A clean-up worker picks up blobs of oil in absorbent snare on Queen Bess Island at the mouth of Barataria Bay near the Gulf of Mexico in Plaquemines Parish . 
+Predicting where the oil spill and its component parts will go is a challenge no less difficult , and probably even more difficult , than predicting clouds and overall weather conditions . 
+Oil on the surface is moved by both winds and currents . 
+Specialized computer models , such as those used to help produce NOAA 's oil trajectory maps , account for the influence of both by combining wind forecasts from weather models with current forecasts from ocean models . 
+Not surprisingly , the predictability of oil spill movement is limited , since all weather and ocean models have errors that grow with time for a variety of reasons -LRB- e.g. , initial condition uncertainties , imperfect models -RRB- . 
+Forecasts of near-surface winds are generally not reliable beyond several days ahead -LRB- say , a week or so -RRB- , as is true for all parameters within any weather forecast model , including those relevant to cloud development and motion . 
+Even if winds were accurately predicted , wind-driven waves can disperse and spread the oil in directions that differ unpredictably from the wind . 
+Moreover , observations are evidently lacking to precisely define the size and , especially , the small-scale structure of the oil spill . 
+The latter is critical for predicting details of the location and timing of oil reaching vulnerable spots ashore -- not unlike difficulties in predicting the timing and location of thunderstorms . 
+While wind and waves play a critical role in details of oil movement , it 's likely that large , strong currents that evolve relatively slowly over time , most notably the Loop Current and Gulf Stream , will ultimately govern how much of the oil is carried elsewhere from the Gulf . 
+To the best of my knowledge ocean models , which suffer from an extreme scarcity of the observations necessary to define the initial ocean state and from imperfect representation of relevant dynamical and physical processes , have limited skill beyond a few days in predicting the evolution of such currents . 
+The biggest threat in the shorter term is for the states of Louisiana , Mississippi and Alabama . 
+The oil could also spread as a function of changes in wind speed and direction eastward toward the west coast of Florida and\/or westward to the Texas coast . 
+Eventually , it 's not unlikely some oil will exit the Gulf of Mexico and move northward along the Atlantic coast and beyond . 
+The least worst-case scenario would be for the oil to continue gushing into the Gulf for a prolonged period such that odds increase dramatically that all these areas would be affected . 
+Even worse would be that the oil results in the Gulf of Mexico and much of the western Atlantic becoming dead zones for virtually all marine life . 
+Presumably everything possible will be done to avoid such worst-cast disasters , but failure in these efforts and resulting catastrophic consequences are not outside the realm of possibilities . 
+It 's a big Finite Element Analysis problem , and we have supercomputers that could render it and give a good stab at predicting where it goes - but only if we had the initial conditions and a good detailed map of all the changing ocean currents . 
+I 'm not sure we have either of those things though ? 
+It 's those pesky butterflies again . 
+of course we 'll never be able to quantify ALL the variables . 
+-LRB- like steve said ... damn butterflies ... -RRB- Posted by : walter-in-fallschurch | June 10 , 2010 9:19 PM | Report abuse Suppose we perfectly observe the full 3D system today , except that temperatures are only known to within a millionth of a degree . 
+Suppose we also have giant computers and our models compute every physical process perfectly . 
+Then as we forecast , that tiny temperature error will grow and compound itself so that there would be pretty much zero determinsitic predictability left beyond 30 days . 
+Steve shows our actual predictability of the oil seems to be only on the order of a few days at best . 
+But not all hope is lost . 
+We can run an ensemble of model forecasts with a spread of initial conditions representing the observational uncertainty and a spread of different models representing the process uncertainty . 
+The forecasts will diverge and give a `` spaghetti '' cloud of possible trajectories . 
+So we can get useful probabilistic predictability beyond when single-valued deterministic forecasts fail . 
+One of the pioneers of this ensemble technique is Steve Tracton . 
+Relearn -LRB- learn -RRB- just how many perfidious acts BP has been caught out in so far ! 
+Then ask yourself , `` why are we entrusting the fixing of this entire catastrophe to them ? '' 
+BP is doing everything it can -LRB- so it tells us -RRB- to stem the humongous geyser of oil , gushing from the severed pipe , beneath what once was the Deepwater Horizon Oil Rig in the Gulf of Mexico . 
+The rig exploded and sank , on April 20 , 2010 killing 11 workers and injuring 17 others . 
+here 's BPs response to another spill : Posted by : walter-in-fallschurch | June 11 , 2010 9:23 AM | Report abuse Dumping dirt -LRB- sand , clay and earth dirt contains large spectrum of bacteria -RRB- over the rising oil from the leaking pipe at the bottom of the gulf . 
+My son Sami did not finish high school ; he won the trophy for the best martial art player in the province of Ontario . 
+My son said that if he was working his car engine and his hand got dirty with oil and even if water and soap are available , my son prefers to use dirt from the ground -LRB- sand and clay -RRB- and rub his hand with the dirt . 
+It is the best to remove oil from your hand . 
+Why not dump load of ground dirt -LRB- soil consisting of sand and clay and earth dirt -RRB- onto the site where the oil is coming out from the bottom of the Gulf of Mexico . 
+I mean 4 to 5 ship load every day . 
+It is cheaper , Greener , and very effective . 
+The rising crude oil will mix with the sand and dirt and settle to the bottom . 
+It is confirmed that the under sea plumes are in anaerobic conditions -LRB- no oxygen -RRB- , and thus this will be a heaven for anaerobic bacteria that can in the absence of oxygen eat everything s and a good source of these bacteria comes from dirt . 
+Later when the rising oil leak will be stopped , the mixture of sand and oil can be vacuumed from the bottom and treated accordingly . 
+Accounting for uncertainty in any forecast is essential to convey all relevant information . 
+If you go to the NOAA trajectory site referenced , you 'll see that these precitictions are ensemble forecasts - note uncertainty boundary in forecast charts . 
+But , the reliability of ensemble predictions -LRB- probabilities -RRB- is limited by model capabilities and ensemble strategy . 
+An ensemble can not provide useful information on what the model can not predict . 
+Kick is the cause of the explosion in the Gulf of Mexico . 
+President Obama is right when he said `` We talk to these folks because they potentially have the best answers , so I know whose ass to kick '' . 
+The word Kick is very scientific because the reason for the oil spill in the Gulf of Mexico is a Kick . 
+It is well known in the oil industry and the oil companies are well aware that : When drilling in oil and gas-bearing formations submerged in deep water , the reservoir gas -LRB- mainly methane -RRB- may flow into the well bore and form gas hydrates due to the low temperatures and high pressures found during deep water drilling -LRB- similar to the situation in the Deep water Horizon Oil Spill -RRB- . 
+The gas hydrates may then flow upward with drilling mud or other discharged fluids . 
+As they rise , the pressure in the drill string decreases and the hydrates dissociate into gas and water . 
+The rapid gas expansion ejects fluid from the well , reducing the pressure further , which leads to more hydrate dissociation and further fluid ejection . 
+The resulting violent expulsion of fluid from the drill string is referred to as a `` kick '' -LRB- see . 
+Petroleum Science 6 : 57-63 , 2009 -RRB- . 
+This could possibly be the reason for the accidents which caused the oil spill in the Gulf of Mexico . 
+Thus president Obama had indirectly identified the culprit that caused the oil spill . 
+Now that the oil spill is her and it is continuing to spread everywhere and reach regions that are very sensitive ecologically we are faced with a disaster . 
+But let us look at the good thing about the oil spill . 
+This disaster actually was one good driving force for evolution . 
+For example the oil that we use as energy comes from the dinosaurs that vanished for unknown reasons and decomposed below the ground to give us oil . 
+This oil drives our car , make all kind of plastic and keep our house warm . 
+The vanishing of dinosaurs was a disaster similar to the Gulf of Mexico oil spill . 
+This disaster will be the driving force for evolution since the spreading oil in the marine environment will produce a new species more resistant to toxic chemicals and kill the weak species while the strong more resistant species will propagate . 
+The oil spill can be considered as a vaccine to the marine ecosystem . 
+This is because a vaccine is basically the bacteria of the disease injected to the human body to produce resistance against the disease . 
+It took every shortcut possible to save time and money with clear knowledge that there was a non zero chance of the disaster we now see unfolding . 
+BP gambled and WE lost . 
+To me this is no different when some hot-shot knowingly runs a red light to meet some perceived deadline that might add to his\/her bottom line and kills some innocent victim in the process . 
+That too is not an accident , but a criminal act . 
+i would LOVE to see it , but i doubt it will happen . 
+21 of his book `` I.T. WARS '' is a real eye-opener too . 
+A relevant and exceedingly important quote from it is worth posting here : '' In looking at certain outcomes from disasters , we can recognize that prevention is not some part of a Disaster Recovery Plan , or Business Continuity Plan it is the goal and the whole of it . 
+To further illustrate what we mean : During the Cold War between the old Soviet Union and the U.S. , a defacto policy of MAD - Mutually Assured Destruction - held a nuclear exchange and total destruction at bay . 
+There s not likely much of a recovery plan post-apocalypse . 
+Prevention was the goal and indeed whole of the plan the great driving motivator that influenced all subsequent activity . '' 
+Though a dramatic example , for some things mankind has control over , the consequences of mishaps through accident , misjudgment , benign or criminal neglect , avoiding dire consequences must be - the sole overriding criteria for guiding action - even if that requires hard and fast - and enforceable and enforced - government regulations . 
+read a description and see a drawing of my new idea in my article latest update : Posted by : www999 | June 13 , 2010 3:39 AM | Report abuse The comments to this entry are closed . 

@@ -1,0 +1,3188 @@
+<DOC>
+<DOCNO>
+
+<s docid="FT944-5797" num="1"> FT944-5797</s>
+</DOCNO>
+<PROFILE>
+
+<s docid="FT944-5797" num="2"> _AN-ELAD8AHHFT</s>
+</PROFILE>
+<DATE>
+
+<s docid="FT944-5797" num="3"> 941201</s>
+</DATE>
+<HEADLINE>
+
+<s docid="FT944-5797" num="4"> FT 01 DEC 94 / Survey of Software at Work - Winter 1994 (9): Seeking a winner - Authors of the submissions for this year's Business Software Challenge ranged from teams of HND students, to specialised entries from individual postgraduate and PhD students</s>
+</HEADLINE>
+<BYLINE>
+
+<s docid="FT944-5797" num="5"> By CLAIRE GOODING</s>
+</BYLINE>
+<TEXT>
+
+<s docid="FT944-5797" num="6"> Brainbox Written by: Peter Smee of the Open University Aimed at: individual users who wish to organise their ideas on-screen Runs on: IBM compatible PCs (486) under Microsoft Windows 3.1, written in Visual Basic 3.0 Professional 'Mental scaffolding' was the phrase the author himself used to describe the process created by his program, Brainbox.</s>
+
+<s docid="FT944-5797" num="7"> The system organised and collated ideas, depicting them on the screen in a series of boxes or 'connective maps'.</s>
+
+<s docid="FT944-5797" num="8"> Its target audience could be almost anybody, doing anything from writing an essay to formulating a marketing campaign.</s>
+
+<s docid="FT944-5797" num="9"> The screen used drop-down 'sheets' of ideas to prompt users to rank ideas and topics in order of importance, and rate them - something that was actually easier to do on the computer than by using the traditional 'card-shuffling' exercise with slips of paper.</s>
+
+<s docid="FT944-5797" num="10"> Using a computer might legitimise this simple but effective way of organising ideas, argued the author.</s>
+
+<s docid="FT944-5797" num="11"> The success of at least two well-known commercial products in the same area suggests that he may be right.</s>
+
+<s docid="FT944-5797" num="12"> Marketing is already under way and well-produced documentation was part of the demonstration.</s>
+
+<s docid="FT944-5797" num="13"> *** Scrapcutter- product-based optimisation Written by: Glynn Timmins of Aston University Aimed at: A company specialising in manufacturing metal safe-access equipment Runs on: IBM compatible PCs (486) under Microsoft Windows 3.1, written in Visual Basic 3.0 Professional Where there is scrap, there is money being wasted.</s>
+
+<s docid="FT944-5797" num="14"> This product was written in order to save money on material and optimise the process of cutting specified lengths from fixed-length raw material.</s>
+
+<s docid="FT944-5797" num="15"> Clever use of the screen-space showed the pattern being cut, and allowed the user to define and store it to create the basis of a 'materials database' that would eventually link up with other systems in order to carry out stock control and job estimation.</s>
+
+<s docid="FT944-5797" num="16"> The idea came to the author while working on industrial placement, and the system has already proved its worth in saving manufacturing costs in a live implementation.</s>
+
+<s docid="FT944-5797" num="17"> Users appreciated the ability to design and store custom-sheets, and create automatic orders.</s>
+
+<s docid="FT944-5797" num="18"> While other similar products exist, this one won a place on the shortlist because of the flexibility built into the PC-based design, and the creative use of the screen, which made it easy to follow the process.</s>
+
+<s docid="FT944-5797" num="19"> As his product is well-established in its beta-test site, the author hopes to interest other potential users.</s>
+
+<s docid="FT944-5797" num="20"> *** Hydroponics Controller Written by: Stephen Armitage, Peter Collins, Kevin Hatcher, Will Halsall, Ian Wilson of the Farnborough College of Technology Aimed at: Market gardeners and greenhouse nurseries Runs on: IBM PC 386 or compatible under MS-DOS 5.0, written in Microsoft Windows, C and C++ Version 7 Nursery growers and greenhouses are always racing to get their products to market before anyone else does, especially those working on large-scale sites.</s>
+
+<s docid="FT944-5797" num="21"> The trick is to extend the growing season, and that means keeping careful control of heat, light, and other factors.</s>
+
+<s docid="FT944-5797" num="22"> It was this commercial ambition that gave the team the idea of developing a 'real time' system.</s>
+
+<s docid="FT944-5797" num="23"> The system makes automatic adjustments to control greenhouse equipment for warmth, light, moisture and other factors used to encourage growth, using levels chosen by the user to suit the crop.</s>
+
+<s docid="FT944-5797" num="24"> This entry found favour for its thoroughness and well thought out programming and screen depiction.</s>
+
+<s docid="FT944-5797" num="25"> Each 'cell' or growing unit showed a graph for each variable, which responded in real time to changes in the values.</s>
+
+<s docid="FT944-5797" num="26"> The system itself had been well-built and tested, sadly without the involvement of a real life grower.</s>
+
+<s docid="FT944-5797" num="27"> *** Merlin Metrics System Written by: Antony Powell of Aston University Aimed at: Any company which needs to estimate the cost of producing software Runs on: Sun Microsystems Sparcstations and compatibles under Unix (SunOs), written using Ingres database and Windows 4GL Version 2.0/02 'You can't deliver what you can't measure' is a well-known conundrum of the software industry.</s>
+
+<s docid="FT944-5797" num="28"> Software metrics provide one of the traditional yardsticks used to estimate the time and effort it will take in order to to create new software.</s>
+
+<s docid="FT944-5797" num="29"> Such metrics are based on generally accepted, tried and tested rules of thumb, often an estimate of lines of code written per day.</s>
+
+<s docid="FT944-5797" num="30"> These were simply too wide of the mark for a specialised company such as Rolls Royce and Associates, where the Scientific Software Department had highly trained staff, working on scientific problems.</s>
+
+<s docid="FT944-5797" num="31"> Other measurement systems proved unsatisfactory, so the author set out to create a system that could 'model' specialised developments.</s>
+
+<s docid="FT944-5797" num="32"> Models could be stored, manipulated, and drawn on to adapt to new circumstances, so that the development model closely reflects the experience and the culture of a particular company.</s>
+
+<s docid="FT944-5797" num="33"> Most important, the author had defeated the main problem experienced with such systems in that the data was simple to collect and enter.</s>
+
+<s docid="FT944-5797" num="34"> Commercial plans for this product have not spread beyond its enthusiastic users at Rolls-Royce as yet.</s>
+
+<s docid="FT944-5797" num="35"> *** Live - Makaton Environments Written by: Richard Eastgate, Mirabelle D'Cruz, Brendan Collins and Christopher Lee of Nottingham Univerity Aimed at: Schools for children with learning difficulties, including multiple disabilities Runs on: IBM compatible 486 PC, with joystick and SVGA graphics, under MS-DOS 5.0, written using Virtual R The word 'Live' in the title of this product stands for 'Learning In Virtual Environments', a description of an innovative computer-based approach to the teaching of a special sign language, Makaton.</s>
+
+<s docid="FT944-5797" num="36"> This cross-disciplinary team, inspired by practical research, set out to create a world within the classroom.</s>
+
+<s docid="FT944-5797" num="37"> The teacher can explore the various properties of an item (such as a ringing telephone, shown on an office desk) and children taught and tested using the signs within a 'real' environment.</s>
+
+<s docid="FT944-5797" num="38"> The system supports various special peripherals - such as a joystick and speakers - so that it can be used by multiply-handicapped children with learning difficulties.</s>
+
+<s docid="FT944-5797" num="39"> The split screen shows on one side a moving cartoon figure who demonstrates the making of the sign (this is easier to follow and interpret than the traditional card-based pictures with arrows) and on the other the 'environment'.</s>
+
+<s docid="FT944-5797" num="40"> The product may soon be available through a specialist software company, Rompa, and the team is continuing to develop new modules and facilities.</s>
+
+<s docid="FT944-5797" num="41"> *** Inspire - Intelligent System for the Purpose of Information Retrieval in Education Written by: Alan Cloughley, David Black, John Taylor of Napier University, Edinburgh Aimed at: Educational institutions and students in higher education Runs on: IBM compatible PCs under MS-DOS or SCO Xenix, written in Borland Turbo C Version 5.0.</s>
+
+<s docid="FT944-5797" num="42"> This product is aimed at the overworked student counsellor who needs an instant source of information on higher education grants and funding.</s>
+
+<s docid="FT944-5797" num="43"> Currently such advisors, and those students that are trying to help themselves, find that they have to wade through a maze of books, pamphlets and other sources to find the information they need.</s>
+
+<s docid="FT944-5797" num="44"> Furthermore, they may remain ignorant of special funds - such as charities and trusts - that could help them, given the right set of qualifications.</s>
+
+<s docid="FT944-5797" num="45"> Inspire uses a series of menus and draws a 'profile' of the enquirer's special circumstances and connections, so that every possible source of funding is revealed, with an analysis of the potential grants, loans, benefits, trusts and sponsorships, and even tax benefits, that could be drawn upon.</s>
+
+<s docid="FT944-5797" num="46"> The enormous effort made in gathering and organising the information was matched by a thoughtfully-planned screen presentation.</s>
+
+<s docid="FT944-5797" num="47"> This enterprising team of authors has already formed itself into a company, called Knowledge Tree Systems, and is marketing and supporting the system commercially.</s>
+
+<s docid="FT944-5797" num="48"> They will, however, have to keep a close eye on pricing and the cost of maintaining an up-to-date knowledge bank.</s>
+
+<s docid="FT944-5797" num="49"> *** The Word-Of-Mouth- Emulator Written by: Clare Harvey of University of Sunderland Aimed at: Any company which needs to centralise and use its body of research knowledge Runs on: IBM compatible PC 486 under Microsoft Windows 3.1, written in Visual Basic A researcher starting off on a new project is well-advised to finding someone who already knows something about the subject.</s>
+
+<s docid="FT944-5797" num="50"> The traditional method is word of mouth.</s>
+
+<s docid="FT944-5797" num="51"> In a large, widely-spread organisation, this might not be so easy, and many a goldmine is stashed away in laboratory notebooks of which colleagues may not even be aware.</s>
+
+<s docid="FT944-5797" num="52"> It was to create a knowledge network at Courtaulds Coatings Research and Development Department that this student created the Word of Mouth Emulator.</s>
+
+<s docid="FT944-5797" num="53"> A database registers the interests of users as they file and retrieve their everyday work, and builds up its knowledge on their enquiries, so that the more the system is used, the more useful it becomes as a 'map' of internal knowledge.</s>
+
+<s docid="FT944-5797" num="54"> The screen showed simple-to-use prompts and listings of areas of expertise and interest, so that people could investigate for themselves, a popular feature with pilot users.</s>
+
+<s docid="FT944-5797" num="55"> *** Minvest - Financial Evaluation of Mining Projects Written by: Dr Chaoshui Xu of the University of Leeds Aimed at: Mining companies assessing investments Runs on: IBM Compatible PC 386 under MS-DOS version 4.0, written using Zortech C++ from Symantec, Version 3.1.</s>
+
+<s docid="FT944-5797" num="56"> Mining is a high-capital investment business, and assessing the risk of a new venture is a job for experts.</s>
+
+<s docid="FT944-5797" num="57"> Few experts, however, are equally at home in the worlds of mining and high finance.</s>
+
+<s docid="FT944-5797" num="58"> This PhD student set out to marry the two topics in one robust and easy-to-use piece of software, having researched the limitations of current methods and software tools.</s>
+
+<s docid="FT944-5797" num="59"> The screen walks the user through a number of considerations and variables, including the quality and amount of ore, tax rules and profitability, (which vary according to the country of origin and the material).</s>
+
+<s docid="FT944-5797" num="60"> The answers can be constructed into a model, using a series of spreadsheets, grids and graphics to show cash-flow and payback analysis.</s>
+
+<s docid="FT944-5797" num="61"> Although developed without the benefit of Windows, this thorough and professional tool used simple Windows-like techniques.</s>
+
+<s docid="FT944-5797" num="62"> The pool of 35 test users are reported to be enthusiastic, and this product has good commercial prospects.</s>
+</TEXT>
+<XX>
+
+<s docid="FT944-5797" num="63"> Countries:-</s>
+</XX>
+<CN>
+
+<s docid="FT944-5797" num="64"> GBZ United Kingdom, EC.</s>
+</CN>
+<XX>
+
+<s docid="FT944-5797" num="65"> Industries:-</s>
+</XX>
+<IN>
+
+<s docid="FT944-5797" num="66"> P7372 Prepackaged Software.</s>
+</IN>
+<XX>
+
+<s docid="FT944-5797" num="67"> Types:-</s>
+</XX>
+<TP>
+
+<s docid="FT944-5797" num="68"> TECH Products & Product use.</s>
+</TP>
+<PUB>
+
+<s docid="FT944-5797" num="69"> The Financial Times</s>
+</PUB>
+<PAGE>
+
+<s docid="FT944-5797" num="70"> London Page VIII</s>
+</PAGE>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA080290-0225" num="1"> LA080290-0225</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA080290-0225" num="2"> 256191</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA080290-0225" num="3"> August 2, 1990, Thursday, San Diego County Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA080290-0225" num="4"> View; Part E; Page 7A; Column 2</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA080290-0225" num="5"> 1571 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA080290-0225" num="6"> YOUNG CHILDREN CAN GET FREE SPEECH THERAPY;</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="7"> LANGUAGE: PUBLIC SCHOOLS OFFER SPECIAL PROGRAMS TO HELP 2- TO 5-YEAR-OLDS TACKLE SPEECH PROBLEMS BEFORE THEY REACH THE CLASSROOM.</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA080290-0225" num="8"> By BARBARA BRONSON GRAY, Gray is a regular contributor to Valley View.</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA080290-0225" num="9"> Christina David was only 3 1/2 when her parents realized that only her family could understand her speech.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="10"> The pediatrician told her parents that Christina's frequent ear infections -- which limited her ability to hear -- may have contributed to her language problem, and recommended speech therapy.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="11"> Her parents, Dotty and Pablo David, spent about $3,500 for a year and a half of private speech therapy, yet still felt Christina was difficult to understand.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="12"> Then the Davids found out that the Los Angeles Unified School District offers speech and language assessment and therapy, and they tried it.</s>
+
+<s docid="LA080290-0225" num="13"> Within a few months, Christina had made great progress, and by the time she entered kindergarten, she had no speech problems.</s>
+
+<s docid="LA080290-0225" num="14"> Now their son Mickey, 4, is getting speech therapy at Morningside School in San Fernando for a similar problem.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="15"> Many parents are not aware that the best time to catch speech and language difficulties is early -- at age 2 to 3 -- which is several years before children start school.</s>
+
+<s docid="LA080290-0225" num="16"> Some may not realize that help is available through the public schools for children that young.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="17"> But the Los Angeles Unified School District offers a range of programs designed to meet the needs of preschool and kindergarten students.</s>
+
+<s docid="LA080290-0225" num="18"> The programs are available free to all children in the community, even if they are headed for or enrolled in private or parochial schools.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="19"> The programs are mandated by federal and state laws that specifically require that services be available to children ages 3 to 5 as well as to those who are in school.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="20"> The programs range from five-day-a-week classes for children with severe speech problems to once-a-week programs for children with minor speech lags.</s>
+
+<s docid="LA080290-0225" num="21"> The programs include classroom enrichment designed to stimulate the language development of children in socio-economically disadvantaged areas to more traditional speech therapy with licensed, credentialed speech and language specialists.</s>
+
+<s docid="LA080290-0225" num="22"> There are 78 speech and language therapists in the San Fernando Valley, serving 181 elementary, secondary and special education schools.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="23"> According to Barbara Staley, a speech and language specialist at Montague Avenue School in Pacoima and at Morningside School, the first step for parents who think their children may have a problem is to call the Valley's Special Education Services office (818-997-2466) to request a screening.</s>
+
+<s docid="LA080290-0225" num="24"> A speech and language specialist, a psychologist and a motor development specialist will assess the child's socialization, speech, language and motor skills and make a formal recommendation.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="25"> Children who show a mild delay in speech and language development may be referred to the Early Education Program, a 90-minute, once-a-week class that gives children special attention designed to build language skills and provide parents with language-related information and a parent support group.</s>
+
+<s docid="LA080290-0225" num="26"> Children age 3 and older with more severe speech problems may be offered one of 55 Special Day Class programs, which give special attention to six to eight children in a classroom five days a week.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="27"> When Christopher Stone, 7, started the five-day-a-week special day class at Dearborne School in Northridge three years ago, he had a learning and speech delay problem that made even saying simple words difficult, said his father, Alan Stone, a Van Nuys graphic artist.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="28"> Now Christopher is starting first grade -- and doing well -- with the added special reading and motor skill support from the school's resource teacher.</s>
+
+<s docid="LA080290-0225" num="29"> "The language programs are one thing the school district does really well," Stone said.</s>
+
+<s docid="LA080290-0225" num="30"> "And it's free.</s>
+
+<s docid="LA080290-0225" num="31"> Chris' teacher treated him like he was her own child, and gave personalized attention to all six or eight kids in the class".</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="32"> Stone said he found that the private schools he checked into didn't have the facilities to work with children with special needs.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="33"> Stone said he feels Christopher was lucky that his problems were identified early.</s>
+
+<s docid="LA080290-0225" num="34"> Many of the children in Chris' kindergarten class, he said, clearly would have benefited from additional speech and language training but their parents were either unaware of the children's special needs or they assumed their speech development would eventually catch up.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="35"> Many parents don't realize that language problems do not necessarily go away as a child matures, Staley said.</s>
+
+<s docid="LA080290-0225" num="36"> What is considered cute baby talk for a toddler may not work when children are put in social situations with other children.</s>
+
+<s docid="LA080290-0225" num="37"> The child whose speech sounds different from the others can be singled out and teased, or may become self-conscious, frustrated or reserved, she said.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="38"> In addition, failing to get speech help early can lead to failure in school.</s>
+
+<s docid="LA080290-0225" num="39"> "Reading and writing are just another dimension of oral language, and if children can't hear and say the words correctly, they will have trouble learning to read and write," Staley said.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="40"> Just as some parents don't move aggressively to have their children's speech assessed when potential problems present themselves, Staley said others seem overly concerned and tense about their preschooler's failure to enunciate perfectly.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="41"> "Many parents want to fix things right away, they want the language problems to be solved immediately," she said.</s>
+
+<s docid="LA080290-0225" num="42"> "But parents, while they need to have problems looked at, also need to relax.</s>
+
+<s docid="LA080290-0225" num="43"> You can't go to the bathroom for your child, you can't eat for your child and you can't make them talk.</s>
+
+<s docid="LA080290-0225" num="44"> You have to build their self-esteem and have faith that things will start to happen".</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="45"> To help speed the children's development of language skills in socio-economically disadvantaged neighborhoods, the school district has targeted 18 kindergarten classrooms for the Oral Language Development Program.</s>
+
+<s docid="LA080290-0225" num="46"> The program is designed to build the communication skills of kindergartners who may not have had the benefit of such language stimulation in a preschool environment, said Esther Meyers, a speech and language specialist and a program coordinator in the Valley.</s>
+
+<s docid="LA080290-0225" num="47"> Speech and language specialists work with kindergarten teachers to build skills that the teachers can use immediately and with future classes, and they work directly with the children to help them learn to talk in the more formal environment of the classroom.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="48"> Staley, who works with 90 children in the program at Montague, said: "Many children are coming from a home environment where their family always knows what they're talking about, and when they're in the classroom they may not realize that the teacher and other students don't necessarily understand what they are talking about".</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="49"> Staley said the program teaches children to talk in front of the class and to speak in complete sentences, and it enriches the children's vocabulary through play activities and songs.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="50"> Once their child has been identified as having a speech or language problem, some parents wonder whether they should use the school district services or give their children private speech therapy.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="51"> Bernice Sedlik, a private speech and language specialist in Canoga Park, said she always advises parents to seek services through the public schools.</s>
+
+<s docid="LA080290-0225" num="52"> "Parents usually do contact the public schools," she said, but added that there are situations in which the structure or the design of the services may not meet the parents' or the children's needs.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="53"> "A school schedule may not be compatible with a parent's schedule, or parents may have a negative view of the services they will receive in the schools," she said.</s>
+
+<s docid="LA080290-0225" num="54"> Sometimes, parents have expressed concern that the people testing the children do not seem comfortable working with preschoolers, or the services seem inconsistent due to holiday school closures or staff meetings that interrupt the regularly scheduled speech therapy sessions or classes.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="55"> The benefit of private speech therapy is that the child gets more personal attention, since private sessions usually involve only one child while the public school speech therapy sessions often include two or three children.</s>
+
+<s docid="LA080290-0225" num="56"> But she said that if a child qualifies for the early education program, she recommends that program over private therapy.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="57"> "While parents sometimes wonder if their children can improve their speech skills in a classroom setting, by three-quarters of the way through the year, the parents realize the children have learned to speak well without one-to-one attention.</s>
+
+<s docid="LA080290-0225" num="58"> You're changing their speech environments for the rest of their lives, by modeling for the parents and teaching the parents how to facilitate speech development, too".</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="59"> How to Talk, Listen to Kids</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="60"> Tips for improving your child's speech and language skills from the Special Education Services Unit of the Los Angeles Unified School District:</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="61"> * Don't talk to your children as if they're 30.</s>
+
+<s docid="LA080290-0225" num="62"> Speak slowly, use words they can understand and check to make sure they understand what you are saying.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="63"> * Stop and listen to your children.</s>
+
+<s docid="LA080290-0225" num="64"> Reinforce what they say by responding to them, letting them know you understand them.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="65"> * Don't correct a child's mispronunciations; try to use the word for them properly, but casually, so they can hear it said correctly.</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="66"> * Try to enrich your child's vocabulary in daily life.</s>
+
+<s docid="LA080290-0225" num="67"> Build on the words they use.</s>
+
+<s docid="LA080290-0225" num="68"> If a child says, for example, "Look at this pretty flower," you can say, "Yes, I love the shape of the petals".</s>
+</P>
+<P>
+
+<s docid="LA080290-0225" num="69"> * If you're unsure about your child's speech development, seek professional help.</s>
+
+<s docid="LA080290-0225" num="70"> For free evaluation by the LAUSD, call (818) 997-2466.</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA080290-0225" num="71"> Photo, Language teacher Barbara Staley leads pupils in a dance to a song about parts of the body.</s>
+
+<s docid="LA080290-0225" num="72"> Photo, Barbara Staley uses flash cards in a drill.</s>
+
+<s docid="LA080290-0225" num="73"> She said her program helps teach children to talk in front of the class and in complete sentences.</s>
+
+<s docid="LA080290-0225" num="74"> Photo, Some of the students in a Montague kindergarten class on language assessment recite a lesson on what they do throughout the day.</s>
+
+<s docid="LA080290-0225" num="75"> MARILYN WEISS / For The Times</s>
+</P>
+</GRAPHIC>
+<TYPE>
+<P>
+
+<s docid="LA080290-0225" num="76"> Infobox</s>
+</P>
+</TYPE>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="FT924-14456" num="1"> FT924-14456</s>
+</DOCNO>
+<PROFILE>
+
+<s docid="FT924-14456" num="2"> _AN-CJIBOAE3FT</s>
+</PROFILE>
+<DATE>
+
+<s docid="FT924-14456" num="3"> 921009</s>
+</DATE>
+<HEADLINE>
+
+<s docid="FT924-14456" num="4"> FT 09 OCT 92 / Technology: Virtual reality takes its seat in class - Andrew Baxter looks at a new approach to teaching children with learning disabilities</s>
+</HEADLINE>
+<BYLINE>
+
+<s docid="FT924-14456" num="5"> By ANDREW BAXTER</s>
+</BYLINE>
+<TEXT>
+
+<s docid="FT924-14456" num="6"> Discworld, as fans of comic-fantasy novelist Terry Pratchett will know, is a disc-shaped world carried through the Multiverse by four immense elephants riding on the back of the ponderous galactic turtle Great A'Tuin.</s>
+
+<s docid="FT924-14456" num="7"> Closer to home, more down-to-earth worlds are being created at the Shepherd School in Nottingham, the largest in Britain for children with severe learning difficulties - with a serious educational aim in view.</s>
+
+<s docid="FT924-14456" num="8"> Over the past year, the school has been exploring the educational and training benefits of Desktop Virtual Reality.</s>
+
+<s docid="FT924-14456" num="9"> A sophisticated virtual reality system, with a display that changes up to 10 times a second, allows the user to experience the illusion of being within the alternative environment on the screen.</s>
+
+<s docid="FT924-14456" num="10"> Users normally 'immerse' themselves in virtual reality for entertainment - by putting on a headset with a small LCD screen in front of each eye.</s>
+
+<s docid="FT924-14456" num="11"> Desktop VR is the next generation, using the same VR software but on a desktop computer.</s>
+
+<s docid="FT924-14456" num="12"> This week, the school, along with Nottingham University's Virtual Reality Applied Research Team, and Aldermaston-based Dimension International which supplied the software and hardware, unveiled findings from a small pilot project involving 12-20 students.</s>
+
+<s docid="FT924-14456" num="13"> Virart, established last year, had been looking for a way to test the benefits of virtual reality in education.</s>
+
+<s docid="FT924-14456" num="14"> The project's first stage has involved creating virtual worlds which incorporate the well-established Makaton symbol and sign system used by the school to help children master the basic 500-600 words of vocabulary.</s>
+
+<s docid="FT924-14456" num="15"> For example, says David Brown, a member of the Virart team, the screen could create a three-dimensional car which the child could 'get in' and drive around in, but the two-dimensional Makaton icon would be constantly in view.</s>
+
+<s docid="FT924-14456" num="16"> The aim is to help the child learn the symbol, and thus to communicate, giving the child at least some control over its environment.</s>
+
+<s docid="FT924-14456" num="17"> Fully-interactive environments displaying images of the words along with the appropriate symbol or sign ought to have more impact than static pages of information.</s>
+
+<s docid="FT924-14456" num="18"> The results so far have been impressive, says head teacher David Stewart.</s>
+
+<s docid="FT924-14456" num="19"> 'We have children here for 16 years from the age of three to 19.</s>
+
+<s docid="FT924-14456" num="20"> Our main concern is to look for every way to help the children, so Desktop VR is an important tool in our armoury'.</s>
+
+<s docid="FT924-14456" num="21"> And even if the system cannot always aid the learning process, the three-dimensional world is as near to the real world as some children get, he says.</s>
+
+<s docid="FT924-14456" num="22"> So far, 20 symbols have been incorporated into virtual worlds, but it will take three years, and more funding, to convert the whole Makaton library, says Brown.</s>
+
+<s docid="FT924-14456" num="23"> Further developments of the programme at Shepherd School will include the introduction of sound and more detailed worlds, while the more able children can create their own virtual worlds.</s>
+
+<s docid="FT924-14456" num="24"> Other applications in education are possible, says Brown.</s>
+
+<s docid="FT924-14456" num="25"> History could be presented in a different way using Desktop VR, and as the medium is interactive, the student could change the course of past events and watch what happens.</s>
+</TEXT>
+<PUB>
+
+<s docid="FT924-14456" num="26"> The Financial Times</s>
+</PUB>
+<PAGE>
+
+<s docid="FT924-14456" num="27"> London Page 18</s>
+</PAGE>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA011890-0044" num="1"> LA011890-0044</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA011890-0044" num="2"> 163431</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA011890-0044" num="3"> January 18, 1990, Thursday, Home Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA011890-0044" num="4"> Glendale; Part J; Page 1; Column 2</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA011890-0044" num="5"> 817 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA011890-0044" num="6"> AFTER-SCHOOL PROGRAM FOR HANDICAPPED OKD</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA011890-0044" num="7"> By LORI GRANGE, TIMES STAFF WRITER</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA011890-0044" num="8"> A proposed after-school care program for severely handicapped students won initial approval Tuesday from Glendale school officials, who heralded it as a breakthrough for parents.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="9"> The program, the first of its kind in Glendale, will provide free care and innovative recreational instruction weekday afternoons for up to 24 mentally and physically impaired students from Glendale, Burbank and La Crescenta.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="10"> Designed by the Easter Seal Society, the program could serve as a model to be duplicated nationwide, officials of the nonprofit organization said.</s>
+
+<s docid="LA011890-0044" num="11"> Easter Seal already is considering creating a similar program in Orange County.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="12"> "It's going to make a big difference in the children's and parents' lives," said Mary Anne Dan, supervisor at College View School, a specialized facility for handicapped students that will house the program.</s>
+
+<s docid="LA011890-0044" num="13"> "It's virtually impossible to find quality, affordable after-school care.</s>
+
+<s docid="LA011890-0044" num="14"> And these kids have had few recreational opportunities".</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="15"> The state still must agree to fund and license the program as a day-care service.</s>
+
+<s docid="LA011890-0044" num="16"> But Easter Seal officials, who said informal approval and funds already have been given, consider those measures largely procedural.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="17"> The service is expected to be in operation no later than May, said Carlene Holden, Easter Seal's vice president of program service in Los Angeles County.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="18"> The after-school care proposal was praised by parents of College View students, who had struggled unsuccessfully for almost three years to establish such a service at the school.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="19"> Many parents have been unable to afford expensive, specialized aides or find day-care centers capable of providing proper care and have had to forgo working in the afternoons to look after their handicapped children, Dan said.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="20"> "They really are at the cutting edge of something that's been a long-time need," said Don Eells, a La Crescenta training specialist whose handicapped son attends College View.</s>
+
+<s docid="LA011890-0044" num="21"> "Something like this gives parents many more opportunities to lead a more normal life.</s>
+
+<s docid="LA011890-0044" num="22"> Obviously it's very difficult to hold a regular job".</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="23"> But one handicapped services specialist cautioned that the program should be viewed only as a stepping stone to a better solution -- after-school care that would integrate normal and handicapped students.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="24"> "We're supporting the after-school program because right now there's a great need for it.</s>
+
+<s docid="LA011890-0044" num="25"> But it's not the ideal situation," said Sam Suzuki, program manager for school-age children's services at Lanterman Regional Center, a nonprofit agency contracted by the state that will allocate the money for the program.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="26"> "Handicapped children are really best served when they are integrated with non-handicapped services," Suzuki said.</s>
+
+<s docid="LA011890-0044" num="27"> "That's a direction we'll eventually go".</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="28"> But Board of Education members didn't hesitate Tuesday to embrace the program by agreeing to lease two classrooms at College View School for its operation.</s>
+
+<s docid="LA011890-0044" num="29"> "It's a real breakthrough," one board member told Emmy Pennington, the district's director of special education, after she presented the proposal.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="30"> The program won quick approval from the board in part because it requires no school district funding, officials acknowledged.</s>
+
+<s docid="LA011890-0044" num="31"> In fact, the district will receive about $20 a day for leasing the classrooms.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="32"> Easter Seal and College View will hire and supervise at least four instructors and aides and may seek donations for student scholarships.</s>
+
+<s docid="LA011890-0044" num="33"> But teachers' salaries, rent for the classrooms and students' costs largely will be paid by the state, Holden said.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="34"> Holden would not disclose how much the program is expected to cost.</s>
+
+<s docid="LA011890-0044" num="35"> But Dan said a proposed budget requests about $9.35 an hour per student.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="36"> The program will emphasize recreation and interaction and provide therapeutic, specially designed toys for students that can be borrowed by parents for use at home, Holden said.</s>
+
+<s docid="LA011890-0044" num="37"> It also will offer computerized work stations with adaptive equipment and programs that also can be borrowed.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="38"> "We are not talking about a baby-sitting program," Holden said.</s>
+
+<s docid="LA011890-0044" num="39"> "We are talking about having a professionally staffed program with a lot of special features that are normally difficult to find.</s>
+
+<s docid="LA011890-0044" num="40"> We're considering this a model program".</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="41"> Severely handicapped students, who attend either regular or special schools during the day, will be bused to College View and cared for from 3 p.m. to 6 p.m., when their parents will pick them up, she said.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="42"> About 2,800 students with various degrees of handicaps are enrolled in special education programs throughout Glendale, Burbank and La Crescenta, which operate a consortium to provide services for them, according to Pennington.</s>
+
+<s docid="LA011890-0044" num="43"> About 100 severely handicapped students attend College View.</s>
+</P>
+<P>
+
+<s docid="LA011890-0044" num="44"> Although the program initially will be limited to 24 students, Dan said, immediate demand is not expected to be overwhelming because many handicapped students live in permanent care facilities outside their homes.</s>
+</P>
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA020989-0132" num="1"> LA020989-0132</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA020989-0132" num="2"> 16263</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA020989-0132" num="3"> February 9, 1989, Thursday, Valley Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA020989-0132" num="4"> View; Part 5; Page 14; Column 1</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA020989-0132" num="5"> 1330 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA020989-0132" num="6"> DISABLED STUDENTS WORK TO LEARN, LEARN TO WORK IN SCHOOL PROGRAM</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA020989-0132" num="7"> By SAMUEL GREENGARD, Greengard is a Burbank free-lance writer.</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA020989-0132" num="8"> Like many high school students, Andy Bell likes the purchasing power an after-school job promises.</s>
+
+<s docid="LA020989-0132" num="9"> Every weekday afternoon, he rides a bus from Reseda High School to Kaiser Permanente Medical Center in Woodland Hills.</s>
+
+<s docid="LA020989-0132" num="10"> There, for the next two hours, the 18-year-old senior helps sweep floors, dump trash and clean conference rooms.</s>
+
+<s docid="LA020989-0132" num="11"> He earns about $200 a month -- money he can spend on clothes or tuck away in his bank account.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="12"> Bell works hard to fit in.</s>
+
+<s docid="LA020989-0132" num="13"> And, at first glance, he seems like a typical teen-ager -- interested in hanging out with his friends, thinking about girls and earning money.</s>
+
+<s docid="LA020989-0132" num="14"> But Bell is not typical.</s>
+
+<s docid="LA020989-0132" num="15"> He is, according to the Los Angeles Unified School District, "high functioning educable retarded".</s>
+
+<s docid="LA020989-0132" num="16"> And if it weren't for a special program set up by the district to help disabled students find work, he would probably be sitting at home every afternoon watching television reruns.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="17"> The 6-year-old program, called Project Work-Ability, is designed to teach physically and mentally disabled students -- as well as those suffering from learning disabilities such as dyslexia -- the skills they need to function in the workplace.</s>
+
+<s docid="LA020989-0132" num="18"> It offers classroom credit, and students are paid for their work.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="19"> About 300 San Fernando Valley-area students from 17 schools and two occupational centers participate in the $1.2-million-a-year program, which is funded partly by the state Department of Rehabilitation and partly by the school district.</s>
+
+<s docid="LA020989-0132" num="20"> Project Work-Ability has assisted more than 3,000 students since its inception.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="21"> "For most of these youngsters, the gains in growth and confidence are phenomenal," said Mark Stephens, Project Work-Ability director and coordinator of vocational education for the handicapped for the school district.</s>
+
+<s docid="LA020989-0132" num="22"> "It's a chance for them to get their first work experience and learn the proper work habits".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="23"> Added Arnie Mates, a Project Work-Ability vocational counselor who has worked with Bell: "You see tremendous results from this program.</s>
+
+<s docid="LA020989-0132" num="24"> It really helps these kids to gain work experience before they leave school".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="25"> Employment for the disabled is not an insignificant problem.</s>
+
+<s docid="LA020989-0132" num="26"> According to Stephens, the unemployment rate for both physically and mentally handicapped people consistently hovers between 50% and 80%.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="27"> "The handicapped have been grossly under-represented in the workplace," he said.</s>
+
+<s docid="LA020989-0132" num="28"> "But it's not because they are unable to function.</s>
+
+<s docid="LA020989-0132" num="29"> Many of them are entirely capable of doing a job as well as anyone else, if they get the chance".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="30"> Work experience programs now exist in several states.</s>
+
+<s docid="LA020989-0132" num="31"> According to Pat Dougan, a program coordinator for the state Department of Education, 146 Work-Ability programs have been set up in California's 1,000 school districts; 15,000 students are involved.</s>
+
+<s docid="LA020989-0132" num="32"> A similar program is available at some regional occupational centers and community colleges.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="33"> Locally, more than 100 companies have become involved in the program, including Burger King, Kaiser Permanente, Marriott Hotels, McDonald's, Pizza Hut and Universal Studios Tour.</s>
+
+<s docid="LA020989-0132" num="34"> Jobs range from cashier and janitor to mechanic and records clerk.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="35"> The important thing, Stephens noted, is to find the right match, since "even the most severely handicapped individuals can perform certain jobs".</s>
+
+<s docid="LA020989-0132" num="36"> He pointed out that several quadriplegic students who are confined to wheelchairs -- some of whom cannot speak -- are holding jobs.</s>
+
+<s docid="LA020989-0132" num="37"> One student works as an interoffice messenger for a large insurance company and uses a special computer that he can program to say various phrases.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="38"> Employers Receptive</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="39"> "Most of the employers have been very receptive once they get involved in the program," Stephens said.</s>
+
+<s docid="LA020989-0132" num="40"> "They generally like it and request more students.</s>
+
+<s docid="LA020989-0132" num="41"> There are employers who have chosen not to participate, which I believe is due largely to a lack of understanding about what the disabled can do".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="42"> Bob Stanley, an employment interviewer for Universal Studious Tours, has hired dozens of disabled students through the program to fill a wide array of jobs.</s>
+
+<s docid="LA020989-0132" num="43"> "We have gotten some good employees out of the program.</s>
+
+<s docid="LA020989-0132" num="44"> These are good, qualified kids who want to work.</s>
+
+<s docid="LA020989-0132" num="45"> I've found their attitude a lot better than some of the kids who weren't disabled.</s>
+
+<s docid="LA020989-0132" num="46"> Often, they feel they have something to prove".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="47"> Maryanne Malzone, an employment specialist who has been responsible for hiring several students, including Bell, for Kaiser Permanente said: "They are productive and a benefit to the company.</s>
+
+<s docid="LA020989-0132" num="48"> Most of these kids are real nice and they appreciate the fact that they are getting a chance".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="49"> During the three years Bell has worked at Kaiser -- first handling clerical duties in personnel before moving to housekeeping -- he has blossomed into an excellent employee, Malzone said.</s>
+
+<s docid="LA020989-0132" num="50"> At first he required a fair amount of supervision but he is now able to work almost entirely on his own.</s>
+
+<s docid="LA020989-0132" num="51"> In addition, he has learned to take buses to and from work and has become far more self-dependent.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="52"> Special-education high school students -- there are about 5,000 in the L.A.</s>
+
+<s docid="LA020989-0132" num="53"> School District -- are offered optional classes to help them learn about vocational possibilities.</s>
+
+<s docid="LA020989-0132" num="54"> Advisers, who are not involved in everyday teaching, work with the students in small groups or on a one-to-one basis, teaching them how to fill out job applications, prepare for an interview, and enroll in various classes and find potential jobs in the community.</s>
+
+<s docid="LA020989-0132" num="55"> The advisers then regularly check with the employer to see how the student is doing.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="56"> All the students are paid.</s>
+
+<s docid="LA020989-0132" num="57"> Most are put on the company payroll; when employers cannot afford the wages the school district covers the cost.</s>
+
+<s docid="LA020989-0132" num="58"> Most of the students earn $4.25 an hour, with a few making as much as $8 or $9 an hour.</s>
+
+<s docid="LA020989-0132" num="59"> Stephens hopes some will be able to move into full-time work at the same firm when they graduate.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="60"> Some Decline Offer</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="61"> Some special-education students who believe they can better deal with employment on their own choose not to participate in the program.</s>
+
+<s docid="LA020989-0132" num="62"> Stephens is comfortable with their decision: "A lot of them get by very well and don't need our support.</s>
+
+<s docid="LA020989-0132" num="63"> They don't want to be identified as having a disability.</s>
+
+<s docid="LA020989-0132" num="64"> And that's completely understandable.</s>
+
+<s docid="LA020989-0132" num="65"> Many adults who had learning disabilities in school are out in the workplace right now and are succeeding very well.</s>
+
+<s docid="LA020989-0132" num="66"> Once they left high school and had the label removed, they learned to function just fine".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="67"> Of course, not every student works out for every job.</s>
+
+<s docid="LA020989-0132" num="68"> "We have had situations where kids have been fired from jobs," Stephens said.</s>
+
+<s docid="LA020989-0132" num="69"> "But that's part of life -- and we have a support system within the program to deal with that.</s>
+
+<s docid="LA020989-0132" num="70"> A lot of times the firing has been completely justified.</s>
+
+<s docid="LA020989-0132" num="71"> There have been only a few isolated cases where the youngster may have been terminated because of the disability.</s>
+
+<s docid="LA020989-0132" num="72"> It's illegal, but it still happens".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="73"> Parental satisfaction seems high.</s>
+
+<s docid="LA020989-0132" num="74"> Bell's mother, Rosalie Bell, said the program has made her son "more responsible and taught him a work ethic.</s>
+
+<s docid="LA020989-0132" num="75"> Children who are handicapped have to have a way to become part of society without being a burden".</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="76"> Gail Slater, whose son, Brian, has a learning disability, said: "He never would have made it without the help".</s>
+
+<s docid="LA020989-0132" num="77"> Today her son attends community college, works and lives on his own.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="78"> Parental Concern</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="79"> Although some parents of more severely disabled youngsters have expressed concern and apprehension at first, Stephens said that "after they see the success the youngster experiences, after they see the change in self-image and confidence, they generally become very supportive of the program.</s>
+</P>
+<P>
+
+<s docid="LA020989-0132" num="80"> "These people have always wound up in the work force," he added, "but usually not as a stable part of it.</s>
+
+<s docid="LA020989-0132" num="81"> They might have gone from job to job and gotten terminated a few times before they made the adjustment.</s>
+
+<s docid="LA020989-0132" num="82"> And a few years ago, the really disabled stayed at home.</s>
+
+<s docid="LA020989-0132" num="83"> They collected their Social Security checks and sat in front of the television set most of the day.</s>
+
+<s docid="LA020989-0132" num="84">. . . We're helping them become useful members of our society.</s>
+
+<s docid="LA020989-0132" num="85"> Most of them only need a chance" .</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA020989-0132" num="86"> Photo, Project Work-Ability participant Andy Bell, 18, collects soiled linens as part of his job at hospital.</s>
+
+<s docid="LA020989-0132" num="87"> DAVID BOHRER / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA112689-0048" num="1"> LA112689-0048</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA112689-0048" num="2"> 139904</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA112689-0048" num="3"> November 26, 1989, Sunday, Home Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA112689-0048" num="4"> Long Beach; Part J; Page 1; Column 5</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA112689-0048" num="5"> 1289 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA112689-0048" num="6"> HOSPITAL TREATS PATIENTS TO AN EDUCATION;</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="7"> SCHOOLS: RANCHO LOS AMIGOS HOSPITAL SCHOOL INSTRUCTS STUDENTS AGES 3 TO 21 WITH PHYSICAL DISABILITIES.</s>
+
+<s docid="LA112689-0048" num="8"> SOME TEACHING IS AT BEDSIDE.</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA112689-0048" num="9"> By FRANKI V.</s>
+
+<s docid="LA112689-0048" num="10"> RANSOM, TIMES STAFF WRITER</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA112689-0048" num="11"> When her class sits down to eat lunch, 14-year-old Jennifer sits with them, but instead of eating her food she pours it into a tube to her stomach.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="12"> Since birth, Jennifer has been unable to eat normally because she was born with a brain dysfunction that prevents her from swallowing food.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="13"> At a regular school, Jennifer's actions might draw attention, but during lunch at the Rancho Los Amigos Hospital School in Downey, no one seems to notice.</s>
+
+<s docid="LA112689-0048" num="14"> It is a school for physically handicapped students, ages 3 to 21.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="15"> The school, in the pediatric ward of the county-operated medical center, has been part of the Downey Unified School District since 1962.</s>
+
+<s docid="LA112689-0048" num="16"> It was started as a county project in the mid-1930s for youngsters who needed care at the hospital.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="17"> Last year, the hospital celebrated its 100th anniversary.</s>
+
+<s docid="LA112689-0048" num="18"> It is internationally known for its work in rehabilitating people with disabilities ranging from severe spinal injuries to nerve and brain damage.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="19"> Under a contract with the county Board of Supervisors, the county provides the building, utilities and maintenance, and the Downey school district is responsible for instructional material and staff, said Shirley Zanger, principal of the school.</s>
+
+<s docid="LA112689-0048" num="20"> Enrollment usually averages 45 to 55 children.</s>
+
+<s docid="LA112689-0048" num="21"> Most of the students live in the hospital and are undergoing rehabilitation because of illness or injury, and the rest are bused in.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="22"> If a child's physical condition prevents him from attending class, a bedside teacher is provided.</s>
+
+<s docid="LA112689-0048" num="23"> When his medical condition is stabilized, he is sent to the pediatric ward of the hospital for rehabilitation, Zanger said.</s>
+
+<s docid="LA112689-0048" num="24"> As soon as he can sit in a chair for three or four hours, he is sent to school.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="25"> School hours are 8 a.m. to 2:30 p.m., during which time in-patients go to occupational, physical and speech therapy at the hospital.</s>
+
+<s docid="LA112689-0048" num="26"> They also may have medical, dental and vision appointments, or may be scheduled to meet with a psychologist.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="27"> Therapists follow a strict schedule in picking up students and dropping them off throughout the day, but teachers are flexible.</s>
+
+<s docid="LA112689-0048" num="28"> They often have to be able to pick up where they left off with a student, Zanger said, making their time with the patient very individualized.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="29"> "Our primary goal is to get students rehabilitated and medically stable," said Caleb Wong, the teacher in the head and trauma class, which focuses on stabilizing memory.</s>
+
+<s docid="LA112689-0048" num="30"> "Teachers and therapists work together as a team and share information.</s>
+
+<s docid="LA112689-0048" num="31"> We come up with plans that best help the students overcome physical, emotional and behavioral problems".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="32"> If you took away the wheelchairs, respirators, helmets and other medical equipment, the four rooms would look like any other schoolroom.</s>
+
+<s docid="LA112689-0048" num="33"> On the wall in the preschool classroom are numbers, alphabets and artwork.</s>
+
+<s docid="LA112689-0048" num="34"> The elementary, high school, and head and trauma classrooms are filled with audiovisual equipment and computers.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="35"> Except for the head and trauma class, the other classes follow a regular school's curricula, including reading, math and language arts.</s>
+
+<s docid="LA112689-0048" num="36"> High school students receive instruction in career education to assist them in finding a job after graduation.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="37"> When the pediatric building was built, the doctors felt the school was an important part of the rehabilitation process and decided to rebuild it in a wing of the pediatric ward, Zanger said.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="38"> "It is primarily for hospital patients because some of them stay a long time, years even," Zanger said.</s>
+
+<s docid="LA112689-0048" num="39"> Other physically handicapped students, who live at home and need special equipment to attend school, are transported on specially equipped buses.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="40"> Gary, 15, comes from Monterey Park each day.</s>
+
+<s docid="LA112689-0048" num="41"> The former straight-A student is in the head-trauma class.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="42"> Gary suffered brain damage in an automobile accident about a year ago and has forgotten everything, Wong said.</s>
+
+<s docid="LA112689-0048" num="43"> He was also unable to speak.</s>
+
+<s docid="LA112689-0048" num="44"> But Wong is feeding sentences written on strips of paper into a computer that reads the sentences aloud and enables Gary to learn them.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="45"> Wong considers music to be therapeutic, and said he uses it every morning to get students going.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="46"> "Gary is like Mel Tillis (a country singer), he stutters so terribly, but he can sing a song.</s>
+
+<s docid="LA112689-0048" num="47"> He couldn't say a sentence, but he could sing half a song".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="48"> Wong said he works with students at their ability level.</s>
+
+<s docid="LA112689-0048" num="49"> "I try to give them a sense of accomplishment or satisfaction of being able to do something, because after an accident, a lot of them feel very depressed, very worthless, because they're not able to do what they used to do.</s>
+
+<s docid="LA112689-0048" num="50"> Some couldn't even write their names, couldn't even say their names, and that's very demoralizing".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="51"> When Gary first came to the school, he had a low self-image, Wong said.</s>
+
+<s docid="LA112689-0048" num="52"> Gary's sentences were incoherent.</s>
+
+<s docid="LA112689-0048" num="53"> But now he is coming out of his shell and learning to enjoy life again, Wong said.</s>
+
+<s docid="LA112689-0048" num="54"> He beamed as he told the story of how Gary would laugh each time he won at shuffleboard.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="55"> Before Gary left for his therapy session, he raised his arms and cupped his hands as if he held a basketball.</s>
+
+<s docid="LA112689-0048" num="56"> Wong said that meant Gary wanted to play basketball, probably because Gary had beaten him the day before.</s>
+
+<s docid="LA112689-0048" num="57"> But Wong told him he must learn his sentences before he could play.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="58"> Because it is a special-education school, the four teachers are specially trained.</s>
+
+<s docid="LA112689-0048" num="59"> They are assisted by a full-time attendant who takes care of the student's physical needs and helps the teacher in the educational program.</s>
+
+<s docid="LA112689-0048" num="60"> Some of the students come to school in wheelchairs or on gurneys.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="61"> Six-year-old Juan, who has cerebral palsy, comes to his elementary class in his wheelchair.</s>
+
+<s docid="LA112689-0048" num="62"> He is a spunky first-grader who greets strangers with a smile and a hello.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="63"> He recently came to the school after his mother died, Zanger said.</s>
+
+<s docid="LA112689-0048" num="64"> He lives with his aunt and uncle in Downey.</s>
+
+<s docid="LA112689-0048" num="65"> She said he had not been out of the house since he was an infant.</s>
+
+<s docid="LA112689-0048" num="66"> When he came to the school he could not speak English, she said.</s>
+
+<s docid="LA112689-0048" num="67"> Now he speaks it fluently.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="68"> Juan cannot walk without the help of leg braces, but during playtime he is able to speed around the playground on a little red bike.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="69"> Without the school, parents would have a difficult time taking care of these special children.</s>
+
+<s docid="LA112689-0048" num="70"> And Jennifer's mother appreciates it.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="71"> "It's nice to have a place to send Jennifer.</s>
+
+<s docid="LA112689-0048" num="72"> A place where she's accepted.</s>
+
+<s docid="LA112689-0048" num="73"> And I don't have to worry about her," said Susan Goforth.</s>
+
+<s docid="LA112689-0048" num="74"> "She's getting a good education.</s>
+
+<s docid="LA112689-0048" num="75"> When Jennifer was small there was no way I could get a baby-sitter unless I found a parent who had a child with a (tracheotomy)".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="76"> Goforth said she is pleased with the staff at Rancho and feels comfortable with Jennifer's care there, which started when she was 7.</s>
+
+<s docid="LA112689-0048" num="77"> Goforth remembers when Jennifer first went to preschool, and she had to stay with her for two months until the teacher's aide learned how to take care of her.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="78"> Goforth now describes Jennifer as "a bubbly, outgoing and giving person".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="79"> "Jennifer has gone through a lot," said the divorced mother of two.</s>
+
+<s docid="LA112689-0048" num="80"> "She used to be leery of everyone and said that everyone hurt her.</s>
+
+<s docid="LA112689-0048" num="81"> She only wanted me".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="82"> Over the years, Jennifer has slowly gained independence.</s>
+
+<s docid="LA112689-0048" num="83"> Goforth has taught her to feed herself and take care of her trachea.</s>
+
+<s docid="LA112689-0048" num="84"> She seemed confident at school recently, washing for lunch and putting on her sterile gloves.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="85"> Jennifer is one of the few students who can take care of herself.</s>
+
+<s docid="LA112689-0048" num="86"> Most of the students are on respirators, incontinent or quadriplegic.</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="87"> Zanger, who has been principal at the school for nine years, said it takes a "special person to work in a place like this".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="88"> Anna Mescavage, an attendant in the high school class, said the experience is "very rewarding".</s>
+</P>
+<P>
+
+<s docid="LA112689-0048" num="89"> "The children are so high, so positive.</s>
+
+<s docid="LA112689-0048" num="90"> Sometimes you see someone take steps, who didn't think they could do it.</s>
+
+<s docid="LA112689-0048" num="91"> They're inspirational and live life in an uplifting way," Mescavage said.</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA112689-0048" num="92"> Photo, Juan, 6, plays soccer on leg braces during recess at school for the handicapped.</s>
+
+<s docid="LA112689-0048" num="93"> Photo, Jennifer's breathing is pronounced as she goes over math problems with teacher Paul Smedley at Rancho Los Amigos Hospital School.</s>
+
+<s docid="LA112689-0048" num="94"> Photo, Gary, 15, brain damaged in an auto accident, reads and memorizes sentences with help of talking computer and teacher Caleb Wong.</s>
+
+<s docid="LA112689-0048" num="95"> KAREN TAPIA / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="FR941219-2-00053" num="1"> FR941219-2-00053</s>
+</DOCNO>
+<PARENT>
+
+<s docid="FR941219-2-00053" num="2"> FR941219-2-00040</s>
+</PARENT>
+<TEXT>
+
+<s docid="FR941219-2-00053" num="3"> A.</s>
+
+<s docid="FR941219-2-00053" num="4"> ``HOP'' means the reading program known as ``Hooked on Phonics/SRA Reading Power'' marketed by Gateway Educational Products, Ltd.</s>
+
+<s docid="FR941219-2-00053" num="5"> B. ``Educational program or product'' means any program of product that provides instruction in any field of study, including but not limited to any aspect of reading.</s>
+
+<s docid="FR941219-2-00053" num="6"> C. ``Competent and reliable scientific evidence'' means tests, analyses, research, studies, or other evidence based on the expertise of professionals in the relevant area, has been conducted and evaluated in an objective manner by persons qualified to do so, using procedures generally accepted in the profession to yield accurate and reliable results.</s>
+
+<s docid="FR941219-2-00053" num="7"> I. It is ordered that respondents Gateway Educational Products, Ltd., a corporation, its successors and assigns, and its officers, and John Shanahan and John Herlihy, individually and as officers of said corporation, and respondents' agents, representatives, and employees, directly or through any corporation, subsidiary, division or other device, in connection with the manufacturing, labelling, advertising, promotion, offering for sale, sale, or distribution of HOP or any other educational program or product in or affecting commerce, as ``commerce'' is defined in the Federal Trade Commission Act, do forthwith cease and desist from representing, in any manner, directly or by implication, that such program or product: A.</s>
+
+<s docid="FR941219-2-00053" num="8"> Can or will quickly and easily teach persons with reading problems or disabilities to read, regardless of the nature of the problem or disability; B.</s>
+
+<s docid="FR941219-2-00053" num="9"> Is effective for teaching persons with learning disabilities, including dyslexia and attention deficit disorders, to read; C.</s>
+
+<s docid="FR941219-2-00053" num="10"> Can or will cause users with reading problems or disabilities to achieve significant improvement in reading levels or classroom grades; D.</s>
+
+<s docid="FR941219-2-00053" num="11"> Is effective for teaching persons in a home setting to read, without the need for additional assistance such as a teacher or tutor; E.</s>
+
+<s docid="FR941219-2-00053" num="12"> Is effective for teaching reading comprehension skills; F.</s>
+
+<s docid="FR941219-2-00053" num="13"> Has helped nearly one million or any other number of students to learn to read; or</s>
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA020290-0097" num="1"> LA020290-0097</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA020290-0097" num="2"> 170583</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA020290-0097" num="3"> February 2, 1990, Friday, Valley Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA020290-0097" num="4"> Calendar; Part F; Page 23B; Column 5</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA020290-0097" num="5"> 472 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA020290-0097" num="6"> CSUN CLASSES INTRODUCE CHILDREN TO WORLD OF MUSIC</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA020290-0097" num="7"> By SUZANNE SCHLOSBERG, Schlosberg is a regular contributor to Valley Calendar.</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA020290-0097" num="8"> It's been a sad song in recent years for music education -- fewer students are joining high school bands, and only one-fourth of Los Angeles elementary schools offer instrumental music instruction.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="9"> But Cal State Northridge has a way to get kids interested early.</s>
+
+<s docid="LA020290-0097" num="10"> The music department's Community Music School is offering a variety of low-cost programs for children as young as age 4 and a special course for developmentally disabled children.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="11"> The classes, taught by CSUN faculty with help from college music majors, are held after school and on Saturdays in the CSUN Music Building.</s>
+
+<s docid="LA020290-0097" num="12"> They begin in mid-February.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="13"> "It's critical that kids have music instruction at a young age," said Frances Ulrich, director of the Community Music School.</s>
+
+<s docid="LA020290-0097" num="14"> "Otherwise just the peer, popular music takes over, and that's a very limited menu".</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="15"> For 4-year-olds, there's "Music Play and Puppet Magic," a course that develops awareness of musical sounds through creative games and hands-on activities with instruments.</s>
+
+<s docid="LA020290-0097" num="16"> The kids are also introduced to classical music.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="17"> Children ages 6 to 8 can attend "Adventures in Music and Movement," which involves singing, folk dancing, and playing xylophones, electronic keyboards and percussion instruments.</s>
+
+<s docid="LA020290-0097" num="18"> Ulrich, who teaches the course, introduces traditional and modern music and teaches the children about instruments in an orchestra.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="19"> Ulrich said it's important for children to become exposed to music before age 8.</s>
+
+<s docid="LA020290-0097" num="20"> "At that age, kids are pretty well set at what they are open to developing later," she said.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="21"> The course, which starts Feb. 10, runs six Saturdays for $30.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="22"> The Suzuki String Program, which is also offered, provides individual violin and cello lessons for children ages 3 to 12.</s>
+
+<s docid="LA020290-0097" num="23"> For the first year, they learn to play without reading musics.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="24"> "It's not like the old-fashioned, rigid teaching," Ulrich said.</s>
+
+<s docid="LA020290-0097" num="25"> "And it's very natural for them to handle a string instrument at that age".</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="26"> The lessons cost $13 for 30 minutes of instruction.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="27"> Also offered is "Music for the Special Learner," a class for children with various mental, emotional and physical disabilities.</s>
+
+<s docid="LA020290-0097" num="28"> Instructor Ron Borczon, a music therapy professor, integrates music activities with social and academic skills.</s>
+
+<s docid="LA020290-0097" num="29"> "It's good socialization, where they can experience music in a group setting," Borczon said.</s>
+
+<s docid="LA020290-0097" num="30"> "Sometimes they'll sing into a microphone and they think they're on stage, and everyone claps for them.</s>
+
+<s docid="LA020290-0097" num="31"> It's a great self-esteem thing".</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="32"> The children learn songs and make instruments such as maracas and drums.</s>
+
+<s docid="LA020290-0097" num="33"> The class, which begins Feb. 22, meets at 4 p.m. Thursdays.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="34"> The university also is offering beginning guitar for children ages 8 to 13 beginning Feb 22.</s>
+
+<s docid="LA020290-0097" num="35"> Preparatory orchestra for children with at least one semester of previous instruction begins Feb. 13.</s>
+</P>
+<P>
+
+<s docid="LA020290-0097" num="36"> For more information, call (818) 885-3170.</s>
+</P>
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA090690-0218" num="1"> LA090690-0218</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA090690-0218" num="2"> 272363</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA090690-0218" num="3"> September 6, 1990, Thursday, Valley Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA090690-0218" num="4"> View; Part E; Page 9A; Column 2</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA090690-0218" num="5"> 1134 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA090690-0218" num="6"> TECHNOLOGY PROVIDES HELP FOR DISABLED AT CSUN;</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="7"> COMPUTERS: THE LAB HAS AIDED HUNDREDS WITH VISUAL LIMITATIONS, COMMUNICATION DISORDERS AND PHYSICAL AND LEARNING DISABILITIES.</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA090690-0218" num="8"> By LAURA REMSON MITCHELL, Mitchell is a Canoga Park writer.</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA090690-0218" num="9"> For Richard Williams, 26, a blind history major at Cal State Northridge, taking class notes used to be a tedious project.</s>
+
+<s docid="LA090690-0218" num="10"> After tape-recording a lecture, he would transcribe the material using a Braille typewriter -- a process that took about three hours for every hour he spent in class.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="11"> Then Williams got a laptop computer, and the Computer Access Lab at CSUN got a Braille embosser.</s>
+
+<s docid="LA090690-0218" num="12"> After that, the senior could take notes directly on his laptop (equipped with a voice synthesizer and headphones) and then "dump" the notes into the embosser for a Braille printout.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="13"> Williams is one of 210 students registered with the Computer Access Lab, a 2-year-old facility designed to help CSUN students graduate and get jobs with the assistance of technology.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="14"> Available to any disabled CSUN student who signs up with the Office of Disabled Student Services, the lab has helped 680 students with visual limitations, communication disorders, physical disabilities and learning disabilities.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="15"> The lab serves as a temporary resource and training ground while students get what they need for themselves.</s>
+
+<s docid="LA090690-0218" num="16"> Williams is a case in point.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="17"> "I've done my very best to get as much of my own equipment as possible, or at least have access to it," he said.</s>
+
+<s docid="LA090690-0218" num="18"> "Where I work, at the Los Angeles Air Force Base, in the history office, we are ordering a Braille embosser".</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="19"> For Terri Shallenberger, 22, a communicative disorders major who will be a senior in the fall, the Computer Access Lab's pragmatic approach to computer modifications has had tangible results.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="20"> With hand and finger movements severely limited by a condition called arthrogryposis, she hadn't typed much before.</s>
+
+<s docid="LA090690-0218" num="21"> ("I had a class in junior high, and I typed with my hands, but it was really slow -- really, really slow").</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="22"> Then the Computer Access Lab rigged up an inexpensive bracket to hold a computer keyboard in a vertical position level with her feet.</s>
+
+<s docid="LA090690-0218" num="23"> Pieces of plastic spoons were glued to the keyboard to identify the home row.</s>
+
+<s docid="LA090690-0218" num="24"> Now, when she wants to type, Shallenberger uses her big toes in a modified form of hunt and peck.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="25"> She's still training (using a standard program called Typing Tutor), but the new approach has helped.</s>
+
+<s docid="LA090690-0218" num="26"> "It was the difference between 14 words a minute and 25," she said.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="27"> And as a result of her new typing skills, Shallenberger received a promotion in her job at the University Student Union, where she uses a wooden stand made by a friend to support a modified keyboard.</s>
+
+<s docid="LA090690-0218" num="28"> She feels confident that other employers would be willing to make similar modifications "because it's so cheap".</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="29"> The Computer Access Lab is a component of the Technology Group, a larger network of technological resources intended to improve the lives of disabled CSUN students.</s>
+
+<s docid="LA090690-0218" num="30"> Other important components include an annual international conference on Technology and Persons with Disabilities, training in what its practitioners call assistive technology for rehabilitation professionals and employers (offered through a grant from the Rehabilitation Services Administration), and engineering research and development in assistive technology.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="31"> Neil Scott, engineer/programmer and assistive technology specialist, heads a special project, funded by another federal grant, to develop a universal access system that will allow disabled students to use any computer at the Northridge campus.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="32"> At present, for example, Williams can use only certain computers at the lab, because only those computers are equipped to work with his particular disability.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="33"> "The universal-access concept is to make each computer have an interface that can work with devices that the disabled people carry around with them, which we call 'accessors,' " Scott said.</s>
+
+<s docid="LA090690-0218" num="34"> That way, "you're able to interact with any computer because you bring all your special stuff with you".</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="35"> Under a grant from the Department of Rehabilitation, CSUN is also developing a laptop computer system for people with learning disabilities.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="36"> The Computer Access Lab houses about $400,000 worth of equipment, according to Dr.</s>
+
+<s docid="LA090690-0218" num="37"> Marshall Raskind, coordinator of the Learning Disability Program and the Computer Access Lab.</s>
+
+<s docid="LA090690-0218" num="38"> Included are voice recognition systems, speech synthesizers, modified keyboards, special switches and augmented communication devices.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="39"> Initially financed with a grant from the state Department of Rehabilitation, funding has come from a number of agencies and corporations, including Apple Computer, IBM, Hewlett-Packard and Digital Equipment Corp.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="40"> But equipment ages fast in the technology field, and keeping up is a constant challenge.</s>
+
+<s docid="LA090690-0218" num="41"> Part of the effort involves seeking appropriate donations from corporations.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="42"> "We go after things that we need," Scott said, "but we don't have as many things as we really want -- yet -- because a lot of the specialized equipment, the companies that make that, are too small to be able to make big donations".</s>
+
+<s docid="LA090690-0218" num="43"> So a lot of the progress has to come through adaptations to standard equipment.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="44"> That's where Scott's Think and Do Group comes in. A group of community volunteers with an interest in technological solutions, its purpose "is to bring resources, in terms of manpower for software and development, that you couldn't get any other way," Scott said.</s>
+
+<s docid="LA090690-0218" num="45"> He said he also has six students involved in projects "where the outcome will be something for disabled people to use".</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="46"> Ideas for Think and Do Group projects will come in part from Scott, training specialist Diane Bristow, and Gail Pickering, a full-time assistive technology specialist working with the Computer Access Lab.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="47"> "Most of the people we have to deal with don't have resources to have exotic solutions," Scott said.</s>
+
+<s docid="LA090690-0218" num="48"> "So we're always having to look at what are the practical solutions in terms of the cost, the ruggedness, the availability of the components.</s>
+
+<s docid="LA090690-0218" num="49">. . . "</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="50"> Scott looks for ways to make existing technology adaptable to new situations, such as using something developed for blind people with students who have learning disabilities.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="51"> Also, Scott said, "We're always looking for things that are mass produced or used in industry that could be carried across into the disability field".</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="52"> For example, standard fiber-optic tubes used by industry can be mounted on a pair of glasses and adapted to sense eye movements in a way that acts as a switch to operate a computer.</s>
+
+<s docid="LA090690-0218" num="53"> A fiber-optic tube costs about $35, Scott said.</s>
+
+<s docid="LA090690-0218" num="54"> "For me to go through and create something like that would cost significantly more than $35".</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="55"> The Computer Access Lab's second-year grant from the Department of Rehabilitation ran out June 13.</s>
+
+<s docid="LA090690-0218" num="56"> From now on, the university will provide funds.</s>
+
+<s docid="LA090690-0218" num="57"> Students such as Terri Shallenberger know that the money is well spent.</s>
+</P>
+<P>
+
+<s docid="LA090690-0218" num="58"> "Computers are so widely used," she said, "that anybody who gets the opportunity is going to do really well once they get out of here".</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA090690-0218" num="59"> Photo, With computer lab's help, Terri Shallenberger can type with her big toes.</s>
+
+<s docid="LA090690-0218" num="60"> GEORGE WILHELM / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA030890-0192" num="1"> LA030890-0192</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA030890-0192" num="2"> 186642</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA030890-0192" num="3"> March 8, 1990, Thursday, Orange County Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA030890-0192" num="4"> Metro; Part B; Page 3; Column 1; Metro Desk</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA030890-0192" num="5"> 374 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA030890-0192" num="6"> ORANGE COUNTY FOCUS: GARDEN GROVE;</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="7"> HIGH-TECH PROGRAM AIDS SIGHT-IMPAIRED</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA030890-0192" num="8"> By JAMES TORTOLANO</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA030890-0192" num="9"> Sixteen-year-old Matthew Brian Cox is a junior at Bolsa Grande High School in Garden Grove.</s>
+
+<s docid="LA030890-0192" num="10"> He's a crack participant in the high school's Mock Trial Club, and the would-be barrister recently garnered an honorable-mention award in a countywide competition.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="11"> Matthew is also blind.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="12"> But he is able to find a legal advantage in his impairment.</s>
+
+<s docid="LA030890-0192" num="13"> "I could read from my notes (in Braille)," Matthew said, "and keep looking in the direction of the judge".</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="14"> Matthew is one of nine students in Bolsa Grande's program for visually handicapped students that serves the Garden Grove Unified School District and neighboring districts.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="15"> The district has recently added some high-tech equipment to help educate the program's blind and partially sighted students.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="16"> "The students are able to make use of several different kinds of computers and other devices to help them in their work," said Connie F.</s>
+
+<s docid="LA030890-0192" num="17"> Silva, who runs the program.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="18"> Those devices range from the commonplace, such as tape recorders for playing back lectures or prerecorded audio versions of textbooks, to the futuristic.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="19"> "We have an Apple IIe computer with a speech synthesizer," Silva said.</s>
+
+<s docid="LA030890-0192" num="20"> "Most of the students have typing skills," and as they touch a key, the computer "speaks" the letter in a mechanical tone, she explained.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="21"> In addition to the talking machines, the Bolsa Grande facilities include a machine that magnifies images on the computer screen, as well as the well-known Braille typewriter.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="22"> After spending most of their day in regular classrooms, the students return to the Braille classroom for one or two periods.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="23"> There, they can pick up Braille, large-print or taped copies of tests, handouts, texts and other materials, usually on the same day that sighted students receive them.</s>
+
+<s docid="LA030890-0192" num="24"> Sometimes, if there's not enough time to transcribe or translate, Silva or an aide will read the material aloud to the student.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="25"> But more than equipment is offered in the program.</s>
+
+<s docid="LA030890-0192" num="26"> Students get encouragement, a sympathetic ear and individual help.</s>
+</P>
+<P>
+
+<s docid="LA030890-0192" num="27"> "I think it's a great thing to have," said Brandi Winemiller, 17, a junior in the program with 20/2200 vision.</s>
+
+<s docid="LA030890-0192" num="28"> "I feel good about the fact that I can get the help here I need.</s>
+
+<s docid="LA030890-0192" num="29"> I honestly don't know what I'd do without it".</s>
+
+<s docid="LA030890-0192" num="30"> JAMES TORTOLANO</s>
+</P>
+</TEXT>
+<TYPE>
+<P>
+
+<s docid="LA030890-0192" num="31"> Column; Brief</s>
+</P>
+</TYPE>
+<SUBJECT>
+<P>
+
+<s docid="LA030890-0192" num="32"> HIGH SCHOOL STUDENTS; HANDICAPPED -- ORANGE COUNTY; BOLSA GRANDE HIGH SCHOOL; GARDEN GROVE UNIFIED SCHOOL DISTRICT; SCHOOL EQUIPMENT AND SUPPLIES; TECHNOLOGY; BLINDNESS</s>
+</P>
+</SUBJECT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="FR940610-2-00228" num="1"> FR940610-2-00228</s>
+</DOCNO>
+<PARENT>
+
+<s docid="FR940610-2-00228" num="2"> FR940610-2-00106</s>
+</PARENT>
+<TEXT>
+
+<s docid="FR940610-2-00228" num="3"> (b) Determine the resources, both human and fiscal, available at the community level to provide quality services to children with severe disabilities as well as resources available through other agencies or parties; (c) Carry out activities that would assist children with severe disabilities to achieve their highest potential outcomes in general education settings within their neighborhoods_or, in the case of infants and toddlers, in natural environments, including nonsegregated settings_by implementing planned, capacity building activities that result in systematic and systemic change.</s>
+
+<s docid="FR940610-2-00228" num="4"> These activities must include, but need not be limited to_ (1) Policy analysis and, if necessary, policy revision or further policy development, including development of necessary interagency agreements; (2) Public awareness; (3) Product development and dissemination; (4) Site development; (5) Staff and parent training; (6) Technical assistance; and (7) Analysis and, if necessary, revision of existing teacher training programs, including inservice training of faculty of institutions of higher education; (d) Disseminate formal, written policies and procedures to relevant State agencies, institutions of higher education, local education agencies, other relevant community agencies, and professional and parent organizations for coordinating services to the target population of children with severe disabilities; (e) Coordinate activities with the State and Multi-State Services Projects for Children with Deaf-Blindness, the State educational agency (including the State coordinator of services for children with severe disabilities, the coordinator for the comprehensive system of personnel development, and the State's transition project, if the State has a federally funded grant under State Systems for Transition Services), the lead agency for part H of IDEA for early intervention services, other relevant State agencies, and institutions of higher education, as well as with technical assistance, information, and personnel development networks within the State, the Early Childhood Research Institute on Integration, the National Early Childhood Technical Assistance System, and the Institute on Implementing Inclusive Education for Children with Severe Disabilities; and (f) Implement an evaluation plan that includes performance measures for_ (1) Changes in the delivery of special education and related services to the target population, and, in the case of infants and toddlers, changes in the delivery of early intervention services; (2) The movement of children and youth with severe disabilities in the State from segregated settings to neighborhood general education settings_alongside their peers of the same age_and, in the case of infants and toddlers, to natural environments; (3) The effectiveness of the training and technical assistance products and procedures; and (4) The types and numbers of sites where activities are conducted, number and types of persons trained, types of follow-up activities, and number of children and families served at the site where activities were conducted.</s>
+
+<s docid="FR940610-2-00228" num="5"> Competitive Priority: Within Absolute Priority 2, the Secretary, under 34 CFR 75.105(c)(2)(i), gives preference to applications that meet the following competitive priority.</s>
+
+<s docid="FR940610-2-00228" num="6"> The Secretary awards up to 10 points to an application that meets this competitive priority in a particularly effective way.</s>
+
+<s docid="FR940610-2-00228" num="7"> These points are in addition to any points the application earns under the selection criteria for this program: Statewide Systems Change projects from States that have not received a new Statewide System Change award since 1987.</s>
+
+<s docid="FR940610-2-00228" num="8"> Project Period: Up to 60 months.</s>
+
+<s docid="FR940610-2-00228" num="9"> Absolute Priority 3_Outreach Projects: Serving Children with Severe Disabilities in General Education and Community Settings (84.086U).</s>
+
+<s docid="FR940610-2-00228" num="10"> To be considered for funding under this priority, an outreach project must_ (a) Disseminate information about and assist in replicating a proven model or models_or proven components of models_that provide or improve services for children with severe disabilities; (b) Coordinate its dissemination and replication activities with_ (1) The lead agency for part H of the Individuals with Disabilities Education Act (IDEA) for early intervention services or the State educational agency for special education; as well as (2) Technical assistance, information, and personnel development networks within the State; (c) Include_ (1) Approaches relevant to programming in general education and local community settings; (2) Active involvement of children and their families in the design, implementation, and evaluation of project activities; and (3) Interagency coordination if multiple agencies are involved in the provision of services; (d) Ensure that the model or components of models are consistent with part B of the IDEA, are state-of-the-art, match the needs of the proposed sites, and have recent unambiguous evaluation information supporting their effectiveness; (e) Use activities that include, but need not be limited to, public awareness, product development and dissemination, site development, training, and technical assistance; (f) Describe the effects of model components (e.g.</s>
+
+<s docid="FR940610-2-00228" num="11"> , expected costs, needed personnel, staff training, equipment) on potential users, the sequence of implementation activities, and the criteria for selecting cooperating sites; and (g) Evaluate the outreach activities to determine their effectiveness.</s>
+
+<s docid="FR940610-2-00228" num="12"> The evaluation must include measures on the number of children and families served at each site, child and family progress, types and numbers of sites where outreach activities are conducted, number of persons trained, types of follow-up activities, and any changes in the model made by sites.</s>
+
+<s docid="FR940610-2-00228" num="13"> Competitive Priority: Within Absolute Priority 3, the Secretary, under 34 CFR 75.105(c)(2)(i), gives preference to applications that meet the following competitive priority.</s>
+
+<s docid="FR940610-2-00228" num="14"> The Secretary awards up to 10 points to an application that meets this competitive priority in a particularly effective way.</s>
+
+<s docid="FR940610-2-00228" num="15"> These points are in addition to any points the application earns under the selection criteria for this program: Outreach projects that provide evidence that they will establish implementation sites in urban or rural areas, or both.</s>
+
+<s docid="FR940610-2-00228" num="16"> Project Period: Up to 36 months.</s>
+
+<s docid="FR940610-2-00228" num="17"> For Applications and General Information Contact: Robin Buckler, U.S.</s>
+
+<s docid="FR940610-2-00228" num="18"> Department of Education, 400 Maryland Avenue, SW.</s>
+
+<s docid="FR940610-2-00228" num="19"> , room 4617, Switzer Building, Washington, DC 20202-2732.</s>
+
+<s docid="FR940610-2-00228" num="20"> Telephone (202) 205-8168.</s>
+
+<s docid="FR940610-2-00228" num="21"> Individuals who use a telecommunications device for the deaf (TDD) may call the TDD number at (202) 205-8169.</s>
+
+<s docid="FR940610-2-00228" num="22"> For Technical Information Contact: Dawn Hunter, U.S.</s>
+
+<s docid="FR940610-2-00228" num="23"> Department of Education, 400 Maryland Avenue, SW.</s>
+
+<s docid="FR940610-2-00228" num="24"> , room 4620, Switzer Building, Washington, DC 20202-2644.</s>
+
+<s docid="FR940610-2-00228" num="25"> Telephone: (202) 205-5809.</s>
+
+<s docid="FR940610-2-00228" num="26"> Individuals who use a telecommunications device for the deaf (TDD) may call the TDD number at (202) 205-8169.</s>
+
+<s docid="FR940610-2-00228" num="27"> Program Authority: 20 U.S.C. 1424.</s>
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA012189-0127" num="1"> LA012189-0127</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA012189-0127" num="2"> 9022</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA012189-0127" num="3"> January 21, 1989, Saturday, Orange County Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA012189-0127" num="4"> Metro; Part 2; Page 1; Column 1; Metro Desk</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA012189-0127" num="5"> 980 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA012189-0127" num="6"> BLINDNESS PUTS UP HURDLE FOR SPELLER</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA012189-0127" num="7"> By MARCIDA DODSON, Times Staff Writer</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA012189-0127" num="8"> Quick, spell kaleidoscope.</s>
+
+<s docid="LA012189-0127" num="9"> But wait, that's not fair.</s>
+
+<s docid="LA012189-0127" num="10"> You just saw the word.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="11"> Now try spelling it without looking at it.</s>
+
+<s docid="LA012189-0127" num="12"> Without using a pencil and paper to scribble it down.</s>
+
+<s docid="LA012189-0127" num="13"> Without even visualizing the letters.</s>
+
+<s docid="LA012189-0127" num="14"> A little more difficult, right?</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="15"> That's what 11-year-old Scott Blanks had to do to win the Anaheim City School District spelling bee this week.</s>
+
+<s docid="LA012189-0127" num="16"> Scott, who has never seen a written word because he was born blind, had to rely solely on his memory and his smarts to capture the prize.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="17"> Scott, a sixth-grader at Clara Barton Elementary School in Anaheim, correctly spelled kaleidoscope after the other finalist slipped up.</s>
+
+<s docid="LA012189-0127" num="18"> Then he clinched the contest by correctly spelling psychology.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="19"> "I try to remember the spelling of a word after I've read it somewhere," Scott said.</s>
+
+<s docid="LA012189-0127" num="20"> Although he could not really explain how, Scott said he sees the word in his head "in a sense," without knowing what the letters look like.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="21"> A blind person learns spelling after "a lot of practice, which Scott does.</s>
+
+<s docid="LA012189-0127" num="22"> He's a very bright boy," said John McGowan, who teaches the visually handicapped at Clara Barton.</s>
+
+<s docid="LA012189-0127" num="23"> "It is unusual for a blind person to be a good speller".</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="24"> Even being an avid reader, which Scott is, does not necessarily help a blind person spell, McGowan said.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="25"> Braille is not always a literal transcription, he said.</s>
+
+<s docid="LA012189-0127" num="26"> Although there is a Braille symbol for every letter of the alphabet, when words are transcribed into Braille, they often are abbreviated, using Braille signs, he said.</s>
+
+<s docid="LA012189-0127" num="27"> For example, the letter b in Braille also stands for the word but, and c also stands for can.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="28"> A word in Braille can consist of both letters and contractions, he said.</s>
+
+<s docid="LA012189-0127" num="29"> For example, the word forgettable in Braille becomes the symbol for for, plus the Braille sign for the letters g-e-t-t-a, followed by the Braille sign for the syllable ble.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="30"> "The spelling ability of the blind, of course, is comparable to that of anyone else," McGowan said.</s>
+
+<s docid="LA012189-0127" num="31"> "But through Braille, it becomes more difficult".</s>
+
+<s docid="LA012189-0127" num="32"> Scott, he said, "has to compensate with his memory".</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="33"> And while the other contestants in the spelling bee were allowed to scribble their words on paper to see if they looked right, Scott couldn't.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="34"> And he did miss a few words -- mayonnaise, ukulele and incandescent, for example -- but the other finalist, Millicent Encarnacion of Benito Juarez Elementary School, missed them, too, so the competition continued.</s>
+
+<s docid="LA012189-0127" num="35"> (Scott said he had never even heard the word incandescent before, so he had little hope of getting it correct).</s>
+
+<s docid="LA012189-0127" num="36"> The contest became a bit of a cliffhanger at the end, McGowan said, with Scott and Millicent both spelling words correctly, then both spelling them incorrectly, for about 10 minutes before Scott finally won.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="37"> Scott said he studied for the bee with his mother, who read difficult words for him to spell aloud.</s>
+
+<s docid="LA012189-0127" num="38"> "If I got it wrong, she'd tell me," he said.</s>
+
+<s docid="LA012189-0127" num="39"> Despite its difficulty, spelling is important for the blind, McGowan said.</s>
+
+<s docid="LA012189-0127" num="40"> Scott, he said, writes his assignments on a computer specially programmed with a voice synthesizer.</s>
+
+<s docid="LA012189-0127" num="41"> (The computer speaks out loud the letters as he types them, and then speaks the words and sentences he has written).</s>
+
+<s docid="LA012189-0127" num="42"> Teachers can see if he has misspelled a word when he turns in a printout of his work.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="43"> Ruining a First Impression</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="44"> "It's particularly important for the visually handicapped to be able to use a typewriter and a computer to communicate with the sighted," McGowan said.</s>
+
+<s docid="LA012189-0127" num="45"> Yet, a misspelled word can create the impression that the blind person is stupid or illiterate, he said.</s>
+
+<s docid="LA012189-0127" num="46"> "It can ruin a first impression".</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="47"> Scott did not hesitate to enter the spelling bee, just as he has not been afraid to tackle any challenge in life, his mother said.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="48"> Scott, who is in the program for gifted students at school, "is very bright.</s>
+
+<s docid="LA012189-0127" num="49"> He amazes me.</s>
+
+<s docid="LA012189-0127" num="50"> If he wasn't my own child, I'd say, 'Gosh, look at him,' " said Judy Blanks.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="51"> He rides a bicycle, although other people learning to balance a two-wheeler rely much on sight.</s>
+
+<s docid="LA012189-0127" num="52"> True, the bike has training wheels on it, but Scott's parents know it is time to take them off.</s>
+
+<s docid="LA012189-0127" num="53"> Scott cannot ride any distance alone, but his parents may tie a rope from his bike to his father's bike to guide him.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="54"> Scott also rides a scooter and can roller skate.</s>
+
+<s docid="LA012189-0127" num="55"> "He doesn't have an attitude (of being handicapped).</s>
+
+<s docid="LA012189-0127" num="56"> He's not frightened of things.</s>
+
+<s docid="LA012189-0127" num="57"> He tries a lot of things," his mother said.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="58"> Scott said he also likes more sedentary activities, such as playing video games at home.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="59"> Memorize the Sounds</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="60"> "I memorize the sounds.</s>
+
+<s docid="LA012189-0127" num="61">. . . I can't explain it," he said, describing his playing technique.</s>
+
+<s docid="LA012189-0127" num="62"> Among his favorite games are Pole Position, a simulation of driving a car on a race course, and Asteroids, in which he shoots down objects in space.</s>
+
+<s docid="LA012189-0127" num="63"> He is also a fan of horror movies, apparently because of the action and sounds, McGowan said.</s>
+
+<s docid="LA012189-0127" num="64"> And when most people look away during the gory parts, "I don't have to," Scott said with a laugh .</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="65"> When he grows up, Scott would like to be a zoologist "because I like animals a lot," or a computer programmer, he said.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="66"> Scott lives in Los Alamitos, but the school district there sends its visually handicapped students to the Anaheim school.</s>
+
+<s docid="LA012189-0127" num="67"> McGowan has been his teacher since Scott was in preschool.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="68"> When Scott is in class with sighted children, McGowen said, his classmates can take notes or look up something later in books.</s>
+
+<s docid="LA012189-0127" num="69"> But Scott has to remember what has been said or read to him.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="70"> When Scott qualified for the Gifted and Talented Education program several years ago, it "had nothing to do" with his blindness.</s>
+
+<s docid="LA012189-0127" num="71"> McGowan said.</s>
+
+<s docid="LA012189-0127" num="72"> "In fact, it was despite" it.</s>
+</P>
+<P>
+
+<s docid="LA012189-0127" num="73"> Unfortunately for Scott, his spelling bee days are over for a while.</s>
+
+<s docid="LA012189-0127" num="74"> Although he won the contest as the best of the sixth-graders from Anaheim's 21 elementary schools, he lost out in the countywide competition Thursday night, McGowan said.</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA012189-0127" num="75"> Photo, Sixth-grade spelling ace Scott Blanks reads a Braille storybook in class.</s>
+
+<s docid="LA012189-0127" num="76"> Scott had to rely on his memory and his smarts to win spelling bee title.</s>
+
+<s docid="LA012189-0127" num="77"> Photo, Scott Blanks uses his cane on his way back to the Clara Barton Elementary School library.</s>
+
+<s docid="LA012189-0127" num="78"> DON TORMEY / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+<TYPE>
+<P>
+
+<s docid="LA012189-0127" num="79"> Profile</s>
+</P>
+</TYPE>
+<SUBJECT>
+<P>
+
+<s docid="LA012189-0127" num="80"> BLINDNESS; SPELLING; CONTESTS; BRAILLE; YOUTH</s>
+</P>
+</SUBJECT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="FT932-7548" num="1"> FT932-7548</s>
+</DOCNO>
+<PROFILE>
+
+<s docid="FT932-7548" num="2"> _AN-DEWAFAEFFT</s>
+</PROFILE>
+<DATE>
+
+<s docid="FT932-7548" num="3"> 930522</s>
+</DATE>
+<HEADLINE>
+
+<s docid="FT932-7548" num="4"> FT 22 MAY 93 / Minding Your Own Business: Child's play for teachers - Cynthia Hurst meets two women who make educational games</s>
+</HEADLINE>
+<BYLINE>
+
+<s docid="FT932-7548" num="5"> By CYNTHIA HURST</s>
+</BYLINE>
+<TEXT>
+
+<s docid="FT932-7548" num="6"> THE THREAT of redundancy turned out to be a blessing in disguise for two Oxfordshire women, who have turned their experience of helping children with learning difficulties into a thriving business.</s>
+
+<s docid="FT932-7548" num="7"> Sue Lucksford and Jasmine Davey started HELP (Help Eliminate Learning Problems) Educational Games, in the summer of 1991 when both - in their 50s -faced possible redundancy.</s>
+
+<s docid="FT932-7548" num="8"> In the event, Lucksford retained her position as a special needs teacher in Didcot, but Davey lost her job as a special needs resource technician, and a spare room in her home became the base for the new enterprise.</s>
+
+<s docid="FT932-7548" num="9"> HELP has found a ready market for its 13 board and card games.</s>
+
+<s docid="FT932-7548" num="10"> These are aimed at specific reading and spelling problems, including dyslexia.</s>
+
+<s docid="FT932-7548" num="11"> 'Teachers are snatching them up,' said Davey.</s>
+
+<s docid="FT932-7548" num="12"> She says teachers have less time to develop their own learning aids, and so are eager to find a ready-made product.</s>
+
+<s docid="FT932-7548" num="13"> 'The potential to expand is enormous - we haven't touched half the schools in Britain yet.</s>
+
+<s docid="FT932-7548" num="14"> As far as I know, no one else is doing this sort of thing, so there was a gap in the market which we filled'.</s>
+
+<s docid="FT932-7548" num="15"> HELP began modestly, with private savings, some financial backup from the government's Enterprise Allowance Scheme and free advice from the Heart of England TEC and the Thames Business Advice Centre.</s>
+
+<s docid="FT932-7548" num="16"> Turnover in the first year was Pounds 20,000, and has grown to Pounds 3,000-Pounds 4,000 a month.</s>
+
+<s docid="FT932-7548" num="17"> The games are priced at about Pounds 10 each.</s>
+
+<s docid="FT932-7548" num="18"> 'We've been ploughing all the money back into the business, so we haven't borrowed at all except to buy an Apple Mac computer,' said Davey.</s>
+
+<s docid="FT932-7548" num="19"> 'I was doing all the graphics with Letraset before, which took forever, but now I can do them on the computer, and we also keep a database of customers on it'.</s>
+
+<s docid="FT932-7548" num="20"> Ideas for the games, with names like Odd Bods, Black Hole and Secret Sid, come from Lucksford.</s>
+
+<s docid="FT932-7548" num="21"> They cover an age range from four to adult education, and include some blank cards for teachers to add their own words.</s>
+
+<s docid="FT932-7548" num="22"> Once an idea is developed, Davey does the artwork, developing it to the ready to print stage.</s>
+
+<s docid="FT932-7548" num="23"> Most of the printing is done by a company in Northamptonshire, which then ships the games nearby for finishing, cutting and packaging.</s>
+
+<s docid="FT932-7548" num="24"> They are then returned to Didcot, where Davey, Lucksford and their families make sure each game box has the proper components and instructions.</s>
+
+<s docid="FT932-7548" num="25"> They are shipped from the local post office to schools throughout Britain and Ireland, and as far afield as Pakistan, where a British school has placed an order.</s>
+
+<s docid="FT932-7548" num="26"> At the moment, lack of money is the main obstacle to expansion.</s>
+
+<s docid="FT932-7548" num="27"> 'We really can't afford to do a lot of advertising, but we have had quite a bit of success with educational shows and we have been included in the catalogue for a purchasing group in Yorkshire,' said Davey.</s>
+
+<s docid="FT932-7548" num="28"> 'We tried mail shots at first, but that was just too expensive.</s>
+
+<s docid="FT932-7548" num="29"> And we'd like to do educational shows in London, but the cost of a stand is about Pounds 1,500, compared with less than Pounds 100 elsewhere'.</s>
+
+<s docid="FT932-7548" num="30"> She has taken HELP's products to shows, although travelling is difficult because her disabled 16-year-old son needs constant care at home.</s>
+
+<s docid="FT932-7548" num="31"> 'The schools in Wales were very interested,' she said.</s>
+
+<s docid="FT932-7548" num="32"> 'One school wanted to know if we could do versions in Welsh, and we'd be happy to try, but some of the games are based on rhyming words, and what rhymes in English wouldn't rhyme in Welsh'.</s>
+
+<s docid="FT932-7548" num="33"> HELP Educational Games, 29 Churchill Close, Didcot, Oxfordshire Tel: 0235 817241</s>
+</TEXT>
+<XX>
+
+<s docid="FT932-7548" num="34"> Companies:-</s>
+</XX>
+<CO>
+
+<s docid="FT932-7548" num="35"> Help Eliminate Learning Problems Educational Games.</s>
+</CO>
+<XX>
+
+<s docid="FT932-7548" num="36"> Countries:-</s>
+</XX>
+<CN>
+
+<s docid="FT932-7548" num="37"> GBZ United Kingdom, EC.</s>
+</CN>
+<XX>
+
+<s docid="FT932-7548" num="38"> Industries:-</s>
+</XX>
+<IN>
+
+<s docid="FT932-7548" num="39"> P3944 Games, Toys, and Children's Vehicles.</s>
+</IN>
+<XX>
+
+<s docid="FT932-7548" num="40"> Types:-</s>
+</XX>
+<TP>
+
+<s docid="FT932-7548" num="41"> CMMT Comment & Analysis.</s>
+</TP>
+<PUB>
+
+<s docid="FT932-7548" num="42"> The Financial Times</s>
+</PUB>
+<PAGE>
+
+<s docid="FT932-7548" num="43"> London Page VIII</s>
+</PAGE>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA032889-0083" num="1"> LA032889-0083</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA032889-0083" num="2"> 36661</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA032889-0083" num="3"> March 28, 1989, Tuesday, Orange County Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA032889-0083" num="4"> Metro; Part 2; Page 2; Column 1; Metro Desk</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA032889-0083" num="5"> 227 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA032889-0083" num="6"> ORANGE COUNTY DIGEST: LOCAL NEWS IN BRIEF;</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="7"> COUNTYWIDE;</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="8"> UCI CHILD CENTER GETS $65,000 GRANT</s>
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+
+<s docid="LA032889-0083" num="9"> The UC Irvine Child Development Center has received a $65,000 grant for a teaching and treatment program for children with hyperactivity and other behavioral disorders.</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="10"> The grant, from the Educational Foundation of America, will fund a program that began last year in cooperation with the Orange County Department of Education, which has involved more than 60 Irvine-area schoolchildren.</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="11"> The program teaches children social skills in group therapy and closely monitored classroom situations.</s>
+
+<s docid="LA032889-0083" num="12"> After the special training, the youngsters transfer to intermediary schools where they can test their new skills before returning to their own academic environment.</s>
+
+<s docid="LA032889-0083" num="13"> Progress is monitored and evaluated throughout the treatment and transition.</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="14"> "Historically, new behavior learned in a controlled therapy setting is not likely to be applied when the child returns to his or her natural environment," said James Swanson, director of the Child Development Center.</s>
+
+<s docid="LA032889-0083" num="15"> "Our transition program allows us to approximate the natural environment during training.</s>
+
+<s docid="LA032889-0083" num="16"> The results have been very promising".</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="17"> In addition to the Education Foundation, based in Westport, Conn., contributors to the treatment program have been the Irvine Health Foundation and the MacArthur Foundation of Chicago.</s>
+</P>
+<P>
+
+<s docid="LA032889-0083" num="18"> For information about the Child Development Center and its programs, call (714) 856-8730.</s>
+</P>
+</TEXT>
+<TYPE>
+<P>
+
+<s docid="LA032889-0083" num="19"> Column; Brief</s>
+</P>
+</TYPE>
+<SUBJECT>
+<P>
+
+<s docid="LA032889-0083" num="20"> MEDICAL DISORDERS; HYPERACTIVITY; UNIVERSITY OF CALIFORNIA AT IRVINE; CHILD DEVELOPMENT; GRANTS; BEHAVIOR; ORANGE COUNTY DEPARTMENT OF EDUCATION</s>
+</P>
+</SUBJECT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="FR940725-0-00064" num="1"> FR940725-0-00064</s>
+</DOCNO>
+<PARENT>
+
+<s docid="FR940725-0-00064" num="2"> FR940725-0-00008</s>
+</PARENT>
+<TEXT>
+
+<s docid="FR940725-0-00064" num="3"> D.</s>
+
+<s docid="FR940725-0-00064" num="4"> Placement Procedures and Least Restrictive Environment 1.</s>
+
+<s docid="FR940725-0-00064" num="5"> The placement of a preschool child or child in any special education program by the Section 6 School Arrangement shall be made only under an IEP and after a determination has been made that such student has a disability and needs special education and/or related services.</s>
+
+<s docid="FR940725-0-00064" num="6"> 2. The Section 6 School Arrangement CSC shall identify the special education and related services to be provided under the IEP.</s>
+
+<s docid="FR940725-0-00064" num="7"> 3. A placement decision may not be implemented without the consent of a parent of the preschool child or child, except as otherwise provided in accordance with this part.</s>
+
+<s docid="FR940725-0-00064" num="8"> 4. The placement decision must be designed to educate a preschool child or child with a disability in the least restrictive environment so that such student is educated to the maximum extent appropriate with students who do not have disabilities.</s>
+
+<s docid="FR940725-0-00064" num="9"> Special classes, separate schooling, or other removal of preschool children or children with disabilities from the regular educational environment shall occur only when the nature or severity of the disability is such that the preschool child or child with disabilities cannot be educated satisfactorily in the regular classes with the use of supplementary aids and services, including related services.</s>
+
+<s docid="FR940725-0-00064" num="10"> 5. Each educational placement for a preschool child or child with a disability shall be: a.</s>
+
+<s docid="FR940725-0-00064" num="11"> Determined at least annually by the appropriate CSC.</s>
+
+<s docid="FR940725-0-00064" num="12"> b. Based on the preschool child or child's IEP.</s>
+
+<s docid="FR940725-0-00064" num="13"> c. Located as close as possible to the residence of the parent who is sponsoring the preschool child or child for attendance in a Section 6 School Arrangement.</s>
+
+<s docid="FR940725-0-00064" num="14"> d. Designed to assign the preschool child or child to the school such student would attend if he or she were not a student with a disability, unless the IEP requires some other arrangement.</s>
+
+<s docid="FR940725-0-00064" num="15"> e. Predicated on the consideration of all factors affecting the preschool child's or child's well-being, including the effects of separation from parent(s).</s>
+
+<s docid="FR940725-0-00064" num="16"> f. To the maximum extent appropriate, designed so that the preschool child or child participates in school activities, including meals and recess periods, with students who do not have a disability.</s>
+
+<s docid="FR940725-0-00064" num="17"> E. Children With Disabilities Placed in Non-Section 6 School Arrangements 1.</s>
+
+<s docid="FR940725-0-00064" num="18"> Before a Section 6 School Arrangement CSC, with the concurrence of the Section 6 School Arrangement Superintendent concerned, places a preschool child or child with a disability in a non-Section 6 School or facility, the Section 6 School CSC shall conduct a meeting in accordance with this part to initiate the development of an IEP for such student.</s>
+
+<s docid="FR940725-0-00064" num="19"> 2. Preschool children and children with disabilities eligible to receive instruction in Section 6 School Arrangements who are referred to another school or facility by the Section 6 School CSC have all the rights of students with disabilities who are attending the Section 6 School Arrangement.</s>
+
+<s docid="FR940725-0-00064" num="20"> a. If a Section 6 School Arrangement CSC places a preschool child or child with a disability in a non-Section 6 School Arrangement or facility as a means of providing special education and related services, the program of that facility, including nonmedical care, room, and board, as set forth in the student's IEP, must be at no cost to the student or the student's parents.</s>
+</TEXT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA020790-0126" num="1"> LA020790-0126</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA020790-0126" num="2"> 172942</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA020790-0126" num="3"> February 7, 1990, Wednesday, Orange County Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA020790-0126" num="4"> Metro; Part B; Page 3; Column 1; Metro Desk</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA020790-0126" num="5"> 449 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA020790-0126" num="6"> ORANGE COUNTY FOCUS: TUSTIN;</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="7"> LEARNING THE ABCS OF HANDICAPS</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA020790-0126" num="8"> By DANICA KIRKA</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA020790-0126" num="9"> Francisco Burgos, a second-grader at Arroyo Elementary School, didn't like being blind.</s>
+
+<s docid="LA020790-0126" num="10"> As soon as he could, the boy took off the black scarf tied around his eyes and squinted in the bright morning sunshine.</s>
+
+<s docid="LA020790-0126" num="11"> He was thrilled that the experiment was over.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="12"> "I kept bumping into stuff," he said.</s>
+
+<s docid="LA020790-0126" num="13"> "It's kind of sad for people who are blind".</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="14"> For about 15 minutes Tuesday, the school's playground was filled with children careening about in wheelchairs, tapping white canes while wearing blindfolds and pushing themselves forward in walkers.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="15"> The idea, said teacher Nancy McCloud, is give the children a first-hand experience of what it's like to be handicapped.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="16"> "I think they develop an understanding of differences between people," McCloud said.</s>
+
+<s docid="LA020790-0126" num="17"> "They physically know the meaning of the old proverb, 'Walk a mile in my shoes'.</s>
+
+<s docid="LA020790-0126" num="18"> They've rolled a mile".</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="19"> Gina Kim, 7, of Santa Ana, who had seen a walker at her grandmother's house, said she now has a better idea of what the grandmother goes through.</s>
+
+<s docid="LA020790-0126" num="20"> "I think she's kind of hurting in her body," Kim said.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="21"> Kim Thompson thought being blind was scary.</s>
+
+<s docid="LA020790-0126" num="22"> But she quickly pointed out that many blind people are aided by guide dogs.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="23"> "They have to use special things and they are differently-abled," the 7-year-old from Santa Ana said.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="24"> Her classmate, Athina Singer, who helped guide Thompson around the schoolyard, added, "We shouldn't laugh at them and we shouldn't feel sorry for them.</s>
+
+<s docid="LA020790-0126" num="25"> If you tease them, they won't feel OK".</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="26"> McCloud developed handicap education lessons for the state-funded Mentor Teacher program in which instructors show their colleagues innovative ways of teaching traditional and special subjects.</s>
+
+<s docid="LA020790-0126" num="27"> The program will be introduced to all of Arroyo's second-grade classes by the end of the year.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="28"> McCloud's lessons integrate information about being handicapped into regular course work.</s>
+
+<s docid="LA020790-0126" num="29"> When pupil students study George Washington and Abraham Lincoln, they'll study Helen Keller as well.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="30"> During silent reading time after lunch, pupils can select from such books as "I'm Deaf and That's Okay" or "I Can Sign My ABCs".</s>
+
+<s docid="LA020790-0126" num="31"> When music is discussed, the class will hear a few songs from blind musician Stevie Wonder's latest album.</s>
+
+<s docid="LA020790-0126" num="32"> When pupils discuss the alphabet, they will learn a few letters in Braille.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="33"> Administrators have even become involved in the program.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="34"> Several children experimenting with wheelchairs have visited Principal Gerry Aust's office.</s>
+
+<s docid="LA020790-0126" num="35"> He said he never mentions the wheelchairs and treats the students like any other child coming into his office.</s>
+</P>
+<P>
+
+<s docid="LA020790-0126" num="36"> "Kids can really be cruel without meaning to be cruel," he said.</s>
+
+<s docid="LA020790-0126" num="37"> "If we can make them aware of these people, we've given them a good education".</s>
+
+<s docid="LA020790-0126" num="38"> DANICA KIRKA</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA020790-0126" num="39"> Photo, Teacher Nancy McCloud blindfolds Kim Thompson, 7, so she can experience blindness, as Athina Singer, 7, looks on.</s>
+
+<s docid="LA020790-0126" num="40"> Photo, 'Walk a Mile in My Shoes. . . ' A special program at Arroyo Elementary School in Tustin helps pupils understand the problems facing the handicapped by becoming handicapped for periods of time.</s>
+
+<s docid="LA020790-0126" num="41"> Andrea Casteel, upper left, is blindfolded and being helped by friend Alice Hwang, who is wearing a sling to simulate broken arm.</s>
+
+<s docid="LA020790-0126" num="42"> Meanwhile, Russell Ray, above, keeps his eyes closed as he feels his way through a Braille word.</s>
+
+<s docid="LA020790-0126" num="43"> And, left, Russell, with a walker, and Kristin Pippin, in a wheelchair try to solve a word puzzle in Braille.</s>
+
+<s docid="LA020790-0126" num="44"> KARI RENE HALL / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+<TYPE>
+<P>
+
+<s docid="LA020790-0126" num="45"> Column; Brief</s>
+</P>
+</TYPE>
+<SUBJECT>
+<P>
+
+<s docid="LA020790-0126" num="46"> TUSTIN (CA) -- SCHOOLS; HANDICAPPED; CHILDREN; LEARNING; ORANGE COUNTY -- EDUCATION</s>
+</P>
+</SUBJECT>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="FT931-795" num="1"> FT931-795</s>
+</DOCNO>
+<PROFILE>
+
+<s docid="FT931-795" num="2"> _AN-DC1AGAETFT</s>
+</PROFILE>
+<DATE>
+
+<s docid="FT931-795" num="3"> 930327</s>
+</DATE>
+<HEADLINE>
+
+<s docid="FT931-795" num="4"> FT 27 MAR 93 / Food and Drink: Tried and trusted - An hotel that cares for staff and guests</s>
+</HEADLINE>
+<BYLINE>
+
+<s docid="FT931-795" num="5"> By NICHOLAS LANDER</s>
+</BYLINE>
+<TEXT>
+
+<s docid="FT931-795" num="6"> THE COFFEE was poured professionally.</s>
+
+<s docid="FT931-795" num="7"> Upstairs, the bedrooms were being cleaned and, in the kitchen, the chef and her assistants were preparing lunch.</s>
+
+<s docid="FT931-795" num="8"> A typical day in a small British hotel, you might think.</s>
+
+<s docid="FT931-795" num="9"> But this one is very different, for the Mariners guest house in Rye, East Sussex, is run by the mentally handicapped.</s>
+
+<s docid="FT931-795" num="10"> It belongs to the Canterbury Oast Trust, a charity established in 1985 to care for those with autism, Down's syndrome or meningitis contracted in childhood.</s>
+
+<s docid="FT931-795" num="11"> Today, it provides a home and professional care for more than 100 patients aged from 19-60, and has created work for 35 of those in two free-market industries - catering and tourism - which have generated over Pounds 350,000 inincome.</s>
+
+<s docid="FT931-795" num="12"> But the money is secondary to the aims set out by the trust's original executive director, Joe Graham.</s>
+
+<s docid="FT931-795" num="13"> One is creating the sort of jobs that make the disabled feel they are doing something worthwhile.</s>
+
+<s docid="FT931-795" num="14"> The other is offering a service that involves the public, so giving people the chance to re-evaluate their attitudes to the mentally handicapped.</s>
+
+<s docid="FT931-795" num="15"> In 1988, Graham saw the Mariners was for sale and realised it might provide the opportunity he was seeking.</s>
+
+<s docid="FT931-795" num="16"> The site was right: the main street of a picturesque tourist town with commercial competition to give the venture an extra element of challenge.</s>
+
+<s docid="FT931-795" num="17"> Despite political opposition from local restaurateurs, he won over his trustees and bought the three-bedroom guesthouse for Pounds 285,000.</s>
+
+<s docid="FT931-795" num="18"> It had been sold twice in the previous three years because it could not be made to pay.</s>
+
+<s docid="FT931-795" num="19"> Graham and the disabled staff made it an immediate success.</s>
+
+<s docid="FT931-795" num="20"> On the third Saturday, the day's takings topped Pounds 200.</s>
+
+<s docid="FT931-795" num="21"> Today, they are more than Pounds 500 each Saturday.</s>
+
+<s docid="FT931-795" num="22"> The Mariners is open seven days a week, 360 days a year, and the patients work two shifts: from 8.30am-2.30pm and noon-6pm.</s>
+
+<s docid="FT931-795" num="23"> They get free board and lodging and about Pounds 50 a month spending money.</s>
+
+<s docid="FT931-795" num="24"> The length of the shifts is the biggest problem.</s>
+
+<s docid="FT931-795" num="25"> Keeping the interest and enthusiasm of patients can be difficult and, because their attention span is so short, training takes place almost daily.</s>
+
+<s docid="FT931-795" num="26"> But there has been enormous progress: several will soon be taking the first stage of the National Vocational Qualification examinations in catering studies.</s>
+
+<s docid="FT931-795" num="27"> In 1990, the trust decided to launch a much larger commercial venture and spent Pounds 565,000 on a nearby 90-acre farm which it converted into a centre for rare animal breeds as well as a residential home.</s>
+
+<s docid="FT931-795" num="28"> The farm, including a 120-seat self-service restaurant and conference centre, created an extra 50 jobs for the disabled, secure homes for 26, and employment for 30 able-bodied staff in an area of high unemployment.</s>
+
+<s docid="FT931-795" num="29"> During the first six months, it attracted 62,000 visitors who spent Pounds 245,000.</s>
+
+<s docid="FT931-795" num="30"> The farm won three championship medals at the 1992 Royal Show, which the patients attended, and eight of their prize-winning Berkshire pigs have been exported to Japan.</s>
+
+<s docid="FT931-795" num="31"> By last autumn, however, the trust had run into severe cash-flow difficulties.</s>
+
+<s docid="FT931-795" num="32"> Income was declining with the onset of winter and donations were proving hard to get because of the recession.</s>
+
+<s docid="FT931-795" num="33"> Several local firms, which had agreed to underwrite the conference centre in return for their names on the wall, had to withdraw.</s>
+
+<s docid="FT931-795" num="34"> The trust responded with a review which tightened financial and management controls.</s>
+
+<s docid="FT931-795" num="35"> Graham left and was replaced by a new general manager and fund-raiser.</s>
+
+<s docid="FT931-795" num="36"> But the housing will be finished by mid-April, with accommodation for 26 residents.</s>
+
+<s docid="FT931-795" num="37"> Like so many others in the British tourism industry, the trust is hoping for an end to the recession and a long, hot summer.</s>
+
+<s docid="FT931-795" num="38"> This would ease its financial concerns and allow an increasing number of visitors to experience one of the most impressive examples of British catering.</s>
+
+<s docid="FT931-795" num="39"> The Mariners hotel and tearooms, 15 High Street, Rye, East Sussex (tel: 0797-223 480) is owned by Canterbury Oast Trust, Highlands Farm, Woodchurch, Ashford, Kent (tel: 0233-861 493, fax 0233-861-457).</s>
+</TEXT>
+<XX>
+
+<s docid="FT931-795" num="40"> Countries:-</s>
+</XX>
+<CN>
+
+<s docid="FT931-795" num="41"> GBZ United Kingdom, EC.</s>
+</CN>
+<XX>
+
+<s docid="FT931-795" num="42"> Industries:-</s>
+</XX>
+<IN>
+
+<s docid="FT931-795" num="43"> P7011 Hotels and Motels.</s>
+
+<s docid="FT931-795" num="44"> P8361 Residential Care.</s>
+</IN>
+<XX>
+
+<s docid="FT931-795" num="45"> Types:-</s>
+</XX>
+<TP>
+
+<s docid="FT931-795" num="46"> CMMT Comment & Analysis.</s>
+</TP>
+<PUB>
+
+<s docid="FT931-795" num="47"> The Financial Times</s>
+</PUB>
+<PAGE>
+
+<s docid="FT931-795" num="48"> London Page XV</s>
+</PAGE>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA031689-0164" num="1"> LA031689-0164</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA031689-0164" num="2"> 31664</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA031689-0164" num="3"> March 16, 1989, Thursday, Home Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA031689-0164" num="4"> Long Beach; Part 9; Page 3; Column 1</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA031689-0164" num="5"> 654 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA031689-0164" num="6"> GIFTED, SPECIAL-EDUCATION STUDENTS LEARN TOGETHER;</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="7"> MIXING IT UP IN A MODEL CLASSROOM</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA031689-0164" num="8"> By SIOK-HIAN TAY KELLEY, Times Staff Writer</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA031689-0164" num="9"> Jan Morris wasn't impressed when her fifth-grade son started tinkering with a watch, then proceeded to take a camera apart.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="10"> But her interest was piqued when she discovered that the boy was dissecting devices to understand how they work as part of his gifted and talented education (GATE) class at Valley View Elementary School.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="11"> Morris, who teaches special education at the same Duarte school, had an idea.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="12"> She thought her students, who have learning handicaps such as dyslexia or an impaired ability to concentrate, might benefit from rubbing shoulders with GATE students.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="13"> Trip to Airport</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="14"> She approached GATE teacher Lloyd Martinez and by January, her eight fifth-grade students were constructing model airplanes out of balsa wood next to their GATE counterparts.</s>
+
+<s docid="LA031689-0164" num="15"> The joint class on planes and aviation history culminated in a recent excursion to the El Monte Airport.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="16"> "Combining classes on different levels was like walking on thin ice," Martinez said of the 6 weeks he taught with Morris.</s>
+
+<s docid="LA031689-0164" num="17"> "You don't know what's going to happen".</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="18"> Morris said her main concern was that Martinez's class not feel used.</s>
+
+<s docid="LA031689-0164" num="19"> "We were careful not to change the program for the GATE kids," she noted.</s>
+
+<s docid="LA031689-0164" num="20"> "There was the same high level of expectation".</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="21"> Morris said the match was ideal because of the small number of GATE students, 24, and the greater freedom that class has in deciding how students want to learn.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="22"> "In regular classrooms they don't take the time very often to do non-academic projects," she said.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="23"> GATE students served as role models for her pupils by being attentive and focusing on their own work, she said.</s>
+
+<s docid="LA031689-0164" num="24"> The once-a-week visits to the GATE classroom also gave her students a chance to socialize with mainstream students.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="25"> "It's deadening to group children by ability.</s>
+
+<s docid="LA031689-0164" num="26"> They become stifled," she said.</s>
+
+<s docid="LA031689-0164" num="27"> In the mixed class, her students were stimulated by their GATE counterparts.</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="28"> Role Models Teach</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="29"> "We identify with who we're around, so we should be around the best-quality people" to perform best, Morris said.</s>
+
+<s docid="LA031689-0164" num="30"> "There's nothing that teaches faster than a model".</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="31"> Kiwan Sims, a 10-year-old with a short attention span who has difficulty processing what he sees, was "in seventh heaven" in the combined class, Morris said.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="32"> Kiwan said he didn't think he could make a plane at first, but he did.</s>
+
+<s docid="LA031689-0164" num="33"> "It was harder, but I still liked it," he said, adding that constructing the wings was the hardest part.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="34"> While Kiwan usually can concentrate on an activity for a maximum of 5 minutes before losing interest, he worked intently for 2 hours at a stretch with the GATE students, Morris said.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="35"> She said the model-building assignment also boosted her students' self-esteem.</s>
+
+<s docid="LA031689-0164" num="36"> "There's less pressure here," she said.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="37"> Some GATE children altered their views of the special education students after working with them.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="38"> "One kid was constantly asking for help," recalled Greg Hagopian, 10.</s>
+
+<s docid="LA031689-0164" num="39"> "But he built a better plane than I did.</s>
+
+<s docid="LA031689-0164" num="40"> I was shocked".</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="41"> Heidi Duffin, 10, had thought the special education class was for students with problems.</s>
+
+<s docid="LA031689-0164" num="42"> But she said she did not notice any special problems, except that her once-a-week classmates were a bit slower.</s>
+
+<s docid="LA031689-0164" num="43"> "It's kind of hard having to teach them all the time," she added.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="44"> "It's difficult working with people that can't keep up with you," agreed Starr Pebley, 10.</s>
+
+<s docid="LA031689-0164" num="45"> But "I learned that even if people are in special classes, they're still human beings.</s>
+
+<s docid="LA031689-0164" num="46"> You can talk to them".</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="47"> Other GATE students had not even realized that their visitors were from a special class.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="48"> The experiment was so successful that the two classes hope to build a pump to learn how the heart works.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="49"> Alberta Schroder, coordinator of the district's elementary-level GATE program, said she would consider making the collaboration a permanent feature in planning next year's curriculum.</s>
+</P>
+<P>
+
+<s docid="LA031689-0164" num="50"> "It's important that very bright people learn to communicate with others to understand that everybody is special," she said.</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA031689-0164" num="51"> Photo, Michael Morris, 10, shows the model plane he built while he was in a joint class at Valley View Elementary School, Duarte.</s>
+
+<s docid="LA031689-0164" num="52"> LOU MACK / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+</DOC>
+<DOC>
+<DOCNO>
+
+<s docid="LA090490-0116" num="1"> LA090490-0116</s>
+</DOCNO>
+<DOCID>
+
+<s docid="LA090490-0116" num="2"> 271304</s>
+</DOCID>
+<DATE>
+<P>
+
+<s docid="LA090490-0116" num="3"> September 4, 1990, Tuesday, Home Edition</s>
+</P>
+</DATE>
+<SECTION>
+<P>
+
+<s docid="LA090490-0116" num="4"> View; Part E; Page 1; Column 2; View Desk</s>
+</P>
+</SECTION>
+<LENGTH>
+<P>
+
+<s docid="LA090490-0116" num="5"> 1850 words</s>
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+
+<s docid="LA090490-0116" num="6"> BREAKING SOUND BARRIERS;</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="7"> HEALTH: THE COCHLEAR IMPLANT, NOW APPROVED FOR CHILDREN, HELPS THE DEAF FUNCTION IN HEARING WORLD.</s>
+
+<s docid="LA090490-0116" num="8"> BUT THE DEVICE IS COSTLY AND DIFFICULT TO USE.</s>
+</P>
+</HEADLINE>
+<BYLINE>
+<P>
+
+<s docid="LA090490-0116" num="9"> By SHARI ROAN, TIMES HEALTH WRITER</s>
+</P>
+</BYLINE>
+<TEXT>
+<P>
+
+<s docid="LA090490-0116" num="10"> Casey Correia was 5 when he lost his hearing as a complication of meningitis, an inflammation of the membranes surrounding the spinal cord or brain.</s>
+
+<s docid="LA090490-0116" num="11"> Hearing aids were of no use to the Yorba Linda boy.</s>
+
+<s docid="LA090490-0116" num="12"> Within weeks of becoming deaf, his speech deteriorated.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="13"> Frankie and Jack Correia seized upon the only remaining alternative for their son: a cochlear implant.</s>
+
+<s docid="LA090490-0116" num="14"> The device includes a small component surgically implanted in the inner ear and an external component resembling a conventional hearing aid, along with a small battery pack.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="15"> Casey, a patient at the House Ear Institute in Los Angeles, was the first child in North America to receive the cochlear implant.</s>
+
+<s docid="LA090490-0116" num="16"> In 1986, when he underwent the surgery, the device was still experimental.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="17"> The months after the procedure were discouraging.</s>
+
+<s docid="LA090490-0116" num="18"> The sounds Casey heard through his implant barely resembled those he remembered.</s>
+
+<s docid="LA090490-0116" num="19"> In classes at a school for the deaf and at home, he struggled to make sense of the strange sounds -- similar to a radio that needed tuning -- produced by the implant.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="20"> "About nine months after he got the implant, I was in the kitchen and he was watching television with his back to me.</s>
+
+<s docid="LA090490-0116" num="21"> I called his name and he turned around," Frankie says.</s>
+
+<s docid="LA090490-0116" num="22"> "It was like opening the door a little bit.</s>
+
+<s docid="LA090490-0116" num="23"> I told him, that's what your name sounds like".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="24"> Since then, Casey, now 9, has become a model for what is possible with a cochlear implant.</s>
+
+<s docid="LA090490-0116" num="25"> Slender and blond, with sparkling brown eyes and a nonchalant attitude regarding his fame, Casey now attends a regular school.</s>
+
+<s docid="LA090490-0116" num="26"> By piecing together what he hears through the implant and by lip-reading, he functions normally in the hearing world.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="27"> "I didn't want to wear it at first," Casey says, shrugging.</s>
+
+<s docid="LA090490-0116" num="28"> "But I started getting better at it".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="29"> Success stories like Casey's helped pave the way for the June approval by the U.S.</s>
+
+<s docid="LA090490-0116" num="30"> Food and Drug Administration of the cochlear implant for children.</s>
+
+<s docid="LA090490-0116" num="31"> The device, which was approved for adults in 1985, can now be prescribed for children as young as 2, if they meet stringent qualifications.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="32"> The FDA decision increases the chances that patients will receive insurance reimbursement for the costly device and enables dozens of hospitals to provide it.</s>
+
+<s docid="LA090490-0116" num="33"> Previously, children could receive the implant at only the few medical centers charged with studying it.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="34"> More important, says Dr.</s>
+
+<s docid="LA090490-0116" num="35"> Carol Jackson, a member of the FDA advisory panel that approved the device for children: "The hope is to eliminate the inevitability of a child born deaf to be committed to a life of silence".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="36"> But the approval has renewed a long, emotional debate in the deaf community about the social impact of the device on children and its practical value to people of any age.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="37"> Some critics in the deaf community charge that parents who seek implants for a deaf child are steering the child into the hearing culture instead of accepting the child's deafness and the culture and lifestyle that accompany it.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="38"> A broader criticism centers on whether the implant performs well enough to justify the expense -- $25,000 to $40,000 -- and the intense training required to use it.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="39"> According to Lisa Tonokawa, an audiologist and coordinator of the children's program at the House Ear Institute, the ultimate value of the cochlear implant for children varies widely and depends greatly on the amount of training and support from parents and teachers.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="40"> "We are not curing their hearing loss," says Tonokawa, who has worked with the device for seven years.</s>
+
+<s docid="LA090490-0116" num="41"> "There is still a lot of rehabilitation and a lot of extra work involved on the parents' part.</s>
+
+<s docid="LA090490-0116" num="42"> If they are not willing to do that then we shouldn't implant the child because it will make no difference in the child's life.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="43"> "I hate to sound so negative, because sometimes it does seem like a miracle.</s>
+
+<s docid="LA090490-0116" num="44"> But (the) kids I get real excited about are those with parents who have worked really hard".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="45"> The cochlear implant, invented more than two decades ago by Australian researchers, is for people who are born deaf or have such profound hearing loss that they receive no benefit from hearing aids.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="46"> While hearing aids receive and amplify sounds, cochlear implants receive, process and, bypassing the injured part of the ear, deliver sound information to the brain.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="47"> Sounds are picked up by a microphone worn behind the ear and routed to a speech processor, a calculator-sized box that is worn on a harness or clipped to a belt or pocket.</s>
+
+<s docid="LA090490-0116" num="48"> The processor amplifies, filters and digitizes the sounds, then sends coded information to a receiver-stimulator, the tiny device implanted in the inner ear.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="49"> The receiver-stimulator converts the code to electrical signals and passes the signals to electrodes.</s>
+
+<s docid="LA090490-0116" num="50"> The electrodes stimulate hearing nerve fibers, which the brain then picks up and recognizes as sound.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="51"> Because the implant delivers sounds only marginally similar to natural sound, months or years of training are required to maximize its benefits.</s>
+
+<s docid="LA090490-0116" num="52"> Implant recipients must learn to link the sounds to events.</s>
+
+<s docid="LA090490-0116" num="53"> For example, at first a recipient might not recognize a sound as the doorbell.</s>
+
+<s docid="LA090490-0116" num="54"> After repeated exposure, however, the sound becomes familiar as that of the doorbell.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="55"> "I see a very big range of what kids do with the implant," Tonokawa says.</s>
+
+<s docid="LA090490-0116" num="56"> "You see some little kids take off and develop speech and language.</s>
+
+<s docid="LA090490-0116" num="57"> But these are kids with very good school support and dedicated parents".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="58"> Frankie Correia remembers following her son around and labeling each sound he heard.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="59"> "The first time we heard the dog bark I told him 'That's what it sounds like,' " she says.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="60"> And, she says, Casey also received more than two years of auditory training at a school for the deaf.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="61"> "The actual training occurs outside of the medical system with usage," says Jackson, an associate professor and director of neurology at UCI Medical Center.</s>
+
+<s docid="LA090490-0116" num="62"> "We don't know in advance where the child will fit in.</s>
+
+<s docid="LA090490-0116" num="63"> At a minimum, virtually all patients will detect medium to loud sounds, including speech.</s>
+
+<s docid="LA090490-0116" num="64"> Some can detect certain words in a sentence without lip-reading".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="65"> Some children also develop understandable speech, but, Jackson adds: "It doesn't mean they don't need speech therapy and other tutorial help".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="66"> Experts agree that the patients who do the best with the implant are children who, like Casey, were deaf for a short time before receiving it.</s>
+
+<s docid="LA090490-0116" num="67"> But studies have shown that even children who are born deaf can benefit, especially if they receive the device at age 2 or 3.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="68"> "Children are able to do so much with so little," Jackson says.</s>
+
+<s docid="LA090490-0116" num="69"> "What's particularly surprising is how well children with congenital loss do compared to adults with congenital loss".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="70"> According to Jackson, research on the implant in congenitally deaf children has yielded some interesting information about hearing development.</s>
+
+<s docid="LA090490-0116" num="71"> For instance, young children appear to learn to use the implant quickly because their sensory functions are in a rapid stage of growth and development.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="72"> "They are learning to adapt to their environment, in general," Jackson says.</s>
+
+<s docid="LA090490-0116" num="73"> "There is another theory that sound input serves some nurturing role to the hearing system.</s>
+
+<s docid="LA090490-0116" num="74"> With children, when you provide that sound early, you can promote more development".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="75"> Tonokawa agrees that congenitally deaf children may benefit from the implant, although it may take them longer to master than children who lost their hearing after birth.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="76"> "There are (people) who say you should not implant congenitally deaf children.</s>
+
+<s docid="LA090490-0116" num="77"> Some people say they don't do as well," Tonokawa says.</s>
+
+<s docid="LA090490-0116" num="78"> "But I'm finding that's not true.</s>
+
+<s docid="LA090490-0116" num="79"> I think it takes them longer to get there, but they don't have a history of hearing.</s>
+
+<s docid="LA090490-0116" num="80"> It makes sense that those kids take longer to develop".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="81"> The decision to recommend the implant for congenitally deaf children has been criticized by some members of the deaf community.</s>
+
+<s docid="LA090490-0116" num="82"> They have argued that the implant might confuse children, leaving them to straddle hearing and deaf environments, Tonokawa says.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="83"> "Before, the feeling in the deaf education field and among some pediatric ear, nose and throat (physicians) was against implants.</s>
+
+<s docid="LA090490-0116" num="84"> I think we've won them over by explaining that it's just a tool," she says.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="85"> "The people who are still very negative are within the deaf community.</s>
+
+<s docid="LA090490-0116" num="86"> Their argument is 'you're fine as a deaf person and you're part of a deaf culture and there is no reason to deny your deafness'. "</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="87"> But Charles Estes, executive director of the National Assn. of the Deaf, says he fears that not enough is known about long-term effects of the implant, particularly electrical stimulation in the inner ear, a concern the FDA has also identified as needing further research.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="88"> "I, personally, think that the medical profession should do a lot more public education; make very, very sure that a candidate for an implant understands what to expect before they submit to this kind of surgery," Estes says.</s>
+
+<s docid="LA090490-0116" num="89"> "I know a growing number of deaf adults who have had the implant, and every last one of them, bar none, has eventually reached the point where they admit to themselves that it is not what it was cracked up to be.</s>
+
+<s docid="LA090490-0116" num="90"> And they just discard the damn thing".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="91"> Officials of Cochlear Corp., the U.S. subsidiary of the Australian-based manufacturer of the implant, have no information on long-term use.</s>
+
+<s docid="LA090490-0116" num="92"> But many experts admit that patients of any age must make a concerted effort to master the implant or it will be a disappointment.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="93"> "One must be committed to relearning how to listen once they receive the implant," says Jean Lombard, a spokeswoman for Cochlear Corp. in Englewood, Colo.</s>
+
+<s docid="LA090490-0116" num="94"> "They give up because it's hard.</s>
+
+<s docid="LA090490-0116" num="95"> You might be set in your ways.</s>
+
+<s docid="LA090490-0116" num="96"> If you were heavily reliant on sign language and you feel you get around and you're not missing anything, then the implant is work".</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="97"> Tonokawa agrees that the right attitude makes a big difference in successful use of the implant.</s>
+
+<s docid="LA090490-0116" num="98"> Teen-agers who have been deaf for a long time often make poor candidates, she says.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="99"> Likewise, parents who have neither the time nor financial resources to work with their child may find the implant a waste of money.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="100"> But, she says, children who learn to make the most of the implant have the enviable ability to feel comfortable in both hearing and deaf environments.</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="101"> "My argument is not that we're stealing them from the deaf culture, but we're giving them a choice," Tonokawa says.</s>
+
+<s docid="LA090490-0116" num="102"> "It's a tool to give children choices as adults.</s>
+
+<s docid="LA090490-0116" num="103"> We're not trying to change them or say deafness is bad".</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="104"> How The Cochlear Implant Works</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="105"> 1. Microphone recives sound</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="106"> 2. Sound sent to speech processor</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="107"> 3. Speech processor filters and codes sound</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="108"> 4. Code sent to transmitter</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="109"> 5. Code crosses skin into receiver</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="110"> 6. Receiver-stimulator converts code to electrical signals</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="111"> 7. Electrodes stimulate hearing nerves in inner ear</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="112"> Transmitter: magnetically held in place over the internal receiver-stimulator</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="113"> Cochlear implant: see detail below</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="114"> Directional microphone: fits behind the ear</s>
+</P>
+<P>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="115"> Cochlear Implant</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="116"> Reciver stimulator</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="117"> Magnet: holds external transmitter in place</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="118"> Electrode array: Tube with 22 electrode bands which stimulate hearing nerves inside the cochlea, producing sensation of sound</s>
+</P>
+<P>
+
+<s docid="LA090490-0116" num="119"> Source: Cochlear Corp.</s>
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+
+<s docid="LA090490-0116" num="120"> Drawing, How The Cochlear Implant Works, JUAN THOMASSIE / Los Angeles Times; Chart, How The Cochlear Implant Works, JUAN THOMASSIE / Los Angeles Times; Photo, Casey Correia, 9, wears the microphone to his cochlear implant, above.</s>
+
+<s docid="LA090490-0116" num="121"> He clips the speech processor, below, to his belt.</s>
+
+<s docid="LA090490-0116" num="122"> LACY ATKINS / Los Angeles Times; Photo, Earplug; Photo, COLOR, (Orange County Edition) Casey Correia, 9, the first child in North America to receive a cochlear implant, now functions normally in hearing world. LACY ATKINS / Los Angeles Times</s>
+</P>
+</GRAPHIC>
+<SUBJECT>
+<P>
+
+<s docid="LA090490-0116" num="123"> DEAFNESS; IMPLANTS; HEARING; MEDICAL TECHNOLOGY; COCHLEAR CORP</s>
+</P>
+</SUBJECT>
+</DOC>

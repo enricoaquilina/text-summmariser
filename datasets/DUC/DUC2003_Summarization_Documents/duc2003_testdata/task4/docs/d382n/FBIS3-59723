@@ -1,0 +1,792 @@
+
+<DOC>
+<DOCNO> FBIS3-59723 </DOCNO>
+<HT>    "jpjst003__l94016" </HT>
+
+
+<HEADER>
+<AU>   JPRS-JST-94-003L </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Japan </ABS>
+<DATE1>   18 January 1994 </DATE1>
+<F P=100> Energy </F>
+<H3> <TI>   Lean-burn Engine Development </TI></H3>
+<H4>   Hydrogen Rotary Engin R&amp;D </H4>
+<F P=102> 93FE1011B TOKYO INTERNAL COMBUSTION ENGINE in Japanese 1 Jul 
+93 pp 25-34--FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 93FE1011B </F>
+<F P=104>  TOKYO INTERNAL COMBUSTION ENGINE </F>
+
+
+<TEXT>
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> Authors affiliated with Mazda Motor Corporation </F>
+  [Text] 
+<H5>  1. Introduction </H5>
+  We seek to expand the use of solar-derived light, heat, 
+water 
+and wind power and other forms of natural energy in order to 
+reduce our reliance on nonrenewable fossil fuel energy in the 
+21st century. In a society with this orientation toward energy, 
+we believe, as shown in Figure 1, that hydrogen, easily stored, 
+transported, and converted to and from electricity, will play a 
+crucial role as an energy medium, together with electricity 
+produced from natural energy. Hydrogen is also converted to 
+water when burned and can be used without disturbance to natural 
+biosystems, while its convertibility with water provides a 
+virtually limitless supply, as shown in Figure 2. Thus hydrogen 
+is of interest as the ultimate fuel capable of providing 
+long-term, mass quantity supply. A large-scale project aiming at 
+Canadian-European utilization of electricity and hydrogen energy 
+is already underway&lt;sup&gt; 1)&lt;/sup&gt;  as shown in Figure 3. 
+  As depicted in Figure 3, automobile fuel is considered one 
+of 
+the main ways in which hydrogen will be used. 
+  As one proposal for such, we prototyped the hydrogen rotary 
+engine-equipped HR-X concept car (Figure 4) and showed it at the 
+29th Tokyo Motor Show held in Fall, 1991. The HR-X attracted 
+considerable public interest as a vehicle that will contribute 
+to a clean, ecological world and was subsequently shown at other 
+events around the globe, including the June, 1992 global summit 
+on environmental problems in Brazil. The car is increasing 
+awareness and anticipation of hydrogen vehicles. 
+  In this paper, we discuss the background and objectives of 
+hydrogen rotary engine (RE below) development, the advantages of 
+using RE as hydrogen engines, the achievement of high output 
+through a system for direct injection of hydrogen into cylinders 
+(``direct injection'' below), and the results of our studies on 
+emission characteristics, etc. 
+
+
+<FIG ID=JPRS-JST-003LC-21A>             Figure 1. Role of Hydrogen Energy </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-21B>             Figure 2. Hydrogen Combustion and Regeneration </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-21C>             Figure 3. Euro-Quebec Hydro-Hydrogen Project </FIG>
+
+
+
+
+
+<H5>    2. Development Background and Objectives </H5>
+  During the oil crises of the 1970s, hydrogen engines 
+attracted the attention of specialists as alternative energy 
+engines, and with the recent criticality of global environmental 
+problems, they have again drawn attention from these quarters as 
+clean engines. Research towards commercialization is continuing 
+both in and out of Japan. 
+  According to the basic characteristics shown in Table 1, 
+hydrogen has a high calorific value, and if operated with the 
+same amount of air and theoretical air/fuel ratio as a gasoline 
+engine, the calorific value with a hydrogen engine will be 
+15&percnt; 
+higher than with gasoline, as shown in Figure 5. However, since 
+the minimum ignition energy is a very low one-tenth that of 
+gasoline, engine regions not hot enough to cause a problem in 
+gasoline engines, such as spark plugs and exhaust valves, as 
+well as residual exhaust gas, etc. become igniters and are 
+believed to easily cause premature ignition, backfire, and other 
+abnormal combustion. 
+  Since premature ignition, backfire, and other abnormal 
+combustion occurs readily in comparison to typical gasoline 
+engines, research on conventional hydrogen engines has reported 
+declining output performance or structural complexity caused by 
+countermeasures, etc.&lt;sup&gt; 2)3)&lt;/sup&gt; 
+  Noting that the distinctive structure of our proprietary RE 
+were effective in preventing abnormal hydrogen combustion, we 
+began development of hydrogen RE as clean, high-performance 
+automobile engines designed to support a 21st century society 
+making use of hydrogen energy. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Table 1. Basic Properties of Hydrogen                                        | 
+------------------------------------------------------------------------------- 
+|Item                     |Hydrogen                 |Gasoline                 | 
+------------------------------------------------------------------------------- 
+|Composition (wt. ratio) %|H:100 C:0                |H:15 C:85                | 
+------------------------------------------------------------------------------- 
+|Density (liquid) kg/l    |0.071                    |0.75                     | 
+------------------------------------------------------------------------------- 
+|Density (gas) kg/m&lt;sup&gt; 3 |0.089                    |5.09                     | 
+|&lt;/sup&gt;                    |                         |                         | 
+------------------------------------------------------------------------------- 
+|Minimum Ignition Energy (|0.02                     |0.24                     | 
+|in air) mJ               |                         |                         | 
+------------------------------------------------------------------------------- 
+|Volumetric Ratio in Igni-|4-75                     |1-8                      | 
+|tion Range (in air) %    |                         |                         | 
+------------------------------------------------------------------------------- 
+|Laminar Combustion Rate (|270                      |38                       | 
+|theoretical air/fuel rat-|                         |                         | 
+|io) cm/s                 |                         |                         | 
+------------------------------------------------------------------------------- 
+|Low Calorific Value kcal/|28,800                   |10,800                   | 
+|kg                       |                         |                         | 
+------------------------------------------------------------------------------- 
+
+
+
+
+
+
+
+<H5>      3. Studies of RE Suitability For Hydrogen Combustion </H5>
+  3.1 Goals 
+  In general, reducing the temperature of sources of ignition 
+is effective in preventing abnormal combustion in a hydrogen 
+engine. For this, the hydrogen supplied and heat produced must 
+be reduced in order to lower combustion temperatures, even at 
+the cost of output. However, there are also examples in prior 
+research on hydrogen engines of suppression of abnormal 
+combustion without a reduction in hydrogen supply through the 
+introduction of sodium-containing exhaust valves and a system 
+for water injection within cylinders to cool sources of ignition. 
+  Evaluation of hydrogen reciprocating engines (``CE'' below) 
+predating hydrogen RE has shown a decline in output to roughly 
+50&percnt; that of gasoline engines used for comparison. In 
+hydrogen 
+CE we evaluated, the causes thereof were shown to be restriction 
+to a lean region with an excess air ratio (&lgr;) of 1.8 or more 
+in order to prevent abnormal combustion, and a reduction of 
+intake air due to the large volume occupied by the hydrogen gas 
+fuel; both of which resulted in a reduction of heat supplied to 
+54&percnt; that of a gasoline engine. Consequently, we consider 
+these 
+2 factors the main causes of the low hydrogen CE output. 
+  In contrast, the working chamber in an RE revolves as shown 
+in Figure 6, and the location where intake, compression, 
+expansion, and exhaust strokes occur differs. We believe that 
+the relatively low temperature of the working chamber during 
+intake and this unique structure free of high temperature 
+exhaust valves and the like are beneficial in preventing 
+backfire. We investigated RE suitability for hydrogen based on 
+the above theory. This section discusses measures taken against 
+abnormal combustion, and the next section discusses measures 
+taken against reduction in air quantity. 
+
+
+
+
+    3.2 Experimental Apparatus and Method 
+  A Mazda RE, model 13B (1,308 cc) and Mazda CE, model FE 
+(1,998 cc) were used in experiments. 
+  Figure 7 shows an overview of the RE experimental apparatus 
+used. The air intake pipes and chamber were modified for 
+hydrogen introduction based on mass production specifications. 
+Fuel supply systems studied were a premix system supplying 
+previously mixed air and fuel, and an intake stroke injection 
+system supplying hydrogen only during the intake stroke, 
+reportedly effective in preventing backfire in hydrogen CE. The 
+premix system supplied hydrogen through throttle valve flow, and 
+the intake stroke injection system supplied hydrogen through a 
+dedicated hydrogen port provided in a side housing. Hydrogen was 
+supplied to the engines from a commercial high pressure hydrogen 
+cylinder (15.7 MPA, 7 m&lt;sup&gt; 3&lt;/sup&gt; ) after pressure reduction 
+to 0.5 MPa by a decompression device. As shown in Table 2, 
+hydrogen port and air intake port timing initiated hydrogen 
+supply slightly after intake began and terminated supply after 
+air intake ended, 20 degrees of output shaft rotation later. 
+  The CE fuel supply system used was a premix system supplying 
+hydrogen through throttle valve flow. High tension cord 
+shielding and narrowing of plug gaps (0.3mm) was carried out to 
+prevent ignition by induced current, problematic in 
+multicylinder engines. 
+
+
+
+
+
+
+
+
+      ------------------------------------------------------------------------------- 
+|Table 2 Port Timing of Intake Stroke Injection System                        | 
+------------------------------------------------------------------------------- 
+|                         |Air Intake Opening (ATDC)|Air Intake Closure (ABDC)| 
+------------------------------------------------------------------------------- 
+|Air                      |32&deg;                  |80&deg;                  | 
+------------------------------------------------------------------------------- 
+|Hydrogen                 |40&deg;                  |100&deg;                 | 
+------------------------------------------------------------------------------- 
+
+
+  3.3 Experiments 
+  (1) Effect of Fuel Supply System 
+  We studied the effects of differences in fuel supply systems 
+on output limits. Figure 8 shows the results of a comparison of 
+a premix system and an intake stroke injection system. Since 
+output declines with mixtures richer than the theoretical 
+air/fuel ratio (&lgr;=1), evaluation was made up to &lgr;=1. 
+  Under full loading and with throttle valves fully open, a 
+premix system RE was successfully operated at up to 5,000 rpm 
+with &lgr;=1. However, output became unstable at 6,500 rpm, with 
+&lgr;=1.4, and the excess air ratio (&lgr;) could not be reduced 
+at 
+higher speeds. In contrast, an intake stroke injection system RE 
+was successfully operated at up to 6,500 rpm near &lgr;=1. We 
+feel 
+this is due to the production of non-uniform fuel regions with 
+the intake stroke injection system, and a resulting weaker 
+air/fuel ratio in mixture air near ignition sources than with 
+premixing. 
+  The following studies were made on the intake stroke 
+injection system, superior in output. 
+  (2) Effect of Spark Plug Heating Value 
+  We investigated the optimum spark plug heating value for 
+hydrogen. Spark plugs were those used with ordinary gasoline 
+specifications; leading side spark plugs (``L plugs'' below) had 
+a heating value of 5 (heating values follow product numbers of 
+NGK Spark Plug Co. (Inc.)) and trailing side spark plugs (``T 
+plugs'' below) had a heating value of 10. As the hydrogen 
+quantity was increased from leanness, which inhibits abnormal 
+combustion, premature ignition began to occur at an excess air 
+ratio (&lgr;) of 1.6. Figure 9 shows indicator waves for the 
+working chamber pressure when premature ignition occurred. 
+Premature ignition first occurred noncontinuously, gradually 
+occurring sooner and continuously, and finally occurring 
+continuously in the migrating working chamber, [beginning] 
+immediately after spark plug exposure during compression. From 
+the course of this occurrence, we surmised that spark plugs 
+become igniters, causing premature ignition which further raises 
+spark plug temperature, increasing the frequency and quickening 
+the occurrence of premature ignition. To verify this theory, we 
+investigated the relationship between premature ignition and 
+heating values by substituting spark plugs with effectively high 
+heating values for the low temperature spark plugs. 
+  As shown in Figure 10, the excess air ratio (&lgr;) at which 
+premature ignition began declined after an increase in spark 
+plug heating values from the gasoline-specification heating 
+value of 5. As a result, we learned that normal operation is 
+possible even at &lgr;=1 when heating values are raised to 13. 
+Consequently, it became clear that spark plugs were the ignition 
+source for the premature ignition in Figure 9, and that abnormal 
+combustion can be avoided even at &lgr;=1 through the use of 
+spark 
+plugs with a high heating value. 
+  In supplementary experiments, we found that the heating 
+value 
+of L plugs affected the occurrence of premature ignition. 
+
+
+
+
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-25A>                 Figure 10. Effect of Spark Plug Heating Value on Premature </FIG>
+
+
+
+
+  (3) Effect of Gas Escape From Plug Holes 
+  Though the use of spark plugs with a heating value of 13 and 
+the adoption of an intake stroke injection system for fuel 
+supply allowed operation at &lgr;=1 over nearly all regions, 
+instability did at times occur during maximum output at 6,500 
+rpm near &lgr;=1. Accordingly, we investigated its cause using a 
+pressure indicator diagram. 
+  Figure 11 shows changes in the indicator diagram when 
+instability occurred. Unlike Figure 9, sudden shifts from normal 
+combustion to premature ignition are apparent. The absence of 
+any signs of spark plug-induced premature ignition, and the 
+passage of apex seals over L plug holes immediately prior to the 
+occurrence of premature ignition led us to believe that mixture 
+air uncombusted during the compression stroke passes through L 
+plug holes, comes in contact with hot, burning gases during the 
+expansion stroke, and is ignited. We felt that the size and 
+volume of L plug holes would affect the occurrence of this 
+phenomenon and therefore investigated the effect of changing L 
+plug hole volume by changing L plug ejection quantities. As 
+shown in Figure 12, we learned that the excess air ratio (&lgr;) 
+during the occurrence of output instability can be reduced by 
+increasing the ejection quantity; that is, by decreasing L plug 
+hole volume. 
+
+
+<FIG ID=JPRS-JST-003LC-25B>             Figure 11. Indicator Waves During Occurrence of Premature </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-25C>             Figure 12. Output Limitation Due to Plug Hole Gas Escape </FIG>
+
+
+
+
+  3.4 Combustion Performance 
+  (1) Heat Efficiency 
+  Figure 13 shows the relationship between net heat efficiency 
+and air/fuel ratio at 1,500 rpm and respective loads of 
+P&lt;inf&gt; e&lt;/inf&gt; =0.1 MPa and P&lt;inf&gt; e&lt;/inf&gt; =0.29 MPa. 
+  For P&lt;inf&gt; e&lt;/inf&gt; =0.1 MPa, a peak was reached near &lgr;=3. 
+Where heat efficiency is concerned, the leaner the mixture, the 
+better for pumping loss and specific heat ratio, but isochorism 
+declines and combustion deteriorates, and we believe that the 
+balance of both sets of factors forms the peak. For 
+P&lt;inf&gt; e&lt;/inf&gt; =0.29 MPa, throttle valves were fully open at 
+&lgr;=2.5, and a peak net heat efficiency of 28&percnt; was 
+reached at 
+such time. 
+
+
+<FIG ID=JPRS-JST-003LC-26A>             Figure 13. Heat Efficiency vs. Air/Fuel Ratio </FIG>
+
+
+
+
+  (2) Output Performance 
+  Figure 14 compares hydrogen RE and hydrogen CE at 2,500 rpm 
+through the relationship of excess air ratio (&lgr;) and output. 
+  As the excess air ratio (&lgr;) falls, output increases. 
+However the air/fuel ratio in the hydrogen CE could not be 
+enriched above &lgr;=1.8 due to backfire. Higher output was 
+obtained with the hydrogen RE, which allowed operation up to 
+&lgr;=1. As a result, while only 50&percnt; of 
+gasoline-specification 
+output was obtained with the (premix system) hydrogen CE, 
+63&percnt; 
+and 75&percnt; outputs were obtained with the hydrogen RE premix 
+and 
+intake stroke injection systems, respectively. 
+
+
+<FIG ID=JPRS-JST-003LC-26B>             Figure 14. Abnormal Combustion Thresholds </FIG>
+
+
+
+
+  (3) Exhaust Gas Performance 
+  Figure 15 shows the relationship between NOx and excess air 
+ratio (&lgr;) at 1,500 rpm and respective loads of 
+P&lt;inf&gt; e&lt;/inf&gt; =0.1 MPa and P&lt;inf&gt; e&lt;/inf&gt; =0.29 MPa. 
+  For P&lt;inf&gt; e&lt;/inf&gt; =0.1 MPa, NOx are nearly zero above 
+&lgr;=1.5; and for P&lt;inf&gt; e&lt;/inf&gt; =0.29 MPa, nearly zero above 
+&lgr;=2.0. 
+
+
+<FIG ID=JPRS-JST-003LC-26C>             Figure 15. NOx Exhaust Characteristics </FIG>
+
+
+
+
+  3.5 Results and Issues in Suitability Testing 
+  The following was learned from our studies of RE suitability 
+for hydrogen. 
+  (1) RE show high performance in preventing backfire and can 
+be operated at &lgr;=1 over a broad range if spark plugs with a 
+heating value suited to hydrogen are used. 
+  (2) While only 50&percnt; of gasoline-specification output 
+was 
+obtained with a premix system hydrogen CE, 63&percnt; of 
+gasoline-specification output was obtained with a hydrogen RE. 
+Additionally, 75&percnt; of gasoline-specification output was 
+successfully obtained with the structurally simpler intake 
+stroke injection system. 
+  (3) High heat efficiency and clean exhaust gas is obtained 
+under partial loading if operation is pursued at &lgr;=2-3. 
+  From the above results, we found that hydrogen RE require no 
+structural changes or attachment of special devices to prevent 
+abnormal combustion near the theoretical air/fuel ratio capable 
+of drawing maximum output; merely switching to spark plugs with 
+a heating value suited to engine requirements is sufficient. It 
+is thus demonstrated that RE possess a structure which is 
+fundamentally easily adaptable to hydrogen engines, for which 
+preventing abnormal combustion is the most important concern. 
+  Nonetheless, the 75&percnt; of gasoline-specification output 
+obtained even through operation at the theoretical air/fuel 
+ratio is low. Likewise, since air and hydrogen are 
+simultaneously injected by the intake stroke injection system we 
+studied, air quantity during intake is reduced approximately 
+30&percnt; by hydrogen volume, and volumetric efficiency is low. 
+Accordingly, we report our study of a direct injection system 
+designed to solve this problem by supplying hydrogen directly to 
+cylinders immediately after completion of the intake stroke. 
+<H5>  4. Development of Hydrogen RE Direct Injection Systems </H5>
+  4.1 Goal 
+  The decline in the volumetric efficiency of air that is the 
+second cause of reduced hydrogen CE output depicted in Figure 5 
+stems from the low density that is one hydrogen characteristic 
+indicated in Table 1, and this characteristic is likewise a 
+cause of reduced output in hydrogen RE. Specifically, low 
+density gaseous hydrogen occupies a large 28&percnt; volume of 
+total 
+gas mixture in the theoretical air/fuel ratio, in contrast to 
+the mere 1.7&percnt; occupied by gasoline vapor. And even when 
+the gas 
+mixture naturally input to a premix system, in which hydrogen is 
+mixed in the intake pipes, is considered quantitatively the same 
+as that in a gasoline engine, the amount of air therein is far 
+less, as shown in Figure 16. Counteractive methods for direct 
+injection of hydrogen into the working chamber after completion 
+of air intake have been researched&lt;sup&gt; 4)5)&lt;/sup&gt; , and we 
+investigated their effectiveness in hydrogen RE. Since the 
+volumetric ratio of air to hydrogen in the theoretical air/fuel 
+ratio is 72:28, mixed gas volumetric efficiency might be raised 
+to a maximum 138&percnt; if direct injection raises the 
+volumetric 
+efficiency of air alone to near 100&percnt;, as shown in Figure 
+16. 
+  We also studied the exhaust characteristics of hydrogen 
+fuel, 
+reported to be completely free from conversion to noxious 
+substances. Water is essentially the only combustion product of 
+hydrogen, but a certain amount of lubricating oil carried into 
+the working chamber in an actual hydrogen engine is burned and 
+produces trace amounts of HC, CO, and CO&lt;inf&gt; 2&lt;/inf&gt; . 
+Additionally, atmospheric oxygen and nitrogen bond in the high 
+temperatures of the working chamber, forming NOx. Our studies of 
+hydrogen RE included exhaust characteristics of these emissions. 
+
+
+<FIG ID=JPRS-JST-003LC-27A>             Figure 16. Quantitative Differences in Supply By Hydrogen </FIG>
+
+
+
+
+  4.2 Experimental Method and Apparatus 
+  In systems for direct injection of hydrogen, both low 
+pressure direct injection (roughly 1 MPa or less) early in the 
+compression stroke and high pressure direct injection (roughly 
+8-10 MPa) late in the compression stroke have been researched. 
+In low pressure direct injection, the long duration from 
+injection to spark provides superior mixing with air, however 
+high pressure direct injection allows injection immediately 
+before the spark and prevents premature ignition. As clarified 
+in the previous section, the basic structure of the RE easily 
+allows prevention of premature ignition, thus the need for high 
+pressure injection is slight, and we felt that low pressure 
+injection involving a simpler apparatus was appropriate. We 
+therefore prototyped a hydrogen RE with a low pressure direct 
+injection system and studied improvements in output performance. 
+  Figure 17 shows the structure and operation of the 
+prototyped 
+hydrogen RE with direct injection system. Atop a side housing 
+where gasoline specifications locate an intake port is an air 
+port for intake of air alone, and above that is an added 
+hydrogen port. A poppet-type hydrogen valve opened and closed by 
+the cam shaft is located in the flow of a hydrogen port opening 
+on the wall of the working chamber for the intake stroke. As 
+shown in Figure 18, hydrogen is injected into the working 
+chamber for the compression stroke for an interval of 
+approximately 90 degrees (main shaft angle) starting immediately 
+after the end of air intake through the air port. In the left 
+drawing of Figure 17, air is being drawn into the working 
+chamber during the intake stroke, and the hydrogen valve is 
+still closed. The right drawing depicts a point during the 
+compression stroke at which the air port has closed, the 
+hydrogen port opens, and hydrogen is being injected from the 
+hydrogen port towards the air in the working chamber. The 
+pressure of the injected hydrogen is 1.0 MPa or less. 
+  To discern the effect of the direct injection system, we 
+jointly studied a premix system supplying hydrogen to an intake 
+manifold. 
+
+
+<FIG ID=JPRS-JST-003LC-28A>             Figure 17. Structure and Operation of Direct Injection </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-28B>             Figure 18. Timing of Air and Hydrogen Supply </FIG>
+
+
+
+
+  4.3 Volumetric Efficiency 
+  Figure 19 shows a comparison of a direct injection system 
+and 
+a premix system through the relationship between excess air 
+ratio (&lgr;) and volumetric efficiency. 
+  In the direct injection system, only air is input naturally 
+from the intake port, while in the premix system, an air and 
+hydrogen mixture is input naturally. The volumetric efficiency 
+in both is roughly equivalent. The slightly lower air quantity 
+in the direct injection system is ascribed to the effect of 
+residual hydrogen in the channel from the hydrogen valve to the 
+hydrogen port which is carried in during the intake stroke. When 
+volumetric efficiency for hydrogen-air mixtures are compared, 
+the difference between the direct injection system and the 
+premix system grows with the richness of the mixture, and the 
+direct injection system is approximately 20&percnt; greater at 
+the 
+theoretical air/fuel ratio. Thus we see that conversion to 
+direct injection more strongly affects the premature ignition 
+and abnormal combustion-determined operating threshold in 
+hydrogen RE, where this limit extends to richness close to the 
+theoretical air/fuel ratio. 
+  Figure 20 shows volumetric efficiency for an air-hydrogen 
+mixture versus engine speed under full loading. Conversion to 
+direct injection increases volumetric efficiency 20-30&percnt; 
+at all 
+speeds. The volumetric efficiency of a hydrogen-containing 
+mixture in a direct injection engine thus exceeds 100&percnt; at 
+2,000 
+rpm and above. 
+
+
+<FIG ID=JPRS-JST-003LC-29A>             Figure 19. Volumetric Efficiency vs. Excess Air Ratio </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-29B>             Figure 20. Volumetric Efficiency vs. Engine Revolution </FIG>
+
+
+
+
+  4.4 Heat Efficiency 
+  Figure 21 shows changes in net heat efficiency versus excess 
+air ratio (&lgr;) during wide open operation at 2,000 rpm. 
+Compared to the premix system, the net heat efficiency of the 
+direct injection system is seen to deteriorate roughly 2&percnt; 
+in 
+the lean region near &lgr;=2, and approximately 1&percnt; near 
+&lgr;=1. 
+These results are thought to show deteriorating combustion due 
+to conversion to direct injection. To compare practical heat 
+efficiency, Figure 22 shows changes in net heat efficiency 
+versus net mean effective pressure. The direct injection system 
+is somewhat worse than the premix system under low loading, but 
+conversely better under high loading. The reason is that the 
+direct injection system, with its high volumetric efficiency for 
+air, operates leaner than the premix system under an identical 
+load. We therefore feel that the decline in heat efficiency due 
+to richness becomes a benefit in the large range of high loading. 
+
+
+<FIG ID=JPRS-JST-003LC-29C>             Figure 21. Heat Efficiency vs. Excess Air Ratio </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-29D>             Figure 22. Heat Efficiency vs. Mean Effective Pressure </FIG>
+
+
+
+
+  4.5 Output Performance 
+  (1) Excess Air Ratio Characteristics 
+  Figure 23 shows changes in net mean effective pressure 
+versus 
+excess air ratio (&lgr;) during wide open operation at 2,000 rpm. 
+Net mean effective pressure peaks near &lgr;=1 for the premix 
+system and near &lgr;=0.8 for the direct injection system. The 
+excess air ratio (&lgr;) at which net mean effective pressure 
+peaks is thought to be affected mainly by volumetric efficiency, 
+air utilization, and thermal dissociation. In a premix system, 
+as shown in Figure 19, a decline in net mean effective pressure 
+at &lgr;&lt;1 is thought to result from a reduction in the 
+volumetric efficiency of air. Since there is no decline in the 
+volumetric efficiency of air at &lgr;&lt;1 in a direct injection 
+system, we felt that a rich mixture benefiting thermal 
+dissociation and air utilization would obtain peak values. In 
+results, we obtained a 28&percnt; higher output with the direct 
+injection system than the premix system at &lgr;=1, and 
+35&percnt; 
+higher at &lgr;=0.8. In conversion to direct injection under 
+these 
+conditions, there was likewise no occurrence of abnormal 
+combustion such as backfire and premature ignition, problematic 
+in hydrogen combustion in recipro engines. 
+
+
+<FIG ID=JPRS-JST-003LC-30A>             Figure 23. Mean Effective Pressure vs. Excess Air Ratio </FIG>
+
+
+
+
+  (2) Revolution Speed Characteristics 
+  Figure 24 shows the relationship of net mean effective 
+pressure to engine revolution speed during wide open operation 
+at the theoretical air/fuel ratio. As shown in Figure 20 on the 
+previous page, the volumetric efficiency of the entire mixture 
+in a direct injection system was highest, exceeding 100&percnt; 
+at 
+revolution speeds of 2,000 rpm and above and approaching 
+120&percnt; 
+at 6,000 rpm. This indicates that in engines adopting a fuel of 
+a low density gas akin to hydrogen, conversion to direct fuel 
+injection has an output-improving effect akin to that of 
+supercharged systems using turbochargers, etc. That supercharge 
+status is not achieved at 1,000 rpm is laid principally to the 
+fact that air port timing in this engine is designed for high 
+revolutions, and not enough air is taken in at low revolution 
+ranges to achieve supercharging. Thus supercharging may be made 
+possible at all revolution ranges if a variable timing air port 
+is subsequently developed and incorporates timing matched to low 
+revolution ranges. 
+  The above-discussed studies showed that volumetric 
+efficiency 
+is increased by conversion to direct injection, and as shown by 
+net mean effective pressure in Figure 24, that wide open output 
+is greatly improved. As a result, the 63&percnt; output of a 
+hydrogen 
+RE with a premix system, as compared to gasoline specifications, 
+was improved to 87&percnt; by a direct injection system, as 
+shown in 
+Figure 25. 
+
+
+<FIG ID=JPRS-JST-003LC-30B>             Figure 24. Mean Effective Pressure vs. Engine Revolution </FIG>
+
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-30C>             Figure 25. Comparison of Hydrogen Engine Output Performance </FIG>
+
+
+
+  4.6 Exhaust Gas Characteristics 
+  We ascertained that HC, CO, and CO&lt;inf&gt; 2&lt;/inf&gt;  produced by 
+the combustion of lubricating oil carried into combustion 
+chambers is a nearly constant, extremely low level of 1/100 or 
+less that of gasoline engines regardless of the excess air ratio 
+(&lgr;). Since a similar, dramatic reduction in CO&lt;inf&gt; 2&lt;/inf&gt;  in 
+particular is impossible as long as gasoline or other fossil 
+fuels are used, this is one of the most valuable benefits of 
+hydrogen engines. 
+  Conversely, characteristics similar to those with gasoline 
+engines were revealed for NOx, with an exhaust peak exhibited 
+near &lgr;=1 and sharp reductions on the lean and rich sides, as 
+shown in Figure 26. On the lean side, favorable for heat 
+efficiency, NOx decline to a near zero level soon after an 
+excess air ratio (&lgr;) of 1.6 is exceeded. In typical gasoline 
+engines, a practical operating threshold at these regions due to 
+unstable ignition and combustion, torque variation, and rapid 
+increase in HC and CO exhaust makes operation in lean regions of 
+very low NOx problematic. With hydrogen RE, however, there is no 
+risk whatsoever of increased HC and CO exhaust even in operation 
+at very lean regions, and the experiments described below 
+revealed that stable combustion can be maintained. 
+
+
+<FIG ID=JPRS-JST-003LC-31A>             Figure 26. NOx Exhaust Characteristics </FIG>
+
+
+
+
+  The relationship between the excess air ratio (&lgr;) and 
+combustion fluctuation rate was determined and the combustion 
+stability of a hydrogen RE evaluated under operating conditions 
+of 1,500 rpm and Pe=0.1 MPa. Combustion fluctuation 
+rates were determined through calculation by equation (1) using 
+pressure data measured within combustion chambers. 
+  CFR=&sgr;Pmax/PmaxM (1) 
+  CFR: combustion fluctuation rate 
+  &lt;sup&gt; &sgr;&lt;/sup&gt; max: standard deviation of Pmax 
+(350 cycles) 
+  PmaxM: mean of Pmax (350 
+cycles) 
+  As shown in Figure 27, the combustion fluctuation ratio 
+increases slightly as the excess air ratio (&lgr;) grows, there 
+is 
+no sudden deterioration as in a gasoline engine, and 
+commercially viable levels are achieved in a range of excess air 
+ratio 1.6 through 5.0. We believe that such ignition and 
+combustion stability in lean regions results from the fact that 
+hydrogen ignites very easily and burns quickly, as shown in 
+Table 1, Basic Properties of Hydrogen. Consequently, vehicles 
+equipped with hydrogen RE allow lean combustion with an excess 
+air ratio (&lgr;) of 1.6 or more over a broad operational range. 
+  Results of the above studies indicate that HC, CO and NOx 
+emissions may all be expected to reach very low levels in the 
+emissions of hydrogen RE-equipped vehicles. 
+  Figure 28 shows a comparison of NOx exhaust characteristics 
+in a premix and a direct injection system. Peak NOx values were 
+approximately 30&percnt; higher for the premix system, but NOx 
+exhaust 
+was somewhat greater for the direct injection system on the lean 
+side and the rich side, where exhaust quantity was minimal. We 
+believe that this narrowing of differences in NOx exhaust 
+quantity versus excess air ratio (&lgr;) after conversion to 
+direct injection results from increased non-uniformity of the 
+excess air ratio within combustion chambers due to incomplete 
+mixing. 
+
+
+<FIG ID=JPRS-JST-003LC-31B>             Figure 27. Combustion Fluctuation Rate vs. Excess Air Ratio </FIG>
+
+
+
+
+
+
+<FIG ID=JPRS-JST-003LC-31C>             Figure 28. NOx Exhaust Characteristics By Injection System </FIG>
+
+
+
+
+
+<H5>    5. Conclusion </H5>
+  Here we summarize the benefits held by RE when hydrogen is 
+adopted as an automobile fuel. 
+  (1) RE have a structure suited to hydrogen combustion and 
+allow prevention of abnormal combustion through the mere use of 
+spark plugs with a high heating value for operation at the 
+theoretical air/fuel ratio. 
+  (2) Wide open output can be increased 20-30&percnt; by 
+conversion 
+to direct hydrogen injection. A direct injection system hydrogen 
+RE can thereby provide approximately 90&percnt; of gasoline RE 
+output. 
+  (3) HC CO, and CO&lt;inf&gt; 2&lt;/inf&gt;  quantities in hydrogen RE 
+emissions are all extremely small. NOx are also minute in lean 
+combustion, and automobiles with quite minimal exhaust can be 
+produced through fine control of the air/fuel ratio during 
+operation. 
+  The results of our investigations have shown that fine fuel 
+control, methods for mixing hydrogen and air, and other 
+unrealized improvements to gas fuel for hydrogen RE hold 
+adequate performance for automobile engines supporting a 
+hydrogen-using society of the 21st century. 
+References 
+  1) R. Wurster et al.: The EURO-QUEBEC Hydro-Hydrogen Pilot 
+Project EQHHPP, 8th WHEC, p. 59 (1990) 
+  2) Furuhama et. al.: Suiso Engine No Nensho Tokusei, Jidosha 
+Gijutsukai Ronbunshu, No. 6, p. 12 (1973) 
+  3) K. Feucht et al.: Hydrogen Drive for Road Vehicles. 
+Results from the Fleet Test Run in Berlin, 6th WHEC, p. 1145 
+(1986) 
+  4) J. Hama et al.: Hydrogen-Powered Vehicle with Metal 
+Hydride Storage and D.I.S. Engine System, SAE Paper 880036 
+  5) S. Furuhama et al.: High Output Power Hydrogen Engine 
+with 
+High Pressure Fuel Injection Hot Surface Ignition and 
+Turbo-Charging, 5th WHEC, p. 1493 (1984) 
+
+</TEXT>
+
+</DOC>

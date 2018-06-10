@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<case>
+<name>American Express International Inc v Commissioner of Taxation [2009] FCA 683 (19 June 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/683.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">goods and services tax</catchphrase>
+<catchphrase "id=c1">charges for late payments under charge card and credit card facilities</catchphrase>
+<catchphrase "id=c2">whether there was a relevant supply of an interest</catchphrase>
+<catchphrase "id=c3">whether such charges are consideration in connection with a financial supply</catchphrase>
+<catchphrase "id=c4">whether charge card and credit card facilities are payment systems within the meaning of r 40-5.12 of the a new tax system (goods and services tax) regulations 1999 (cth)</catchphrase>
+<catchphrase "id=c5">penalties</catchphrase>
+<catchphrase "id=c6">whether failure to comply with a taxation law</catchphrase>
+<catchphrase "id=c7">whether failure to take reasonable care to comply with a taxation law</catchphrase>
+<catchphrase "id=c8">taxation</catchphrase>
+<catchphrase "id=c9">taxation</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ These two proceedings are concerned with the effect of the A New Tax System (Goods and Services Tax) Act 1999 (Cth) ( the GST Act ).</sentence>
+<sentence id="s1">The question is whether payments made by the holders of credit cards and charge cards to the issuers of such cards, following default by the holders, constitute consideration for a " financial supply " within the meaning of s 40-5 of the GST Act and r 40-5.09(1) of the A New Tax System (Goods and Services Tax) Regulations 1999 (Cth) ( the GST Regulations ).</sentence>
+<sentence id="s2">The two proceedings raise the same issue in respect of different applicants during different periods of time.</sentence>
+<sentence id="s3">The applicant in proceeding NSD 216 of 2007 is American Express International Inc ( Amex ) and the applicant in proceeding NSD 219 of 2007 is American Express Wholesale Currency Services Pty Limited ( Amex Wholesale ).</sentence>
+<sentence id="s4">Amex and Amex Wholesale are related.</sentence>
+<sentence id="s5">The position of each applicant is relevantly the same in relation to the question of financial supply.</sentence>
+<sentence id="s6">However, the imposition of a penalty under the Taxation Administration Act 1953 (Cth) ( the Administration Act ) is also in question in the second proceeding.</sentence>
+<sentence id="s7">Pursuant to Charge Card Facilities, each of Amex and Amex Wholesale issues charge cards to persons who satisfy various risk criteria and provide evidence, satisfactory to the card issuer, of capacity to settle accounts in full on the due date.</sentence>
+<sentence id="s8">The holder of such a charge card becomes bound by certain terms and conditions ( the Charge Card Terms and Conditions ).</sentence>
+<sentence id="s9">In addition, pursuant to Credit Card Facilities, each of Amex and Amex Wholesale issues credit cards to persons whom they assess to be suitable to be issued with a credit card.</sentence>
+<sentence id="s10">The holder of the credit card becomes bound by certain terms and conditions ( the Credit Card Terms and Conditions ).</sentence>
+<sentence id="s11">The holders of charge cards and credit cards issued by Amex or Amex Wholesale use the cards to acquire goods or services from those merchants who agree with Amex or Amex Wholesale to accept the cards.</sentence>
+<sentence id="s12">The merchant and the card issuer are also parties to certain terms and conditions ( the Merchant Terms and Conditions ).</sentence>
+<sentence id="s13">By the Charge Card Terms and Conditions, the charge card holder agrees to pay to the card issuer, Amex or Amex Wholesale as the case may be, the full amount of the closing balance shown in each monthly statement given by the card issuer to the card holder.</sentence>
+<sentence id="s14">Payments are due and payable by the card holder immediately upon receipt of the monthly statement.</sentence>
+<sentence id="s15">The card holder also agrees that, if the card issuer does not receive full payment of the new charges billed on the monthly statement, the card issuer may charge the card holder a fee, described as " liquidated damages ", which is to be included in subsequent monthly statements.</sentence>
+<sentence id="s16">By the Credit Card Terms and Conditions, the credit card holder agrees to pay to the card issuer, Amex or Amex Wholesale as the case may be, the fees and charges shown in the Credit Card Terms and Conditions and authorises the card issuer to debit those fees and charges to the credit card holder's account when they are due for payment.</sentence>
+<sentence id="s17">The credit card holder also agrees to pay to the card issuer the minimum payment shown in each monthly statement, calculated as set out in the Credit Card Terms and Conditions.</sentence>
+<sentence id="s18">The Credit Card Terms and Conditions provide that the amount of the minimum payment is due for payment on the date shown in the credit card holder's monthly statement and that failure to pay an amount when due may be a default.</sentence>
+<sentence id="s19">A fee, described as " late payment fee ", is payable by a credit card holder if that card holder does not pay the minimum payment by the due date for payment as shown in the monthly statement.</sentence>
+<sentence id="s20">In calculating liability for tax for the purposes of the GST Act, for the periods relevant to the proceedings, Amex and Amex Wholesale treated the revenue from the liquidated damages and the late payment fees described above (together Fee Payments ) in a particular way, to which I shall refer below.</sentence>
+<sentence id="s21">On 13 April 2006, following an audit of the affairs of Amex and Amex Wholesale, the respondent, the Commissioner of Taxation ( the Commissioner ), issued notices of assessment to each of Amex and Amex Wholesale, pursuant to s 22(1) of the Administration Act, as then in force.</sentence>
+<sentence id="s22">The assessments increased the net amounts as returned by Amex for the relevant periods by the sum of $222,732 and the net amounts as returned by Amex Wholesale for the relevant periods by the sum of $7,728,907.</sentence>
+<sentence id="s23">By notice dated 27 April 2006 addressed to Amex Wholesale, the Commissioner also assessed Amex Wholesale to penalties totalling $290,919.80.</sentence>
+<sentence id="s24">By notices of objection dated 8 June 2006, Amex and Amex Wholesale objected to the respective assessments addressed to them.</sentence>
+<sentence id="s25">On 21 December 2006, the Commissioner disallowed the objections.</sentence>
+<sentence id="s26">By applications filed on 15 February 2007, Amex and Amex Wholesale appealed to the Federal Court of Australia against the respective objection decisions relating to it.</sentence>
+<sentence id="s27">Resolution of the substantive questions in issue requires an analysis of the contractual schemes that underlie the Charge Card Facility and the Credit Card Facility provided by Amex and Amex Wholesale to card holders.</sentence>
+<sentence id="s28">It will then be necessary to say something about the statutory framework under which the questions in issue arise.</sentence>
+<sentence id="s29">THE FACILITIES IN QUESTION 
+ The Charge Card Facility is different from the Credit Card Facility, although aspects of the Credit Card Facility are similar to aspects of the Charge Card Facility.</sentence>
+<sentence id="s30">It is nevertheless desirable to deal with each separately.</sentence>
+<sentence id="s31">The Charge Card Facility
+ The Charge Card Facility involves three separate bilateral contracts, each of which is separate and independent from the others (see American Express International Inc v Commissioner of State Revenue (2004) 10 VR 145 at [3] ( the American Express Case )).</sentence>
+<sentence id="s32">The parties to the three contracts are the card issuer, the card holder and the merchant.</sentence>
+<sentence id="s33">The three contracts are as follows: Between the card issuer and the merchant; Between the card issuer and the card holder; Between the merchant and the card holder.</sentence>
+<sentence id="s34">
+The Commissioner accepts that there are separate and independent contracts and that the three independent bilateral contracts do not form part of a single tripartite arrangement.</sentence>
+<sentence id="s35">The terms of the contract between the card issuer and the merchant are to be found in the Merchant Terms and Conditions.</sentence>
+<sentence id="s36">The essential terms may be summarised as follows: The terms of the contract between the card issuer and the card holder are to be found in the Charge Card Terms and Conditions.</sentence>
+<sentence id="s37">The essential terms can be summarised as follows: The essential terms of the contract between the merchant and the cardholder may be summarised as follows: The merchant agrees to supply goods or provide services to the cardholder for a price; The merchant agrees that the obligation to pay the price may be discharged by the production of the card and the signing of a record of charge form; The transaction between the merchant and the cardholder is complete at the time when the goods are supplied or the services are provided and the cardholder has no continuing liability or obligation to the merchant in respect of the price for the goods or services (see In Re Charge Card Services Limited [1989] 1 Ch 497).</sentence>
+<sentence id="s38">The Credit Card Facility
+ A similar analysis applies in relation to the Credit Card Facility.</sentence>
+<sentence id="s39">That is to say, when a credit card holder uses a credit card to acquire goods or services from a merchant, there are three separate contracts involving the same three parties as for the Charge Card Facility.</sentence>
+<sentence id="s40">As between the card issuer and the merchant and as between the merchant and the card holder, the analysis is the same as for the Charge Card Facility.</sentence>
+<sentence id="s41">However, there is a difference in relation to the contract as between the card holder and the card issuer.</sentence>
+<sentence id="s42">The difference is that, under the Charge Card Facility, the card holder must pay in full the balance shown on the monthly statement upon receipt of the statement from the card issuer, or within a short time after receipt of the statement.</sentence>
+<sentence id="s43">However, under the Credit Card Facility, the card holder has the option of paying the amount of the minimum payment or such further amount as the card holder chooses.</sentence>
+<sentence id="s44">The card holder then becomes liable to pay to the card issuer interest on the balance of the account outstanding from time to time under and in accordance with the provisions of the Credit Card Terms and Conditions.</sentence>
+<sentence id="s45">So long as the card holder pays at least the minimum amount, there is no breach of the Credit Card Terms and Conditions.</sentence>
+<sentence id="s46">STATUTORY FRAMEWORK 
+ Under s 9-40 of the GST Act, a person must pay the goods and services tax ( GST ) payable on any taxable supply that the person makes.</sentence>
+<sentence id="s47">Under s 9-5, a person makes a taxable supply, relevantly, if the person makes a supply for consideration and the supply is made in the course or furtherance of an enterprise that the person carries on.</sentence>
+<sentence id="s48">Under s 9-10, a supply is any form of supply whatsoever.</sentence>
+<sentence id="s49">Under s 195-1, consideration , for a supply or acquisition, means any consideration, within the meaning given by s 9-15, in connection with the supply or acquisition.</sentence>
+<sentence id="s50">Section 9-15(1) provides that consideration includes: any payment, or any act or forbearance, in connection with a supply of anything; and any payment, or any act or forbearance, in response to or for the inducement of a supply of anything.</sentence>
+<sentence id="s51">
+Under s 9-15(2), it does not matter whether the payment, act or forbearance was voluntary, or whether it was by the recipient of the supply.</sentence>
+<sentence id="s52">Further, under s 9-15(2A), it does not matter whether the payment, act or forbearance was in compliance with an order of a court or in compliance with a settlement relating to proceedings before a court.</sentence>
+<sentence id="s53">Under s 11-20 of the GST Act, a person is entitled to the input tax credit for any creditable acquisition that the person makes.</sentence>
+<sentence id="s54">Under s 11-25, the amount of the input tax credit for a creditable acquisition is an amount equal to the GST payable on the supply of the thing acquired.</sentence>
+<sentence id="s55">Under s 11-5, a person makes a creditable acquisition if the person acquires anything solely or partly for a creditable purpose , the supply of the thing to the person is a taxable supply and the person provides, or is liable to provide, consideration for the supply.</sentence>
+<sentence id="s56">Under s 11-15(1), a person acquires a thing for a creditable purpose to the extent that the person acquires it in carrying on the person's enterprise.</sentence>
+<sentence id="s57">However, under s 11-15(2), a person does not acquire the thing for a creditable purpose to the extent that the acquisition relates to making supplies that would be input taxed .</sentence>
+<sentence id="s58">However, the amount of the input tax credit is reduced if the acquisition is only partly creditable .</sentence>
+<sentence id="s59">Under s 11-30(1) of the GST Act, an acquisition that a person makes is partly creditable if it is a creditable acquisition to which one or both of the following apply: the person makes the acquisition only partly for a creditable purpose, or the person provides, or is liable to provide, only part of the consideration for the acquisition.</sentence>
+<sentence id="s60">
+Section 11-30(3) sets out a method for calculating the amount of the input tax credit on an acquisition that a person makes that is partly creditable.</sentence>
+<sentence id="s61">Section 9-30(2) relevantly provides that a supply is input taxed if it is input taxed under Division 40.</sentence>
+<sentence id="s62">Under s 40-5, which is in Division 40, a financial supply is input taxed.</sentence>
+<sentence id="s63">Financial supply has the meaning given by Division 40 of the GST Regulations.</sentence>
+<sentence id="s64">Regulation 40-5.09(1) relevantly provides that the provision, acquisition or disposal of an interest mentioned in r 40-5.09(3) is a financial supply if: Regulation 40-5.02 provides that an interest is anything that is recognised at law or in equity as property in any form.</sentence>
+<sentence id="s65">Under Item 2 in the table in r 40-5.09(3), the interest referred to in r 40-5.09(1) includes an interest in or under a debt, credit arrangement or right to credit .</sentence>
+<sentence id="s66">Regulation 40-5.06(1) provides that an entity, in relation to the supply of an interest that was: immediately before the supply, the property of the entity, or created by the entity in making the supply, 
+is the financial supply provider of the interest.</sentence>
+<sentence id="s67">Regulation 40-5.06(2) provides that the entity that acquires that interest is also the financial supply provider of the interest.</sentence>
+<sentence id="s68">Schedule 7 to the GST Regulations sets out examples of financial supply.</sentence>
+<sentence id="s69">In Item 2 in Part 2 of Schedule 7, the following are given as examples of a debt, credit arrangement or right to credit , within r 40-5.09(3): opening, keeping, operating, maintaining and closing charge and credit card facilities, supply of credit cards 
+In the dictionary in the GST Regulations:
+ However, r 40-5.12 specifies certain supplies that are not financial supplies.</sentence>
+<sentence id="s70">Under Item 4 in r 40-5.12, the supply of something, or an interest in or under something, that is a payment system is not a financial supply.</sentence>
+<sentence id="s71">In the dictionary to the GST Regulations, payment system is defined as a funds transfer system that facilitates the circulation of money, including any procedures that relate to the system.</sentence>
+<sentence id="s72">THE PRIMARY ISSUES 
+ The primary issues in both proceedings arise in the context of the contention by Amex and Amex Wholesale that they are entitled to input tax credits in respect of creditable acquisitions.</sentence>
+<sentence id="s73">However, they are only entitled to a credit for a proportion of the GST imbedded in creditable acquisitions that have been made.</sentence>
+<sentence id="s74">The relevant acquisitions made by Amex and Amex Wholesale are only partly for creditable purposes and the amount of the credit to which they are entitled will depend upon the calculation of the extent of the creditable purpose under s 11-30(3).</sentence>
+<sentence id="s75">In calculating claims for input tax credits, Amex and Amex Wholesale use a formula to calculate the extent of the creditable purpose.</sentence>
+<sentence id="s76">The Commissioner accepts that the formula used by them is in accordance with s 11-30(3).</sentence>
+<sentence id="s77">The formula used is as follows: 
+
+The Commissioner contends that the Fee Payments should be included in both the numerator and the denominator of the fraction in that formula.</sentence>
+<sentence id="s78">However, Amex and Amex Wholesale contend that the Fee Payments should only be included in the denominator, thereby increasing the extent of the creditable purpose.</sentence>
+<sentence id="s79">The Commissioner contends that the Fee Payments are made in connection with a supply of an interest in a debt, a credit arrangement or a right to credit and are therefore consideration for a financial supply.</sentence>
+<sentence id="s80">Amex and Amex Wholesale dispute that contention and say that they are payments made as a consequence of default by the card holder.</sentence>
+<sentence id="s81">Alternatively, they rely on the exception relating to payment systems.</sentence>
+<sentence id="s82">Thus, the primary issues raised in the proceedings are as follows: whether the Fee Payments are consideration for a supply of an interest by the relevant card issuer; and if so, whether any supply was not a financial supply, because it was the supply of something, or an interest in or under something, that is a payment system.</sentence>
+<sentence id="s83">Consideration for a Supply of an Interest
+ The first question is whether there is a provision or an acquisition or a disposal of an interest, being something that is recognised as property.</sentence>
+<sentence id="s84">Assuming there is a provision, an acquisition or a disposal of an interest, the second question is whether the Fee Payments are consideration payable in connection with that provision, acquisition or disposal.</sentence>
+<sentence id="s85">Supply of an Interest
+ By r 40-5.02, the word interest includes anything that is recognised as property in any form.</sentence>
+<sentence id="s86">However, r 40-5.09 makes clear that an interest must be something that is capable of being provided, acquired or disposed of.</sentence>
+<sentence id="s87">Further, the effect of r 40-5.06 is that an interest must be capable of either being property of an entity that supplies the interest or must be capable of being created by an entity in making the supply.</sentence>
+<sentence id="s88">The Commissioner contends that, under the Charge Card Facility and under the Credit Card Facility, there is a supply of an interest in or under a credit arrangement or right to credit.</sentence>
+<sentence id="s89">MERCHANT AND CARD HOLDER
+ As between the merchant and the card holder, there is no question of credit.</sentence>
+<sentence id="s90">In the ordinary course, the transaction between merchant and cardholder will be one whereby the card holder agrees to pay a price to the merchant in exchange for supply of goods or the provision of services.</sentence>
+<sentence id="s91">In each case, the price is fixed in money.</sentence>
+<sentence id="s92">The contract between the merchant and the card holder would normally be concluded and performed at the same time, by the supply of the goods or provision of the services to the card holder, in exchange for the signature of a record of charge form.</sentence>
+<sentence id="s93">Alternatively, there could be an executory contract between card holder and merchant for the sale of the goods or the provision of the services, for the price agreed.</sentence>
+<sentence id="s94">The card holder and the merchant will each have obligations that are interdependent.</sentence>
+<sentence id="s95">In such a case, at a point in time after the making of the contract, the obligation of the cardholder to pay the price is performed by the production of the card and the signature of a record of charge form; the merchant's obligation is performed by the supply of the goods or the provision of the services.</sentence>
+<sentence id="s96">The contract between the merchant and the cardholder will then be fully executed.</sentence>
+<sentence id="s97">There could, of course, be circumstances where the discharge of the price is effected in advance of the supply of the goods or the provision of the services, and vice versa .</sentence>
+<sentence id="s98">In every case, however, the obligation of the cardholder to pay the price is extinguished by the production of the card and the signing of the record of charge form.</sentence>
+<sentence id="s99">In no sense could it be said that the merchant gives credit to the cardholder.</sentence>
+<sentence id="s100">On the other hand, if the merchant, rather than requiring production of the card and the signature of the record of charge form by the cardholder, permitted the cardholder to have goods or services without requiring immediate payment, a debt may arise in respect of the price and there may be a credit arrangement or there may be a right to credit.</sentence>
+<sentence id="s101">However, by definition, no such debt, credit arrangement or right to credit arises as between merchant and cardholder when the price is paid on the due date, by means of the card.</sentence>
+<sentence id="s102">MERCHANT AND CARD ISSUER
+ Further, there can be no suggestion that there is a credit arrangement or a right to credit as between the merchant and the card issuer.</sentence>
+<sentence id="s103">The contract between the merchant and the card issuer is that, at the agreed time, the card issuer will make a payment to the merchant of the amount of the price for which the merchant supplied goods or provided services to the cardholder, less the merchant fee.</sentence>
+<sentence id="s104">CARD ISSUER AND CARD HOLDER
+ In so far as a fee is paid to establish a facility between card holder and card issuer, the fee would be consideration for the supply of the credit card.</sentence>
+<sentence id="s105">Further, an annual fee payable by a card holder to the card issuer as consideration for the rights conferred on the cardholder under the Charge Card Terms and Conditions or the Credit Card Terms and Conditions would be consideration in connection with the operating or maintaining of the facility.</sentence>
+<sentence id="s106">Clearly enough, in the case of the Credit Card Facility, there will be a credit arrangement or a right to credit in relation to the deferral, after the due date for payment of the minimum amount, of the payment of the balance after payment of the minimum amount.</sentence>
+<sentence id="s107">As I have said, there is no issue about the payment of interest in relation to that deferral, which would be consideration in connection with the operation of the credit card facility.</sentence>
+<sentence id="s108">When the card holder discharges the obligation to pay the price for goods supplied or services provided by the merchant, by means of producing the card and signing the record of charge form, the card holder obtains an advantage.</sentence>
+<sentence id="s109">That is to say, the card holder is not required to pay any amount to the card issuer until the due date shown in the monthly statement.</sentence>
+<sentence id="s110">The advantage derived by the card holder is that the card holder has the benefit of the goods or services from the merchant without having to part with any money until that due date.</sentence>
+<sentence id="s111">The Commissioner contends that, under both the Charge Card Facility and the Credit Card Facility, the card holder is afforded credit, because the card holder is not required to make immediate payment for the goods supplied or the services provided to the cardholder by the merchant.</sentence>
+<sentence id="s112">The Commissioner says that, in the understanding of business people and people of commerce, the period, from the time of the supply of goods or the provision of services to the time when a payment is required to be made, would be regarded as a period of credit for the card holder.</sentence>
+<sentence id="s113">The Commissioner says that the card issuer offers a service whereby the card holder can settle a debt with the merchant unconditionally yet can defer payment for a period thereafter.</sentence>
+<sentence id="s114">The card holder pays a fee for that service, as well as interest under the Credit Card Facility, and only pays more, by way of the Fee Payments, if full payment is not made by the required date in the case of a Charge Card Facility or the minimum amount is not paid by the required date in the case of a Credit Card Facility.</sentence>
+<sentence id="s115">The merchant, on the other hand, receives the service of assuring payment that is offered by the card issuer and is willing to pay the merchant fee in return for that service.</sentence>
+<sentence id="s116">The Commissioner says that, from the point of view of the card issuer, the service provided by it is a commercial opportunity to profit both from the card holder and from the merchant.</sentence>
+<sentence id="s117">In doing so, the card issuer assumes a debt obligation to the merchant, which is balanced by the assumption by the card holder of a debt obligation to the card issuer.</sentence>
+<sentence id="s118">In that way, the Commissioner says, the card holder gets credit in the form of time to make a payment in respect of the acquisition of goods or services from the merchant.</sentence>
+<sentence id="s119">By using the card, the cardholder minimises the need to carry cash and obtains at least a period of " free credit " until payment is due to the charge card issuer or the minimum payment is due to the credit card issuer (see In Re Charge Card Services [1989] Ch 497 at 509G).</sentence>
+<sentence id="s120">The examples of financial supply given in Part 2 of Schedule 7 include opening, keeping, operating, maintaining and closing a charge card facility or a credit card facility.</sentence>
+<sentence id="s121">Another example is the supply of a credit card.</sentence>
+<sentence id="s122">The Commissioner says that it is to be inferred, from the fact that a reduced input tax credit is available under r 70-5.02 for " processing, settling, clearing and switching... charge, credit and debit card transactions ", that, for the purposes of the GST Act, the interest that the card issuer supplies to a card holder is a supply under a credit arrangement.</sentence>
+<sentence id="s123">The Commissioner contends that the card holder, by granting to the card issuer an interest in the cardholder's debt, places the card issuer in the position of making an acquisition supply of such an interest and therefore of making a financial supply.</sentence>
+<sentence id="s124">A debt owing by the card holder to the card issuer will be created at some point in the course of the process described above.</sentence>
+<sentence id="s125">No later than the time when the card issuer forwards a monthly statement to the card holder, a debt will exist.</sentence>
+<sentence id="s126">Indeed, it may be that the debt is created at the time when the merchant submits a charge to the card issuer, thereby creating an entitlement, on the part of the card issuer, to debit the account of the card holder with the amount of the charge.</sentence>
+<sentence id="s127">On the other hand, the debt that is then created will not be payable until the time when the card issuer forwards the monthly statement to the card holder.</sentence>
+<sentence id="s128">In a commercial context, credit is trust or confidence in a buyer's ability and intention to pay at some future time, exhibited by entrusting the buyer with goods or services without requiring present payment in return (see OED Definition 9a).</sentence>
+<sentence id="s129">Similarly, a person may have a reputation of solvency and probity, such that a supplier of goods or provider of services might be prepared to trust that person with the goods or services without payment, in the expectation that payment will be made in the future.</sentence>
+<sentence id="s130">Alternatively, a person's reputation of solvency and probity may be such that a person will be trusted with money in the expectation that the money will be repaid in the future (see OED Definition 9b).</sentence>
+<sentence id="s131">Again, a sum of money placed at a person's disposal in the books of another person, such as a banker, against which that person may draw to the extent of the amount might constitute a credit (OED Definition 10a).</sentence>
+<sentence id="s132">Each of those cases might involve a credit arrangement or right to credit.</sentence>
+<sentence id="s133">Thus, credit entails the giving of time to pay a financial obligation or forbearance in respect of payment of an obligation, or an arrangement under which money is payable where time to pay that money or some part of it has been deferred, the forbearance carrying interest or attracting a payment of consideration for that benefit from the debtor.</sentence>
+<sentence id="s134">A vendor who agrees to accept his price by instalments can fairly be said to be giving credit.</sentence>
+<sentence id="s135">On the other hand, a loan is not relevantly the giving of credit, even if it is obtained as an alternative to seeking deferment of the payment of the price of goods.</sentence>
+<sentence id="s136">A bank affording overdraft accommodation to enable goods to be purchased does not give credit to the customer (see UG Insurances Pty Ltd v Commissioner of Stamp Duties for the State of New South Wales [1973] HCA 31 ; (1973) 128 CLR 353 at 360).</sentence>
+<sentence id="s137">Upon the supply of goods or provision of services by a merchant to a card holder, by use of a charge card or credit card, the merchant accepts the obligation of the card issuer in full satisfaction of any obligation of the cardholder to pay the price.</sentence>
+<sentence id="s138">The card holder becomes indebted to the card issuer, pursuant to Credit Card Terms and Conditions or the Charge Card Terms and Conditions, for the relevant amount shown in the monthly statement sent by the card issuer to the cardholder upon receipt of the monthly statement.</sentence>
+<sentence id="s139">The contract between the card issuer and the card holder is not for the provision of credit by deferring the obligation of the cardholder to pay the card issuer.</sentence>
+<sentence id="s140">The debt that is discharged by the payment made by the card issuer to the merchant is the debt of the card issuer.</sentence>
+<sentence id="s141">It is not a debt of the card holder to the merchant, since the liability of the card holder to the merchant to pay the price is extinguished when the merchant accepts the card and the signature of the record of charge form as the method of paying the price.</sentence>
+<sentence id="s142">The card holder assumes a direct liability to the card issuer for the charges that appear on the monthly statement, although those amounts will differ from the amount actually paid to the merchant by the card issuer, after deducting the merchant fee.</sentence>
+<sentence id="s143">The Credit Card Terms and Conditions and the Charge Card Terms and Conditions contain no provision for any advance to or on behalf of the card holder by the card issuer (see American Express Case at [17]).</sentence>
+<sentence id="s144">A short period of grace may be allowed before the card holder is regarded as being in default under the Charge Card Terms and Conditions or the Credit Card Terms and Conditions.</sentence>
+<sentence id="s145">However, the obligation to pay is fixed by the contract between the card holder and the card issuer.</sentence>
+<sentence id="s146">The terms of that contract give the card holder a reasonable opportunity to make payment before the card holder is in default and before the card holder becomes liable to pay one or other of the Fee Payments.</sentence>
+<sentence id="s147">However, there is no forbearance by the card issuer to require payment of money owing.</sentence>
+<sentence id="s148">There is, from the outset, an agreement between the card issuer and the card holder as to the time for payment.</sentence>
+<sentence id="s149">The card issuer does not exercise any forbearance.</sentence>
+<sentence id="s150">The contract between the card issuer and the card holder is not one under which the obligation of the card holder to pay an amount to the card issuer is deferred.</sentence>
+<sentence id="s151">Accordingly, there is no credit arrangement (see American Express case at [18] and [21] and Prime Wheat Association Limited v Chief Commissioner of Stamp Duties (1997) 42 NSWLR 505 at 512).</sentence>
+<sentence id="s152">The Commissioner contends that the legislative history of the relevant provisions indicates a legislative intention that the Fee Payments should be treated as consideration for a financial supply.</sentence>
+<sentence id="s153">In the original form in which s 40-5 of the GST Act was introduced into the Parliament on 2 December 1998, the section provided for the making of regulations to define the treatment of financial services.</sentence>
+<sentence id="s154">A table to s 40-5(2) in its original form contained an exhaustive list of financial supplies.</sentence>
+<sentence id="s155">Under that, charge cards were covered by Item 1 as dealing with money, including: lending or borrowing money, creating or transferring a debt or an interest in a debt, and making any advance or granting credit.</sentence>
+<sentence id="s156">
+Item 12 in that table included incidental supplies, amongst others, as supplies of anything directly in connection with a supply covered by Item 1, but only if the same supplier made both the supply incidental to the supply in Item 12 and the supply in Item 1.</sentence>
+<sentence id="s157">Thus, the supplier of a credit facility could include a number of incidental things apart from the provision of an interest in a credit arrangement or debt.</sentence>
+<sentence id="s158">Para 5.143 of the explanatory memorandum circulated in connection with the original form of the GST Act contained a number of examples of the activities intended to be covered by Item 1.</sentence>
+<sentence id="s159">An example that deals with lending was as follows: 
+ Unauthorised borrowing, interest and charges, including charges for overdrawn accounts and demands for repayment.</sentence>
+<sentence id="s160">
+
+ 
+The Commissioner draws attention to the words " and charges " in that example.</sentence>
+<sentence id="s161">He says that the word charges is broad enough to cover the Fee Payments and that the clear intention of the Parliament was that payments such as the Fee Payments were simply an aspect of a lending arrangement being a financial supply.</sentence>
+<sentence id="s162">Before commencement of the GST Act, the provisions were repealed and replaced with the provisions described above.</sentence>
+<sentence id="s163">The Commissioner says, however, that the provisions that were enacted should be construed to the same intent as the repealed provision.</sentence>
+<sentence id="s164">I do not consider that the legislative history bears on the construction of the words of the relevant provisions as they were actually enacted.</sentence>
+<sentence id="s165">In complex and technical taxation legislation such as the GST Act, only the words actually used must be given effect.</sentence>
+<sentence id="s166">There will be no credit, in the relevant sense, arising under either the Charge Card Facility or the Credit Card Facility by reason only of the benefit derived by a card holder in deferring, by use of a card, the time when the card holder must part with money, in some form, in respect of the supply of goods or the provision of services by a merchant.</sentence>
+<sentence id="s167">In Connection With
+ The question is whether the Fee Payments can be said to be payments in connection with the credit arrangement or right to credit arising under the Credit Card Facility.</sentence>
+<sentence id="s168">The interest on the balance of the account from time to time outstanding after the due date for payment of the minimum amount is clearly a payment in connection with that credit arrangement or right to credit.</sentence>
+<sentence id="s169">There is no dispute as to the appropriate treatment of those payments.</sentence>
+<sentence id="s170">The question is whether, if there is a credit arrangement or right to credit as between the card holder and the card issuer, the Fee Payments can be said to be in connection with the supply of such a credit arrangement or right to credit.</sentence>
+<sentence id="s171">Alternatively, the question is whether the Fee Payments are made in connection with a supply of a debt.</sentence>
+<sentence id="s172">In the case of a charge card, the card holder pays consideration to the card issuer, by way of an annual fee, for the acceptance by the card issuer of the card holder as a debtor each month, without further charge, if payment is made on time.</sentence>
+<sentence id="s173">The Commissioner would characterise the Fee Payments as being referrable to a supply, or an additional supply, of a credit arrangement, debt or right to credit, as part of the pre-existing commercial relationship between the card holder and the card issuer.</sentence>
+<sentence id="s174">He says that, since there is a pre-existing commercial relationship between the card issuer and the card holder, the Fee Payments are consideration, or further consideration, for something that has been provided in the course of that relationship, namely, the supply of a credit arrangement, debt or right to credit that had already been effected.</sentence>
+<sentence id="s175">The Commissioner says that Fee Payments are routinely and predictably paid in connection with the Charge Card Facilities and Credit Card Facilities.</sentence>
+<sentence id="s176">The evidence demonstrates that they represent a not insignificant part of the revenue of Amex and Amex Wholesale.</sentence>
+<sentence id="s177">The Commissioner says, therefore, that they are consideration for a financial supply in the context of the commercial relationship that obtains between card issuer and card holder.</sentence>
+<sentence id="s178">The Commissioner contends that the Fee Payments would be regarded in commerce as related to the supply of the credit arrangement, debt or right to credit.</sentence>
+<sentence id="s179">He says that their character is inexplicably linked to the supply that is made by the card issuer to the card holder.</sentence>
+<sentence id="s180">The phrase in connection with signifies, in its broadest sense, any relationship between two subject matters, no matter how remote.</sentence>
+<sentence id="s181">The phrase is capable of describing a spectrum of relationships ranging from the direct and immediate to the tenuous and remote (see Commissioner of Taxation v Amway of Australia Limited [2004] FCAFC 273 ; (2004) 141 FCR 40 at [65] and Collector of Customers v Pozzolanic Enterprises Pty Limited [1993] FCA 456 ; (1993) 43 FCR 280 at 288).</sentence>
+<sentence id="s182">However, while the obligation to make Fee Payments to a card issuer would not arise unless there was the Credit Card Facility or Charge Card Facility in place between the card holder and the card issuer, the liability to make the Fee Payments arises because the card holder has failed to perform that card holder's obligations under the Credit Card Terms and Conditions or the Charge Card Terms and Conditions, as the case may be.</sentence>
+<sentence id="s183">They are not consideration in connection with opening, keeping, operating, maintaining or closing the relevant facility.</sentence>
+<sentence id="s184">A card holder becomes liable to make the Fee Payment only because that card holder has failed to discharge, that is, has breached, the card holder's contractual obligations under the relevant facility.</sentence>
+<sentence id="s185">The " liquidated damages " that become payable as a consequence of failure to pay, when due, the debt created upon a charge being debited to the card holder's account, is not consideration in connection with the provision, acquisition or disposal of that debt.</sentence>
+<sentence id="s186">The primary obligation of the cardholder is to pay the debt when due.</sentence>
+<sentence id="s187">The agreement to compensate the card issuer for the card holder's failure to perform the contractual obligation is the result of a novus actus interveniens , being the breach by the card holder of the contractual obligation under the Charge Card Terms and Conditions.</sentence>
+<sentence id="s188">The Credit Card Facility clearly involves a credit arrangement as between card holder and card issuer, in that the Credit Card Terms and Conditions involves the provision of credit to the card holder in respect of the discharge of the amounts shown on the monthly statement over and above the minimum payment.</sentence>
+<sentence id="s189">However, the failure to pay the amount of the minimum payment is a breach of the terms of that credit arrangement.</sentence>
+<sentence id="s190">The " late payment fee " is also payable by reason of a novus actus interveniens , namely, the card holder's breach of the Credit Card Terms and Conditions in failing to make the minimum payment on the due date.</sentence>
+<sentence id="s191">Conclusion
+ It follows that none of the Fee Payments can be said to be consideration in connection with the provision, acquisition or disposal by the card issuer of an interest.</sentence>
+<sentence id="s192">Accordingly, the Fee Payments are not consideration in connection with a financial supply.</sentence>
+<sentence id="s193">Payment System
+ Alternatively, Amex and Amex Wholesale contend that, if there is a supply involved in a Charge Card Facility or a Credit Card Facility, the supply is not a financial supply because it is a supply under a payment system within Item 4 in r 40-5.12.</sentence>
+<sentence id="s194">Amex and Amex Wholesale call in aid the reasoning of the Court in Visa International Service Association and Anor v Reserve Bank of Australia [2003] FCA 977 ; (2003) 131 FCR 300 ( the Visa Case ).</sentence>
+<sentence id="s195">The distinction between charge cards and credit cards was recognised in the Visa Case (see the Visa Case at [73]).</sentence>
+<sentence id="s196">In the Visa Case , the distinction between four party card schemes and three party card schemes was noticed.</sentence>
+<sentence id="s197">A three party card scheme is a scheme such as that operated by Amex and Amex Wholesale.</sentence>
+<sentence id="s198">Under a four party card scheme there are four parties involved in the operation of the scheme as follows: the card holder, the card issuer, the merchant, the merchant's financial institution.</sentence>
+<sentence id="s199">
+The cardholder uses the credit card to acquire goods or services from the merchant.</sentence>
+<sentence id="s200">The cardholder agrees to pay fees to the card issuer, and also agrees, in the case of a credit card, to pay interest if the cardholder takes advantage of a line of credit.</sentence>
+<sentence id="s201">The merchant's financial institution is reimbursed by the card issuer for the value of the goods or services and the merchant's financial institution pays the card issuer an interchange fee.</sentence>
+<sentence id="s202">The merchant's financial institution pays to the merchant the full value of the authorised card transaction, less the merchant fee, which includes the interchange fee.</sentence>
+<sentence id="s203">Under such a four party scheme, system administrators provide the card issuers and the merchant's financial institution with network administration services.</sentence>
+<sentence id="s204">The payment process involves a flow of information and payment instructions between parties to ensure that payment is made by the card holder to the merchant (see the Visa Case paragraphs [71] and [72]).</sentence>
+<sentence id="s205">A four party card system such as that just described is a payment system within s 7 of the Payment Systems (Regulation) Act 1998 (Cth) ( the Payment Systems Act ).</sentence>
+<sentence id="s206">Under that provision, a payment system is a funds transfer system that facilitates the circulation of money, and includes any instruments and procedures that relate to the system.</sentence>
+<sentence id="s207">Thus, the term payment system under consideration in the Visa Case is very similar to, but not identical to, the term payment system as defined in the GST Act.</sentence>
+<sentence id="s208">The four party card system described provides payment instruments and procedures that operate from at least the stage of authorisation of a transaction.</sentence>
+<sentence id="s209">Those instruments and procedures relate to a transfer of funds, which facilitates the circulation of money.</sentence>
+<sentence id="s210">That circulation takes place at the final stage of settlement.</sentence>
+<sentence id="s211">While there is no transfer of funds at the merchant and card holder stage, or at the authorisation stage, those relationships are within the broad description of instruments and procedures that relate to a funds transfer system that facilitates the circulation of money (see Visa Case at [260]).</sentence>
+<sentence id="s212">The Commissioner contends that the definition of payment system in the Regulations must be construed in its own particular statutory context.</sentence>
+<sentence id="s213">He says that, if, as he contends, the card issuer makes financial supplies to the card holder, it is self evident that the construction of payment system contended for by Amex and Amex Wholesale would undercut the operation of Item 2 in the table to Regulation 40-5.09(3) to bring about a capricious result.</sentence>
+<sentence id="s214">The Commissioner says that there is no transfer of money in the transaction as between card holder and merchant and that, to the extent that there is a payment system for the purpose of the GST Act, it should not include any supply made to the card holder by the card issuer.</sentence>
+<sentence id="s215">The Commissioner points to the legislative history of Item 4.</sentence>
+<sentence id="s216">Prior to the enactment of the amendment to the Regulations that introduced the present wording of Item 4 of the table to r 40-5.12, Item 4 was in the following terms: 
+ Payment Facilities for Transaction Cards 
+
+ 
+The explanatory memorandum promulgated in connection with the Regulations in that form explained the legislative intention behind those words as follows:
+ 
+ Amongst other supplies, this category includes:
+ &#183; the fees charged by an electronic funds transfer terminal network owner to a card issuer for access to and use of the network;
+ &#183; the fees charged between a card provider and a third party to a transaction with an account holder (that is, a merchant) regarding the transaction; and
+ &#183; processing of transactions between a card account provider and the third party as above, such as a merchant.</sentence>
+<sentence id="s217">For example transactions relating to direct debit and credit, cheque, electronic funds transfer, ATM, B-pay, Internet banking and GiroPost.</sentence>
+<sentence id="s218">
+
+ The explanatory statement circulated in connection with the amendment to the Regulations commented on the previous wording as follows: 
+ Payment Facilities 
+ Table Item 4 of Regulation 40-15.12 currently provides that the supply of payment facilities for transaction cards for account providers is not a financial supply.</sentence>
+<sentence id="s219">There is doubt whether the item as currently drafted covers all the payment facilities it was intended to cover.</sentence>
+<sentence id="s220">For example, payment facilities and transactions often occur between entities that are not " account providers " in a particular transaction.</sentence>
+<sentence id="s221">New Item 4 achieves the policy intent.</sentence>
+<sentence id="s222">Under new Item 4 the supply of, or an interest in or under, a payment system will not be a financial supply.</sentence>
+<sentence id="s223">The dictionary was amended to insert the current definition of payment system.</sentence>
+<sentence id="s224">The dictionary was also amended to define a participant to be a person who is a participant in the system in accordance with the rules governing the operation of the system.</sentence>
+<sentence id="s225">
+ The Commissioner says that, while the explanatory statement indicates that there was an intention to expand the coverage of Item 4, the amendment was not intended to have the consequences contended for by Amex and Amex Wholesale.</sentence>
+<sentence id="s226">The Commissioner says that, therefore, the contentions of Amex and Amex Wholesale should be rejected in so far as they rely upon the payment system exception.</sentence>
+<sentence id="s227">The only difference between the definition of payment system in s 7 of the Payment Systems Act and in the GST Act is that the definition in the latter includes only " procedures " and does not include " instruments and procedures ".</sentence>
+<sentence id="s228">There is nothing in the Visa Case to suggest that any significance at all was attached to the word " instruments " when dealing with the arrangements that were held to constitute a payment system.</sentence>
+<sentence id="s229">At no time was any distinction drawn between instruments, on the one hand, and procedures, on the other.</sentence>
+<sentence id="s230">Indeed, it is difficult to see what, if anything, the omission of " instruments and " from the definition makes.</sentence>
+<sentence id="s231">The inclusion in the definition of the words " and includes any instruments and procedures " operates to extend the first part of the definition.</sentence>
+<sentence id="s232">The word " relates " is an expression of wide import, which covers matters that related directly or indirectly to the funds transfer system.</sentence>
+<sentence id="s233">The words are capable of describing a continuum of relationships from the direct and immediate to the tenuous and remote (see Visa Case at [289]).</sentence>
+<sentence id="s234">The definition indicates that a broad meaning should be given to the expression.</sentence>
+<sentence id="s235">The question in the Visa Case was whether there was a funds transfer system provided for in the instruments and procedures of the four part credit card system, as described above, that facilitates the circulation of money.</sentence>
+<sentence id="s236">A system for the transfer of funds is not confined to the transfer of money.</sentence>
+<sentence id="s237">The definition extends to the process leading up to the stage of settlement as between the card issuer and the merchant's financial institution.</sentence>
+<sentence id="s238">The credit cards, records and forms and the procedures at the level of the card issuer, merchant and merchant's financial institution are within the definition of payment system (see Visa Case at [295], [304] and [305]).</sentence>
+<sentence id="s239">There is no material distinction between the four party card system described above and the three party card system operated by Amex and Amex Wholesale.</sentence>
+<sentence id="s240">I consider that that system constitutes a payment system within the GST Act.</sentence>
+<sentence id="s241">Accordingly, there is no financial supply involved in the operation of the Charge Card Facility and Credit Card Facility by Amex and Amex Wholesale.</sentence>
+<sentence id="s242">PENALTY 
+ The secondary issue, in relation to Amex Wholesale, is whether additional tax, by way of penalty, is properly payable by Amex Wholesale pursuant to s 284-75(1) in Schedule 1 of the Administration Act.</sentence>
+<sentence id="s243">It is necessary to say something about the statutory framework within which the Commissioner imposed a penalty on Amex Wholesale pursuant to the notice of assessment of 27 April 2006.</sentence>
+<sentence id="s244">That calls for an examination of provisions of the Administration Act.</sentence>
+<sentence id="s245">Division 284 in Schedule 1 to the Administration Act deals with administrative penalties.</sentence>
+<sentence id="s246">Under s 284-75(1), a person is liable to an administrative penalty if the person makes a statement to the Commissioner, the statement is false or misleading in a material particular and the person has a shortfall amount as a result of the statement.</sentence>
+<sentence id="s247">The effect of Item 2 in s 284-80(1) is that a person has a shortfall amount if an amount that the Commissioner must pay or credit to the person under a taxation law for an accounting period worked out on the basis of the statement is more than it would be if the statement were not false or misleading.</sentence>
+<sentence id="s248">The shortfall amount is the amount by which the payment or credit is more than it would otherwise have been.</sentence>
+<sentence id="s249">Section 284-85(2) specifies a formula to be used to work out the amount of penalty.</sentence>
+<sentence id="s250">One of the factors in the formula is the base penalty amount .</sentence>
+<sentence id="s251">The effect of Item 3 in the table in s 284-90(1) is that, if the shortfall amount resulted from a failure by the person to take reasonable care to comply with a taxation law, the base penalty amount is 25% of the shortfall amount.</sentence>
+<sentence id="s252">The business activity statements lodged by Amex Wholesale in respect of relevant periods constituted statements for the purposes of the provisions described above.</sentence>
+<sentence id="s253">Assuming, contrary to the contentions of Amex and Amex Wholesale, that the Fee Payments constituted consideration for a supply made by Amex Wholesale, the business activity statements were false or misleading.</sentence>
+<sentence id="s254">As a consequence of the statements made in the relevant business activity statements, there was a shortfall amount of approximately $1,455,000.</sentence>
+<sentence id="s255">The Commissioner concluded that there was a lack of reasonable care on the part of Amex Wholesale in making the relevant business activity statements.</sentence>
+<sentence id="s256">Amex Wholesale complains that, in assessing the penalty, the Commissioner failed to identify the statements that were said to be false or misleading and also failed to identify the taxation law with which Amex Wholesale is said to have failed to comply.</sentence>
+<sentence id="s257">Amex Wholesale says that there is no relevant taxation law with which it has failed to comply.</sentence>
+<sentence id="s258">Thus, Amex Wholesale says, it complied with its obligations under the GST Act to file a business activity statement for each relevant period.</sentence>
+<sentence id="s259">It says that an error in the legal characterisation of Fee Payments is not a failure to comply with a taxation law: there is no dispute about the quantum of the Fee Payments.</sentence>
+<sentence id="s260">It must be accepted that s 284-75 imposes a liability to pay an administrative penalty in the circumstances set out in that provision.</sentence>
+<sentence id="s261">However, s 284-75 does not contain any requirement or impose any obligation for a person not to make a statement that is false or misleading in a material particular.</sentence>
+<sentence id="s262">It does no more than impose a penalty if a person makes such a statement.</sentence>
+<sentence id="s263">There is no complaint by the Commissioner that Amex Wholesale failed to comply with s 284-75.</sentence>
+<sentence id="s264">The complaint is that there was a failure to comply with Division 31 of the GST Act.</sentence>
+<sentence id="s265">Division 31 of the GST Act deals with the obligation of persons to give GST returns to the Commissioner.</sentence>
+<sentence id="s266">Under s 31-5(1), a person who is registered or required to be registered must give to the Commissioner a GST return for each tax period.</sentence>
+<sentence id="s267">Under the dictionary in s 195-1, a GST return is a return that complies with the requirements of ss 31-15 and 31-25 of the GST Act and s 388-75 in Schedule 1 to the Administration Act.</sentence>
+<sentence id="s268">Section 31-15(1) requires that a GST return must be in the approved form .</sentence>
+<sentence id="s269">Under s 388-50(1) in Schedule 1 to the Administration Act, a return is in the approved form if, and only if: it is in the form approved by the Commissioner for that kind of return; it contains a declaration signed by a person as the form requires; it contains the information that the form requires and any further information as the Commissioner requires, whether in the form or otherwise; it is given in the manner that the Commissioner requires, which may include electronically.</sentence>
+<sentence id="s270">
+Section 388-75 contains requirements for the signature of declarations in a return.</sentence>
+<sentence id="s271">Amex Wholesale is registered.</sentence>
+<sentence id="s272">Accordingly, the effect of those provisions is that Amex Wholesale was required to give to the Commissioner a GST return for each relevant tax period that contained the information that the form approved by the Commissioner requires to be contained in it.</sentence>
+<sentence id="s273">That form requires amounts relating to GST to be included.</sentence>
+<sentence id="s274">On the assumption that the Commissioner's stance in relation to the Fee Payments is correct, the business activity statements lodged by Amex Wholesale did not contain the information that the form required.</sentence>
+<sentence id="s275">There was therefore a failure to comply with ss 31-5 and 31-15 of the GST Act.</sentence>
+<sentence id="s276">Accordingly, if the Commissioner's stance in relation to the Fee Payments is accepted, there was a failure to comply with a taxation law, namely, ss 31-5 and 31-15 of the GST Act.</sentence>
+<sentence id="s277">The question of whether or not there was a failure on the part of Amex Wholesale to take reasonable care to comply with the requirements of s 31-5 and s 31-15 was not explored.</sentence>
+<sentence id="s278">In concluding that there was such a failure the Commissioner had regard to the fact that Amex Wholesale had deviated from the position it had originally taken in relation to the Fee Payments, in that it originally accepted that they were within the scope of the GST Act.</sentence>
+<sentence id="s279">The Commissioner considered that there were no sound reasons for that deviation.</sentence>
+<sentence id="s280">Secondly, the Commissioner considered that the level of late payment fee is designed to recover additional costs incurred by in relation to managing credit card accounts.</sentence>
+<sentence id="s281">Thirdly, the Commissioner considered that Amex Wholesale failed to consider the tax implications before deviating from its original position and taking the view that the Fee Payments are in effect compensatory payments for the cardholder's breach in failing to pay the minimum amount by the due date.</sentence>
+<sentence id="s282">The Commissioner considered that those three factors, when examined closely, indicated that there was a clear deviation from the established view that the supply of a credit card facility involved the provision, acquisition or disposal of an interest in a credit arrangement.</sentence>
+<sentence id="s283">The Commissioner considered that a credit card issuer would not be able to rule out altogether the possibility of late payment by at least some cardholders.</sentence>
+<sentence id="s284">Accordingly, a credit card issuer would be expected to include a contractual provision to cover such an event and to recover associated additional expenses from such a defaulting cardholder pursuant to a specific term of the contract with the cardholder.</sentence>
+<sentence id="s285">The Commissioner concluded that there could not be a nexus between the Fee Payments and anything other than the input taxed supply of credit.</sentence>
+<sentence id="s286">The Commissioner concluded, therefore, that it would not be unreasonable to assume that Amex Wholesale had not taken reasonable care in preparing the business activity statements that led to the shortfall amount.</sentence>
+<sentence id="s287">The contention of Amex Wholesale in its appeal statement is that no amount of the shortfall was caused by a failure to take reasonable care to comply with a taxation law.</sentence>
+<sentence id="s288">However, the material in the Commissioner's reasons for the assessment of the administrative penalties indicate that Amex Wholesale was aware of the view taken by the Commissioner as to the appropriate treatment of the Fee Payments.</sentence>
+<sentence id="s289">While the stance adopted by Amex and Amex Wholesale may well be reasonably arguable, it appears that it was only during the course of an audit by the Commissioner that Amex Wholesale voluntarily disclosed the deviation from the position that it had previously adopted in relation to the treatment of the Fee Payments.</sentence>
+<sentence id="s290">The fact that there was a voluntary disclosure at that stage was taken into account by the Commissioner in remitting part of the penalties.</sentence>
+<sentence id="s291">However, the fact that the stance that Amex Wholesale took was reasonably arguable may not, of itself, be a basis for concluding that the Commissioner erred in concluding that the false or misleading statements resulted from a failure to exercise reasonable care.</sentence>
+<sentence id="s292">In that regard, Amex Wholesale points to what it says may be an anomalous aspect of the table in s 284-90(1).</sentence>
+<sentence id="s293">Under Item 1 in the table, the base penalty amount is 75% of the shortfall amount, if the short fall amount resulted from intentional disregard of a taxation law .</sentence>
+<sentence id="s294">Under Item 2, the base penalty amount is 50% of the shortfall amount if the shortfall amount resulted from recklessness as the operation of a taxation law .</sentence>
+<sentence id="s295">As indicated above, under Item 3, the base penalty amount is 25% of the shortfall amount if the shortfall amount resulted from a failure to take reasonable care to comply with the taxation law .</sentence>
+<sentence id="s296">Items 4, 5 and 6 also provide a base penalty amount of 25% of the shortfall amount.</sentence>
+<sentence id="s297">Items 5 and 6 are concerned with trusts and partnerships respectively but Item 4 is not so limited.</sentence>
+<sentence id="s298">Each of those items deals with a shortfall amount that results from treating an income tax law as applying in a particular way that was not reasonably arguable .</sentence>
+<sentence id="s299">While the GST Act is a taxation law and is therefore encompassed by Items 1, 2 and 3, it is not an income tax law and is therefore not encompassed by Item 4.</sentence>
+<sentence id="s300">It is curious that there is no counterpart of Item 4 in relation to the treatment, in a way that is not reasonably arguable, of a taxation tax law that is not an income taxation law.</sentence>
+<sentence id="s301">That may suggest that Item 3, which encompasses any taxation law, has no application where what is in issue is a reasonable, though incorrect, treatment by a taxpayer of a taxation law.</sentence>
+<sentence id="s302">However, having regard to the conclusion reached above concerning the substantive question, it is not necessary to answer the questions raised in relation to penalty.</sentence>
+<sentence id="s303">CONCLUSION 
+ It follows that the appeals should be upheld.</sentence>
+<sentence id="s304">The objection decision should be set aside.</sentence>
+<sentence id="s305">The matters should be remitted to the Commissioner for determination according to law.</sentence>
+<sentence id="s306">The Commissioner should pay the costs of the appeals.</sentence>
+<sentence id="s307">I certify that the preceding eighty-five (85) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Emmett.</sentence>
+<sentence id="s308">Associate:
+ 
+ 
+Dated: 19 June 2009
+ 
+ Counsel for the Applicant: Mr J de Wijn QC with Dr M Sharpe 
+ 
+ Solicitor for the Applicant: Minter Ellison 
+ 
+ Counsel for the Respondent: Mr A Robertson SC with Mr R Quinn 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ Date of Hearing: 20-21 April 2009 
+ 
+ Date of Judgment: 19 June 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/683.html 
+ 
+ </sentence>
+</sentences>
+</case>

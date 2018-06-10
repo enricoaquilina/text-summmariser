@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<case>
+<name>Bell IXL Investments Ltd v Life Therapeutics Ltd [2008] FCA 1457 (26 September 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1457.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">directors' duties</catchphrase>
+<catchphrase "id=c1">acting for a proper purpose</catchphrase>
+<catchphrase "id=c2">where plaintiff a shareholder in first defendant</catchphrase>
+<catchphrase "id=c3">where plaintiff requisitioned first defendant to convene an extraordinary general meeting of shareholders to consider a resolution to remove board of first defendant and replace it with three persons nominated by plaintiff</catchphrase>
+<catchphrase "id=c4">where first defendant subsequently issued new shares</catchphrase>
+<catchphrase "id=c5">whether new share issue was made for purpose of defeating plaintiff's resolution and therefore improper</catchphrase>
+<catchphrase "id=c6">assessment of evidence and credit of directors of first defendant</catchphrase>
+<catchphrase "id=c7">briginshaw principle</catchphrase>
+<catchphrase "id=c8">difference between inference and conjecture</catchphrase>
+<catchphrase "id=c9">"proper purpose"</catchphrase>
+<catchphrase "id=c10">"improper purpose"</catchphrase>
+<catchphrase "id=c11">corporations</catchphrase>
+<catchphrase "id=c12">words and phrases</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 This proceeding concerns whether an allotment of shares was issued for an improper purpose and is a rehearing of a trial heard by another Judge of this Court as ordered by the Full Court on 15 August 2008.</sentence>
+<sentence id="s1">For the reasons which follow, after a consideration of the evidence before me on this rehearing, I have come to the view that the allotment was not for an improper purpose and was made bona fide in the best interests of Life Therapeutics Limited ('LFE').</sentence>
+<sentence id="s2">Contrary to the contention of the plaintiff, I do not accept that the allotment of shares was done to defeat any perceived predator or to consolidate the collective position of the directors of LFE.</sentence>
+<sentence id="s3">BACKGROUND 
+ 
+2 LFE is a public company whose shares are listed on the Australian Securities Exchange ('ASX').</sentence>
+<sentence id="s4">Before the allotment of the shares in issue in this proceeding, LFE had issued 123,223,857 shares with voting rights.</sentence>
+<sentence id="s5">3 Between 14 May and 4 June 2008 Bell IXL Investments Limited ('Bell IXL') acquired 9,517,734 shares in LFE.</sentence>
+<sentence id="s6">Bell IXL's shares in LFE together with those of its associate, K Pagnin Pty Limited (3,018,000 shares) ('K Pagnin'), comprised approximately 10.17% of the issued capital of LFE.</sentence>
+<sentence id="s7">4 On 23 May 2008 Bell IXL requisitioned LFE to convene an extraordinary general meeting of shareholders to consider resolutions to remove the current board and replace it with three persons nominated by Bell IXL.</sentence>
+<sentence id="s8">On 12 June 2008 LFE convened that meeting for 23 July 2008.</sentence>
+<sentence id="s9">The meeting has been adjourned as a result of orders of this Court.</sentence>
+<sentence id="s10">5 On 9 June 2008 Aegis Partners Limited ('Aegis') agreed to accept a placement of 15% of LFE's issued shares at 7 cents per share.</sentence>
+<sentence id="s11">Aegis informed LFE that clients of Aegis would take 18,483,578 shares at 7 cents per share.</sentence>
+<sentence id="s12">On 16 June 2008 LFE announced to the ASX that it had agreed to issue to Aegis 18,483,578 fully paid ordinary shares (representing 15% of its total issued capital) at 7 cents per share.</sentence>
+<sentence id="s13">At a board meeting of LFE on 17 June 2008, the directors noted that a subscription application for 18,483,578 shares (to raise $1,293,850.46) had been received from Aegis on 12 June 2008 and resolved to approve that issue and placement.</sentence>
+<sentence id="s14">Under the subscription agreement between LFE and Aegis, Aegis could nominate nominees to whom the shares were to be issued.</sentence>
+<sentence id="s15">On 4 July 2008 LFE received the subscription amount for the shares and announced to the ASX that the placement to Aegis had been completed.</sentence>
+<sentence id="s16">The shares were not allotted to Aegis but rather, in accordance with instructions from Aegis, were allotted to Bell Potter who allocated them to various nominee account holders.</sentence>
+<sentence id="s17">On 10 July 2008 LFE announced to the ASX that Aegis had directed Bell Potter to place the shares directly with various beneficial owners.</sentence>
+<sentence id="s18">6 This allotment represented approximately 13.04% of the voting shares in LFE and reduced Bell IXL's interest in LFE's capital to approximately 8.85% (at least as at 4 June 2008).</sentence>
+<sentence id="s19">7 Before the month of May 2008 the directors of LFE had considered a capital raising by the company for a sum between $5 million and $20 million.</sentence>
+<sentence id="s20">On a date which was contested between the parties, two of LFE's directors, Messrs Bellman and Milne, met with Mr Booth of Asandas, a licensed stockbroker, to discuss a capital raising by LFE ('the Booth meeting').</sentence>
+<sentence id="s21">Neither Mr Booth nor Asandas was retained as a broker by LFE.</sentence>
+<sentence id="s22">The Booth meeting led to a chain of events which resulted in the allotment of the shares in issue on 4 July 2008.</sentence>
+<sentence id="s23">8 Some further background facts about LFE are important to record.</sentence>
+<sentence id="s24">LFE is a holding company whose subsidiaries in the United States of America collect and sell blood plasma.</sentence>
+<sentence id="s25">LFE's operations became unprofitable during 2006 and 2007, and in the early part of 2008 its financial position was precarious.</sentence>
+<sentence id="s26">This historical financial position is important in understanding the approach of the directors, to which I will later return.</sentence>
+<sentence id="s27">9 In or about March 2008 LFE entered into an arrangement with its largest customer, Octapharma AG, a Swiss company, whereby:
+ 
+&#8226; A management agreement was entered into pursuant to which Octapharma was appointed to manage LFE's US operations;
+ 
+&#8226; A loan agreement was entered into under which Octapharma was to provide a US$37.1 million loan facility to be used to pay LFE's existing debts and under which Octapharma was to lend LFE an amount equal to the operating costs of its US subsidiaries less the revenue received; and
+ 
+&#8226; Octapharma was granted a put and call option which, subject to shareholder approval, gave Octapharma the option to purchase the shares in LFE's US subsidiaries at an exercise price of around US$47.1 million.</sentence>
+<sentence id="s28">10 The result of the arrangement was that, before any sale of LFE's US subsidiaries to Octapharma, LFE would have funds to pay out its creditors leaving it with a balance of loan funds of approximately US$16 million which it could draw down.</sentence>
+<sentence id="s29">If the sale of the US subsidiaries were completed, LFE would be required to repay its loan to Octapharma which would leave it with a balance of the order of $17 million or $18 million in cash.</sentence>
+<sentence id="s30">However, if the sale of the US subsidiaries were not to proceed because, for example, shareholder approval were not given, then LFE would be required to repay the loan to Octapharma.</sentence>
+<sentence id="s31">11 At the time this arrangement was entered into, the directors of LFE were Mr Wayne Bellman (having been appointed on 14 February 2008), who later became Chairman, and Mr Michael Milne (having been appointed on 13 February 2008).</sentence>
+<sentence id="s32">Subsequently, on 5 May 2008, Ms Dale Calhoun was appointed a director of LFE.</sentence>
+<sentence id="s33">During the period that these directors were on the board they had few or no staff to assist in the management in Australia, and most of the executive and administrative work had to be done by the directors.</sentence>
+<sentence id="s34">Having regard to the financial position of LFE and the nature of the Octapharma transaction, I accept that such work as undertaken by the directors was extensive and I view the evidence in this case against this background.</sentence>
+<sentence id="s35">I also accept that the directors in carrying out the executive and administrative tasks did not have a practice of keeping documentation or recording discussions or considerations, otherwise than at board meetings to record the resolutions made by LFE.</sentence>
+<sentence id="s36">I also view the evidence in this case against this general practice of the directors.</sentence>
+<sentence id="s37">12 Nevertheless, the directors of LFE did engage a financial adviser, Mr Riddell, who brought about the arrangement with Octapharma.</sentence>
+<sentence id="s38">Prior to this arrangement, there had been discussions by the directors about the need to raise finance for working capital in the region of $5-20 million.</sentence>
+<sentence id="s39">After the arrangement with Octapharma was entered into, Messrs Bellman and Milne discussed with Mr Riddell the desire of LFE to raise further capital which would allow it to pursue other ventures as an investment vehicle.</sentence>
+<sentence id="s40">However, the financial adviser's retainer was effectively terminated in late April 2008, as was LFE's focus on the need for a significant amount of additional capital.</sentence>
+<sentence id="s41">13 Octapharma exercised its call option on 11 April 2008 which required LFE to convene a meeting of shareholders to consider whether they would approve the sale.</sentence>
+<sentence id="s42">That meeting has not yet been held.</sentence>
+<sentence id="s43">OUTLINE OF BELL IXL'S CASE 
+ 
+14 In considering the material before the Court, the trier of fact must be careful to distinguish between inference and conjecture.</sentence>
+<sentence id="s44">A conjecture may be plausible, but it is effectively still a mere guess.</sentence>
+<sentence id="s45">An inference is a deduction from the evidence, and if reasonable can be treated as part of the legal proof to be considered in making a factual determination in any particular proceeding.</sentence>
+<sentence id="s46">Whilst sometimes it may be difficult to distinguish between conjecture and inference, nevertheless the distinction is an important one.</sentence>
+<sentence id="s47">In this proceeding, some contentions made by Bell IXL were mere conjecture, and were either otherwise explicable or could not be a basis for a determination in favour of finding an improper purpose.</sentence>
+<sentence id="s48">15 Bell IXL in part relied upon a number of objective facts, circumstances, and series of events to support the allegation of improper purpose, it not being privy to the actual discussions and considerations undertaken by the directors of LFE.</sentence>
+<sentence id="s49">I have been asked to draw inferences from documentation and from the events themselves.</sentence>
+<sentence id="s50">In addition to some specific matters referred to later, the main facts, circumstances and series of events can be summarised as set out below.</sentence>
+<sentence id="s51">&#8226; On 14 March 2008 the LFE directors' meeting was attended by Messrs Bellman and Milne.</sentence>
+<sentence id="s52">They resolved to accept the half-yearly financial report and the directors' report.</sentence>
+<sentence id="s53">They further resolved that there were reasonable grounds to believe that LFE could pay its debts as and when they fell due.</sentence>
+<sentence id="s54">No minute recorded any expression of concern as to LFE funding its ongoing operations or any need for raising additional capital.</sentence>
+<sentence id="s55">&#8226; The half-yearly financial report of LFE dated 14 March 2008 at note 2(d) relevantly stated:
+ If the company is unable to complete the above sale transactions with Octapharma AG and is unable to obtain alternative funding sources at an amount and timing necessary to meet its future operational plans and business activity the company may be unable to continue as a going concern.</sentence>
+<sentence id="s56">... As stated above the Directors believe there is no reason to doubt that the agreements with Octapharma AG will not be executed and the appropriate shareholder approval will be obtained.</sentence>
+<sentence id="s57">&#8226; On 18 March 2008 the LFE directors' meeting was attended by Messrs Bellman and Milne.</sentence>
+<sentence id="s58">It was resolved to settle with Citigroup Global Markets Australia, $1,149,283.97 to be paid by LFE upon execution of the loan facility from Octapharma.</sentence>
+<sentence id="s59">No minute recorded any expression of concern as to LFE funding its ongoing operations or any need for raising additional capital.</sentence>
+<sentence id="s60">&#8226; On 28 March 2008 the LFE directors' meeting was attended by Messrs Bellman and Milne.</sentence>
+<sentence id="s61">It was resolved to approve and execute the Octapharma documents.</sentence>
+<sentence id="s62">Again no minute recorded any expression of concern as to LFE funding its ongoing operations or any need for raising additional capital.</sentence>
+<sentence id="s63">&#8226; Between 1 April 2008 and 20 May 2008 a total of 30,180,148 shares in LFE comprising 24.49% of the shares on issue were traded.</sentence>
+<sentence id="s64">&#8226; On 31 March 2008 the LFE directors' meeting was attended by Messrs Bellman and Milne.</sentence>
+<sentence id="s65">Again no minute recorded any expression of concern as to LFE funding its ongoing operations or any need for raising additional capital.</sentence>
+<sentence id="s66">&#8226; On 10 April 2008 LFE issued a draw-down notice for the sum of US$37.1m under the Octapharma loan facility.</sentence>
+<sentence id="s67">&#8226; On 11 April 2008 Octapharma gave a Notice of Exercise of Call Option, the effect of which was that subject to LFE shareholder approval, Octapharma would purchase 100% of the shares in LFE's US subsidiaries.</sentence>
+<sentence id="s68">&#8226; On 14 April 2008 LFE announced to the ASX that:
+ As previously announced, the Company will use the Loan Facility to fund outstanding obligations of the Company ... 
+&#8226; On 15 April 2008 LFE drew down US$37.1 million under the loan facility agreement.</sentence>
+<sentence id="s69">&#8226; On 18 April 2008 LFE stated by ASX announcement that:
+ The balance of US$17,441,992.35 will be invested by the Company and will also be used to fund further outstanding obligations and operational requirements prior to the decision by shareholders whether or not to approve the exercise of the call option by Octapharma AG.</sentence>
+<sentence id="s70">&#8226; On 1 May 2008 the first and second series of acquisitions of LFE shares by K Pagnin on 23 and 28 April 2008 were registered.</sentence>
+<sentence id="s71">The acquisitions give K Pagnin a total of 1.96% of the issued capital in LFE.</sentence>
+<sentence id="s72">The K Pagnin acquisitions were included in earlier registrations of share dealings in the names of the relevant brokers' nominee company.</sentence>
+<sentence id="s73">&#8226; By email of 1 May 2008 Mr Tom Bloomfield of TMF Corporate Services (Aust) Pty Ltd provided a copy of the Notice of Change of Interest of Substantial Shareholder filed by UBS Nominees Pty Ltd on 29 April 2008 showing a reduction from 8.33% to 5.81% to Mr Bellman.</sentence>
+<sentence id="s74">&#8226; By email of 1 May 2008 Mr Bloomfield provided a list of LFE top 20 shareholders as at 30 April 2008 to Messrs Bellman and Milne.</sentence>
+<sentence id="s75">&#8226; By email of 1 May 2008 Mr Bloomfield provided a complete shareholder listing as at 30 April 2008 to Messrs Bellman and Milne.</sentence>
+<sentence id="s76">&#8226; On 2 May 2008 the third on-market acquisition of LFE shares by K Pagnin occurred.</sentence>
+<sentence id="s77">&#8226; On 7 May 2008 the third acquisition of LFE shares by K Pagnin was registered.</sentence>
+<sentence id="s78">The acquisition gave K Pagnin a total of 2.03% of the issued capital in LFE.</sentence>
+<sentence id="s79">&#8226; On 14 May 2008 Bell IXL made its first two acquisitions of LFE shares.</sentence>
+<sentence id="s80">&#8226; On 15 May 2008 Bell IXL made its third acquisition of LFE shares.</sentence>
+<sentence id="s81">&#8226; On 19 May 2008 the fourth and fifth acquisition of LFE shares by K Pagnin occurred.</sentence>
+<sentence id="s82">&#8226; On 19 May 2008 the first two acquisitions of LFE shares by Bell IXL were registered.</sentence>
+<sentence id="s83">The acquisitions gave Bell IXL 0.67% of the issued capital in LFE.</sentence>
+<sentence id="s84">The Bell IXL acquisitions were included in earlier registrations of share dealings in the names of the relevant brokers' nominee company.</sentence>
+<sentence id="s85">&#8226; On 20 May 2008 the LFE directors' meeting was attended by Ms Calhoun and Messrs Bellman and Milne.</sentence>
+<sentence id="s86">No minute recorded any expression of concern as to LFE funding its ongoing operations or any need for a raising of additional capital or any proposal to meet with Mr Booth for this purpose.</sentence>
+<sentence id="s87">Item 14 of the minutes recorded a draw-down of US$1 million under the Opex agreement, primarily to pay wages.</sentence>
+<sentence id="s88">&#8226; On 20 May 2008, after the board meeting, the Company Secretary of LFE was asked to obtain a list of significant share movements between 1 April 2008 and 30 April 2008.</sentence>
+<sentence id="s89">&#8226; The Computershare Significant Movements Monthly report for LFE for 1 to 30 April 2008 was received by each of the directors at 3.16pm on 20 May 2008.</sentence>
+<sentence id="s90">It informed the directors of substantial acquisitions of shares during that month by, or on behalf of the clients of, persons such as:
+ 
+ 
+ &#8226; UBS Wealth Management Australia Nominees Pty Ltd = 2,823,441 shares
+ &#8226; Furzefield Pty Ltd = 1,484,464 shares
+ &#8226; Peplon Nominees Pty Ltd = 2,125,000 shares
+ &#8226; Fortis Clearing Nominees Pty Ltd = 2,887,914 shares.</sentence>
+<sentence id="s91">
+ 
+
+&#8226; By resolution on 20 May 2008 at 10:35am the board of LFE resolved that a top 20 shareholder report, a shareholder movement report and all notices of changes in substantial shareholders would be tabled at future monthly board meetings.</sentence>
+<sentence id="s92">&#8226; On 20 May 2008 the sixth on-market acquisition of LFE shares was made by K Pagnin.</sentence>
+<sentence id="s93">The fourth, fifth and sixth on-market acquisitions of LFE shares were made by Bell IXL.</sentence>
+<sentence id="s94">&#8226; On 21 May 2008 the third acquisition of LFE shares by Bell IXL was registered.</sentence>
+<sentence id="s95">The acquisition gave Bell IXL a total of 2.97% of the issued capital in LFE.</sentence>
+<sentence id="s96">&#8226; By email of 21 May 2008 Mr Bloomfield provided a copy Notice of Ceasing to be a Substantial Shareholder relating to MM&amp;E Capital to Messrs Bellman and Milne and Ms Calhoun.</sentence>
+<sentence id="s97">The Notice disclosed a sale of 3,580,000 shares on 20 May 2008.</sentence>
+<sentence id="s98">&#8226; On 22 May 2008 the fourth and fifth acquisitions of LFE shares by K Pagnin were registered.</sentence>
+<sentence id="s99">The acquisition gave K Pagnin a total of 2.16% of the issued capital in LFE.</sentence>
+<sentence id="s100">&#8226; On 23 May 2008 Bell IXL lodged a Notice of Initial Substantial Shareholder with the ASX.</sentence>
+<sentence id="s101">It showed that Bell IXL together with its associate K Pagnin acquired 8.75% of the issued capital over a month.</sentence>
+<sentence id="s102">Bell IXL also requested a general meeting and gave notice of its intention to replace the directors of LFE.</sentence>
+<sentence id="s103">&#8226; On 26 May 2008 the fourth, fifth and sixth acquisitions of LFE shares by Bell IXL were registered.</sentence>
+<sentence id="s104">The acquisition gave Bell IXL a total of 6.3% of the issued capital of LFE.</sentence>
+<sentence id="s105">&#8226; On 27 May 2008 the sixth acquisition of LFE shares by K Pagnin on 20 May 2008 was registered.</sentence>
+<sentence id="s106">The acquisition gave K Pagnin a total of 2.32% of the issued capital in LFE.</sentence>
+<sentence id="s107">&#8226; By email of 3 June 2008 Mr Booth of Asandas wrote to Mr Andrew Waller of Aegis ('the Booth email') relevantly as follows:
+ Suggest you have a look @ LFE, listing in OZ, I know the fellow well there, same situation sort of as Acclaim, Big Pile of Cash and liquids, Capped at 9 million, with 18 in cash, sitting at Stgeorge cash mgmt, The directors have few shares and want to do a placement to hold on, 15%, They have a group who has bought 7% and obviously want the shell We could do this 15%, they said board seat no problem and change of activity no problem, they don't want to lose their shell, Call me at home.</sentence>
+<sentence id="s108">&#8226; On 3 June 2008 at 9.30pm Mr Waller sent Mr Booth an email stating 'Let's do it boss'.</sentence>
+<sentence id="s109">&#8226; On 4 June 2008 Messrs Bellman and Milne met with Mr Booth at Asandas' office.</sentence>
+<sentence id="s110">There was a teleconference with Mr Waller.</sentence>
+<sentence id="s111">The prospect of Aegis engaging in further equity funding of LFE was discussed.</sentence>
+<sentence id="s112">Mr Waller then recommended taking the 15% placement in LFE to Aegis.</sentence>
+<sentence id="s113">&#8226; On 5 June 2008 Messrs Bellman and Milne met with Mr Booth at Asandas' office.</sentence>
+<sentence id="s114">&#8226; On 9 June 2008 Aegis confirmed it would take a 15% placement in LFE.</sentence>
+<sentence id="s115">&#8226; On 10 June 2008 Messrs Bellman and Milne met with Mr Booth at Asandas' office.</sentence>
+<sentence id="s116">&#8226; On 10 June 2008 LFE requested an Opex draw-down of US$1 million with a draw-down date of 27 June 2008.</sentence>
+<sentence id="s117">&#8226; On 11 June 2008 Messrs Bellman and Milne met with Mr Booth at Asandas' office.</sentence>
+<sentence id="s118">&#8226; On 12 June 2008 LFE received a signed subscription agreement from Aegis.</sentence>
+<sentence id="s119">&#8226; On 12 June 2008 LFE issued a Notice of General Meeting pursuant to requisition by Bell IXL.</sentence>
+<sentence id="s120">&#8226; On 13 June 2008 Global Proxy Solicitation Pty Limited ('GPS') wrote a letter of engagement to LFE.</sentence>
+<sentence id="s121">&#8226; On 16 June 2008 LFE announced an issue of 18,483,578 fully paid shares to Aegis.</sentence>
+<sentence id="s122">By this ASX announcement LFE stated:
+ The placement will raise a total of A$1,293,850.46 and will be used to fund working capital, including ongoing costs in respect of investigation of the background to the Company's current situation and its financial position and for implementation of the transaction selling the Company's US subsidiaries to Octapharma AG.</sentence>
+<sentence id="s123">This raising is intended to limit the need to access the cash that is currently held in the Company's bank accounts, primarily secured from the loan made by Octapharma AG.</sentence>
+<sentence id="s124">We note that if shareholder approval is not obtained for the Octapharma transaction it will be an event of default under that loan agreement.</sentence>
+<sentence id="s125">16 Bell IXL submitted that the above objective facts, circumstances and series of events and the contemporaneous documents overwhelmingly either directly evidenced or supported the inference that the allotment in question was for the ulterior purpose by the directors of LFE to defeat Bell IXL or some other perceived predator to enable the directors to 'hold on' and 'keep their shell'.</sentence>
+<sentence id="s126">It was submitted that the Booth email set out precisely what it was that the directors of LFE were seeking to do in making the placement.</sentence>
+<sentence id="s127">The response of 'Let's do it boss' after an interval over three hours demonstrated that the placement was not, it was submitted, simply a bona fide commercial decision by Aegis to invest in an Australian company.</sentence>
+<sentence id="s128">17 It was further submitted that there was virtually not a single contemporaneous document relied upon by the defendants which objectively supported the defendants' case as put to this Court.</sentence>
+<sentence id="s129">An attack was then made upon the evidence of each of the directors which it was said should be rejected against the background of any contemporaneous documents which materially collaborate their version of what occurred and in the face of contradictory documents.</sentence>
+<sentence id="s130">It was particularly noted that the directors did not properly consider or document their concerns or their alleged need to seek a capital raising.</sentence>
+<sentence id="s131">Reference was made also to the failure of the directors in relation to obligations to give discovery and produce relevant documents which was said to be a compelling reason for caution being exercised when approaching the uncorroborated testimony of the directors and other witnesses called by the defendants.</sentence>
+<sentence id="s132">It was contended that the only objective contemporaneous evidence for the purpose of the allotment to the Aegis parties was the Booth email.</sentence>
+<sentence id="s133">18 The Booth email was sent after the meeting between Messrs Bellman and Milne and Mr Booth sometime in May 2008, but it was contested as to when the meeting occurred.</sentence>
+<sentence id="s134">The importance of determining the date of the Booth meeting is that it would assist in a determination of what the directors of LFE knew or could have known at the time of the meeting, and what the content of the Booth email means or could mean having regard to the events that had occurred prior to the meeting.</sentence>
+<sentence id="s135">I will return to the Booth meeting and Booth email later.</sentence>
+<sentence id="s136">19 Bell IXL submitted that ultimately the following propositions would apply for the determination of this case:
+ 
+(a) if the Booth meeting occurred in the week commencing 25 May 2008 then Bell IXL must succeed in this proceeding; or
+ 
+(b) if the Booth meeting occurred as early as 20 May 2008 by Messrs Bellman and Milne informing Mr Booth of their concerns about a group acquiring shares in LFE, and in view of the fact that the directors had no or few shares and of the fact that LFE had an open register, the inference was to be drawn by that stage their fears about another company in the market, Kedrion SpA, led them to ask Mr Booth to find a placement for the reasons stated in the Booth email; and
+ 
+(c) whether the Booth meeting occurred on 20 May 2008 or some time after 25 May 2008, it was clear on the evidence that by that time the directors had formed their improper purpose of using an allotment of shares to enable them to deal with the threats that they perceived from recent share trading (or to use to Mr Milne's expression 'stabilise the register') and Bell IXL must therefore succeed in the proceeding.</sentence>
+<sentence id="s137">20 Before going to these and other matters it is convenient to deal with matters of legal principle.</sentence>
+<sentence id="s138">APPLICABLE LAW 
+ 
+21 First, as to the question of standard of proof, the defendants submitted that the allegations that the directors acted with improper purpose were serious and that the principles in Briginshaw v Briginshaw [1938] HCA 34 ; (1938) 60 CLR 336 at 361-362 apply.</sentence>
+<sentence id="s139">It was submitted the Court must be satisfied that the allegations are made out having regard to the gravity of the matters alleged and that such satisfaction must not be produced by 'inexact proofs, indefinite testimony or indirect inferences'.</sentence>
+<sentence id="s140">22 It is undoubtedly plain as stated in Neat Holdings Pty Ltd v Karajan Holdings Pty Ltd [1992] HCA 66 ; (1992) 110 ALR 449 at 450 that the principles in Briginshaw do not create any different or intermediate standard of proof between the civil standard of on a balance of probabilities and the criminal standard of proof of beyond reasonable doubt.</sentence>
+<sentence id="s141">Clearly where there is an allegation of impropriety or criminal or fraudulent conduct then a court should not lightly make a finding of a person being guilty of such conduct.</sentence>
+<sentence id="s142">However, the essential task always remains of looking at the evidence in its totality and determining whether a party has proved on the balance of probabilities the factual matters required for that party to succeed.</sentence>
+<sentence id="s143">23 Secondly, the applicable law concerning improper purpose does not seem to be in contention.</sentence>
+<sentence id="s144">24 In Ngurli Ltd v McCann [1953] HCA 39 ; (1953) 90 CLR 425 at 439-440, the High Court said of the power to issue shares:
+ The power must be used bona fide for the purpose for which it was conferred, that is to say, to raise sufficient capital for the benefit of the company as a whole.</sentence>
+<sentence id="s145">It must not be used under the cloak of such a purpose for the real purpose of benefiting some shareholders or their friends at the expense of other shareholders or so that some shareholders or their friends will wrest control of the company from the other shareholders.</sentence>
+<sentence id="s146">It was submitted by Bell IXL that the expression 'under the cloak of such a purpose' was an apt description of the allegedly false reasons for the placement given by LFE's directors.</sentence>
+<sentence id="s147">25 It is clear that the power to issue shares must be exercised for a proper purpose.</sentence>
+<sentence id="s148">In Ashburton Oil NL v Alpha Minerals NL [1971] HCA 5 ; (1971) 123 CLR 614 at 640 Gibbs J said as follows:
+ However powers conferred on directors by the articles of association of a company must be used bona fide for the benefit of the company as a whole and not to obtain some private advantage.</sentence>
+<sentence id="s149">Directors are not entitled to use their power of issuing and allotting shares merely for the purpose of defeating the wishes of an existing majority of shareholders or maintaining their own control of the company.</sentence>
+<sentence id="s150">26 Directors of a company cannot ordinarily exercise a fiduciary power to allot shares for the purpose of defeating the voting power of existing shareholders by creating a new majority ( Whitehouse v Carlton Hotel Pty Ltd [1987] HCA 11 ; (1987) 162 CLR 285 at 289 per Mason, Deane and Dawson JJ).</sentence>
+<sentence id="s151">27 In Harlowe's Nominees Pty Ltd v Woodside (Lakes Entrance) Oil Company NL [1968] HCA 37 ; (1968) 121 CLR 483 at 492, Barwick CJ, McTiernan and Kitto JJ said the following about the power vested in directors to issue new shares:
+ The suggested corollary is that an exercise of the power cannot be maintained as having been bona fide in the interests of the company unless the company had at the time of the exercise an immediate need of the capital to be paid up on the new shares.</sentence>
+<sentence id="s152">In many a case this may be true as a proposition of fact; but in our opinion it is not true as a general proposition of law.</sentence>
+<sentence id="s153">28 Further on (at 493) their Honours said as follows:
+ The principle is that although primarily the power is given to enable capital to be raised when required for the purposes of the company, there may be occasions when the directors may fairly and properly issue shares for other reasons, so long as those reasons relate to a purpose of benefiting the company as a whole, as distinguished from a purpose, for example, of maintaining control of the company in the hands of the directors themselves or their friends.</sentence>
+<sentence id="s154">An inquiry as to whether additional capital was presently required is often most relevant to the ultimate question upon which the validity or invalidity of the issue depends; but that ultimate question must always be whether in truth the issue was made honestly in the interests of the company.</sentence>
+<sentence id="s155">29 And further on (at 493-494) their Honours said as follows:
+ But if, in making the allotment, the directors had an actual purpose of thereby creating an advantage for themselves otherwise than as members of the general body of shareholders, as for instance by buttressing their directorships against an apprehended attack from such as Harlowe, the allotment would plainly be voidable as an abuse of the fiduciary power, unless Burmah had no notice of the facts.</sentence>
+<sentence id="s156">30 Further, I accept that even an honest and good faith exercise of power by directors may nevertheless be improper.</sentence>
+<sentence id="s157">31 Thirdly, I make some observations on the factual enquiry necessary in identifying the purpose for which a power may be exercised.</sentence>
+<sentence id="s158">It may be possible to conclude on a collective reason or purposes of a board comprising multiple directors, even though each statement by a director of his or her reasons or purposes may differ (see eg Langton v Forsayth Mineral Exploration NL (1975) 1 ACLR 227).</sentence>
+<sentence id="s159">This is not to say that each director's position must not be analysed separately; but I must determine the substantial purpose of the directors (if necessary the majority of directors) which is causative of the decision being made to allot the shares (see Harlowe's [1968] HCA 37 ; 121 CLR 483 and Re Southern Resources Ltd (No 2) (1989) 15 ACLR 770).</sentence>
+<sentence id="s160">Obviously, I must have regard to the circumstances surrounding the decision in question, as well as the evidence of the directors themselves.</sentence>
+<sentence id="s161">32 Nevertheless, the court should be aware not to substitute its own commercial judgment for that of the directors.</sentence>
+<sentence id="s162">33 In Harlowe's 121 CLR 483, in determining whether an allotment of shares had been made for an improper purpose, Barwick CJ, McTiernan and Kitto JJ said at 493:
+ Directors in whom are vested the right and the duty of deciding where the company's interests lie and how they are to be served may be concerned with a wide range of practical considerations, and their judgment, if exercised in good faith and not for irrelevant purposes, is not open to review in the courts.</sentence>
+<sentence id="s163">34 Similarly, in Howard Smith Ltd v Ampol Petroleum Ltd [1974] 1 NSWLR 68 at 74 the Privy Council stated that:
+ ... it would be wrong for the court to substitute its opinion for that of the management, or indeed to question the correctness of the management's decision, on such a question, if bona fide arrived at.</sentence>
+<sentence id="s164">There is no appeal on merits from management decisions to courts of law: nor will courts of law assume to act as a kind of supervisory board over decisions within the powers of management honestly arrived at.</sentence>
+<sentence id="s165">35 Similarly in Idameneo (No 123) Pty Ltd v Symbion Health Ltd (2007) 64 ACSR 680 , at [114], Lindgren J stated:
+ There is a well-known line of authority to the general effect that it is the province of directors, not the courts, to identify where the interests of a company lie, and that the courts do not exercise a supervisory function over the business judgments of directors: see, for example, Harlowe's Nominees Pty Ltd v Woodside (Lakes Entrance) Oil Co NL [1968] HCA 37 ; (1968) 121 CLR 483 at 493; Howard Smith Ltd v Ampol Petroleum Ltd [1974] AC 821 at 832.</sentence>
+<sentence id="s166">36 This is not to say that the court cannot examine the objective commercial justification of a course of action to assess the credibility of assertions by the directors as to their motives and purposes: see Re Southern Resources Ltd (No 2) 15 ACLR 770.</sentence>
+<sentence id="s167">37 Ultimately, each case must turn on its facts, after an assessment of all the evidence, which includes the documentary material, but read in light of other admissible evidence which may impact upon the meaning to be given to documentary evidence and the context of such documentary evidence and the proper inferences that may be drawn.</sentence>
+<sentence id="s168">The evidence of directors must be considered and evaluated, always in the context of the other evidence before the court.</sentence>
+<sentence id="s169">In some circumstances a court may reject the evidence of directors, not because it is intentionally false, but because in the circumstances the overwhelming context is to the contrary, which leads the court to conclude that the evidence of the directors is more reconstruction than recollection.</sentence>
+<sentence id="s170">EVIDENCE OF THE DIRECTORS AND MR WALLER OF AEGIS 
+ 
+38 Each director and Mr Waller gave evidence and was subjected to cross-examination and an attack upon their credit.</sentence>
+<sentence id="s171">I have come to the view that I should accept the evidence of each of the directors and Mr Waller of Aegis.</sentence>
+<sentence id="s172">They all answered the questions asked of them directly and without prevarication and, in my view, honestly.</sentence>
+<sentence id="s173">For the reasons given in the course of this judgment, I do not accept that the context of the allotment of shares is overwhelmingly against the evidence given as to the purpose of the allotment.</sentence>
+<sentence id="s174">There was a commercial basis for the allotment and, in my view, it was appropriate as a matter of business judgment for the directors in view of the history of LFE and potential future activities.</sentence>
+<sentence id="s175">39 One attack upon the credibility of the directors was based upon the lack of any proper board papers and lack of documents evidencing any real search for the placement of the shares.</sentence>
+<sentence id="s176">40 Bell IXL's contention was that the lack of any proper board papers and the lack of documents evidencing any real search for a placement was the best evidence of the improprieties of the directors.</sentence>
+<sentence id="s177">However, as I have said, I am satisfied that it was not the practice of these directors to record in writing, whether by diary note or otherwise, the content of ongoing discussions amongst themselves or with third parties.</sentence>
+<sentence id="s178">The directors did not run LFE by recording or minuting each step of every transaction.</sentence>
+<sentence id="s179">Of course, it is not the function of the board minutes to confirm decisions, such as the decision taken on 19 May 2008 to meet with Mr Booth on 20 May 2008 to discuss the placement.</sentence>
+<sentence id="s180">The fact that the directors so acted is consistent with the circumstances of the directors assuming their defacto 'executive' roles at a critical time for LFE, where it had no staff in Australia, and where the directors were compelled to perform all the executive and non-executive functions in order to assist the management of the company.</sentence>
+<sentence id="s181">41 It would be one thing if every other negotiation or transaction and the like conducted by the board had been meticulously recorded.</sentence>
+<sentence id="s182">In such circumstances, the absence of documents in this one transaction might be the basis of an appropriate inference.</sentence>
+<sentence id="s183">I find that the directors conducted negotiations on the telephone and habitually conferred with each other either in person or on the telephone without making notes of their negotiations or discussions between themselves.</sentence>
+<sentence id="s184">42 Further, it is not uncommon practice for even complicated deals to be negotiated orally and then left to the lawyers to sort out the detail.</sentence>
+<sentence id="s185">This transaction had relatively simple parameters --- 15% of the shares at 7 cents per share to be placed with a principal or nominee.</sentence>
+<sentence id="s186">The documentation following the agreement was fully documented.</sentence>
+<sentence id="s187">43 Bell IXL also relied heavily on certain fees that were approved by and paid to the directors.</sentence>
+<sentence id="s188">This was done by Bell IXL in an attempt to discredit the directors, and also to demonstrate the real purpose of the allotment.</sentence>
+<sentence id="s189">The evidence from the directors is that each of them had undertaken substantial work for LFE, indeed more substantial and time-consuming that they had each appreciated before they were appointed.</sentence>
+<sentence id="s190">They were each taking on the role of executive managers to a lesser or greater degree.</sentence>
+<sentence id="s191">The work each director did was on an as needs basis and this work had significantly increased over several months.</sentence>
+<sentence id="s192">It was not a normal consultancy situation where one would expect a written consultancy agreement.</sentence>
+<sentence id="s193">There may have been good reason not to bill the company for these fees at least until mid-April, as the company did not have the funds to pay them.</sentence>
+<sentence id="s194">I do not consider there have been any double payments, nor am I prepared to accept that the amounts paid were excessive in the circumstances.</sentence>
+<sentence id="s195">Therefore, I do not regard this aspect of the attack upon the credit of the directors as being successful.</sentence>
+<sentence id="s196">44 Bell IXL also sought to attack the credibility of the directors in view of the admittedly late production of an email (which was exhibit P9) and some other documentation.</sentence>
+<sentence id="s197">I do not regard the documents produced late as critical to the share placement, nor that their late production warrants an inference that the late production was deliberate, or in any event, should lead to the conclusion that the directors should be disbelieved on the central issue of purpose.</sentence>
+<sentence id="s198">45 There is one other important matter to observe about the directors' evidence.</sentence>
+<sentence id="s199">Each gave evidence about their reasons for the allotment.</sentence>
+<sentence id="s200">I have considered their evidence separately as to his or her purpose for the allotment of shares.</sentence>
+<sentence id="s201">I have accepted this evidence.</sentence>
+<sentence id="s202">In giving their evidence the directors did not rely upon formulaic answers or give word by word consistent responses, but gave evidence about their own individual positions in a full and frank way.</sentence>
+<sentence id="s203">It seemed to me that there was no indication that the directors came together to give evidence which was deliberately framed for the purposes of defeating Bell IXL's application.</sentence>
+<sentence id="s204">I will return later to the commercial rationale for the allotment and the evidence of the directors in this regard.</sentence>
+<sentence id="s205">46 It was also submitted that Mr Bellman gave false evidence about what and when he was told information concerning Aegis.</sentence>
+<sentence id="s206">He was attacked on one of his affidavits filed in the proceeding.</sentence>
+<sentence id="s207">I did not read Mr Bellman's affidavit as detailing specifically and exclusively all the information he was given on 4 June 2008 when he spoke to Mr Booth.</sentence>
+<sentence id="s208">In his affidavit, Mr Bellman set out information, some of which he said he was told on 4 June, and other material which he was given later, obviously by 27 June 2008.</sentence>
+<sentence id="s209">I accept that Mr Bellman did not receive all the information about Aegis as early as 4 June 2008, but I do not consider that his affidavit and evidence before me was misleading in this regard.</sentence>
+<sentence id="s210">47 There were specific attacks made by Bell IXL upon the credit of Ms Calhoun.</sentence>
+<sentence id="s211">I do not consider that any of the specific matters raised against her indicate that she was giving false evidence: the fact of a failure to recall certain matters or that she made an initially incorrect answer which was corrected does not lead me to disbelieve her on the critical evidence as to her purpose.</sentence>
+<sentence id="s212">I accept that her evidence of the events at the board meeting on 20 May 2008 was likely to have occurred, and whilst some details may have differed between her evidence and that of Messrs Bellman and Milne I do not regard these differences as material.</sentence>
+<sentence id="s213">I accept that she did have discussions with the other directors outside the formal meetings, and do not find it surprising (as she indicated) that a meeting may pass a resolution with little or no discussion when the discussion had already taken place outside the formal meeting.</sentence>
+<sentence id="s214">48 There was also specific attacks made upon the credit of Mr Milne.</sentence>
+<sentence id="s215">It was said that Mr Milne gave false evidence that the placement took place prior to 23 May 2008.</sentence>
+<sentence id="s216">He did originally say the placement took place prior to 23 May 2008 but the context of the cross-examination shows a confusion on his part.</sentence>
+<sentence id="s217">When the questioning persisted and was repeated, Mr Milne readily accepted that there was no firm or binding arrangement prior to 23 May 2008 in relation to the allotment.</sentence>
+<sentence id="s218">I do not consider that this aspect of his giving evidence, either separately or read together with his other evidence, shows that Mr Milne is not to be believed on the question of purpose.</sentence>
+<sentence id="s219">49 It was contended by Bell IXL that I should also disbelieve the explanation given by Mr Milne for his failing to give evidence in the prior hearing.</sentence>
+<sentence id="s220">Mr Milne said that he relied upon legal advice and as a consequence of that advice did not give evidence in the prior hearing.</sentence>
+<sentence id="s221">The circumstances have changed that formed the basis of that legal advice, and there was now no impediment to him giving evidence before me.</sentence>
+<sentence id="s222">For myself, I accept this explanation and consider the explanation to be probable and consistent with an approach that would be adopted upon taking legal advice by a witness in a similar position to Mr Milne.</sentence>
+<sentence id="s223">50 Mr Milne was also attacked on the basis of answers he gave as to the 18 April 2008 ASX release in relation to his understanding of the term 'operational requirements'.</sentence>
+<sentence id="s224">It appears that this release was drafted by lawyers retained by LFE, primarily upon the instructions of Mr Bellman.</sentence>
+<sentence id="s225">I do not regard in particular Mr Milne's explanation of what the term 'operational requirements' (or as referred to in cross-examination, 'operational expenses') meant in the release as necessarily conclusive; nor do I consider that his view of the term impacted upon his credit.</sentence>
+<sentence id="s226">He seemed to me to give an explanation based upon his own understanding, which may or may not have been the correct interpretation to be given to the release.</sentence>
+<sentence id="s227">51 In relation to Mr Waller, he also gave evidence in a way which indicated to me that his responses to questions were honest.</sentence>
+<sentence id="s228">He answered the questions without procrastination, and candidly accepted that the method he adopted may not have been completely prudent.</sentence>
+<sentence id="s229">However, he demonstrated to me that he acted as an investor who was prepared to take some risk, although perhaps not always acting prudently.</sentence>
+<sentence id="s230">The nature of his relationship with Mr Booth and the nature of this transaction lent support to the version of events Mr Waller attested to before me.</sentence>
+<sentence id="s231">I therefore accept the evidence of Mr Waller.</sentence>
+<sentence id="s232">He has had considerable experience in business and investments.</sentence>
+<sentence id="s233">I accept that he considered an investment in LFE to have great potential if the Octapharma transaction were completed, and to be an opportunity for further investment.</sentence>
+<sentence id="s234">I do not consider that the decision for him to invest would have been too difficult to make, nor would have required too much consideration, having regard to the amount of the investment and the relatively simple nature of the investment.</sentence>
+<sentence id="s235">52 I will return to the Booth email later, but I observe here that Mr Waller did not treat the full content of the Booth email with much seriousness, particularly as to the purpose of the directors.</sentence>
+<sentence id="s236">He did not make an immediate decision to undertake the placement, but did decide to further negotiate and consider the proposal.</sentence>
+<sentence id="s237">In this context it is not surprising that Mr Waller did not question the directors as to their purpose; he did not treat the Booth email as a basis for so questioning the directors, and no other indication was made to him to show any obvious improper purpose.</sentence>
+<sentence id="s238">53 Finally, I accept that Mr Waller's later view about voting at the meeting convened to remove the directors was motivated by Mr Waller's dissatisfaction with the attitude of Bell IXL in seeking the injunctive relief in this proceeding, and it was not part of the implementation of some agreement with the directors entered into in May or June 2008.</sentence>
+<sentence id="s239">CAPITAL RAISING DISCUSSIONS PRIOR TO MAY 2008 
+ 
+54 I now turn to the historical context in which the allotment of shares was made by LFE.</sentence>
+<sentence id="s240">55 It is apparent that at least up until April 2008 LFE was in a precarious financial position.</sentence>
+<sentence id="s241">Further, there was some discussion in relation to seeking capital raising by share allotment prior to May 2008.</sentence>
+<sentence id="s242">Bell IXL says that these discussions related to finding large sums of money in the order of $5 to $20 million and not smaller amounts of capital under $5 million and that this is a critical difference.</sentence>
+<sentence id="s243">Bell IXL further says that none of the documentation is consistent with the smaller raising of less than $1.2 million raised by the private placement in issue.</sentence>
+<sentence id="s244">56 Undoubtedly Bell IXL is correct in the focus being upon a larger amount.</sentence>
+<sentence id="s245">However, I do not think that one can dismiss the earlier discussions as to capital raising as not being a matter that is important for me to consider in the context of all the evidence that is before the Court as the purposes of the directors in later making a private placement.</sentence>
+<sentence id="s246">This historical perspective gives the Court an insight into the directors' approach to or philosophy about capital raising, and can be viewed to determine whether the allotment in issue was consistent with such a view or philosophy, or a completely new concept for the directors.</sentence>
+<sentence id="s247">In my view, whilst the amounts involved were substantially different, the earlier discussions on capital raising did have at least two important similarities with the allotment in issue: the acceptance of the desire for some capital, and the finding of a person to assist later with an injection of capital.</sentence>
+<sentence id="s248">Further, the directors did have an interest in trying to avoid the depletion of cash reserves where possible.</sentence>
+<sentence id="s249">57 Both Messrs Bellman and Milne upon appointment to the board considered the financial restructuring of the company.</sentence>
+<sentence id="s250">I accept that soon after his appointment Mr Bellman discussed a variety of options for seeking additional capital with Mr Milne.</sentence>
+<sentence id="s251">In about March 2008, Messrs Bellman and Milne told Mr Riddell that LFE wanted to raise additional capital or equity and did want to 'burn' the lump sum of money paid by Octapharma.</sentence>
+<sentence id="s252">A two-step process was considered: a placement and then a rights issue with a prospectus.</sentence>
+<sentence id="s253">58 The philosophy was not very different to what was ultimately agreed with Mr Waller on 4 June 2008.</sentence>
+<sentence id="s254">As Mr Waller deposed:
+ At the time of the telephone call [on 4 June], Aegis was not interested in participating in a placement which was merely a 1-off investment of 15%, but was only interested in an investment that would result in a course of dealings with the company that involved Aegis and the company sourcing potential investments together.</sentence>
+<sentence id="s255">In my conversations with the directors described above, at least 1 of them told me that LFE wanted Aegis to invest further funds in LFE in the future to participate in such identified investments.</sentence>
+<sentence id="s256">I told the directors that that suited Aegis, or words to that effect.</sentence>
+<sentence id="s257">59 The maximum that could be raised by placement was 15%.</sentence>
+<sentence id="s258">From the beginning of their tenure the directors wanted to avoid depleting, where possible, its cash reserves.</sentence>
+<sentence id="s259">The half-yearly accounts of 14 March 2008 showed that LFE was seeking to raise further capital relevantly stated as follows:
+ ...</sentence>
+<sentence id="s260">The [LFE Group's] ability to continue as a going concern is a dependant on the Group being able to raise sufficient capital or funding to meet its working capital needs and service its existing debt until it obtains shareholder approval to sell its existing operations and generates sufficient funds to renegotiate or repay its liabilities.</sentence>
+<sentence id="s261">...</sentence>
+<sentence id="s262">If the company is unable to complete the above sale transactions with Octapharma AG and is unable to obtain alternative funding sources at an amount and timing necessary to meet its operational plans and business activity the company may be unable to continue as a going concern.</sentence>
+<sentence id="s263">60 I do not view the Octapharma loan and 'alternative funding' as mutually exclusive objectives.</sentence>
+<sentence id="s264">Even when LFE issued a draw-down notice for the sum of US$37.1 million under the Octapharma loan facility, Mr Bellman met with Mr Currie of Zeus Capital, a man introduced to LFE by Camino Capital and with considerable knowledge and experience in capital fundraising.</sentence>
+<sentence id="s265">61 The need for LFE to conduct a capital raising was one of the topics Messrs Bellman and Milne first raised with Ms Calhoun when she was considering joining the LFE Board in late April 2008.</sentence>
+<sentence id="s266">On 27 and 28 April 2008 Ms Calhoun met with Messrs Bellman and Milne in Sydney.</sentence>
+<sentence id="s267">Together they discussed the parlous state of LFE and the need to raise capital.</sentence>
+<sentence id="s268">Messrs Bellman and Milne told Ms Calhoun that they were already in discussions with other parties about raising capital.</sentence>
+<sentence id="s269">62 The ASX releases on 14 April 2008 and 18 April 2008 may demonstrate a willingness or commitment by LFE to spend the Octapharma monies but do not mean that LFE was not able to consider a placement.</sentence>
+<sentence id="s270">The ASX releases do not amount to a statement that the company was only to spend the Octapharma monies and would do so without exploring the alternative funding adverted to in the half-yearly report on 14 March 2008.</sentence>
+<sentence id="s271">63 I do not consider that it can be said that the private placement which occurred was actually contemplated in February, March and April 2008, before Bell IXL came onto the scene.</sentence>
+<sentence id="s272">The placement was of a much smaller amount and Mr Riddell was no longer retained as a financial adviser to give continuing advice.</sentence>
+<sentence id="s273">However, in my view, the events prior to May 2008 indicate an approach of the directors consistent with the approach they say they adopted in carrying out the private placement, and as such support their version of events.</sentence>
+<sentence id="s274">THE BOOTH MEETING 
+ 
+64 As I have already said the Booth meeting set in train the events leading up to and including the allotment of shares.</sentence>
+<sentence id="s275">The following events occurred prior to the Booth meeting.</sentence>
+<sentence id="s276">In early May 2008 Mr Milne told Mr Booth that LFE was looking for investors who might provide capital to LFE.</sentence>
+<sentence id="s277">Mr Booth told Mr Milne that he might have some investors interested in taking a placement of shares in LFE.</sentence>
+<sentence id="s278">Mr Milne told Mr Booth that he would organise a meeting and that Mr Bellman would also attend.</sentence>
+<sentence id="s279">65 I find that the Booth meeting occurred at or about 5.30 pm on 20 May 2008.</sentence>
+<sentence id="s280">I do so for the following reasons:
+ 
+&#8226; Mr Bellman's diary records a meeting with 'Tom Booth Asandas re placement' at 5:30pm on 20 May.</sentence>
+<sentence id="s281">Compared to Mr Booth's inexact recollections and lack of any proper diary notes, Mr Bellman seemed to keep a more meticulous diary of his own commitments.</sentence>
+<sentence id="s282">&#8226; There is the evidence of Ms Calhoun (which I accept) that on 19 May 2008 she discussed the placement with Messrs Bellman and Milne and that they informed her that a meeting with Mr Booth had been arranged for and was to take place on 20 May 2008.</sentence>
+<sentence id="s283">&#8226; There is the evidence of Messrs Bellman and Milne (which I accept) that the meeting occurred on that day.</sentence>
+<sentence id="s284">&#8226; The content of Mr Booth's 3 June email is evidence that the meeting occurred before 23 May 2008 because:
+ 
+ 
+ (i) he refers to a group with 7%.</sentence>
+<sentence id="s285">He does not name Bell IXL.</sentence>
+<sentence id="s286">Only by 23 May 2008, had Bell IXL lodged a substantial shareholder notice; and 
+ (ii) he says he was told a group had '7%'.</sentence>
+<sentence id="s287">If, as Bell IXL contends, board control was at stake, it is inherently improbable that Mr Booth would have been told 7% if the directors knew that a group had 8.75%.</sentence>
+<sentence id="s288">
+ 
+
+&#8226; Whilst Mr Booth in his evidence did estimate that the meeting occurred in the last week of May, I do not regard his evidence as determinative on this issue of the date of the Booth meeting when weighed against the other evidence.</sentence>
+<sentence id="s289">&#8226; Whilst Mr Booth did say in cross-examination that he recollected that Bell IXL was mentioned to him in the course of the meting (which would mean the meeting would have to have been on or after 23 May 2008) this is nowhere mentioned in his contemporaneous notes or email and I think he was mistaken in giving his evidence as to the time he was told of the existence of Bell IXL.</sentence>
+<sentence id="s290">At the time he gave this particular evidence Mr Booth was in some pain, and this could have affected the giving of his evidence on this aspect.</sentence>
+<sentence id="s291">&#8226; Whilst one would have expected the follow up email of 3 June 2008 to have followed closely upon any meeting, I do not regard the gap between 20 May 2008 and the sending of the email as determinative of the date of the meeting being other than 20 May 2008.</sentence>
+<sentence id="s292">THE BOOTH EMAIL 
+ 
+66 The email from Mr Booth to Mr Waller was an important part of Bell IXL's case.</sentence>
+<sentence id="s293">In my view, the email merely contained Mr Booth's opinion that the placement was being done to assist the directors to 'hold on' and because they did not want to 'lose their shell'.</sentence>
+<sentence id="s294">He was not told these matters by any director.</sentence>
+<sentence id="s295">The email cannot otherwise be attributed to LFE.</sentence>
+<sentence id="s296">It was not seen by the directors of LFE, nor in any way adopted by them.</sentence>
+<sentence id="s297">Mr Booth and Asandas were not agents of LFE.</sentence>
+<sentence id="s298">The recipient of the Booth email, Mr Waller, gave evidence that he did not place much store upon all that was contained in the email.</sentence>
+<sentence id="s299">67 Further, Mr Booth said this in cross-examination:
+ From my recollection it was conveyed that they didn't really want to touch the existing capital in the company, which was $17 million, because that was part of an existing --- part of an unsettled transaction.</sentence>
+<sentence id="s300">That was --- as I said, they said they'd been paid 37 previously, there was 20 odd in liabilities, there' s 17 left there in cash and if the transaction is not approved then that --- how that money is going to be returned, I have no idea.</sentence>
+<sentence id="s301">68 The fact that he was told that the directors wanted to make the placement and did not want to 'touch existing capital' supports the view I have taken that I should accept Mr Booth's evidence that he merely 'inferred' that the board wanted to 'hold on'.</sentence>
+<sentence id="s302">69 It is also of significance to note that the Booth email does not state that it would be a condition of taking a placement that Aegis would vote in favour of the current board.</sentence>
+<sentence id="s303">If the alleged improper purpose had existed, it would have been prudent for the LFE board to obtain some comfort that they were placing shares with an ally, rather than an unknown party.</sentence>
+<sentence id="s304">Subsequently, LFE was content for Aegis to place the shares to nominees without the need for LFE's consent.</sentence>
+<sentence id="s305">The subscription agreement gave Aegis the opportunity to place the shares to a nominee, without requiring LFE's prior approval.</sentence>
+<sentence id="s306">LFE therefore had no control over whether the placed shares would vote or how they would vote at the general meeting.</sentence>
+<sentence id="s307">If LFE's purpose had been to 'hold on', this critical detail would have been attended to and the recipient's voting intentions confirmed, and this would have needed to be addressed in the Booth email.</sentence>
+<sentence id="s308">70 Whether or not Mr Booth was guessing as to the purpose of the directors, deliberately trying to entice Mr Waller into action, or making an inference he was confident was true, the Booth email, either alone or in conjunction with the other evidence in this proceeding which I have accepted as true, does not result in Bell IXL demonstrating the improper purpose relied upon by it.</sentence>
+<sentence id="s309">Whilst Mr Booth could not explain what really led him to form the view he did as expressed in the email, at best the email reflects only his impression of the position.</sentence>
+<sentence id="s310">After hearing all the evidence (including from the directors), we have proceeded well beyond the realm of impression, speculation or conjecture.</sentence>
+<sentence id="s311">LFE'S EXPLANATION AS TO THE PURPOSE FOR THE ALLOTMENT 
+ 
+71 Bell IXL refers to a number of versions of evidence of the directors as to the purpose of the placement, and draws upon the differences within each of the director's accounts, and differences between the accounts of each director.</sentence>
+<sentence id="s312">Undoubtedly there is no exactness in the language and expression of purpose, but this is to be expected.</sentence>
+<sentence id="s313">As I have alluded to previously, I would have been more concerned if each director had adopted a formulaic response when asked about his or her purpose.</sentence>
+<sentence id="s314">72 In my view, the important theme which is found through the evidence is that the directors were looking for future additional capital funding, not just an immediate need.</sentence>
+<sentence id="s315">It was important that the entity who made the placement would contribute further to LFE.</sentence>
+<sentence id="s316">73 Therefore, whilst it may be that any current shortfalls between revenue and expenses could be covered without the placement, this would not indicate that the purpose of the placement was not looking to the future.</sentence>
+<sentence id="s317">74 The fact that the monies raised by the placement were insufficient to fund the expenses, and so at best would only 'limit' the need for LFE to access cash it had as an investment, would not mean the purpose ascribed by the directors could be categorised as irrational if part of the rationale is the future needs of LFE.</sentence>
+<sentence id="s318">Similarly, the fact that the Octapharma transaction not being approved would mean that any cash raised would be pointless (as without the approval LFE would probably not survive) does not mean that the directors could not undertake the strategy of future planning in the way they envisaged.</sentence>
+<sentence id="s319">In any event, assuming that the Octapharma transaction was in all likelihood to be approved, which was the assumption of the directors, it was rational to provide for a future strategy (which included accessing a person to provide future funding) in the event that the Octopharma transaction was extended or there were issues with its immediate acceptance.</sentence>
+<sentence id="s320">These were all matters which seem to me to be matters of judgement and opinion, and necessarily relate to a director's view of the future.</sentence>
+<sentence id="s321">The recent historical precarious financial position of the company was a matter the directors could, and did, have regard to in determining the appropriate way to proceed.</sentence>
+<sentence id="s322">75 Bell IXL put some emphasis upon Mr Milne's evidence of needing to 'stabilise the register' of LFE as supporting the allegation of improper purpose.</sentence>
+<sentence id="s323">A fair reading of this reference to stabilising the register in my view merely indicates that he was referring to the need to find a person who may be able to provide further funding in the future.</sentence>
+<sentence id="s324">76 Mr Milne gave the following evidence which I accept:
+ What was the purpose behind the placement of 15 per cent of the company's capital to Aegis, as you understood it?</sentence>
+<sentence id="s325">There were multiple objectives.</sentence>
+<sentence id="s326">The first was to introduce a shareholder to stabilise the register who had the ability to fund the second tranche of funding post Octapharma transaction.</sentence>
+<sentence id="s327">The second was to provide interim working capital to the holding company.</sentence>
+<sentence id="s328">And the third was to provide more funds to the company in the event that the Octopharma transaction for some reason was extended or there was an event of default, and would give the company some funds in order to negotiate during that interregnum.</sentence>
+<sentence id="s329">77 Therefore, it seems to me that once it is accepted that the strategy of the directors is that of a two-tiered approach, the contentions made by Bell IXL have insufficient impact to enable one to conclude that the placement was in the circumstances irrational.</sentence>
+<sentence id="s330">78 As I have said, I accept that there were differences in the evidence of each director as to the purpose of the placement, but both Messrs Bellman and Milne referred to the two-tiered approach.</sentence>
+<sentence id="s331">The more recently appointed director, Ms Calhoun, focused upon the immediate need until such time as the shareholders were in a position to decide on the Octapharma transaction, and discarded the issue of dilution.</sentence>
+<sentence id="s332">However, she discussed the matter with the other directors who, as I have decided, did have the two-tiered approach in mind.</sentence>
+<sentence id="s333">In any event, the clear purpose of the majority of the directors was with respect to the future needs of LFE and not just its present need.</sentence>
+<sentence id="s334">THE EXISTENCE OF PREDATORS 
+ 
+79 Bell IXL sought to rely upon the directors' concern of a predator other than Bell IXL prior to 20 May 2008 to support the case for an improper purpose.</sentence>
+<sentence id="s335">There was no evidence to find that the directors knew of the existence of Bell IXL prior to 23 May 2008, so in this proceeding Bell IXL could not rely upon the directors' specific knowledge of Bell IXL if the Booth meeting occurred on 20 May 2008 (as I have found).</sentence>
+<sentence id="s336">80 I do not consider that the request for and the provision of share register information in May 2008 has any significance, or leads to the conclusion the board was concerned with predators.</sentence>
+<sentence id="s337">In my view, the board wanted to develop a standard format for the making of board minutes and the running of meetings.</sentence>
+<sentence id="s338">The April 2008 figures were requested in an attempt to develop a standard format in circumstances where there was a new Company Secretary.</sentence>
+<sentence id="s339">81 I observe that the board did not receive the May trading results until after the 23 May 2008 Notice of Substantial Shareholding by Bell IXL.</sentence>
+<sentence id="s340">If the directors shared the concerns that Bell IXL alleged, they probably would have sought all relevant share register information available on 20 May, not information that was already 20 days old.</sentence>
+<sentence id="s341">82 Mr Milne said that he had suspected Kedrion was the third or fourth largest shareholder on the register in February and March 2008.</sentence>
+<sentence id="s342">The evidence before me does not suggest that the nominee entities through which Kedrion may have been acquiring shares increased their holding in April 2008.</sentence>
+<sentence id="s343">There was no evidence to suggest that Kedrion wanted control of LFE and it was never suggested that Kedrion had a 7% shareholding.</sentence>
+<sentence id="s344">No tracing notices were issued in April or May 2008.</sentence>
+<sentence id="s345">If there was a real fear of a predator like Kedrion, one would have expected that the directors would make the placement earlier, check the register between 1 and 20 May 2008, and seek more urgent attention from Mr Booth to contact a potential investor.</sentence>
+<sentence id="s346">83 As far as Kedrion was concerned, Mr Bellman said:
+ The only time I ever thought --- or the time I most definitely thought, maybe Kedrion were taking a position, was when HSBC appeared on the register.</sentence>
+<sentence id="s347">Now, sitting here and talking to you now, I can't recall the date when that became apparent.</sentence>
+<sentence id="s348">If that was late in May then that's the trigger for me.</sentence>
+<sentence id="s349">84 HSBC only held 1.22% of the shares in LFE on 19 May 2008.</sentence>
+<sentence id="s350">There was no evidence that the directors were observing the daily register at or around that time.</sentence>
+<sentence id="s351">Mr Bellman gave evidence that directors only started checking the daily register after 23 May 2008.</sentence>
+<sentence id="s352">There is no evidence that I can find that allows me to conclude that on or prior to 23 May 2008 any of the directors (including Mr Bellman) knew HSBC appeared on the register.</sentence>
+<sentence id="s353">85 As to the general trading movements which it is said by Bell IXL were of concern to the board, they do not represent a marked departure from what the board could have ordinarily expected.</sentence>
+<sentence id="s354">In fact, the top 20 shareholders remained largely stagnant when one compares January, February and March 2008 with the April 2008 figures.</sentence>
+<sentence id="s355">On the evidence before the Court, it does not seem to me that the board would have had any reason to be concerned over the trading movements relied upon by Bell IXL.</sentence>
+<sentence id="s356">86 As to the board's knowledge and concern of predators, Bell IXL relied upon the Booth email and the evidence of Mr Booth.</sentence>
+<sentence id="s357">I accept that Mr Booth was an honest witness but that his recollection was not completely sound.</sentence>
+<sentence id="s358">I do think that he was in some way confused and was not aware of the actual sequence of events.</sentence>
+<sentence id="s359">As I have previously observed, whilst giving his evidence he did seem distracted by some pain which may have affected his concentration.</sentence>
+<sentence id="s360">Mr Booth must have been wrong about his reference to the 7% because there was never at any time before or after May 2008 any person or group that bought 7%.</sentence>
+<sentence id="s361">There was a reference to 8% in his contemporaneous note but that was not explained.</sentence>
+<sentence id="s362">Mr Booth was quite clear that he was never told by any director that they wanted a placement to 'hold on'.</sentence>
+<sentence id="s363">Nor was he ever told by any director that they did not want to 'lose their shell'.</sentence>
+<sentence id="s364">Mr Booth did say that the existence of Bell IXL was something mentioned at the meeting, but I think again he must have been mistaken as to this because if the meeting was as I have found on 20 May 2008, the existence of Bell IXL would not have been communicated to him nor would it have been something which he could have known about from talking to the directors.</sentence>
+<sentence id="s365">OTHER MATTERS RELIED UPON BY BELL IXL 
+ 
+87 A number of matters were relied upon by Bell IXL which were said to reflect upon the credibility of the evidence of the directors and Mr Waller and, more importantly, indicated and supported the submission of Bell IXL that the allotment was for an improper purpose.</sentence>
+<sentence id="s366">88 The first fact is the retainer by LFE of GPS.</sentence>
+<sentence id="s367">GPS is an organisation that provides 'strategic shareholder communications advice and programs'.</sentence>
+<sentence id="s368">It helps a company ensure that its shareholders 'are aware and clearly informed about the merits of any proposals [put by the directors]'.</sentence>
+<sentence id="s369">It encourages shareholders to 'vote in favour of each resolution' put by the board.</sentence>
+<sentence id="s370">GPS was appointed on 13 June 2008, the day after the subscription agreement was executed.</sentence>
+<sentence id="s371">It was paid $60,000 on account of its services.</sentence>
+<sentence id="s372">I accept that GPS was appointed to assist the company in obtaining shareholder approval for the Octapharma sale.</sentence>
+<sentence id="s373">GPS seemed to be also intending to solicit shareholders to vote against the resolution to remove the board.</sentence>
+<sentence id="s374">However, I accept that this was not the purpose of the LFE directors retaining GPS.</sentence>
+<sentence id="s375">The purpose of the retainer was set out in the retainer itself, and I accept the evidence of Mr Milne that, in effect, GPS in intending to solicit shareholders to vote for the existing directors to remain was not something directed or condoned by the board.</sentence>
+<sentence id="s376">89 Another fact relied upon by Bell IXL was that the transaction was effected quickly and without proper consideration, and reference was made to Mr Waller's acceptance within just three hours or so.</sentence>
+<sentence id="s377">The reference to 'Let's do it boss' upon receipt of the Booth email was explained by Mr Waller not as an acceptance of the deal, but an instruction to proceed.</sentence>
+<sentence id="s378">Mr Waller said (which I accept) that this reference to 'Let's do it boss' was slang for 'I will look at it'.</sentence>
+<sentence id="s379">So it is not correct to conclude that Mr Waller took only three hours to decide to take the placement.</sentence>
+<sentence id="s380">In any event, the decision was not necessarily a difficult one to make for a 'risk taker' or experienced investor like Mr Waller.</sentence>
+<sentence id="s381">For 15% of capital at $0.07 per share in a cash box of $18 million, the return on investment would be somewhere between $0.13 and $0.14 per share.</sentence>
+<sentence id="s382">The placement would not be expected to be made at a discount as the volume weighted average price for April and May averaged between $0.07 and $0.08.</sentence>
+<sentence id="s383">The placement would not have been made at a higher price, despite the projected net tangible asset backing, because Aegis could otherwise have simply bought on market.</sentence>
+<sentence id="s384">Further, Mr Waller's evidence was that the transaction was not done 'urgently or particularly quicker' than other placements in which he had been involved.</sentence>
+<sentence id="s385">Further, the transaction was not of a great magnitude compared with other transactions undertaken by Mr Waller.</sentence>
+<sentence id="s386">90 Finally, Bell IXL relied upon the email from Mr Bellman to Mr Baguley of 9 July 2008 to support the contention that the defendants had entered into an arrangement for the directors to remain in control.</sentence>
+<sentence id="s387">91 Mr Waller denied the existence of any arrangement with the LFE directors as to how the shares would be voted, as did the directors.</sentence>
+<sentence id="s388">I accept their evidence.</sentence>
+<sentence id="s389">92 In my view, this wording of the email does not detract from the view that I have otherwise taken as to the events that occurred in May 2008.</sentence>
+<sentence id="s390">I am not persuaded that an improper purpose activated the share placement.</sentence>
+<sentence id="s391">By 9 July 2008 it may be that Mr Bellman was trying to assist Aegis, but I do not infer that this relates back to being a quid pro quo for the placement that was in fact made earlier.</sentence>
+<sentence id="s392">It may have been that Mr Bellman was wanting to secure a favourable vote from Bell Potter.</sentence>
+<sentence id="s393">That may have been why Mr Bellman did not want 'to risk leaving this [return of proxy] to the last minute'.</sentence>
+<sentence id="s394">Or it may have been merely that Mr Bellman, thinking the risk was in any event with Bell Potter, wanted to ensure the arrangements in relation to the proxies were in place so everything was in order.</sentence>
+<sentence id="s395">Whatever the reason, I am not persuaded that the wording of the email supports an inference of an improper purpose of the kind alleged by Bell IXL.</sentence>
+<sentence id="s396">93 It was also submitted that I should draw an inference that this email of 9 July 2008 was part of the overall plan to consolidate the directors' control of the company, reinforced by the failure to call Mr Baguley; reliance was placed to this end upon the principle in Jones v Dunkel (1959) 101 CLR 298.</sentence>
+<sentence id="s397">Of course, the failure to call evidence may, not must, lead to an inference that the uncalled evidence would not have assisted a party's case.</sentence>
+<sentence id="s398">The application of the principles in Jones v Dunkel must be applied in the context of the evidence that is presented to a court.</sentence>
+<sentence id="s399">Assuming that the defendants were in a position to call Mr Baguley, I do not regard the email as of sufficient significance to consider Mr Baguley to be a witness expected to be called.</sentence>
+<sentence id="s400">Further, on the evidence presented by Bell IXL, I would not otherwise require an explanation of the email of 9 July 2008 in circumstances where the main issues of fact relate to the events in May 2008.</sentence>
+<sentence id="s401">In this hearing, all of the directors and Mr Waller gave evidence and were subject to cross-examination on all the issues raised for determination between the parties, including the existence of some impermissible arrangement between the defendants.</sentence>
+<sentence id="s402">94 I am not saying the email of 9 July may not be relevant to showing (on Bell IXL's case) an overall strategy of improper purpose.</sentence>
+<sentence id="s403">However, in the end, the conclusion I have reached is that irrespective of the wording adopted in the 9 July email, the purpose in making the allotment was not that described by Bell IXL.</sentence>
+<sentence id="s404">I have reached this conclusion on the basis of all the evidence before me including the evidence of all the actual persons involved in the decision-making in May and June 2008.</sentence>
+<sentence id="s405">CONCLUSION 
+ 
+95 In view of the above, I propose to dismiss the proceeding and make other orders upon hearing further from the parties.</sentence>
+<sentence id="s406">I certify that the preceding ninety-five (95) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.</sentence>
+<sentence id="s407">Associate:
+
+Dated: 26 September 2008
+
+ Counsel for the Plaintiff: Mr Mark A Robins 
+ 
+ Solicitor for the Plaintiff: Pointon Partners 
+ 
+ Counsel for the First Defendant: Mr Noel C Hutley SC, Mr David J O'Callaghan SC 
+&amp; Mr Robert G Craig 
+ 
+ Solicitor for the First Defendant: Johnson Winter &amp; Slattery 
+ 
+ Counsel for the Second and Third Defendants: Mr David T Forbes 
+ 
+ Solicitor for the Second and Third Defendants: Chang, Pistilli &amp; Simmons 
+
+ Date of Hearing: 2 - 4, 10 September 2008 
+ 
+ Date of Judgment: 26 September 2008 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1457.html 
+ 
+ </sentence>
+</sentences>
+</case>

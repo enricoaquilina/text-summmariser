@@ -1,0 +1,482 @@
+<?xml version="1.0"?>
+<case>
+<name>Krueger Transport Equipment Pty Ltd v Glen Cameron Storage &amp; Distribution Pty Ltd (No 2) [2008] FCA 1493 (9 October 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1493.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">damages</catchphrase>
+<catchphrase "id=c1">whether innocent infringement defence available where defendant had reasonable grounds to suspect that use of copyright material was not authorised but failed to make further inquiries</catchphrase>
+<catchphrase "id=c2">when liability for copyright infringement is joint and several</catchphrase>
+<catchphrase "id=c3">whether amount received in settlement from one joint tortfeasor must be deducted from any damages awarded against another</catchphrase>
+<catchphrase "id=c4">when secondary or consequential loss such as lost goodwill or mitigation costs is recoverable</catchphrase>
+<catchphrase "id=c5">circumstances in which additional damages should be awarded</catchphrase>
+<catchphrase "id=c6">circumstances in which indemnity costs should be awarded based on infringing party's conduct</catchphrase>
+<catchphrase "id=c7">copyright</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 Krueger Transport Equipment Pty Ltd (ACN 005 296 515) ("Krueger") sued the first, second, third and fifth respondents (collectively "the Cameron parties") and the first and fifth respondents (together "Camerons") for misuse of confidential information and sued the Cameron parties and the fourth respondent ("Vawdrey") for copyright infringement.</sentence>
+<sentence id="s1">Camerons requested Krueger and Vawdrey to submit a design for a load restraint system to deal with cartage of palletised cardboard boxes produced by Amcor Fibre Packaging ("Amcor").</sentence>
+<sentence id="s2">Krueger created a load restraint system and asserted that, after it disclosed that system to Camerons, Camerons disclosed it to Vawdrey and Vawdrey used it to win the contract with Camerons.</sentence>
+<sentence id="s3">2 There was a hearing on liability in March 2008.</sentence>
+<sentence id="s4">Reasons for decision were published on 30 May 2008: Krueger Transport Equipment Pty Ltd [2008] FCA 803 ("the reasons for decision").</sentence>
+<sentence id="s5">I found that as a result of Camerons' unauthorised disclosure of confidential information of Krueger to Vawdrey, Camerons misused that confidential information: at [87]-[119].</sentence>
+<sentence id="s6">In addition, I found that Camerons authorised the infringement of Krueger's copyright in the Krueger Drawings (as defined in [3] of the reasons for decision) and Vawdrey infringed Krueger's copyright in those drawings: at [120]-[136].</sentence>
+<sentence id="s7">3 The question of pecuniary relief was reserved for further hearing.</sentence>
+<sentence id="s8">Krueger elected to claim damages for the loss it suffered by reason of the breach of confidence and the copyright infringement.</sentence>
+<sentence id="s9">After the reasons for decision were published, the proceeding between Krueger and the Cameron parties was settled.</sentence>
+<sentence id="s10">As a result, the claim for damages to be assessed is limited to that between Krueger and Vawdrey for copyright infringement.</sentence>
+<sentence id="s11">4 Section 115 of the Copyright Act 1968 (Cth) ("the Copyright Act "), so far as is relevant, provides:
+ 
+ 
+ 
+ (1) Subject to this Act, the owner of a copyright may bring an action for an infringement of the copyright.</sentence>
+<sentence id="s12">(2) Subject to this Act, the relief that a court may grant in an action for an infringement of copyright includes an injunction (subject to such terms, if any, as the court thinks fit) and either damages or an account of profits.</sentence>
+<sentence id="s13">(3) Where, in an action for infringement of copyright, it is established that an infringement was committed but it is also established that, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement of the copyright, the plaintiff is not entitled under this section to any damages against the defendant in respect of the infringement, but is entitled to an account of profits in respect of the infringement whether any other relief is granted under this section or not.</sentence>
+<sentence id="s14">
+ 
+ 
+ 
+ 
+ 
+ (4) Where, in an action under this section: 
+ 
+ 
+ 
+ 
+ 
+ (a) an infringement of copyright is established; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) the court is satisfied that it is proper to do so, having regard to: 
+ 
+ (i) the flagrancy of the infringement; and 
+ 
+ (ia) the need to deter similar infringements of copyright; and 
+ 
+ (ib) the conduct of the defendant after the act constituting the infringement or, if relevant, after the defendant was informed that the defendant had allegedly infringed the plaintiff's copyright; and 
+ 
+ (ii) whether the infringement involved the conversion of a work or other subject-matter from hardcopy or analog form into a digital or other electronic machine-readable form; and 
+ 
+ (iii) any benefit shown to have accrued to the defendant by reason of the infringement; and 
+ 
+ (iv) all other relevant matters; 
+ 
+ the court may, in assessing damages for the infringement, award such additional damages as it considers appropriate in the circumstances.</sentence>
+<sentence id="s15">
+ 
+
+5 Krueger seeks orders that Vawdrey pay:
+ 
+1. damages under s 115(2) of the Copyright Act , including damages for loss of goodwill and mitigation costs; and
+ 
+2. additional damages under s 115(4) of the Copyright Act .</sentence>
+<sentence id="s16">6 Vawdrey denies it is liable to pay any monetary sum to Krueger by way of damages on the basis that it has made out a defence of innocent infringement in s 115(3) of the Copyright Act .</sentence>
+<sentence id="s17">Alternatively, Vawdrey submits that if any damages are payable, then damages are confined to limited compensatory damages for lost profits under s 115(2) of the Copyright Act and that Krueger is not entitled to additional damages under s 115(4) of the Copyright Act .</sentence>
+<sentence id="s18">7 The issues that fall to be determined are:
+ 
+1. whether Vawdrey is an innocent infringer under s 115(3) of the Copyright Act ;
+ 
+2. if no to (1), whether damages are to be "apportioned" between Camerons and Vawdrey;
+ 
+3. if no to (2), the nature and amount of the damages to be paid by Vawdrey to Krueger.</sentence>
+<sentence id="s19">ISSUE 1 - INNOCENT INFRINGER DEFENCE 
+ 
+8 Vawdrey submits that it is not liable to pay damages to Krueger because it has established the innocent infringer defence in s 115(3) of the Copyright Act .</sentence>
+<sentence id="s20">I reject that contention.</sentence>
+<sentence id="s21">9 As just noted, s 115(3) of the Copyright Act provides:
+ 
+ 
+ Where, in an action for infringement of copyright, it is established that an infringement was committed but it is also established that, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting , that the act constituting the infringement was an infringement of the copyright, the plaintiff is not entitled under this section to any damages against the defendant in respect of the infringement, but is entitled to an account of profits in respect of the infringement whether any other relief is granted under this section or not.</sentence>
+<sentence id="s22">(Emphasis added.</sentence>
+<sentence id="s23">)
+ 
+ 
+
+10 This section has been the subject of previous judicial analysis: e.g.</sentence>
+<sentence id="s24">Golden Editions Pty Ltd v Polygram Pty Ltd (1996) 61 FCR 479 ; see also Boyapati v Rockefeller Management Corporation [2008] FCA 995 ; Milwell Pty Ltd v Olympic Amusements Pty Ltd [1999] FCA 63 ; (1999) 85 FCR 436 ; Sheldon &amp; Hammond Pty Ltd v Metrokane Inc [1999] FCA 63 ; (2004) 85 FCR 436 ; Cody Opal (Australia) Pty Ltd v Dimasi (2004) 64 IPR 378 ; Kalamazoo (Aust) Pty Ltd v Compact Business Systems Pty Ltd (1985) 84 FLR 101.</sentence>
+<sentence id="s25">Adopting the language of Burchett and Tamberlin JJ in Golden Editions at 480 when considering a s 115(3) defence:
+ 
+ 
+ [I]n general the question is not whether [Vawdrey] knew the identity of the owner of the copyright but whether [Vawdrey] has established a lack of awareness, and of reasonable grounds for suspecting, that the relevant act was an infringement of the copyright, in whomsoever that copyright might be vested.</sentence>
+<sentence id="s26">
+ 
+ (Emphasis added.</sentence>
+<sentence id="s27">)
+ 
+ 
+
+11 As that passage reveals, Vawdrey bears the onus of establishing that, at the time of the infringement of Krueger's copyright, it was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement.</sentence>
+<sentence id="s28">It did not discharge that onus.</sentence>
+<sentence id="s29">12 Vawdrey's case at trial was that (1) Camerons did not disclose the Krueger Concept (as defined in [29] and [54] of the reasons for decision) or the Krueger Drawings (as defined in [3(3)]) to Vawdrey and (2) Michael Vawdrey independently conceived of and implemented a sliding gate solution to the load restraint problem created by the Amcor cargo.</sentence>
+<sentence id="s30">That case was rejected: see [13]-[83].</sentence>
+<sentence id="s31">As I stated in the reasons for decision, "the facts established by the objective evidence (at [70]-[78]) provide[d] a basis for inferring that Vawdrey had indirect access to the substance of the Krueger Drawings as a result of disclosure by Camerons": [132].</sentence>
+<sentence id="s32">The question which then arose was whether Vawdrey copied a substantial part of the Krueger Drawings: [133].</sentence>
+<sentence id="s33">The answer to that question was "yes": see [134]-[135].</sentence>
+<sentence id="s34">13 Vawdrey's submission at this hearing that because it did not have "direct access or reference to, or direct knowledge of, the ... Kruger Drawings ... there can be no basis to conclude that Vawdrey had direct knowledge of the ...</sentence>
+<sentence id="s35">Drawings or ... of any copyright in them" is also rejected.</sentence>
+<sentence id="s36">Merely stating the argument demonstrates the fundamental flaws in it.</sentence>
+<sentence id="s37">First, there can be copyright infringement without direct access to the copyright work, and this was such a case: see [132] of the reasons for decision, citing LED Builders Pty Ltd v Eagle Homes Pty Ltd (1996) 35 IPR 215 , 225; see also Tamawood Ltd v Henley Arch Pty Ltd (2004) 61 IPR 378 at [21].</sentence>
+<sentence id="s38">14 Secondly, if Vawdrey intended to rely on s 115(3) of the Copyright Act (as it did), it had to lead evidence to establish that, at the time of the infringement of Krueger's copyright, it was not aware of and had no reasonable grounds for suspecting that the act constituting the infringement was an infringement .</sentence>
+<sentence id="s39">Even if Vawdrey mistakenly thought that Camerons was authorised to instruct Vawdrey as it did, Vawdrey was required to show that it had made reasonable inquiries to confirm that, before it completed its drawings based on those instructions: Laddie, The Modern Law of Copyright and Designs (3rd ed 2000) at [39.44] (collecting cases for the proposition that the innocent infringer defence is "not available to a defendant who has made no inquiries as to the source of the material he is copying").</sentence>
+<sentence id="s40">It did not do that.</sentence>
+<sentence id="s41">That Vawdrey did not lead evidence of that kind is not surprising.</sentence>
+<sentence id="s42">An infringing act by Vawdrey of Krueger's copyright in the Krueger Drawings (see [135] of the reasons for decision) occurred after and as a result of numerous conversations between Camerons and Vawdrey in which Camerons, as Vawdrey's own witnesses accepted, gave Vawdrey instructions: see in particular [48]-[83] and [131]-[135] of the reasons for decision.</sentence>
+<sentence id="s43">The evidence was that Camerons itself did not have any engineering expertise: at [71].</sentence>
+<sentence id="s44">In those circumstances (i.e.</sentence>
+<sentence id="s45">where a client without engineering expertise gave precise instructions late in the design process when matters had already advanced to detailed engineering drawings), there was no basis for contending that Vawdrey did not have reasonable grounds for suspecting that the act was an infringement when it received instructions from Camerons in February 2003 to modify its drawings.</sentence>
+<sentence id="s46">On the contrary, the only reasonable assumption that Vawdrey could have made was that the ultimate source of the instructions, and the owner of the copyright in the drawings that underpinned those instructions, was some entity outside Camerons.</sentence>
+<sentence id="s47">The failure to make reasonable inquiries as to the identity of that source and Camerons' authorisation to rely on it thus precludes Vawdrey from now maintaining an innocent infringement defence.</sentence>
+<sentence id="s48">15 In support of its innocent infringer defence, Vawdrey also submits that the First Vawdrey Drawing, which was completed prior to February 2003, was not alleged to be and was not an infringement of Krueger's copyright in any Krueger Drawing.</sentence>
+<sentence id="s49">I accept that submission.</sentence>
+<sentence id="s50">The problem, however, is that it does not alter the fact that the Vawdrey Engineering Drawings (as defined in [77] of the reasons for decision) were an act of infringement which, for the reasons set out above, was not an innocent infringement.</sentence>
+<sentence id="s51">That infringing act caused Krueger damage because it was reasonably foreseeable that, but for the infringement, Vawdrey would not have been able to win the contract with Camerons and provide a trailer with a load restraint system that conformed to the one proposed to Amcor by Camerons and accepted by Amcor.</sentence>
+<sentence id="s52">16 Moreover, as Krueger submitted at trial of the issue of liability, although it was then unnecessary to decide the issue, there was another infringing act by Vawdrey of Krueger's copyright in the Krueger Drawings, namely the manufacture by Vawdrey of the Vawdrey trailers in April to May 2003 in accordance with the Camerons-Vawdrey contract and the successful Amcor Tender.</sentence>
+<sentence id="s53">Paul Vawdrey gave evidence that the first trailer was delivered to Camerons on 15 April 2003 and the last was delivered in late April or early May.</sentence>
+<sentence id="s54">17 Vawdrey's innocent infringement defence also, therefore, fails for the separate and independent reason that the infringing act of manufacture of trailers occurred after Vawdrey had received indirect notice of Krueger's concerns about the infringing acts.</sentence>
+<sentence id="s55">Such notice was provided by Krueger to Camerons as early as April 2003.</sentence>
+<sentence id="s56">On 3 April 2003, Krueger sent a letter to Glen Cameron.</sentence>
+<sentence id="s57">That letter stated in part that:
+ 
+ 
+ Krueger submitted confidential technical drawings to [Camerons] embodying its confidential design concept / solution ...</sentence>
+<sentence id="s58">The confidential technical drawings included a notice that they were subject to copyright owned by Krueger and that the information was required to be kept confidential.</sentence>
+<sentence id="s59">Attached is a further copy of the confidential technical drawings, with the notice in the bottom left hand corner.</sentence>
+<sentence id="s60">...</sentence>
+<sentence id="s61">It is my understanding, after numerous telephone conversations with Martin Tindall [sic], that Krueger's confidential design concept / solution was superior to any other submitted.</sentence>
+<sentence id="s62">...
+ 
+ ...</sentence>
+<sentence id="s63">When your company notified us that it had been successful in winning the tender, you told us that you would be in contact with us in the not too distant future to discuss fine tuning of the specification for the drop-deck trailer and pricing for the manufacture of trailers made in accordance with Krueger's confidential technical drawings and design concept / solution.</sentence>
+<sentence id="s64">We have subsequently made many attempts to contact yourself and Martin Tindall [sic] to arrange a meeting with your company to discuss the final details of the design and to fine tune pricing.</sentence>
+<sentence id="s65">However, each time we contacted your company there were a number of excuses given as to why you were not ready to meet yet.</sentence>
+<sentence id="s66">We were therefore very disappointed to subsequently hear via the market place that your company has awarded the manufacturing contract to Vawdrey.</sentence>
+<sentence id="s67">... Krueger believes that your company has commissioned Vawdrey to manufacture drop-deck trailers in accordance with the confidential technical drawings and design concept / solution submitted to your company by Krueger ...</sentence>
+<sentence id="s68">I would like to stress and confirm, however, that the fact that Krueger provided the confidential technical drawings and design concept / solution does not automatically entitle Cameron[]s ... or its client to use that confidential design concept / solution or those drawings.</sentence>
+<sentence id="s69">Further, to the extent that your company discloses those confidential technical drawings or design concept / solution to Vawdrey, there is a breach of the obligation of confidence ...</sentence>
+<sentence id="s70">It is our intention to view at the earliest opportunity the drop-deck trailers that your company has contracted to have manufactured by Vawdrey, to ensure that they do not infringe the copyright of Krueger ... 
+ 
+
+18 Mr Cameron gave evidence that he recalled speaking with Krueger, following receipt of the letter, and telling him that the solution was his idea.</sentence>
+<sentence id="s71">As the reasons for decision make clear, that evidence was rejected.</sentence>
+<sentence id="s72">Mr Cameron also telephoned Paul Vawdrey in relation to his "recollections of the meeting" on 2 December 2002 (see [18]ff of the reasons for decision).</sentence>
+<sentence id="s73">That conversation occurred before 14 April 2003, the date on which Paul Vawdrey sent a letter to Mr Cameron which I described at [79] of the reasons for decision in the following terms:
+ 
+ 
+ ... Paul Vawdrey sent a letter to Mr Cameron in which he referred to the Cameron / Vawdrey meeting again without referring to anything "hanging off" the posts.</sentence>
+<sentence id="s74">In this letter, Paul Vawdrey said " I [Paul Vawdrey] suggested using one side post per pallet spacing which would form a part of load restraint for the top and bottom pallet" (emphasis added).</sentence>
+<sentence id="s75">Mr Cameron took no action to correct that statement.</sentence>
+<sentence id="s76">
+ 
+
+19 Paul Vawdrey's evidence to the effect that he had created the design was also rejected.</sentence>
+<sentence id="s77">More relevantly for present purposes, however, is the inference that can be drawn from the 14 April letter, the Cameron-Vawdrey telephone conversation just prior to that date, and the proximity in time of those two events to the 3 April letter from Krueger to Camerons, which is that Camerons had put Vawdrey on notice that questions had been raised as to the source of the design of the load restraint system in the trailers to be manufactured by Vawdrey.</sentence>
+<sentence id="s78">(I consider that it is probable that Vawdrey was aware that it was Krueger that was raising the questions, but it is not necessary to make a finding in that regard.</sentence>
+<sentence id="s79">) Again, there is no basis for contending, whether as alleged or otherwise, that Vawdrey had no reasonable grounds for suspecting that the act (in this case the manufacture of the trailers) was an infringement.</sentence>
+<sentence id="s80">Despite being on notice, they proceeded to manufacture the trailers without making any reasonable inquiries to confirm the source of the ideas and material that went into the trailers' load restraint design specifications.</sentence>
+<sentence id="s81">Vawdrey therefore cannot maintain an innocent infringer defence under s 115(3) of the Copyright Act .</sentence>
+<sentence id="s82">ISSUE: WHETHER DAMAGES ARE TO BE "APPORTIONED" BETWEEN CAMERONS AND VAWDREY 
+ 
+20 Krueger submits that liability for the infringement damages is joint and several, while Vawdrey argues that damages should be "apportioned".</sentence>
+<sentence id="s83">I accept Krueger's submission and reject the contention that damages should be "apportioned" between Camerons and Vawdrey.</sentence>
+<sentence id="s84">21 In the present case, there is a single course of infringement (the creation of the Vawdrey Engineering Drawings and the resulting manufacture of trailers) of a single copyright (the Krueger Drawings).</sentence>
+<sentence id="s85">Both Camerons and Vawdrey joined in that infringement in that Vawdrey could not have completed its drawings and manufacture without receiving instructions, based on the Krueger Drawings, from Camerons, and Camerons could not have completed the infringement without the execution by Vawdrey of those instructions.</sentence>
+<sentence id="s86">Each participated in committing the wrong of which Krueger now complains and thus the liability of each for the damage sustained by Krueger as a consequence of commission of that wrong is to be determined as if each was a joint tortfeasor with the other: The Koursk [1924] P 140 , cited with approval in Louis Vuitton Malletier SA v Toea Pty Ltd [2006] FCA 1443 ; (2006) 156 FCR 158 at [149] ; see also Balkin and Davis, Law of Torts (3rd 2004) at [29.24]-[29.41].</sentence>
+<sentence id="s87">22 In TS &amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (No 3) (2007) 158 FCR 444 at [177]-[178], Finkelstein J described joint tortfeasors in the following terms:
+ 
+ 
+ The common law rule is that one tort may be committed by two or more persons: they are usually referred to as joint tortfeasors.</sentence>
+<sentence id="s88">Although the term is commonly used, the concept is not well defined.</sentence>
+<sentence id="s89">To be joint tortfeasors it is not sufficient that the independent wrongful acts of two persons have caused the same damage.</sentence>
+<sentence id="s90">Those persons are several tortfeasors.</sentence>
+<sentence id="s91">In Sir John Haydon's Case [1572] EngR 356 ; (1612) 77 ER 1150 at 1151 joint tortfeasors were described as "all coming to do an unlawful act, and of one party, the act of one is the act of all of the same party being present.</sentence>
+<sentence id="s92">" The rule goes back to when an action in trespass was principally criminal ( Sir Charles Stanley's Case [1708] EngR 26 ; (1663) 84 ER 1094) but has been extended.</sentence>
+<sentence id="s93">There are three classes of joint tort: where a party is vicariously responsible for the acts of another --- as in master and servant, principal and agent and partnership; when there is a breach of a joint duty, be it a statutory or common law duty; and concerted action.</sentence>
+<sentence id="s94">As regards the third class (concerted action) to be joint tortfeasors the unlawful act must be for a "joint purpose" ( Clark v Newsam and Edwards [1847] EngR 531 ; (1847) 154 ER 55) or "concerted action... towards a common end" ( The Koursk [1924] P140, 152).</sentence>
+<sentence id="s95">In Thompson v Australian Capital Television Pty Limited [1996] HCA 38 ; (1996) 186 CLR 574 the High Court accepted as a correct description of joint tortfeasors that given by Sargeant LJ in the The Koursk [1924] at 159-160, namely that "there must be a concurrence in the act or acts causing damage not merely a coincidence of separate acts which by their conjoined effect cause damage".</sentence>
+<sentence id="s96">So, employing the language of criminal lawyers, all persons who aid or counsel direct or join in the commission of a tort are joint tortfeasors: Pratt v British Medical Association [1919] 1 KB 244 at 254 citing Petrie v Lamont [1841] EngR 66 ; (1841) 174 ER 424 at 426.</sentence>
+<sentence id="s97">Intent, of course, is not an ingredient of the tort for we are dealing with the civil law, not criminal conduct.</sentence>
+<sentence id="s98">
+ 
+
+
+ 
+23 The position in the United States is stated in Melville B Nimmer &amp; David Nimmer, Nimmer on Copyright SS14.04[E][2][d] (2004) as follows: 
+ 
+ 
+ Where two or more persons have joined in or contributed to a single infringement of a single copyright, they are jointly and severally liable, and in such circumstances in a single infringement action there is but a single set of statutory damages ... for which all such persons are liable.</sentence>
+<sentence id="s99">
+ 
+
+24 Although US copyright law, like Australian copyright law, is statutory and the remedies that are available in the US thus of course depend on the particular statutory language which is distinct from that found in the Copyright Act , the proposition stated in Nimmer is to be taken as an accurate statement of the responsibility of two parties who together combine to infringe the copyright of another.</sentence>
+<sentence id="s100">Their liability is joint and several as it would be if they were joint tortfeasors.</sentence>
+<sentence id="s101">25 Dowsett J helpfully canvassed the principal tort authorities in Louis Vuitton at [148]-[170]; see also Bialkower v Acohs Pty Ltd (1998) 83 FCR 1 , 12.</sentence>
+<sentence id="s102">In deciding whether two defendants should be held jointly liable for copyright infringement, his Honour also relied on The Koursk , concluding that it must be shown that they acted in concert; that is, that there was a "concurrence in the act or acts causing damage, not merely a coincidence of separate acts which by their conjoined effect cause damage": Louis Vuitton at [171].</sentence>
+<sentence id="s103">Again, this is such a case.</sentence>
+<sentence id="s104">Camerons and Vawdrey concurred in the acts which caused Krueger the damage of which it complains; there was more than a coincidence of separate acts joining together to cause damage to Krueger.</sentence>
+<sentence id="s105">Accordingly, each of Camerons and Vawdrey is jointly and severally liable for the copyright infringement.</sentence>
+<sentence id="s106">26 However, as Krueger accepted in this case, the amount that was received by Krueger in settlement from Camerons must be deducted from any damages awarded against Vawdrey for the same infringement in recognition of the elementary principle of tort law allowing only one recovery for a wrong: BUC International Corp v International Yacht Council Ltd (11 th Cir 2008) 571 F3d 1271, 1278; see also Baxter v Obacelo Pty Ltd [2001] HCA 66 ; (2001) 205 CLR 635 at [37] (per Gleeson CJ and Callinan J) and at [64] (per Gummow and Hayne JJ) (describing the bar against double satisfaction as a universal rule and accepting that credit must given for any amount received in settlement from a co-ordinately liable tortfeasor).</sentence>
+<sentence id="s107">Accordingly, any final award of damages must reflect a deduction of the principal sum (but not interest) received by Krueger from Camerons in settlement of the claims against the Cameron parties.</sentence>
+<sentence id="s108">ISSUE 3: NATURE AND AMOUNT OF DAMAGES TO BE PAID BY VAWDREY TO KRUEGER 
+ 
+27 As noted earlier, Krueger elected to take damages and seeks two categories of damages: compensatory damages under s 115(2) of the Copyright Act , including damages for loss of goodwill and mitigation costs, and additional damages under s 115(4) of the Copyright Act .</sentence>
+<sentence id="s109">Compensatory Damages under s 115(2) of the Copyright Act including loss of goodwill 
+ 
+28 Damages under s 115(2) of the Copyright Act are to compensate for the loss suffered as a result of the infringement: Bailey v Namol Pty Ltd [1994] FCA 1401 ; (1994) 53 FCR 102 , 110-111.</sentence>
+<sentence id="s110">The measure of damages is to be, so far as is possible, that sum which will put Krueger in the same position as it would have been in if it had not suffered the wrong: Bailey 53 FCR 110-111.</sentence>
+<sentence id="s111">29 In valuing Krueger's damages claim, there are some essential principles: First, Krueger has the burden of proving its loss; secondly, the object is to compensate Krueger and not to punish Vawdrey; and, finally, although reported cases may be of assistance, each case must be decided on its own particular facts: Bailey 53 FCR at 111.</sentence>
+<sentence id="s112">30 What then is the proper method for calculating the amount of loss caused by the infringement?</sentence>
+<sentence id="s113">Various methods of measuring damages for infringement of copyright have been described: see Futuretronics.com.au Pty Limited v Graphix Labels Pty Ltd (No 2) [2008] FCA 746 at [11] and TS&amp;B Retail Systems Pty Ltd 158 FCR 444 at [204]-[209].</sentence>
+<sentence id="s114">31 One method for assessing damages is the licence fee or royalty method.</sentence>
+<sentence id="s115">Under this approach, the owner of the copyright recovers "a sum equal to the fee that would fairly be charged for use of the copyright work": TS&amp;B at [206].</sentence>
+<sentence id="s116">As Vawdrey properly conceded, such a method is often rejected if the court takes the view that the applicant would not have granted such a licence to the respondent because, for example, the parties are competitors or the copyright work was devised for a particular purpose and that purpose was frustrated or destroyed by the infringing use of the work by the respondent: see Bailey v Namol 53 FCR at 112 (concluding that lost profits is the better measure of damages where the copyright work was created for a specific purposes which has been frustrated by the infringement) and TS&amp;B at [206] (stating that the a lost profits approach is preferable to a licence fee approach where the plaintiff and infringer are "in actual or potential competition in relation to the copyright work").</sentence>
+<sentence id="s117">See also Aristocrat Technologies Australia Pty Ltd v DAP Services (Kempsey) Pty Ltd (2007) 157 FCR 564 at [27]-[29]; Norm Engineering Pty Ltd v Digga Australia Pty Ltd (2007) 162 FCR 1 at [257], appeal allowed in part on other grounds at 166 FCR 268.</sentence>
+<sentence id="s118">32 During the course of the damages hearing, evidence was led of a licence arrangement between Krueger and another corporate entity unrelated to the respondents and the issues in these proceedings.</sentence>
+<sentence id="s119">As was submitted by Krueger, the terms of that licence agreement, and circumstances in which that licence agreement was executed, are not relevant to the facts and circumstances of this case and may be put to one side.</sentence>
+<sentence id="s120">There was nothing in that unrelated arrangement which provided support for the contention that the licence fee or royalty method was the appropriate method or provides assistance in the assessment of damages in the present case.</sentence>
+<sentence id="s121">Moreover, it was not suggested by Mr Meredith, the expert accountant called by Vawdrey, that such an approach was the preferable assessment of damages.</sentence>
+<sentence id="s122">That is not surprising.</sentence>
+<sentence id="s123">To adopt such a measure for assessing damages usually requires evidence of the appropriate terms and conditions of such a licence agreement in relation to the particular copyright work in question.</sentence>
+<sentence id="s124">No such evidence was led.</sentence>
+<sentence id="s125">33 But there is a more fundamental reason why the licence fee or royalty method is not an appropriate method of assessing damages in this case.</sentence>
+<sentence id="s126">The reason is that there is nothing to suggest that, in 2003, Krueger would have granted a licence to Vawdrey to enable Vawdrey to exploit the copyright in its drawings of a trailer load restraint system.</sentence>
+<sentence id="s127">Such a suggestion runs directly counter to the fact that Krueger and Vawdrey were direct and ongoing competitors, both generally and in relation to the Amcor Tender, and the contract was for more than just the use of the copyright work.</sentence>
+<sentence id="s128">Here, the Krueger copyright work was created for the limited and specific purpose of helping Camerons win the Amcor Tender and thus securing a contract with Camerons for the manufacture of trailers conforming to the winning tender.</sentence>
+<sentence id="s129">That purpose was frustrated by the Vawdrey infringement.</sentence>
+<sentence id="s130">34 The appropriate measure of damage in circumstances such as these (ie where the plaintiff and defendant are in actual or potential competition in relation to the copyright work) was described by Finkelstein J in TS&amp;B at [207] as follows:
+ 
+ 
+ ... Then lost profit is usually the best measure of damage.</sentence>
+<sentence id="s131">The plaintiff must show that he has lost sales to the defendant as a result of the infringement and quantify the loss suffered.</sentence>
+<sentence id="s132">This requires the court to explore the counterfactual hypothesis of the contracts the plaintiff would have obtained absent the infringement and the costs associated with them .</sentence>
+<sentence id="s133">Necessarily the process will involve a degree of speculation, but that is no bar to recovery.</sentence>
+<sentence id="s134">The claim is not for loss of revenue but for loss of profits.</sentence>
+<sentence id="s135">The profits to be calculated are the lost net profits.</sentence>
+<sentence id="s136">By net profits I mean revenue less all costs including variable and indirect costs, but not including income tax.</sentence>
+<sentence id="s137">Care must be taken to ensure that costs savings are brought to account.</sentence>
+<sentence id="s138">If a plaintiff sells less of his products he will have less costs and that should be treated as a gain to be offset against the lost revenue which forms the basis of the computation of lost profits.</sentence>
+<sentence id="s139">The plaintiff is also entitled to recover indirect losses (such as damage to goodwill) as long as the cause is the infringement, the loss is foreseeable and is not unduly speculative.</sentence>
+<sentence id="s140">It will often be impossible to be precise in the calculation of lost profit.</sentence>
+<sentence id="s141">If needs be, the calculation can be rough and ready, with the benefit of any doubt favouring the plaintiff.</sentence>
+<sentence id="s142">(Emphasis added.</sentence>
+<sentence id="s143">) 
+ 
+
+ See also Bailey 53 FCR at 111-112 (acknowledging that the lost profits assessment depends upon a counterfactual).</sentence>
+<sentence id="s144">35 Before turning to consider that hypothetical question, it is necessary to address Vawdrey's submission that the damages for the gates had to be severed from the damages for the whole trailer.</sentence>
+<sentence id="s145">Severability of damages for gates versus whole trailer 
+ 
+36 Vawdrey submitted that Krueger is only entitled to damages for the loss of profits it would have earned from the sale of the load restraint system (i.e.</sentence>
+<sentence id="s146">the gates attached to the sliding side posts) and not damages for the loss of profits it would have earned from the sale of the whole trailer.</sentence>
+<sentence id="s147">I reject that submission.</sentence>
+<sentence id="s148">37 In TS&amp;B at [208], Finkelstein J described the issue and the relevant principle as follows:
+ 
+ 
+ There is a question whether the relevant lost profits are those that would have been earned by the plaintiff from use of the copyright work alone or where, as here, the copyright work is employed by the plaintiff as part of a wider profit-making venture.</sentence>
+<sentence id="s149">While there was, at one point, doubt about the matter, modern cases permit the recovery of any secondary loss caused by the infringement.</sentence>
+<sentence id="s150">Secondary loss would include for example loss of sales of non-copyright work that is sold with the copyright work.</sentence>
+<sentence id="s151">Again, the issue is one of causation, and perhaps also of foreseeability: Gerber Garment Technology [1995] RPC 383 ; on appeal Gerber Garment Technology Inc v Lectra Systems Ltd [1997] RPC 443.</sentence>
+<sentence id="s152">
+ 
+
+38 Any loss related to non-copyright items is recoverable where it is a foreseeable consequence of the infringement.</sentence>
+<sentence id="s153">In the present case, the loss in relation to the whole trailer was foreseeable because, as I found at [69] in the reasons for decision, "the concept of restraints fitted to the side sliding poles was both innovative and key to Camerons' proposal and its ultimate success in the Tender.</sentence>
+<sentence id="s154">" That Tender was not for a load restraint system but for the supply of distribution services for, and cartage of, the Amcor cargo.</sentence>
+<sentence id="s155">That in turn, required the manufacture of trailers.</sentence>
+<sentence id="s156">From the outset, Vawdrey was aware that the successful trailer designer would manufacture trailers and, in particular, trailers with a load restraint system suitable for the cartage of the Amcor cargo.</sentence>
+<sentence id="s157">Moreover, Vawdrey was also aware from the outset of the importance of the load restraint system to the overall trailer design: see [20] of the reasons for decision.</sentence>
+<sentence id="s158">In those circumstances, I conclude that it was reasonably foreseeable that the Camerons-Vawdrey infringement of the load restraint system design would cause (and did cause) Krueger to lose not just the design for the gates, but the overall contract for the design and manufacture of trailers in accordance with the Amcor Tender.</sentence>
+<sentence id="s159">39 For those reasons, the loss related to the gates is not severable from the overall loss in relation to the trailers.</sentence>
+<sentence id="s160">Methodology: component versus gross margin approach 
+ 
+40 I now turn to consider the calculation of the damages payable by Vawdrey for the infringement.</sentence>
+<sentence id="s161">41 Krueger called Neil Leslie Bridgman, its General Manager of Finance &amp; Administration.</sentence>
+<sentence id="s162">Mr Bridgman calculated Krueger's damages claim on what was described as a component approach.</sentence>
+<sentence id="s163">Mr Bridgman estimated the direct material and labour costs that would have been incurred in manufacturing the trailers the subject of the dispute.</sentence>
+<sentence id="s164">As noted earlier, this exercise was hypothetical.</sentence>
+<sentence id="s165">Estimated materials and labour costs were addressed separately.</sentence>
+<sentence id="s166">In relation to the materials costs, a hypothetical bill of materials, being a list of each of the components that would have been required by Krueger to manufacture the finished goods (the trailer with the gates) and identifying the quantity of each item and the cost of that item, was prepared.</sentence>
+<sentence id="s167">Mr Bridgman estimated that the total direct costs of materials that would have been incurred in the manufacture of a trailer with a set of sliding side gates would have been $23,826.73.</sentence>
+<sentence id="s168">That amount included $2,672.73 for sign writing (a matter I will deal with presently).</sentence>
+<sentence id="s169">42 Labour costs were estimated by identifying the individual labour activities necessary for the manufacture of the product and the number of hours required for each activity.</sentence>
+<sentence id="s170">The total number of hours required for the manufacture of a trailer with a set of sliding gates was estimated to be 276.5 hours (comprised of 262.5 hours for the trailer and 14 hours for a set of sliding gates).</sentence>
+<sentence id="s171">The total labour cost was then estimated at $8,018.50.</sentence>
+<sentence id="s172">An additional $1,000 of costs was added for material variances and indirect labour costs.</sentence>
+<sentence id="s173">The total estimated cost of the trailer was $32,845.23.</sentence>
+<sentence id="s174">Accordingly, Mr Bridgman's evidence was that in the absence of Krueger being awarded the Camerons contract, Krueger lost net profits of $448,924.96, being a per-trailer profit of $20,405.68 (sales revenue of $53,250.91 less the total costs of each trailer of $32,845.23) multiplied by 22 trailers.</sentence>
+<sentence id="s175">Put another way, the gross margin on the hypothetical manufacture and sale of the trailers the subject of the Camerons' contract was said to be in the vicinity of 40%.</sentence>
+<sentence id="s176">43 Krueger also called Mr Donald Rankin of Pitcher Partners to give evidence.</sentence>
+<sentence id="s177">Mr Rankin was not, and did not claim to be, an independent expert.</sentence>
+<sentence id="s178">For over 15 years, he has been the external accountant engaged by Krueger to assist in the preparation of its financial accounts.</sentence>
+<sentence id="s179">Mr Rankin's evidence was substantially in line with that of Mr Bridgman.</sentence>
+<sentence id="s180">That is to say, Mr Rankin also supported the component approach, although the precise lost profit figure he gave differed slightly.</sentence>
+<sentence id="s181">Specifically, he gave three possible lost profit figures ranging from $414,703.08 to $459,572.96.</sentence>
+<sentence id="s182">For reasons that will become apparent shortly, it is not necessary to delve into the differences between the three figures or to choose one over the others.</sentence>
+<sentence id="s183">44 As noted earlier, Vawdrey called Mr Meredith to provide expert evidence on the appropriate methodology and a calculation of the damages.</sentence>
+<sentence id="s184">Mr Meredith's evidence was that the component approach was not the appropriate methodology because of the lack of actual costings information in relation to either the trailers to be manufactured for Camerons (which, as Mr Meredith acknowledged, necessarily would not exist, given that Krueger lost the contract and thus the exercise was based on a counterfactual) or any other trailer manufactured by Krueger during the relevant period.</sentence>
+<sentence id="s185">In those circumstances, he considered it more appropriate to adopt a gross margin approach.</sentence>
+<sentence id="s186">Put another way, Mr Meredith expressed the view that, in the absence of the necessary data for the particular trailer at issue, the most accurate and reliable approach to estimating Krueger's lost profits was to rely on Krueger's actual average gross margin for all new trailers manufactured during the relevant period.</sentence>
+<sentence id="s187">The crucial assumption underpinning this approach, as Mr Meredith acknowledged, is that there be no reason why the particular gross margin Krueger would have achieved under the hypothetical Camerons contract would have differed in any significant way from the actual average gross margin.</sentence>
+<sentence id="s188">45 To determine the actual average gross margin, Mr Meredith took two random samples.</sentence>
+<sentence id="s189">First, he took a random sample of all trailers produced by Krueger during the period, regardless of the trailer specifications, selected every twentieth trailer, and used the actual cost and revenue information to the extent available in order to calculate the individual and then average gross margin.</sentence>
+<sentence id="s190">Secondly, he undertook the margin calculation in respect of a random sample of only those trailers having specifications similar to those of the trailer that would have been manufactured for Camerons.</sentence>
+<sentence id="s191">The actual individual gross margins in the first sample varied from approximately 20% to 38%, while the individual margins in the second sample varied from approximately 21% to 32%.</sentence>
+<sentence id="s192">Overall, Mr Meredith's evidence was that the actual average gross margin was 23%, yielding a lost profit figure in the range of $260,453.</sentence>
+<sentence id="s193">46 Mr Rankin rejected the gross margin methodology on the basis that there was a significant variation in the gross margins earned on each contract and, as a result, the application by Mr Meredith of an average gross margin to the Camerons' contract was inappropriate.</sentence>
+<sentence id="s194">In other words, Mr Rankin was of the opinion that the crucial assumption underlying Mr Meredith's view - that the gross margin on the hypothetical trailer would not have significantly differed from the average actual gross margin - should not be accepted.</sentence>
+<sentence id="s195">
+ 
+47 As that summary of the parties' respective positions demonstrates, two methodologies were adopted --- the component approach and the gross margin approach.</sentence>
+<sentence id="s196">On the day of the damages hearing, I directed Mr Meredith and Mr Rankin to confer and prepare a joint report identifying the areas of agreement and disagreement and where there was a disagreement, the reason for it.</sentence>
+<sentence id="s197">I also asked them to consider whether they agreed on the preferable methodology and whether an alternate methodology was of any assistance.</sentence>
+<sentence id="s198">Finally, I asked them to identify any differences in relation to each methodology and if there were differences, whether those differences could be bridged and if not, why not.</sentence>
+<sentence id="s199">I had expected that process to occur earlier but for reasons which are by no means clear, it did not.</sentence>
+<sentence id="s200">At 2.15pm, they returned to Court with a joint written statement.</sentence>
+<sentence id="s201">48 In the joint statement Mr Rankin and Mr Meredith now agreed that if the component approach was adopted, the losses suffered by Krueger were $352,329.53 including a margin for sign writing and $346,449.59 excluding a margin for sign writing.</sentence>
+<sentence id="s202">The agreed amount reflected a gross margin of approximately 30%.</sentence>
+<sentence id="s203">However, two areas of disagreement remained: (1) whether the component approach was the preferable methodology; and if not, (2) the appropriate margin to be adopted under the alternative gross margin methodology.</sentence>
+<sentence id="s204">Before turning to consider those issues, it is important to note that neither Mr Rankin nor Mr Meredith suggested that either methodology was inappropriate per se.</sentence>
+<sentence id="s205">In fact, their agreed position was that the each methodology was a "viable" methodology of assistance in assessing damages depending on the circumstances.</sentence>
+<sentence id="s206">49 In my view, both methods have their shortcomings as applied to the instant case and I accept neither in full.</sentence>
+<sentence id="s207">With respect to the gross margin approach, Mr Meredith adopted this methodology as his preferred approach on the basis that it was the only methodology which utilised actual profit numbers.</sentence>
+<sentence id="s208">In fact, however, Mr Meredith's reference to "actual profit numbers" was itself not quite accurate because the "actual profit numbers" were in respect of a sample of six trailers (I put to one side the sample selected from among all trailers) which, of course, were not the trailers in dispute in the current proceedings.</sentence>
+<sentence id="s209">Mr Meredith's assessment of those six trailers was summarised in a table in his supplementary report.</sentence>
+<sentence id="s210">That table revealed, as noted earlier, that the gross margin for each trailer in the sample was hardly uniform, ranging from 21.21% to 32.35%.</sentence>
+<sentence id="s211">Moreover, it must be emphasised the trailers themselves were of different lengths, different types, largely different prices and none of them had any form of load restraint system similar to the system in dispute in these proceedings.</sentence>
+<sentence id="s212">50 Notwithstanding these difficulties with the gross margin approach, what the exercise does reveal is that the actual individual margins achieved by Krueger on the manufacture and sale of each of the trailers in the sample (21.21% to 32.35%) and the average of those margins (28%) was considerably less than the 40% forecasted by Mr Bridgman or the margin of 36.9% to 40.9% suggested by Mr Rankin in respect of the hypothetical transaction.</sentence>
+<sentence id="s213">Krueger could point to no other trailer it had manufactured and sold at any time during the relevant period where it had achieved a gross margin of 40%.</sentence>
+<sentence id="s214">Moreover, Mr Krueger accepted that as part of Krueger's bid for the Camerons' contract he had discounted the sale price by $3,000.00 per trailer.</sentence>
+<sentence id="s215">Such a reduction in sale price, coupled with the actual profit figures achieved by Krueger during the relevant period, suggest that is unlikely that Krueger would have achieved a margin in the vicinity of 40% on any trailers manufactured for Camerons.</sentence>
+<sentence id="s216">51 Any assessment of damages based on a counterfactual necessarily requires some estimation.</sentence>
+<sentence id="s217">Given the drawbacks in the individual approaches identified earlier, I consider in the circumstances that the appropriate methodology is the component approach and that Vawdrey should be ordered to pay damages to Krueger assessed at the agreed figure of $346,449.59 excluding a margin for sign writing.</sentence>
+<sentence id="s218">Given the wide variation in the actual gross margins achieved by Krueger on the manufacture during the relevant period even of trailers substantially similar to the hypothetical Camerons trailer, I cannot accept a lost profits approach that relies wholly on an average gross margin not taking into consideration the individual features and costs that would have been a part of any trailer built for Camerons.</sentence>
+<sentence id="s219">52 At the same time, however, I should acknowledge that I have had regard to the alternative methodology and the light it sheds on the reasonableness of the 40% margin claimed by Krueger as the correct figure under the component approach.</sentence>
+<sentence id="s220">In view of the fact that there was no evidence that Krueger ever achieved a gross margin of 40% on any trailer manufactured during the relevant period, that figure must be rejected.</sentence>
+<sentence id="s221">The approximately 30% gross margin reflected in the component approach figure in the joint statement, on the other hand, falls neatly between the 23% and 40% figures preferred by each side and within the 21% to 32% range of actual gross margin figures earned by Krueger on similar trailers.</sentence>
+<sentence id="s222">As such, the agreed component figure in the joint statement is not at all unrealistic and represents, in my view, the best possible estimate in light of the available evidence.</sentence>
+<sentence id="s223">53 Before moving on to the issue of consequential damages, I should now briefly deal with the issue of sign writing.</sentence>
+<sentence id="s224">Krueger submitted that it would have achieved a margin of 10% for the application of signs such as the Camerons logo to the trailers.</sentence>
+<sentence id="s225">Both Messrs Bridgman and Krueger gave evidence to the effect that the usual practice is to include a sign writing amount and margin in the total sales price.</sentence>
+<sentence id="s226">For its part, Vawdrey submitted that Krueger would not have been able to achieve such a margin, relying on the evidence of Paul Vawdrey that Vawdrey did not in fact receive any margin on its sign writing contract with Camerons.</sentence>
+<sentence id="s227">While Paul Vawdrey conceded that the usual practice is to include a margin for sign writing, he gave evidence that in the present case that would not have been possible because Amcor had a pre-existing relationship with another company for the provision of curtain painting and signage.</sentence>
+<sentence id="s228">Vawdrey tendered a tax invoice showing that the sign writing for the actual Camerons trailers built by Vawdrey was in fact performed by the other company directly for Camerons.</sentence>
+<sentence id="s229">Paul Vawdrey's evidence on this point was not challenged in cross-examination and I accept it.</sentence>
+<sentence id="s230">Accordingly, I have excluded a margin for sign writing in the assessment of Krueger's lost profits on the basis that Krueger would not have been able to obtain a margin on the provision of sign writing either by performing the work itself or by choosing the provider and on-charging those costs at a mark-up.</sentence>
+<sentence id="s231">Amount recoverable for secondary loss 
+ 
+54 As I have already noted, subject to issues of causation and foreseeability, any secondary loss, including goodwill, caused by the infringement is recoverable: TS&amp;B at [207]-[208].</sentence>
+<sentence id="s232">In the present case, I find that it was reasonably foreseeable that infringement of the load restraint system would cause a loss of goodwill to Krueger in terms of brand-name recognition and a first-entrant advantage in connection with the load restraint system.</sentence>
+<sentence id="s233">Unsurprisingly, truck manufacturers strategically place their name on each truck they manufacture to advertise not only that they manufacture trucks but trucks of a particular size capable of carrying the customer's cargo.</sentence>
+<sentence id="s234">It is free advertising.</sentence>
+<sentence id="s235">The fact that the load restraint system in the present case could not be viewed because it was covered by the curtains is irrelevant.</sentence>
+<sentence id="s236">It is the association of the manufacturer's name with trucks and with a particular customer which generates goodwill and the possibility of new orders.</sentence>
+<sentence id="s237">It can scarcely be denied that the chance to have its name associated with Camerons and an important end-client like Amcor was a thing of value to both Krueger and Vawdrey.</sentence>
+<sentence id="s238">Moreover, the chance to be the first to market with a new and innovative load restraint system would likely have given Krueger an advantage in competing for the design of trailers for the transport of other non-standard cargos.</sentence>
+<sentence id="s239">As they say, success breeds success.</sentence>
+<sentence id="s240">So much was ultimately conceded by Vawdrey when Krueger tendered an advertisement published by Vawdrey containing a photograph of Mr Glen Cameron standing in front of a truck manufactured by Vawdrey bearing both names --- Camerons and Vawdrey.</sentence>
+<sentence id="s241">While the precise quantification of Krueger's lost goodwill is necessarily speculative to some degree, I would award it an additional sum of $10,000 in this regard.</sentence>
+<sentence id="s242">That amount represents the best assessment I can make in the circumstances of the advertising and first-entrant advantage loss that Vawdrey's infringement caused to Krueger.</sentence>
+<sentence id="s243">55 In addition to lost goodwill, Krueger also argued that it should be awarded the sum of $59,404.89 as consequential damages in the form of mitigation costs.</sentence>
+<sentence id="s244">Specifically, Krueger claims $31,904.89 as the costs of emergency marketing undertaken "in an effort to have Krueger recognised in the market as the innovator of the Krueger concept," and $27,500 as the costs of creating demonstration trailers fitted with the Krueger Concept and offering them to various companies for free trial and evaluation.</sentence>
+<sentence id="s245">For the following reasons, I reject the claim for mitigation costs.</sentence>
+<sentence id="s246">56 The fundamental problem with the claim for mitigation costs is that the use of the Krueger Concept by Vawdrey was not an infringing act because, as I found in the reasons for decision, it is an unprotected idea rather than a protected expression of an idea: see [130] of the reasons for decision.</sentence>
+<sentence id="s247">On the other hand, the loss suffered by Krueger for infringement of the concept as expressed in the Krueger Drawings (which were protected expressions of the slide-a-gate concept created for the specific purpose of winning the Tender and the contract with Camerons) is wholly encapsulated in the lost profits and lost goodwill from the contract that would have been obtained with the copyrighted work had it not been infringed.</sentence>
+<sentence id="s248">There was no evidence that the particular load restraint system expressed in the drawings for the Amcor Tender could be or was used other than for the cartage of the Amcor freight as specified in the Tender.</sentence>
+<sentence id="s249">Thus to the extent that mitigation costs might be recoverable at all, they would be recoverable only from Camerons as part of the damages for breach of confidence.</sentence>
+<sentence id="s250">57 Moreover, even if the mitigation costs claimed by Krueger were theoretically cognisable in copyright, I would not find that they were either foreseeable or caused by the conduct of Vawdrey in fact.</sentence>
+<sentence id="s251">That is to say, I am not satisfied on the balance of the probabilities that Krueger would not have promoted its concept in the manner identified but for Vawdrey's conduct.</sentence>
+<sentence id="s252">Or to put the point affirmatively, I consider it probable that Krueger would have promoted its concept at the freight industry exhibition and by building demonstration trailers regardless of whether Vawdrey had appropriated the slide-a-gate concept.</sentence>
+<sentence id="s253">Furthermore, even if I accepted the causation point (which I do not), there is no evidence to suggest that it would have been reasonably foreseeable to a person in Vawdrey's position at the time of the infringing conduct that Krueger would manufacture a trailer for the freight industry exhibition as well as six demonstration trailers as a consequence of its conduct.</sentence>
+<sentence id="s254">How could Vawdrey be expected to know how many (if any) trailers Krueger would build to promote its design and for how long (if at all) it would offer them for free trial as a consequence of Vawdrey's infringement?</sentence>
+<sentence id="s255">Additional damages under s 115(4) of the Copyright Act 
+ 
+58 I come now to Krueger's claim for additional damages.</sentence>
+<sentence id="s256">In a claim for additional damages under s 115(4) of the Copyright Act , some general observations were made by Besanko J in Futuretronics.com.au Pty Limited v Graphix Labels Pty Ltd (No 2) [2008] FCA 746 at [17] :
+ 
+ 
+ First, there is no need ... to consider if an award of additional damages can be made under s 115(4) [even where] no damages are awarded under s 115(2) because I have awarded ... damages under s 115(2) ( Polygram Pty Ltd v Golden Editions Pty Ltd (No 2) 38 IPR 451 at 459-461 per Lockhart J; MJA Scientifics [International Pty Ltd v S C Johnson and Son Pty Ltd (1998) 43 IPR 275] at 283-284 per Sundberg J).</sentence>
+<sentence id="s257">Secondly, it is not necessary that there be a proportionate relationship between the additional damages awarded under subs (4) and the damages awarded under subs (2): Flags 2000 Pty Ltd v Smith (2003) 59 IPR 191 at 198 per Goldberg J.</sentence>
+<sentence id="s258">An award of additional damages under subs (4) is not dependent upon the adequacy or inadequacy of an award of damages under subs (2).</sentence>
+<sentence id="s259">Thirdly, the matters in subs (4)(b)(i)-(iv) inclusive are not preconditions to an award of additional damages.</sentence>
+<sentence id="s260">In other words, and using the flagrancy of the infringement as an example, the Court must have regard to the flagrancy of the infringement in determining whether to award additional damages, but is not the case that additional damages can be awarded only if the breach involves a particular degree of flagrancy.</sentence>
+<sentence id="s261">Fourthly, ...there is a distinction between conduct of a defendant after an infringement (or after being informed that he has allegedly infringed the plaintiff's copyright) and relevant to the substantive allegations against him on the one hand, and the defendant's conduct of his defence to an action for an infringement of copyright in relation to procedural matters on the other.</sentence>
+<sentence id="s262">The former matter is within the terms of s 115(4)(b)(ib) of the [Copyright] Act, whereas ... the latter matter is a matter to be taken into account in determining the appropriate order as to costs.</sentence>
+<sentence id="s263">... Fifthly, an award under s 115(4) of the [Copyright] Act can encompass damages which at common law would be aggravated damages and exemplary damages: Bailey 53 FCR at 113-114.</sentence>
+<sentence id="s264">
+ 
+
+59 Consistent with those general observations, there are a number of facts and matters in the present case which support an award of additional damages under s 115(4) of the Copyright Act .</sentence>
+<sentence id="s265">First, while Vawdrey's infringement was not the most flagrant it was also not innocent.</sentence>
+<sentence id="s266">Vawdrey had indirect access, in circumstances where it should have made reasonable inquiries to confirm the ultimate source and authorization, to the substance of the Krueger Drawings in creating its own drawings as a result of the disclosure by Camerons and used that disclosure to improve its drawings so that it could be awarded and could perform the contract (a non-innocent act of infringement).</sentence>
+<sentence id="s267">Then, despite being on notice of the alleged infringing act, it proceeded to manufacture trailers in accordance with the infringing drawings (another non-innocent act of infringement).</sentence>
+<sentence id="s268">60 Secondly, there is a need to deter similar infringements of copyright.</sentence>
+<sentence id="s269">The issue posed was to design a load restraint system that would to deal with cartage of palletised cardboard boxes produced by Amcor.</sentence>
+<sentence id="s270">Although it was Krueger that solved that problem, it was Krueger's competitor Vawdrey who piggybacked on and gained the benefit of that solution.</sentence>
+<sentence id="s271">In a competitive world, this kind of conduct should be deterred.</sentence>
+<sentence id="s272">61 Thirdly, Vawdrey benefited significantly from the infringement.</sentence>
+<sentence id="s273">Not only did it secure the Camerons' contract and earn profits that were likely in the neighbourhood of at least 20%, but it also obtained additional benefits in the form of goodwill.</sentence>
+<sentence id="s274">62 Having regard to the matters I have identified - in particular to the need for deterrence and the benefit received by Vawdrey from the infringement - I consider that an award of additional damages is appropriate.</sentence>
+<sentence id="s275">At the same time, given that the infringement was indirect and not of the most flagrant sort, I consider that the award should also not be overly large.</sentence>
+<sentence id="s276">In the circumstances, I find that the sum of $30,000 is adequate.</sentence>
+<sentence id="s277">COSTS 
+ 
+63 Vawdrey's conduct in its defence of the instant action must also be mentioned as it bears on the issue of costs: see Futuretronics at [17].</sentence>
+<sentence id="s278">That conduct included:
+ 
+ (1) Vawdrey's contention that Paul Vawdrey and if not Paul, then Michael Vawdrey, developed the load restraint system: see [20], [24], [44], [56] of the reasons for decision.</sentence>
+<sentence id="s279">On any view, those contentions were inconsistent with each other, as well the other evidence, and thus improbable to say the least;
+ 
+ (2) Michael Vawdrey instructing an employee (Lang) to backdate the electronic copy of the second Vawdrey drawing (drawing number 25-1056-2) to be provided to Krueger during preparation for trial to create the impression that the document was created and sent on 5 December 2002 when in fact the drawing was sent no earlier than 12 December 2002, if at all: see [80] of the reasons for decision;
+ 
+ (3) Michael Vawdrey adducing in evidence an internal job sheet of a hand drawing of what was described as a "Vawdrey-type lock" said to have been created in 1995 in support of a contention that the Krueger Concept was not original.</sentence>
+<sentence id="s280">In fact, the reference to the "Vawdrey-type lock" was added much later than 1995 and "only in respect of the litigation".</sentence>
+<sentence id="s281">Despite being called for, Vawdrey did not produce the original of the job sheet: see [101] of the reasons for decision; and
+ 
+ (4) Vawdrey did not seek to explain how or when it came into possession of a copy of Krueger's invoice for the manufacture of the trailers with the handwriting of Cameron staff: see [73] of the reasons for decision.</sentence>
+<sentence id="s282">64 I find that this conduct (separately and collectively) added significantly to the length of the trial.</sentence>
+<sentence id="s283">Moreover, it involved the use of tactics and taking of positions intended to benefit Vawdrey when Vawdrey knew that such positions and tactics were, at the very least, inconsistent with the objective evidence.</sentence>
+<sentence id="s284">Subject to what the parties have to say, I therefore propose to make the following costs orders: (1) Vawdrey pay on an indemnity basis one-third of Krueger's costs of, and incidental to, the proceedings through the end of the trial on liability; (2) Vawdrey pay on a party-party basis all of Krueger's costs of, and incidental to, the proceedings following the end of the trial on liability, excluding any costs of and incidental to Krueger's settlement with Camerons.</sentence>
+<sentence id="s285">65 The reason I propose to award only one-third of Krueger's costs through trial against Vawdrey is that until the end of trial Camerons was also a party who would have been liable for a share of the prevailing party's costs.</sentence>
+<sentence id="s286">Indeed, it would have been liable for a greater share because, as noted earlier, Vawdrey was a respondent only in relation to the copyright claim, not the confidentiality claims.</sentence>
+<sentence id="s287">One might ask, then, whether it is more appropriate to make an indemnity costs order against Vawdrey only in relation to one half of Krueger's costs incurred in prosecuting the copyright claim.</sentence>
+<sentence id="s288">On its face, such an order would appear to more accurately capture the costs for which Vawdrey can be said to be responsible.</sentence>
+<sentence id="s289">The problem, however, is that much of the same evidence and facts was relevant to both the confidentiality and copyright claims and I foresee that it would thus be difficult, if not impossible, for the parties or a taxing master to allocate or separate costs on a claim-by-claim basis.</sentence>
+<sentence id="s290">Accordingly, and this is again subject to what the parties may say, I consider that in the circumstances the better approach is simply to order that Vawdrey pay a percentage share of Krueger's overall costs.</sentence>
+<sentence id="s291">ORDERS 
+ 
+66 I do not propose to make final orders today.</sentence>
+<sentence id="s292">I will instead order the parties to confer and jointly file short minutes of final orders giving effect to these reasons for decision, including orders as to costs, by 4:00pm on 20 October 2008.</sentence>
+<sentence id="s293">If the parties are unable to agree, they are to submit a joint statement by 4:00pm on 20 October 2008 identifying: (1) the point(s) of agreement; (2) the point(s) of disagreement; and (3) the respective positions of the parties on the point(s) of disagreement, in which case I will list the matter for further directions or argument as necessary.</sentence>
+<sentence id="s294">I certify that the preceding sixty-six (66) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.</sentence>
+<sentence id="s295">Associate:
+
+Dated: 9 October 2008
+
+ Counsel for the Applicant: Mr A Ryan and Ms K Beattie 
+ 
+ Solicitor for the Applicant: Griffith Hack 
+ 
+ Counsel for the Fourth Respondent: Mr B Hess SC and Ms F Marks 
+ 
+ Solicitor for the Fourth Respondent: Cornwall Stoddart 
+
+ Date of Hearing: 11 September 2008 
+ 
+ Date of Judgment: 9 October 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1493.html 
+ 
+ </sentence>
+</sentences>
+</case>

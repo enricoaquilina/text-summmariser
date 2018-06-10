@@ -1,0 +1,707 @@
+<?xml version="1.0"?>
+<case>
+<name>Keynes v Rural Directions Pty Ltd (No 2) (includes Corrigendum dated 16 July 2009) [2009] FCA 567 (3 June 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/567.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">financial products</catchphrase>
+<catchphrase "id=c1">derivatives</catchphrase>
+<catchphrase "id=c2">applications for summary judgment on basis of whether forward contracts for supply of grain are financial products or derivatives</catchphrase>
+<catchphrase "id=c3">whether arrangement permits seller's obligations to be wholly settled by cash or set-off rather than delivery</catchphrase>
+<catchphrase "id=c4">whether usual market practice permits seller's obligations to be closed out by matching up of arrangement with another arrangement of same kind under which seller has offsetting obligations to buy</catchphrase>
+<catchphrase "id=c5">whether value of arrangement varies by reference to value of something else</catchphrase>
+<catchphrase "id=c6">corporations</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ On 4 August 2008, the plaintiffs issued this proceeding against five defendants.</sentence>
+<sentence id="s1">The proceeding against the fifth defendant was discontinued by the plaintiffs on 15 January 2009.</sentence>
+<sentence id="s2">I have been told by counsel that the plaintiffs and the second defendant are negotiating a possible settlement of the proceeding between them, and I have been asked not to progress the usual interlocutory steps in the proceeding pending the outcome of the settlement negotiations.</sentence>
+<sentence id="s3">The plaintiffs operate farming businesses which are primarily concerned with the production of wheat and barley, which is grown in the district surrounding Kimba on the Eastern Eyre Peninsula.</sentence>
+<sentence id="s4">The first defendant is a duly incorporated corporation under the Corporations Act 2001 (Cth) (" Corporations Act ") and carries on a business as a rural consultant.</sentence>
+<sentence id="s5">It is alleged by the plaintiffs that the first defendant is registered as a financial services licensee under s 913B(1) of the Corporations Act in the role of "futures advisers".</sentence>
+<sentence id="s6">It is alleged by the plaintiffs that the first defendant held itself out as having expertise in a number of areas, but it is unnecessary to set out the details.</sentence>
+<sentence id="s7">The first defendant acted as the plaintiffs' agent in relation to the transactions which are the subject of the proceeding.</sentence>
+<sentence id="s8">The third and fourth defendants, ABB Grain Ltd ("ABB Grain") and Glencore Grain Pty Ltd ("Glencore Grain"), are duly incorporated corporations under the Corporations Act and each carries on business as a wholesaler of grain.</sentence>
+<sentence id="s9">It is alleged by the plaintiffs that the third and fourth defendants are "very large grain marketing businesses which possess extensive knowledge of grain markets, both locally and internationally".</sentence>
+<sentence id="s10">The plaintiffs claim that they have suffered loss and damage as a result of entering into three contracts with the third defendant and one contract with the fourth defendant.</sentence>
+<sentence id="s11">The plaintiffs filed and served a Statement of Claim on 4 August 2008.</sentence>
+<sentence id="s12">That pleading was replaced by an Amended Statement of Claim ("ASOC") filed and served on 18 November 2008.</sentence>
+<sentence id="s13">On 23 December 2008, I made an order striking out the ASOC against Glencore Grain ( Keynes v Rural Directions Pty Ltd [2008] FCA 1964).</sentence>
+<sentence id="s14">That led to an application by the plaintiffs for leave to file and serve a Second Amended Statement of Claim ("the proposed SASOC").</sentence>
+<sentence id="s15">There are three notices of motion before me which, in chronological order, are a notice of motion by Glencore Grain, a notice of motion by the plaintiffs and a notice of motion by ABB Grain.</sentence>
+<sentence id="s16">Before summarising the orders sought in those notices of motion and the evidence adduced in support of the motions, it is convenient to summarise the relevant allegations in the pleadings.</sentence>
+<sentence id="s17">The plaintiffs' claim against ABB Grain
+ The existing Statement of Claim against ABB Grain is the ASOC.</sentence>
+<sentence id="s18">It will be necessary to consider also the proposed SASOC to determine whether it overcomes the defects I find exist in the ASOC.</sentence>
+<sentence id="s19">ABB Grain has filed a Defence and Cross-claim and I have had regard to that pleading in preparing the summary which follows.</sentence>
+<sentence id="s20">It is not disputed that ABB Grain has experience and expertise in Australian and international grain markets, and prices in those markets.</sentence>
+<sentence id="s21">The company entered into three contracts with the plaintiffs, and the details of those contracts are as follows: On 16 April 2007, plaintiffs and ABB Grain entered into what is referred to as a basis contract.</sentence>
+<sentence id="s22">I will refer to this contract as the ABB Grain basis contract.</sentence>
+<sentence id="s23">The contract placed an obligation on the plaintiffs to deliver 272 tonnes of wheat to ABB Grain at Port Lincoln in the period from the beginning of November to the end of December 2007.</sentence>
+<sentence id="s24">The contract was denominated in US cents per bushel, and the price which was locked in was 520 cents per bushel, which, at the exchange rate on that date, converted to $AUD230 per metric tonne.</sentence>
+<sentence id="s25">On 18 April 2007, the plaintiffs and ABB Grain entered into what is referred to as a forward contract.</sentence>
+<sentence id="s26">When necessary to distinguish this from other contracts, I will refer to this contract as the ABB Grain first forward contract.</sentence>
+<sentence id="s27">The ABB Grain first forward contract placed an obligation on the plaintiffs to deliver 1230 tonnes of barley to ABB Grain at Port Lincoln in the period from 1 November 2007 to 31 December 2007 for $AUD173 per tonne.</sentence>
+<sentence id="s28">On 4 June 2007, the plaintiffs and ABB Grain entered into a second forward contract.</sentence>
+<sentence id="s29">When necessary to distinguish this from other contracts, I will refer to this contract as the ABB Grain second forward contract.</sentence>
+<sentence id="s30">The ABB Grain second forward contract placed an obligation on the plaintiffs to deliver 600 tonnes of wheat to ABB Grain at Port Lincoln in the period 1 November 2007 to 31 December 2007 for $222 per tonne.</sentence>
+<sentence id="s31">The plaintiffs were not able to deliver the required quantities of wheat and barley under the three contracts with ABB Grain because of a production failure.</sentence>
+<sentence id="s32">As I understand it, a small quantity of barley was delivered under the first forward contract, but the precise details are not relevant for present purposes.</sentence>
+<sentence id="s33">The contracts were "washed out", a process whereby the plaintiffs indicated to ABB Grain that they could not meet their obligations under the contracts, ABB Grain elected to cancel the contract and liquidated damages became payable.</sentence>
+<sentence id="s34">The plaintiffs' liability to ABB Grain under the "washout" agreements is said to be as follows: The ABB Grain basis contract: $31,492.</sentence>
+<sentence id="s35">The ABB Grain first forward contract: $158,628.</sentence>
+<sentence id="s36">The ABB Grain second forward contract: $173,340.</sentence>
+<sentence id="s37">The plaintiffs allege that they are not liable to ABB Grain for these amounts because ABB Grain failed to comply with various obligations placed on it under the Corporations Act and because it was in breach of a duty of care it owed to the plaintiffs.</sentence>
+<sentence id="s38">In the alternative, the plaintiffs plead that, if they are liable to ABB Grain for the above amounts, they are entitled to recover them as loss and damage from the first defendant who, the plaintiffs allege, breached various duties owed to them as their agent.</sentence>
+<sentence id="s39">I will need to discuss the relief sought by the plaintiffs against ABB Grain later in these reasons.</sentence>
+<sentence id="s40">In relation to the ABB Grain basis contract, the plaintiffs allege that ABB Grain failed to provide them with a Product Disclosure Statement ("PDS") as required by the Corporations Act .</sentence>
+<sentence id="s41">The plaintiffs allege that the ABB Grain basis contract was a derivative within s 761D , or a financial product within s 763A and s 763C of the Corporations Act .</sentence>
+<sentence id="s42">They allege that they were given a PDS "but only some months after having entered into the [basis contract]".</sentence>
+<sentence id="s43">The plaintiffs allege that, had they been given a PDS which met the requirements in ss 1013A , 1013B , 1013C , 1013D and 1013E of the Corporations Act , they would have been advised that the futures price for wheat contracts "might rise substantially" and, if the basis contract had to be washed out, the plaintiffs would suffer a significant loss.</sentence>
+<sentence id="s44">The plaintiffs allege that, for reasons they plead, "there was a strong likelihood that the price of wheat would increase significantly".</sentence>
+<sentence id="s45">The plaintiffs allege that, if they had been given a PDS containing the said information, they would not have entered into the ABB Grain basis contract.</sentence>
+<sentence id="s46">In its defence, ABB Grain admits that the ABB Grain basis contract was a derivative within s 761D(1) of the Corporations Act and that it was required to prepare a PDS as the issuer of the contract.</sentence>
+<sentence id="s47">ABB Grain pleads that it gave a PDS to the plaintiffs as required by the Corporations Act .</sentence>
+<sentence id="s48">The plaintiffs also claim that they ought to have provided them with a Statement of Advice ("SOA"), as required by s 946A of the Corporations Act .</sentence>
+<sentence id="s49">They claim that, if they had been provided with an SOA that complied with ss 947A , 947B and 947C of the Corporations Act , it would have contained similar information to that identified in relation to the PDS and that they would not have entered into the ABB Grain basis contract.</sentence>
+<sentence id="s50">In its defence, ABB Grain claims that, by reason of the circumstances of its financial services licence and its position under the Corporations Act as a "regulated person", and the operation of s 944A of the Corporations Act , it was not required to provide an SOA to the plaintiffs.</sentence>
+<sentence id="s51">In submissions, the plaintiffs' counsel made it clear that this is an allegation against the first defendant and not ABB Grain.</sentence>
+<sentence id="s52">Therefore, it may be put to one side.</sentence>
+<sentence id="s53">In relation to the ABB Grain first forward contract, the plaintiffs' claim is that the third defendant was required to provide a PDS to them.</sentence>
+<sentence id="s54">They allege that the ABB Grain first forward contract was a financial product within the meaning of ss 761D , 763A and 763C of the Corporations Act , that a PDS was required by reason of s 1012B(3)(i) and (ii) and that the Corporations Act required the PDS to be in the form and contain the matters specified in ss 1013A , 1013B , 1013C , 1013D and 1013E .</sentence>
+<sentence id="s55">The plaintiffs allege that, had they been provided with a PDS, it would have contained information that the price of barley "might rise substantially" and that, if they were unable to deliver the required quantities, they would suffer a large loss.</sentence>
+<sentence id="s56">They also allege that it would have contained information to the effect that there was a "strong likelihood that the prices of wheat and barley would increase significantly".</sentence>
+<sentence id="s57">They allege that, had they been given a PDS, they would not have entered into the ABB Grain first forward contract.</sentence>
+<sentence id="s58">The plaintiffs also allege that they should have been given an SOA in relation to the ABB Grain first forward contract.</sentence>
+<sentence id="s59">They claim that, if they had been given an SOA, they would have been given similar information to that identified in relation to the PDS.</sentence>
+<sentence id="s60">In its defence, ABB Grain alleges that the ABB Grain first forward contract fell within the terms of s 761D(3) of the Corporations Act and was not a derivative or financial product within ss 761D , 763A and 763C of the Corporations Act .</sentence>
+<sentence id="s61">ABB Grain admits that it did not provide a PDS to the plaintiffs.</sentence>
+<sentence id="s62">ABB Grain admits that it did not provide an SOA to the plaintiffs, but denies that it was under an obligation to do so.</sentence>
+<sentence id="s63">It again relies on the matter identified in [14] above.</sentence>
+<sentence id="s64">Again, it was made clear by counsel for the plaintiffs in the course of his submissions that this is an allegation against the first defendant and not ABB Grain.</sentence>
+<sentence id="s65">In relation to the ABB Grain second forward contract, the plaintiffs' pleas and ABB Grain's responses are the same as they are in relation to the first forward contract.</sentence>
+<sentence id="s66">In relation to both of the ABB Grain forward contracts, the plaintiffs allege that ABB Grain owed them a duty of care to take reasonable steps to inform itself of matters identified in paragraph 51 of the ASOC and "to convey that information in the PDS which should have been given to the Plaintiffs".</sentence>
+<sentence id="s67">The matters in paragraph 51 are matters which the plaintiffs allege indicated that prices of wheat and barley would rise.</sentence>
+<sentence id="s68">It is unnecessary to set them out.</sentence>
+<sentence id="s69">ABB Grain denies that it owed a duty of care to the plaintiffs in relation to the ABB Grain forward contracts.</sentence>
+<sentence id="s70">The proposed SASOC adds a further cause of action in relation to the ABB Grain basis contract (paragraphs 30A-30C).</sentence>
+<sentence id="s71">The plaintiffs allege that ABB Grain, in the alternative to the allegation that they knew a number of matters which should have been included in the PDS, owed them a duty of care to ascertain those matters and include them in the PDS.</sentence>
+<sentence id="s72">ABB Grain did not do that and thereby was in breach of the duty of care.</sentence>
+<sentence id="s73">The plaintiffs allege that, had ABB Grain included the information in the PDS, they would not have entered into the ABB Grain basis contract.</sentence>
+<sentence id="s74">The plaintiffs allege that the duty of care arose because they entered into the ABB Grain basis contract and because ABB Grain was required to provide them with a PDS.</sentence>
+<sentence id="s75">The plaintiffs' claim against Glencore Grain 
+ There is no existing pleading against Glencore Grain.</sentence>
+<sentence id="s76">The relevant pleading for present purposes is the proposed SASOC.</sentence>
+<sentence id="s77">Glencore Grain has not filed a defence.</sentence>
+<sentence id="s78">It is not disputed that the plaintiffs entered into a forward contract with Glencore Grain whereby the plaintiffs were under an obligation to deliver 1070 tonnes of barley to Glencore Grain at Port Lincoln in November/December 2007 at $203 per tonne.</sentence>
+<sentence id="s79">I will refer to this as the Glencore forward contract.</sentence>
+<sentence id="s80">The plaintiffs allege that Glencore Grain should have given them a PDS.</sentence>
+<sentence id="s81">They allege that the Glencore Grain forward contract was a financial product within the meaning of ss 761D , 763A and 763C of the Act, that Glencore Grain was required by s 1012B(3)(i) and (ii) to provide a PDS to the plaintiffs in the form required and containing the information specified in ss 1013A , 1013B , 1013C , 1013D and 1013E of the Act and that none of the plaintiffs were given a PDS.</sentence>
+<sentence id="s82">The plaintiffs allege that, had they been given a PDS, they would have been provided with information known to Glencore Grain that the price of barley was "now much more likely to rise than fall", and that the plaintiffs were likely, if unable to deliver the required quantity, to suffer a "much larger loss".</sentence>
+<sentence id="s83">The plaintiffs further allege that there was a "strong likelihood that the prices of ... barley would increase significantly".</sentence>
+<sentence id="s84">The plaintiffs allege that they would not have entered into the Glencore Grain forward contract had they been given a PDS.</sentence>
+<sentence id="s85">The plaintiffs also allege that they should have been given an SOA conforming with the requirements of ss 947A , 947B and 947C of the Act and that it would have contained the type of information identified in relation to the PDS.</sentence>
+<sentence id="s86">They claim that, had they been given an SOA, they would not have entered into the Glencore Grain forward contract.</sentence>
+<sentence id="s87">As I understood the plaintiffs' submissions, this allegation is made against the first defendant and not Glencore Grain.</sentence>
+<sentence id="s88">The plaintiffs allege in the alternative that, if Glencore Grain did not know the information identified in the proposed SASOC, Glencore Grain owed them a duty of care by reason of the fact that Glencore Grain was obliged to provide the plaintiffs with a PDS to ascertain the information and to convey that information to the plaintiffs in the PDS.</sentence>
+<sentence id="s89">The plaintiffs allege that Glencore Grain acted in breach of the duty of care by failing to provide a PDS at all and, in particular, by not providing the plaintiffs with a PDS which warned of the risk that the price was now much more likely to rise than fall and in failing to provide the plaintiffs with an appropriate measure of the risk.</sentence>
+<sentence id="s90">The plaintiffs allege that they suffered a production failure and were unable to deliver the required quantity of barley under the Glencore Grain forward contract.</sentence>
+<sentence id="s91">The plaintiffs and Glencore Grain entered into a "washout agreement" on 30 August 2007 whereby the plaintiffs became liable to Glencore Grain for the sum of $173,340.</sentence>
+<sentence id="s92">The plaintiffs allege that the washout agreement discharged the Glencore Grain forward contract.</sentence>
+<sentence id="s93">The notices of motion
+ I turn now to outline the notices of motion and the evidence put forward on the notices of motion.</sentence>
+<sentence id="s94">It is convenient to deal with the notices of motion in the order of ABB Grain's notice, Glencore Grain's notice and the plaintiffs' notice.</sentence>
+<sentence id="s95">ABB Grain's notice of motion is dated 13 February 2009 and in it ABB Grain seeks the following orders against the plaintiffs (relevantly): 
+ "1.</sentence>
+<sentence id="s96">The proceeding as against the third defendant in respect of the contracts in paragraphs 31 and 41 of the Amended Statement of Claim filed on 18 November 2008 be summarily dismissed pursuant to s 31A of the Federal Court of Australia Act 1976 (Cth) on the basis that it has no reasonable prospects of success.</sentence>
+<sentence id="s97">
+
+ In the alternative to Order 1, the Amended Statement of Claim filed on 18 November 2008 be struck out pursuant to O 11 r 16 of the Federal Court Rules on the basis that it discloses no reasonable cause of action and is embarrassing.</sentence>
+<sentence id="s98">"
+ ABB Grain's notice of motion is supported by two affidavits.</sentence>
+<sentence id="s99">The first affidavit is an affidavit of Ms Sarah Jane Graves, a solicitor, who is employed by ABB Grain as legal counsel.</sentence>
+<sentence id="s100">Ms Graves annexes to her affidavit the following documents: The ABB Grain first forward contract (No 75996) dated 18 April 2007.</sentence>
+<sentence id="s101">The ABB Grain second forward contract (No 58801) dated 4 June 2007.</sentence>
+<sentence id="s102">The Trade Rules of the National Agricultural Commodities Marketing Association Ltd ("NACMA") as at May 2007.</sentence>
+<sentence id="s103">I note the following points about these documents: The ABB Grain first forward contract provides for delivery to take place between 1 October 2007 and 31 December 2007.</sentence>
+<sentence id="s104">It contains clauses dealing with non-performance and contract cancellation.</sentence>
+<sentence id="s105">Clause 10 provides: 
+"NON PERFORMANCE: Failure to deliver product to the delivery point(s), in accordance with clauses 1 through 9 above will result in ABB, buying in against the shortfall at the Sellers cost.</sentence>
+<sentence id="s106">(Refer Clause 12 overleaf)"
+ 
+ 
+Clause 12 is in the following terms:
+ 
+"CONTRACT 
+ 
+CANCELLATION: In the event a Seller suffers production failure this Contract may be cancelled following negotiation and financial settlement with ABB as described hereafter.</sentence>
+<sentence id="s107">The Seller may initiate partial or complete cancellation of the Grala tonnage by formally requesting for a Contract Washout with ABB.</sentence>
+<sentence id="s108">The Washout payment will be calculated from the difference between the price on the Contract and a price reflecting market value at the time of Washout as negotiated between ABB and the Seller.</sentence>
+<sentence id="s109">The cancellation is completed by payment to the Seller by ABB or upon receipt of payment by ABB from the Seller depending upon the circumstances.</sentence>
+<sentence id="s110">"
+ The ABB Grain second forward contract provides that the trade rules which are to govern the contract are "As per NACMA".</sentence>
+<sentence id="s111">The NACMA Trade Rules contain the following provisions: 
+" Rule 17.0 DEFAULT 
+ 
+ Rule 17.1 Default by the Seller 
+ Subject to Rule 17.5, when the Seller finds that they are or will be in default on fulfillment of contract, they shall notify the Buyer at once.</sentence>
+<sentence id="s112">Upon receipt of such notice, the Buyer shall, within twenty-four (24) hours thereafter, notify the Seller, declaring which of the following options they elect to exercise: 
+(a) agree to extend the Delivery or Shipment Period, and/or accept the quality and/or condition of the commodity tendered; or
+ 
+(b) Repurchase of all or any part of the defaulted portion of the Delivery or Shipments; or
+ 
+(c) cancel all or any part of the defaulted portion of the Delivery or Shipments at Fair Market Price based on the close of the market the next business day.</sentence>
+<sentence id="s113">...</sentence>
+<sentence id="s114">Upon the Buyer's determination of the Seller's default, the Buyer shall notify the Seller at once of such finding, and promptly thereafter, notify the Seller which of the options (a) or (b) or (c) above they elect to exercise.</sentence>
+<sentence id="s115">
+...
+ 
+ 
+ Rule 17.5 Consequences of Default 
+ 
+In the case of Default, the party in Default must pay within 7 business days of demand by the non-defaulting party, by way of liquidated damages, an amount equal to the undelivered contract quantity of the commodity multiplied by the difference between the contract price and the Fair Market Price of the commodity.</sentence>
+<sentence id="s116">For the avoidance of doubt, nothing in these Rules shall be construed as requiring the party not in default to make any payment of compensation or damages to the party in default.</sentence>
+<sentence id="s117">...
+ 
+ 
+ Rule 17.7 Fair Market Price Defined: 
+ 
+For the purposes of this Rule 17, Fair Market Price shall be construed as meaning; 
+ the price per tonne ascertained by Repurchase or Resale for the commodity which is actively trading, or in the case of Seller Default the indication of the price being offered by other sellers in the market place on the business day following the giving of notice by the Buyer pursuant to clause 17.1 or 17.5, or ...
+ 
+ Rule 17.8 Repurchase Defined 
+ 
+The term 'Repurchase' shall be construed as meaning an actual bona fide purchase of a commodity of like kind and quantity on the open market.</sentence>
+<sentence id="s118">Rule 17.9 Resale Defined 
+ 
+The term 'Resale' shall be construed as meaning an actual bona fide sale of a commodity of like kind and quantity on the open market.</sentence>
+<sentence id="s119">"
+ 
+ The second affidavit filed in support of ABB Grain's notice of motion is an affidavit of Mr Stephen Anthony Howells.</sentence>
+<sentence id="s120">Mr Howells is the National Accumulation Manager of ABB Grain.</sentence>
+<sentence id="s121">In his affidavit, Mr Howells explains the mechanics of ABB Grain basis contracts.</sentence>
+<sentence id="s122">He explains the fact that the price under such contracts comprises the sum of three components, namely, a basis component, a futures component and a foreign exchange component.</sentence>
+<sentence id="s123">He explains what each of these components involves.</sentence>
+<sentence id="s124">He exhibits to his affidavit the basis contract between ABB Grain and the first and second plaintiffs and the Product Disclosure Statement dated 13 November 2006, which was the version applicable at the time of the said contract.</sentence>
+<sentence id="s125">Mr Howells states that the first and second plaintiffs made a request through their agent on 16 April 2007 that the futures component under the contract be locked in.</sentence>
+<sentence id="s126">He also states that on 5 September 2007 the first and second plaintiffs elected to buy back the futures component, thereby suffering a loss of $31,491.92.</sentence>
+<sentence id="s127">Mr Howells explains the mechanics of forward contracts and he states that there is "no market in which forward contracts are traded or can be traded".</sentence>
+<sentence id="s128">He states that because there is no market there is no usual market practice.</sentence>
+<sentence id="s129">Glencore Grain's notice of motion is dated 20 November 2008 and in it Glencore Grain seeks the following orders as against the plaintiffs (relevantly): 
+ "(1) That, pursuant to s.53(1) of the Commercial Arbitration and Industrial Referral Agreements Act (SA) 1986, this proceeding as against the Fourth Respondent be stayed and, further, the matters raised in this proceeding by the Applicants as against the Fourth Respondent be referred to arbitration with the National Agricultural Commodity Marketing Association Limited ('NACMA') within 30 days; 
+ (2) Alternatively, that pursuant to Order 20 Rule 5 of the Federal Court Rules , this proceeding as against the Fourth Respondent be stayed or dismissed;
+ (3) Alternatively, in the event of the proceeding not being stayed, that the Court grant judgment in favour of the Fourth Respondent pursuant to section 31A of the Federal Court of Australia Act 1976 .</sentence>
+<sentence id="s130">" 
+
+ Glencore Grain's notice of motion is supported by an affidavit of Mr David Mattiske, who is the chief financial officer of Glencore Grain.</sentence>
+<sentence id="s131">Mr Mattiske sets out the circumstances in which the Glencore Grain forward contract was negotiated and entered into.</sentence>
+<sentence id="s132">It seems clear enough that the Glencore Grain forward contract was entered into on 4 June 2007 and required delivery between 1 November 2007 and 31 December 2007.</sentence>
+<sentence id="s133">The contract was subject to the NACMA Trade Rules.</sentence>
+<sentence id="s134">It seems that in late August 2007 the plaintiffs, through their agent, advised Glencore Grain that they would not be in a position to deliver the required tonnage and meet their obligations under the contract.</sentence>
+<sentence id="s135">They instructed their agent to give notice of default pursuant to rule 17 of the NACMA Trade Rules and to seek Glencore Grain's agreement to close off the contract.</sentence>
+<sentence id="s136">On 30 August 2007, the parties agreed to "wash out" the contract, as provided for in rule 17.1(1)(c) of the NACMA trade rules.</sentence>
+<sentence id="s137">Glencore Grain filed a further affidavit on its notice of motion.</sentence>
+<sentence id="s138">This affidavit was an affidavit of Mr Maurice John Thompson, a partner in the firm of solicitors acting for Glencore Grain.</sentence>
+<sentence id="s139">For present purposes, it is unnecessary to discuss the contents of that affidavit.</sentence>
+<sentence id="s140">I heard argument on Glencore Grain's notice of motion on 8 December 2008, and, on 23 December 2008, I made the following orders (see [5] above): 
+ "1.</sentence>
+<sentence id="s141">The plaintiffs' amended statement of claim against the fourth defendant be struck out.</sentence>
+<sentence id="s142">
+ Further consideration of the fourth defendant's notice of motion dated 20 November 2008 be adjourned to a date to be fixed.</sentence>
+<sentence id="s143">"
+ These orders resulted in the plaintiffs seeking leave to file and serve the SASOC against the defendants.</sentence>
+<sentence id="s144">The plaintiffs' notice of motion seeking such leave is dated 4 February 2009.</sentence>
+<sentence id="s145">In that notice of motion, the plaintiffs seek the following orders (relevantly): 
+ "1.</sentence>
+<sentence id="s146">That an injunction be issued and the Fourth Defendant by itself or its servants or agents be restrained until further order from taking any further step in the arbitration proceedings by National Agricultural Commodities Marketing Association Ltd which it has sought to commence against the Plaintiffs.</sentence>
+<sentence id="s147">
+
+ That the Plaintiffs have leave to file and serve a Second Amended Statement of Claim in the form being exhibit 'RLP 1' to the affidavit of Ross Lindsay Proud sworn 4 th day of February, 2009 and filed herein.</sentence>
+<sentence id="s148">"
+ For present purposes, the claim for an injunction in relation to the arbitration proceedings may be put to one side.</sentence>
+<sentence id="s149">The plaintiffs' application is supported by a number of affidavits.</sentence>
+<sentence id="s150">The first affidavit is an affidavit of the first plaintiff, sworn on 11 February 2009.</sentence>
+<sentence id="s151">In his affidavit, the first plaintiff describes his operations as a grain farmer at Kimba in South Australia.</sentence>
+<sentence id="s152">He describes his understanding of the mechanics of a forward contract, and the way in which he could make a profit in circumstances where his production failed and the price of wheat fell.</sentence>
+<sentence id="s153">The second affidavit is an affidavit of Mr Proud, sworn on 17 February 2009.</sentence>
+<sentence id="s154">He exhibits to his affidavit a paper by a body called The Group of Thirty and entitled "Derivatives: Practice and Principles --- Global Derivatives Study Group --- July 1993".</sentence>
+<sentence id="s155">The third affidavit is an affidavit of Mr Proud, sworn on 24 February 2009.</sentence>
+<sentence id="s156">For present purposes, it is unnecessary to address its contents.</sentence>
+<sentence id="s157">Glencore Grain filed a further affidavit, being an affidavit of Mr Maurice John Thompson, sworn on 15 February 2009, but for present purposes it is unnecessary to address its contents.</sentence>
+<sentence id="s158">Principal orders sought and the principles applicable to the determination of the notices of motion
+ As far as the plaintiffs' claim against ABB Grain is concerned, ABB Grain contends that it is entitled to summary judgment pursuant to s 31A of the Federal Court of Australia Act 1976 (Cth) ("Federal Court Act") in relation to the ABB Grain forward contracts.</sentence>
+<sentence id="s159">Section 31A of the Federal Court Act provides, relevantly: 
+ "(2) The Court may give judgment for one party against another in relation to the whole or any part of a proceeding if:
+ (a) the first party is defending the proceeding or that part of the proceeding; and
+ (b) the Court is satisfied that the other party has no reasonable prospect of successfully prosecuting the proceeding or that part of the proceeding.</sentence>
+<sentence id="s160">
+
+ 
+ (3) For the purposes of this section, a defence or proceeding or part of a proceeding need not be:
+ (a) hopeless; or
+ (b) bound to fail;
+ for it to have no reasonable prospect of success.</sentence>
+<sentence id="s161">
+
+ 
+ (4) This section does not limit any powers that the Court has apart from this section.</sentence>
+<sentence id="s162">" 
+
+ 
+Order 11 r 16 provides, relevantly:
+ 
+ "Where a pleading:
+ (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading;
+ (b) has a tendency to cause prejudice, embarrassment or delay in the proceeding; or
+ (c) ...
+ the Court may at any stage of the proceeding order that the whole or any part of the pleading be struck out.</sentence>
+<sentence id="s163">" 
+
+ There have been a number of cases which have discussed the precise test posited by s 31A.</sentence>
+<sentence id="s164">The principal authorities to which I was referred are: Boston Commercial Services Pty Ltd v GE Capital Finance Australasia Pty Ltd [2006] FCA 1352 ; (2006) 236 ALR 720 ; Jefferson Ford Pty Ltd v Ford Motor Company of Australia Ltd [2008] FCAFC 60 ; (2008) 167 FCR 372 ; Spiteri v Nine Network Australia Pty Ltd [2008] FCA 905.</sentence>
+<sentence id="s165">It is not necessary for me to discuss the issues which have been considered in the authorities.</sentence>
+<sentence id="s166">It is sufficient for me to say that where a plaintiff's cause of action depends on a triable issue of fact then summary judgment will not be entered.</sentence>
+<sentence id="s167">Where the plaintiff's cause of action depends on an arguable question of law then summary judgment may not be entered.</sentence>
+<sentence id="s168">However, in the latter case where the Court has had the benefit of submissions on the question of law and is able to decide the question then the Court may proceed to do so on an application for summary judgment.</sentence>
+<sentence id="s169">Of course, the Court must be alert to the possibility that, in truth, the determination of the question of law depends on a triable issue of fact.</sentence>
+<sentence id="s170">Furthermore, there may be other reasons why, in the particular circumstances of the case, the Court will not decide an arguable question of law on an application for summary judgment.</sentence>
+<sentence id="s171">The plaintiffs' case against ABB Grain in relation to the ABB Grain forward contracts depends on the proper construction of provisions of the Corporations Act .</sentence>
+<sentence id="s172">I have had the benefit of full submissions on the issues of construction and I am able to determine them.</sentence>
+<sentence id="s173">The merits of the plaintiffs' case do not thereafter depend on triable issues of fact.</sentence>
+<sentence id="s174">For reasons I will give, I have determined the issues of construction in favour of ABB Grain and, in those circumstances, an order for summary judgment is appropriate.</sentence>
+<sentence id="s175">In the circumstances, it is unnecessary for me to consider any defects in the form of the pleadings in the ASOC as far as they deal with the ABB Grain forward contracts.</sentence>
+<sentence id="s176">The pleadings in the proposed SASOC in relation to the ABB Grain forward contracts do not overcome the fundamental defects in the ASOC.</sentence>
+<sentence id="s177">Leave to amend will be refused in relation to those contracts because an amendment will be futile.</sentence>
+<sentence id="s178">The other cause of action pleaded by the plaintiffs in the ASOC against ABB Grain relates to the ABB Grain basis contract.</sentence>
+<sentence id="s179">ABB Grain applies for that pleading to be struck out on the ground that it has a tendency to cause prejudice, embarrassment or delay in the proceeding.</sentence>
+<sentence id="s180">Embarrassment in the context of O 11 r 16 includes a pleading "which is susceptible of various meanings, or contains inconsistent allegations or in which alternatives are confusingly intermixed or in which irrelevant allegations are made tending to increase expense.</sentence>
+<sentence id="s181">This list is not intended to be exhaustive": Bartlett v Swan Television &amp; Radio Broadcasters Pty Ltd [1995] FCA 1429 ; [1995] ATPR 41-434 at 40,889 per Carr J.</sentence>
+<sentence id="s182">For reasons I will give, the plaintiffs' pleading in the ASOC in relation to the ABB Grain basis contract is embarrassing and should be struck out.</sentence>
+<sentence id="s183">Again, for reasons I will give, the pleading in the proposed SASOC does not overcome the defects, and leave to amend in terms of that document will be refused.</sentence>
+<sentence id="s184">The plaintiffs may apply for leave to replead their cause of action in relation to the ABB Grain basis contract, but I will hear from the parties if such an application is made.</sentence>
+<sentence id="s185">In the proposed SASOC, the plaintiffs plead a cause of action against ABB Grain which is not pleaded in the ASOC.</sentence>
+<sentence id="s186">The cause of action is a breach of a duty of care allegedly owed by ABB Grain to the plaintiffs.</sentence>
+<sentence id="s187">Counsel for the third defendant put persuasive arguments in support of the proposition that such a duty could not arise as a matter of law (see [56] below), but it may assist the parties if I indicate that, on the submissions to date, I would not be disposed to conclude that the allegation was unarguable in the relevant sense.</sentence>
+<sentence id="s188">As far as the plaintiffs' claim against Glencore Grain in relation to the Glencore Grain contract is concerned, I have concluded, for the same reasons I will give in relation to the ABB Grain forward contracts, that the proposed SASOC does not disclose a reasonable cause of action and that summary judgment would be given in relation to it.</sentence>
+<sentence id="s189">In those circumstances, it would be futile to allow the amendment, and leave to amend in terms of the proposed SASOC is refused.</sentence>
+<sentence id="s190">In the circumstances, it is unnecessary to consider Glencore Grain's challenges to the form of the plaintiffs' pleading in the proposed SASOC in relation to the Glencore Grain forward contract.</sentence>
+<sentence id="s191">Consideration of issues
+ Forward contracts
+ The first question is whether the plaintiffs have reasonably arguable causes of action in relation to the forward contracts.</sentence>
+<sentence id="s192">The third and fourth defendants each submit that they do not.</sentence>
+<sentence id="s193">Each submits that a forward contract is not a derivative or financial product and that the plaintiffs' cause of action under the Corporations Act for failure to provide a PDS must fail.</sentence>
+<sentence id="s194">The fourth defendant submitted that there were other reasons the cause of action under the Corporations Act must fail, and I will mention these reasons in due course.</sentence>
+<sentence id="s195">The third and fourth defendants submit that the second cause of action pleaded in relation to the forward contract (that is, alleged breach of a duty of care) must also fail.</sentence>
+<sentence id="s196">There is a link between the two causes of action, which I now explain.</sentence>
+<sentence id="s197">The information which must be included in the PDS by virtue of the provisions of the Corporations Act does not go beyond information which is known to the provider of the PDS (s 1013C(2)).</sentence>
+<sentence id="s198">The plaintiffs submit they do not know how much, if any, of the information they identify in their pleadings was known to ABB Grain or Glencore Grain.</sentence>
+<sentence id="s199">Therefore, they plead a duty of care in the alternative.</sentence>
+<sentence id="s200">The plaintiffs allege that, in so far as the information was not known, ABB Grain and Glencore Grain each had a duty of care to ascertain the information and include it in the PDS.</sentence>
+<sentence id="s201">The alleged duty of care is said by the plaintiffs to arise from the fact that the parties entered into a contract or contracts and ABB Grain and Glencore Grain were required to provide PDS documents.</sentence>
+<sentence id="s202">There are two points to note: the cause of action based on an alleged duty of care fails if there was no obligation to provide a PDS and it does not necessarily succeed if there was an obligation to provide a PDS.</sentence>
+<sentence id="s203">The first point is clear; the second requires some elaboration.</sentence>
+<sentence id="s204">The submission is put by ABB Grain and Glencore Grain that, even if there was an obligation to provide a PDS, it is not reasonably arguable that there was a duty of care to ascertain information and provide it in the PDS.</sentence>
+<sentence id="s205">The submission is that it would be inconsistent with the statutory scheme if the obligation to provide certain information gave rise to an obligation at common law to provide additional information.</sentence>
+<sentence id="s206">In the alternative, there are simply no circumstances giving rise to a duty of care.</sentence>
+<sentence id="s207">It is not necessary for me to decide the second point in relation to the forward contracts because I have concluded that there was no obligation to provide a PDS and the duty of care argument must fail on that ground.</sentence>
+<sentence id="s208">Were the forward contracts financial products?</sentence>
+<sentence id="s209">The obligation to provide a PDS is contained in s 1012B(3) of the Corporations Act .</sentence>
+<sentence id="s210">That subsection is in the following terms: 
+ "(3) A regulated person must give a person a Product Disclosure Statement for a financial product if:
+ (a) the regulated person:
+ (i) offers to issue the financial product to the person; or
+ (ii) offers to arrange for the issue of the financial product to the person; or
+ (iii) issues the financial product to the person in circumstances in which there are reasonable grounds to believe that the person has not been given a Product Disclosure Statement for the product; and
+ (b) the financial product is, or is to be, issued to the person as a retail client.</sentence>
+<sentence id="s211">The Product Disclosure Statement must be given at or before the time when the regulated person makes the offer, or issues the financial product, to the person and must be given in accordance with this Division.</sentence>
+<sentence id="s212">Note: If a Product Disclosure Statement is given when the offer is made, it will not need to be given again when the product is issued to the person (see subsection 1012D(1)) unless the Product Disclosure Statement that was given is no longer up to date.</sentence>
+<sentence id="s213">" 
+
+ The key elements in subs 1012B(3) are the concepts of a "financial product", the "issuing" of a financial product and a "retail client".</sentence>
+<sentence id="s214">Each of those concepts is defined in Part 7.1 of the Corporations Act .</sentence>
+<sentence id="s215">The submissions in this case centred on the definition of "financial product".</sentence>
+<sentence id="s216">There is a general definition of "financial product" in ss 763A , 763B , 763C , 763D and 763E .</sentence>
+<sentence id="s217">Section 764A contains a list of specific things which are financial products whether or not they fall within the general definition.</sentence>
+<sentence id="s218">A derivative, which is defined in s 761D(1) , is one such facility: s 764A(1)(c).</sentence>
+<sentence id="s219">Section 765A contains a list of specific things which are not financial products and that is so whether or not they fall within the general definition or are one of the specific things identified in s 764A.</sentence>
+<sentence id="s220">This order of precedence is laid down by s 762A.</sentence>
+<sentence id="s221">One of the specific things identified in s 765A as not being a financial product is so much of an arrangement as is not a derivative because of s 761D(3)(a) (see s 765A(1)(n)).</sentence>
+<sentence id="s222">Section 761D of the Corporations Act provides as follows: 
+ " 761D Meaning of derivative 
+ (1) For the purposes of this Chapter, subject to subsections (2), (3) and (4), a derivative is an arrangement in relation to which the following conditions are satisfied:
+ (a) under the arrangement, a party to the arrangement must, or may be required to, provide at some future time consideration of a particular kind or kinds to someone; and
+ (b) that future time is not less than the number of days, prescribed by regulations made for the purposes of this paragraph, after the day on which the arrangement is entered into; and
+ (c) the amount of the consideration, or the value of the arrangement, is ultimately determined, derived from or varies by reference to (wholly or in part) the value or amount of something else (of any nature whatsoever and whether or not deliverable), including, for example, one or more of the following:
+ (i) an asset;
+ (ii) a rate (including an interest rate or exchange rate);
+ (iii) an index;
+ (iv) a commodity.</sentence>
+<sentence id="s223">
+
+ 
+ (2) Without limiting subsection (1), anything declared by the regulations to be a derivative for the purposes of this section is a derivative for the purposes of this Chapter.</sentence>
+<sentence id="s224">A thing so declared is a derivative despite anything in subsections (3) and (4).</sentence>
+<sentence id="s225">
+
+ 
+ (3) Subject to subsection (2), the following are not derivatives for the purposes of this Chapter even if they are covered by the definition in subsection (1):
+ (a) an arrangement in relation to which subparagraphs (i), (ii) and (iii) are satisfied:
+ (i) a party has, or may have, an obligation to buy, and another party has, or may have, an obligation to sell, tangible property (other than Australian or foreign currency) at a price and on a date in the future; and
+ (ii) the arrangement does not permit the seller's obligations to be wholly settled by cash, or by set-off between the parties, rather than by delivery of the property; and
+ (iii) neither usual market practice, nor the rules of a licensed market or a licensed CS facility, permits the seller's obligations to be closed out by the matching up of the arrangement with another arrangement of the same kind under which the seller has offsetting obligations to buy;
+ but only to the extent that the arrangement deals with that purchase and sale;
+ (b) a contract for the future provision of services;
+ (c) anything that is covered by a paragraph of subsection 764A(1), other than paragraph (c) of that subsection;
+ (d) anything declared by the regulations not to be a derivative for the purposes of this Chapter.</sentence>
+<sentence id="s226">
+
+ 
+ (4) Subject to subsection (2), an arrangement under which one party has an obligation to buy, and the other has an obligation to sell, property is not a derivative for the purposes of this Chapter merely because the arrangement provides for the consideration to be varied by reference to a general inflation index such as the Consumer Price Index.</sentence>
+<sentence id="s227">" 
+
+ Regulations have been made under s 761D ( Corporations Regulations 2001 (Cth) reg 7.1.04), but they do not affect the submissions made in this case.</sentence>
+<sentence id="s228">The effect of the legislative scheme is that, where an arrangement falls within s 761D(3), it is not a financial product.</sentence>
+<sentence id="s229">Where the arrangement does not fall within s 761D(3), it may be a financial product if it falls within s 761D(1) or the general definition in s 763A et seq.</sentence>
+<sentence id="s230">The plaintiffs' case is that the forward contracts do not fall within s 761D(3), but do fall within s 761D(1) or s 763A and s 763C.</sentence>
+<sentence id="s231">I have set out the terms of s 761D above.</sentence>
+<sentence id="s232">Sections 763A and 763C are in the following terms: 
+ "763A General definition of financial product 
+ (1) For the purposes of this Chapter, a financial product is a facility through which, or through the acquisition of which, a person does one or more of the following:
+ (a) makes a financial investment (see section 763B);
+ (b) manages financial risk (see section 763C);
+ (c) makes non-cash payments (see section 763D).</sentence>
+<sentence id="s233">This has effect subject to section 763E.</sentence>
+<sentence id="s234">(2) For the purposes of this Chapter, a particular facility that is of a kind through which people commonly make financial investments, manage financial risks or make non-cash payments is a financial product even if that facility is acquired by a particular person for some other purpose.</sentence>
+<sentence id="s235">(3) A facility does not cease to be a financial product merely because:
+ (a) the facility has been acquired by a person other than the person to whom it was originally issued; and
+ (b) that person, in acquiring the product, was not making a financial investment or managing a financial risk.</sentence>
+<sentence id="s236">... 
+
+ 
+ 763C When a person manages financial risk 
+ For the purposes of this Chapter, a person manages financial risk if they:
+ (a) manage the financial consequences to them of particular circumstances happening; or
+ (b) avoid or limit the financial consequences of fluctuations in, or in the value of, receipts or costs (including prices and interest rates).</sentence>
+<sentence id="s237">Note 1: Examples of actions that constitute managing a financial risk are:
+ (a) taking out insurance; or
+ (b) hedging a liability by acquiring a futures contract or entering into a currency swap.</sentence>
+<sentence id="s238">Note 2: An example of an action that does not constitute managing a financial risk is employing a security firm (while that is a way of managing the risk that thefts will happen, it is not a way of managing the financial consequences if thefts do occur).</sentence>
+<sentence id="s239">" 
+
+ The Corporations Act provides sanctions for a failure to provide a PDS and these include criminal sanctions (see Part 7.9 Division 7 Subdivision A) and civil remedies (see Part 7.9 Division 7 Subdivision B).</sentence>
+<sentence id="s240">As to the civil remedies, s 1022B gives a person a right of action in relation to the failure to provide a PDS to recover the amount of the loss or damage suffered by him or her.</sentence>
+<sentence id="s241">Section 1022C provides that, in addition to awarding loss and damage under s 1022B(2) , the Court may, if it thinks it necessary in order to do justice between the parties, make an order declaring void a contract entered into by the client referred to in that subsection for or relating to a financial product or a financial service.</sentence>
+<sentence id="s242">It is convenient to start with the question whether the forward contracts fall within the terms of s 761D(3).</sentence>
+<sentence id="s243">The relevant paragraph is (a) and three matters are identified.</sentence>
+<sentence id="s244">For an arrangement to fall within the exception in (a) the characteristic in (i) must be present, and the characteristics in (ii) and (iii) respectively must not be present.</sentence>
+<sentence id="s245">
+ "(i) a party has, or may have, an obligation to buy, and another party has, or may have, an obligation to sell, tangible property (other than Australian or foreign currency) at a price and on a date in the future; ..." 
+
+ There is no dispute between the parties that the forward contracts fall within the terms of this paragraph.</sentence>
+<sentence id="s246">Clearly, wheat and barley are tangible property and, in each case, there was an obligation to sell, and a corresponding obligation to buy, at a price and on a date in the future.</sentence>
+<sentence id="s247">
+ "(ii) the arrangement does not permit the seller's obligations to be wholly settled by cash, or by set-off between the parties, rather than by delivery of the property; ..." 
+
+ The word "arrangement" is defined in s 761A of the Corporations Act .</sentence>
+<sentence id="s248">It is a broad definition, including within its terms contracts, agreements, understandings, schemes or other arrangements whether formal or informal, written or oral, and whether or not enforceable by legal proceedings.</sentence>
+<sentence id="s249">In this case each forward contract was a contract within the ordinary legal meaning of that term and each was evidenced by a written document or documents.</sentence>
+<sentence id="s250">Leaving aside questions of market practice, which I will discuss later and which are not relevant in terms of paragraph (ii), I did not understand any party to suggest that there was a term of one or more of the forward contracts which was not in the documents put in evidence.</sentence>
+<sentence id="s251">The plaintiffs submit that it is arguable that the forward contracts possess the characteristic of permitting the seller's obligations to be wholly settled by cash, rather than by delivery of the property because of either of the following: the buyer's remedies under such a contract would be damages and not specific performance and the buyer would pay such damages in cash; and the washout provisions mean that the seller's obligations can be wholly settled by cash.</sentence>
+<sentence id="s252">In the case of each forward contract, there is an obligation on the plaintiffs to deliver a specified quantity of wheat or barley at a particular time, or, more accurately, during a particular period.</sentence>
+<sentence id="s253">A failure by a seller of goods to comply with an obligation to deliver the goods may give rise to an action for damages by the buyer for non-delivery (see, for example, s 50(1) of Sale of Goods Act 1895 (SA)).</sentence>
+<sentence id="s254">The measure of damages where there is an available market for the goods in question is " prima facie to be ascertained by the difference between the contract price and the market or current price of the goods at the time or times when they ought to have been delivered..." (see, for example, s 50(3) of Sale of Goods Act 1895 (SA)).</sentence>
+<sentence id="s255">Where there is no difference, or where a buyer fails to adduce evidence of actual damage, he or she may nevertheless recover nominal damages for breach of contract: Luna Park (NSW) Ltd v Tramways Advertising Pty Ltd [1938] HCA 66 ; (1938) 61 CLR 286.</sentence>
+<sentence id="s256">On occasions, a Court may order specific performance of a contract for the sale and delivery of goods (see, for example, s 51 of the Sale of Goods Act 1895 (SA)).</sentence>
+<sentence id="s257">Generally speaking, a Court will not order specific performance where the goods in question are readily obtainable in the market.</sentence>
+<sentence id="s258">If it be assumed (as is probably the case), that a failure by a seller to deliver wheat or barley under forward contracts of the type in question in this case would ordinarily lead to an award of damages rather than an order for specific performance, then, putting to one side for the present the effect of washout provisions, it would only be in a very loose sense that it could be said that the seller's obligations could be wholly settled by cash, rather than the delivery of the property.</sentence>
+<sentence id="s259">I do not think that that is what s 761D(3)(a)(ii) means.</sentence>
+<sentence id="s260">It seems to me that the important words in the paragraph are arrangement , permit and rather than .</sentence>
+<sentence id="s261">It seems to me that those words mean that the option wholly to settle an obligation by cash must be in the arrangement, it must be vested in the seller and the alternatives of paying cash or delivering the property must be of a similar nature or standing.</sentence>
+<sentence id="s262">The "option" of paying damages is not an option provided by the arrangement, nor is it of a similar nature or standing as the obligation to deliver the property.</sentence>
+<sentence id="s263">As Windeyer J said in Coulls v Bagot's Executor and Trustee Co Ltd [1967] HCA 3 ; (1967) 119 CLR 460 (at 504): 
+ "The primary obligation of a party to a contract is to perform it, to keep his promise.</sentence>
+<sentence id="s264">That is what the law requires of him.</sentence>
+<sentence id="s265">If he fails to do so, he incurs a liability to pay damages.</sentence>
+<sentence id="s266">That however is the ancillary remedy for his violation of the other party's primary right to have him carry out his promise.</sentence>
+<sentence id="s267">It is, I think, a faulty analysis of legal obligations to say that the law treats a promisor as having a right to elect either to perform his promise or to pay damages.</sentence>
+<sentence id="s268">" 
+
+ The obligation to pay damages arises when the seller breaches his obligations, not when he settles them.</sentence>
+<sentence id="s269">The buyer's right to recover nominal damages in certain circumstances reinforces the point.</sentence>
+<sentence id="s270">There is also force in the submission of counsel for ABB Grain that it is inherently unlikely that Parliament would have intended that the application of a provision such as paragraph (ii), with all the consequences that flow therefrom, would turn on whether the discretionary remedy of specific performance was likely to be awarded.</sentence>
+<sentence id="s271">I turn now to the plaintiffs' second submission in relation to this paragraph, namely, that the washout provisions in the forward contracts mean that they fall outside the terms of paragraph (ii) because they permit the seller's (that is, the plaintiffs') obligations to be wholly settled by cash, rather than the delivery of the property.</sentence>
+<sentence id="s272">I reject that submission because the washout provisions are of a different nature and have a different operation to a permission in the arrangement for the seller's obligations to be wholly settled by cash.</sentence>
+<sentence id="s273">First, the washout provisions in the case of the ABB Grain first forward contract only operate if the plaintiffs suffer production failure, and they only operate in the case of the ABB second forward contract and the Glencore Grain forward contract if the seller finds that he is or will be in default.</sentence>
+<sentence id="s274">Secondly, it is correct to say that, in essence, the washout provisions operate at the option of the buyer, not the seller.</sentence>
+<sentence id="s275">Thirdly, where invoked, the washout provisions result in a measure of damages similar to that specified in s 50(3) of the Sale of Goods Act 1895 (SA) brought forward to a time at which it has become obvious to the seller that he or she will not be able to meet the obligation to deliver the goods.</sentence>
+<sentence id="s276">In my opinion, it is proper to characterise the washout provisions as contractual provisions as to the buyer's remedies in the case of breach and the measure of damages or compensation payable to the buyer in those circumstances.</sentence>
+<sentence id="s277">In my opinion, there are no clauses in the arrangement permitting the seller's obligations to be wholly settled by cash, rather than delivery of the property.</sentence>
+<sentence id="s278">
+ "(iii) neither usual market practice, nor the rules of a licensed market or a licensed CS facility, permits the seller's obligations to be closed out by the matching up of the arrangement with another arrangement of the same kind under which the seller has offsetting obligations to buy;" 
+
+ Mr Howells said, and I have no reason to doubt, that there is no market in which forward contracts are traded or can be traded.</sentence>
+<sentence id="s279">He said that because there is no market there is no usual market practice.</sentence>
+<sentence id="s280">ABB Grain submitted that in light of that evidence the matter in (iii) was satisfied.</sentence>
+<sentence id="s281">The plaintiffs submit that there is an arguable case that usual market practice permits the seller's obligations to be closed out by the matching up of the arrangement with another arrangement of the same kind under which the seller has offsetting obligations to buy.</sentence>
+<sentence id="s282">In the course of his submissions, plaintiff's counsel gave the following example: 
+ "If I go back to my example of the astute wheat farmer who saw a price of $450 in March or April of this year as being particularly attractive and wanted to capture that price, and then suffers a production failure so that he can't any longer, or she can't any longer fulfil that contract, but wheat is now selling at $250 a tonne, then all he needed to do was buy wheat at 250 and he has closed out his position, and we say the usual market practice will permit the seller's obligations to be closed out by matching up the arrangement with another arrangement of the same kind under which the seller has offsetting obligations to buy.</sentence>
+<sentence id="s283">" 
+
+ The plaintiffs referred to Mr Keynes' affidavit and submit that the usual market practice is a matter for trial.</sentence>
+<sentence id="s284">There was a good deal of debate before me as to the exact scope of the concept of a seller closing out his or her obligations by the matching up of the arrangement with another arrangement of the same kind under which the seller has offsetting obligations to buy.</sentence>
+<sentence id="s285">In essence, the plaintiffs submit that this requirement is satisfied if, in fact, it is possible, or known, or not uncommon, for a seller who is facing a production failure to agree to buy an amount equivalent to what he has agreed to sell, thereby capping a loss in a rising market or making a profit in a falling market.</sentence>
+<sentence id="s286">I do not think that is what paragraph (iii) means and it follows that, even if the plaintiffs established at trial the market practice they identified, it would not assist them.</sentence>
+<sentence id="s287">Therefore, the question of market practice is not a triable issue upon which the plaintiffs' case depends.</sentence>
+<sentence id="s288">It seems to me that what the plaintiffs identified is not a usual market practice permitting the closing out of the seller's obligations by the means specified.</sentence>
+<sentence id="s289">What the plaintiffs identified was a means of making a profit or capping a liability in a market where goods are readily obtainable.</sentence>
+<sentence id="s290">It is the nature of the goods, not usual market practice, which permits the seller to act in the way specified.</sentence>
+<sentence id="s291">It is also important to note that what must be closed out are the seller's obligations .</sentence>
+<sentence id="s292">It seems to me that the use of these words and the reference in matching up ... with another arrangement support the contention of ABB Grain that the market practice referred to in the paragraph (iii) is one whereby the seller's obligations are for all practical purposes brought to an end upon the entering into of the offsetting arrangement.</sentence>
+<sentence id="s293">That, to my mind, is what the paragraph is directed to and there is simply no evidence of a usual market practice of that nature in the case of forward contracts.</sentence>
+<sentence id="s294">The market practice identified by the plaintiffs (if it is a market practice) is not of that nature.</sentence>
+<sentence id="s295">I am satisfied that the forward contracts are not derivatives because they fall within the terms of s 761D(3)(a).</sentence>
+<sentence id="s296">It follows that they are not financial products for the purposes of Chapter 7 (see s 765A(1)(n)) and there was no obligation to deliver a PDS in relation to them.</sentence>
+<sentence id="s297">This means that the plaintiffs' cause of action under the Corporations Act must fail.</sentence>
+<sentence id="s298">The cause of action based on an alleged breach of duty of care must also fail because it is said to arise because of an obligation to deliver a PDS.</sentence>
+<sentence id="s299">ABB Grain and Glencore Grain submit that, even if their submission that the forward contracts fall within s 761D(3)(a) fails, nevertheless, the forward contracts were not derivatives within s 761D(1) or financial products within s 763A and s 763C.</sentence>
+<sentence id="s300">It is appropriate for me to address these arguments.</sentence>
+<sentence id="s301">I start with s 761D(1) and the three conditions which must be satisfied before an arrangement is a derivative.</sentence>
+<sentence id="s302">
+ "(a) under the arrangement, a party to the arrangement must, or may be required to, provide at some future time consideration of a particular kind or kinds to someone;" 
+
+ 
+It was not suggested by ABB Grain or Glencore Grain that it was not at least reasonably arguable that the forward contracts satisfy this condition.</sentence>
+<sentence id="s303">
+ "(b) that future time is not less than the number of days, prescribed by regulations made for the purposes of this paragraph, after the day on which the arrangement is entered into; ..." 
+
+ 
+There is no dispute between the parties that the forward contracts satisfy this condition (see Corporations Regulations 2001 (Cth) reg 7.1.04(1)).</sentence>
+<sentence id="s304">
+ "(c) the amount of the consideration, or the value of the arrangement, is ultimately determined, derived from or varies by reference to (wholly or in part) the value or amount of something else (of any nature whatsoever and whether or not deliverable), including, for example, one or more of the following: 
+
+ 
+ (i) an asset;
+ (ii) a rate (including an interest rate or exchange rate);
+ (iii) an index;
+ (iv) a commodity.</sentence>
+<sentence id="s305">" 
+
+ The consideration under the forward contracts is fixed and the plaintiffs do not rely on that part of the definition which refers to the amount of the consideration .</sentence>
+<sentence id="s306">They submit that under the forward contracts the value of the arrangement ... varies by reference to the market price of wheat or barley from time to time.</sentence>
+<sentence id="s307">By way of example, they submit that if the price of wheat or barley rise, and a buyer enters into a contract to sell the same quantity at the then market price, the "value of the arrangement" from the buyer's point of view will increase by the increase in market price.</sentence>
+<sentence id="s308">The plaintiffs also call in aid s 761B which provides as follows: 
+ "If:
+ (a) an arrangement, when considered by itself, does not constitute a derivative, or some other kind of financial product; and
+ (b) that arrangement, and one or more other arrangements, if they had instead been a single arrangement, would have constituted a derivative or other financial product; and
+ (c) it is reasonable to assume that the parties to the arrangements regard them as constituting a single scheme;
+ the arrangements are, for the purposes of this Part, to be treated as if they together constituted a single arrangement.</sentence>
+<sentence id="s309">" 
+
+ I do not think s 761B assists the plaintiffs.</sentence>
+<sentence id="s310">Taking the example given by the plaintiffs, I do not think another contract, say a contract by the buyer to sell the wheat or barley he has contracted to purchase, can be at one and the same time part of the arrangement for the purposes of determining the value of the arrangement and be the something else within s 761D(1)(c).</sentence>
+<sentence id="s311">On the face of it, the words the value of the arrangement are very broad, and, if the plaintiffs' submissions are correct, many transactions would be derivatives, even though they would not be considered to be derivatives as a matter of ordinary language.</sentence>
+<sentence id="s312">Almost all forward contracts for goods which are readily obtainable in the market would be caught.</sentence>
+<sentence id="s313">Under the regulations, the prescribed period in the case of contracts, other than foreign exchange contracts, is one business day (reg 7.1.04(1) and see also reg 7.1.04(2)).</sentence>
+<sentence id="s314">I acknowledge the fact that there are the exceptions in s 761D(3) but even so, one is cautious of an interpretation of subs (1) which would catch an ordinary transaction like the sale and purchase of a motor vehicle with payment of the purchase price today and delivery in one week's time.</sentence>
+<sentence id="s315">It seems to me that the answer lies in the meaning of the "something else" referred to in the paragraph.</sentence>
+<sentence id="s316">It includes an asset, a rate (including an interest rate or exchange rate), an index or a commodity and things of any nature whatsoever and whether or not deliverable.</sentence>
+<sentence id="s317">In my opinion, although the precise boundaries of the definition may be difficult to identify, the matters the plaintiffs relied on, that is, the fact that there is a market for goods and that a party to the arrangement may enter into a transaction, is "something else" for the purposes of paragraph (c).</sentence>
+<sentence id="s318">In my opinion, the forward contracts do not fall within s 761D(1) because the condition in para (c) is not satisfied.</sentence>
+<sentence id="s319">I turn now to consider whether the forward contracts fall within s 763A and s 763C.</sentence>
+<sentence id="s320">The plaintiffs submit that in entering into the forward contracts they were managing a financial risk within s 763A(1) and s 763C.</sentence>
+<sentence id="s321">Other than pleading the two sections, they have not pleaded facts in support of their contention, nor is there any evidence in support of it.</sentence>
+<sentence id="s322">The plaintiffs submit that a person in their position is likely to enter into a contract when the price was high to avoid the risk of price variations and a production failure.</sentence>
+<sentence id="s323">It seems to me that it is possible that a forward contract would be entered into at a particular time in order to manage a risk which has financial consequences; the difficulty in this case is that there is nothing in the ASOC or proposed SASOC to indicate that this was done in the case of the forward contracts.</sentence>
+<sentence id="s324">Had the case turned on this point, it would have been necessary to hear from the parties as to whether the plaintiffs should be given the opportunity, assuming they could do so, to provide proper pleadings or particulars of their case under s 763A and s 763C.</sentence>
+<sentence id="s325">Before leaving the question of the definition of a "derivative" and a "financial product", I mention the fact that the plaintiffs referred to the Explanatory Memorandum for the Financial Services Reform Bill 2001 (the provisions in that Bill form Chapter 7 of the Corporations Act ) and the report of the then Companies and Securities Advisory Committee ("CASAC"), "Regulation of On-exchange and OTC Derivative Markets".</sentence>
+<sentence id="s326">The report of CASAC is dated June 1997 and is referred to in paragraph 6.72 of the Explanatory Memorandum.</sentence>
+<sentence id="s327">The plaintiffs submit that I can have regard to this material by reason of s 15AB of the Acts Interpretation Act 1901 (Cth), or at common law.</sentence>
+<sentence id="s328">Paragraph 6.72 of the Explanatory Memorandum deals with derivatives, and the following passages are relevant: 
+ " Derivatives 
+
+ 
+ 6.72 The definition of 'derivative' in proposed section 761D has been formulated to replace the existing definition of 'futures contract' in section 72 of the proposed Corporations Act .</sentence>
+<sentence id="s329">As recommended by CASAC in its report entitled ' Regulation of On-exchange and OTC Derivatives Markets ' the definition focuses on the functions or commercial nature of derivatives rather than trying to identify each product that will be regarded as a derivative.</sentence>
+<sentence id="s330">The definition proposed by CASAC in its report has been used in developing the definition in proposed section 761D.</sentence>
+<sentence id="s331">
+
+ 
+ 6.73 Features of the definition of 'derivative' to note are:
+ ... 
+ it encompasses arrangements under which both the amount of the consideration or the value of the arrangement varies by reference to something else.</sentence>
+<sentence id="s332">This ensures that the definition covers deliverable options and futures contacts under which the consideration remains the same but the value of the arrangement varies by reference to something else (proposed paragraph 761D(1)(c)); 
+ ... 
+ proposed paragraph 761D(3)(a) excludes from the regime a range of transactions involving the future delivery of something, including such things as contracts for the sale of land with a three month settlement period, while bringing within the regime those forward rate agreements that should be regarded as derivatives, because they are being used for hedging or speculative purposes.</sentence>
+<sentence id="s333">This is a difficult dividing line to draw as much depends on the intentions of the particular parties concerned.</sentence>
+<sentence id="s334">The existing Corporations Law seeks to deal with this issue by the concept of the likelihood of the agreement being settled other than by delivery (see definition of 'eligible commodity agreement' in section 9 of the Corporations Law).</sentence>
+<sentence id="s335">However, CASAC explicitly rejected this test on the basis that the 'unlikely' requirement was not clear and some futures contracts such as deliverable share futures may not be likely to be closed out.</sentence>
+<sentence id="s336">Proposed section 761D seeks to address this issue by: 
+ ...
+ --- rather than focussing on the mandatory delivery aspect, it looks to whether the arrangement can settled [sic] by cash or set-off between the parties.</sentence>
+<sentence id="s337">If the arrangement relates to tangible property and can not be cash settled, it will fall outside the definition of derivative (proposed subparagraph 761D(3)(a)(ii));
+ ...
+ --- looking to the wider context in which the arrangement is made and recognising that while a contract on it face appears to require delivery of tangible property, market practice or the rules of a market or clearing and settlement facility mean that delivery is not mandatory, but that the contact [sic] can be closed out by entering into an offsetting transaction (proposed subparagraph 761D(3)(a)(iii)).</sentence>
+<sentence id="s338">" 
+
+ The report of CASAC contains the following passages: 
+ " Forward contracts and physical delivery 
+
+ 
+ 3.44 A forward contract involves an obligation on one party to buy, and the other to sell, an underlying asset at a specific price and date in the future.</sentence>
+<sentence id="s339">The Advisory Committee, it its OTC Discussion Paper, proposed that the derivatives definition exclude forward contracts which in practice result in physical delivery.</sentence>
+<sentence id="s340">Some submissions supported this exclusion.</sentence>
+<sentence id="s341">Other submissions argued that the proposal may exclude some commonly accepted types of derivatives, such as forward rate agreements which could involve physical delivery.</sentence>
+<sentence id="s342">
+
+ 
+ 3.45 The Advisory Committee notes that the futures contract definition in the Corporations Law was intended to cover cash-settled and deliverable transactions.</sentence>
+<sentence id="s343">However, it sought to exclude ordinary commercial forward agreements which were subject to deferred physical delivery.</sentence>
+<sentence id="s344">That exclusion, as it currently operates, has a number of complex and imprecise elements.</sentence>
+<sentence id="s345">
+
+ 
+ 3.46 The Advisory Committee considers that a physical delivery exclusion of a different type is necessary to ensure that the derivatives definition does not include ordinary commercial forward agreements.</sentence>
+<sentence id="s346">Only those contracts under which physical delivery of a commodity, other than a currency, is mandatory should be excluded from the derivatives definition.</sentence>
+<sentence id="s347">Physical delivery would not be mandatory if the possibility of close-out existed.</sentence>
+<sentence id="s348">The Committee recognises that a vendor who does not own the property the subject of a mandatory physical delivery forward transaction has the same exposure and therefore creates the same counterparty credit risk as if the arrangement were to be cash-settled.</sentence>
+<sentence id="s349">However, without this physical delivery exclusion, the derivatives definition would unnecessarily regulate ordinary commercial forward agreements.</sentence>
+<sentence id="s350">" 
+
+(Citations omitted.</sentence>
+<sentence id="s351">)
+ Glencore Grain referred to Recommendation 4 in Appendix 1 in the report of CASAC: 
+ " Definition of derivatives 
+
+ 
+ Recommendation 4 .</sentence>
+<sentence id="s352">A derivative should be defined in the Corporations Law as any agreement:
+ .</sentence>
+<sentence id="s353">the value of which is ultimately derived from, or varies according to, the value of one or more assets, rates, indices or other underlying ( derived value element ), and
+ .</sentence>
+<sentence id="s354">whereby one or both parties, at some future time, may have to provide cash or other consideration (excluding any initial or periodic consideration that is fixed at the time the agreement is entered into) to the counterparty or a substitute counterparty (such as the clearing house), that consideration ultimately being determined in whole or part by reference to the derived value element ( liability element ).</sentence>
+<sentence id="s355">Only the following options should be classified as derivatives:
+ .</sentence>
+<sentence id="s356">options over derivatives
+ .</sentence>
+<sentence id="s357">options over securities (other than options issued by a company permitting the taker to subscribe for the company's unissued shares, which should be classified as securities)
+ .</sentence>
+<sentence id="s358">exchange-traded options
+ .</sentence>
+<sentence id="s359">any other category of option prescribed by regulation (this could cover commodity options that are being used as risk management tools or otherwise in a similar way to other derivatives).</sentence>
+<sentence id="s360">
+
+ 
+ The Corporations Regulations could set out specific classes of agreements that are not to be regarded as derivatives, for instance: 
+
+ 
+ .</sentence>
+<sentence id="s361">agreements under which physical delivery of a commodity other than a currency is mandatory
+ .</sentence>
+<sentence id="s362">agreements where the consideration can be varied only by reference to an inflation index (such as the Consumer Price Index)
+ .</sentence>
+<sentence id="s363">at-call or term deposits with banks or other financial institutions
+ .</sentence>
+<sentence id="s364">all insurance contracts regulated by the ISC
+ .</sentence>
+<sentence id="s365">chattel and real property mortgages.</sentence>
+<sentence id="s366">
+
+ 
+ In addition, there should be a power to declare any other class of agreements not to be derivatives.</sentence>
+<sentence id="s367">" 
+
+ Glencore Grain submits, correctly in my view, that "[a]t most, the said definition in the Act [s 761D] is based in part on the recommendations of the CASAC Final Report".</sentence>
+<sentence id="s368">I do not find either the Explanatory Memorandum or the report of CASAC of great assistance.</sentence>
+<sentence id="s369">In my opinion, there is nothing in either document which suggests to me that the conclusions I have reached are incorrect.</sentence>
+<sentence id="s370">Other submissions in relation to the forward contracts 
+ Glencore Grain made a number of other submissions as to why the plaintiffs claim against it could not succeed.</sentence>
+<sentence id="s371">It is not strictly necessary for me to deal with them, but I will mention them briefly.</sentence>
+<sentence id="s372">Glencore Grain submitted at the outset of its submissions that the plaintiffs were not retail clients because the monetary limit in s 761G(7) and reg 7.1.22(2)(a) was exceeded.</sentence>
+<sentence id="s373">There seemed to be some uncertainty on the part of Glencore Grain as to the monetary limit and, by the end of submissions, I do not think it pursued the submission.</sentence>
+<sentence id="s374">Glencore Grain submits that, even if it was required to provide a PDS, it would not be required to provide the information identified in the ASOC and in that respect it refers to, and relies upon, s 1013F(1) and (2).</sentence>
+<sentence id="s375">It seems to me that this submission raises, or potentially raises, factual issues which could only be properly resolved at trial.</sentence>
+<sentence id="s376">Glencore Grain submits that, as the plaintiffs approached it with a view to entering into a contract, and not the other way around, it was not an issuer of a financial product within s 1012B(3) (see also s 761E).</sentence>
+<sentence id="s377">Again, I think this submission raises, or potentially raises, factual issues which could only be properly resolved at trial.</sentence>
+<sentence id="s378">Glencore Grain submits that the Glencore Grain forward contract was discharged by the washout agreement.</sentence>
+<sentence id="s379">It submits that the plaintiffs are liable to Glencore Grain under the washout agreement for the sum of $173,340 and that they have not paid that sum to Glencore Grain.</sentence>
+<sentence id="s380">In the circumstances, Glencore Grain submits that the plaintiffs have not suffered any loss or damage for the purposes of making a claim under s 1022B(2).</sentence>
+<sentence id="s381">Furthermore, they cannot seek orders under s 1022C.</sentence>
+<sentence id="s382">Orders can only be made under that section, "in addition to awarding loss or damage" under s 1022B(2) and, as no loss or damage can be awarded under s 1022B(2), orders cannot be made under s 1022C.</sentence>
+<sentence id="s383">There is a good deal of force in Glencore Grain's first submission that the plaintiffs have not suffered any loss or damage under s 1022B.</sentence>
+<sentence id="s384">There is no doubt a liability to a third party can constitute loss or damage, but it is difficult to see how the plaintiffs could be liable to pay Glencore Grain $173,340 and yet at the same time be able to recover that sum from Glencore Grain.</sentence>
+<sentence id="s385">There is also force in Glencore Grain's submissions about the operation of s 1022C although I do not think the contrary interpretation is so weak as to justify summary judgment or striking out.</sentence>
+<sentence id="s386">It seems to me that it is arguable that s 1022C(1) can be interpreted to mean, in effect, in addition to the power to award loss and damage, and it is arguable that the washout contract, if it is a separate contract, is nevertheless "for or relating to a financial product" within s 1022C(1)(a).</sentence>
+<sentence id="s387">These are difficult issues which require a closer analysis than has thus far been undertaken.</sentence>
+<sentence id="s388">The ABB Grain basis contract
+ In the ASOC, the pleadings in relation to the ABB Grain basis contract are contained in paragraphs 25---30 and 56, and the claims for relief.</sentence>
+<sentence id="s389">For the reasons set out below, those pleas are embarrassing and should be struck out.</sentence>
+<sentence id="s390">In the proposed SASOC, the pleadings in relation to the ABB Grain basis contract are contained in paragraphs 24---30C and 56, 56A, 56B, and the claims for relief.</sentence>
+<sentence id="s391">A number of the defects in the ASOC are repeated and there are additional defects.</sentence>
+<sentence id="s392">Leave to replead in accordance with the proposed SASOC should not be granted.</sentence>
+<sentence id="s393">The defects in paragraphs 25---30 of the ASOC are as follows: In relation to paragraph 26, although I think what is intended is relatively clear, I think it is embarrassing to plead a case against ABB Grain by incorporating earlier pleas which deal with a different contract and a different party.</sentence>
+<sentence id="s394">This defect remains in the proposed SASOC.</sentence>
+<sentence id="s395">In relation to paragraph 27, I think it is embarrassing because it does not state which party should have provided the SOA.</sentence>
+<sentence id="s396">The plaintiffs' counsel said it is an allegation against the first defendant.</sentence>
+<sentence id="s397">That should be pleaded.</sentence>
+<sentence id="s398">This defect remains in the proposed SASOC.</sentence>
+<sentence id="s399">In relation to paragraph 28.2, I think the pleas are embarrassing because of the following: 
+(a) the plea leaves open for speculation which part of the information identified in paragraphs 28.2.1---28.2.4 is material because it uses the words "insofar as it is material".</sentence>
+<sentence id="s400">(b) the plea incorporates earlier paragraphs (and, in one case, a later paragraph) which deal with a different contract and a different party and include allegations relating to that different party (or parties).</sentence>
+<sentence id="s401">It is unclear whether similar allegations are made against ABB Grain.</sentence>
+<sentence id="s402">In addition, some of the paragraphs incorporated into the plea deal with events which occurred after the ABB Grain basis contract was entered into.</sentence>
+<sentence id="s403">(c) the plea is embarrassing in not clearly separating an allegation of what may or was likely to happen from what in fact happened.</sentence>
+<sentence id="s404">These defects remain in the proposed SASOC.</sentence>
+<sentence id="s405">In relation to paragraph 28.3, the plea is embarrassing because it seeks to incorporate an earlier paragraph, which in turn seeks to incorporate two earlier paragraphs.</sentence>
+<sentence id="s406">Those paragraphs deal with a different party.</sentence>
+<sentence id="s407">There is a reference in paragraph 18, which is incorporated into paragraph 28.3, to the provision of a statement of advice, but, as I understand the plaintiffs' submissions, it is not asserted that ABB Grain or Glencore Grain should have provided an SOA to the plaintiffs.</sentence>
+<sentence id="s408">This defect remains in the proposed SASOC.</sentence>
+<sentence id="s409">There are still problems with the claim for relief.</sentence>
+<sentence id="s410">It is not made clear how a party can claim from another party loss and damage represented by the amount he is liable to pay that party.</sentence>
+<sentence id="s411">Furthermore, the plaintiffs make no claim for an order under s 1022C(1)(a).</sentence>
+<sentence id="s412">They do claim orders under s 1022C(1)(b) and s 1022C(2).</sentence>
+<sentence id="s413">The power to make orders under s 1022(1)(b) and s 1022C seems to be dependent on an order being made under s 1022C(1)(a).</sentence>
+<sentence id="s414">These defects remain in the proposed SASOC.</sentence>
+<sentence id="s415">In my opinion, these defects in the pleading of the ABB Grain basis contract in the ASOC are sufficient to lead to the conclusion that the pleading should be struck out.</sentence>
+<sentence id="s416">As I have said, the defects are not cured in the proposed SASOC.</sentence>
+<sentence id="s417">Conclusions
+ For these reasons, I will make the following orders.</sentence>
+<sentence id="s418">Pursuant to s 31A of the Federal Court of Australia Act 1976 (Cth), there be judgment for the Third Defendant against the Plaintiffs in relation to that part of the proceeding which relates to the contracts between the Plaintiffs and the Third Defendant pleaded in paragraphs 31 and 41 of the Amended Statement of Claim.</sentence>
+<sentence id="s419">Pursuant to O 11 r 16 of the Federal Court Rules , the Amended Statement of Claim, in so far as it relates to the contract between the Plaintiffs and the Third Defendant pleaded in paragraph 25, be struck out.</sentence>
+<sentence id="s420">The Plaintiffs be refused leave to file and serve the Second Amended Statement of Claim against the Third Defendant.</sentence>
+<sentence id="s421">The Plaintiffs and the Third Defendant have leave to make further submissions on the Plaintiffs' proceeding against the Third Defendant.</sentence>
+<sentence id="s422">The Plaintiffs be refused leave to file and serve the Second Amended Statement of Claim against the Fourth Defendant.</sentence>
+<sentence id="s423">The Plaintiffs and the Fourth Defendant have leave to make further submissions on the Plaintiffs' proceeding against the Fourth Defendant.</sentence>
+<sentence id="s424">I will hear the parties as to costs and other orders.</sentence>
+<sentence id="s425">I certify that the preceding one hundred and eight (108) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Besanko.</sentence>
+<sentence id="s426">Associate:
+ 
+ 
+Dated: 3 June 2009
+ 
+ Counsel for the Plaintiffs: Mr B M O'Brien 
+ 
+ Solicitor for the Plaintiffs: Proud &amp; Company 
+ 
+ The First Defendant did not appear 
+ The Second Defendant did not appear 
+ Counsel for the Third Defendant: Mr B J Doyle 
+ 
+ Solicitor for the Third Defendant: Thomson Playford Cutlers 
+ 
+ Counsel for the Fourth Defendant: Mr A Trichardt 
+ 
+ Solicitor for the Fourth Defendant: HWL Ebsworth Lawyers 
+ 
+ 
+ Date of Hearing: 26 February 2009 
+ 
+ Date of Judgment: 3 June 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/567.html 
+ 
+ </sentence>
+</sentences>
+</case>

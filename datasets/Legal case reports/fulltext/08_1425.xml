@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<case>
+<name>Lindholm, in the matter of Opes Prime Stockbroking Limited (Administrators appointed) (Receivers and Managers appointed) [2008] FCA 1425 (17 September 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1425.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">whether contract may be construed in light of subsequent events</catchphrase>
+<catchphrase "id=c1">administrators</catchphrase>
+<catchphrase "id=c2">contingent creditors</catchphrase>
+<catchphrase "id=c3">valuation of creditors' claims for voting purposes</catchphrase>
+<catchphrase "id=c4">valuation of claims for proof purposes</catchphrase>
+<catchphrase "id=c5">whether hindsight reference to events then in the future is appropriate in valuation of contingent claims</catchphrase>
+<catchphrase "id=c6">whether an administrator is analogous to a liquidator</catchphrase>
+<catchphrase "id=c7">"analogous", "administrator", "close-out netting", "liquidator", "set-off"</catchphrase>
+<catchphrase "id=c8">contracts</catchphrase>
+<catchphrase "id=c9">corporations</catchphrase>
+<catchphrase "id=c10">words and phrases</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 Opes Prime Stockbroking Limited (OPSL) and a related company, Leveraged Capital Pty Ltd (LCPL), are in administration.</sentence>
+<sentence id="s1">The second meeting of creditors for each company has been deferred pending the decision on this application.</sentence>
+<sentence id="s2">At the meetings, the creditors must decide what will happen to their company.</sentence>
+<sentence id="s3">There are three alternatives: the company execute a deed of company arrangement, the company be wound up or simply that the administration should end.</sentence>
+<sentence id="s4">The administrators must investigate the affairs of each company and report to creditors which of these options they should adopt.</sentence>
+<sentence id="s5">The affairs are complicated and have given rise to difficult legal issues.</sentence>
+<sentence id="s6">The administrators wish to know what to advise creditors on some of those issues.</sentence>
+<sentence id="s7">They also seek advice on how to estimate creditors' claims for voting purposes.</sentence>
+<sentence id="s8">2 The problems arise from the Securities Lending Agreements (SLAs) entered into between each of OPSL and LCPL and its respective clients.</sentence>
+<sentence id="s9">The SLA is based on the standard form Australian Master Securities Lending Agreement (AMSLA) published by the Australian Securities Lending Association, which in turn was an adaptation, for Australian purposes, of the standard form Overseas Securities Lending Agreement (now superseded by the Global Master Securities Lending Agreement) published by the International Securities Lending Association: see Beconwood Securities Pty Ltd v Australia and New Zealand Banking Group Pty Ltd [2008] FCA 594 ; (2008) 66 ACSR 116 at [13] , [19].</sentence>
+<sentence id="s10">Under the SLA, transactions described as "loans" were entered into.</sentence>
+<sentence id="s11">One party (the client) as lender would transfer to the other party as borrower securities (usually shares) against the provision of cash collateral.</sentence>
+<sentence id="s12">The borrower acquired property in the securities free of any claims by the lender.</sentence>
+<sentence id="s13">On a fixed date or on demand the borrower was obliged to redeliver Equivalent Securities to the lender against the transfer to the borrower of assets equivalent to the collateral.</sentence>
+<sentence id="s14">Equivalent Securities means securities of the same number and type as the securities originally lent.</sentence>
+<sentence id="s15">3 A feature of all standard-form share lending agreements, which is shared with other agreements in the financial market (eg sale and repurchase agreements, currency and interest rate swaps), is that they make provision for close-out netting in the event of default.</sentence>
+<sentence id="s16">Close-out netting is the process by which contractual obligations are converted into money obligations which can then be set off against each other to arrive at a net amount payable by one party to the other.</sentence>
+<sentence id="s17">An important object of close-out netting is to reduce exposure in the event that one party to the agreement becomes insolvent prior to the completion date.</sentence>
+<sentence id="s18">4 The issues raised by the administrators in a summons for directions under s 447D of the Corporations Act 2001 (Cth) concern the operation and effect (including the effectiveness) of the close-out netting clause.</sentence>
+<sentence id="s19">I intend to deal with those issues, some of which are quite complex.</sentence>
+<sentence id="s20">What I say will not be binding on the counterparties.</sentence>
+<sentence id="s21">For practical reasons none have been joined to the administrators' application, either individually or in a representative capacity.</sentence>
+<sentence id="s22">On the other hand, a number of counterparties were given leave to intervene and through lawyers made submissions.</sentence>
+<sentence id="s23">So did the ANZ Bank, which is the major secured creditor of each, and the receivers the ANZ had appointed to take possession of OPSL's and LCPL's assets.</sentence>
+<sentence id="s24">It may be that the parties who have intervened will be estopped from putting in issue any of my findings otherwise than on an appeal.</sentence>
+<sentence id="s25">5 By way of background, it is necessary to say something about insolvency laws.</sentence>
+<sentence id="s26">Most jurisdictions have laws that govern what happens when an individual or a corporation becomes insolvent.</sentence>
+<sentence id="s27">These laws tend to have three features in common.</sentence>
+<sentence id="s28">First, actions by individual creditors against the insolvent person are frozen.</sentence>
+<sentence id="s29">Second, for the most part all uncharged assets of the insolvent person are available to meet the claims of creditors.</sentence>
+<sentence id="s30">Third, subject to exceptions that vary from jurisdiction to jurisdiction, creditors are paid pari passu .</sentence>
+<sentence id="s31">6 In addition to procedures governing the liquidation or winding up of failed companies, many modern insolvency laws also have procedures for corporate rescue designed to resuscitate a failing company as a going concern.</sentence>
+<sentence id="s32">It is an important means of protecting investors, creditors, employees and even the community generally: see generally V Finch, "Corporate Insolvency Law: Perspective and Principles" (2002) esp ch 6.</sentence>
+<sentence id="s33">These rescue schemes also have several common aspects.</sentence>
+<sentence id="s34">First, a court or a person appointed by a court or by creditors takes control of the corporation.</sentence>
+<sentence id="s35">Second, the corporation is given breathing space by imposition of a moratorium on claims by creditors, and a freeze on actions by secured and judgment creditors.</sentence>
+<sentence id="s36">Third, provision is made for implementation, even with something less than complete agreement, of a plan binding on creditors to save the company.</sentence>
+<sentence id="s37">7 Returning to the framework of insolvency laws, the last mentioned feature (the pari passu rule) is seen by many as the most basic rule of insolvency law.</sentence>
+<sentence id="s38">It holds that in insolvency creditors are to be paid ratably.</sentence>
+<sentence id="s39">It assumes that fairness will be achieved in the equality of treatment of unsecured creditors.</sentence>
+<sentence id="s40">But the rule is not absolute.</sentence>
+<sentence id="s41">Various classes of creditors are given preferential treatment.</sentence>
+<sentence id="s42">For example, in England and Australia, certain taxes must be paid ahead of unsecured creditors on a public interest theory.</sentence>
+<sentence id="s43">Employees are entitled to recover wages and other benefits ahead of other creditors in the belief that they are not able to look after their own affairs.</sentence>
+<sentence id="s44">Then there are creditors whose claims are subordinated to the general class of unsecured creditors for reasons of equity.</sentence>
+<sentence id="s45">8 One of the most important exceptions (and the one that is important in this case) is insolvency set-off.</sentence>
+<sentence id="s46">(For a survey of the jurisdictions that permit insolvency set-off see P Wood, "Set-off and Netting, Derivatives, Clearing Systems" (2nd ed 2007) at 9-11).</sentence>
+<sentence id="s47">Insolvency set-off arises when there are mutual debts or other mutual dealings between an insolvent person and a creditor.</sentence>
+<sentence id="s48">The amount due by one to the other is set off against the debt due by that other and only the difference can be claimed.</sentence>
+<sentence id="s49">9 Insolvency set-off is a significant encroachment upon the pari passu rule.</sentence>
+<sentence id="s50">If a creditor of an insolvent person is required to pay his debt and prove in the insolvency for the debt owed to him, he will not be paid in full.</sentence>
+<sentence id="s51">Set-off ensures that the debt owed to him is paid out at 100 cents on the dollar at least to the extent of any debt owed by him.</sentence>
+<sentence id="s52">In a commercial sense, a right of set-off is the equivalent of a security interest.</sentence>
+<sentence id="s53">Indeed, set-off has been called a security interest: see eg Lord Hoffman in Stein v Blake [1995] UKHL 11 ; [1996] AC 243 , 251.</sentence>
+<sentence id="s54">Moreover, set-off "is [both] mandatory and self executing": Stein v Blake [1995] UKHL 11 ; [1996] AC 243 , 255; see also Insolvency Rules 1986 (UK) r 2.85.</sentence>
+<sentence id="s55">10 The intersection between the close-out clause in the SLA and the corporate rescue legislation in the United Kingdom and Australia is a matter of some importance in this case.</sentence>
+<sentence id="s56">That being so, a thumbnail sketch of the two schemes is not out of place.</sentence>
+<sentence id="s57">11 In the UK, the mechanism for corporate rescue is found in the Insolvency Act 1986 (UK).</sentence>
+<sentence id="s58">The scheme was first enacted as Chapter III of Part II of the Insolvency Act 1985 and was known as the administrative order procedure.</sentence>
+<sentence id="s59">It became Part II of the 1986 Act.</sentence>
+<sentence id="s60">If it appeared that a company that was likely to be insolvent could survive, or its creditors would approve a voluntary arrangement, a scheme of arrangement, or that its assets could be realised more advantageously other than in a winding up, the court could make an administration order: s 8.</sentence>
+<sentence id="s61">As soon as the application for an administration order was made, a moratorium was imposed over the company's affairs.</sentence>
+<sentence id="s62">In particular, the company could not be wound up, no action against the company could continue, and creditors could not enforce any security or exercise other remedies against the company or its property: s 10.</sentence>
+<sentence id="s63">If the administration order was made, the moratorium continued: s 11.</sentence>
+<sentence id="s64">On the making of an administration order, the court appointed an administrator to take control of the company's affairs: ss 13 and 14.</sentence>
+<sentence id="s65">The administrator was charged with the responsibility of preparing a proposal within three months for saving the company or better realising its assets: s 23.</sentence>
+<sentence id="s66">The proposal would then be submitted to the creditors for their consideration.</sentence>
+<sentence id="s67">12 In 2002, a new corporate administration regime was established.</sentence>
+<sentence id="s68">Schedule B1 of the Enterprise Act 2002 (UK) was inserted into the Insolvency Act in place of the old Part II.</sentence>
+<sentence id="s69">The new regime was different from the old in many respects.</sentence>
+<sentence id="s70">The rescue of a company as a going concern is made a matter of priority: B1, para 3.</sentence>
+<sentence id="s71">The powers of the court to appoint an administrator are preserved: B1, para 10.</sentence>
+<sentence id="s72">In addition, an administrator can be appointed by the holder of a floating charge (B1, para 14) or by the company or its directors (B1, para 22).</sentence>
+<sentence id="s73">13 Under the original regime it was assumed that during the currency of an administration order other debts would not be paid pending the acceptance by the creditors of a petition proposal.</sentence>
+<sentence id="s74">Under the new regime the administrator is permitted to make distributions to creditors: B1, para 65.</sentence>
+<sentence id="s75">The power is confined, in the first instance, to making a distribution to secured or preferential creditors.</sentence>
+<sentence id="s76">If the administrator is of opinion that a distribution should be made to unsecured creditors, court approval must be obtained: B1, para 65(3).</sentence>
+<sentence id="s77">There is detailed machinery for calling for proofs of debt, admitting or rejecting proofs, and for appeals: see generally Insolvency Rules, rr 2.72 to 2.80.</sentence>
+<sentence id="s78">On the commencement of the administration there is a moratorium on insolvency proceedings against the company (B1, para 42) and on the enforcement of other legal process (B1, para 43).</sentence>
+<sentence id="s79">In addition, the administrator takes over the management of affairs, business and property of the company: B1, para 59.</sentence>
+<sentence id="s80">The administrator is required to prepare a proposal for saving the company: B1, para 49.</sentence>
+<sentence id="s81">That proposal goes to creditors for their consideration: B1, paras 49(4) and 53.</sentence>
+<sentence id="s82">14 As regards insolvency set-off, the Insolvency Rules did not apply to administrations: see Isovel Contracts Limited v ABB Building Technologies Limited [2002] 1 BCLC 390 at [27]-[33].</sentence>
+<sentence id="s83">Presumably this was because it was not contemplated that there might be any distribution to creditors (ie the company would instead survive) or that, with greater flexibility, the administrator might find a better way to realise the company's assets.</sentence>
+<sentence id="s84">The position changed under the new regime and set-off is now permitted: Insolvency Rules r 2.85.</sentence>
+<sentence id="s85">15 Australia adopted a corporate rescue scheme, referred to as voluntary administration, in 1993.</sentence>
+<sentence id="s86">It is now found in Part 5.3A of the Corporations Act .</sentence>
+<sentence id="s87">The purposes of the scheme are to maximise the chances of a company continuing to exist, or if that is not possible, to achieve a better return for creditors than would result from a winding up: s 435A.</sentence>
+<sentence id="s88">The scheme is put into operation on the appointment of an administrator.</sentence>
+<sentence id="s89">The administrator can be appointed by the directors (s 436A) , a liquidator if the company is being wound up (s 436B) or by the holder of a floating charge (s 436C).</sentence>
+<sentence id="s90">While the company is in administration the administrator has control of its affairs: s 437A.</sentence>
+<sentence id="s91">There is a stay in respect of proceedings against the company (s 440D) , owners cannot recover property used by the company (s 440C) and there can be no execution against the company's assets (s 440F).</sentence>
+<sentence id="s92">The administrator is required to investigate the company's affairs (s 438A) and report the outcome to the creditors (s 439A).</sentence>
+<sentence id="s93">The creditors can then decide what should happen with the company.</sentence>
+<sentence id="s94">The available choices have been mentioned.</sentence>
+<sentence id="s95">16 Part 5.3A does not provide for set-off during an administration.</sentence>
+<sentence id="s96">There is no need.</sentence>
+<sentence id="s97">But s 553C of the Corporations Act (the set-off section) is incorporated into a deed of company arrangement entered into under Part 5.3A by s 444A of the Corporations Act and reg 5.3A.06 the Corporations Regulations 2001 (Cth), Schedule 8A, cl 8, unless the deed provides otherwise.</sentence>
+<sentence id="s98">If the deed excludes set-off it is likely that the deed would be set aside under s 445G.</sentence>
+<sentence id="s99">17 Parties to a share lending agreement are exposed to many risks, one being the risk of insolvency.</sentence>
+<sentence id="s100">Viewed from the perspective of the lender, if the borrower is placed into liquidation then, special provision apart, the share lending agreement is not automatically brought to an end unless insolvency is to be regarded as an anticipatory repudiation which the lender elects to accept to terminate the contract: MS Wee, "Insolvency and the Survival of Contracts" [2005] J Bus L 494, 502-503 (collecting and discussing the cases).</sentence>
+<sentence id="s101">So the lender must wait to see whether the liquidator will perform the borrower's obligations to redeliver the equivalent securities.</sentence>
+<sentence id="s102">If they are not delivered, the lender's remedy is to prove for damages for the loss he has suffered.</sentence>
+<sentence id="s103">Moreover, without automatic termination and the triggering and reduction to a debt of the contractual obligation to redeliver, the lender could not set off the debt (cash collateral) he owes to the insolvent company against the damages he has suffered.</sentence>
+<sentence id="s104">That is because, at least under English and Australian insolvency legislation, only debts, or mutual obligations reducible to debts, can be set off against each other.</sentence>
+<sentence id="s105">18 Default close-out netting is designed to avoid this exposure.</sentence>
+<sentence id="s106">Remember that close-out netting results in the cancellation of unperformed promises, the placement of a value on the unperformed promises and then the setting off of the gains or losses (as the case may be) to produce a single net balance that is owed one way or the other.</sentence>
+<sentence id="s107">But it will only avoid the exposure if the set-off is effective in insolvency.</sentence>
+<sentence id="s108">19 At one time there were doubts about the effectiveness of close-out netting in insolvency.</sentence>
+<sentence id="s109">Cases such as Shipton, Anderson &amp; Co (1927) Limited v Micks, Lambert &amp; Co (1936) 55 Ll L Rep 384 suggest that it is effective.</sentence>
+<sentence id="s110">On the other hand, decisions such as British Eagle International Airlines Ltd v Compagnie Nationale Air France [1975] 2 Lloyd's Rep 43 and Carreras Rothmans Limited v Freeman Mathews Treasure Limited [1985] Ch 207 , led to concerns that a close-out netting provision in a contract might contravene the pari passu provisions in insolvency legislation, and thus be contrary to public policy.</sentence>
+<sentence id="s111">20 Given the importance of close-out netting to the global financial markets, many governments have enacted statutes that sanction the practice.</sentence>
+<sentence id="s112">For a survey, see Johnston &amp; Werlen eds, "Set-off Law and Practice: An International Handbook" (2006).</sentence>
+<sentence id="s113">In 1998, the Payment Systems and Netting Act 1998 (Cth) confirmed the effectiveness of close-out netting in Australia.</sentence>
+<sentence id="s114">The background to the legislation has been helpfully traced by counsel for ANZ.</sentence>
+<sentence id="s115">What follows is based on their submissions.</sentence>
+<sentence id="s116">21 In 1996, the International Swaps and Derivatives Association (ISDA) produced a Model Netting Act which was intended to be adopted by legislatures around the world to ensure the enforceability of close-out netting and to harmonise netting regimes.</sentence>
+<sentence id="s117">The Model Act provided that the provisions of a netting agreement should be enforceable against an insolvent party notwithstanding any insolvency law.</sentence>
+<sentence id="s118">22 In Australia, the Netting Subcommittee of the Companies and Securities Advisory Committee prepared a background paper December 1996 on "Netting and Financial Markets Transactions".</sentence>
+<sentence id="s119">The paper stated that the subcommittee had reviewed the law with respect to bilateral close-out netting and market netting and had identified some legal issues which it was desirable to clarify by the enactment of legislation.</sentence>
+<sentence id="s120">The schedule pointed out that if close-out netting provisions of a master agreement were ineffective in a counterparty's insolvency, then the solvent party could not terminate executory contracts, and would only have limited options, such as: (i) to perform the open contract and make a claim in the liquidation in respect of the insolvent counterparty's non-performance; (ii) to ask the court to rescind the contract; or (iii) to repudiate the open contract and claim to set off damages under the insolvency set-off provision.</sentence>
+<sentence id="s121">In June 1997, the Netting Subcomittee produced a final report entitled "Netting in Financial Markets Transactions" which included proposed close-out and market netting legislation to validate the provisions of netting contracts.</sentence>
+<sentence id="s122">23 The Netting Act was enacted to give effect to the Subcommitee's report.</sentence>
+<sentence id="s123">The Netting Act clarifies, relevantly, that a master agreement for close-out netting is not contrary to any public policy rule against divestment on insolvency (ie it is not void as contrary to public policy although it produces an outcome contrary to the pari passu rule) and can effectively make the alienation of interests under a financial markets contract subject to the netting provisions: Explanatory Memorandum to the Payment Systems and Netting Bill 1998 (Cth) at [69].</sentence>
+<sentence id="s124">24 With the background out of the way, it is convenient to return to the SLA.</sentence>
+<sentence id="s125">There are several versions in evidence but, for present purposes, the relevant provisions are the same; hence I need only refer to one.</sentence>
+<sentence id="s126">25 Clause 1 records that the lender will lend securities to the borrower in accordance with the terms of the SLA.</sentence>
+<sentence id="s127">For each loan, there must be a Borrowing Request.</sentence>
+<sentence id="s128">Borrowing Request is defined in cl 22.</sentence>
+<sentence id="s129">It must, among other things, identify the securities to be lent, the collateral that is to be provided and the duration of the loan if other than for an indefinite term.</sentence>
+<sentence id="s130">26 Clause 3 states that "all right title and interest in the securities borrowed under clause 1 passes to the borrower".</sentence>
+<sentence id="s131">27 Clause 5 sets out the borrower's obligations to provide collateral.</sentence>
+<sentence id="s132">28 Clause 6 deals with the borrower's obligation to "redeliver equivalent securities".</sentence>
+<sentence id="s133">In particular cl 6.1 states that "the Borrower undertakes to redeliver Equivalent Securities in accordance with this Agreement and the terms of the relevant Borrowing Request".</sentence>
+<sentence id="s134">Clause 6.2 provides that "[s]ubject to clause 7 and the terms of the relevant Borrowing Request, the Lender may call for the redelivery of all or any of Equivalent Securities at any time by giving notice on any Business Day of not less than the Standard Settlement Time for such Equivalent Securities or the equivalent time on the exchange ... through which the relevant borrowed Securities were originally delivered.</sentence>
+<sentence id="s135">" Finally, cl 6.3 states: "If the borrower does not redeliver Equivalent Securities in accordance with such call, the Lender may elect to continue the loan of Securities.</sentence>
+<sentence id="s136">If the Lender does not elect to continue the loan, the Lender may by written notice to the Borrower elect to terminate the relevant loan.</sentence>
+<sentence id="s137">" 
+ 
+29 Clause 7 is the close-out netting clause.</sentence>
+<sentence id="s138">Clause 7.1 requires simultaneous settlement of the delivery of equivalent securities and the repayment of cash collateral.</sentence>
+<sentence id="s139">30 Clause 7.4 deals with netting following an event of default.</sentence>
+<sentence id="s140">It reads: 
+ If an Event of Default occurs in relation to either Party, the Parties' delivery and payment of obligations (and any other obligations they have under this Agreement) will be accelerated so as to require performance at the time such Event of Default occurs (the date being the 'Performance Date' for the purposes of this clause), and in such event: 
+ 
+ (a) the Relevant Value of the Securities to be delivered (or payment to be made, as the case may be) by each Party will be established in accordance with clause 7.5; and 
+ 
+ 
+ 
+ (b) on the basis of the Relevant Values so established, an account will be taken (as at the Performance Date) of what is due from each Party to the other and (on the basis that each Party's claim against the other in respect of delivery of Equivalent Securities or Equivalent Collateral or any cash payment equals the Relevant Value of them) the sums due from one party will be set-off against the sums due from the other and only the balance of the account will be payable (by the Party having the claim valued at the lower amount pursuant to the foregoing) and such balance will be payable on the Performance Date.</sentence>
+<sentence id="s141">
+ 
+
+31 Clause 7.5 defines what is the 'Relevant Value' for the purposes of cl 7.4 as follows: 
+ For the purposes of clause 7.4 the Relevant Value: 
+ 
+ (a) of any cash payment obligation which is due must equal its par value (disregarding any amount taken into account under 7.6(b) or (c) below); 
+ 
+ 
+ 
+ (b) of any Securities to be delivered by the Defaulting Party must, subject to clause 7.6(b) and (c) below, equal the Offer Value; and 
+ 
+ 
+ 
+ (c) of any Securities to be delivered to the Defaulting Party must, subject to clause 7.6(b) and (c) below, equal the Bid Value.</sentence>
+<sentence id="s142">
+ 
+
+32 Clause 7.6 defines "Bid Value" as, in essence, the amount which would be received on a sale and "Offer Value" as the amount that it would cost to buy the equivalent securities.</sentence>
+<sentence id="s143">33 Clause 11 sets out the events of default.</sentence>
+<sentence id="s144">Relevantly, cl 11.1(d) provides: 
+ Each of the following events occurring in relation to either Party (Defaulting Party, the other Party being the Non-Defaulting Party) will be an Event of Default: 
+ 
+ (d) an Act of Insolvency occurring with respect to the Lender or the Borrower and (except in the case of an Act of Insolvency which is the presentation of a petition for winding up or any analogous proceeding or the appointment of a liquidator or analogous officer of the Defaulting Party in which case no such notice will be required) the Non-Defaulting Party serves written notice on the Defaulting Party; 
+ 
+ 
+34 It will be apparent that, as a general rule, the non-defaulting party is given a choice whether to involve the default provision and close out the outstanding transactions.</sentence>
+<sentence id="s145">He or she is not obliged to do so.</sentence>
+<sentence id="s146">The sole exception is that where a winding up (or analogous) petition is presented or a liquidator or analogous officer is appointed, default occurs automatically.</sentence>
+<sentence id="s147">35 Clause 22, the definition clause, has a definition of Act of Insolvency.</sentence>
+<sentence id="s148">Relevantly the acts include in relation to either party: 
+ 
+ 
+ (c) its seeking, consenting to or acquiescing in the appointment of any trustee, administrator, receiver or liquidator or analogous officer of it or any material party of its property; or 
+ 
+ 
+ 
+ (d) the presentation or filing of a petition in respect of it (other than by the other Party to this Agreement in respect of any obligation under this Agreement) in any court or before any agency alleging or for the bankruptcy, winding-up or insolvency of such party (or any analogous proceeding) or seeking any reorganisation, arrangement, composition, re-adjustment, administration, liquidation, dissolution or similar relief under any present or future statute, law or regulation, such petition (except in the case of a petition for winding-up or any analogous proceeding in respect of which no such 30 day period will apply) not having been stayed or dismissed within 30 days of its filing; or 
+ 
+ 
+ 
+ (e) the appointment of a receiver, administrator, liquidator or trustee or analogous officer of such Party over all or any material part of such Party's property; or
+ 
+ 
+
+ For the purposes of this clause, "liquidator" is deemed to include a "provisional liquidator" (cl 22(g)).</sentence>
+<sentence id="s149">36 The first question the administrators seek to have answered is whether the SLA is a "close-out netting contract" as defined in s 5 of the Netting Act .</sentence>
+<sentence id="s150">Section 5 relevantly defines a close-out netting contract as "a contract under which, if a particular event happens: (i) particular obligations of the parties terminate or may be terminated; and (ii) the termination values of the obligations are calculated or may be calculated; and (iii) the termination values are netted, or may be netted, so that only a net cash amount (whether in Australian currency or some other currency) is payable ...".</sentence>
+<sentence id="s151">None of the relevant expressions used in the definition (contract, event, obligation, termination, termination in value, netting) is separately defined.</sentence>
+<sentence id="s152">37 If a contract is a close-out netting contract, its operation is governed by ss 14 and 15 .</sentence>
+<sentence id="s153">Section 14 relevantly provides that the provisions of a close-out netting contract are effective as regards the obligations the contract imposes, both outside external administration (s 14(1)) and in external administration (s 14(2)) despite any other law (s 14(4)).</sentence>
+<sentence id="s154">The way in which the contract is effective is explained in s 14(2).</sentence>
+<sentence id="s155">That subsection provides that if a person who is a party to a close-out netting contract goes into external administration (an expression which is defined to include winding up and voluntary administration) then: 
+ 
+ 
+ (c) obligations may be terminated, termination values may be calculated and a net amount become payable in accordance with the contract; 
+ 
+ (d) obligations that are, or have been, terminated under the contract are to be disregarded in the external administration (but see subsection (5)); 
+ 
+ (e) any net obligation owed by the party under the contract that has not been discharged is provable in the external administration.</sentence>
+<sentence id="s156">
+ 
+
+38 The note to s 14 states: "By giving express recognition to close-out netting contracts, subsections (1) and (2) remove the basis for arguing that the contracts are void as contrary to public policy embodied in the laws dealing with insolvency.</sentence>
+<sentence id="s157">"
+ 
+39 None of the parties (I include the interveners) suggested that the SLA was not covered by the Netting Act .</sentence>
+<sentence id="s158">On the contrary, the ANZ, its receivers, and the creditors supported the submissions of the administrators that it did, though I should point out that the administrators did outline how one might reach a different conclusion.</sentence>
+<sentence id="s159">In my view, clause 7.4 results in the SLA being a close-out netting contract as defined in s 5 of the Netting Act for the following reasons.</sentence>
+<sentence id="s160">40 To satisfy the requirements of s 5 , certain things must occur in specified circumstances.</sentence>
+<sentence id="s161">First, netting must be triggered on the happening of 'a particular event'.</sentence>
+<sentence id="s162">Here, the operation of cl 7.4 is triggered by an event of default.</sentence>
+<sentence id="s163">An event of default is "a particular act".</sentence>
+<sentence id="s164">Once cl 7.4 comes into operation, "the Parties' delivery and payment obligations [are] accelerated" and must be performed on the day the event of default occurred (the performance date).</sentence>
+<sentence id="s165">But the clause does not require actual performance of those obligations.</sentence>
+<sentence id="s166">Instead, each obligation must be given its "Relevant Value" as at the performance date.</sentence>
+<sentence id="s167">"[E]ach Party's claim against the other ... equals the Relevant Value [of the claim]".</sentence>
+<sentence id="s168">No payment is required.</sentence>
+<sentence id="s169">Instead, "the sums due from one Party [are to be] set-off against the sums due from the other" and only the balance is payable.</sentence>
+<sentence id="s170">41 Coming back to the definition contained in cl 6, the delivery obligation has been "terminated", in the sense that the obligation has come to an end as required by para (a)(i) of s 5 of the Netting Act .</sentence>
+<sentence id="s171">I appreciate that the word "terminate" is a troublesome word and can bear different meanings dependent upon the context.</sentence>
+<sentence id="s172">When the inquiry is whether a contractual obligation terminates in this context, however, it can only bear the meaning I have ascribed to the word--namely, the meaning that the obligation has come to an end by being accelerated and liquidated (ie converted into a money debt).</sentence>
+<sentence id="s173">The "Relevant Value" which cl 7.4 requires to be given to the "terminated obligations" is the "termination value" referred to in para (a)(ii) of s 5.</sentence>
+<sentence id="s174">The requirements of cl 7.4 that termination values be set off against each other, satisfies para (a)(iii).</sentence>
+<sentence id="s175">42 The evident purpose of the Netting Act supports my conclusion.</sentence>
+<sentence id="s176">It was Parliament's intention to ensure that close-out netting contracts used in a variety of financial market transactions be effective under insolvency laws.</sentence>
+<sentence id="s177">According to the Explanatory Memorandum that accompanied the Bill (at [7]): 
+ The obligations referred to in the definition are intended to apply broadly to encompass monetary obligations arising under a financial contract such as an interest rate or currency swap, and to non-monetary obligations such as an obligation to deliver commodities under a commodities derivative contract or securities under a securities derivative contract.</sentence>
+<sentence id="s178">The obligations covered by the definition are also intended to cover contingent obligations.</sentence>
+<sentence id="s179">The definition is intended to operate broadly to encompass super-netting under a master netting contract.</sentence>
+<sentence id="s180">43 The second question on which the administrators seek advice is how they should make a just estimate of the claims of counterparties under an SLA for the purposes of reg 5.6.23(2) of the Corporations Regulations , having regard to the provisions of the Netting Act.</sentence>
+<sentence id="s181">(In a third and related question, they also seek advice as to the date upon which securities lent by counterparties should be valued for computation of positions based on the obligations of the borrowers under an SLA or a breach of such obligation.</sentence>
+<sentence id="s182">) By way of explanation, reg 5.6.23 is concerned with voting at a meeting of creditors.</sentence>
+<sentence id="s183">A person claiming to be a creditor must lodge with the chairman of the meeting details of their claim or, if required, a formal proof of their debt or claim: reg 5.6.23(1).</sentence>
+<sentence id="s184">But, a creditor must not vote in respect of: (a) an unliquidated debt, (b) a contingent debt, (c) an unliquidated or a contingent claim or (d) a debt the value of which is not established; unless a just estimate of its value has been made: reg 5.6.23(2).</sentence>
+<sentence id="s185">44 The administrators' question assumes that counterparties are owed a contingent debt or have an unliquidated or contingent claim which must be valued for voting purposes.</sentence>
+<sentence id="s186">The contingent debt or unliquidated or contingent claim arises because the borrower (OPSL or LCPL) is insolvent and therefore unable to redeliver equivalent securities to any counterparty.</sentence>
+<sentence id="s187">But this view is challenged by the lawyers who appeared for the intervening creditors.</sentence>
+<sentence id="s188">They note that the administrators and the receivers were both appointed on 27 March 2008.</sentence>
+<sentence id="s189">They contend that the appointment of one or the other constituted an automatic event of default within clause 11.1(d) (ie written notice from the non-defaulting party was not required) and hence has effected an automatic close-out as at 27 March, liquidating all the claims against OPSL or LCPL for redelivery of securities based on the value of the relevant securities on 27 March and setting those sums off against any outstanding loan amounts owed by the investors.</sentence>
+<sentence id="s190">45 According to the administrators, there are several practical reasons why an automatic termination is a desirable outcome.</sentence>
+<sentence id="s191">One is that the appointment of administrators and receivers, as well as the subsequent actions of parties to whom OPSL and LCPL had themselves lent the shares, has had a substantial effect on the value of some of the lent shares and little on the value of others.</sentence>
+<sentence id="s192">That is to say, the event of default itself has distorted (or affected, to use a more neutral term) the value of the investors' shares in unequal ways.</sentence>
+<sentence id="s193">46 Another reason is that the risk of manipulation of the offer values is quite real, particularly with respect to thinly traded securities.</sentence>
+<sentence id="s194">In other words, the administrators fear that if the termination date is found to depend on future events, a counterparty, knowing that an event of default had occurred, could attempt to raise or depress the price of the relevant securities by buying or selling large quantities of the shares before giving written notice, thereby attempting to maximise (or minimise) the size of the obligation.</sentence>
+<sentence id="s195">47 The counterparties have a different reason for pushing for automatic termination.</sentence>
+<sentence id="s196">The value of many lent shares has fallen dramatically since 27 March 2008, due no doubt in part to the falling market generally and probably also due to the large-scale liquidation of shares by the banks to whom investors' shares had been on-lent.</sentence>
+<sentence id="s197">As a result, if the calculation of Relevant Values and the netting that is required by cl 7.4 is to occur now or in the future, the counterparties will be left much worse off than if a date of 27 March (or something close to it) were used.</sentence>
+<sentence id="s198">Indeed, preliminary calculations produced by the administrators suggested that as many as 75% of the investors would be worse off with a later date in this case.</sentence>
+<sentence id="s199">48 While I am not unmindful of the practical considerations raised by the administrators and the harm that might be suffered by the counterparties, I do not think much can be made of those kinds of issues.</sentence>
+<sentence id="s200">First of all, I propose to construe the SLA in accordance with what was said about the construction of a commercial contract by Lord Wilberforce in Reardon Smith Line Ltd v Hansen-Tangen [1976] 1 WLR 989, 995-996--namely, that one should have regard to "the genesis of the transaction, the background, the context, [and] the market in which the parties are operating.</sentence>
+<sentence id="s201">" I would on that approach avoid a construction that would bring about some absurd or plainly unfair result on the basis that, in the absence of clear words to the contrary, that was not what the parties intended.</sentence>
+<sentence id="s202">49 The problem here is that the possible adverse results that flow from a deferral of the close-out date are peculiar to the facts.</sentence>
+<sentence id="s203">The administrators market manipulation theory will have no application in most cases where the securities at issue are well-established and the market for them is robust (eg the chances that a single shareholder, however determined, could or would attempt to manipulate the price of, say, BHP Billiton shares strikes me as slim).</sentence>
+<sentence id="s204">And the counterparties' argument only applies in a falling share market.</sentence>
+<sentence id="s205">If the market was on the rise, they would no doubt be making the opposite argument.</sentence>
+<sentence id="s206">50 However that may be, I should also note that I have already considered whether the appointment of an administrator or a receiver constitutes an automatic event of default.</sentence>
+<sentence id="s207">In Beconwood Securities Pty Ltd v Australian and New Zealand Banking Group Ltd [2008] FCA 594 ; (2008) 66 ACSR 116 , I suggested that it does not.</sentence>
+<sentence id="s208">Here I have been asked to re-examine that dictum, which I have done with some care in light of the forceful arguments put by the lawyers for the interveners.</sentence>
+<sentence id="s209">Even the administrators have put forward an approach which, if accepted, would lead to a different result.</sentence>
+<sentence id="s210">51 The relevant event of default which it is said has automatically triggered cl 7.4 is, in the language of cl 11.1(d), "the presentation of a petition for winding up or any analogous proceeding or the appointment of a liquidator or an analogous officer".</sentence>
+<sentence id="s211">In Beconwood I was not asked to consider whether the process of the appointment of an administrator is a proceeding analogous to the presentation of a winding up petition.</sentence>
+<sentence id="s212">On the other hand, I did decide that the office of receiver or administrator is not analogous to the office of liquidator.</sentence>
+<sentence id="s213">My reasoning (66 ACSR at 130 [60]) was that: 
+ The role of a liquidator to get in the assets of the company that is being wound up, dispose of those assets and out of the proceeds discharge the debts due to creditors (pro rata if there is a deficiency) and pay the balance (if there be a balance) to the contributories.</sentence>
+<sentence id="s214">When this task is completed the company is finished.</sentence>
+<sentence id="s215">This is in marked contrast to the role of a party-appointed receiver or an administrator.</sentence>
+<sentence id="s216">A party-appointed receiver takes control of the company's assets (and sometimes manages its business), but for the single purpose of discharging the debt due to his appointer, the secured creditor.</sentence>
+<sentence id="s217">The receiver holds any surplus he has secured for the benefit of the company.</sentence>
+<sentence id="s218">On his retirement the company continues in existence.</sentence>
+<sentence id="s219">An administrator does little more than take over the running of the company, and then only for a relatively short period.</sentence>
+<sentence id="s220">This enables the creditors to decide the company's fate.</sentence>
+<sentence id="s221">From this passage it is evident that I approached the issue on the basis that the relevant inquiry involved analysing the role and function of each office-holder, to determine whether they were analogous.</sentence>
+<sentence id="s222">Other approaches have been suggested.</sentence>
+<sentence id="s223">52 Mr Scerri SC, who appeared with Mr Strong for the administrators, outlined an alternative argument which, if accepted, would lead to the conclusion that the appointment of an administrator was an automatic event of default.</sentence>
+<sentence id="s224">The starting point was sub-para (e) of the definition of Act of Insolvency in cl 22.</sentence>
+<sentence id="s225">He said that on one reading the reference to "analogous officer" is that sub-para applies to each of the other officers there mentioned.</sentence>
+<sentence id="s226">That seems to be at least as plausible a reading as the one to which I was attracted in Beconwood .</sentence>
+<sentence id="s227">There I reasoned that the offices of trustee, administrator, receiver and liquidator constituted a group whose characteristics needed to be identified for purposes of determining whether the characteristics of some other officer were analogous.</sentence>
+<sentence id="s228">But, as Mr Scerri pointed out, even on his approach it is still necessary to decide what aspects of the office are to be compared and what is a sufficient similarity.</sentence>
+<sentence id="s229">53 On this point Mr Scerri noted that subparas (c) and (e) focus on the nature of the appointee, whereas sub-para (d) focuses on the nature of the proceedings.</sentence>
+<sentence id="s230">He said, correctly in my view, that sub-para (c) is intended to capture a wider range of proceedings.</sentence>
+<sentence id="s231">The next step in Mr Scerri's alternative approach is rather more problematic.</sentence>
+<sentence id="s232">He said "any analogous proceeding" in sub-para (d) attaches to "bankruptcy, winding up or insolvency," and on that view, an "analogous proceeding" might be a company taking steps (eg through the agency of its board of directors) to appoint an administrator.</sentence>
+<sentence id="s233">I do not think that this can be correct.</sentence>
+<sentence id="s234">Sub-paragraph (d) is relevantly concerned with (1) an application (made by petition or otherwise) to a court or a government agency (as occurs in some European countries) for bankruptcy or winding up in insolvency; and (2) an application to a court or agency in which the relief sought depends upon the applicant establishing bankruptcy, winding up or insolvency.</sentence>
+<sentence id="s235">An "analogous proceeding" is one in which the applicant seeks insolvency relief, however denominated, from an authority empowered to grant relief, such as a court or government agency.</sentence>
+<sentence id="s236">On my reading, subpara (d) is not concerned with the action that an insolvent person may take without recourse to a court, tribunal or agency.</sentence>
+<sentence id="s237">For example, it does not cover a voluntary winding up.</sentence>
+<sentence id="s238">That is covered by sub-para (e).</sentence>
+<sentence id="s239">54 However, a more attractive argument, also based on clause 11.1(d) of the definition of Events of Default, was advanced.</sentence>
+<sentence id="s240">Mr Scerri said that one possible approach to the question whether two things are "analogous" is to identify the general similarities and differences between them and then make a judgment as to whether they are sufficiently similar.</sentence>
+<sentence id="s241">That is the approach that I took in Beconwood .</sentence>
+<sentence id="s242">Another approach, which Mr Scerri said is the better approach, is to identify whether the two things share the attributes which were critical to the parties (objectively ascertained) in the context of the contract.</sentence>
+<sentence id="s243">This involved ascertaining why a petition for winding up and the appointment of a liquidator have been singled out as an Event of Default for which no notice is required.</sentence>
+<sentence id="s244">55 This approach invites attention to the origins of cl 11.1 which are to be found in the GMSLA (I am unaware of any relevant difference between the OSLA and the GMSLA) prepared for the ISLA.</sentence>
+<sentence id="s245">The GMSLA defines Act of Insolvency in terms similar to the definition in the AMSLA.</sentence>
+<sentence id="s246">Clause 14.1(v) of GMSLA provides that "an Act of Insolvency which is the presentation of a petition for winding up or any analogous proceedings or the appointment of a liquidator or analogous officer of the Defaulting Party" does not require the service of a written notice.</sentence>
+<sentence id="s247">56 Mr Scerri said that the reason the clause was drawn this way can be traced to s 127 of the Insolvency Act.</sentence>
+<sentence id="s248">That section provides that any disposition of property made after the commencement of the winding up of a company is void.</sentence>
+<sentence id="s249">Section 468(1) of the Corporations Act is broadly to the same effect.</sentence>
+<sentence id="s250">Section 129(2) of the Insolvency Act provides that a winding up by the court commences on the presentation of a winding up petition.</sentence>
+<sentence id="s251">On this basis, Mr Scerri speculated that the purpose of para 14.1(v) of GMSLA was to ensure that the lending contract was terminated and the netting provisions engaged at exactly the same time as the commencement of the winding up of the defaulting party so that the netting would not be caught by the prohibition.</sentence>
+<sentence id="s252">Hence, so the argument goes, the analogy is to be found in the consequence of the appointment.</sentence>
+<sentence id="s253">57 I am prepared to accept that this is the reason for automatic termination.</sentence>
+<sentence id="s254">In J Benjamin, "Interests in Securities" (2000) at p 126 n 25, the author says of netting provisions found in a variety of financial market agreements which effect an outright transfer of securities by way of collateral: "The appointment of a liquidator is automatically an event of default, in order to avoid the risk of post-insolvency dispositions".</sentence>
+<sentence id="s255">58 It is important to note that this rationale for automatic termination does not apply to the administration procedure in the UK.</sentence>
+<sentence id="s256">In neither the old nor the new regime is there a counterpart to s 127.</sentence>
+<sentence id="s257">Accordingly, under the GMSLA, there is no necessary reason for automatic termination on the appointment of an administrator, whether the appointment be by the court or otherwise.</sentence>
+<sentence id="s258">59 In Australia, by contrast, s 437D provides that once an administration has commenced, most dealings with the company's property are void.</sentence>
+<sentence id="s259">Therefore, assuming for the sake of argument that s 437D would invalidate a close-out netting provision in the absence of the Netting Act , there might be reason for an automatic default on the appointment of an administrator.</sentence>
+<sentence id="s260">But, in my view, that result is not supported by the language of cl 11.1(d).</sentence>
+<sentence id="s261">For one thing, having regard to the origins of the SLA, it would be an odd result if the appointment of the administrator were not an automatic event of default under the GMSLA but was automatic under the similarly worded AMSLA, and securities lending agreements based on the AMSLA.</sentence>
+<sentence id="s262">I prefer the view that to bring about a different result it is necessary to change the words used.</sentence>
+<sentence id="s263">For another thing, it is my view that on its proper construction, cl 11.1(d) requires there to be a comparison between, on the one hand, the attributes (the functions and duties) of a liquidator and the attributes of the other officer who is said to be analogous.</sentence>
+<sentence id="s264">It is simply not sufficient to enquire what may be the legal consequences that flow from the particular appointment.</sentence>
+<sentence id="s265">In some jurisdictions, the answer may not be known.</sentence>
+<sentence id="s266">Indeed, it is not clear that s 127 of the UK Insolvency Act (or s 437D of the Corporations Act ) would necessarily defeat close-out netting in the absence of a specific provision such as r 4.90 of the Insolvency Rules (or s 14 of the Netting Act ).</sentence>
+<sentence id="s267">60 Moreover, if the position in a given jurisdiction is not certain (ie the relevant legal consequences that flow from the appointment of an administrator are not settled), what then would be the test for determining whether an administrator is analogous to a liquidator?</sentence>
+<sentence id="s268">If the test be that close-out netting is ineffective (ie the rule is that an administrator is analogous to a liquidator in all cases where close-out netting would otherwise be void after the appointment of an administrator), no one will know whether the contract has been closed out because, by hypothesis, no one knows whether close-out netting would be effective.</sentence>
+<sentence id="s269">If the test be simply whether the position is uncertain (ie the rule is that an administrator is analogous to a liquidator in all cases where it is uncertain whether close-out netting would otherwise be void after the appointment of an administrator), who is to decide whether it is and how could the drafters of a multi-jurisdictional document such as the GMSLA (and the parties adopting it in each specific jurisdiction) ever know ex ante precisely what they were contracting for?</sentence>
+<sentence id="s270">Finally, the effect of such a jurisdiction-specific inquiry would threaten to undermine the uniformity of practice and implementation necessary to guarantee the stability and efficacy of the cross-border financial derivatives markets.</sentence>
+<sentence id="s271">61 In my view, whether the issue of "analogy" is approached from the perspective of the nature of the appointee or from the principal consequence of the appointment, the result must be the same: a liquidator is not analogous to either an administrator or a receiver appointed by a secured creditor.</sentence>
+<sentence id="s272">The function of a liquidator --- whether called a liquidator, a trustee, a receiver, a curator or a syndic --- is to preside over the death of a company.</sentence>
+<sentence id="s273">An administrator appointed in rescue proceedings strives for the opposite result (even though the company may yet in the end die).</sentence>
+<sentence id="s274">A receiver appointed by a secured creditor does neither of those things, being largely unconcerned about the fate of the company.</sentence>
+<sentence id="s275">From any perspective, the offices are poles apart.</sentence>
+<sentence id="s276">62 The result of this view is that, apart from the few counterparties who are entitled to delivery either because of the terms of their Borrowing Request or because a call for delivery has been made under cl 6 of the SLA, the obligation of the borrower to deliver equivalent securities has not as yet been either engaged or liquidated via the close-out provision for netting and set-off.</sentence>
+<sentence id="s277">It is in respect of these counterparties that difficulties arise in the estimation of the value of their claims.</sentence>
+<sentence id="s278">For the purpose of the valuation it is necessary to make certain assumptions.</sentence>
+<sentence id="s279">The first is that the borrowers are unable to meet their delivery obligations.</sentence>
+<sentence id="s280">The second assumption is that sooner or later the close-out provision will be triggered.</sentence>
+<sentence id="s281">Either the borrower will go into liquidation or it will be in the interest of one or the other party to seek payment of what is due from the other.</sentence>
+<sentence id="s282">After all, the counterparties have borrowed money that must eventually be repaid (after netting) or they are entitled (after netting) to payment from the borrower.</sentence>
+<sentence id="s283">63 In estimating the value of a counterparty's claim for voting purposes it is important to bear in mind that the task is not the same as determining whether to admit or reject a proof of debt for distribution purposes.</sentence>
+<sentence id="s284">In the former case the task does not involve a detailed inquiry.</sentence>
+<sentence id="s285">The decision-maker (the administrator or chairman of the creditors' meeting) must do the best that can be done by reference to the factual material the claimant furnishes viewed in the total context with which the decision-maker is dealing: Selim v McGrath (2003) 117 FLR 85, 115.</sentence>
+<sentence id="s286">If a claim cannot be quantified but it appears that the creditor is a creditor for at least some amount, then it is appropriate to admit the creditor for voting purposes at a nominal value of $1.00: Re Oriel Homes Pty Ltd [1998] 1 Qd R 652, 654.</sentence>
+<sentence id="s287">By contrast, a proof of debt for distribution purposes is for the true liability that is enforceable against the company: Tanning Research Laboratories Pty Ltd v O'Brien [1990] HCA 8 ; (1990) 169 CLR 332.</sentence>
+<sentence id="s288">64 In order to quantify the claims, it seems to me the counterparties can be broken down into four categories: (1) counterparties in respect of whom cl 7.4 has been triggered by service of a written notice by the Non-Defaulting Party; (2) counterparties whose redelivery obligations have been breached; (3) counterparties whose redelivery obligations have not fallen due; (4) counterparties who have claims other than for breach of the redelivery obligation.</sentence>
+<sentence id="s289">65 Counterparties who fall into category (1) must have all outstanding obligations valued and set off against each other as at the Performance Date as defined in cl 7.4.</sentence>
+<sentence id="s290">If a single net sum is due by the borrower, the proof is for that amount.</sentence>
+<sentence id="s291">66 Counterparties in category (2) also have claims that are readily quantifiable.</sentence>
+<sentence id="s292">Prime facie the loss is the value of the equivalent securities as at the delivery date, against which should be set off, in accordance with common law principles, the value of the cash collateral.</sentence>
+<sentence id="s293">Some counterparties in this category may also have suffered consequential loss which may or may not be easy to quantify.</sentence>
+<sentence id="s294">67 Category (3) counterparties present the most difficulty.</sentence>
+<sentence id="s295">The difficulty arises for several reasons.</sentence>
+<sentence id="s296">First, there is as yet no breach of the redelivery obligation.</sentence>
+<sentence id="s297">Nevertheless it is, as I have said, inevitable that sooner or later the SLAs will be closed out.</sentence>
+<sentence id="s298">So, the estimate of the claims should proceed on the basis that the unperformed redelivery obligations will be breached or that, for some other reason, the netting will occur.</sentence>
+<sentence id="s299">This is consistent with the reasoning in Re Pyramid Building Society (1994) 13 ACSR 566 , 570-71 (taking the view that the liquidator should proceed on the assumption that it is inevitable that the dividend distribution will occur).</sentence>
+<sentence id="s300">The approach will not, however, produce a sum certain.</sentence>
+<sentence id="s301">For one thing it is not possible to tell when the SLAs will be closed out.</sentence>
+<sentence id="s302">And, the assessment of what is due to the counterparty (if anything is due at all) will depend upon the value of the equivalent securities at the close-out date.</sentence>
+<sentence id="s303">It is difficult to do more than guess what that value might be.</sentence>
+<sentence id="s304">68 The difficulty in estimating the value of the claims of category (3) counterparties does not, however, justify the administrators placing a nominal value on them.</sentence>
+<sentence id="s305">The administrators have suggested that a reasonable approach is to assess the value on the basis that close-out occurs on a fixed date, which is shortly before the second meeting of creditors takes place.</sentence>
+<sentence id="s306">That, I think, is a sensible way to proceed.</sentence>
+<sentence id="s307">To be on the safe side, it may be necessary to obtain an order under s 447A to set the appropriate date.</sentence>
+<sentence id="s308">69 The claims of category (4) counterparties are likely to be so divergent that it is not possible to lay down any general guidelines on how to estimate their value.</sentence>
+<sentence id="s309">In any event, I think the administrators did not, in the end, press for advice on the position of these counterparties.</sentence>
+<sentence id="s310">70 In their report to creditors, the administrators intend to explain how their proofs will be dealt with in a liquidation.</sentence>
+<sentence id="s311">In this regard, the administrators appear to have taken the view that category (3) counterparties will be better off because their claims will be assessed as at 27 March 2008, being the date on which the administrators were appointed.</sentence>
+<sentence id="s312">According to ss 513A and 513C of the Corporations Act , if the creditors resolve that the borrowers should be wound up, the winding up will be deemed to have commenced on that date.</sentence>
+<sentence id="s313">The administrators take the view that s 554(1) , which provides that the amount of any debt or claim in the winding up is to be computed from the "relevant date", requires there to be a netting as at 27 March 2008.</sentence>
+<sentence id="s314">Were this to occur, the administrators say, category (3) counterparties will be better off because of the subsequent fall in the value of the equivalent securities.</sentence>
+<sentence id="s315">In effect, the administrators suggest that the Corporations Act will lead to more or less the same valuation as in accordance with an automatic netting due to their appointment being an event of default under the contract.</sentence>
+<sentence id="s316">71 In my opinion, the position taken by the administrators is not correct.</sentence>
+<sentence id="s317">It is true that in the assumed circumstance (the circumstance being that the creditors vote in favour of winding up), the date for the assessment of the claims of category (3) counterparties is the date of the appointment of the administrators.</sentence>
+<sentence id="s318">But it does not follow that the claims are to be assessed as if a netting took place as at that date.</sentence>
+<sentence id="s319">The position of category (3) counterparties at the relevant date is that they had contingent or future claims against their borrower.</sentence>
+<sentence id="s320">The claims were either contingent or future because at that point there had been no breach of the redelivery obligation.</sentence>
+<sentence id="s321">But it has been clear since at least 1869 that if a bankrupt or a company in liquidation is bound at the date of the bankruptcy by an executory contract, the creditor can prove as a contingent creditor for any losses he might suffer from a future breach of that contract: Theiss Infraco (Swanston) Pty Ltd v Smith [2004] FCA 1155 ; (2004) 50 ACSR 434 at [9] .</sentence>
+<sentence id="s322">72 The task of the liquidator is to put a present value (as at 27 March 2008) on the future claims.</sentence>
+<sentence id="s323">The present value of the claim is the amount for which the counterparty would be entitled to prove in the winding up: In re European Assurance Society Arbitration (1872) 17 SJ 69, 70.</sentence>
+<sentence id="s324">The present value of the future claim must take into account, if it is known, the loss that would actually be suffered.</sentence>
+<sentence id="s325">Put another way, the liquidator should consider subsequent events in valuing a claim: In Re Sierra Steel Inc (BAP 9 th Cir 1989) 96 BR 275 , 279 n 6.</sentence>
+<sentence id="s326">So, in In re Northern Counties of England Fire Insurance Co v Macfarlane's Claim (1880) 17 Ch D 337 , the insured under a fire policy was entitled to prove in the winding up of the insurers for the full amount of its loss even though the loss was suffered in a fire which had occurred after the date of the winding up.</sentence>
+<sentence id="s327">In In re Lines Brothers Limited [1982] 2 WLR 1010, 1023, the Court of Appeal said that In re Northern Counties and other similar cases "are examples of a claim which was difficult or impossible to value accurately at the date of the winding up.</sentence>
+<sentence id="s328">So it was necessary to resort to subsequent events in order to enable a valuation to be made as at the date of the winding up.</sentence>
+<sentence id="s329">"
+ 
+73 Cases such as Re Griffiths [2004] FCAFC 102 ; (2004) 139 FCR 185 are distinguishable.</sentence>
+<sentence id="s330">In Griffith , it was held that a foreign currency debt should be proved in a bankruptcy according to its conversion value as at the date of the bankruptcy.</sentence>
+<sentence id="s331">The relevant creditors' claims were for payment of debts in a foreign currency.</sentence>
+<sentence id="s332">The obligations had fallen due before bankruptcy.</sentence>
+<sentence id="s333">The debts should have been discharged on or before that day.</sentence>
+<sentence id="s334">In other words, unlike in the present case, the debts at issue were neither contingent nor difficult to value--that is, regardless of which valuation date was chosen, a sum certain could be affixed without reference to future events.</sentence>
+<sentence id="s335">74 The administrators here were nevertheless troubled that, on their approach to valuation of a counterparty's future claim in a winding up, there might be a conflict between the Corporations Act (s 554(1)) and the Netting Act (s 14).</sentence>
+<sentence id="s336">Section 14 of the Netting Act provides that, among other things, if a close-out netting contract is closed out "any obligation owed by the party under the contract that has not been discharged is provable in [that party's] external administration.</sentence>
+<sentence id="s337">" The administrators were concerned that if s 554(1) operated so that the claims of counterparties in category (3) had to be assessed as if the SLAs were closed out on 27 March 2008 but were in fact closed out later (say on the date a winding up occurred) it would not be clear what amount should be admitted to proof.</sentence>
+<sentence id="s338">The answer, they assumed, would depend on whether s 14 overrides s 554.</sentence>
+<sentence id="s339">75 It will be remembered that s 14(4) states that: "Subsections (1) and (2) have effect despite any other law (including the specified provisions).</sentence>
+<sentence id="s340">" According to the definition of "specified provisions" in s 5 of the Netting Act , the Corporations Act provisions which are overridden include s 437D and s 468 (the provisions that make void dispositions following an administration and a winding up respectively) and Div 2 of Part 5.7B (the part dealing with voidable dispositions).</sentence>
+<sentence id="s341">Section 554 is not mentioned.</sentence>
+<sentence id="s342">On my approach, however, there is no conflict between the provisions because the proofs would be for the same sum whether the valuation date is 27 March 2008 or the actual close-out date of the SLAs (which is likely in most cases to be the date of the winding up).</sentence>
+<sentence id="s343">That is to say, although in my view the claims of the category (3) counterparties are to be assessed as at 27 March 2008, the amount to be admitted to proof will be the debt due on the day the claims are in fact closed out because it is necessary to take into account subsequent events in the valuation of claims that were contingent or prospective as at the date of valuation.</sentence>
+<sentence id="s344">If it were otherwise, I would incline to the view (but make no finding here) that s 14 overrides s 554.</sentence>
+<sentence id="s345">76 The administrators have raised another potential conflict between s 14 of the Netting Act and the Corporations Act .</sentence>
+<sentence id="s346">It is possible (no one can be more definite) that at the second meeting, a deed of company arrangement will be proposed.</sentence>
+<sentence id="s347">It is to be assumed that if there is a deed, the arrangement will involve a fund that will be distributed among the counterparties on a pro rata basis in full satisfaction of their respective claims against the borrower and perhaps against other parties as well.</sentence>
+<sentence id="s348">77 The possibility of conflict which concerns the administrators arises in the following way.</sentence>
+<sentence id="s349">Section 444A(4)(i) states that a deed of company arrangement must specify a day (not later than the day when the administration began) on or before which claims must have arisen if they are to be admissible under the deed.</sentence>
+<sentence id="s350">Section 444D(1) provides that the deed will bind all creditors of the company so far as concerns such claims.</sentence>
+<sentence id="s351">The administrators contemplate the possibility that a deed may establish a regime for the proof and quantification of claims which specifies a date at which equivalent securities the subject of transactions with the counterparties are to be valued for the purposes of computing their claims on the fund.</sentence>
+<sentence id="s352">The question which the administrators wish to have answered is whether this date may differ from the Performance Date under the netting provision of the SLAs.</sentence>
+<sentence id="s353">78 In my view it is most unlikely that this issue will arise.</sentence>
+<sentence id="s354">The proponent of any deed will wish to bind all creditors in respect of the whole of their indebtedness.</sentence>
+<sentence id="s355">To achieve that objective, the proponent must proffer a deed that will require the creditors to prove for the full amount of their debt.</sentence>
+<sentence id="s356">And, as I have explained, that value cannot be assessed on the basis of the price of the equivalent securities as at 27 March 2008.</sentence>
+<sentence id="s357">In any event, if the creditors decide that a deed of company arrangement should be executed, there will be no liquidation and, most likely, no close-out of the SLAs.</sentence>
+<sentence id="s358">In that circumstance, s 14 will not come into play.</sentence>
+<sentence id="s359">79 I will answer the questions raised for determination under O 29 (with some minor amendments) as follows:
+ Question 1.1: "Are contracts ("SLAs") which have been entered into by OPSL and LCPL under which either LCPL or OPSL has borrowed securities from other persons ("Counterparties") in the form or to the effect of the sample contracts which are exhibits JRL-2 and JRL-6 to the Third Lindholm Affidavit "close-out netting contracts" as defined in section 5 of the Payment Systems and Netting Act 1998 (Cth) ("Netting Act")?</sentence>
+<sentence id="s360">" Answer: "Yes".</sentence>
+<sentence id="s361">
+ 
+ 
+ Question 1.2: "If the answer to question 1.1 is "yes", how should the Administrators make a just estimate of the claims of Counterparties for purposes of Regulation 5.6.23(2) of the Corporations Regulations 2001 (Cth), insofar as such claims are based on the obligations of OPSL or LCPL under an SLA or a breach of such obligations, having regard to the provisions of the Netting Act "?</sentence>
+<sentence id="s362">
+ 
+ 
+ Answer: See paras [63]-[78] of the accompanying reasons for decision.</sentence>
+<sentence id="s363">
+ 
+ 
+ Question 1.3: "If the answer to question 1.1 is "yes", how should the Administrators advise the creditors of OPSL and LCPL in the report made for the purposes of the meetings to be held under s 439A with respect to the following matters: 
+ 
+ 
+ Question 1.3.1: Having regard to the provisions of the Netting Act , the date or dates upon which securities lent by Counterparties are to be valued for the computation of positions based on the obligations of OPSL or LCPL under an SLA or a breach of those obligations?</sentence>
+<sentence id="s364">" Answer: See paras [63]-[78] of the accompanying reasons for decision.</sentence>
+<sentence id="s365">80 I should note here that the administrators also formulated three additional subquestions.</sentence>
+<sentence id="s366">Specifically, questions 1.3.2 and 1.3.3 sought advice as to the date to be used in computing share values for claims against OPSL and LCPL in the nature of fraudulent inducement and breach of trust or fiduciary duty (whether statutory or common law).</sentence>
+<sentence id="s367">Question 1.3.4 sought advice as to how the shares should be valued for purposes of computing the value of claims referred to in questions 1.3.1 through 1.3.3 in a deed of company arrangement.</sentence>
+<sentence id="s368">81 I do not propose to answer those questions for two reasons.</sentence>
+<sentence id="s369">First, the administrators, as noted earlier, did not ultimately press for advice on these matters.</sentence>
+<sentence id="s370">Second, and more importantly, the advice sought in questions 1.3.2 to 1.3.4 would depend largely on facts, contingencies, and matters not yet before the administrators (ie the value or estimate to be made at the meeting will of course depend on the contents of a claimant's proof), much less the Court.</sentence>
+<sentence id="s371">For example, with respect to the fraudulent inducement claims, circumstances will differ for each counterparty with respect to what shares were purchased, on what date, based on what representations, and with what level of knowledge.</sentence>
+<sentence id="s372">Some or all of these facts may be relevant to determining, first, whether the counterparty can even state a valid claim (and the strength of that claim), and if so, second, the date on which the shares should be valued for purposes of that claim.</sentence>
+<sentence id="s373">82 In view of the various contingencies and facts upon which it would be necessary to hypothesize in order to answer the remaining questions, any advice I might provide at this time would be no more than idle speculation.</sentence>
+<sentence id="s374">That being said, if questions do arise in more concrete circumstances (for example, after proofs of claim have been filed or after a specific deed has been proposed), the administrators are able to seek further directions.</sentence>
+<sentence id="s375">83 I will order that the administrators' costs and expenses of and incidental to this application be costs and expenses in the administrations of OPSL and LCPL.</sentence>
+<sentence id="s376">I propose not to make any costs order in favour of the interveners (the ANZ, its receivers and the intervening creditors) although they did ask for their costs.</sentence>
+<sentence id="s377">The interveners applied for leave to be heard but not to be joined.</sentence>
+<sentence id="s378">I suspect that one reason they did not seek a joinder order was to minimise the risk of a costs order being made against them.</sentence>
+<sentence id="s379">I am not inclined to benefit them with a favourable costs order in that circumstance.</sentence>
+<sentence id="s380">I certify that the preceding eight-three (83) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.</sentence>
+<sentence id="s381">Associate:
+
+Dated: 17 September 2008
+
+ Counsel for the Plaintiff: C Scerri QC 
+R D Strong 
+ 
+ Solicitor for the Plaintiff: Mallesons Stephen Jaques 
+ 
+ Counsel for the Persons Applying: M L Bennett 
+ 
+ Solicitor for the Persons Applying: Lavan Legal 
+ 
+ Counsel for ANZ Bank: P Crutchfield
+O Bigos 
+ 
+ Solicitor for ANZ Bank: Minter Ellison 
+ 
+ Counsel for the Receivers: E Woodward 
+ 
+ Solicitor for the Receivers: Deacons 
+ 
+ Counsel for Dover Gardens Pty Ltd: C A Sweeney QC
+B A M Connell 
+ 
+ Solicitor for Dover Gardens Pty Ltd: Sweeney Commercial 
+
+ Date of Hearing: 18 August 2008 
+ 
+ Date of Judgment: 17 September 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1425.html 
+ 
+ </sentence>
+</sentences>
+</case>

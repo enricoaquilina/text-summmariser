@@ -1,0 +1,529 @@
+<?xml version="1.0"?>
+<case>
+<name>Rich v Harrington [2007] FCA 1987 (13 December 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1987.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">issue waiver</catchphrase>
+<catchphrase "id=c1">whether respondents through their pleadings put in issue their state of mind</catchphrase>
+<catchphrase "id=c2">whether this resulted in waiver of legal professional privilege</catchphrase>
+<catchphrase "id=c3">in alternative did letter from respondents' solicitors referring to "external advice" constituted express waiver of that advice? held: pleadings did not constitute issue waiver</catchphrase>
+<catchphrase "id=c4">express waiver only of advice referred to in letter.</catchphrase>
+<catchphrase "id=c5">need for legal adviser to be independent</catchphrase>
+<catchphrase "id=c6">whether office of general counsel ("ogc") which included two respondents lacks necessary independence to maintain claim of privilege</catchphrase>
+<catchphrase "id=c7">specifically whether requisite independence for allegations in current proceeding held: with regard to applicant's allegations relationship between ogc and respondents not capable of being one of professional detachment.</catchphrase>
+<catchphrase "id=c8">common interest privilege</catchphrase>
+<catchphrase "id=c9">whether at relevant time respondents shared requisite common interest to maintain claim for privilege</catchphrase>
+<catchphrase "id=c10">alternative did limited disclosure amount to waiver? held: common interest privilege not established where one respondent has a selfish interest in obtaining advice. disclosure of limited nature did not amount to waiver.</catchphrase>
+<catchphrase "id=c11">legal professional privilege</catchphrase>
+<catchphrase "id=c12">legal professional privilege</catchphrase>
+<catchphrase "id=c13">legal professional privilege</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 Ms Rich has moved the Court for orders requiring the respondents for whom the legal firm Mallesons Stephen Jaques acts (hereafter for convenience referred to as "the respondents") to produce for inspection certain classes of documents in respect of which they have claimed client legal privilege.</sentence>
+<sentence id="s1">The issues raised by the motion are:
+ 
+ (a) whether the respondents have waived privilege in respect of documents comprising or recording external legal advice to the "Management" of PricewaterhouseCoopers Australia ("PwC") concerning the imposition of certain restrictions on Ms Rich, and the consequent reduction of her responsibility rating, and requests for such advice;
+ (b) whether the respondents can maintain a claim for client legal privilege in respect of legal advice provided by persons comprising the Office of General Counsel of PwC ("OGC");
+ (c) whether the fourteenth respondent, Mr Stuart Edwards, waived privilege in certain legal advice he obtained and provided to other respondents or employees of PwC at a time when, as Ms Rich contends, there was no common interest between him and them.</sentence>
+<sentence id="s2">
+ BACKGROUND 
+ 
+2 Ms Rich, herself a former partner of PwC, lodged written complaints with the Human Rights and Equal Opportunity Commission between 12 May 2004 and 11 July 2005 alleging that PwC had unlawfully discriminated against her.</sentence>
+<sentence id="s3">The President of HREOC terminated each of the complaints on the ground that he was satisfied that there was no reasonable prospect of the matter being settled by conciliation.</sentence>
+<sentence id="s4">Ms Rich instituted a proceeding against past and present partners of PwC under s 46PO of the Human Rights and Equal Opportunity Commission Act 1986 (Cth) alleging conduct in breach of that Act and the Sex Discrimination Act 1984 (Cth) following each termination.</sentence>
+<sentence id="s5">Those proceedings are now consolidated as this proceeding.</sentence>
+<sentence id="s6">3 Amongst the claims advanced by Ms Rich in her second further amended statement of claim ("the statement of claim") are claims of discrete acts of sexual discrimination or harassment by particular respondents, claims of indirect discrimination by reason of the imposition of a working environment or culture antagonistic to efforts to address acts of the above kinds and claims of victimisation because of her complaints of sex discrimination.</sentence>
+<sentence id="s7">GENERAL PRINCIPLES 
+ 
+4 The common law of legal professional privilege (or client legal privilege as it has commonly been called since the enactment of the Evidence Act 1995 (Cth)) provides the test for determining whether confidential written communications between lawyer and client must be produced for inspection ahead of trial ( Esso Australia Resources Limited v Commissioner of Taxation [1999] HCA 67 ; (1999) 201 CLR 49 (" Esso Australia ")).</sentence>
+<sentence id="s8">5 Client legal privilege protects the confidentiality of certain communications, which may be but need not be written, made in connection with giving or obtaining legal advice or the provision of legal services.</sentence>
+<sentence id="s9">The communications accorded protection are those made for the dominant purpose of obtaining legal advice or to conduct or aid in the conduct of litigation in reasonable prospect ( Esso Australia per Gleeson CJ, Gaudron and Gummow JJ at [61]).</sentence>
+<sentence id="s10">6 Client legal privilege exists to serve the public interest in the administration of justice by encouraging frank disclosure by clients to their lawyers.</sentence>
+<sentence id="s11">As Mason and Wilson JJ stated in Waterford v The Commonwealth [1987] HCA 25 ; (1987) 163 CLR 54 ( "Waterford" ) at 62, "the proper functioning of the legal system is facilitated by freedom of consultation between the client and the legal adviser".</sentence>
+<sentence id="s12">Their Honours went on to observe at pages 64-65 that legal professional privilege is the product of a balancing exercise between competing public interests whereby, subject to the well-recognised crime or fraud exception, the public interest in the administration of justice is accorded paramountcy over the public interest in a fair trial conducted by reference to all relevant documents (see also Esso Australia per Gleeson CJ and Gaudron and Gummow JJ at [35]).</sentence>
+<sentence id="s13">There is no further balancing exercise to be carried out; if client legal privilege attaches to a communication, the privilege may be waived or overridden by statue but is otherwise absolute ( Telstra Corporation Ltd v Minister for Communications, Information Technology and the Arts (No 2) [2007] FCA 1445 ( "Telstra" ) at [21]).</sentence>
+<sentence id="s14">7 It is not sufficient for a party merely to assert a claim for client legal privilege; the party making the claim must establish the facts giving rise to the privilege ( National Crime Authority v S (1991) 29 FCR 203 at 211).</sentence>
+<sentence id="s15">Where the claim is made in respect of a document, the Court has power to examine the document for itself ( National Crime Authority v S at 211).</sentence>
+<sentence id="s16">I interpolate that in this case, to avoid the risk of my seeing privileged communications that might render it impossible or undesirable for me to be the trial judge, I have undertaken not to examine any document in respect to which privilege is claimed without first hearing from the parties.</sentence>
+<sentence id="s17">If, having done so, I am persuaded that it is necessary for the Court to examine the document but that it would be inappropriate for me to do so, another judge will be asked to determine the status of the document in question.</sentence>
+<sentence id="s18">8 Although a party who asserts a claim for client legal privilege carries the onus of establishing the claim, where it is alleged that privilege has been waived in a communication that was privileged when made, the party alleging waiver carries the onus of establishing waiver ( Nine Films &amp; Television Pty Ltd v Ninox Television Ltd (2005) 65 IPR 442 at [21]).</sentence>
+<sentence id="s19">9 At common law a person who would otherwise be entitled to the benefit of client legal privilege will waive that privilege, perhaps unintentionally, if he or she engages in conduct that is inconsistent with the maintenance of the confidentiality that the privilege protects ( Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1 per Gleeson CJ, Gaudron, Gummow and Callinan JJ at [28]).</sentence>
+<sentence id="s20">ALLEGED WAIVER OF PRIVILEGE IN ADVICE TO MANAGEMENT 
+ The Pleadings 
+ 
+10 A central allegation made by Ms Rich is that, by imposing access restrictions on her, the first respondent, Mr Harrington, the Country Senior Partner for Australia, acting on behalf of the partners of PwC who answer the description of "Management" in the Partnership Deed ("the Management"), and with the subsequent approval of the Board of Partners ("the Board"), committed an act of victimisation against her within the meaning of s 94 of the Sex Discrimination Act .</sentence>
+<sentence id="s21">11 Section 94(2) of the Sex Discrimination Act relevantly provides:
+ 
+ 
+ (2) For the purposes of subsection (1), a person shall be taken to commit an act of victimization against another person if the first mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person: 
+ 
+ 
+ 
+ 
+ (a) has made, or proposes to make, a complaint under this Act or the Human Rights and Equal Opportunity Commission Act 1986 ;
+ (b) has brought, or proposes to bring, proceedings under this Act or the Human Rights and Equal Opportunity Commission Act 1986 against any person;
+ ...
+ 
+ (d) has attended, or proposes to attend, a conference held under this Act or the Human Rights and Equal Opportunity Commission Act 1986 ;
+ ...
+ (f) has reasonably asserted, or proposes to assert, any rights of the person or the rights of any other person under this Act or the Human Rights and Equal Opportunity Commission Act 1986 ; or
+ (g) has made an allegation that a person has done an act that is unlawful by reason of a provision of Part II ; 
+ 
+ 
+ 
+ 
+ or on the ground that the first-mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g), inclusive.</sentence>
+<sentence id="s22">
+ 
+
+12 By para 89 of her statement of claim Ms Rich has alleged, in effect, that Mr Harrington, the Management and the Board subjected her to a detriment on the ground or grounds identified in s 94(2)(a), (b), (d), (f) and (g).</sentence>
+<sentence id="s23">13 It is admitted on the pleadings that access restrictions were imposed on Ms Rich in August 2004 and thereafter extended on a number of occasions until she ceased to be a partner in PwC.</sentence>
+<sentence id="s24">The access restrictions prevented her from, amongst other things, contacting or communicating with partners, clients or staff of PwC.</sentence>
+<sentence id="s25">By para 78F of their Defence the respondents have pleaded:
+ 
+ By reason of the matters referred to in paragraphs 78A to 78E above, the Respondents say that the imposition and confirmation of the access restrictions was in good faith by the Management and the Board respectively and was reasonable and in the best interests of the firm.</sentence>
+<sentence id="s26">
+
+14 The matters referred to in paras 78A to 78E of the Defence include that Ms Rich expressed a lack of faith and confidence in PwC or the Management, or PwC's ability to address her concerns; that she requested that she not be required to attend meetings at which more than one of her partners in her business unit would be in attendance; that she requested that PwC provide relief from the pressures she said she faced in her business unit; that she expressed her preference to work "remotely" rather than attend the PwC office in the ordinary course; that she adopted inconsistent positions in relation to the approach to be taken by PwC to her allegations and in relation to any return to work by her; and that by her conduct she demonstrated that she was unable or unwilling to operate as a partner of PwC with other partners in her business unit.</sentence>
+<sentence id="s27">15 The respondents have not unequivocally pleaded to the allegation that an effect of the access restrictions was that Ms Rich was notified that her responsibility rating was to be reduced with a corresponding reduction in her partnership drawings.</sentence>
+<sentence id="s28">Issue waiver by Pleadings 
+ 
+16 Subject to the issue concerning the independence of the OGC which is considered below, Ms Rich accepted that documents recording legal advice to the Management, or requests for such advice, in relation to the access restrictions and Ms Rich's responsibility rating, were privileged at the time of their creation.</sentence>
+<sentence id="s29">However, she contended that the respondents waived their privilege in the advice by putting in issue their state of mind by their plea in para 78F of the Defence.</sentence>
+<sentence id="s30">17 Ms Rich submitted that because the respondents did not merely deny that the imposition of access restrictions constituted victimisation of Ms Rich, but positively asserted that the decisions to impose the restrictions were made in "good faith", they thereby asked the Court to find that they had an "honesty of purpose" (see the Macquarie Dictionary (online version) definition of "good faith").</sentence>
+<sentence id="s31">Consequently, she submitted, the Court will be required to examine the basis upon which the respondents "honestly" made their decision to impose the access restrictions.</sentence>
+<sentence id="s32">18 It is not in dispute that the respondents received legal advice concerning the decision to impose access restrictions on Ms Rich.</sentence>
+<sentence id="s33">Indeed, in a letter dated 19 April 2005 from their solicitors ("Mallesons") to Ms Rich's solicitors ("Harmers") Mallesons stated:
+ 
+ Moreover, as to complaints made in relation to matters from 2 July 2004, our client has acted at all times with the benefit of external advice and does not believe there has been any victimisation or other conduct for which compensation could properly be sought.</sentence>
+<sentence id="s34">
+
+19 Ms Rich submitted that the respondents consequently seek on the one hand to ask the Court to examine their state of mind and find that they positively acted in good faith while on the other hand denying her and the Court the means properly to test that assertion.</sentence>
+<sentence id="s35">She argued that the respondents conduct was therefore inconsistent with the maintenance of confidentiality in their legal advice; by putting in issue their state of mind they had invited examination of the legal advice which had been critical to their decision to impose the access restrictions.</sentence>
+<sentence id="s36">20 The form of implied waiver that Ms Rich seeks here to invoke is known as "issue waiver".</sentence>
+<sentence id="s37">In Mann v Carnell at [29] the majority of the High Court stated the governing principle concerning waiver of privilege as follows:
+ 
+ Waiver may be express or implied.</sentence>
+<sentence id="s38">Disputes as to implied waiver usually arise from the need to decide whether particular conduct is inconsistent with the maintenance of the confidentiality which the privilege is intended to protect.</sentence>
+<sentence id="s39">When an affirmative answer is given to such a question, it is sometimes said that waiver is "imputed by operation of law".</sentence>
+<sentence id="s40">This means that the law recognises the inconsistency and determines its consequences, even though such consequences may not reflect the subjective intention of the party who has lost the privilege.</sentence>
+<sentence id="s41">... What brings about the waiver is the inconsistency, which the courts, where necessary informed by considerations of fairness, perceive, between the conduct of the client and maintenance of the confidentiality; not some overriding principle of fairness operating at large.</sentence>
+<sentence id="s42">(Citation omitted) 
+ 
+
+21 In Commissioner of Taxation v Rio Tinto Ltd [2006] FCAFC 86 ; (2006) 151 FCR 341 the Full Court gave careful consideration to modern authorities, including recent judgments of the Full Court of this Court, on issue waiver.</sentence>
+<sentence id="s43">It is not necessary for me to refer extensively to what their Honours there said as they summarised their conclusions at [60]-[61].</sentence>
+<sentence id="s44">At [60] their Honours emphasised that the authorities reveal that whether or not privilege has been waived will in every case depend very much on the particular circumstances of the case.</sentence>
+<sentence id="s45">At [61] their Honours identified the governing principle in the following way:
+ 
+ Both before and after Mann , the governing principle required a fact-based inquiry as to whether, in effect, the privilege holder had directly or indirectly put the contents of an otherwise privileged communication in issue in litigation, either in making a claim or by way of defence.</sentence>
+<sentence id="s46">In DSE [ie DSE (Holdings) Pty Ltd v Intertan Inc [2003] FCA 384 ; (2003) 127 FCR 499] [58], Allsop J put the matter somewhat more descriptively, saying waiver arises when 
+ 
+ 
+ 
+ "the party entitled to the privilege makes an assertion (express or implied), or brings a case, which is either about the contents of the confidential communication or which necessarily lays open the confidential communication to scrutiny and, by such conduct, an inconsistency arises between the act and the maintenance of the confidence, informed partly by the forensic unfairness of allowing the claim to proceed without disclosure of the communication" (emphasis in original).</sentence>
+<sentence id="s47">
+ 
+ 
+ 
+
+22 A "fact based inquiry" as to whether the respondents have put the contents of their legal advice in issue in this litigation must start with recognition that Ms Rich has (appropriately) pleaded her claim of victimisation in language that follows closely the language of s 94(2) of the Sex Discrimination Act .</sentence>
+<sentence id="s48">She has alleged that Mr Harrington, the Management and the Board imposed access restrictions on her on one or more of five grounds identified in s 94(2).</sentence>
+<sentence id="s49">23 By para 77 of the Defence the respondents have, in effect, admitted the imposition of the access restrictions but denied that they were imposed on any of the grounds identified in s 94(2).</sentence>
+<sentence id="s50">By paras 78A-78E the respondents expand on that denial by identifying the conduct of Ms Rich that they allege constituted the basis for the grounds on which the access restrictions were imposed.</sentence>
+<sentence id="s51">In the circumstances, I conclude that the preferable understanding of para 78F of the Defence (which is set out in [13] above) is that it asserts no more than that the imposition and confirmation of the access restrictions were a genuine response (as opposed to a contrived response) to the matters identified in paras 78A-78E and that response was reasonable and in the best interests of PwC.</sentence>
+<sentence id="s52">24 So understood, s 78F of the Defence does not raise any questions of reliance on legal advice.</sentence>
+<sentence id="s53">While the respondents have (appropriately) gone beyond mere denial of Ms Rich's allegations, they have not done so in a way that gives rise to any inconsistency between their conduct and the maintenance of the confidentiality of their legal advice.</sentence>
+<sentence id="s54">The additional material pleaded by them does not put the content of their legal advice in issue by pleading their state of mind in a way that invokes reliance on the content of legal advice; rather it identifies conduct of Ms Rich to which the respondents assert that the access restrictions were a genuine response.</sentence>
+<sentence id="s55">25 The above factual findings mean that it is appropriate for me to follow the approach adopted by Allsop J in DSE (Holdings) Pty Ltd v Intertan Inc [2003] FCA 384 ; (2003) 127 FCR 499 at [115] .</sentence>
+<sentence id="s56">His Honour there rejected a contention that by denying an allegation as to their state of mind, the respondents had put in issue their state of mind and, to the extent that the respondents received legal advice which might have contributed to the state of mind asserted by them, they had waived privilege on the advice.</sentence>
+<sentence id="s57">At [121] his Honour noted that his views were in conformity with those of Wheeler J in Commonwealth v Ternwood Holdings Pty Ltd [2002] WASC 107 at 10 where her Honour said:
+ 
+ ... it is the conduct of the party who possesses the privilege which is capable of waiving it.</sentence>
+<sentence id="s58">It is not apparently open to another party to litigation to force waiver of a party's legal professional privilege by making assertions about, or seeking to put in issue, that party's state of mind.</sentence>
+<sentence id="s59">
+
+26 For the above reasons I reject the claim that the respondents have waived privilege in documents recording legal advice to the Management, and requests for such advice, by putting in issue their state of mind by their plea in para 78F of the Defence.</sentence>
+<sentence id="s60">Express Waiver 
+ 
+27 Ms Rich additionally contended that the letter dated 19 April 2005 effected an express waiver of client legal privilege with respect to all documents in which the respondents' external legal advice to that date is recorded.</sentence>
+<sentence id="s61">28 The parties were in agreement that the appropriate test to be applied in determining whether or not the respondents have waived privilege in the external legal advice referred to in the letter of 19 April 2005 is whether they have in effect disclosed the substance or conclusion of that advice.</sentence>
+<sentence id="s62">The test was expressed this way by Gyles J, with whom Tamberlin J agreed, in Bennett v Chief Executive Officer of the Australian Customs Service [2004] FCAFC 237 ; (2004) 140 FCR 101 at [65] where his Honour said:
+ 
+ ...</sentence>
+<sentence id="s63">The voluntary disclosure of the gist or conclusion of the legal advice amounts to waiver in respect of the whole of the advice to which reference is made including the reasons for the conclusion.</sentence>
+<sentence id="s64">
+
+29 At [68] his Honour, after referring to Australian Unity Health Ltd v Private Health Insurance Administration Council [1999] FCA 1770 ; Ampolex Ltd v Perpetual Trustee (Canberra) Ltd (1996) 40 NSWLR 12; Ampolex Ltd v Perpetual Trustee Co (Canberra) Ltd [1996] HCA 15 ; (1996) 137 ALR 28 at 34; [1996] HCA 15 ; 70 ALJR 603 at 607 per Kirby J; Adelaide Steamship Company Ltd v Spalvins (1998) 81 FCR 360 at 366---367; BT Australasia Pty Ltd v State of New South Wales (No 7) (1998) 153 ALR 722 at 743---744; BT Australasia Pty Ltd v State of New South Wales (No 8) (1998) 154 ALR 202 at 207 and Mann v Carnell observed:
+ 
+ ...</sentence>
+<sentence id="s65">The test looks to inconsistency between the disclosure that has been made by the client on the one hand and the purpose of confidentiality that underpins legal professional privilege on the other.</sentence>
+<sentence id="s66">It is not a matter simply of applying general notions of fairness as assessed by the individual judge.</sentence>
+<sentence id="s67">The authorities to which I have referred show that it is well established that for a client to deploy the substance or effect of legal advice for forensic or commercial purposes is inconsistent with the maintenance of the confidentiality that attracts legal professional privilege.</sentence>
+<sentence id="s68">
+
+30 In his additional observations in Bennett v Chief Executive Officer of the Australian Customs Service , Tamberlin J at [13] said:
+ 
+ Various expressions are used in the formulation of principles relating to waiver of legal professional privilege, such as references to 'the substance', 'effect', or 'content' of the advice.</sentence>
+<sentence id="s69">The weight of the authorities, in my view, supports the conclusion that the disclosure of the conclusion reached in or course of action recommended by, an advice can amount to waiver of privilege in respect of the premises relating to the opinion which has been disclosed, notwithstanding that this reasoning is not disclosed.</sentence>
+<sentence id="s70">By way of illustration, if there is a disclosure that a client has been advised that interpretation 'A' is preferable to interpretation 'B' of a legislative provision, then even if there is no disclosure of the reasoning leading to that conclusion, the reasoning and content of the advice may be waived, including the factual premises and circumstances leading to that conclusion.</sentence>
+<sentence id="s71">
+
+His Honour had earlier observed that it "may perhaps have been different" if it had simply been asserted that, in effect, the client had taken legal advice and thereafter adopted a particular position.</sentence>
+<sentence id="s72">31 The critical question concerning the letter dated 19 April 2005 is thus its proper construction.</sentence>
+<sentence id="s73">For this reason only limited assistance is provided by consideration of the facts of other cases.</sentence>
+<sentence id="s74">It is necessary for me to form a view, after consideration of the whole of the letter of 19 April 2005, as to whether the respondents by that letter deployed the substance or effect of their external legal advice for forensic purposes.</sentence>
+<sentence id="s75">Assuming for present purposes the correctness of the proposition tentatively advanced by Tamberlin J (see [30] above), there would have been no waiver if the letter simply asserted, in effect, that PwC had taken legal advice and thereafter acted from 2 July 2004 in the way complained of by Ms Rich.</sentence>
+<sentence id="s76">32 In my view, a fair reading of the letter of 19 April 2005 leads to the conclusion that it was calculated to convey the message that the conduct of PwC from 2 July 2004 was undertaken on external advice and in accordance with that advice, and, for that reason, PwC did not believe that there had been any victimisation or other conduct for which compensation could properly be sought.</sentence>
+<sentence id="s77">This conclusion can, it seems to me, be tested by asking whether, were it the case that PwC had acted in disregard of its external advice, or were it the case that its belief that there had not been any victimisation or other conduct for which compensation could properly be sought was inconsistent with its external advice, would the letter have been misleading?</sentence>
+<sentence id="s78">In my view, it is plain that it would have been.</sentence>
+<sentence id="s79">The statement that PwC had "acted at all times with the benefit of external advice" was apparently made for the purpose of fortifying the claim that it had not engaged in victimisation, or in other conduct for which compensation could properly be sought.</sentence>
+<sentence id="s80">Implicit in the calling-in-aid of the external legal advice for this purpose was the claim that the external legal advice supported the conduct of PwC.</sentence>
+<sentence id="s81">33 I therefore reject the submission of the respondents that the letter does not disclose the substance or conclusion of the external advice received by the respondents and that the statement in the letter reproduced in [18] above amounts to a simple assertion that the client has taken legal advice and has acted with the benefit of it.</sentence>
+<sentence id="s82">34 For the above reasons I find that by the letter of 19 April 2005 the respondents disclosed the gist or conclusion of the external legal advice to which the letter refers.</sentence>
+<sentence id="s83">I therefore conclude that they thereby waived client legal privilege in that advice.</sentence>
+<sentence id="s84">The waiver does not extend to advice other than external legal advice.</sentence>
+<sentence id="s85">Nor does it extend to external legal advice received after the date of the letter.</sentence>
+<sentence id="s86">ADVICE FROM OFFICE OF GENERAL COUNSEL 
+ 
+35 Ms Rich challenged the respondents' claim for client legal privilege in respect of the legal advice provided by persons comprising OGC on the basis that the relationship between the respondents and OGC is not such as to give rise to the privilege.</sentence>
+<sentence id="s87">The Need for Independence 
+ 
+36 In Waterford Mason and Wilson JJ, in giving consideration to whether it was open to the Commonwealth to claim legal professional privilege in respect of legal advice obtained from employed solicitors within Government, observed at p 62:
+ 
+ To our minds it is clearly in the public interest that those in government who bear the responsibility of making decisions should have free and ready confidential access to their legal advisers.</sentence>
+<sentence id="s88">Whether in any particular case the relationship is such as to give rise to the privilege will be a question of fact.</sentence>
+<sentence id="s89">It must be a professional relationship which secures to the advice an independent character notwithstanding the employment.</sentence>
+<sentence id="s90">
+
+37 Brennan J in Waterford similarly stressed the need for the legal adviser to be independent at p 70 where his Honour said:
+ 
+ The purpose of legal professional privilege is to facilitate the seeking and giving of legal advice and thereby to ensure that the law be applied and litigation be properly conducted ...</sentence>
+<sentence id="s91">If the purpose of the privilege is to be fulfilled, the legal adviser must be competent and independent.</sentence>
+<sentence id="s92">Competent, in order that the legal advice be sound and the conduct of litigation be efficient; independent, in order that the personal loyalties, duties or interests of the adviser should not influence the legal advice which he gives or the fairness of his conduct of litigation on behalf of his client.</sentence>
+<sentence id="s93">If a legal adviser is incompetent to advise or to conduct litigation or if he is unable to be professionally detached in giving advice or in conducting litigation, there is an unacceptable risk that the purpose for which privilege is granted will be subverted.</sentence>
+<sentence id="s94">(Citations omitted) 
+ 
+
+I interpolate that no issue of incompetence arises in this case.</sentence>
+<sentence id="s95">38 Although Brennan J expressed a narrower view than Mason and Wilson JJ on the question of when legal professional privilege attaches to confidential professional communications between government agencies and salaried legal officers, their Honours were in agreement as to the need in every case for the legal adviser to be "independent" (see also Deane J at p 80).</sentence>
+<sentence id="s96">See also Alfred Crompton Amusement Machines Ltd v Customs and Excise Commissioners (No 2) [1972] 2 QB 102 per Lord Denning MR at 129.</sentence>
+<sentence id="s97">39 I do not understand the other members of the High Court in Waterford to have suggested a different rationale for the requirement of independence from that identified by Brennan J in the above passage.</sentence>
+<sentence id="s98">His Honour's reference to professional detachment is consistent with the ordinary meaning of "independent".</sentence>
+<sentence id="s99">The Macquarie Dictionary (online version) relevantly defines "independent" in the following ways:
+ 
+ 
+ 1. not influenced by others in matters of opinion, conduct, etc; thinking or acting for oneself: an independent person 
+ 2. not subject to another's authority or jurisdiction; autonomous, free.</sentence>
+<sentence id="s100">3. not influenced by the thought or action of others;
+ independent research .....
+ 
+ 
+
+The Oxford English Dictionary defines "independent" in a comparable way.</sentence>
+<sentence id="s101">40 The content of the requirement that a legal adviser be independent is understandably less stringent than the requirement that, for example, a judge be independent.</sentence>
+<sentence id="s102">However, it is informed by the same notions of absence of fear or favour.</sentence>
+<sentence id="s103">The concepts of independence and objective impartiality are closely linked ( The Queen (Brooke and Another) v Parole Board and Others [2007] EWHC 2036 (Admin) at [19]).</sentence>
+<sentence id="s104">An independent legal adviser is one who can bring a disinterested mind to bear on the subject matter of the legal advice.</sentence>
+<sentence id="s105">In the words of Brennan J in Waterhouse , what is required is a legal adviser who is able to be "professionally detached" in giving the advice.</sentence>
+<sentence id="s106">41 Ms Rich submitted, in effect, that (a) the independence of legal advice provided by OGC could not rise above the independence of the person who holds the position of General Counsel because that person supervises, and carries responsibility for, the work of OGC; and (b) since at all relevant times General Counsel has been a partner in PwC, OGC's legal advice has not been independent because General Counsel has been both legal adviser and client.</sentence>
+<sentence id="s107">I have not found it necessary to form a concluded view as to the validity of the second part of this broad submission although the first part seems to me to be correct.</sentence>
+<sentence id="s108">For present purposes it is sufficient for me to reach a view on whether, having regard to the nature of the dispute between Ms Rich and PwC that forms the subject matter of this proceeding, the relationship between OGC and PwC was a professional relationship which secured OGC's advice an independent character notwithstanding that General Counsel, and one other senior solicitor in OGC, were partners in PwC.</sentence>
+<sentence id="s109">42 Ms Rich did not argue that a salaried, or in-house lawyer, necessarily lacks the independence necessary for client legal privilege to attach to his or her advice.</sentence>
+<sentence id="s110">Rather she placed reliance on the approach adopted by Graham J in Seven Network Ltd v News Ltd (2005) 225 ALR 672 at [15] where his Honour said:
+ 
+ In my opinion, an in-house lawyer will lack the requisite measure of independence if his advice is at risk of being compromised by virtue of the nature of his employment relationship with his employer.</sentence>
+<sentence id="s111">On the other hand, if the personal loyalties, duties and interests of the in-house lawyer do not influence the professional legal advice which he gives, the requirement for independence will be satisfied.</sentence>
+<sentence id="s112">
+
+43 Graham J has more recently adopted the same approach in Telstra at [35].</sentence>
+<sentence id="s113">In Telstra his Honour concluded at [36]-[39] that as no evidence had been adduced going to the independence of the relevant internal legal advisers no sufficient claim for legal professional privilege had been made.</sentence>
+<sentence id="s114">I reject the submission of Ms Rich that the respondents in this case have similarly adduced no real evidence going to the independence of OGC.</sentence>
+<sentence id="s115">I refer below to the evidence touching on the independence of OGC.</sentence>
+<sentence id="s116">44 In arguing that OGC was in a position to provide independent advice to them, the respondents placed weight on the following passages from the reasons for judgment of Tamberlin J in Seven Network Ltd v News Ltd [2005] FCA 142 concerning documents generated by an in-house counsel:
+ 
+ 
+ 4.</sentence>
+<sentence id="s117">The dominant purpose test has particular importance in relation to the position of in-house counsel because they may be in a closer relationship to the management than outside counsel and therefore more exposed to participation in commercial aspects of an enterprise.</sentence>
+<sentence id="s118">The courts recognise that being a lawyer employed by an enterprise does not of itself entail a level of independence.</sentence>
+<sentence id="s119">Each employment will depend on the way in which the position is structured and executed.</sentence>
+<sentence id="s120">For example, some enterprises may treat the in-house adviser as concerned solely in advising and dealing with legal problems.</sentence>
+<sentence id="s121">As a matter of commercial reality, however, both internal and external legal advisers will often be involved in expressing views and acting on commercial issues.</sentence>
+<sentence id="s122">
+ 
+ 
+ 
+ 
+ 
+ 5.</sentence>
+<sentence id="s123">The authorities recognise that in order to attract privilege the legal adviser should have an appropriate degree of independence so as to ensure that the protection of legal professional privilege is not conferred too widely.</sentence>
+<sentence id="s124">Commercial reality requires recognition by the courts of the fact that employed legal advisers not practising on their own account may often be involved to some extent in giving advice of a commercial nature related to the giving of legal advice.</sentence>
+<sentence id="s125">Such involvement does not necessarily disqualify the documents relating to that role from privilege.</sentence>
+<sentence id="s126">The matter is necessarily one of fact and degree and involves a weighing of the relative importance of the identified purposes.</sentence>
+<sentence id="s127">
+ 
+ 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ 
+ 38.</sentence>
+<sentence id="s128">...</sentence>
+<sentence id="s129">I am cognisant of the fact that there is no bright line separating the role of an employed legal counsel as a lawyer advising in-house and his participation in commercial decisions.</sentence>
+<sentence id="s130">In other words, it is often practically impossible to segregate commercial activities from purely "legal" functions.</sentence>
+<sentence id="s131">The two will often be intertwined and privilege should not be denied simply on the basis of some commercial involvement.</sentence>
+<sentence id="s132">In the present case, however, I am persuaded that Mr Philip was actively engaged in the commercial decisions to such an extent that significant weight must be given to this participation.</sentence>
+<sentence id="s133">In many circumstances where in-house counsel are employed there will be considerable overlap between commercial participation and legal functions and opinions.</sentence>
+<sentence id="s134">As can be seen from the specific rulings below, I am not persuaded that in this proceeding Mr Philip was acting in a legal context or role in relation to a number of the documents in respect of which privilege was claimed.</sentence>
+<sentence id="s135">Nor am I persuaded that the privilege claims were based on an independent and impartial legal appraisal.</sentence>
+<sentence id="s136">
+ 
+ 
+ 
+
+45 In reliance on the above passages the respondents submitted as follows:
+ 
+ A reading of these passages ... shows that when Tamberlin J was referring to 'independence', his Honour was focussing specifically on the issue of whether the in-house lawyer is, in generating the particular communication or document, performing a legal function distinct from (that is, independent of) the commercial activities or management of the client.</sentence>
+<sentence id="s137">That is, 'independence' has to be determined having regard to whether or not the person in question was performing a legal function (rather than a commercial or management function) in making a communication or preparing a document.</sentence>
+<sentence id="s138">The decision is not authority for the proposition that an in-house lawyer is, prima facie, someone who is not independent of the client.</sentence>
+<sentence id="s139">Nor is it authority for the proposition that, where there is some issue about independence in the sense outlined above, none of the documents generated by the in-house counsel can attract privilege.</sentence>
+<sentence id="s140">Instead, as the analysis of the documents generated by Mr Phillip shows, privilege can still be maintained in all documents generated in a legal context, or which embody or refer or relate to legal advice.</sentence>
+<sentence id="s141">
+
+46 I am not persuaded that Tamberlin J in Seven Network Ltd v News Ltd intended to conflate the criteria for a claim of client legal privilege in the way suggested by the above submissions.</sentence>
+<sentence id="s142">The requirement that the legal adviser be independent is principally concerned with the nature of the relationship between the client who claims client legal privilege and the legal adviser.</sentence>
+<sentence id="s143">The requirement that the communication be made for the dominant purpose of obtaining legal advice or to conduct or aid in the conduct of litigation in reasonable prospect is concerned with the object and subject matter of the communication.</sentence>
+<sentence id="s144">Each criterion must be satisfied before a claim for client legal privilege will succeed.</sentence>
+<sentence id="s145">The Operation of OGC 
+ 
+47 I therefore turn to consider the evidence concerning the nature of the relationship between OGC, Ms Rich and the respondents.</sentence>
+<sentence id="s146">The person directly responsible for the legal advice and other legal services provided by OGC is the holder of the position of General Counsel.</sentence>
+<sentence id="s147">At all relevant times the holder of the position of General Counsel has been a partner in PwC.</sentence>
+<sentence id="s148">Elizabeth Jane Dibbs, solicitor, was General Counsel for the period from 1 July 1998 until her retirement in December 2004.</sentence>
+<sentence id="s149">At all times while she was General Counsel she held a current practicing certificate and each of the solicitors in OGC also held a current practicing certificate.</sentence>
+<sentence id="s150">Ms Dibbs' successor as General Counsel was Meredith Kim Beattie, solicitor.</sentence>
+<sentence id="s151">Prior to joining PwC on 8 February 2005, Ms Beattie had been a partner in the legal firm Blake Dawson Waldron for almost 16 years.</sentence>
+<sentence id="s152">She has maintained her practicing certificate as General Counsel and each of the solicitors in OGC continues to hold a practicing certificate.</sentence>
+<sentence id="s153">48 I accept the evidence of Ms Dibbs and Ms Beattie concerning the general functioning of OGC.</sentence>
+<sentence id="s154">Their evidence demonstrated that OGC operates as a separate functional unit with PwC.</sentence>
+<sentence id="s155">Both Ms Dibbs and Ms Beattie have regarded it as essential that OGC operate on a professional basis, providing professional legal advice and services to PwC with the same level of objectivity as would external lawyers.</sentence>
+<sentence id="s156">Separate files are opened within OGC and marked accordingly.</sentence>
+<sentence id="s157">Working documents and current files are either kept in a separate and secure OGC area or in lawyers' offices capable of being locked.</sentence>
+<sentence id="s158">OGC is separately located on an administrative floor away from the business units of PwC.</sentence>
+<sentence id="s159">Neither Ms Dibbs nor Ms Beattie has held any management or executive positions at PwC, nor have any of the other solicitors in OGC.</sentence>
+<sentence id="s160">Nonetheless, Ms Howard, the Deputy General Counsel, has fulfilled the role of secretary to the Board of partners and was (perhaps is) a member of the Partnership Amendment Review Committee.</sentence>
+<sentence id="s161">In both capacities Ms Howard's role has been to provide professional legal advice and legal services and incidental administrative services such as preparing agendas and collating papers.</sentence>
+<sentence id="s162">49 Under the supervision of each of Ms Dibbs and Ms Beattie, OGC has provided legal advice and legal services to PwC on all issues that touched the firm or required legal advice including regulatory enquiries, litigation, contract reviews, transactions and, when necessary and appropriate, briefing external lawyers and counsel to support OGC in its role and to provide external legal advice and services.</sentence>
+<sentence id="s163">Ms Rich's Allegations 
+ 
+50 Ms Dibbs learned shortly after 2 July 2004 that Mr Harrington had received a letter of that date from Ms Rich.</sentence>
+<sentence id="s164">She received a copy of the letter and read it.</sentence>
+<sentence id="s165">She considered it her role to advise PwC, with the benefit of external legal advice, as to the appropriate manner in which to address the complaints and the serious matters raised by the letter.</sentence>
+<sentence id="s166">By the end of July 2004 Ms Dibbs held the view that, unless the matter could be resolved to Ms Rich's satisfaction, there was a real prospect that the matter would end up in some sort of dispute proceeding.</sentence>
+<sentence id="s167">I infer that by the end of July 2004 Ms Dibbs was of the view that litigation between PwC and Ms Rich concerning some or all of Ms Rich's complaints as recorded in the letter of 2 July 2004 was in reasonable prospect.</sentence>
+<sentence id="s168">I also infer that Ms Beattie formed the same view at the time that she joined PwC or shortly thereafter.</sentence>
+<sentence id="s169">51 The parties accept that the dispute between them was effectively crystallised by Ms Rich's letter of 2 July 2004.</sentence>
+<sentence id="s170">By that letter Ms Rich indicated that she sought PwC's co-operation "in trying to reform and rehabilitate the firm".</sentence>
+<sentence id="s171">Attached to the letter was a 23 page paper identifying issues that Ms Rich asserted required resolution.</sentence>
+<sentence id="s172">52 The executive summary of the paper stated that a number of significant issues arose prior to, during and after a mediation process in which Ms Rich and Mr Stuart Edwards had been involved.</sentence>
+<sentence id="s173">It went on:
+ 
+ Some of these issues relate directly to the working relationship between Stuart and I, others concern broader aspects of the culture of Pricewaterhouse Coopers ( "firm" ) and the Tax and Legal Services ( "TLS" ) Leadership, and the firm's risk management procedures.</sentence>
+<sentence id="s174">However, in my view, all of the issues require the firm's attention and steps be taken by the firm to resolve the situation.</sentence>
+<sentence id="s175">
+
+53 Part B of the paper, which is headed "Culture of Bullying/Discrimination/ Harassment", contained assertions that the conduct of senior individuals in the firm demonstrated that there was systematic bullying, discrimination and harassment in PwC, particularly within TLS.</sentence>
+<sentence id="s176">Part C of the paper, which is headed "Inadequate Processes/Appeal Procedures", asserted that there were a number of decisions which business unit leaders at PwC have authority to make which are not subject to adequate guidance processes or appeal procedures despite being highly discretionary and capable of having a significant impact on partners and employees.</sentence>
+<sentence id="s177">Part F of the paper, which is headed "Recommendations and Way Forward", included a recommendation that steps be taken by PwC to facilitate a "turn-around" in the firm's culture.</sentence>
+<sentence id="s178">The steps suggested included the establishment of a steering committee to guide an external inquiry into the culture of the firm and to establish processes to bring about reform firm-wide.</sentence>
+<sentence id="s179">This part of the paper also recommended the introduction by PwC of an enhanced risk management process to assist in preventing departure from the firm's values and to facilitate the raising of, and the fair processing of, value issues and grievances.</sentence>
+<sentence id="s180">54 It can be seen from the above that the subject matter of Ms Rich's complaints concerning PwC, and thus the likely subject matter of any litigation between Ms Rich and the respondents, was of a character quite different from the subject matter of legal advice or legal services that OGC ordinarily provided.</sentence>
+<sentence id="s181">It was far removed from, for example, commenting on commercial documents to which PwC might become a party, acting for the firm on the sale or acquisition of a business, representing the firm in dealing with regulators or appearing for partners and staff at hearings conducted by regulators, to mention some of the matters identified by Ms Beattie as being the kinds of legal advice and legal services ordinarily provided by solicitors in OGC.</sentence>
+<sentence id="s182">55 The litigation in prospect was also far removed from the kind of litigation in which PwC might ordinarily be involved in that it did not relate to any professional services provided by PwC or any commercial activity in which the firm had engaged.</sentence>
+<sentence id="s183">Rather it concerned matters wholly internal to the firm; that is, the firm's culture, its internal decision-making processes and allegations about the way in which at least some of the partners of the firm related to each other.</sentence>
+<sentence id="s184">More specifically, it involved allegations made by one partner of PwC against other partners in the firm.</sentence>
+<sentence id="s185">The allegations were of inappropriate conduct of a sexual nature by senior partners of the firm, as well as allegations against a number of partners of bullying, harassment and discrimination, and acquiescence by the most senior leadership of the firm in such conduct.</sentence>
+<sentence id="s186">Conclusion 
+ 
+56 As mentioned above, it is not necessary for me to reach a conclusion on whether General Counsel and other solicitors working in OGC will ordinarily have the independence necessary to enable PwC to enjoy client legal privilege in respect of confidential communications between PwC and OGC made for the dominant purpose of obtaining legal advice or to conduct or aid in the conduct of litigation in reasonable prospect.</sentence>
+<sentence id="s187">It may be that as in-house lawyers, including corporate counsel, play an increasingly important role in advising and providing other legal services to their employers and firms, the common law has come to accept that the requisite independence can be ensured by measures of the kind adopted by OGC (see [48] above).</sentence>
+<sentence id="s188">This question can be left to be decided another day.</sentence>
+<sentence id="s189">57 The question for present determination is whether the measures described by Ms Dibbs and Ms Beattie were sufficient to enable OGC to give independent advice to PwC concerning the allegations and claims advanced by one partner, Ms Rich, against other partners in the firm.</sentence>
+<sentence id="s190">58 In reaching a decision as to whether the relationship between OGC and the respondents was such as to secure to OGC's advice concerning Ms Rich's allegations and claims an independent character, I am not required to speculate about how General Counsel, or other solicitors in OGC, in fact approached the giving of that advice ( Ebner v Official Trustee in Bankruptcy [2000] HCA 63 ; (2000) 205 CLR 337 per Gleeson CJ, McHugh, Gummow and Hayne JJ at [7]).</sentence>
+<sentence id="s191">It may be that General Counsel and each solicitor in OGC was fully conscious of, and capable of avoiding, the insidious influences of factors such as loyalty to individual partners and to the firm including its leadership, concern for the reputation of the firm and the reputations of individual partners in the firm and other like matters.</sentence>
+<sentence id="s192">The critical question is whether the relationship between OGC and the respondents with respect to Ms Rich's allegations was one of professional detachment.</sentence>
+<sentence id="s193">59 To answer the above question it is necessary to give consideration to the nature of Ms Rich's allegations and the significance that they might have for General Counsel and OGC generally.</sentence>
+<sentence id="s194">As mentioned above, they were made by one partner against other partners.</sentence>
+<sentence id="s195">It seems uncontroversial that they were of a kind capable of tarnishing the reputation of the firm of which OGC is a part.</sentence>
+<sentence id="s196">They cast aspersions of a personal, rather than a purely professional kind, on General Counsel's partners including those partners who comprised the leadership of her firm.</sentence>
+<sentence id="s197">General Counsel and the Deputy General Counsel were themselves likely respondents in the litigation in prospect.</sentence>
+<sentence id="s198">Because of its likely subject matter, that litigation, should it eventuate, could reasonably be expected to attract a high level of media interest of a relatively sensational kind.</sentence>
+<sentence id="s199">For these reasons I conclude that Ms Rich's allegations were by reason of their content inherently likely to engage the personal loyalties and the duties and interests of all partners of PwC --- and probably many employees of the firm as well.</sentence>
+<sentence id="s200">60 I therefore conclude that, having regard to the nature and significance of the allegations raised by Ms Rich in her letter of 2 July 2004, the relationship between OGC and the respondents was not such as to secure the advice of OGC concerning Ms Rich's allegations the objectively independent character necessary to support the respondents' claim of client legal privilege.</sentence>
+<sentence id="s201">OGC was not in a position to give professionally detached advice to the respondents concerning allegations of the character of those made by Ms Rich.</sentence>
+<sentence id="s202">Waiver 
+ 
+61 Ms Rich submitted that, in any event, the respondents waived privilege in the work undertaken by OGC for the period up to 3 November 2004.</sentence>
+<sentence id="s203">By a letter of that date Mr Harrington wrote to Ms Rich stating that:
+ 
+ Based on the work done by OGC my preliminary view is that the allegations of bullying, victimisation or harassment appear to me to be without foundation as are your complaints that your career path has been prejudiced.</sentence>
+<sentence id="s204">
+
+62 It is not strictly necessary for me to address this submission.</sentence>
+<sentence id="s205">I have concluded that the work of OGC did not attract client legal privilege.</sentence>
+<sentence id="s206">However, if I am wrong in this regard, for the reasons given above in respect of the letter dated 2 July 2005, I conclude that by the letter of 3 November 2004 the respondents waived privilege in the work undertaken by OGC to that date.</sentence>
+<sentence id="s207">COMMON INTEREST BETWEEN MR EDWARDS AND PWC 
+ 
+63 Mr Edwards, the fourteenth respondent, was the partner with the overall responsibility for the Transfer Pricing Group in which Ms Rich worked.</sentence>
+<sentence id="s208">The Transfer Pricing Group formed part of TLS.</sentence>
+<sentence id="s209">Ms Rich reported to Mr Edwards until June 2004.</sentence>
+<sentence id="s210">Her primary allegations of sexual discrimination are made against Mr Edwards.</sentence>
+<sentence id="s211">64 It is not disputed that some time in late May or June 2004 Mr Edwards retained external counsel to advise him personally concerning Ms Rich's allegations.</sentence>
+<sentence id="s212">His external counsel was not retained to advise PwC or any person within PwC other than Mr Edwards.</sentence>
+<sentence id="s213">Nonetheless, he disclosed the advice received by him, or some of it, to others within PwC.</sentence>
+<sentence id="s214">The issue for my determination is whether Mr Edwards thereby waived his client legal privilege in that advice.</sentence>
+<sentence id="s215">He will not have done so if there was a commonality of interest between Mr Edwards and those to whom he disclosed the advice such that the disclosure did not constitute a waiver of privilege or, alternatively, if the disclosure occurred in circumstances inconsistent with waiver of privilege.</sentence>
+<sentence id="s216">65 Robert Buchanan, a solicitor in the employ of the firm Maurice Blackburn which is retained by Mr Edwards, gave evidence of certain matters of which Mr Edwards has informed him.</sentence>
+<sentence id="s217">Those matters included that by May 2004 he (ie Mr Edwards) was concerned that Ms Rich would bring proceedings against PwC and himself as a partner of PwC and that he disclosed legal advice obtained by him to the first respondent ---
+ 
+ ... for the primary purpose of helping PwC to respondent to anticipated litigation from Ms Rich and to complains made within PwC by Ms Rich against PwC and Mr Edwards.</sentence>
+<sentence id="s218">
+
+66 I accept this hearsay evidence as to the purpose for which Mr Edwards disclosed his legal advice to the first respondent.</sentence>
+<sentence id="s219">It is consistent with what might be expected; namely that at this time Mr Edwards saw his interests as being advanced by PwC responding to complaints made by Ms Rich in accordance with advice given to him by lawyers who had received their instructions from him and whose duty was to act in his best interest.</sentence>
+<sentence id="s220">67 As Giles J observed in Network Ten Ltd v Capital Television Holdings Ltd (1995) 36 NSWLR 275 at 279:
+ 
+ If two parties with a common interest exchange information and advice relating to that interest, the documents or copy documents containing that information will be privileged from production in the hands of each; ...
+ 
+
+68 However, two persons interested in a particular question will not have a common interest for the purpose of common interest privilege if their individual interests in the question are selfish and potentially adverse to each other; in such a case there will not be the necessary identity of interest ( Ampolex Ltd v Perpetual Trustee Co (Canberra) Ltd (1995) 37 NSWLR 405 at p 410).</sentence>
+<sentence id="s221">69 It is accepted by Ms Rich that, once she instituted a legal proceeding against the respondents, Mr Edwards shared a common interest in the outcome of that litigation with all the other respondents.</sentence>
+<sentence id="s222">However, she contended that the evidence revealed that earlier than this time Mr Edwards had a selfish interest in protecting his own position within PwC.</sentence>
+<sentence id="s223">Mr Edwards' Interest 
+ 
+70 The relevant evidence can be summarised as follows.</sentence>
+<sentence id="s224">In a file note dated 18 June 2004 Mr Edwards recorded that he had received some "mixed messages from PK [Paul Koenig, a respondent] and NW [Neil Wilson, a respondent] over the last two weeks" and did not feel that he had been "handled well in the process".</sentence>
+<sentence id="s225">He further recorded that he took issue with being told by Neil that he was not "squeaky clean".</sentence>
+<sentence id="s226">He recorded in respect of the "mixed messages" that:
+ 
+ I advised that 2 weeks ago, Neil advised that my responsibility rating would not suffer if I stood down as TP Leader, yet last Tuesday, Paul said, they would only suffer a little ...</sentence>
+<sentence id="s227">I also said, last Tuesday, Neil said, SJE has only 2 years to go until retirement yet Neil is well aware of my plans to work till 2008 and possibly beyond.</sentence>
+<sentence id="s228">...</sentence>
+<sentence id="s229">I said, I went to meet with Paul and Neil face-to-face on some of these matters (PK is overseas at present) to discuss how we take this forward (and confirm comments as to SJE personal position).</sentence>
+<sentence id="s230">
+
+71 On 23 June 2004 Mr Edwards emailed Mr Wilson confirming his concerns about his personal position and his sense of having suffered "not insignificant damage".</sentence>
+<sentence id="s231">On the same day Mr Farmer, also a respondent, emailed Mr Wilson stating:
+ 
+ Bottom line, I can only see this working if either CR leaves or SE steps down.</sentence>
+<sentence id="s232">
+
+72 On 9 August 2004 Mr Edwards sent an email to Mr Harrington in which he referred to having declined to draft an announcement to the partnership advising of his "removal" as leader of the transfer pricing group.</sentence>
+<sentence id="s233">He also stated:
+ 
+ Tony, reflecting upon our conversation last Friday, the various events in relation to the matter in issue and the manner in which this 'drama' is unfolding, I have concluded as follows: first, I accept your offer that the firm meet my attendant legal costs in dealing with this matter; and second, I request that a person or persons independent of the firm be engaged to conduct the investigation to which you referred during the course of our meeting.</sentence>
+<sentence id="s234">
+
+73 Having regard to the above file notes and emails, I accept that by 8 June 2004 Mr Edwards believed that his personal reputation, as opposed to that of PwC, was at stake and that there was a risk that he would suffer not only damage to his reputation but also financial harm if PwC were to ask him to stand aside from the position that he then held so that Ms Rich did not have to report to him.</sentence>
+<sentence id="s235">74 The respondents argued that nonetheless, as litigation privilege arises from the time that there is a real prospect of a proceeding, any communications between the respondents relating to their common interest in the litigation in prospect is privileged.</sentence>
+<sentence id="s236">PwC's Interest 
+ 
+75 As mentioned above, I accept that litigation between Ms Rich and the respondents was, and was recognised by all concerned to be, a real prospect from 2 July 2004.</sentence>
+<sentence id="s237">However, a complicating feature of the present case is that Ms Rich remained a partner in PwC until after she commenced the first of her proceedings in this Court on 4 October 2005.</sentence>
+<sentence id="s238">Moreover, in the period preceding 4 October 2005 PwC was conducting an internal review of the complaints made by Ms Rich.</sentence>
+<sentence id="s239">Assuming, as it is for present purposes appropriate to do, that the review was bona fide , the interests of the respondents as a group were not then wholly aligned with those of Mr Edwards.</sentence>
+<sentence id="s240">This was recognised by a letter sent on 23 December 2004 by Mallesons to Harmers which stated:
+ 
+ As you will appreciate, one partner raising allegations against other partners of PwC gives rise to a broad range of considerations ....</sentence>
+<sentence id="s241">If the allegations against one or more partners are eventually substantiated, then certain consequences may flow.</sentence>
+<sentence id="s242">If they are unsubstantiated, then certain and different consequences may flow.</sentence>
+<sentence id="s243">
+
+76 I therefore reject the submission that Mr Edwards and the other respondents were a paradigm case of common interest because they were partners in a single firm.</sentence>
+<sentence id="s244">While all partners in PwC (other than Ms Rich) had a common interest in successfully defending the litigation which it was anticipated that Ms Rich might institute, prior to the institution of any proceeding there were issues arising from Ms Rich's allegations in relation to which Mr Edwards had a selfish interest.</sentence>
+<sentence id="s245">The interest of PwC as a firm at that time was to conduct a fair review which included accepting the possibility that Ms Rich's allegations, or some of them, had substance.</sentence>
+<sentence id="s246">Mr Edwards' interest was in exonerating himself in respect of Ms Rich's allegations against him and in demonstrating that he was the appropriate person to hold the position of TP Leader.</sentence>
+<sentence id="s247">77 I conclude that, to the extent that Mr Edwards obtained legal advice concerning questions in which his interests were selfish, and potentially adverse to the interests of PwC, he and PwC did not share common interest privilege in that advice.</sentence>
+<sentence id="s248">Implied Obligations of Confidentiality 
+ 
+78 The respondents argued that, even if there were not a sufficient identity of interest between Mr Harrington and Mr Edwards, it does not automatically follow that the limited disclosure to Mr Harrington resulted in a waiver of privilege in the advice against the rest of the world.</sentence>
+<sentence id="s249">They placed reliance in particular on the majority judgment in Mann v Carnell at [30] where their Honours said:
+ 
+ In Goldberg v Ng this Court considered a case in which there was disclosure of a privileged communication to a third party, for a limited and specific purpose, and upon terms that the third party would treat the information disclosed as confidential.</sentence>
+<sentence id="s250">The Court was divided upon whether, in the circumstances of the case, privilege was waived.</sentence>
+<sentence id="s251">However, the reasoning of all members of the Court was inconsistent with the proposition that any voluntary disclosure to a third party necessarily waives privilege.</sentence>
+<sentence id="s252">No application was made on the present appeal to re-open Goldberg or any of the earlier authorities on the subject.</sentence>
+<sentence id="s253">In Goldberg , reference was made to the statement of Jordan CJ in Thomason v Campbelltown Municipal Council :
+ 
+ 
+ 
+ "The mere fact that a person on some one occasion chooses to impart to another or others advice which he has received from his solicitor indicates no intention on his part to waive his right to refuse on other occasions to disclose in evidence what that advice was, and supplies no sufficient reason for depriving him of a form of protection which the law has deemed it specially necessary to throw around communications between solicitor and client".</sentence>
+<sentence id="s254">(Citations omitted)
+ 
+ 
+
+79 Shortly before the publication of the High Court's judgment in Mann v Carnell , Sackville J had followed Goldberg v Ng in Australian Rugby Union Ltd v Hospitality Group Pty Ltd (1999) 165 ALR 253.</sentence>
+<sentence id="s255">At [44] his Honour said:
+ 
+ In my view, the mere fact that otherwise privileged communications at the meeting took place in the presence of persons who did not represent clients of [a legal firm], does not justify a conclusion that the ARU had expressly or intentionally waived privilege in those communications.</sentence>
+<sentence id="s256">The disclosure of the privileged communications was to a limited group, namely those attending the meeting.</sentence>
+<sentence id="s257">While there is no evidence of an express undertaking by the non-clients present at the meeting to preserve confidentiality, the circumstances suggest that the non-clients were under an implied obligation to respect the confidentiality of the communications at the meeting.</sentence>
+<sentence id="s258">
+
+80 Although Mr Edwards on 22 June 2004 disclosed to Helen Fazzino (apparently a partner or employee of PwC) a peripheral aspect of the legal advice received by him, the evidence does not show that Mr Edwards disclosed the substance of the advice received by him to anyone other than Mr Harrington and Ms Dibbs.</sentence>
+<sentence id="s259">Having regard to the evidence of Mr Buchanan described above and the circumstances relevantly prevailing at PwC, I am satisfied that each of Mr Harrington and Ms Dibbs was under an implied obligation to respect the confidentiality of Mr Edward's legal advice.</sentence>
+<sentence id="s260">Both of them may be assumed to have understood that there were strict limits on the extent to which they were free to disclose that advice to others without Mr Edward's approval.</sentence>
+<sentence id="s261">The evidence discloses that the advice, or aspects of it, were disclosed by Mr Harrington to Mr Rob Ward and Mr Patrick McKeon as well as Ms Dibbs.</sentence>
+<sentence id="s262">However, each of Mr Ward and Mr McKeon appear to have been senior partners in PwC who were involved in attempts to resolve the dispute between Ms Rich and Mr Edwards.</sentence>
+<sentence id="s263">Disclosure of Mr Edwards' legal advice to them was, it seems to me, within the ambit of the purpose for which the advice was disclosed to Mr Harrington and subject to the same implied restraint on further disclosure.</sentence>
+<sentence id="s264">81 I therefore accept that, notwithstanding the disclosure by Mr Edwards of his legal advice to Mr Harrington and Ms Dibbs, he has not waived his client legal privilege in that advice.</sentence>
+<sentence id="s265">A written record of the limited disclosure made by Mr Edwards to Ms Fazzino of one aspect of his legal advice has been published on a number of occasions.</sentence>
+<sentence id="s266">No claim of privilege can now be upheld in respect of that record.</sentence>
+<sentence id="s267">SUMMARY 
+ 
+82 As indicated above I have concluded:
+ 
+ (a) the respondents have waived client legal privilege in the external legal advice referred to in the letter from the respondents' solicitors to Ms Rich's solicitors dated 19 April 2005;
+ (b) the relationship between OGC and the respondents concerning Ms Rich's allegations was not of the independent character necessary to give rise to client legal privilege; and
+ (c) Mr Edwards has not waived client legal privilege in the legal advice obtained by him from external counsel.</sentence>
+<sentence id="s268">
+ FURTHER STEPS 
+ 
+83 I will hear counsel on a date to be fixed as to the orders appropriate to be made having regard to these reasons for judgment.</sentence>
+<sentence id="s269">I will at the same time hear counsel on whether it is necessary for the Court to examine any documents in respect of which client legal privilege has been claimed in order to determine the validity of the claim, and if so, whether any embarrassment to my position as docket judge might result from my conducting that examination.</sentence>
+<sentence id="s270">I certify that the preceding eighty-three (83) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Branson J.</sentence>
+<sentence id="s271">Associate:
+
+Dated: 13 December 2007
+
+ Counsel for the Applicant: Mr R Beech-Jones SC with Ms R Francois 
+ 
+ Solicitor for the Applicant: Harmers Workplace Lawyers 
+ 
+ Counsel for the Respondents (as defined in [1] above): Mr R McHugh SC with Mr S Nixon 
+ 
+ Solicitor for the Respondents (as defined in [1] above): Mallesons Stephen Jaques 
+ 
+ Counsel for the Fourteenth Respondent: Mr I S Wylie 
+ 
+ Solicitor for the Fourteenth Respondent: Maurice Blackburn 
+ 
+ Date of Hearing: 1 November 2007 
+ 
+ Date of Judgment: 13 December 2007 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1987.html 
+ 
+ </sentence>
+</sentences>
+</case>

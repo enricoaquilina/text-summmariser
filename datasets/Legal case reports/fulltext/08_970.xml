@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<case>
+<name>Edwards v Liquid Engineering 2003 Pty Ltd [2008] FCA 970 (26 June 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/970.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">whether post-contractual conduct is admissible on the question of what a contract means</catchphrase>
+<catchphrase "id=c1">relevance of the subjective intentions of the parties to a contract</catchphrase>
+<catchphrase "id=c2">whether contract may be formed where there is an agreement to agree as to price or other substantive term</catchphrase>
+<catchphrase "id=c3">whether silence or failure to object to an unsolicited offer may constitute acceptance</catchphrase>
+<catchphrase "id=c4">whether costs should be awarded in favour of applicant where application is dismissed as moot but would otherwise have been successful on the merits</catchphrase>
+<catchphrase "id=c5">estoppel</catchphrase>
+<catchphrase "id=c6">whether silence between intermittent threats of infringement may give rise to estoppel</catchphrase>
+<catchphrase "id=c7">whether equity will intervene when there is an adequate remedy at law</catchphrase>
+<catchphrase "id=c8">whether silence or failure to object to an unsolicited offer may give rise to an estoppel</catchphrase>
+<catchphrase "id=c9">whether wrongfully registered proprietor of a trade mark holds the mark on constructive trust for true owner</catchphrase>
+<catchphrase "id=c10">whether injunction should be granted where there is no showing of likelihood of future infringement</catchphrase>
+<catchphrase "id=c11">appeal from decision of registrar of trade marks that registered proprietor's name be removed from the register due to lack of intent to use the mark in good faith</catchphrase>
+<catchphrase "id=c12">whether appeal should be dismissed as moot where court cannot grant relief sought even if applicant is successful</catchphrase>
+<catchphrase "id=c13">how mark is to be defined</catchphrase>
+<catchphrase "id=c14">whether mark includes or is associated with an image or particular graphic representation</catchphrase>
+<catchphrase "id=c15">whether ownership rights with respect to a mark are limited to goods of the same description</catchphrase>
+<catchphrase "id=c16">infringement action based on deceptive similarity</catchphrase>
+<catchphrase "id=c17">whether side-by-side comparison is required</catchphrase>
+<catchphrase "id=c18">whether presence or absence of additional descriptive word or associated image will avoid finding of deceptive similarity where distinctive or essential feature of the mark is borrowed</catchphrase>
+<catchphrase "id=c19">whether evidence of intent to deceive raises rebuttable presumption of consumer confusion</catchphrase>
+<catchphrase "id=c20">ownership of unregistered mark</catchphrase>
+<catchphrase "id=c21">right to register</catchphrase>
+<catchphrase "id=c22">meaning of "person aggrieved" under s 88 of the trade marks act 1995 (cth)</catchphrase>
+<catchphrase "id=c23">power of court to direct amendment of register by substitution of registered proprietor's name with the applicant's</catchphrase>
+<catchphrase "id=c24">power and discretion of the court under ss 89 , 122 , 123 , and 124 of the trade marks act 1995 (cth) to refuse relief where a party would otherwise be liable for infringement</catchphrase>
+<catchphrase "id=c25">quantum</catchphrase>
+<catchphrase "id=c26">election</catchphrase>
+<catchphrase "id=c27">whether applicant must elect between damages and account of profits before the close of evidence in non-split trial</catchphrase>
+<catchphrase "id=c28">whether applicant has the burden of establishing the infringer's gross sales</catchphrase>
+<catchphrase "id=c29">whether respondent in non-split trial has burden of establishing costs incurred in relation to, including portion of general overhead reasonably attributable to, infringing goods</catchphrase>
+<catchphrase "id=c30">whether profits may be calculated using a measure of guesswork and estimation</catchphrase>
+<catchphrase "id=c31">contracts</catchphrase>
+<catchphrase "id=c32">costs</catchphrase>
+<catchphrase "id=c33">equity</catchphrase>
+<catchphrase "id=c34">trade marks</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 These trademark infringement and passing off proceedings have a long and unsatisfactory history.</sentence>
+<sentence id="s1">As will be seen in these reasons, from the outset of the litigation the issues have not been framed in a way that accurately identifies the dispute between the parties.</sentence>
+<sentence id="s2">This has resulted in excessive costs and consumption of Court and party resources which could have been avoided.</sentence>
+<sentence id="s3">2 With that preamble, I set out the background and circumstances of the case.</sentence>
+<sentence id="s4">The applicant in WAD 189 of 2007, Liquid Engineering 2003 Pty Ltd ("LE 2003"), alleges that by trading under the names "Liquideng Farm Supplies" and "Liquideng", the first and second respondents, William Michael Edwards ("Edwards") and Liquideng Farm Supplies Pty Ltd ("LFS"), have infringed LE 2003's trade mark registration No.</sentence>
+<sentence id="s5">760645 "Liquid Engineering".</sentence>
+<sentence id="s6">The same conduct is said also to constitute passing off and to constitute misleading or deceptive or false conduct in contravention of ss 52 or 53 of the Trade Practices Act 1974 (Cth) and ss 9 or 12 of the Fair Trading Act 1999 (Vic).</sentence>
+<sentence id="s7">(It is convenient to refer to these last claims as "the misleading conduct claims").</sentence>
+<sentence id="s8">LE 2003 claims an account of profits for the alleged trade mark violation as well as exemplary damages in connection with the passing off claims.</sentence>
+<sentence id="s9">However, counsel for LE 2003 conceded in final oral submissions that the misleading conduct claims added nothing to its case and that no additional or independent relief was sought.</sentence>
+<sentence id="s10">Given that concession and the fact that none of the parties directed more than passing reference to the misleading conduct claims during the course of the trial or closing submissions, I will not refer further to them in these reasons.</sentence>
+<sentence id="s11">3 In addition to the infringement and passing off claims with respect to the "Liquid Engineering" mark, LE 2003 claims that the Register of Trade Marks should be rectified pursuant to s 88 of the Trade Marks Act 1995 (Cth) ("the TMA") to reflect that it, and not Edwards, is the owner of registered trade marks Nos.</sentence>
+<sentence id="s12">941989 ("Fuel Set") and 941987 ("Exit Rust").</sentence>
+<sentence id="s13">It submits that Edwards should be deemed to have held the marks on constructive trust for the true owner LE 2003.</sentence>
+<sentence id="s14">On that basis, LE 2003 also seeks an account of profits from Edwards, LFS, and the third respondent, SK Rural Supplies Pty Ltd ("SK Rural") (collectively, the "respondents"), for infringement of these marks.</sentence>
+<sentence id="s15">4 Edwards was employed by the predecessor in interest of LE 2003, Liquid Engineering Limited ("LEL") from 1998 to 8 April 2003, last holding the position of National Sales Manager.</sentence>
+<sentence id="s16">LEL sold (and LE 2003 still sells) a variety of engineering products including Fuel Set (a chemical additive to motor fuel) and Exit Rust (an anti-corrosive preparation).</sentence>
+<sentence id="s17">Edwards travelled through various parts of rural Australia selling LEL's wares mainly to farmers.</sentence>
+<sentence id="s18">Around the time he left LEL, Edwards began trading as LFS, selling many of the same products, including Fuel Set and Exit Rust, to many of the same customers.</sentence>
+<sentence id="s19">5 The undisputed evidence showed that LFS was essentially a one-man operation in which Edwards drove around in a truck loaded with goods making sales for the most part by making cold calls at individual farms and businesses, but also at local fairs and market days.</sentence>
+<sentence id="s20">Although LFS was incorporated on 4 May 2004 with Edwards and his wife both as directors, Edwards agreed that he had complete control over the business and that there were no other employees, save that his wife occasionally assisted with the paperwork.</sentence>
+<sentence id="s21">There was no suggestion that any relevant distinction was to be drawn between the liability of Edwards and LFS.</sentence>
+<sentence id="s22">It was submitted on this evidence, and I accept, that LFS was effectively the alter ego of Edwards, and the case was conducted by both sides on the basis that to the extent that either or both of Edwards and LFS was found liable, each should be held jointly and severally liable: see Hall v Poolman (2007) 215 FLR 243 at [466] and authorities cited therein.</sentence>
+<sentence id="s23">6 On 3 February 2003, while still employed at LEL, Edwards lodged applications for registration of "Exit Rust" and "Fuel Set" as trade marks under s 27 of the TMA.</sentence>
+<sentence id="s24">On 5 February 2003, a receiver was appointed to LEL, and its assets were ultimately sold to LE 2003 by an agreement dated 8 April 2003.</sentence>
+<sentence id="s25">At the request of the receiver, Edwards remained in employment of LEL until 8 April 2003.</sentence>
+<sentence id="s26">Edwards' applications under the TMA were accepted and registered on 4 December 2003, without opposition from LEL or LE 2003.</sentence>
+<sentence id="s27">Over a year later, on 4 February 2005, LE 2003 filed an application for removal of the marks from the Register.</sentence>
+<sentence id="s28">The application was made pursuant to s 92(4) of the TMA, which allows for removal where the applicant did not intend at the time of application to use, and has not since used, the mark in good faith.</sentence>
+<sentence id="s29">On 31 July 2006, a delegate of the Registrar of Trade Marks upheld the application and directed that Edwards' name be removed as the registered proprietor of the marks.</sentence>
+<sentence id="s30">On 18 August 2006, Edwards lodged an appeal in this Court (VID 934 of 2006) against that decision seeking restoration of his name to the Register.</sentence>
+<sentence id="s31">7 The "appeal" (which, strictly speaking, is not really an appeal: s 104 of the TMA) came on for hearing on 3 May (at which time LE 2003 was self-represented) and again on 12 September 2007 (when LE 2003 was represented by counsel).</sentence>
+<sentence id="s32">The principal question presented in those hearings was whether evidence of a bona fide intention to use a mark for trading purposes is sufficient to demonstrate good faith even where the applicant for registration gained knowledge of the mark as an employee of the owner of the unregistered mark and in circumstances tending to suggest a breach of fiduciary duties or even (malicious) intent to block a competitor.</sentence>
+<sentence id="s33">8 Having considered the evidence led, and submissions made, I was poised to answer that question in the affirmative and uphold the appeal, on the basis that "good faith" for the purposes of s 92(4) requires no more than genuine intent to use a mark for commercial purposes; it does not involve any element of honesty or subjective good intentions: see generally E &amp; J Gallo Winery v Lion Nathan Australia Pty Ltd [2008] FCA 934 at [187] - [192] (examining the meaning of "good faith" under related provisions of the TMA).</sentence>
+<sentence id="s34">However, during the course of the hearings it became apparent that what LE 2003 really wanted, and should have applied for in the first place, was the expungement of the registrations by Edwards under s 88 of the TMA on the basis that Edwards was not the owner of the unregistered marks: ss 52 and 58 of the TMA.</sentence>
+<sentence id="s35">I therefore delayed giving judgment in VID 934 of 2006 so that a separate application could be brought on that basis and the matters resolved together.</sentence>
+<sentence id="s36">9 On 24 September 2007, such an application (ie the present application, WAD 189 of 2007) was in fact brought.</sentence>
+<sentence id="s37">(Subsequently, by an amended statement of claim dated 22 October 2007, the infringement claim with respect to the "Liquid Engineering" mark was added.</sentence>
+<sentence id="s38">) Trial of the matter in WAD 189 of 2007 proceeded over a four-day period from 21-24 April 2008.</sentence>
+<sentence id="s39">Having carefully considered the submissions and arguments of the parties made in relation both to WAD 189 of 2007 and the earlier matter of VID 934 of 2006, I conclude for the reasons that follow that LE 2003 is entitled to the relief it seeks under s 88 of the TMA.</sentence>
+<sentence id="s40">In particular, LE 2003 is entitled to orders requiring rectification of the Register of Trade Marks by removing Edwards' name from the Register as owner of the marks "Fuel Set" and "Exit Rust" and substituting LE 2003 as owner of each of those marks.</sentence>
+<sentence id="s41">It therefore follows that the s 92 application by Edwards has been rendered moot.</sentence>
+<sentence id="s42">Even if the application were successful, the Court would not now grant Edwards the relief he sought: see Allan v Development Allowance Authority (1999) FCR 264 at [41].</sentence>
+<sentence id="s43">10 Accordingly, I will dismiss the application in VID 934 of 2006, but I will order that LE 2003 pay Edwards' reserved costs of those proceedings (ie costs not already addressed by the Court's orders of 17 September 2007 in VID 934 of 2006).</sentence>
+<sentence id="s44">That order for costs should be made on the basis that the application would have been successful but for the supervening application in WAD 189 of 2007.</sentence>
+<sentence id="s45">To put it another way, I am of the view that Edwards' costs in VID 934 of 2006 were effectively costs thrown away due to the failure of LE 2003 to bring its s 88 of the TMA application in the first place.</sentence>
+<sentence id="s46">11 LE 2003 contends that such an approach would have the effect of discouraging parties from availing themselves "of the opportunities afforded by the TMA to resolve [trade mark disputes] by application to the Registrar, rather than by the more expensive alternative of Federal Court litigation.</sentence>
+<sentence id="s47">" That submission, while perhaps unobjectionable as a general proposition, is not appropriate here, where it was apparent that s 92 of the TMA was not apt to raise the real issue between the parties in this case.</sentence>
+<sentence id="s48">Parties should not be encouraged to bring inapposite claims on the grounds that they are cheaper; such a strategy may, as this case shows, backfire and if that occurs, it will result in more costs being incurred than if the best claim was brought in the first place.</sentence>
+<sentence id="s49">If a dispassionate analysis suggests that the client's only realistic chance of success requires resort to a more expensive forum, then that is the advice an independent adviser should give.</sentence>
+<sentence id="s50">Whether the client in those circumstances wishes to pursue the claim is then a matter for the client.</sentence>
+<sentence id="s51">If it chooses not to follow that course or the advice, then it does so at its own risk.</sentence>
+<sentence id="s52">In the present case, that risk was realised in the form of the costs of the unsuccessful proceeding or application.</sentence>
+<sentence id="s53">LIQUID ENGINEERING CLAIMS 
+ 
+12 Turning to the merits of the application in WAD 189 of 2007, I begin by considering the claim that Edwards and LES infringed the "Liquid Engineering" mark.</sentence>
+<sentence id="s54">Section 120(1) of the TMA provides relevantly that:
+ 
+ 
+ A person infringes a registered trade mark if the person uses as a trade mark a sign that is substantially identical with, or deceptively similar to, the trade mark in relation to goods or services in respect of which the trade mark is registered.</sentence>
+<sentence id="s55">
+ 
+
+13 Section 10 of the TMA provides that a sign is deceptively similar "if it so nearly resembles that other trade mark that it is likely to deceive or cause confusion.</sentence>
+<sentence id="s56">" The respondents concede that the "Liquid Engineering" mark is validly registered and owned by LE 2003.</sentence>
+<sentence id="s57">There was, however, some dispute as to how the mark was to be defined.</sentence>
+<sentence id="s58">The respondents submitted, without any citation of authority, that:
+ 
+ 
+ A trademark is not the word but the image of the word and it is registered in the form in which it is to be used and the question of deception is highly influenced by the get up in which it appears.</sentence>
+<sentence id="s59">
+ 
+
+14 I reject this contention.</sentence>
+<sentence id="s60">Although it is difficult, given the generality with which the argument is put, and the lack of any reference to authority, to understand the precise nature of the submission, I assume that one of the following submissions was put.</sentence>
+<sentence id="s61">First, it may be possible that the submission should be interpreted literally as a contention that word phrases are not subject to trade mark registration as word phrases , but if that is what was intended, it is not right and need not be further considered.</sentence>
+<sentence id="s62">Secondly, it is possible that the submission was that the claim to a mark is limited to the mark as represented in a particular way: see in that regard, Koninklijke Phillips Electronics NV v Remington Products Australia Pty Ltd [2000] FCA 876 ; (2000) 100 FCR 90 at [10] , [12] (stating that an image mark including a word does not cover use of that word in a different graphical configuration).</sentence>
+<sentence id="s63">15 However, the evidence here does not support a submission that "Liquid Engineering" was registered as an image or as an image containing a word.</sentence>
+<sentence id="s64">As listed in the Register, the mark is defined only as the words "Liquid Engineering.</sentence>
+<sentence id="s65">" The spaces in the Register for "Image" and "Image Constituents" are blank.</sentence>
+<sentence id="s66">There is no evidence that the mark is confined, or was intended to be confined, to a particular graphic representation of the text phrase rather than the text phrase itself, however represented graphically.</sentence>
+<sentence id="s67">16 It is also possible that counsel intended to advance the proposition that a word mark must be considered in the context of any associated (albeit separate) image trade mark.</sentence>
+<sentence id="s68">There are some circumstances in which "a combination of a word and an image may ... strip, in the mind of a consumer, the association with a trade source previously associated with the word alone": See Gallo at [186]; see also at [24]-[38] and [183]-[186] (considering when and how a sign should be defined to include both a word and an associated image, as well as the impact of any associated image in determining similarity).</sentence>
+<sentence id="s69">In this case, the "Liquid Engineering" mark was generally, if not always, used in combination with the separately registered image or device of a whirlpool.</sentence>
+<sentence id="s70">Similarly, in Gallo the registered word "barefoot" was used in combination with the image of a bare foot, and the respondent in that case submitted that the image could not be divorced from the word in assessing the similarity of the allegedly infringing mark: at [185].</sentence>
+<sentence id="s71">17 In Gallo , Flick J rejected the respondent's submission on the basis that "the addition of the image of the bare foot did not have the consequence that the word itself as a trade mark was not also being used": at [186].</sentence>
+<sentence id="s72">The same is true here --- that LEL and LE 2003 used the mark "Liquid Engineering" in conjunction with a small whirlpool image does not mean that the text phrase is not also being used.</sentence>
+<sentence id="s73">Accordingly, the absence of the associated whirlpool in the respondents' allegedly infringing usage is merely one factor to be considered in deciding whether there has been an infringing use.</sentence>
+<sentence id="s74">Whether the absence of use of the whirlpool mark is such as to defeat a finding of deceptive similarity in the use of the word mark is a question of fact that must be viewed in light of all the circumstances which I will address presently.</sentence>
+<sentence id="s75">18 The next step is to consider the class of goods the mark is registered in respect of.</sentence>
+<sentence id="s76">In this case, "Liquid Engineering" is registered with respect to four classes of goods: (1) chemicals used in industry; (2) chemicals for the prevention of rust and corrosion; (3) cleaning and degreasing preparations; and (4) lubricants, industrial oils, and industrial greases.</sentence>
+<sentence id="s77">Save for a few goods which I will come to in relation to the issue of quantum, there is no dispute that all of the goods in relation to which Edwards used the allegedly infringing mark were goods falling into the four classes of goods in respect of which the "Liquid Engineering" mark is registered.</sentence>
+<sentence id="s78">19 Accordingly, in deciding whether Edwards and LFS infringed that mark, the principal question is whether the marks that Edwards and LFS used --- "Liquideng" and "Liquideng Farm Supplies" --- are deceptively similar to "Liquid Engineering".</sentence>
+<sentence id="s79">On that point, I again turn to Flick J, who helpfully reviewed the case law in his recent judgment in Gallo at [53]-[55].</sentence>
+<sentence id="s80">I will take the liberty of simply reproducing the relevant passages here in full:
+ 
+ 
+ 
+ 53 Whether a mark is " deceptively similar " is not to be determined by a side by side comparison, but rather by reference to whether there is a likelihood of deception or confusion from a recollection or impression of the registered mark: Anheuser-Busch Inc v Budejovick[yacute] Budvar [2002] FCA 390 at [143] , [2002] FCA 390 ; 56 IPR 182 at 216.</sentence>
+<sentence id="s81">Allsop J there observed:
+ 
+ 
+ 
+
+[143] The question of deceptive similarity must be judged by a comparison different from the side by side comparison undertaken to assess substantial identity; the question being the likelihood of deception or confusion from a recollection or impression of the registered mark.</sentence>
+<sentence id="s82">Thus, a side by side comparison is inadequate, and too narrow a test.</sentence>
+<sentence id="s83">The comparison is between, on the one hand, the impression based on recollection of the registered mark used in a normal or fair manner that persons of ordinary intelligence and memory would have, and, on the other hand, the impressions that such persons would get from the impugned mark as it appears in the use complained of ...
+ 
+
+ 
+ 
+ 
+ 54 It is necessary to make an attempt to estimate the effect or impression produced on the mind of persons of ordinary intelligence and memory.</sentence>
+<sentence id="s84">It is the impression or recollection which is carried away and retained that is necessarily the basis of any mistaken belief that the challenged mark is the same: Australian Woollen Mills Ltd v F S Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 at 658 per Dixon and McTiernan JJ.</sentence>
+<sentence id="s85">See also: Global Brand Marketing Inc v YD Pty Ltd [2008] FCA 605 at [84] - [89] per Sundberg J.</sentence>
+<sentence id="s86">The " recollection " may be imperfect: Crazy Ron's Communications Pty Ltd v Mobileworld Communications Pty Ltd [2004] FCAFC 196 at [87] , [2004] FCAFC 196 ; 209 ALR 1 at 21 per Moore, Sackville and Emmett JJ.</sentence>
+<sentence id="s87">55.</sentence>
+<sentence id="s88">Whether a mark is likely to deceive or cause confusion is, in the end, a question of impression and common sense: Murray Goulburn Co-operative Co Ltd v NSW Dairy Corporation [1990] FCA 32 ; (1990) 24 FCR 370 at 377 per Lockhart, Pincus and von Doussa JJ.</sentence>
+<sentence id="s89">(On appeal, see: NSW Dairy Corporation v Murray Goulburn Co-operative Co Ltd [1990] HCA 60 ; (1990) 171 CLR 363).</sentence>
+<sentence id="s90">
+ 
+ 
+ 
+ 
+ 
+ 
+
+20 With those legal principles in mind, I turn to the relevant facts.</sentence>
+<sentence id="s91">It was not disputed that LEL, on its website, brochures, and invoices, among other places, prominently displayed "Liquid Engineering.</sentence>
+<sentence id="s92">" Edwards conceded that he issued invoices under the names "Liquideng" and / or "Liquid Engineering Farm Supplies", and also used those words on his cheques and business cards.</sentence>
+<sentence id="s93">There was also evidence that Edwards, at least on one occasion, displayed his wares under a large banner bearing the words "Liquid Engineering Farm Supplies.</sentence>
+<sentence id="s94">" The same was also written out in large print on the side of his vehicle for at least some of the relevant time period.</sentence>
+<sentence id="s95">21 Before proceeding any further, I first note in Brother Industries Ltd v Dynamic Supplies Pty Ltd [2007] FCA 1490 ; (2007) 163 FCR 530 at [53] - [54] , Tamberlin J pointed out that under ss 7 and 9 of the TMA, a trade mark is taken to be used in relation to goods and services if it is applied to, among other things, packaging labels, signs, invoices, business letters, and business papers.</sentence>
+<sentence id="s96">Here, the word "Liquideng" was applied by Edwards and LFS in just such ways.</sentence>
+<sentence id="s97">It follows that application of that word was its use as a trade mark.</sentence>
+<sentence id="s98">22 The question which then arises is whether its use is as a trade mark "that is substantially identical with, or deceptively similar to" the trade mark "Liquid Engineering"?</sentence>
+<sentence id="s99">I consider as a matter of impression and common sense that a person of ordinary intelligence would be likely to be confused or deceived by the "Liquideng" mark.</sentence>
+<sentence id="s100">The essential and distinguishing feature of the registered mark "Liquid Engineering" lies in the use of the word "liquid".</sentence>
+<sentence id="s101">By using that same word, as well as the first syllable of the word "engineering," I find that the impugned mark "Liquideng" would leave ordinary persons with the impression or recollection that the goods sold under the mark were associated with, or stemmed from, the same source as goods sold under the "Liquid Engineering" mark.</sentence>
+<sentence id="s102">To put it even more bluntly, my view is that the overall impression that would be formed by an ordinary person is that "Liquideng" is simply the short form of "Liquid Engineering", in the same way that an ordinary person would assume that "Vic" is short for Victoria.</sentence>
+<sentence id="s103">23 The fact that Edwards' mark also contained the additional descriptive phrase "Farm Supplies" does not alter my conclusion that it is deceptively similar to LE 2003's registered mark.</sentence>
+<sentence id="s104">It is settled that the presence or absence of an otherwise bland descriptive term, such as the word "club" added after "Polo," will not diminish a deceptively similar impression engendered by the use of the distinctive part of the mark: Polo Textile Industries Pty Ltd v Domestic Textile Corporation Pty Ltd [1993] FCA 203 ; (1993) 42 FCR 227 ; see also Gallo at [58].</sentence>
+<sentence id="s105">In my view, the equally bland descriptor "farm supplies" is not distinguishable from "club" in this sense.</sentence>
+<sentence id="s106">Moreover, even if it were, I share the view of Flick J that even the addition of a more distinctive descriptor will not necessarily defeat a finding of deceptive similarity: Gallo at [61]-[63] (concluding that the addition of the distinctive Germanic word "Radler," not in English usage, did not remove the likelihood of deception where the infringer had borrowed an essential feature --- the word "barefoot" --- of the registered mark).</sentence>
+<sentence id="s107">24 I also consider that the absence of an associated whirlpool device in the usage of the impugned mark is not sufficient to strip the association in the mind of the ordinary person between "Liquideng" and "Liquid Engineering".</sentence>
+<sentence id="s108">Again, the dominant element of "liquid" is maintained in both marks, along with the syllable "eng.</sentence>
+<sentence id="s109">" I consider as a matter of impression that the association between a whirlpool and liquid in the context of engineering or farm supply products is not strong.</sentence>
+<sentence id="s110">That is to say, I doubt that an ordinary customer of LEL attached much significance to, or carried away any lasting impression of, the small whirlpool device in the same way that he or she might have if LEL sold, for example, spa pools; or if, for example, the name of the company or the registered mark was in fact "Whirlpool.</sentence>
+<sentence id="s111">" 
+ 
+25 I should also add that my finding of deceptive similarity is buttressed by (although in no way dependent on) my view that Edwards in fact intended to appropriate LE 2003's registered mark.</sentence>
+<sentence id="s112">LEL's invoices contained a reference to the company's website address www.liquideng.com.au in the upper right-hand corner just above the salesman's signature block.</sentence>
+<sentence id="s113">Edwards acknowledged that he had signed hundreds of LEL invoices, but he boldly claimed never to have noticed the website address and specifically the term "liquideng" in that address.</sentence>
+<sentence id="s114">However, I consider it more probable than not that Edwards, whether subconsciously or consciously, was influenced by and was attempting to trade on, the association "liquideng" had with Liquid Engineering, which association he was aware of from the invoices.</sentence>
+<sentence id="s115">Indeed, counsel for the respondents conceded that a subconscious borrowing was "perfectly possible.</sentence>
+<sentence id="s116">" The alternative --- that he independently conjured up the same distinctive term "liquideng," which he agreed can be found in no dictionary and no other usage --- is simply too implausible to be accepted.</sentence>
+<sentence id="s117">26 It is axiomatic that neither proof of intent nor any element of culpability is required to make out a case of trade mark infringement: Coca-Cola Co v All-Fect Distributors Ltd [1999] FCA 1721 ; (1999) 96 FCR 107 at [39] ; see also Gallo at [58].</sentence>
+<sentence id="s118">However, it is also true that where intent to deceive is established, "it should be presumed" that the impugned mark is in fact likely to deceive or confuse: Australian Woollen Mills Ltd v F S Walton &amp; Co Ltd [1937] HCA 51 ; (1937) 58 CLR 641 , 657.</sentence>
+<sentence id="s119">In such a case, the onus to rebut the presumption then falls upon the alleged infringer.</sentence>
+<sentence id="s120">Similarly, the last sentence of s 120(2) of the TMA creates an affirmative defence if the alleged infringer is able to establish that although there may be a general likelihood of confusion with respect to the marks, the particular way in which the alleged infringer used the impugned mark did not give rise to such likelihood of confusion: Gallo at [89]-[93].</sentence>
+<sentence id="s121">27 In this case, I find that an independent basis for a finding of deceptive similarity is that Edwards' intent to deceive, established as a matter of fact, raises a presumption that his use of the "Liquideng" mark was likely to confuse, and he has failed to rebut that presumption.</sentence>
+<sentence id="s122">In his evidence, Edwards acknowledged that some customers recognised him as the "Liquid Engineering person," but he would attempt to disassociate himself from LEL in such cases because some customers "didn't like" LEL due to the fact that they had made investments in LEL which had failed.</sentence>
+<sentence id="s123">28 However, Edwards went on to acknowledge in cross-examination that customers generally had a positive view of LEL's products (ie the products had a good reputation), whatever their views of the company itself.</sentence>
+<sentence id="s124">Moreover, he was unable, when confronted, to provide any explanation (much less a plausible one) for why, if he really wished to disassociate himself from LEL, he just happened to decide to trade under a name that had, on any view, at least some similarity to Liquid Engineering.</sentence>
+<sentence id="s125">Finally, the evidence showed that the manner in which he used the Liquideng mark, and the goods in relation to which he used it, did not dispel any likelihood of confusion: he continued to sell basically the same goods out of the back of his truck to many of the same customers using the same primary method of door-to-door cold calls: Gallo at [92] (accepting the proposition that the closer the relationship between the goods sold under the registered mark and the goods sold under the impugned mark, the more likely any similarity in the marks will prove deceptive).</sentence>
+<sentence id="s126">On that evidence, I am not satisfied that Edwards successfully rebutted the presumption that he was at some level intending to trade on an association with LEL (or at least its products) by using the "Liquideng" mark, nor am I satisfied that ordinary customers would not have been confused by the use of the "Liquideng" mark due to the particular manner or goods in relation to which he used it.</sentence>
+<sentence id="s127">29 In short, I consider that LE 2003's prima facie case for liability for trade mark infringement against Edwards and LFS is made out.</sentence>
+<sentence id="s128">It remains only to consider Edwards' and LFS's affirmative defence of estoppel (which is also framed as a cross-claim for misleading and deceptive conduct) to the effect that Edwards is entitled to use the term "Liquideng" in light of his reasonable reliance on the acts and omissions of LE 2003 and its agents.</sentence>
+<sentence id="s129">As noted earlier, LE 2003's claim for infringement of the "Liquid Engineering" mark was not formally made until the amended statement of claim filed on 22 October 2007, long after LE 2003 first became aware in April or early May 2003 that Edwards was trading using the "Liquideng" mark.</sentence>
+<sentence id="s130">The nub of the estoppel and misleading conduct claims is that the respondents:
+ 
+ 
+ were entitled to assume that if over a period of 4 1/2 years despite other allegations and despite an initial reference to the Liquid Engineering [infringement] allegation some 4 1/2 years previous, that the applicant was not intending to proceed with that allegation.</sentence>
+<sentence id="s131">
+ 
+
+30 There are several defects in this argument.</sentence>
+<sentence id="s132">First, it is not the case that LE 2003 simply stood silent for the four plus years until the filing of its amended statement of claim.</sentence>
+<sentence id="s133">On 9 May 2003 --- approximately one month after LE 2003 purchased LEL's assets, including the "Liquid Engineering" trade mark, and one month after Edwards officially began trading as LFS --- LE 2003's then-solicitors sent a letter to Edwards that stated in relevant part:
+ 
+ 
+ My client has been informed that you have been using the name Liquid Eng.</sentence>
+<sentence id="s134">Farm Supplies [sic] which is obviously an attempt to pass off an association with my client.</sentence>
+<sentence id="s135">Unless you cease using this name immediately the use by you of the name will be reported to the ACCC.</sentence>
+<sentence id="s136">
+ 
+
+31 In the continuing exchange of letters, LE 2003's solicitors demanded on 24 September 2003 that Edwards give an undertaking to, among other things, refrain from using the "Liquid Engineering" mark in connection with any sales, advertising or promotional materials.</sentence>
+<sentence id="s137">A similar demand was again made in a letter from LE 2003's solicitors dated 8 December 2004.</sentence>
+<sentence id="s138">32 The respondents submit that because LE 2003 did not raise the "Liquid Engineering" claim in every communication between the parties, they were entitled reasonably to rely on the interspersed silences to the effect that no claim was being pressed.</sentence>
+<sentence id="s139">I reject this submission.</sentence>
+<sentence id="s140">The correspondence history demonstrates no affirmative statement or conduct by LE 2003 to the effect that an infringement claim was abandoned or disclaimed.</sentence>
+<sentence id="s141">The fact that the infringement claims were raised only intermittently does not change this analysis.</sentence>
+<sentence id="s142">The respondents cited no authority, and I am aware of none, for the proposition that a party who fails to press an infringement claim in every (or even most) piece of correspondence with an alleged infringer is thereby estopped from later asserting such claim, or is thereby liable for misleading and deceptive conduct.</sentence>
+<sentence id="s143">Even to state the proposition is to recognise its absurdity.</sentence>
+<sentence id="s144">33 There is another fundamental defect with the respondents' estoppel claim.</sentence>
+<sentence id="s145">At its heart lies the thesis that a party is somehow under a duty to bring a claim for trade mark infringement promptly or not at all.</sentence>
+<sentence id="s146">Thus, the argument seems to run, LE 2003's four-year delay in bringing its infringement claim is in itself fatal even assuming (contrary to fact) that it had rattled the infringement sabre in every letter and statement of counsel from May 2003 until the filing of the amended statement of claim.</sentence>
+<sentence id="s147">I reject this submission on the basis that a complete answer to it is found in s 129 of the TMA.</sentence>
+<sentence id="s148">That section provides that any person threatened with an infringement action "may bring an action" against the party making the threats (provided that the threatener has not brought the promised infringement action with due diligence: s 129(5)) in order to enjoin the threats and recover damages where such threats are shown to have been groundless.</sentence>
+<sentence id="s149">If there is a "cloud" over the title to a registered mark, any aggrieved party can bring proceedings to dispel that cloud.</sentence>
+<sentence id="s150">34 In the circumstances, I consider that to the extent that the respondents felt themselves unjustifiably threatened by the threat of litigation dangling overhead and thereby fettered in the conduct of their business, the proper response was not to bury their heads in the sand and then plead estoppel four years down the track.</sentence>
+<sentence id="s151">Rather, they could and should have brought proceedings for injunctions and damages under s 129 of the TMA if they considered the infringement threats unjustified.</sentence>
+<sentence id="s152">In other words, to the extent that it may be said that LE 2003 was less than diligent in bringing its infringement claim (whether for strategic reasons or otherwise), the respondents had a perfectly adequate remedy at law and equity will not now come to their aid: see Bond Brewing Holdings Ltd v National Australia Bank Ltd (1990) 1 ACSR 445 (stating that generally a Court must be persuaded that there is no adequate remedy at law before equity will intervene).</sentence>
+<sentence id="s153">35 Based on the foregoing, the cross-claim with respect to the "Liquid Engineering" and "Liquideng" marks must be dismissed with costs.</sentence>
+<sentence id="s154">36 That brings us to the passing off claims.</sentence>
+<sentence id="s155">In its opening submissions, LE 2003 pressed these claims in some detail, on the basis that it intended to seek exemplary damages.</sentence>
+<sentence id="s156">Because exemplary damages are not available in trade mark actions ( Paramount Pictures Corporation v Hasluck (2006) 70 IPR 293 at [34]-[36]), the claims thus appeared to have some independent relevance.</sentence>
+<sentence id="s157">However, despite the promise to address the Court orally regarding exemplary damages, no such oral submissions were forthcoming from counsel for LE 2003.</sentence>
+<sentence id="s158">Moreover, LE 2003's written closing submissions make only incidental reference to the passing off claims and no reference at all to exemplary damages.</sentence>
+<sentence id="s159">On that basis alone, I conclude that, even if not formally abandoned, the claim was not pressed.</sentence>
+<sentence id="s160">37 A further consideration in this regard is that, in the peculiar circumstances of this case (which I will explain in the discussion on damages below), even an accounting of profits in trade mark will inevitably be punitive to some extent, and thus likely to have a deterrent effect: see XL Petroleum (NSW) Pty Ltd v Caltex Oil (Australia) Pty Ltd [1985] HCA 12 ; (1984) 155 CLR 448 , 471 per Brennan J (stating that the purpose of exemplary damages is to teach the wrongdoer a lesson and deter the commission of like conduct in the future), cited with approval in Lamb v Cotogno [1987] HCA 47 ; (1987) 164 CLR 1 , 9.</sentence>
+<sentence id="s161">Moreover, the evidence is that Edwards has not traded using the "Liquideng" mark or under the name LFS since April 2006, and neither he nor SK Rural has used the "Exit Rust" or "Fuel Set" marks since July 2007.</sentence>
+<sentence id="s162">In the circumstances, the need for deterrence is low.</sentence>
+<sentence id="s163">Finally, I note that Edwards made no attempt to conceal or disguise his trading from LE 2003, and the basis on which he asserted a right to do so.</sentence>
+<sentence id="s164">For those additional reasons, I would in any event be reluctant to find that any of the respondents had acted with the contumelious disregard necessary to justify exemplary damages in tort.</sentence>
+<sentence id="s165">Whether on the basis that the passing off claims are no longer pressed or on the basis that even if pressed no different relief would result, there is thus no reason to consider those claims further.</sentence>
+<sentence id="s166">EXIT RUST AND FUEL SET CLAIMS 
+ 
+38 With respect to the "Exit Rust" and "Fuel Set" claims under s 88 of the TMA, the respondents raise two principal challenges.</sentence>
+<sentence id="s167">The first is that LE 2003 is not the owner of those marks.</sentence>
+<sentence id="s168">The second is that, even if LE 2003 is the owner of those marks, Edwards registered them "with the permission of Mr [Peter] Spry and the knowledge of Mr [Paul] Andrews and whatever his status, he has permission to use [them].</sentence>
+<sentence id="s169">" I should add that the second submission is couched both in permissive use (licence) and estoppel terms.</sentence>
+<sentence id="s170">For the reasons that follow, I reject both submissions.</sentence>
+<sentence id="s171">39 The uncontested evidence of Andrews was that he created both of the Exit Rust and Fuel Set products and trade names in approximately 1989 or 1990, at which time he was doing business on his own account (ie Paul Andrews trading as Liquid Engineering).</sentence>
+<sentence id="s172">In about 1996 or 1997, Andrews incorporated Liquid Engineering International Proprietary Limited ("LEI") with him as a sole shareholder and director.</sentence>
+<sentence id="s173">A number of other Liquid Engineering companies were incorporated at about the same time, including Liquid Engineering (Australia) Pty Ltd ("LEA") and various international entities such as Liquid Engineering UK.</sentence>
+<sentence id="s174">Within Australia, LEA handled manufacturing and product development while LEI handled sales and marketing.</sentence>
+<sentence id="s175">The assets and liabilities of the business that had until then been conducted by Mr Andrews as sole proprietor were acquired by the new companies for market value.</sentence>
+<sentence id="s176">Andrews attempted to register the marks "Exit Rust" and "Fuel Set," but those attempts were rebuffed by IP Australia on the basis that the words were descriptive.</sentence>
+<sentence id="s177">40 After falling into financial difficulties by early 2001 and entering into voluntary administration and a deed of company arrangement executed 24 September 2001, in November 2001 LEI became a public company.</sentence>
+<sentence id="s178">It changed its name to Liquid Engineering Limited ("LEL"), and LEA was folded into that public company.</sentence>
+<sentence id="s179">The deed of company arrangement stated that Andrews was required to cause LEA to transfer all of its intellectual property rights to LEL.</sentence>
+<sentence id="s180">Although Andrews could not recall ever signing an assignment or other document in fact effecting such a transfer on behalf of LEA, an undated but executed "Deed of transfer of intellectual property" between LEA and LEI, signed by Andrews and purporting to transfer, free of any encumbrance or charge, all of LEA's rights in and titles to, among other things, Exit Rust and Fuel Set, was tendered by LE 2003.</sentence>
+<sentence id="s181">41 In a prospectus dated 28 November 2001, authorised by its directors (of whom Andrews was one), and filed with the Australian Securities and Investments Commission, LEL stated that LEA had "transferred to LEL all of its intellectual property rights" to LEL and that:
+ 
+ 
+ LEL now owns all intellectual property rights pertaining to all of its products as described in this prospectus.</sentence>
+<sentence id="s182">This includes all product formulations, signage, packaging, manufacturing plant and contracts with key personnel.</sentence>
+<sentence id="s183">
+ 
+
+42 Fuel Set and Exit Rust were among the products described in the prospectus.</sentence>
+<sentence id="s184">However, as pointed out by the respondents, the prospectus was not wholly consistent as to whether the transfer of rights had already occurred in that it also stated that Andrews was required (in the future) to "[a]rrange for LEA to transfer its intellectual property rights" to LEI.</sentence>
+<sentence id="s185">43 When LEL also fell into financial difficulty and went into receivership, it was sold to LE 2003, pursuant to a sale agreement dated 8 April 2003.</sentence>
+<sentence id="s186">That agreement provided that all intellectual property rights, including any trade mark rights in "Exit Rust" and "Fuel Set," would be transferred to LE 2003, subject to LE 2003's acknowledgement that its rights in those marks might not be accepted due to, among other things, attempts by Edwards to register them in his own name: cll 7.8, 16.10.</sentence>
+<sentence id="s187">Relevantly for present purposes, these clauses demonstrate: (1) that both the receiver and LE 2003 were well aware of the trade mark dispute with Edwards as of 8 April 2003; and (2) the receiver took no action in respect of LEL's rights, if any, deferring instead to the new owner.</sentence>
+<sentence id="s188">44 Andrews gave evidence that some of the international Liquid Engineering entities are still trading and still selling products bearing the "Exit Rust" and "Fuel Set" marks.</sentence>
+<sentence id="s189">He further added that he did not understand himself in 1996 to have transferred any rights in the two marks to the incorporated company, mainly because he considered them to have no value and did not at the time understand the concept of an unregistered trade mark.</sentence>
+<sentence id="s190">In the case of Liquid Engineering UK, Andrews stated that he still receives a small royalty from sales of Exit Rust and Fuel Set marked products.</sentence>
+<sentence id="s191">45 Based on the foregoing facts, the respondents submit that LE 2003 is not the owner of the two marks because: (1) when Andrews incorporated as LEI he transferred to that company only a license to use the marks, not full ownership; and (2) further or in the alternative, there is no evidence that LEA ever in fact transferred its rights in the marks to LEI as provided for in the 2001 deed of company arrangement.</sentence>
+<sentence id="s192">46 With respect to the first submission, I note that no documentary evidence was put before the Court of terms of the incorporation and transfer of assets between Andrews and LEI in 1996.</sentence>
+<sentence id="s193">LE 2003's managing director Anthony Fels deposed that he "searched the records of LEL as acquired by LE 2003 and [was] unable to locate any ... documentation regarding this transaction in 1996.</sentence>
+<sentence id="s194">" While Andrews gave oral evidence at trial that the assets were purchased at market value, there is no evidence of how the term "assets" was contemporaneously defined and understood for purposes of the transfer.</sentence>
+<sentence id="s195">There was also no evidence of an oral or written licensing agreement between Andrews and LEI (or LEL) in respect of the marks at issue.</sentence>
+<sentence id="s196">47 Counsel for the respondent failed to demonstrate, whether by reference to authority or otherwise, the purported relevance of Andrews' testimony about his understanding of what it was that he had transferred to the company in 1996.</sentence>
+<sentence id="s197">However, as best as I can discern, the contention was that the Court should infer that the asset transferred in 1996 with respect to the two marks was a license only, and that this inference was to be based on both Andrews' subjective belief at the time and the objective evidence of his conduct post-dating 1996, that he was and still is entitled to use the marks himself, to permit others to use them, and to receive royalties for overseas use.</sentence>
+<sentence id="s198">48 Any question with respect to overseas rights may be put to one side, if only because, it is not relevant to the present dispute, which concerns registration and use of the marks within Australia.</sentence>
+<sentence id="s199">49 With respect to the domestic issues, however, it is established as a matter of contract law that: (1) "post-contractual conduct is not admissible on the question of what a contract means"; and (2) the subjective beliefs of the parties are irrelevant in the absence of a rectification or an estoppel by convention argument: Sudojo Consulting Pty Ltd v Africa Pacific Capital Pty Ltd [2008] NSWSC 353 at [20] .</sentence>
+<sentence id="s200">In this case, there is no plea for rectification nor could any estoppel by convention argument be put given the lack of any evidence that Andrews ever attempted to seek, much less has ever received, any royalty payments or license fees from any Liquid Engineering entity since 1996 in respect of the marks at issue.</sentence>
+<sentence id="s201">50 Accordingly, I find that the evidence of Andrews as to his subjective beliefs and the evidence about his conduct since 1996 is neither admissible nor relevant in determining what was transferred from Andrews as sole proprietor to LEI upon its incorporation in 1996.</sentence>
+<sentence id="s202">51 In the absence of any contrary contemporaneous written or oral evidence as to the nature of the right conveyed, I conclude that it is more probable than not that the effect of the transaction then made was that Andrews conveyed full title to the then unregistered marks to LEI.</sentence>
+<sentence id="s203">The best evidence on this point was the direct testimony of Andrews as follows:
+ 
+ 
+ There came the time --- I think it was '96, correct me if I'm wrong --- where there was no longer a requirement to have a second director.</sentence>
+<sentence id="s204">... [S]o I thought I'd start with a clean sheet.</sentence>
+<sentence id="s205">So Liquid Engineering International Proprietary Limited was formed with me as a sole shareholder and director.</sentence>
+<sentence id="s206">It bought materials and stock, office furniture, vehicles, anything from Liquid Engineering --- Paul Andrews trading as Liquid Engineering.</sentence>
+<sentence id="s207">Paul Andrews trading as Liquid Engineering proceeded to settle its debtors and creditors and we started off with clean books because we'd had a bit of a computer problem, so I wanted to start off with a new system.</sentence>
+<sentence id="s208">(Emphasis added.</sentence>
+<sentence id="s209">)
+ 
+ 
+
+52 The quoted answer is consistent only with the transaction in 1996 being one in which anything and everything of use or value to the business was transferred to the new company.</sentence>
+<sentence id="s210">That Andrews may not have understood at the time that the unregistered marks had value does not mean that they were not included as part of the general transfer of assets.</sentence>
+<sentence id="s211">53 The second submission --- that there is no evidence that LEA transferred its intellectual property rights to LEL as required in the deed of company arrangement --- is without merit and should be rejected.</sentence>
+<sentence id="s212">Notwithstanding the respondents' vague allegation that the evidence of the asset transference (by which they presumably mean the deed of transfer of intellectual property between LEA and LEI) is "unsubstantiated," there was no challenge to the authenticity of the deed, nor was any witness examined or cross-examined as to its contents or accuracy.</sentence>
+<sentence id="s213">The deed is what it purports to be, a duly executed deed consistent with the terms stated in the September 2001 deed of company arrangement and November 2001 prospectus.</sentence>
+<sentence id="s214">It is to be given effect according to its terms.</sentence>
+<sentence id="s215">54 Moreover, as counsel for LE 2003 noted, the relevance of LEA's rights is in itself highly doubtful.</sentence>
+<sentence id="s216">It was LEI (and later LEL) that performed the role of marketing and selling the marked products, not LEA.</sentence>
+<sentence id="s217">As such, there is no reason to assume or find by implication that the trade mark rights in question ever passed to LEA in the first place such that they needed to be transferred to LEI in order to make good the chain of title.</sentence>
+<sentence id="s218">Accordingly, I find that domestic rights to the "Exit Rust" and "Fuel Set" marks passed from Andrews to LEI in 1996, then to LEL in 2001 under the deed of transfer, and finally to LE 2003 under the sale agreement in 2003.</sentence>
+<sentence id="s219">55 With that, I now turn to the license or estoppel point.</sentence>
+<sentence id="s220">As noted earlier, the respondents submit in the alternative that Spry (then general manager of LEL), with the tacit approval of Andrews, on behalf of LEL, gave Edwards what amounted to a licence to register or conditional ownership of the marks during a telephone call prior to February 2003.</sentence>
+<sentence id="s221">Edwards gave affidavit evidence that Spry gave such permission while Andrews listened on conference phone and did not object.</sentence>
+<sentence id="s222">Regrettably, neither side made any direct attempt to lead oral evidence regarding this allegation.</sentence>
+<sentence id="s223">Andrews, however, can be said to have implicitly denied participating in such a call when he testified on direct examination that he did not find out about any trade mark applications being lodged by Edwards until Spry told him after that he (Andrews) had been ousted from the business due to the appointment of receivers and after the registration had been successfully made.</sentence>
+<sentence id="s224">56 However, Andrews added that even if he had known, he would not have taken any action to object because he lacked the funds, he did not consider the marks to have any value in light of his earlier failed registration attempt, and in any event he had effectively been booted from the business such that it was really no longer his concern.</sentence>
+<sentence id="s225">Finally, he added that he did have discussions with Edwards regarding a potential licensing agreement (prior to finding out about the registration but after being ousted by the receivers) for use of the marks but did not pursue it because he "had no interest".</sentence>
+<sentence id="s226">Spry was not called by either side and Edwards was not cross-examined regarding the alleged conversation.</sentence>
+<sentence id="s227">Thus, the only facts firmly established are that Edwards lodged the trade mark applications on 3 February 2003 and LEL went into receivership on 5 February 2003.</sentence>
+<sentence id="s228">It should also be remembered that the receivers, as well as LE 2003, were aware of Edwards' registration attempts as evidenced by the clause in the 8 April 2003 sale agreement stating that the seller made no warranty as to its title to the marks in light of Edwards' activities.</sentence>
+<sentence id="s229">57 The evidence that was said to bear upon this issue was unsatisfactory.</sentence>
+<sentence id="s230">Doing the best I can with that evidence, I conclude that it is equally probable that one of two things happened.</sentence>
+<sentence id="s231">But neither would assist the respondents' case.</sentence>
+<sentence id="s232">First, it is possible that Edwards informed Spry, but probably not Andrews (although the analysis would be the same even if I were to consider that Andrews had been informed as well), of his intent to lodge applications for registration of the "Exit Rust" and "Fuel Set" marks, but that Spry (as agent of LEL) neither affirmatively nor unconditionally consented to such applications being lodged.</sentence>
+<sentence id="s233">Rather, Spry simply considered that the marks had no value and thus considered that there was no harm in letting Edwards try at his own expense, provided (explicitly or implicitly) that, if successful, Edwards would compensate the company or the directors in some way.</sentence>
+<sentence id="s234">The expectation that compensation would be paid is supported by the subsequent meeting between Edwards and Andrews to discuss a licensing fee.</sentence>
+<sentence id="s235">The respondents accept that this finding is open.</sentence>
+<sentence id="s236">In effect, there may have been an agreement to agree to the subsequent sale or license of the marks, but that is of course no agreement at all in law: eg Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd [1982] HCA 53 ; (1982) 149 CLR 600 at 604.</sentence>
+<sentence id="s237">58 Alternatively, the person or persons informed by Edwards (whether that was Spry or Andrews or both) may have raised no objection or condition of compensation on behalf of LEL, whether because they considered Edwards' efforts doomed to fail or because they simply had bigger fish to fry in light of the impending collapse of the company into receivership.</sentence>
+<sentence id="s238">Again, however, such facts would not support the existence of a legal agreement (whether assignment, license, or otherwise) or the imposition of a legal duty between Edwards and LEL because silence or failure to object in the face of an unsolicited proposal does not constitute acceptance at law (ie there is no duty to positively reject the proposal): Winterton Constructions Pty Ltd v Hambros Australia Ltd [1992] FCA 582 ; (1992) 39 FCR 97 at 112-115.</sentence>
+<sentence id="s239">59 In short, I am not persuaded that Edwards obtained any licence or concurrent use agreement at law from LEL, the then-owner of the unregistered marks "Exit Rust" and "Fuel Set".</sentence>
+<sentence id="s240">60 In other circumstances it may have been arguable that the continued silence of the directors might have given rise to an equitable estoppel argument: Pegela Pty Ltd v National Mutual Life Association of Australasia Ltd [2006] VSC 507 at [565] (stating that an estoppel by convention may be found "where a party remains silent if that silence was understood to be an acceptance of the state of affairs").</sentence>
+<sentence id="s241">However, the question of an estoppel does not arise here.</sentence>
+<sentence id="s242">Both Spry and Andrews lost control of the company only two days after the applications for registration were lodged and very shortly after any conversation between Edwards and Spry might have occurred.</sentence>
+<sentence id="s243">The receivers then, in the April 2003 sale agreement, expressly handed over the trade mark question to the new owner of the business, LE 2003.</sentence>
+<sentence id="s244">LE 2003 in turn promptly asserted its rights in the 9 May 2003 letter from its solicitors to Edwards demanding that he desist from using the marks.</sentence>
+<sentence id="s245">61 Given that LEL's management remained in charge for only two days after the applications for registration were lodged and given the ongoing upheaval in management between at least January and April 2003, I do not consider that any failure of Spry and Andrews to object would support a claim of reasonable reliance on the part of Edwards, particularly where the new owner of LEL's assets so promptly registered its objection.</sentence>
+<sentence id="s246">Again, if the respondents at any point felt that LE 2003's threats of infringement were unjustified (whether because they had a licence, because LE 2003 was not the owner of the marks, or for some other reason), the proper response was to file an action under s 129 of the TMA.</sentence>
+<sentence id="s247">Again, I do not consider that equity will intervene in such circumstances.</sentence>
+<sentence id="s248">62 Based on the foregoing, the cross-claim with respect to the "Exit Rust" and "Fuel Set" marks must also be dismissed with costs.</sentence>
+<sentence id="s249">63 Before proceeding to a consideration of quantum, I should deal with a number of minor issues necessary to the conclusion that LE 2003's application under s 88 of the TMA (and consequent infringement case) is made out.</sentence>
+<sentence id="s250">First, it is settled that ownership of a trade mark arises from first use, and only that first user or his or her successor-in-interest may apply for registration: Colorado Group Ltd v Strandbags Group Pty Ltd [2007] FCAFC 184 ; (2007) 164 FCR 506 at [4] - [5] .</sentence>
+<sentence id="s251">64 Second, it follows that where a person such as Edwards, who is neither the first user nor the successor-in-interest, successfully registers a mark any person who can demonstrate a reasonable possibility of being the true owner or successor-in-interest (here, LE 2003) is a person aggrieved by that registration within the meaning of s 88 of the TMA: s 58 of the TMA; see also Assa Abloy Australia Pty Ltd v Australian Lock Co Pty Ltd [2005] FCAFC 246 ; (2005) 147 FCR 126 at [19] (stating that the expression "would include any person in respect of whom there is a reasonable possibility of his or her being 'appreciably disadvantaged in a legal or practical sense' by the entry not being expunged").</sentence>
+<sentence id="s252">65 Third, where an application for registration is made by other than the true owner, the Court may rectify the situation by imposing a constructive trust on the application and subsequent registration from the date on which the application was lodged and additionally or alternatively rectifying the Register through substitution of the true owner's name: Figgins Holdings Pty Ltd v Registrar of Trade Marks (1995) 59 FCR 147 at 149.</sentence>
+<sentence id="s253">It follows that I need not consider LE 2003's alternate grounds for rectification under ss 42(b) and 60 of the TMA.</sentence>
+<sentence id="s254">66 As the true beneficial owner of the registered marks from 8 April 2003, LE 2003 is entitled to assert claims against the respondents for any unauthorised, infringing use under the s 120 of the TMA principles identified earlier.</sentence>
+<sentence id="s255">I consider that an ordinary person would likely be confused or deceived by the respondents' use of the "Fuel Set" and "Exit Rust" marks in relation to the same goods as LE 2003.</sentence>
+<sentence id="s256">Evidence was led that in some cases SK Rural added the word "sure" before Exit Rust and Fuel Set and that the respondents used a different background colour than LE 2003 with respect to the labels on its Exit Rust and Fuel Set products.</sentence>
+<sentence id="s257">For generally the same reasons given earlier in connection with the "Liquid Engineering" mark, I do not consider that the addition of the bland adjective "sure" or a change in the background colours of the label would affect the overall impression of the ordinary person that the products were likely from the same source.</sentence>
+<sentence id="s258">Again, this conclusion is buttressed by the finding that Edwards affirmatively intended to appropriate the mark of LE 2003 and its predecessor-in-interest by using it in relation to the same goods in order to take advantage of the positive association between those goods and LEL.</sentence>
+<sentence id="s259">67 In light of the foregoing conclusion, it is unnecessary to accept LE 2003's alternate submission that as the registered owner of trade mark No.</sentence>
+<sentence id="s260">1037362 "Fuel Set" since 11 January 2005, the respondents' use of the mark "Fuel Set" was an infringing use of that mark.</sentence>
+<sentence id="s261">Similarly, I note but do not consider as relevant the application of LE 2003 No.</sentence>
+<sentence id="s262">1037163 to register "Exit Rust," the fate of which application is pending the outcome of these applications.</sentence>
+<sentence id="s263">68 Finally, I do not accept the respondents' submission that if they "are liable as alleged for infringement of trademark, they are entitled to the Court's discretion under [ss] 89, 122, 123, and 124" of the TMA.</sentence>
+<sentence id="s264">Section 89 of the TMA provides that the Court may decide not to grant rectification if the registered owner satisfies the Court that an application is made under s 88(2)(c) or on the ground that the registered mark is liable to confuse or deceive arises through no act of fault of the registered owner.</sentence>
+<sentence id="s265">This section is not engaged in the present case because LE 2003's application is not made on a ground that would enliven the Court's discretion.</sentence>
+<sentence id="s266">Instead, the application is made on the basis that Edwards is not the owner of the mark.</sentence>
+<sentence id="s267">69 With respect to s 122 of the TMA, the respondents' submissions did not identify any particular ground in the statute that would entitle Edwards to relief from a finding of liability.</sentence>
+<sentence id="s268">No ground for relief under the section being shown, it need not be further considered.</sentence>
+<sentence id="s269">70 Section 123 of the TMA excepts from liability uses that would otherwise be infringing but for the application by or with consent of the trade mark owner of the mark to similar goods.</sentence>
+<sentence id="s270">However, I have already rejected the respondents' claims that any of them had the permission or consent of an authorised person to use the mark.</sentence>
+<sentence id="s271">To the extent that Edwards relies on authorised purchases of Liquid Engineering products (including Exit Rust and Fuel Set) from LE 2003 from 26 March 2003 to September 2003, I am not satisfied as to either of: (1) the amounts of the sales (and subsequent resales, if any); or (2) the nature of Edwards' permission to resell the products, if any (ie whether it included permission to sell the goods under a mark the same as or similar to "Liquid Engineering", "Exit Rust" or "Fuel Set").</sentence>
+<sentence id="s272">Particularly in the absence of any facts to suggest that LE 2003 consented to the resale of goods under a potentially infringing mark (to the contrary, the correspondence from LE 2003 shows consistent denials of any permission to deal in the goods, as well as demands to return or otherwise account for sales of the goods), I conclude that the defence afforded by s 123 of the TMA is not made out.</sentence>
+<sentence id="s273">71 Finally, s 124 of the TMA provides a defence to infringement of a registered mark where the person can demonstrate continuous use of a deceptively similar unregistered mark dating back to a time before the date of registration of the mark or the date when the registered owner (or predecessor in title) first used the mark.</sentence>
+<sentence id="s274">This defence has no application in this case.</sentence>
+<sentence id="s275">First, neither LFS nor Edwards demonstrated use, in his or its own right, of the unregistered "Liquideng" mark dating back to a time before "Liquid Engineering" was registered in 1998, much less its first use in 1989 or 1990.</sentence>
+<sentence id="s276">Second, none of the respondents demonstrated use of "Exit Rust" or "Fuel Set" marks prior to the date of registration on 3 February 2003 or prior to their first use in 1989 or 1990.</sentence>
+<sentence id="s277">Again, I conclude on those facts that the s 124 defence is not available.</sentence>
+<sentence id="s278">QUANTUM 
+ 
+72 A number of criticisms have been made in these reasons about the way in which the litigation was conducted.</sentence>
+<sentence id="s279">Particular difficulty is presented by one aspect of the conduct of the case in connection with questions of quantum of damages.</sentence>
+<sentence id="s280">73 At the directions hearing on 26 November 2007, counsel for LE 2003, Mr Heerey, acceded to the request of the respondents' counsel that the trial not be split between trial of the issues of liability and trial of the issues of quantum.</sentence>
+<sentence id="s281">The following exchange then ensued in which the respondents' counsel was put on notice that, in a non-split trial (which was set down to begin some five months later on 21 April 2008), the respondents would be expected to lead evidence with respect to quantum in order to assist LE 2003's election between an account of profits and damages in the event it succeeded in establishing liability:
+ 
+ 
+ MR HEEREY: Your Honour, can I just raise one other issue?</sentence>
+<sentence id="s282">If the trial will not be split, then all questions of liability have to be determined on that date which means that we will require the affidavits which Mr Edwards puts on to address all those issues.</sentence>
+<sentence id="s283">It has to be done on the basis that we may [succeed] on our claims, so he will need to put on, in his affidavits, full sales records --- full records going to profits so that we can make an election.</sentence>
+<sentence id="s284">HER HONOUR: I understand.</sentence>
+<sentence id="s285">MR HEEREY: I don't think it has t[o] be dealt with in the 
+ 
+ HER HONOUR: No.</sentence>
+<sentence id="s286">Dr Dean has now heard what you've said.</sentence>
+<sentence id="s287">MR HEEREY: He is on notice, yes.</sentence>
+<sentence id="s288">HER HONOUR: It is on the transcript.</sentence>
+<sentence id="s289">MR HEEREY: Yes.</sentence>
+<sentence id="s290">HER HONOUR: He understands he has to address those issues.</sentence>
+<sentence id="s291">MR HEEREY: Yes, and if there's any gaping holes in the evidence when they receive it, well we can address that at that time but I won't say anything further at this stage.</sentence>
+<sentence id="s292">
+ 
+
+74 On 28 March 2008, LE 2003 served a notice to produce on the respondents requesting all invoices and documents establishing gross sales of the infringing products.</sentence>
+<sentence id="s293">The documents were to be produced on 9 April 2008, but that date for compliance was subsequently extended to 16 April 2008 by order of the Court dated 9 April 2008.</sentence>
+<sentence id="s294">Given that production of the evidence relating to quantum, which amounted to thousands of invoices, did not begin until five days before the start of the trial and continued until the day before the trial ended, LE 2003 was understandably not in a position to make any election on quantum.</sentence>
+<sentence id="s295">75 Moreover, it came to light on the first day of trial that the respondents' advisers had refused to give confidentiality undertakings with respect to the evidence of LE 2003's financials and profit margins, such that LE 2003's confidential affidavits remained unread by the respondents despite the fact that they had been available since February 2008.</sentence>
+<sentence id="s296">No explanation was given for resisting the undertakings.</sentence>
+<sentence id="s297">I will return to this and related issues shortly.</sentence>
+<sentence id="s298">76 In the meantime, the Court made clear to counsel that LE 2003 would not be required to elect between an account of profits and damages until at least the close of evidence: Dr Martens Australia Pty Ltd v Bata Shoe Company of Australia Pty Ltd (1997) 75 FCR 230 , 237 (stating that an applicant is "entitled to delay making an election at least until all the evidence is in"); see also GM &amp; AM Pearce &amp; Co Pty Ltd v Australian Tallow Producers [2005] VSCA 113 at [56] ; Acme Office Service Pty Ltd v Lundstrom [2002] NSWSC 277 at [39] .</sentence>
+<sentence id="s299">The respondents' counsel made it clear that he vigorously disputed that he had any burden of production with respect to quantum; in particular, he submitted that in the absence of any request from LE 2003 to produce records of the respondents' costs the respondents had no burden to do so.</sentence>
+<sentence id="s300">However, the Court indicated that while LE 2003 would be required to establish evidence of the respondents' gross sales in the event it elected for an account of profits, the burden would then shift to the respondents to lead evidence relating to overheads and cost of production of the infringing goods.</sentence>
+<sentence id="s301">77 Reference was made to Dart Industries Inc v D&eacute;cor Corporation Pty Ltd [1993] HCA 54 ; (1993) 179 CLR 101 , 118, where it was held that, because the relevant facts are likely to be within the knowledge of the defendant, the onus is on the defendant to establish that any item of costs or overhead was incurred in relation to the infringing goods.</sentence>
+<sentence id="s302">The High Court in Dart cited with approval the United States Court of Appeals case of Frank Music Corp v Metro-Goldwyn-Mayer Inc (9 th Cir 1985) [1985] USCA9 1654 ; 772 F2d 505 , where the rules as to quantum were stated with no less clarity (at 514):
+ 
+ 
+ As an alternative to actual damages, a prevailing plaintiff in an infringement action is entitled to recover the infringer's profits to the extent they are attributable to the infringement.</sentence>
+<sentence id="s303">In establishing the infringer's profits, the plaintiff is required to prove only the defendant's sales; the burden then shifts to the defendant to prove the elements of costs to be deducted from sales in arriving at profit.</sentence>
+<sentence id="s304">Any doubt as to the computation of costs or profits is to be resolved in favo[u]r of the plaintiff.</sentence>
+<sentence id="s305">If the infringing defendant does not meet its burden of proving costs, the gross figure stands as the defendant's profits.</sentence>
+<sentence id="s306">(Internal citations omitted.</sentence>
+<sentence id="s307">) 
+ 
+ 
+
+See also Dr Martens , 237 ("If the trial is not split, this means that an applicant will have to call evidence to deal with both damages and an account of profits, as will the respondents").</sentence>
+<sentence id="s308">78 Ultimately, the respondents led oral evidence from Edwards as to his costs during the period from March 2003 to 30 June 2005, which was said to be the period during which Edwards traded as LFS.</sentence>
+<sentence id="s309">On cross-examination, Edwards was confronted with invoices showing that he traded as LFS until April 2006, as well as his earlier sworn declaration that he ceased trading as LFS in January 2005.</sentence>
+<sentence id="s310">It was also established by reference to the invoices that Edwards had begun trading as LFS in March 2003 while still employed by LEL, contrary to the evidence given in his statutory declaration and in probable breach of his fiduciary duties.</sentence>
+<sentence id="s311">However, as counsel for the respondents noted, no claim for breach of fiduciary duties was put.</sentence>
+<sentence id="s312">For the avoidance of doubt, I find as a matter of fact that Edwards traded as LFS from March 2003 until April 2006.</sentence>
+<sentence id="s313">79 Returning to the evidence of costs, Edwards gave evidence that he had written down from memory the night before his testimony some notes regarding his rough monthly costs during the period in which he traded as LFS.</sentence>
+<sentence id="s314">Using those notes, he testified that his costs were: (1) transportation costs including car repayments, fuel, tyres, registration, insurance, general servicing; (2) food and accommodation costs incurred during the approximately 20 days per month he spent on the road making sales; (3) office overhead including mobile and office phone, stationery, invoice books, cheques, rent, accounting fees, a portion of mortgage interest and principal repayments said to be attributable to use of a portion of the home for business purposes; (4) storage fees for the goods; (5) wages paid to himself for sales efforts (approximately $4,000); and (6) costs of purchasing the goods to be sold (approximately $12,000).</sentence>
+<sentence id="s315">The rough total sum of these costs was said to be approximately $22,000 per month, but Edwards conceded that without "look[ing] at the books" this evidence could not be precise.</sentence>
+<sentence id="s316">80 Edwards also gave written evidence that his total gross sales for the period from April 2003 to June 2005 totalled $635,010, for a monthly average of approximately $23,500.</sentence>
+<sentence id="s317">In other words, Edwards on his own evidence was doing only slightly better than break-even.</sentence>
+<sentence id="s318">However, it goes without saying that I am far from satisfied with the reliability or accuracy of the evidence.</sentence>
+<sentence id="s319">Moreover, there was no direct evidence, satisfactory or otherwise, of the gross sales or costs of LFS from July 2005 to April 2006.</sentence>
+<sentence id="s320">81 In contrast to the break-even position suggested by Edwards' evidence, LE 2003 submitted that it was open to the Court to infer LFS had a profit margin of some 60 to 70% of gross sales.</sentence>
+<sentence id="s321">(It also sought 10 to 20% of the gross sales of items not falling within the class of goods covered by the trade marks, such as hammers and duct tape.</sentence>
+<sentence id="s322">The basis of this claim was that Edwards' misrepresentation that he was associated with Liquid Engineering assisted him in making such sales.</sentence>
+<sentence id="s323">I reject this submission on the basis that, with respect to non-infringing sales aided by a prior relationship, a claim could only be made out if Edwards were subject to a non-compete agreement that was a reasonable restraint of trade.</sentence>
+<sentence id="s324">In the absence of such, as in this case, it is settled that there is no property in a customer.</sentence>
+<sentence id="s325">) LE 2003 contended that this figure was in fact quite generous because, given that the respondents failed to discharge their burden of establishing costs, LE 2003 was entitled to claim the whole of the gross sales as profits.</sentence>
+<sentence id="s326">82 To support its figure, LE 2003 relied on the evidence of Fels.</sentence>
+<sentence id="s327">Fels testified that he proposed that Edwards become an employee of LE 2003 under a 50% commission agreement.</sentence>
+<sentence id="s328">Exactly what was meant by this did not emerge in the evidence.</sentence>
+<sentence id="s329">In particular, neither party clarified whether this was meant to be 50% of the gross retail price, 50% of the gross profits, or something else.</sentence>
+<sentence id="s330">Counsel for LE 2003 proceeded on the basis that it was an offer to share 50% of the gross sales and thus asked the Court to infer that, in rejecting the offer, Edwards intended to make and presumably did make, a profit margin of more than 50% of gross sales revenue.</sentence>
+<sentence id="s331">Counsel for the respondents, on the other hand, submitted that the offer should have been understood as 50% of gross profits rather than 50% of gross sales.</sentence>
+<sentence id="s332">83 Notwithstanding the parties' failure to clarify the terms of the offer with Fels or Edwards, I think it more probable that the respondents' submission is right than the submission on behalf of LE 2003.</sentence>
+<sentence id="s333">Fels gave evidence that since his acquisition of the company (ie since LE 2003 took over the business in April 2003), it had more or less been breaking even or making a slight profit.</sentence>
+<sentence id="s334">In the period just prior to acquisition, the company had been running at an $800,000 loss.</sentence>
+<sentence id="s335">I consider it inconsistent with the extremely low or even negative net profits of the company that Fels would offer Edwards 50% of gross revenue on sales made by him.</sentence>
+<sentence id="s336">In other words, I do not consider that the 50% offer in any way opens an inference that Edwards or LFS had or expected a net profit margin at or above 50%.</sentence>
+<sentence id="s337">To the contrary, I find that the evidence of Fels regarding LE 2003's own profitability is consistent with and supports the otherwise scant evidence of Edwards that profits were not much above break-even.</sentence>
+<sentence id="s338">84 The bottom line is that the evidence of profits and costs with respect to LFS is anything but complete and it is for that reason unsatisfactory.</sentence>
+<sentence id="s339">On the one hand, I agree with the submission from LE 2003 that it was for the respondents to establish their costs, which they failed to do, and thus on that basis it would be open to me to simply award LE 2003 the full amount of its 70% claim.</sentence>
+<sentence id="s340">85 LE 2003 proposed that one way to deal with the gaps in the evidence of quantum would be to order that the parties go through the invoices, and exchange schedules between themselves as to the dates and amounts of individual sales in an attempt to reach an agreement as to the precise account of profits.</sentence>
+<sentence id="s341">In the event that the parties were unable to agree between themselves, LE 2003 suggested that the dispute could be referred to a Registrar of the Court for resolution.</sentence>
+<sentence id="s342">I do not consider either proposal is appropriate.</sentence>
+<sentence id="s343">86 First, costs of the proposed exercise, which would span some 80 days according to the schedule devised by LE 2003, would likely be significant.</sentence>
+<sentence id="s344">Given the history of this litigation to date, I find it unlikely in the extreme that the parties would be able to agree between themselves as to an appropriate figure for quantum.</sentence>
+<sentence id="s345">The probable, if not inevitable result, would be appeals to the Registrar and then to the Court, as well as applications for the costs of those proceedings.</sentence>
+<sentence id="s346">In short, I consider that any benefits resulting from a more precise quantification of damages would be far outweighed by the costs to the parties and the Court of obtaining that precision.</sentence>
+<sentence id="s347">87 Instead, I consider that the better approach is simply to do the best I can to quantify the profits on the evidence available, even if such quantification necessarily involves a degree of speculation and guesswork: eg Placer (Granny Smith) Pty Ltd v Thiess Contractors Pty Ltd [2003] HCA 10 ; (2003) 196 ALR 257 at [37] ; Adidas-Solomon AG v Turner (2003) 58 IPR 66 at [4]-[5]; Enzed Holdings Ltd v Wynthea Pty Ltd [1984] FCA 373 ; (1984) 57 ALR 167 , 183; Sony Computer Entertainment Australia Pty Ltd v Stirling [2001] FCA 1852 at [7] .</sentence>
+<sentence id="s348">Applying that approach, I consider that it is fair, based on the evidence to which I have referred, to find that LFS had average gross sales from March 2003 through April 2006 of $23,000 per month with average costs of $21,000 per month.</sentence>
+<sentence id="s349">This yields a net profit of $2,000 per month, or approximately 10%.</sentence>
+<sentence id="s350">Multiplying that monthly figure by 38 gives a total profit of $76,000.</sentence>
+<sentence id="s351">That figure is not inconsistent with the evidence of Fels.</sentence>
+<sentence id="s352">It is a figure that recognises that the business was not making large profits.</sentence>
+<sentence id="s353">At the same time it is a figure that recognises that it was for the respondents to lead evidence that would show that they made no profits.</sentence>
+<sentence id="s354">88 That leaves only the account of profits with respect to SK Rural for infringing sales of "Exit Rust" and "Fuel Set".</sentence>
+<sentence id="s355">LE 2003 established that between 30 June 2005 and 1 July 2007 (the date by which SK Rural ceased sales of the infringing products on advice of counsel), SK Rural had gross sales with respect to Fuel Set of $278,967.47 and gross sales with respect to Exit Rust of $22,789.61, for a total of $301,757.08.</sentence>
+<sentence id="s356">89 Again, the respondents led no evidence as to the costs of SK Rural in relation to the infringing sales.</sentence>
+<sentence id="s357">Edwards accepted in cross-examination that John Browner, the person at SK Rural with knowledge of those costs, is presently in Western Australia and could have been called to give evidence.</sentence>
+<sentence id="s358">Because no explanation was given for the failure to call Browner, LE 2003 argues that according to the rule in Jones v Dunkel (1959) 101 CLR 298 it is open for the Court to draw an adverse inference to SK Rural to the effect that Browner's evidence would not have been of assistance.</sentence>
+<sentence id="s359">90 Again, it would be open to the Court under authorities referred to earlier to award LE 2003 the whole of the gross revenue generated by the infringing sales.</sentence>
+<sentence id="s360">Nevertheless, LE 2003 submitted that it would be more reasonable and fair in the circumstances to infer, based on the evidence of costs in relation to Exit Rust and Fuel Set provided by LE 2003 in the confidential affidavit of Fels, that SK Rural's costs were similar or the same.</sentence>
+<sentence id="s361">91 I am prepared to accept that LE 2003's costs with respect to Exit Rust and Fuel Set would likely be similar, and therefore of some relevance in the absence of direct evidence from SK Rural.</sentence>
+<sentence id="s362">However, a review of the confidential affidavit materials reveals that the evidence of LE 2003's costs is incomplete, to say the least.</sentence>
+<sentence id="s363">Without disclosing the details, Fels' affidavit identifies the costs of materials, packaging, and labelling.</sentence>
+<sentence id="s364">However, it does not disclose the costs of storage, transport, sales, marketing, or any percentage of general overheads that might reasonably be allocated to infringing sales.</sentence>
+<sentence id="s365">In the absence of such evidence, I do not consider that there is a sufficient basis for using the proved costs of LE 2003 as a basis for estimating the costs of SK Rural.</sentence>
+<sentence id="s366">92 Under the circumstances, and again applying the approach referred to earlier, I consider that the same 10% margin estimated with respect to LFS should be applied to SK Rural.</sentence>
+<sentence id="s367">The evidence showed that there was little, if any, difference between the method of sales, clientele, product range, and personnel of LFS and SK Rural.</sentence>
+<sentence id="s368">Taking 10% of $301,757.08, I arrive at a net profit of $30,175.71.</sentence>
+<sentence id="s369">93 In addition to monetary relief, LE 2003 also seeks injunctions restraining the respondents from using the marks "Liquideng", "Liquideng Farm Supplies", "Exit Rust" and "Fuel Set" in the future.</sentence>
+<sentence id="s370">These reasons for decision make clear what conduct the respondents are and are not permitted to engage in with respect to the use of the disputed marks.</sentence>
+<sentence id="s371">In light of the fact that the respondents are shown to have voluntarily refrained from engaging in any infringing conduct since at least July 2007, I am not satisfied that injunctive relief is appropriate: see, by way of example, Microsoft Corporation v TYN Electronics Pty Ltd (in liquidation) (2004) 63 IPR 137 at [36].</sentence>
+<sentence id="s372">The prayers for injunctive relief are denied.</sentence>
+<sentence id="s373">94 LE 2003 sought orders that Edwards and LFS take all necessary steps to remove the word "Liquideng" from LFS's corporate name.</sentence>
+<sentence id="s374">No basis for making such orders was established.</sentence>
+<sentence id="s375">LE 2003 does not have ownership rights at large with respect to the "Liquid Engineering" mark.</sentence>
+<sentence id="s376">Its rights are limited to the particular classes of goods specified: Colorado Group at [6].</sentence>
+<sentence id="s377">As such, LE 2003 would not be entitled to prevent LFS from trading in, say, goods such as stuffed animals under the mark "Liquideng", much less is it entitled to have "Liquideng" struck from LFS's corporate name generally.</sentence>
+<sentence id="s378">COSTS AND INTEREST 
+ 
+95 Something more must be said about costs and interest.</sentence>
+<sentence id="s379">I have already dealt with the costs of the proceedings in VID 934 of 2006.</sentence>
+<sentence id="s380">96 With respect to the costs of WAD 189 of 2007, I consider that they should follow the event under the ordinary rule.</sentence>
+<sentence id="s381">LE 2003 sought costs on an indemnity basis after 26 November 2007.</sentence>
+<sentence id="s382">While it is true that the conduct of the respondents' legal advisers after that time, particularly with relation to quantum, led to the difficulties that have been described above, I do not consider that those difficulties warrant the making of the order sought.</sentence>
+<sentence id="s383">97 LE 2003 also asks for interest under s 51A of the Federal Court of Australia Act 1976 (Cth), to be calculated with effect from the end of each financial year in which each sale occurred to the date of the judgment.</sentence>
+<sentence id="s384">Needless to say, under the estimated approach to damages I have taken, no finding has been made as to number and value of the infringing sales made by the respondents in each financial year, nor would I consider it a beneficial use of either the Court's or the parties' time to undertake such a calculation at this stage.</sentence>
+<sentence id="s385">98 Fortunately, however, s 51A gives the Court power to order interest at a rate it sees fit on the whole or any part of damages and for the whole or any part of the period from when the cause of action arose until entry of judgment.</sentence>
+<sentence id="s386">In this case, the cause of action under s 88 of the TMA arose on or about 3 February 2003 and the cause of action for infringement of the "Liquid Engineering" mark arose in about March or April 2003.</sentence>
+<sentence id="s387">Infringing conduct ceased in or about July 2007 and April 2006, respectively.</sentence>
+<sentence id="s388">That creates a window of approximately 12 to 63 months dating back from the date of this judgment to the times when the first and last infringing sales occurred.</sentence>
+<sentence id="s389">In the exercise of my discretion, I consider it appropriate to split the difference and apply interest for a period of 36 months (which I arrive at by rounding down from 37.5 months to the whole number of three years).</sentence>
+<sentence id="s390">99 I cannot see any basis for a date more precise or reasoned than that calculated by proceeding on the basis that half the infringing sales occurred in the first two years and the other half occurred in the last two years.</sentence>
+<sentence id="s391">Counting back three years from the approximate date of this judgment (the end of June 2008) one arrives at the final date of 30 June 2005 as the date from which interest should be calculated.</sentence>
+<sentence id="s392">I will order that the rate be determined by reference to the rates set down by the Penalty Interest Rates Act 1983 (Vic).</sentence>
+<sentence id="s393">DECLARATIONS AND ORDERS 
+ 
+100 For the foregoing reasons, the Court will declare that the first respondent in WAD 189 of 2007 has held each of Australian trade mark applications and registrations No.</sentence>
+<sentence id="s394">941987 "Exit Rust" and No.</sentence>
+<sentence id="s395">941989 "Fuel Set" on constructive trust for Liquid Engineering Ltd (ACN 074 772 697) from 3 February to 8 April 2003 and for Liquid Engineering 2003 Pty Ltd (ACN 104 341 657) since 8 April 2003.</sentence>
+<sentence id="s396">101 Further, the orders will be that:
+ 
+1.</sentence>
+<sentence id="s397">The application in VID 934 of 2006 be dismissed.</sentence>
+<sentence id="s398">2.</sentence>
+<sentence id="s399">The respondent in VID 934 of 2006 pay the applicant's reserved costs of and incidental to the proceedings, such costs to be taxed in default of agreement.</sentence>
+<sentence id="s400">3.</sentence>
+<sentence id="s401">The first and second respondents in WAD 189 of 2007 pay the applicant $76,000 within 28 days, with liability for such payment to be joint and several.</sentence>
+<sentence id="s402">4.</sentence>
+<sentence id="s403">The third respondent in WAD 189 of 2007 pay the applicant $30,175.71 within 28 days.</sentence>
+<sentence id="s404">5.</sentence>
+<sentence id="s405">Interest be paid on the sums in orders 3 and 4 under s 51A of the Federal Court of Australia Act 1976 (Cth) calculated with effect from 30 June 2005 to the date of judgment by reference to the rates set down in the Penalty Interest Rates Act 1983 (Vic).</sentence>
+<sentence id="s406">6.</sentence>
+<sentence id="s407">Pursuant to s 88(1)(b) of the TMA, the Register of Trade Marks maintained under the TMA be rectified by amending the entries for registered trade mark No.</sentence>
+<sentence id="s408">941987 "Exit Rust" and registered trade mark No.</sentence>
+<sentence id="s409">941989 "Fuel Set," being entries wrongly made or remaining in the Register as being owned by the first respondent in WAD 189 of 2007, and recording that the true owner of each of those registrations has been Liquid Engineering Ltd (ACN 074 772 697) from 3 February to 8 April 2003 and Liquid Engineering 2003 Pty Ltd (ACN 104 341 657) since 8 April 2003.</sentence>
+<sentence id="s410">7.</sentence>
+<sentence id="s411">The cross-claim in WAD 189 of 2007 be dismissed.</sentence>
+<sentence id="s412">8.</sentence>
+<sentence id="s413">The respondents pay the applicant's costs of the proceedings in WAD 189 of 2007, including the costs of the cross-claim, on a party-party basis, such costs to be taxed in default of agreement.</sentence>
+<sentence id="s414">I certify that the preceding one hundred and one (101) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.</sentence>
+<sentence id="s415">Associate:
+
+Dated: 26 June 2008
+
+ Date of Hearing: 3 May 2007 
+ 
+ Counsel for William Michael Edwards: Dr R Dean 
+ 
+ Solicitor for William Michael Edwards: Peter Cahill 
+ 
+ Counsel for Liquid Engineering 2003 Pty Ltd: By leave, Mr Fels appeared in person for Liquid Engineering 2003 Pty Ltd.</sentence>
+<sentence id="s416">Date of Hearing: 12 September 2007 
+ 
+ Counsel for William Michael Edwards: Dr R Dean 
+ 
+ Solicitor for William Michael Edwards: Peter Cahill 
+ 
+ Counsel for Liquid Engineering 2003 Pty Ltd: Mr RJ Price 
+ 
+ Solicitor for Liquid Engineering 2003 Pty Ltd: Murfett Legal 
+ 
+ 
+
+ Date of Hearing: 21-24 April 2008 
+ 
+ Counsel for William Michael Edwards, Liquideng Farm Supplies Pty Ltd (ACN 108 944 109), SK Rural Supplies Pty Ltd (ACN 108 066 397): Dr R Dean 
+ 
+ Solicitor for William Michael Edwards, Liquideng Farm Supplies Pty Ltd (ACN 108 944 109), SK Rural Supplies Pty Ltd (ACN 108 066 397): Peter Cahill 
+ 
+ Counsel for Liquid Engineering 2003 Pty Ltd: Mr EJC Heerey 
+ 
+ Solicitor for Liquid Engineering 2003 Pty Ltd: Middletons 
+
+ 
+ 
+ Date of Judgment: 26 June 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/970.html 
+ 
+ </sentence>
+</sentences>
+</case>

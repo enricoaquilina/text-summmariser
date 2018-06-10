@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<case>
+<name>Bailey v Veda Advantage Information Services and Solutions Limited (No 2) [2008] FCA 730 (22 May 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/730.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">class actions</catchphrase>
+<catchphrase "id=c1">nine related proceedings under pt iva of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase "id=c2">each applicant and represented group member claiming to have been refused credit by credit provider in reliance on misleading credit report issued by respondent credit reporting agency in course of its credit reporting business</catchphrase>
+<catchphrase "id=c3">claims based on alleged contravention of s 52 of trade practices act 1974 (cth) (tp act) and negligence under the general law</catchphrase>
+<catchphrase "id=c4">whether s 65a of tp act defeated claim based on alleged contravention of s 52</catchphrase>
+<catchphrase "id=c5">whether proper pleading of a case of "negligent system" in nature of an "honour system" dependent on subscribers entering correct data into respondent's databank. held : (1) s 65a defeated claim founded on alleged contravention of s 52; (2) pleading pleaded a duty of care not to cause economic loss owed to the world at large and was deficient.</catchphrase>
+<catchphrase "id=c6">class actions</catchphrase>
+<catchphrase "id=c7">nine related proceedings under pt iva of the federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase "id=c8">each applicant and represented group member claiming to have been refused credit by credit provider in reliance on misleading credit report issued by respondent credit reporting agency in course of its credit reporting business</catchphrase>
+<catchphrase "id=c9">claims based on alleged contravention of s 52 of trade practices act 1974 (cth) (tp act) and negligence under the general law</catchphrase>
+<catchphrase "id=c10">whether s 65a of tp act defeated claim based on alleged contravention of s 52</catchphrase>
+<catchphrase "id=c11">whether proper pleading of a case of "negligent system" in nature of an "honour system" dependent on subscribers entering correct data into respondent's databank. held : (1) s 65a defeated claim founded on alleged contravention of s 52; (2) pleading pleaded a duty of care not to cause economic loss owed to the world at large and was deficient.</catchphrase>
+<catchphrase "id=c12">practice and procedure</catchphrase>
+<catchphrase "id=c13">trade practices</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ Nature of the proceedings 
+ 
+1 These two proceedings are two of nine related class actions or representative proceedings under Pt IVA of the Federal Court of Australia Act 1976 (Cth) (FCA Act) against the same respondent (Veda).</sentence>
+<sentence id="s1">Veda was once called "Baycorp Advantage Business Information Services Limited".</sentence>
+<sentence id="s2">2 The nine proceedings and the applicants in them respectively are as follows:
+ NSD 368 of 2007 Melissa Marie Szyczew NSD 369 of 2007 Catherine Leanne Lyons NSD 370 of 2007 Cheryl A Matthews NSD 371 of 2007 Andrew Bailey 
+ (the Bailey proceeding) NSD 372 of 2007 David William Hines NSD 373 of 2007 Matthew Zion Rose NSD 377 of 2007 Albert William Kapua NSD 378 of 2007 Stephen John Gregory NSD 393 of 2007 Zashca Knochell
+ (the Knochell proceeding) 
+
+ 
+I will often refer to "the applicants" in the plural, even though the two notices of motion with which these reasons are concerned were each filed in only one of the proceedings (being the Bailey proceeding or the Knochell proceeding) as outlined below.</sentence>
+<sentence id="s3">It is common ground that the two motions have application to all nine proceedings.</sentence>
+<sentence id="s4">3 The Bailey proceeding is the lead proceeding.</sentence>
+<sentence id="s5">Down to the present time all interlocutory steps have been taken in the Bailey proceeding on the basis that they would also have application to the other eight proceedings.</sentence>
+<sentence id="s6">Unfortunately, the solicitors representing the applicants discovered that they had misspelt Ms Knochell's first name as "Zashca".</sentence>
+<sentence id="s7">They filed the notice of motion to which I refer below in the Knochell proceeding rather than in the Bailey proceeding, apparently in order to seek an order that Ms Knochell's name as it appears in the title of the Knochell proceeding be corrected (I note, in passing, that they also wrongly stated Veda's name as "Veda Advantage Information Service and Solutions Limited" rather than "Veda Advantage Information Services and Solutions Limited" on the notice of motion and supporting affidavit).</sentence>
+<sentence id="s8">This has led to the anomaly that whereas until the present time all interlocutory steps have been taken in the Bailey proceeding, of the two motions to which the present reasons relate, one is brought by Ms Knochell in the Knochell proceeding, while the other is brought by Veda in the Bailey proceeding.</sentence>
+<sentence id="s9">4 Of the nine class actions, three relate to events in New South Wales, three to events in Victoria, and the remaining three to events in Queensland.</sentence>
+<sentence id="s10">5 In Bailey v Veda Advantage Information Services and Solutions Limited [2007] FCA 1664 (the Earlier Reasons), I described the general nature of the nine proceedings as follows (at [3]-[6]):
+ 3 All nine are brought by individuals on behalf of themselves and others whose complaints concern information provided by Veda to credit providers relating to the creditworthiness of the applicants and of the group members they respectively represent.</sentence>
+<sentence id="s11">Veda is a credit reporting agency, that is to say, it is a corporation that carries on a credit reporting business (I am using expressions taken from the Privacy Act 1988 (Cth), ss 6 and 11A ).</sentence>
+<sentence id="s12">4 Credit providers subscribe to Veda in order to have the benefit of information related to the creditworthiness of individuals who apply to them for credit.</sentence>
+<sentence id="s13">Veda maintains credit information files on a computer database in relation to individuals.</sentence>
+<sentence id="s14">The credit providers who subscribe are able to access, by computer, the credit information files that are part of the system set up by Veda.</sentence>
+<sentence id="s15">In addition, the subscribers themselves may update the information on those files by providing information known to them concerning individuals.</sentence>
+<sentence id="s16">5 Accordingly, Veda's subscribers are both the suppliers of information to the credit information files and the recipients of information from those files.</sentence>
+<sentence id="s17">I was told that on the final hearing there will be considerable evidence concerning the way in which the system just outlined operates.</sentence>
+<sentence id="s18">6 In the way in which the proceedings have been cast, each of the three relates to the reporting of a particular kind of problem associated with a person's creditworthiness.</sentence>
+<sentence id="s19">In the case of proceeding NSD 368/2007 in which Ms Szyczew is the applicant, the complaint is that the word "Bankrupts" was recorded and conveyed to subscribers in respect of Ms Szyczew and the members of the group on whose behalf she sues.</sentence>
+<sentence id="s20">In the case of proceeding NSD 371/2007 in which Mr Bailey is the applicant, the complaint is that the expression "Clearouts" or "Clearouts (watched)" was recorded and conveyed to subscribers in respect of Mr Bailey and the members of the group on whose behalf he sues.</sentence>
+<sentence id="s21">I infer that what is meant by those expressions is that the person, owing money, has ceased to be contactable.</sentence>
+<sentence id="s22">In proceeding NSD 393/2007 in which Mr Knochell is the applicant, the complaint is that the expression "Payment Default" was recorded and conveyed to subscribers in respect of Mr Knochell and the members of the group on whose behalf he sues.</sentence>
+<sentence id="s23">I note that the subscribers are also referred to as "members".</sentence>
+<sentence id="s24">6 In each proceeding, claims were made of contravention by Veda of ss 52 and 53 of the Trade Practices Act 1974 (Cth) (the TP Act), defamation and negligence.</sentence>
+<sentence id="s25">The claims of contravention of s 53 of the TP Act and of defamation have now been abandoned.</sentence>
+<sentence id="s26">Circumstances leading to the filing of the present motions 
+ 
+7 On 20 February 2008, I made the following orders in each of the nine proceedings:
+ 
+ 
+ 1.</sentence>
+<sentence id="s27">The proceeding be dismissed.</sentence>
+<sentence id="s28">2.</sentence>
+<sentence id="s29">The applicant pay the respondent's costs of the proceeding.</sentence>
+<sentence id="s30">3.</sentence>
+<sentence id="s31">Orders 1 and 2 not be entered without the leave of the Court.</sentence>
+<sentence id="s32">4.</sentence>
+<sentence id="s33">The respondent have leave to apply by motion on notice for leave to enter orders 1 and 2.</sentence>
+<sentence id="s34">5.</sentence>
+<sentence id="s35">The applicant have leave to apply by motion on notice for an order setting aside orders 1 and 2.</sentence>
+<sentence id="s36">6.</sentence>
+<sentence id="s37">The motion referred to in order 5 above be supported by affidavit attaching a copy of any proposed further amended application and proposed further amended statement of claim.</sentence>
+<sentence id="s38">
+ 
+
+8 The making of the orders on 20 February 2008 was the culmination of:
+ 
+&#8226; Orders of 7 November 2007 striking out the applicants' amended application and amended statement of claim;
+ 
+&#8226; A case management conference held on 18 December 2007 and the making of an order on that day that the applicants file any further amended application and any further amended statement of claim by 15 February 2008;
+ 
+&#8226; A directions hearing on 20 February 2008 at which the applicants sought an extension of time in which to file any further amended application and any further amended statement of claim.</sentence>
+<sentence id="s39">9 Pursuant to order 4 of 20 February 2008, on 25 February 2008, Veda filed a notice of motion in the Bailey proceeding seeking leave to enter orders 1 and 2 of 20 February 2008.</sentence>
+<sentence id="s40">The supporting affidavit showed that the nine proceedings have been listed in the Court on 13 separate occasions since they were commenced on 12 March 2007.</sentence>
+<sentence id="s41">10 Shortly afterwards, on 5 March 2008, Ms Knochell filed a notice of motion pursuant to order 5 of 20 February 2008 seeking an order setting aside orders 1 and 2 of that date.</sentence>
+<sentence id="s42">The supporting affidavit annexes a proposed further amended application (as at 4 March 2008) (PFAA) and a proposed further amended statement of claim (also as at 4 March 2008) (PFASOC).</sentence>
+<sentence id="s43">I have annexed to these reasons a copy of the PFASOC (omitting tracking).</sentence>
+<sentence id="s44">Veda indicated that it was content to have the motions determined on the basis of the PFAA and the PFASOC.</sentence>
+<sentence id="s45">11 The supporting affidavit in Ms Knochell's proceeding explains the delay in the filing of her notice of motion.</sentence>
+<sentence id="s46">As it transpires, I have not needed to concern myself with the question of any delay.</sentence>
+<sentence id="s47">APPLICABLE PRINCIPLES 
+ 
+12 There was debate before me as to the appropriate principles to apply in determination of the motions, having regard to the fact that an order of dismissal was made on 20 February 2008.</sentence>
+<sentence id="s48">The applicants contend that their application to set aside the orders of dismissal should be treated as any application for leave to file an amended pleading is treated.</sentence>
+<sentence id="s49">They submit that if they have an arguable case, they should not be shut out by a pleading deficiency, and should, if necessary, have a further opportunity to rectify the position.</sentence>
+<sentence id="s50">13 Veda, on the other hand, contends that the applicants are entitled to little indulgence in view of the order of dismissal and of the history of the proceedings.</sentence>
+<sentence id="s51">Veda points out that the PFAA and the PFASOC are the ninth versions put forward by the applicants.</sentence>
+<sentence id="s52">The applicants do not dispute this, although they correctly point out that far fewer than nine versions have been actually filed.</sentence>
+<sentence id="s53">The reason, however, is that in order to avoid the filing of various versions of the application and statement of claim by the applicants, followed by the filing of notices of motion by Veda seeking orders for summary dismissal or striking out, I sometimes directed the applicants to provide drafts to Veda's solicitors and those solicitors to respond by indicating any objections they had to the drafts.</sentence>
+<sentence id="s54">Veda therefore correctly observes that although there are far fewer than nine versions to be found on the Court file, Veda has been put to the expense, either upon formal motion or pursuant to Court direction, of responding to nine.</sentence>
+<sentence id="s55">14 On the present motions, the applicants have indicated that they would wish, or are willing, to amend the PFAA and PFASOC further.</sentence>
+<sentence id="s56">For example, they wish to add a further common question of fact to the PFAA.</sentence>
+<sentence id="s57">Moreover, in response to Veda's objection to the difficulty of dealing with lengthy, discursive and "rolled up" allegations in the PFASOC, the applicants reply that they are willing to divide the text up into numbered paragraphs.</sentence>
+<sentence id="s58">It is unsatisfactory for the applicants to make this offer in the course of a hearing related to the ninth version of their pleading.</sentence>
+<sentence id="s59">15 In the Earlier Reasons, I referred (at [13]) to the burden that was imposed on the Court (as well as on Veda) by reason of the applicants repeatedly indicating an intention or willingness to amend in the course of the hearing.</sentence>
+<sentence id="s60">Indeed, I made it a condition of any exercise of leave to amend further that the solicitors and counsel for the applicants certify that any further amended documents to be filed had been carefully checked and found to be correct so far as form is concerned.</sentence>
+<sentence id="s61">The PFASOC bears a statement to this effect (though, as Veda points out, it has not been "certified" in the sense that it has not been signed).</sentence>
+<sentence id="s62">Yet the PFASOC does not comply with O 11 r 1 of the Federal Court Rules (Cth) (FC Rules) which provides:
+ Where a pleading alleges or otherwise deals with several matters --- 
+ 
+ (a) the pleading shall be divided into paragraphs; 
+ 
+ 
+ 
+ 
+ (b) each matter shall, so far as convenient, be put in a separate paragraph; and 
+ 
+ 
+ 
+ 
+ (c) the paragraphs shall be numbered consecutively.</sentence>
+<sentence id="s63">
+ 
+ 
+This rule serves an important purpose, namely, that of facilitating discourse in relation to the applicants' allegations, and, in particular, of facilitating the making of responses to them.</sentence>
+<sentence id="s64">I agree with Veda's criticism of the pleading.</sentence>
+<sentence id="s65">16 In essence, Veda submits that "enough is enough" and that any deficiencies remaining in this, the ninth attempt to formulate a satisfactory form of application and pleading, should be viewed strictly.</sentence>
+<sentence id="s66">17 In my view, it was implicit in the orders I made on 20 February 2008 that the applicants would have to show cause why Veda should not be entitled to enter the order of dismissal.</sentence>
+<sentence id="s67">I need deal only with the claims as they stand in the PFAA and PFASOC.</sentence>
+<sentence id="s68">18 The powers of the Court relevant to the making of the orders of 7 November 2007 and 20 February 2008 (referred to at [7]-[8] above), and also relevant to the present motions, are:
+ 
+ FCA Act 
+ Section 31A: 
+ 
+ (2) The Court may give judgment for one party against another in relation to the whole or any part of a proceeding if: 
+ 
+ 
+ 
+ 
+ (a) the first party is defending the proceeding or that part of the proceeding; and
+ (b) the Court is satisfied that the other party has no reasonable prospect of successfully prosecuting the proceeding or that part of the proceeding.</sentence>
+<sentence id="s69">
+ 
+ 
+ 
+ 
+ (3) For the purposes of this section, a defence or a proceeding or part of a proceeding need not be:
+ (a) hopeless; or
+ (b) bound to fail;
+ for it to have no reasonable prospect of success.</sentence>
+<sentence id="s70">
+ 
+Section 33ZF(1): 
+ 
+ (1) In any proceeding (including an appeal) conducted under this Part, the Court may, of its own motion or on application by a party or a group member, make any order the Court thinks appropriate or necessary to ensure that justice is done in the proceeding.</sentence>
+<sentence id="s71">
+ 
+
+ FC Rules 
+ 
+ 
+ Order 11 rule 16:
+ Where a pleading:
+ (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading;
+ (b) has a tendency to cause prejudice, embarrassment or delay in the proceeding; or
+ (c) is otherwise an abuse of the process of the Court; 
+ 
+the Court may at any stage of the proceeding order that the whole or any part of the pleading be struck out.</sentence>
+<sentence id="s72">THE FIRST REMAINING CLAIM --- THE CLAIM UNDER S 52 OF THE TP ACT 
+ 
+19 Veda submits that s 65A of the TP Act supplies a complete answer to the applicants' claim based on the alleged contravention of s 52 of that Act, so that that claim has no reasonable prospect of success.</sentence>
+<sentence id="s73">So far as relevant, s 65A provides:
+ 
+ 
+ (1) Nothing in section 52 ... applies to a prescribed publication of matter by a prescribed information provider, other than: 
+ 
+(a) a publication of matter in connection with: 
+ 
+ 
+ (i) the supply or possible supply of goods or services; 
+ 
+ 
+(ii) ... (iii) the promotion by any means of the supply or use of goods and services; or (iv) ... where: (v) the goods or services were relevant goods or services ... 
+ 
+ 
+ (vi) ... 
+ (b) ...
+ 
+ 
+ 
+ 
+ 
+ (2) For the purposes of this section, a publication by a prescribed information provider is a prescribed publication if: 
+ 
+ 
+ 
+ 
+ (a) ... the publication was made by the prescribed information provider in the course of carrying on a business of providing information; or
+ (b) ... 
+ 
+ 
+ 
+ 
+ (3) In this section: 
+ 
+ 
+ 
+ prescribed information provider means a person who carries on a business of providing information ... 
+ 
+ 
+ 
+ relevant goods or services in relation to a prescribed information provider, means goods or services of a kind supplied by the prescribed information provider ... 
+ 
+ 
+20 According to paras 14 and 15 of the PFASOC, Veda supplied to its members credit reports that contained representations.</sentence>
+<sentence id="s74">The issuing of the credit reports is the conduct by Veda that is said to have contravened s 52 of the TP Act.</sentence>
+<sentence id="s75">21 It is not disputed that Veda carries on a business of providing information and is therefore a "prescribed information provider".</sentence>
+<sentence id="s76">Nor is it in dispute that Veda issued the credit reports in the course of carrying on that business, with the result that the issuing of each of them was a "prescribed publication" within the definition in s 65A(2).</sentence>
+<sentence id="s77">It follows that the issuing of each credit report was a prescribed publication of a matter to which, by reason of s 65A(1), s 52 of the TP Act does not apply, unless the issuing of the credit report falls within the s 65A(1)(a) exception.</sentence>
+<sentence id="s78">22 For that exception to apply, the publication of the credit reports must be in connection with the supply, possible supply or promotion by any means of the supply or use, of goods and services.</sentence>
+<sentence id="s79">The applicants have referred to Veda as having supplied both goods and services.</sentence>
+<sentence id="s80">I need not decide whether this analysis is correct and will proceed on the assumption that it is.</sentence>
+<sentence id="s81">On this basis, apparently the credit reports are the relevant goods, and the conveying of the information contained in them is the relevant service.</sentence>
+<sentence id="s82">The applicants also plead (in para 10(d) of the PFASOC) that the "Internet Service Guide" (also known as the "User Guide") was one of the Veda's goods or services.</sentence>
+<sentence id="s83">For present purposes, I accept that it and the information contained in it are also within the expression "goods or services of a kind supplied by the prescribed information provider" within the definition of "relevant goods or services" in s 65A(3).</sentence>
+<sentence id="s84">It is therefore the credit reports and the User Guide, and the supplying of the information conveyed by them that are the "goods or services" referred to in paras (i) and (v) of s 65A(1)(a).</sentence>
+<sentence id="s85">(Henceforward, for convenience, I will refer simply to the credit reports and sometimes to the User Guide, in each case as including the conveyance of the information contained in them.</sentence>
+<sentence id="s86">) 
+ 
+23 For the applicants' argument to succeed, the publication of the credit reports must be in connection with the supply, possible supply or promotion by any means of the supply or use, of credit reports or the User Guide.</sentence>
+<sentence id="s87">The applicants raise no complaint of a publication of misleading matter in the User Guide.</sentence>
+<sentence id="s88">They plead only that the credit reports themselves have contravened s 52.</sentence>
+<sentence id="s89">24 The applicants submit that there was a cross promotion of "enhanced reports".</sentence>
+<sentence id="s90">I infer that this expression refers to the instances of credit reports pleaded in paras 10(h)(ii) and 10(h)(iii) of the PFASOC.</sentence>
+<sentence id="s91">The enhanced reports are therefore themselves credit reports.</sentence>
+<sentence id="s92">At the hearing, counsel for the applicants attempted to explain how this promotion occurred.</sentence>
+<sentence id="s93">He seemed to suggest that the supply of the credit reports themselves was in connection with the supply, possible supply, or promotion of the supply or use, of the credit reports or "enhanced reports".</sentence>
+<sentence id="s94">The authorities stand against that analysis: Horwitz Grahame Books Pty Ltd v Performance Publications Pty Ltd (1987) 8 IPR 25 at 29; Advanced Hair Studios Pty Ltd v TVW Enterprises Ltd (1987) 18 FCR 1 at 10-11; Lovatt v Consolidated Magazines Pty Ltd (1988) 12 IPR 261 at 273; Bond v Barry [2007] FCA 1484 at [42] .</sentence>
+<sentence id="s95">25 The kind of situation that would be within the exception would be, by way of hypothetical example, a promotion by Veda that if a subscriber used (and therefore paid for) the reporting services supplied by Veda above a certain number of times over a certain period, a reduced charge would apply.</sentence>
+<sentence id="s96">If, in such a case there was in fact no applicable reduced charge, s 65A would not render s 52 inapplicable to Veda's promotional misstatement, because the making of the statement would have been a publication of matter in connection with the supply or possible supply of the credit reports.</sentence>
+<sentence id="s97">26 Counsel for the applicants also suggested that the User Guide promoted the supply or use of the credit reports.</sentence>
+<sentence id="s98">He stated that the User Guide "explain[s] how in order to get a better value for [a] credit report...you should also order the enhanced report...".</sentence>
+<sentence id="s99">The PFASOC nowhere alleges that the User Guide contains such a statement.</sentence>
+<sentence id="s100">In any event, I am not persuaded that by reason of this promotion within the User Guide, the credit reports are published in connection with the promotion of the supply or use of the Veda's goods and services so as to enliven s 65A(1)(a) in relation to the credit reports.</sentence>
+<sentence id="s101">It may be that the publication of the User Guide, if it contains the statements alleged, is in connection with the promotion of the supply or use of Veda's credit reports.</sentence>
+<sentence id="s102">But the PFASOC does not complain that the User Guide contravened s 52 of the TP Act.</sentence>
+<sentence id="s103">27 The applicants' and represented claimants' cases are quite straightforward.</sentence>
+<sentence id="s104">The only representations of which complaint is made are those contained in the credit reports.</sentence>
+<sentence id="s105">They fall squarely within s 65A(1) and therefore nothing in s 52 applies to them.</sentence>
+<sentence id="s106">28 The nine proceedings, in so far as they are founded on an alleged contravention of s 52 of the TP Act, cannot succeed.</sentence>
+<sentence id="s107">THE SECOND REMAINING CLAIM --- THE CLAIM OF NEGLIGENCE 
+ 
+29 The applicants rely on a common law claim of negligence, and state in their submissions that they "press the causes of action for negligence under the common law at pars [23-27]".</sentence>
+<sentence id="s108">No mention is made of a claim of breach of a statutory duty in those submissions.</sentence>
+<sentence id="s109">In their supplementary submissions, however, the applicants state that they plead at para [23] of the PFASOC that Veda owed them a statutory duty.</sentence>
+<sentence id="s110">That statutory duty is articulated in the PFASOC only by the listing of various provisions of the Privacy Act 1988 (Cth) (Privacy Act) in the particulars to para 23 (and also in the particulars to para 12) of the PFASOC.</sentence>
+<sentence id="s111">The relevance of those provisions of the Privacy Act is not elaborated upon elsewhere in the PFASOC.</sentence>
+<sentence id="s112">The expression "common law principles" is also listed within the particulars to para 23.</sentence>
+<sentence id="s113">I accept Veda's submission that if a statutory duty of care is relied upon, as the applicants' supplementary submissions suggest, the fact is that it has not been pleaded.</sentence>
+<sentence id="s114">30 A common law duty of care and a statutory duty of care are two distinct species of duty: see Glass HH, McHugh MH and Douglas FM, The Liability of Employers in Damages for Personal Injury (2 nd Ed, Law Book Co, 1979) at 115.</sentence>
+<sentence id="s115">However, the statutory context may be relevant to the existence of a duty of care in accordance with common law principles.</sentence>
+<sentence id="s116">McDougall J stated in Ingot Capital Investments v Macquarie Equity Capital Markets (No 6) (2007) 63 ACSR 1 at [540]:
+ Recent decisions of the High Court make it plain, in the context of a claim for pure economic loss, that: (1)... .... (7) The relevant statutory and common law context, including the allocation of responsibilities and the provision of remedies, is relevant to the determination, whether a duty of care should be imposed in a particular case...</sentence>
+<sentence id="s117">In support, his Honour cited Esanda Finance Corporation Limited v Peat Marwick Hungerfords [1997] HCA 8 ; (1997) 188 CLR 241 , 282, 286 per McHugh J; Perre v Apand Pty Limited [1999] HCA 36 ; (1999) 198 CLR 180 at [5] per Gleeson CJ; Tame at [6], [120] per McHugh J.</sentence>
+<sentence id="s118">31 Having regard to these authorities, I do not think that the provisions of the Privacy Act referred to in the particulars either give rise to an actionable statutory duty, or disturb the course of reasoning set out below in relation to the existence and pleading of a common law duty of care.</sentence>
+<sentence id="s119">The Privacy Act establishes its own regime for dealing with failures by a credit reporting agency to comply with that Act's requirements.</sentence>
+<sentence id="s120">32 The applicants put at the forefront of their case on negligence the proposition that their case is a "system case".</sentence>
+<sentence id="s121">They claim that by establishing its system and not taking any, or any adequate, steps to ensure that only correct data were entered, Veda was in breach of a duty of care it owed to potential seekers of credit.</sentence>
+<sentence id="s122">They deprecated Veda's business system as an "honour system", that is to say, as a system that depended for its correctness merely on the honour of subscribers.</sentence>
+<sentence id="s123">33 In focussing on Veda's system, the applicants distinguish systemic negligence from casual negligence.</sentence>
+<sentence id="s124">They submit that while they could seek to prove each of their claims as one of casual negligence, they are entitled to prove them all as outworkings of the same systemic negligence.</sentence>
+<sentence id="s125">The applicants have attempted to plead such a "systems" case in the PFASOC.</sentence>
+<sentence id="s126">34 It has long been recognised that there is an important distinction between cases of pure economic loss on the one hand and those of personal injury or damage to property on the other.</sentence>
+<sentence id="s127">The courts have been concerned not to permit liability in respect of economic loss in an indeterminate amount for an indeterminate period to an indeterminate class.</sentence>
+<sentence id="s128">Yet that would be the result if foreseeability of economic loss alone were the touchstone of the existence of a duty of care not to cause such loss.</sentence>
+<sentence id="s129">Economic loss has a flow-on effect so that the initial loss sufferer and others become potential claimants.</sentence>
+<sentence id="s130">35 In Caltex Oil (Australia) Pty Ltd v The Dredge "Willemstad" [1976] HCA 65 ; (1976) 136 CLR 529 at [4] all members of the Court, except Murphy J, accepted that there is no general rule that one person owes to another a duty to take care not to cause reasonably foreseeable financial harm (at 555, 558-559, 592, 598).</sentence>
+<sentence id="s131">This limitation referred to was recognised by Gleeson CJ in Perre v Apand Pty Ltd [1999] HCA 36 ; (1999) 198 CLR 180 at [4] .</sentence>
+<sentence id="s132">In Tame v New South Wales [2002] HCA 35 ; (2002) 211 CLR 317 , the Chief Justice stated (at [6]):
+ One of the reasons for the rejection of a general rule that one person owes to another a duty to take care not to cause reasonably foreseeable financial harm is that the practical consequence of such a rule would be to impose an intolerable burden upon business and private activity.</sentence>
+<sentence id="s133">Furthermore, such a rule would interfere with freedoms, controls and limitations established by common law and statute in various contexts [Perre v Apand Pty Ltd [1999] HCA 36 ; (1999) 198 CLR 180 at 192 [4] - [5] ].</sentence>
+<sentence id="s134">Unscientific as may be the distinction between 'pure' economic loss, 'parasitic' economic loss, and damage to property, the care which the law requires people to show for the person or property of others is not matched by a corresponding requirement to have regard to their financial interests.</sentence>
+<sentence id="s135">The distinction is not based on science or logic; it is pragmatic, and none the worse for that.</sentence>
+<sentence id="s136">A similar view was expressed in the joint judgment of Gleeson CJ, Gaudron, McHugh, Hayne and Callinan JJ in Sullivan v Moody [2001] HCA 59 ; (2001) 207 CLR 562 at [42] (their Honours' comments related to the tort of negligence more generally, and were not confined by reference to financial harm).</sentence>
+<sentence id="s137">36 Apart from foreseeability of economic loss, the PFASOC does not plead facts, which, in conformity with legal principle, give rise to a duty of care owed by Veda.</sentence>
+<sentence id="s138">Foreseeability is pleaded in para 11, which is followed immediately by the pleading of the existence of a duty to take reasonable steps in para 12 (which, I note, is substantially the same as para 23).</sentence>
+<sentence id="s139">The foreseeability pleaded would support the owing of a duty of care by Veda to any individual, whose name may at any time be entered in Veda's database, since there is the possibility that that person may in the future seek credit from any existing or future subscriber to the Veda system.</sentence>
+<sentence id="s140">Counsel for the applicants correctly described at the hearing the duty pleaded as a duty "owed in terms of what's reasonable to every single potential consumer who may be affected by these credit reports.</sentence>
+<sentence id="s141">" The pleaded foreseeability alone would also support the existence of a duty of care to various associates of such a person, such as his or her creditors, family members and business associates.</sentence>
+<sentence id="s142">37 The present case is not one in which Veda had dealings with the applicants and represented claimants in circumstances that might be said to give rise to an acceptance of responsibility by Veda and reliance by the applicants and represented claimants.</sentence>
+<sentence id="s143">It is pleaded that the credit reports were requested by Veda's subscribers and provided by Veda to them.</sentence>
+<sentence id="s144">This establishes a relationship only between Veda and the subscriber.</sentence>
+<sentence id="s145">An undertaking of responsibility accompanied by reliance might characterise that relationship, but that is not this case, which is concerned with the liability of Veda to the applicants and represented claimants.</sentence>
+<sentence id="s146">So far as the PFASOC reveals, Veda had no dealings with the applicants and represented claimants.</sentence>
+<sentence id="s147">38 It is also pleaded that the credit reports were supplied by Veda to the member with "the permission of the member's own consumer" (in para 7 of the PFASOC) or "with the consumer's permission" (in para 11 of the PFASOC).</sentence>
+<sentence id="s148">However, no further facts about the circumstances in which that permission was given by the consumer are pleaded.</sentence>
+<sentence id="s149">It is not pleaded whether the permission was given by the consumer to the subscriber or to Veda directly.</sentence>
+<sentence id="s150">The giving of "permission", without further dealings, is not sufficient to characterise the relationship between Veda and the consumer as one that might be said to give rise to acceptance of responsibility by Veda towards the applicants and represented claimants, giving rise to a duty of care owed by Veda to them.</sentence>
+<sentence id="s151">39 Veda might be said to owe a duty of care to a person applying for credit in respect of whom Veda actually issues a credit report.</sentence>
+<sentence id="s152">Although I am not required to express an opinion on the matter, arguably those circumstances would cause a duty of care to arise at that time in favour of that individual who would be "within Veda's sights".</sentence>
+<sentence id="s153">That individual might seek to prove a breach of the duty to take reasonable care by reason of Veda's issuing its report based on nothing more than its so-called "honour system".</sentence>
+<sentence id="s154">40 The applicants do not, in these class action proceedings, plead their cases on that basis.</sentence>
+<sentence id="s155">They propound a duty of care arising from nothing more than foreseeability of economic loss.</sentence>
+<sentence id="s156">The authorities establish that that is an insufficient basis on which to found the existence of a duty of care.</sentence>
+<sentence id="s157">The existence of the business system alleged by the applicants does not itself give rise to a duty of care to the world of prospective seekers of credit.</sentence>
+<sentence id="s158">41 The PFASOC discloses no reasonable cause of action in negligence.</sentence>
+<sentence id="s159">42 Taking into account amendments to the PFAA put forward by the applicants at the hearing, the applicants propose the following common questions of law and fact:
+ Proposed common questions of law 
+ 
+ (i) Whether the common system of conduct alleged at paragraphs 3-12 of the Further Amended Statement of Claim gave rise to the representations pleaded at paragraphs 2(d) and 16 of the Further Amended Statement of Claim;
+ 
+ (ii) Whether the common system of conduct alleged at paragraphs 3-12 of the Further Amended Statement of Claim, and the representations pleaded at paragraphs 2 and 16 of the Further Amended Statement of Claim are capable of establishing the qualifications and exceptions in s 65A of the Trade Practices Act 1974 (Cth) to enliven the applications of sections 52 and/or 53 of the latter Act to the respondent's conduct.</sentence>
+<sentence id="s160">
+ 
+ 
+ 
+ (iii) Whether the common system of conduct alleged at paragraphs 3-12 of the Further Amended Statement of Claim gave rise to the existence and content of the duty of reasonable skill and care pleaded and particularised at paragraphs 24(i) and 24(ii) of the Further Amended Statement of Claim.</sentence>
+<sentence id="s161">
+ 
+ Proposed common questions of fact 
+ 
+ (i) Whether the respondent in trade or commerce throughout Australia at all material times since 12 March 2004 engaged in a common system of conduct as pleaded and particularised at paragraphs 3-12 of the Further Amended Statement of Claim; 
+ 
+ 
+ 
+ (ii) Whether the respondent breached its duty of reasonable skill and care to the applicant and each other group member respectively by the respondent's conduct of an inherently negligent common system of credit reporting, as pleaded and particularised at pars 1-12 &amp; 26 of the FASOC.</sentence>
+<sentence id="s162">
+ 
+ 
+43 The claim in negligence might be re-pleaded.</sentence>
+<sentence id="s163">A common question of fact might be formulated relating to the breach of the pleaded duties of care owed by Veda to the applicant and the represented claimants.</sentence>
+<sentence id="s164">The common question of fact might be generally along the lines: "Did Veda breach the duties of care it owed to the applicant and represented claimants by issuing, without checking or otherwise taking any, or any adequate, steps to ensure that they were correct, credit reports consisting of data recorded in its databank, having regard to the 'honour system' according to which the data were supplied, collected and recorded?".</sentence>
+<sentence id="s165">44 Further questions would, however, then arise.</sentence>
+<sentence id="s166">There would be a preponderance of non-common questions of fact and law, for example, the question whether the credit report in each case was indeed incorrect, and, if so, whether the credit provider relied on it, and if so, whether the applicant or claimant suffered economic loss as a result.</sentence>
+<sentence id="s167">45 For this reason, if I had not granted Veda leave to enter the orders of dismissal but had granted the applicants a further opportunity to replead and they had done so generally along the lines indicated above, apparently it would have been appropriate to make an order under s 33N of the FCA Act that the proceedings not continue as representative proceedings under Pt IVA of that Act.</sentence>
+<sentence id="s168">Veda has foreshadowed the making of an application under s 33N if the proceedings should not be dismissed.</sentence>
+<sentence id="s169">46 I note that there were numerous criticisms made by Veda in relation to the common questions of fact and law proposed by the applicants.</sentence>
+<sentence id="s170">In the light of my conclusion that Veda have leave to enter the orders of dismissal, it is not necessary for me to deal with these further criticisms.</sentence>
+<sentence id="s171">CONCLUSION 
+ 
+47 The claim under s 52 of the TP Act cannot succeed and the claim of negligence as pleaded cannot do so.</sentence>
+<sentence id="s172">The applicants have had ample opportunity to propound a legally cognisable basis of the duty of care on which they rely as the foundation for their claim in negligence.</sentence>
+<sentence id="s173">The applicants should not have an opportunity to replead.</sentence>
+<sentence id="s174">48 In each of the nine proceedings, Veda should have leave to enter orders 1 and 2 made on 20 February 2008.</sentence>
+<sentence id="s175">In the Knochell proceeding there will also be an order dismissing Ms Knochell's motion brought by notice of motion filed on 5 March 2008.</sentence>
+<sentence id="s176">49 The dismissal of the nine proceedings is not a dismissal of any of them following a hearing on the merits.</sentence>
+<sentence id="s177">It remains open to each applicant and represented claimant to sue Veda separately.</sentence>
+<sentence id="s178">If that were to happen, the court in question could explore means of avoiding the necessity of proof in each case of Veda's business system.</sentence>
+<sentence id="s179">I certify that the preceding forty-nine (49) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s180">Associate:
+
+Dated: 22 May 2008
+
+
+
+
+ Counsel for the Applicants: Mr PW Bates 
+ 
+ Solicitors for the Applicants: Gerard Malouf &amp; Partners 
+ 
+ Counsel for the Respondent: Mr A Leopold SC and Mr M White 
+ 
+ Solicitors for the Respondent: Ebsworth &amp; Ebsworth 
+ 
+ Date of Hearing: 10 March, 17 March 2008, 
+ 
+ Date last Submission received: 24 March 2008 
+ 
+ Date of Judgment: 22 May 2008 Form 7, Order 4, rule 6, Order 11
+ 
+IN THE FEDERAL COURT OF AUSTRALIA 
+ NEW SOUTH WALES DISTRICT REGISTRY NO.</sentence>
+<sentence id="s181">NSD 393/ 2007 
+ 
+
+ 
+ 
+ ZASCHA KNOCHELL 
+ 
+Who brings in his own right and in a representative capacity on behalf of Group Members (New South Wales) as to "Payment Defaults".</sentence>
+<sentence id="s182">- Applicant - 
+
+ 
+ 
+ VEDA ADVANTAGE INFORMATION SERVICES AND SOLUTIONS LIMITED (FORMERLY TRADING AS BAYCORP ADVANTAGE INFORMATION SERVICES LIMITED) 
+
+ ACN: 000 602 862
+ - Respondent - 
+ 
+
+
+
+ Proposed FURTHER AMENDED STATEMENT OF CLAIM 
+
+ 
+
+ 
+1.</sentence>
+<sentence id="s183">These proceedings are brought by the applicant pursuant to Order 73 of Federal Court Rules of the Federal Court Act 1979 (Cth) on his own behalf and on behalf of all Group Members (New South Wales) with regard to describing them as having had a "Payment Default" which at all material times was recorded as personal information about the applicant and each group member by the respondent in the respondent's credit reports.</sentence>
+<sentence id="s184">The applicant relies on the following facts and assertions:
+
+
+ The Parties: Applicant and Group Members 
+ 
+ 2.</sentence>
+<sentence id="s185">The applicant and each of the other group members (hereinafter referred to collectively as "group members") are each and all natural persons who satisfy all of the following six criteria (a) to (f) inclusive ("group membership criteria"): 
+ 
+ 
+ (a) The applicant and each other group member was ordinarily resident in the State of New South Wales at the date of the respondent's assertion (as defined in para ( d ) below) in a credit report or reports by Baycorp Advantage Business Information Services Limited or its successor (the respondent) relating to the applicant or other group member respectively; 
+ 
+
+ Applicant's particulars 
+ 
+ 
+ 
+ [an address in New South Wales appeared] 
+ 
+ 
+ 
+ 
+ (b) During the three year period that commenced on 12 March 2004 up until these proceedings were instituted on 12 March 2007 ('the relevant period'), the applicant and each other group member respectively was the subject of at least one individual credit report referring to him or her respectively in an "Individual Consumer Credit Report" and/or in an "Individual Consumer and Commercial Credit Report" ("credit report"); 
+ (c) Each separate credit report was prepared by Baycorp Advantage Business Information Services Limited or its successor (the respondent); each such credit report was supplied by Baycorp Advantage Information Services Limited or its successor (the respondent) to a credit provider or lender who requested such a report from Baycorp Advantage Information Services Limited or its successor (the respondent) during the relevant period about any identified consumer (ie the applicant or other respective group member); 
+ 
+ 
+ 
+ 
+ Applicant's particulars 
+ The applicant was the subject of the credit report by the respondent referred to in Schedule 'A' to this pleading.</sentence>
+<sentence id="s186">
+ 
+ 
+ 
+ 
+ (d) Each such credit report concerned the alleged credit worthiness of one consumer only (ie the applicant or other respective group member respectively), although the same consumer might be the subject of multiple separate credit reports prepared by the respondent about the same consumer.</sentence>
+<sentence id="s187">In each such credit report, Baycorp Advantage Business Information Services Limited or its successor (the respondent) supplied information, data and made representations with regard to aspects of the alleged credit history and credit-worthiness of one consumer (ie the applicant or other respective group member respectively) about whom the personal information in that report related.</sentence>
+<sentence id="s188">The matter supplied by Baycorp Advantage Business Information Services Limited or its successor (the respondent) in each such credit report included information, data and representations in or to the effect that the respective individual consumer named in that credit report had previously breached his or her credit repayment obligations to a previous lender or lenders in a manner known as 'Payment default' (herein described as 'the respondent's assertion' in relation to the applicant and each other Group Member).</sentence>
+<sentence id="s189">"Payment Default" meant that: the account must be 60 days or more overdue; and the borrower/consumer (ie the applicant or other respective group member) must have been sent a written notice by the credit provider or that credit provider's assignee of the debt advising the borrower/consumer of the overdue payment and requesting payment of the amount outstanding; and where $100 or more was owed; and for which the credit provider or its assignee had commenced collection action against the respective consumer before listing the alleged payment default with Baycorp Advantage Business Information Services Limited or its successor (the respondent).</sentence>
+<sentence id="s190">
+ 
+
+ Applicant's particulars 
+ 
+ The applicant's alleged payment default was referred to by the respondent in the credit report supplied by Baycorp Advantage Business Information Services Limited or by its successor (the respondent) to the credit providers who or which requested that credit report in the manner referred to in Schedule 'A'.</sentence>
+<sentence id="s191">
+ 
+ 
+ (e) The applicant and each other group member respectively had not, in fact, breached his or her respective credit obligations to a previous lender or lenders in a manner described in or to the effect of the respondent's assertion.</sentence>
+<sentence id="s192">
+ 
+
+ Applicant's particulars 
+ 
+ The applicant's conduct as at the date of the said disclosure of the respondent's assertion in the said credit report was not such as to be described in fact as having a "Payment Default".</sentence>
+<sentence id="s193">The applicant was not in breach of his credit obligations in the manner described in Schedule 'A' below to the pleading.</sentence>
+<sentence id="s194">
+ 
+ 
+ (f) The applicant and each other group member suffered respective loss or damage by Baycorp Advantage Business Information Services Limited or its successor (the respondent) having supplied to the membership subscribers of Baycorp Advantage Business Information Services Limited or its successor (the respondent) one or more credit reports each containing information, data and representations in or to the effect of the respondent's assertion namely: Injury and/or harm to the applicant or other respective group member's reputation in the sector of his or her credit worthiness, and hurt to his or her feelings, together with - 
+ 
+ 
+ 
+ 
+ Either - 
+ 
+ 
+
+(i) refusal of credit and/or an increase in the cost to each such consumer of seeking or obtaining credit;
+ 
+ 
+ 
+ And/or - 
+ 
+ 
+
+(ii) loss of opportunity for investment or purchase by reason of the matters referred to in (i).</sentence>
+<sentence id="s195">And/or- 
+ 
+(iii) Loss of chance of obtaining credit on more favourable terms and conditions.</sentence>
+<sentence id="s196">
+ 
+ Applicant's particulars of loss and damage 
+ The applicant will supply, prior to hearing and in accordance with the orders of this Honourable Court, full details of his claim for loss and damage.</sentence>
+<sentence id="s197">Including the circumstances in which the loss or damage arose.</sentence>
+<sentence id="s198">
+ 
+ The Respondent's Business 
+ 
+ 3.</sentence>
+<sentence id="s199">The respondent is and was at all material times a trading and/or financial corporation incorporated under the Corporations Act 2001 (Cth).</sentence>
+<sentence id="s200">The respondent is the legal successor of Baycorp Advantage Business Information Services Limited (hereinafter 'Baycorp') which was at all material times a trading corporation incorporated under the Corporations Act 2001 (Cth).</sentence>
+<sentence id="s201">The respondent acquired Baycorp's rights and liabilities.</sentence>
+<sentence id="s202">Hereinafter the word 'respondent' encompasses the activities, rights and liabilities of Baycorp and/or its successor, the respondent.</sentence>
+<sentence id="s203">4.</sentence>
+<sentence id="s204">The respondent at all material times owned, controlled, managed, offered, conducted, supplied and promoted for its commercial interests a range of integrated and overlapping business activities in and throughout Australia in trade or commerce.</sentence>
+<sentence id="s205">These included, amongst other activities: (a) The respondent owned, controlled, managed, offered and conducted a membership system for lenders and credit providers (hereinafter 'the respondent's membership system'); and (b) The respondent carried out and conducted the business activities of a 'credit reporting agency' and a 'credit reporting business' within the meaning of the Privacy Act 1988 (Cth).</sentence>
+<sentence id="s206">The respondent's credit reports at all material times were obliged to comply with the requirements of the Privacy Act 1988 (Cth) and the Credit Reporting Code of Conduct issued pursuant to s 18 of the latter Act.</sentence>
+<sentence id="s207">5.</sentence>
+<sentence id="s208">Membership applications by lenders and credit providers to participate in the respondent's membership system were lodged by such lenders and credit providers with the respondent, and were subject to the respondent's approval and agreement.</sentence>
+<sentence id="s209">Each lender and credit provider whom the respondent agreed to accept as a member paid the respondent various fees: (a) an initial base joining fee (paid in the first year of membership only); and also (b) a base subscription fee (charged annually, which was related to the volume of services requested by and supplied by the respondent to such member, so that higher volume attracted a higher annual charge); and also (c) a monthly account service fee (which was to be waived by the respondent if the other fees were paid by direct debits); together with (d) additional specific fees incurred on each occasion that a member ordered various membership products or membership services from the respondent's during the membership period.</sentence>
+<sentence id="s210">6.</sentence>
+<sentence id="s211">Members of the respondent's membership system were eligible to request the respondent to supply any such member with any one or more of a number of financial products and services, which were included in a range (or portfolio) of products and services, which the respondent made available for supply to members in exchange for additional fees charged by the respondent to the member making such requests.</sentence>
+<sentence id="s212">The said products and services were promoted and supplied by the respondent to its members and to prospective members as membership services to facilitate the ability of any such member, or prospective member, to improve the respective member's profitability and business efficiency, by facilitating the ability of any such member or prospective member: (a) to assess the credit worthiness of a member's own consumers (including, inter alia, the applicant or other respective group member), and (b) to assist any such member to recover debts and to collect disputed debts from a member's own consumers efficiently and cost effectively.</sentence>
+<sentence id="s213">7.</sentence>
+<sentence id="s214">The membership products and services that were supplied by the respondent to any member included, inter alia, in exchange for specific fees charged by the respondent to the member, the supply by the respondent to such a member of credit reports which had been requested by any such member (with the permission of the member's own consumer), and were prepared by the respondent with regard to the respective consumer's credit worthiness.</sentence>
+<sentence id="s215">Such credit reports were provided by the respondent to its members as part of the portfolio of membership products and services available to the respondent's members.</sentence>
+<sentence id="s216">Each separate credit report was prepared by the respondent, and in each such credit report the respondent supplied information, data and made representations with regard to aspects of the alleged credit history and credit-worthiness of one consumer only (including, inter alia, the applicant or other respective group member) about whom the personal information in that report related; each separate credit report concerned the alleged credit worthiness of one consumer only (including, inter alia, the applicant or other respective group member), although the same consumer might be the subject of multiple separate credit reports prepared by the respondent about the same consumer.</sentence>
+<sentence id="s217">8.</sentence>
+<sentence id="s218">In the course of carrying on its membership system business in the relevant period, the respondent promoted to its members the alleged benefits to such members of ordering additional membership products and services for supply by the respondent to such members, in exchange for additional fees charged by the respondent to such members, to enhance the utility of any credit reports supplied by the respondent to a member that related to a member's own consumers (including, inter alia, the applicant and or each other respective group member).</sentence>
+<sentence id="s219">The additional products and services so promoted by the respondent, for supply or possible supply by the respondent to the respondent's members, included, inter alia, so-called "Risk OnLine products and services" which included, inter alia, a 'bureau score' which the respondent prepared from its accumulated data bases.</sentence>
+<sentence id="s220">The respondent promoted the said 'Risk OnLine' products and services to members by the respondent's conduct of representing to members that by ordering "Risk OnLine" products and services from the respondent for supply by the respondent, that would enable the requesting members: (a) to turn data into information, and (b) could also provide members with powerful risk management solutions that could improve the profitability of a member's credit decisions.</sentence>
+<sentence id="s221">9.</sentence>
+<sentence id="s222">The respondent conducted its membership system by encouraging the respondent's members, during the relevant period, to use their membership of the respondent's membership system as a method of exerting economic pressure on any member's own consumers to repay alleged debts which any such member claimed was or were owed by a respective consumer to the member.</sentence>
+<sentence id="s223">The respondent promoted this product or service as a benefit of membership, which members could use to threaten a member's own consumers with the risk of adverse listing in the respondent's future credit reports about that individual consumer if the consumer did not pay the alleged debt which the member claimed was owed to the member by the consumer.</sentence>
+<sentence id="s224">This membership service, which the respondent promoted to its members, enabled the respondent's members to place economic pressure on a member's own consumers to repay alleged debts, or disputed debts, more quickly or fully to avoid the risk of adverse listing, even if the alleged debt was in dispute between a member and the member's own consumer.</sentence>
+<sentence id="s225">The respondent also made available to its members, and promoted, additional services of debt recovery and debt collection for supply or possible supply by the respondent to any member, on request by such member, in the event that a member's own consumers either did not pay alleged debts, or disputed debts.</sentence>
+<sentence id="s226">that were allegedly owed to the member by the member's own consumers.</sentence>
+<sentence id="s227">10.</sentence>
+<sentence id="s228">The respondent also conducted its business by engaging in the following practices at all material times:
+ 
+ 
+ (a) Collecting information on the credit status of 70,000 Australian and New Zealand consumers and businesses that applied for credit every day.</sentence>
+<sentence id="s229">The respondent used that information for the supply or possible supply and promotion and use of the respondent's own membership products and services, namely, the respondent's credit reports and other membership products and membership services for the respondent's membership subscribers and prospective members; 
+ (b) granting each of the respondent's membership subscribers access to the respondent's "Business Information Service" products and services, including internet databases which contained "personal information" and "credit information files" within the meaning of the Privacy Act 1988 (Cth) about individuals and companies including the applicant and the other group members.</sentence>
+<sentence id="s230">(c) allocating to each membership subscriber and to each subscriber's nominated servants and agents, a unique access code, whereby each such subscriber (and that subscriber's nominated servants or agents) were able to gain access to the respondent's credit reports about individuals and companies including the applicant and each of the other respective group members.</sentence>
+<sentence id="s231">(d) providing to each membership subscriber with hard copies of, or electronic access to, a copy of the respondent's "Internet Service Guide", also known as "User Guide" as current and updated from time to time, in which the respondent gave instructions to each subscriber (and to that subscriber's nominated servants or agents) with regard to how to access the respondent's Business Information Services, and how to interpret the respondent's credit information files and credit reports, and how that subscriber (personally or by its nominated servants or agents) could add personal information to the respondent's credit information files relating to the alleged credit worthiness of the applicant and each of the other group members.</sentence>
+<sentence id="s232">The said User Guide was one of the respondent's own membership products or services for each subscriber, to enable subscribers to use the respondent's own credit reports to contribute to each subscriber's profitability and to help each subscriber reduce the level of bad debt write-offs.</sentence>
+<sentence id="s233">(e) The means by which- 
+ 
+ 
+ 
+ 
+ (i) the respondent supplied to any membership subscriber the personal information, including credit worthiness information, relating to the applicant or relating to any other respective group member, and
+ (ii) any of the respondent's membership subscribers gained access to personal information, including credit worthiness information, relating to the applicant or relating to any other respective group member 
+ 
+ 
+ 
+ 
+ was that any such membership subscriber (personally or by its nominated servants or agents) requested a credit report from the respondent, and the respondent provided its own credit report to the subscriber which included a report that included personal information, including credit information, about the person who was being inquired about (viz, applicant or any other respective group member).</sentence>
+<sentence id="s234">
+ 
+
+ Particulars 
+ 
+ 
+ 
+ Privacy Act 1988 (Cth), s 18K(1)(a) &amp; s 6.</sentence>
+<sentence id="s235">
+ 
+ 
+ 
+ 
+ (f) The respondent authorised and permitted and enabled each of its membership subscribers (and that subscriber's nominated servants or agents) to add or update personal information, including credit worthiness information, to the respondent's credit information files, relating to the applicant or to any other respective group member, without any checking or verification by the respondent as to the truth or accuracy of such personal information added or updated by any subscriber (hereinafter referred to as 'the respondent's Honour System').</sentence>
+<sentence id="s236">
+ (g) Credit reports provided by the respondent to its membership subscribers from time to time (including those relating to the applicant and each other group member respectively) were based wholly or partly on personal information, including unverified personal information, added to the respondent's credit information files by subscribers using the respondent's Honour System.</sentence>
+<sentence id="s237">(h) The respondent supplied credit reports to a member in any one or more of three ways in accordance with the member's request and the fees which the member agreed to pay: (i) The first method of supplying a credit report was in the form of a document that was viewed and printed in ordinary English language format, which the member viewed either on a computer screen or in a printed out format, and which expressly listed, inter alia, any recorded payment defaults that the member's customer had allegedly committed at various times in the past; (ii) The second method of supplying a credit report was that the respondent used the data from the respondent's own databases, including any recorded payment defaults that the member's customer had allegedly committed at various times in the past, and such data was used as data inputs into a decision-making algorithm which was part of the respondent's intellectual property and which took account of various factors, including any defaults, and calculated an overall 'score' known as the respondent's own ' bureau score' .</sentence>
+<sentence id="s238">The overall bureau score was calculated by the respondent and was promoted by the respondent as an additional members product or service that was available for supply or possible supply to a member on request and for additional fee charged by the respondent to such requesting member.</sentence>
+<sentence id="s239">The overall bureau score was heavily influenced, in a manner that was unfavourable to the member's own consumer, by any alleged defaults by the said consumer that were recorded in the respondent's databases; (iii) The third method of supplying a credit report was that the respondent supplied information and data from the respondent's own databases, including any recorded payment defaults which the member's own consumer (including inter alia the applicant or other respective group member) had allegedly committed at various times in the past; that information and data was then incorporated (either by the respondent's computers or by the member's own computers) with the member's own data and own lending criteria, by electronic communication between the respondent's computers and the member's own computers and included, inter alia, a representation in or to the effect that the said consumer had one or more payment defaults.</sentence>
+<sentence id="s240">Lending criteria varied as between members, but regardless of those variations, invariably took account of, and were heavily influenced, in a manner that was unfavourable to a consumer of a member, by any alleged payment defaults by the said customer recorded in the respondent's own databases.</sentence>
+<sentence id="s241">
+ 
+
+ 11.</sentence>
+<sentence id="s242">The respondent knew, or should have known, that incorrect credit worthiness information about any particular customer of a member of the respondent which was supplied by the respondent (with the consumer's permission) in any of the respondent's credit reports to such member, would more probably than not adversely impact on whether a member would offer credit facilities to a member's own consumers (including, inter alia, the applicant and each other respective group member).</sentence>
+<sentence id="s243">12.</sentence>
+<sentence id="s244">Further, in conducting its business-
+ 
+(a) The respondent was obliged to take reasonable steps at all material times to ensure that personal information relating to the applicant and each of the other respective group members, contained in the respondent's respective credit reports, and supplied by the respondent's practices and/or conduct to any of the respondent's membership subscribers, was and were accurate, up to date, complete and not misleading.</sentence>
+<sentence id="s245">Particulars 
+ 
+ 
+ 
+ Privacy Act 1988 (Cth), s 18(G)(a) &amp; s 6 ;
+ Privacy Act 1988 (Cth), s 18R ;
+ Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+ Privacy Act 1988 (Cth), s 16(2) ;
+ Credit Reporting Code of Conduct issued pursuant to s 18 of the Privacy Act 1988 (Cth) 
+ 
+ 
+
+(b) The respondent was obliged to take reasonable steps at all material times, by way of making appropriate corrections, deletions and additions, to ensure that personal information relating to the applicant and each of the other respective group members, contained in the respondent's respective credit reports, and supplied by the respondent's practices and/or conduct to any of the respondent's subscribers, was and were accurate, up-to-date complete and not misleading.</sentence>
+<sentence id="s246">Particulars 
+ 
+ 
+ 
+ Privacy Act 1988 (Cth), ss 18J(1) &amp; s 6 ;
+ Privacy Act 1988 (Cth), s 18R ;
+ Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+ Privacy Act 1988 (Cth), s 16(2) ;
+ Credit Reporting Code of Conduct issued pursuant to s 18 of the Privacy Act 1988 (Cth) 
+ 
+ 
+
+ Number of Group Members 
+ 
+ 13.</sentence>
+<sentence id="s247">It is estimated that approximately one per cent of those credit reports supplied by the respondent during the relevant period in New South Wales which had included information, data, allegation or representation of payment default were incorrect in such assertion.</sentence>
+<sentence id="s248">Claims under sections 52 &amp; 53 Trade Practices Act 1974 (Cth) 
+ 
+ 14.</sentence>
+<sentence id="s249">In the premises as aforesaid, the respondent, in trade and commerce, engaged in the conduct of supplying respective credit reports to the respondent's members which included information, data and allegations which made representations in or to the effect, in each such credit report, that the applicant and each other group member respectively from time to time during the relevant period was properly described as having or had a "Payment Default" (i.e., the respondent's assertion, as defined at para 2(d) above).</sentence>
+<sentence id="s250">Applicant's Particulars 
+ 
+ The respondent's assertion about the applicant is set out in Schedule 'A' below to this pleading.</sentence>
+<sentence id="s251">The membership subscribers to whom the respondent disclosed, made or published the said assertion, and the dates when that occurred, were: 
+
+
+ 
+(i) Commonwealth Banking Corporation August 2006 application for loan
+ 
+(ii) ANZ Banking Corporation Ref: 000121110498 7th February 2007 in the sum of $20,000.00
+ 
+(iii) HSBC Bank Sydney 4 th March 2007
+ 
+ 15.</sentence>
+<sentence id="s252">In supplying credit reports to the respondent's respective members which included information, data and which made representations in or to the effect that the applicant and each other group member respectively identified by that credit report from time to time during the relevant period was properly described as having or had a "Payment Default" (i.e., the respondent's assertion, as defined at para 2(d) above), the respondent also engaged in the conduct of representing to each of the subscribers that:
+ 
+ 
+ (a) The applicant and each other group member respectively had refused for more them sixty days to pay a creditor a debt or debts which he or she was legally obliged to pay,
+ (b) The applicant and each other group member respectively was or were each reasonably suspected by the respondent of not being able to pay his or her debts,
+ (c) The applicant and each other group member is respectively a credit risk;
+ (d) The applicant and each other group member respectively was properly described as having a "Payment Default".</sentence>
+<sentence id="s253">
+ 
+
+ Applicant's Particulars for representations (a) to (d) inclusive 
+ 
+ The representations arose from and were conveyed by the material in Schedule 'A' below to this pleading, and/or arose from the following extrinsic facts which were known to the membership subscribers (and their nominated servants or agents) of the respondent to whom the respondent supplied credit reports incorporating the representations in Schedule 'A'.</sentence>
+<sentence id="s254">
+
+ Particulars of extrinsic facts for the Applicant and for each of the other Group Members 
+ 
+(i) The respondent's Internet User Guide defined "Payment Default" to mean that: the account must be 60 days or more overdue; and the borrower must have been sent a written notice advising of the overdue payment and requesting payment of the amount outstanding; and where $100 or more is owed; and for which the credit provider has commenced collection action.</sentence>
+<sentence id="s255">(ii) The persons to whom the matter was disclosed and/or published each knew each of the facts referred to in (i) and (ii) and were aware and understood the "internet user guide" as a whole.</sentence>
+<sentence id="s256">(iii) Section 18E(1) of the Privacy Act 1988 (Cth) provides that a credit reporting agency must not include personal information in an individual creditors information file unless it comes within the circumstances set out in s.18E(1).</sentence>
+<sentence id="s257">The only subsection to which the personal information "Payment Default" could be authorised is under s.18E(1)(vi) 
+ 
+(iv) a " Payment Default" are each Payment Defaults which remains listed on a credit report for five years.</sentence>
+<sentence id="s258">16.</sentence>
+<sentence id="s259">Each of the respondent's respective assertions (as defined in paragraphs 2(d) &amp; 15 above) in relation to the applicant and each of the other respective group members was false and/or misleading.</sentence>
+<sentence id="s260">17.</sentence>
+<sentence id="s261">Further or in the alternative, the respondent, in trade or commerce, supplied credit reports to its members during the relevant period relating to the applicant and each of the other group members, in connection with:
+ 
+ 
+ (a) the supply or possible supply by the respondent of additional membership goods and/or membership services of a kind supplied by the respondent, and/or
+ (b) the promotion by the respondent of the supply or use of additional membership goods and/or membership services of a kind supplied by the respondent, 
+ 
+
+pursuant to ss65A(1)(a)(i) , 65A (1)(a)(iii), s 65 (1)(a)(v) &amp; 65A (3) of the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s262">18.</sentence>
+<sentence id="s263">In the premises as aforesaid, the respondent by supplying each of the credit reports to its respective membership subscribers as aforesaid, which included the representations pleaded in paras 2(d) and 15 above, engaged in conduct in trade or commerce that was misleading or deceptive or likely to mislead or deceive in breach of s.52 of the Trade Practices Act, 1974 (Cth).</sentence>
+<sentence id="s264">19.</sentence>
+<sentence id="s265">Further or in the alternative, in the premises as aforesaid, the respondent in trade or commerce, in connection with the supply or possible supply by the respondent of membership goods and services to its members and prospective members, or in connection with the promotion by any means of the supply by the respondent of membership goods and membership services to its respective membership subscribers as aforesaid-
+ 
+ 
+ (a) falsely represented the membership products, namely, the respondent's credit reports about named consumers (ie, the applicant and each other respective group member), were of a particular standard and/or quality,
+ (b) falsely represented that membership services namely, the respondent's credit reports about named consumers (ie, the applicant and each other respective group member), were of a particular standard or quality, and/or
+ (c) falsely represented that membership goods or membership services, namely, the respondent's credit reports about named consumers (ie, the applicant and each other respective group member), had uses or benefits they do not have, 
+ 
+
+in breach of s 53 of the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s266">20.</sentence>
+<sentence id="s267">The applicant and each of the other group members made separate applications for credit to various subscribers of the respondent from time to time since 12 March 2004.</sentence>
+<sentence id="s268">Applicant's particulars 
+ 
+ 
+ 
+ The applications were made by the applicant to the various subscribers referred to in the particulars to para 14 above on or about the dates set out in those particulars.</sentence>
+<sentence id="s269">
+ 
+ 
+
+ 21.</sentence>
+<sentence id="s270">Acting in reliance upon the respondent's conduct in supplying the credit reports and making the representations in each of the credit reports referred to in paras.</sentence>
+<sentence id="s271">2(d) &amp; 15 above, the subscribers either refused to provide the applicant and each of the other respective group members with credit, or alternatively offered credit to the applicant and to each other respective group member at an increased cost and/or at less favourable terms than would have been otherwise offered by the respective subscriber to the applicant or to the respective group member, and/or lost the chance to obtain credit on more favourable terms and conditions.</sentence>
+<sentence id="s272">Applicant's particulars 
+ 
+ 
+ 
+ The applicant will supply, prior to hearing and in accordance with the orders of this Honourable Court, full details of his claim for loss and damage 
+ 
+ 
+
+ 22.</sentence>
+<sentence id="s273">By reason of the aforesaid facts, matters and circumstances the applicant and each of the other group members has suffered respective loss and damage by the respondent of the kind pleaded in paragraph 2(f) above.</sentence>
+<sentence id="s274">Applicant's particulars 
+ 
+ 
+ 
+ The applicant will supply, prior to hearing and in accordance with the orders of this Honourable Court, full details of his claim for loss and damage, including the circumstances in which the loss or damage arose.</sentence>
+<sentence id="s275">
+ 
+ 
+ Negligence 
+ 
+ 23.</sentence>
+<sentence id="s276">In the premises as aforesaid, the respondent owed the applicant and each of the other group members respective duties of reasonable skill and care, the content and scope of which encompassed that-
+ 
+ 
+ (i) The respondent was obliged to take reasonable steps at all material times to ensure that personal information relating to the applicant and each of the other respective group members, contained in the respondent's respective credit reports, and supplied by the respondent to any of the respondent's subscribers, was and were accurate, up to date, complete and not misleading.</sentence>
+<sentence id="s277">
+ 
+
+ Particulars 
+ 
+(a) Common law principles;
+ 
+(b) Privacy Act 1988 (Cth), s 18(G)(a) &amp; s 6 ;
+ 
+(c) Privacy Act 1988 (Cth), s 18R ;
+ 
+(d) Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+ 
+(e) Privacy Act 1988 (Cth), s 16(2) ;
+ 
+(f) Credit Reporting Code of Conduct issued pursuant to s 18 of the Privacy Act 1988 (Cth);
+ 
+(g) The respondent knew or ought reasonably have known that the persons to whom the respondent's assertion was disclosed, made and/or published would rely upon that information in deciding whether to provide credit, finance or loans to the applicant and each of the other group members respectively, and, if so, on what terms;
+ 
+(h) The respondent knew or ought have reasonably have known or foreseen that if the respondent's assertion was untrue, false or misleading it may cause or materially contribute to the applicant and each of the other respective group members the injury, loss, harm or damage specified and particularised in paragraph 2(f) above.</sentence>
+<sentence id="s278">
+ 
+ (ii) The respondent was obliged to take reasonable steps at all material times, by way of making appropriate corrections, deletions and additions, to ensure that personal information relating to the applicant and each of the other respective group members, contained in the respondent's respective credit reports, and supplied by the respondent to any of the respondent's subscribers, was and were accurate, up to date, complete and not misleading.</sentence>
+<sentence id="s279">
+ 
+
+ Particulars 
+ 
+(a) Common law principles;
+ 
+(b) Privacy Act 1988 (Cth), ss 18J(1) &amp; s 6 ;
+ 
+(c) Privacy Act 1988 (Cth), s 18R ;
+ 
+(d) Privacy Act 1988 (Cth), s 14 &amp; the "Information Privacy Principles" thereto, Principle 7(1) &amp; Principle 8;
+ 
+(e) Privacy Act 1988 (Cth), s 16(2) ;
+ 
+(f) Credit Reporting Code of Conduct issued pursuant to s 18 of the Privacy Act 1988 (Cth);
+ 
+(g) The respondent knew or ought reasonably have known that the persons to whom the respondent's assertion was disclosed, made and/or published would rely upon that information in deciding whether to provide credit, finance or loans to the applicant and each of the other group members respectively, and, if so, on what terms;
+ 
+(h) The respondent knew or ought have reasonably have known or foreseen that if the respondent's assertion was untrue, false or misleading it may cause or materially contribute to the applicant and each of the other respective group members economic loss of the kind particularised in paragraph 2(f) above.</sentence>
+<sentence id="s280">24.</sentence>
+<sentence id="s281">The information set out in Schedule 'A' below to these pleadings was supplied by the respondent in the respondent's credit reports from time to time during the relevant period to various membership subscribers of the respondent.</sentence>
+<sentence id="s282">Applicant's particulars 
+ 
+ 
+ 
+ The applicant repeats the particulars set out under para 14 above.</sentence>
+<sentence id="s283">
+ 
+ 
+
+ 25.</sentence>
+<sentence id="s284">The data, information and/or representations supplied by the respondent in its credit reports referred to in paras.</sentence>
+<sentence id="s285">2(d) and 15 above were false and misleading and were supplied by the respondent to various subscribers of the respondent in breach of the respondent's respective duties of reasonable skill and care to the applicant and each of the other respective group members.</sentence>
+<sentence id="s286">The respondent's Honour System (as defined and explained at paras.</sentence>
+<sentence id="s287">10(f) and 10(g) above) was inherently negligent as it was systematically susceptible to the making of assertions by the respondent (as defined in paras.</sentence>
+<sentence id="s288">2(d) and 15 above) to the respondent's membership subscribers which were false and misleading in relation to the applicant and each of the other respective group members from time to time.</sentence>
+<sentence id="s289">Particulars of Respondent's breaches of duty to the Applicant 
+ 
+(a) The respondent failed to take any steps or any reasonable steps to check:
+ 
+(i) The accuracy of the matter in Schedule 'A';
+ 
+(ii) That the inclusion of the information of and concerning the applicant recorded and stored in the respondent's credit information files, and supplied by the respondent in its credit reports to subscribers of the respondent relating to the applicant, was in accordance with the requirements of the Privacy Act 1988 as pleaded and particularised above.</sentence>
+<sentence id="s290">(b) The respondent did not take any steps, or any reasonable steps, to ensure that personal information contained in its credit information file for the applicant and each other group member with regard to the respondent's assertion (as defined above) was accurate, up to date, complete and not misleading in breach of section 18G of the Privacy Act 1988 (Cth).</sentence>
+<sentence id="s291">(c) The respondent's practice of supplying credit reports about the applicant and each group member to the Respondent's subscribers with regard to the respondent's assertion (as defined above) breached information privacy principles Rule 5 &amp; Rule 8 , applicable to the respondent pursuant to Privacy Act 1988 (Cth) ss 14 , 15 (2) &amp; 16 .</sentence>
+<sentence id="s292">(d) The respondent should have implemented a pre-acceptance checklist to be completed by each subscriber before such subscriber was permitted to add an alleged default listing to the respondent's data base; such a checklist should have required the subscriber to indicate each of the required steps had been taken and on what date sufficient to indicate that the Privacy Act and the Internet User Guide requirements had been met in relation to the applicant's and each other group member's respective defaults.</sentence>
+<sentence id="s293">(e) The respondent did not have any, or any adequate, measures in place to ensure that any and every person (principal, servant or agent) who was authorised or permitted to add, update or amend information relating to the applicant's and each other group member's credit worthiness in the respondent's databases, (including any negative default type information), had been adequately trained in and was competent to apply the correct criteria that had to be satisfied before any such negative default information could properly be included in the respondent's databases for future inclusion in the respondent's respective credit reports relating to the applicant and each other group member.</sentence>
+<sentence id="s294">26.</sentence>
+<sentence id="s295">By reason of the respondent's negligence and breaches of duty, the applicant and each other group member has suffered loss and damage of the kind pleaded in paragraph 2(f) above.</sentence>
+<sentence id="s296">Applicant's Particulars 
+ 
+ 
+ 
+ The applicant will supply, prior to hearing and in accordance with the orders of this Honourable Court, full details of his claim for loss and damage, including the circumstances in which the loss or damage arose.</sentence>
+<sentence id="s297">
+ 
+ 
+
+ 27.</sentence>
+<sentence id="s298">The applicant and each other group member respectively claims:
+ 
+(i) Damages;
+ 
+(ii) Interest;
+ 
+(iii) Costs;
+ 
+(iv) Injunctive relief to restrain the respondent from supplying or representing the respondent's assertion (as defined above) to any of its membership subscribers;
+ 
+(v) Declaration that the respondent engaged in conduct in breach of sections 52 and 53 of the Trade Practices Act 1974 (Cth) in supplying credit reports that included information and data which included representations in or to the effect of the respondent's assertion (as defined above) to the respondent's membership subscribers from time to time;
+ 
+(vi) Mandatory injunction ordering the respondent to publish corrective representations.</sentence>
+<sentence id="s299">(vii) Further or other orders as the Court deems fit.</sentence>
+<sentence id="s300">DATED March 2008
+ 
+The applicant seeks relief as specified in the application
+ 
+This pleading was prepared by PW Bates of Counsel.</sentence>
+<sentence id="s301">
+ This pleading has been carefully checked by counsel and Christine Beshay, solicitor and found to be correct so far as form is concerned.</sentence>
+<sentence id="s302">
+
+
+ 
+
+ 
+ SCHEDULE 'A' 
+ 
+
+Zascha Anton Knochell
+ 
+
+
+ Account No: 1690786
+
+ Account Type: Advertising
+ 
+ Association Code: Principal's Account :
+
+ Latest Subscriber: Nationwide News
+
+ Latest Date: 20/01/2006 Latest Amount: $33728.00
+
+ Latest Reason: Payment Default
+
+ Original Subscriber: Nationwide News
+
+ Original Date: 01/02/2005 Original Amount: $33728.00
+
+ Original Reason: Payment Default
+
+ Status: unpaid Status Date: 02/02/2007
+
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/730.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,655 @@
+<?xml version="1.0"?>
+<case>
+<name>Egglishaw v Australian Crime Commission [2006] FCA 819 (30 June 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/819.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">judicial review pursuant to judiciary act 1903 (cth) s 39b</catchphrase>
+<catchphrase "id=c1">search warrant executed by respondent, notice to produce issued by respondent and conduct engaged in by respondent pursuant to both impugned as unlawful</catchphrase>
+<catchphrase "id=c2">burden of proof</catchphrase>
+<catchphrase "id=c3">extent to which burden lies on respondent</catchphrase>
+<catchphrase "id=c4">how respondent discharges burden</catchphrase>
+<catchphrase "id=c5">administrative law</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ BACKGROUND 
+ 
+ 1 On 13 February 2004, on the application of the first respondent (the Commission), the second respondent --- a Magistrate of the Magistrates Court of Victoria --- issued a search warrant (the warrant).</sentence>
+<sentence id="s1">2 The warrant records that the second respondent was
+ "satisfied by information on oath that there are reasonable grounds for suspecting that there will within the next 72 hours be at [a specified hotel room] ... evidential material, as defined in the Crimes Act 1914 (Cth), which satisfies ALL of the following three conditions".</sentence>
+<sentence id="s2">
+ 
+
+The first condition referred to things that are originals or copies of any of a list of things that included personal computers.</sentence>
+<sentence id="s3">The second referred to things that relate to any of a list of persons and entities that included the applicant and Michael Brereton.</sentence>
+<sentence id="s4">The third referred to things
+ 
+ "as to which there are reasonable grounds for suspecting that they will afford evidence as to the commission of the following offences against the laws of the Commonwealth: 
+ 
+ 
+ 
+ (i) That between May 1998 and 24 May 2001, at Melbourne ... and elsewhere ... Brereton did defraud the Commonwealth contrary to s 29D of the Crimes Act 1914 (Cth).</sentence>
+<sentence id="s5">
+ 
+ 
+ 
+ 
+ 
+ (ii) That between 25 May 2001 and July 2002, at Melbourne ... and elsewhere, ... Brereton by a deception, dishonestly obtained a financial advantage from another person, and the other person is a Commonwealth entity, contrary to s 134.2(1) of the Criminal Code Act 1995 (Cth).</sentence>
+<sentence id="s6">
+ 
+ 
+ 
+ 
+ 
+ (iii) That between 25 May 2001 and July 2002, at Melbourne ... and elsewhere, ... Brereton dealt with money or other property, valued at $100,000.00 or more, knowing it to be proceeds of crime, contrary to 
+ s 400.4(1) of the Criminal Code Act 1995 (Cth).</sentence>
+<sentence id="s7">" 
+ 
+ 
+ 
+ 
+ 3 The warrant was directed to Gail McClure, a "constable" within the meaning of the Crimes Act 1914 (Cth) who is a member of the Commission's staff.</sentence>
+<sentence id="s8">It authorised Ms McClure to (among other things):
+ &#8226; enter the hotel room referred to at [2] in the period between 7.00am and 9.00pm;
+ &#8226; search the hotel room for evidential material of the kind described at [2]; and
+ &#8226; seize such evidential material.</sentence>
+<sentence id="s9">
+
+It also authorised her to "exercise such other of the powers available under Division 2 of Part 1AA of [the Crimes] Act as are appropriate in the circumstances of the case".</sentence>
+<sentence id="s10">The warrant expired at midnight at the end of 20 February 2004.</sentence>
+<sentence id="s11">
+ 4 The warrant was executed on the day after it was issued.</sentence>
+<sentence id="s12">Ms McClure attended at the hotel room with three other members of the Commission's staff: Ian Andrew, Harry Constandaras and Simon Gullifer.</sentence>
+<sentence id="s13">In the course of their search of the hotel room they came across a notebook computer belonging to the applicant (the notebook).</sentence>
+<sentence id="s14">5 Ms McClure and her colleagues took the notebook to the Commission's offices.</sentence>
+<sentence id="s15">(I deliberately use the neutral word "took" because the procedure by which the Commission obtained the notebook is the subject of dispute in the instant proceeding.</sentence>
+<sentence id="s16">) There, Ms McClure asked Darren Freestone to search the notebook's hard drive using the key word "Brereton".</sentence>
+<sentence id="s17">That search turned up numerous instances of the key word.</sentence>
+<sentence id="s18">Ms McClure deposed that "on that basis [she] was satisfied the notebook and its contents fell within all three conditions of the warrant [and a]ccordingly, seized the notebook".</sentence>
+<sentence id="s19">Later, she asked Mr Freestone to create a forensic image --- that is, a copy --- of the hard drive.</sentence>
+<sentence id="s20">The notebook was then returned to the applicant.</sentence>
+<sentence id="s21">6 On 19 February 2004, Mr Andrew obtained from Mr Freestone a copy of the forensic image referred to at [5] on two digital video discs (the DVDs).</sentence>
+<sentence id="s22">7 Also on 19 February 2004, one of the Commissioner's examiners issued a notice to produce (the notice).</sentence>
+<sentence id="s23">The notice required the applicant to attend at the Commission's offices "forthwith" and produce the DVDs, being "things in [the applicant's] custody, possession and/or control".</sentence>
+<sentence id="s24">8 The applicant attended at the Commission's offices later that day pursuant to a summons to give oral evidence.</sentence>
+<sentence id="s25">During a break in the applicant's evidence, Mr Andrew handed him the DVDs and then served him with the notice.</sentence>
+<sentence id="s26">The applicant complied with the notice and produced the DVDs that had just been handed to him.</sentence>
+<sentence id="s27">9 The validity of the procedure by which the Commission obtained the DVDs is also the subject of dispute in this proceeding.</sentence>
+<sentence id="s28">10 The foregoing is merely a prefatory account of the events that gave rise to the current proceeding.</sentence>
+<sentence id="s29">I will address them in more detail later.</sentence>
+<sentence id="s30">
+ THE INSTANT PROCEEDING 
+ 
+ 11 By an application filed on 21 December 2005 (the application), the applicant seeks relief under ss 39B(1) and (1A) of the Judiciary Act 1903 (Cth).</sentence>
+<sentence id="s31">First, it seeks declarations that:
+ &#8226; the application for the warrant "was and is ultra vires, unlawful and of no force and effect";
+ &#8226; the decision to issue the warrant "was and is unlawful";
+ &#8226; the warrant "was and is ultra vires, void, unlawful and of no force and effect";
+ &#8226; "the seizure, use and communication of materials obtained by the ... warrant was and is unlawful";
+ &#8226; the notice "was and is unlawful and of no force and effect"; and
+ &#8226; "the use and communication of materials obtained under the notice ... was and is unlawful".</sentence>
+<sentence id="s32">
+
+Second, it seeks orders quashing or setting aside the application for the warrant, the issue of the warrant, the warrant and the notice.</sentence>
+<sentence id="s33">The third form of relief sought is injunctions "restraining the [Commission] ... from communicating, making use of or making a record of the documents and other information" obtained by the warrant and the notice.</sentence>
+<sentence id="s34">Finally, it seeks "the delivery up of all documents and things (including copies thereof and extracts thereof)" obtained by the warrant and the notice.</sentence>
+<sentence id="s35">
+ 12 The second respondent has indicated that she will submit to any order made by this Court, save that she wishes to be heard as to any order for costs that might be made against her.</sentence>
+<sentence id="s36">13 The issues that fall for determination are:
+ &#8226; the applicant's attack on the warrant on the same grounds as those dealt with by Young J in A2 v Australian Crime Commission [2006] FCA 106 (the A2 point);
+ &#8226; his attack on the procedure by which the Commission obtained the notebook; and
+ &#8226; his attack on the procedure by which the Commission obtained the DVDs.</sentence>
+<sentence id="s37">
+ THE A2 POINT 
+ 
+ 14 The A2 point can be disposed of shortly.</sentence>
+<sentence id="s38">Mr Lucarelli QC for the applicant said:
+ "The parties [are] content ... to ... simply rely upon [their] written submissions and the decision [in] A2 with the statement by the applicant that A2 is wrong.</sentence>
+<sentence id="s39">But the applicant understands ... that your Honour may well be persuaded by what [was] said in A2 and that your Honour is naturally entitled to follow A2 ..., although the applicant [says] that A2 is wrong and that your Honour ought not follow it.</sentence>
+<sentence id="s40">" 
+ 
+
+I have read A2 and the parties' written submissions.</sentence>
+<sentence id="s41">
+ 15 As a matter of comity I should follow the decision of another judge of this Court unless I am convinced it is "clearly or plainly wrong".</sentence>
+<sentence id="s42">See Cooper v Commissioner of Taxation [2004] FCA 1063 ; (2004) 139 FCR 205 at [46] per Lander J --- which was approved by the Full Court in Minister for Immigration and Multicultural and Indigenous Affairs v SZANS [2005] FCAFC 41 ; (2005) 141 FCR 586 at [38] .</sentence>
+<sentence id="s43">16 The applicant has put no contention to me that was not put to Young J in A2 or, more importantly, explained why his Honour's treatment thereof was deficient.</sentence>
+<sentence id="s44">In those circumstances, I cannot see how I could be convinced that his Honour was clearly or plainly wrong in A2 .</sentence>
+<sentence id="s45">17 In any case, Young J rejected the principal argument put to him as contrary to the decision of the Full Court in Ryder v Morley (1987) 16 FCR 257.</sentence>
+<sentence id="s46">Like Young J, I am bound by the decision in Ryder to reject that argument.</sentence>
+<sentence id="s47">
+ THE BURDEN OF PROOF 
+ 
+ 18 I should address the question of who bears the burden of proof before I turn to the second and third matters set out at [13].</sentence>
+<sentence id="s48">19 In Williams v Keelty [2001] FCA 1301 ; (2001) 111 FCR 175 at [235] and [236], Hely J said:
+ "The applicants contend that the onus of proving the warrants were lawfully issued falls upon ASIC.</sentence>
+<sentence id="s49">Reliance was placed upon the decision of Heerey J in Challenge Plastics Pty Ltd v Collector of Customs (Vic) (No 2) (1994) 49 FCR 541.</sentence>
+<sentence id="s50">Heerey J said (at 543): 
+ 
+ 
+ 
+ 'Generally speaking, administrative acts are presumed to be valid and the onus is on the party seeking to challenge them: ...</sentence>
+<sentence id="s51">However, here we have a rather special situation of an entry on premises and removal of documents without the consent of the owner of the premises and documents.</sentence>
+<sentence id="s52">Without lawful justification, such conduct would constitute a trespass.</sentence>
+<sentence id="s53">In substance, this proceeding has been concerned with the legal justification advanced by the respondent for that action.</sentence>
+<sentence id="s54">Where the exercise of executive discretion interferes with liberty or property rights, once the person affected has shown a prima facie case the burden of justifying the legality of the decision is on the executive: R v Secretary of State for Home Department; Ex parte Khawaja [1982] UKHL 5 ; [1984] AC 74 at 112 per Lord Scarman.</sentence>
+<sentence id="s55">' 
+ 
+ 
+ 
+ I agree that once the applicants show an invasion of their property or premises by ASIC, the onus is upon ASIC to adduce evidence, and to persuade the trier of fact that its invasion of what would otherwise be the applicants' rights was undertaken with lawful justification.</sentence>
+<sentence id="s56">But ASIC discharges that onus by the production of the search warrants, and by demonstrating that its actions were within the scope of the authority conferred by the warrants.</sentence>
+<sentence id="s57">If the applicants wish to challenge the issue of the warrants on administrative law grounds, then the onus is on them to make good that challenge.</sentence>
+<sentence id="s58">This result is consistent with the decision of the Full Court in Malubel [Pty Ltd] v Elder [(1998) 88 FCR 242] at 249 where the Court held that the issue of a warrant is an administrative act, and steps taken pursuant to it may be presumed to be valid unless and until the warrant is set aside.</sentence>
+<sentence id="s59">The observations of Gummow J in Ousley v The Queen [(1997) [1997] HCA 49 ; 192 CLR 69] at 130-131 are to like effect.</sentence>
+<sentence id="s60">" 
+ 
+
+(The emphasis is mine.</sentence>
+<sentence id="s61">) This approach was approved by Branson J in Kennedy v Baker [2004] FCA 562 ; (2004) 135 FCR 520 at [85] and [86].</sentence>
+<sentence id="s62">(And see X v Australian Crime Commission [2004] FCA 1475 ; (2004) 139 FCR 413 at [22] per Finn J.</sentence>
+<sentence id="s63">) Like Branson J, I think it "the correct approach".</sentence>
+<sentence id="s64">
+ 20 The Commission has discharged the onus described by Hely J.</sentence>
+<sentence id="s65">The warrant was adduced into evidence by Ms McClure's affidavit, and the notice by Mr Andrew's affidavit.</sentence>
+<sentence id="s66">Further, it is not the applicant's case that the Commission's actions were outside the scope of the authority conferred by the warrant and the notice.</sentence>
+<sentence id="s67">The applicant's case is described at [24] and [46].</sentence>
+<sentence id="s68">
+ THE PROCEDURE BY WHICH THE NOTEBOOK WAS OBTAINED 
+ 
+ 21 Section 3F of the Crimes Act relevantly provides:
+ "(1) A warrant that is in force in relation to premises authorises the executing officer or a constable assisting: 
+ 
+ 
+ ... 
+ (c) to search the premises for the kinds of evidential material specified in the warrant, and to seize things of that kind found at the premises ...." 
+ 
+ 
+ 
+
+The expression "evidential material" is defined in s 3C as "a thing relevant to an indictable offence or a thing relevant to a summary offence, including such a thing in electronic form".</sentence>
+<sentence id="s69">The expression "a thing relevant to an indictable offence" is defined in s 3 as:
+ 
+ 
+ "(a) either of the following: 
+ 
+ 
+ 
+ 
+ (i) anything with respect to which an indictable offence against any law of the Commonwealth or of a Territory has been committed or is suspected, on reasonable grounds, to have been committed; 
+ (ii) anything with respect to which a State offence that has a federal aspect, and that is an indictable offence against the law of that State, has been committed or is suspected, on reasonable grounds, to have been committed; or 
+ 
+ 
+ 
+ 
+ (b) anything as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of any such offence; or 
+ (c) anything as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing any such offence.</sentence>
+<sentence id="s70">" 
+ 
+ 
+
+(The emphasis is mine.</sentence>
+<sentence id="s71">)
+ 
+ 22 Section 3K relevantly provides: 
+ 
+ 
+ "(1) The executing officer or constable assisting may bring to the warrant premises any equipment reasonably necessary for the examination or processing of a thing found at the premises in order to determine whether it is a thing that may be seized under the warrant.</sentence>
+<sentence id="s72">
+ (2) A thing found at the premises may be moved to another place for examination or processing in order to determine whether it may be seized under a warrant if: 
+ 
+ 
+ 
+ 
+ (a) both of the following apply: 
+ 
+ 
+ 
+ (i) it is significantly more practicable to do so having regard to the timeliness and cost of examining or processing the thing at another place and the availability of expert assistance; 
+ (ii) there are reasonable grounds to believe that the thing contains or constitutes evidential material ...." 
+ 
+ 
+ 
+ 
+
+(The emphasis is mine.</sentence>
+<sentence id="s73">)
+ 
+ 23 Section 3L relevantly provides: 
+ 
+ 
+ "(1) The executing officer or a constable assisting may operate electronic equipment at the warrant premises to access data (including data not held at the premises) if he or she believes on reasonable grounds that: 
+ 
+ 
+ 
+ 
+ (a) the data might constitute evidential material; and 
+ (b) the equipment can be operated without damaging it.</sentence>
+<sentence id="s74">
+ 
+ 
+ 
+ 
+ (1A) If the executing officer or constable assisting believes on reasonable grounds that any data accessed by operating the electronic equipment might constitute evidential material, he or she may: 
+ 
+ 
+ 
+ 
+ (a) copy the data to a disk, tape or other associated device brought to the premises ... 
+ and take the device from the premises.</sentence>
+<sentence id="s75">
+ 
+ 
+ 
+ 
+ ... 
+ (2) If the executing officer or a constable assisting, after operating the equipment, finds that evidential material is accessible by doing so, he or she may: 
+ 
+ 
+ 
+ 
+ (a) seize the equipment and any disk, tape or other associated device; or 
+ (b) if the material can, by using facilities at the premises, be put in documentary form -- operate the facilities to put the material in that form and seize the documents so produced.</sentence>
+<sentence id="s76">
+ 
+ 
+ 
+ 
+ (3) A constable may seize equipment under paragraph (2)(a) only if: 
+ 
+ 
+ 
+ 
+ (a) it is not practicable to copy the data as mentioned in subsection (1A) or to put the material in documentary form as mentioned in paragraph (2)(b) .... 
+ 
+ 
+ 
+ 
+ (4) If the executing officer or a constable assisting believes on reasonable grounds that: 
+ 
+ 
+ 
+ 
+ (a) evidential material may be accessible by operating electronic equipment at the premises; and 
+ (b) expert assistance is required to operate the equipment; and 
+ (c) if he or she does not take action under this subsection, the material may be destroyed, altered or otherwise interfered with; 
+ 
+ 
+ 
+ 
+ he or she may do whatever is necessary to secure the equipment, whether by locking it up, placing a guard or otherwise.</sentence>
+<sentence id="s77">" 
+ ... 
+ (6) The equipment may be secured: 
+ 
+ 
+ 
+ 
+ (a) for a period not exceeding 24 hours; or 
+ (b) until the equipment has been operated by the expert; 
+ whichever happens first.</sentence>
+<sentence id="s78">" 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 24 The applicant impugned the procedure by which the Commission obtained the notebook.</sentence>
+<sentence id="s79">First it was said that the notebook was seized pursuant to s 3F at the hotel room rather than at the Commission's offices.</sentence>
+<sentence id="s80">Consequently, the making of the forensic image at the Commission's offices was unlawful because it was not done in accordance with s 3L.</sentence>
+<sentence id="s81">Then it was said that even if the notebook was not seized pursuant to s 3F at the hotel room:
+ &#8226; it should not have been taken from the hotel room to the Commission's offices because the Commission should have used the procedure provided for in ss 3L(1) and (1A); and
+ &#8226; in any case, the Commission failed to comply with s 3K(2)(a)(i) when it moved the notebook from the hotel room to its offices.</sentence>
+<sentence id="s82">
+ Was the notebook seized pursuant to s 3F at the hotel?</sentence>
+<sentence id="s83">
+ 
+ 25 Mr Lucarelli QC for the applicant contended that there was "overwhelming objective evidence" that the notebook was in fact seized at the hotel room.</sentence>
+<sentence id="s84">He pointed to three items of such evidence.</sentence>
+<sentence id="s85">First, a document that purports to list the items seized at the hotel room (the record).</sentence>
+<sentence id="s86">Secondly, the notice.</sentence>
+<sentence id="s87">Thirdly, a file note by Mr Andrew (the file note).</sentence>
+<sentence id="s88">26 That contention must fail.</sentence>
+<sentence id="s89">27 As to the circumstances in which the record was made, Ms McClure deposed as follows:
+ (a) In the course of the execution of the warrant at the hotel room, the applicant handed her three files containing documents described as "meeting notes" (the files).</sentence>
+<sentence id="s90">(b) Satisfied that the files met all of the warrant's conditions, she seized them.</sentence>
+<sentence id="s91">(c) Mr Gullifer recorded the files on the record.</sentence>
+<sentence id="s92">(d) A subsequent search of the hotel room turned up the notebook and two mobile telephones belonging to the applicant.</sentence>
+<sentence id="s93">(e) She formed the view that the notebook met all of the warrant's conditions.</sentence>
+<sentence id="s94">(f) However, "she decided to move the notebook to the [Commission's offices] where it could be examined by a forensic computer expert to determine whether it could be seized".</sentence>
+<sentence id="s95">(g) "The notebook and the [mobile telephones] were recorded on the ... record to provide a record of the fact that those items were moved from the ... hotel room.</sentence>
+<sentence id="s96">In light of the need for expert examination of [those items], I had not decided to seize those items at the time they were moved from the [hotel room] to the [Commission's] offices.</sentence>
+<sentence id="s97">"
+ 28 The record consists of two pages --- each in the same standard form --- and is exhibited to Ms McClure's affidavit.</sentence>
+<sentence id="s98">The standard form is headed "Property Seizure Record".</sentence>
+<sentence id="s99">The record lists the files, the notebook and the mobile telephones and two passports.</sentence>
+<sentence id="s100">(The passports are not mentioned in the affidavit.</sentence>
+<sentence id="s101">) Each page is dated 14 February 2004 and specifies the hotel room as the warrant premises, Ms McClure as the warrant holder, Mr Gullifer as the recording officer and the warrant's number.</sentence>
+<sentence id="s102">Ms McClure's, Mr Gullifer's and the applicant's signatures appear at the foot of each page.</sentence>
+<sentence id="s103">29 In the light of Ms McClure's evidence as recorded at [27](f) and (g), I cannot see how the fact that the notebook appears on the record suggests that it was seized at the hotel room.</sentence>
+<sentence id="s104">Ms McClure's explanation for that fact as recorded at the first sentence of [27](g) is unexceptionable.</sentence>
+<sentence id="s105">In view of that explanation, the fact that the standard form is headed "Property Seizure Record" is neither here nor there.</sentence>
+<sentence id="s106">Further, the applicant did not seek to challenge that explanation by way of cross-examination --- for example, by suggesting that it was a reconstruction.</sentence>
+<sentence id="s107">30 The notice describes the DVDs as "a copy of [the notebook] hard drive seized pursuant to a s 3E of the [ Crimes Act ] search warrant executed at 11.05am on" 14 February 2004.</sentence>
+<sentence id="s108">(The emphasis is mine.</sentence>
+<sentence id="s109">) Nothing in that description points to where or when the notebook was seized.</sentence>
+<sentence id="s110">31 The file note says "searched suite and seized 3 x document files, Toshiba laptop computer, 2 x mobile phones, passport".</sentence>
+<sentence id="s111">Nothing turns on it.</sentence>
+<sentence id="s112">The evidence makes clear that Ms McClure was the member of the Commission's staff who took the lead in the events that gave rise to the instant proceeding.</sentence>
+<sentence id="s113">Indeed, the warrant was directed to her.</sentence>
+<sentence id="s114">She has deposed that she did not seize the notebook at the hotel room and instead seized it at the Commission's offices.</sentence>
+<sentence id="s115">In any case, she was not challenged by way of cross-examination as to the (apparent) discrepancy between her evidence and the file note.</sentence>
+<sentence id="s116">
+ Was the making of the forensic image unlawful?</sentence>
+<sentence id="s117">
+ 
+ 32 If I am wrong, and the notebook was seized at the hotel room, I cannot see what difference it makes whether the notebook was seized there rather than at the Commission's offices.</sentence>
+<sentence id="s118">The applicant contended that seizure at the hotel room rendered unlawful the making of the forensic image because that making was not done in accordance with s 3L.</sentence>
+<sentence id="s119">Section 3L authorises (among other things) the seizure of electronic equipment found at the warrant premises after the operation of that equipment at the warrant premises only if it is "not practicable" to copy or put into material form at the warrant premises the data accessed by such operation.</sentence>
+<sentence id="s120">For two reasons, s 3L was never engaged.</sentence>
+<sentence id="s121">First, the notebook was not operated at the hotel room.</sentence>
+<sentence id="s122">(The propriety of Ms McClure's decision not to do so is something that I deal with later.</sentence>
+<sentence id="s123">) Secondly, s 3L says nothing about the circumstances in which data accessed by operating electronic equipment seized pursuant to s 3L(2)(a) , let alone pursuant to s 3F , can, after such seizure, be copied or put into material form.</sentence>
+<sentence id="s124">
+ Was the taking of the notebook from the hotel room to the Commission's offices unlawful because the Commission should have used the procedure in ss 3L(1) and (1A)?</sentence>
+<sentence id="s125">
+ 
+ 33 Sections 3F , 3K and 3L provide a person executing a search warrant with a variety of options:
+ &#8226; seizure simpliciter: s 3F(1)(c) ;
+ &#8226; bringing to the warrant premises equipment to examine or process a thing in order to determine whether it may be seized: s 3K(1) ;
+ &#8226; removing from the premises a thing to examine or process elsewhere in order to determine whether it may be seized: s 3K(2) ;
+ &#8226; operating electronic equipment at the premises, copying the data found thereby on to a device brought to the premises and removing that device from the premises: ss 3L(1) and (1A);
+ &#8226; operating electronic equipment at the premises and then seizing it: s 3L(2)(a) --- but only if it is "not practicable" to use certain other procedures provided for by s 3L: 
+ s 3L(3) ;
+ &#8226; operating electronic equipment at the premises, using facilities at the premises to create documents therefrom and then seizing them: s 3L(2)(b) ; or
+ &#8226; securing electronic equipment at the premises so that it may be operated with the assistance of an expert: ss 3L(4) and (6).</sentence>
+<sentence id="s126">
+
+Only some of those options involve seizure.</sentence>
+<sentence id="s127">
+ 34 The applicant's contention that the notebook should not have been taken from the hotel room to the Commission's offices because the Commission should have used the procedure provided for in ss 3L(1) and (1A) must fail.</sentence>
+<sentence id="s128">The availability of some of the options set out at [33] is expressly limited.</sentence>
+<sentence id="s129">See for example ss 3L(2)(a) and (3).</sentence>
+<sentence id="s130">Leaving aside such express limitations, there is nothing in the Act to suggest that the availability of one option precludes the choice of another.</sentence>
+<sentence id="s131">There is no hierarchy of options.</sentence>
+<sentence id="s132">After all, the Commission could just as easily have used the procedure provided for in ss 3K(1) or 3L(4) and (6).</sentence>
+<sentence id="s133">Further, the contention assumes that:
+ &#8226; s 3L exhaustively defines how any electronic equipment found at the warrant premises must be dealt with; and
+ &#8226; s 3L(2)(a) exhaustively defines the circumstances in which such equipment may be seized.</sentence>
+<sentence id="s134">
+
+There is nothing in the Act to support those assumptions.</sentence>
+<sentence id="s135">Did the Commission fail to comply with s 3K(2)(a)(i)?</sentence>
+<sentence id="s136">
+ 
+ 35 The applicant complains that the Commission:
+ &#8226; has failed to show that, in the terms of s 3K(2)(a)(i), it was "significantly more practicable to [move the notebook to the Commission's offices] having regard to the timeliness and cost of examining ... the [notebook there] and the availability of expert assistance"; and
+ &#8226; in taking the notebook to its offices, failed to have regard to those matters that
+s 3K(2)(a)(i) says it must.</sentence>
+<sentence id="s137">36 The complaint is misconceived and without merit.</sentence>
+<sentence id="s138">The onus is on the applicant to show that s 3K(2)(a)(i) was not satisfied.</sentence>
+<sentence id="s139">See [19] and [20].</sentence>
+<sentence id="s140">The applicant has failed to adduce evidence to that end.</sentence>
+<sentence id="s141">37 Further, the Commission has adduced evidence that shows that it did have regard to those matters that s 3K(2)(a)(i) says it must.</sentence>
+<sentence id="s142">Mr Freestone deposed:
+ "On ... 14 February 2004, [Mr] Andrew telephoned me at home from the [hotel room] and requested my assistance.</sentence>
+<sentence id="s143">He indicated to me that the applicant was in possession of a notebook computer.</sentence>
+<sentence id="s144">I suggested it may take some time for me to attend the [hotel room] to examine the notebook as I needed to collect and then transport my equipment from the [Commission's] offices to the [hotel room].</sentence>
+<sentence id="s145">
+ 
+ The examination of a notebook computer can often be technically complicated because of its design, therefore it is preferable to have internet resources such as user manuals on hand.</sentence>
+<sentence id="s146">I advised [Mr] Andrew that examining the notebook at the [Commission's] offices would be more practicable and would save time.</sentence>
+<sentence id="s147">" 
+ 
+
+Further, Mr Andrew, Mr Freestone and Ms McClure all deposed that the Commission advises its staff not to turn on computers "in the field" without the assistance of an expert.</sentence>
+<sentence id="s148">Messrs Andrew and Freestone explained why such advice was given.</sentence>
+<sentence id="s149">To put it shortly, turning on a computer "in the field" without the assistance of an expert may result in the alteration or loss of data on that computer.</sentence>
+<sentence id="s150">
+ 38 Section 3K(2)(a)(i) calls for a balancing exercise.</sentence>
+<sentence id="s151">On any given occasion, one of the matters therein may assume greater importance than the others.</sentence>
+<sentence id="s152">39 In this instance, the availability of Mr Freestone's assistance was of the greatest import.</sentence>
+<sentence id="s153">The Commission's advice referred to at [37] necessitates such assistance.</sentence>
+<sentence id="s154">The reasons for that advice are unexceptionable.</sentence>
+<sentence id="s155">The applicant's complaint that that advice dictates an a priori assumption that notebook computers should be moved from warrant premises to the Commission's offices for examination is beside the point.</sentence>
+<sentence id="s156">In any case, Mr Freestone's evidence necessarily implies that Mr Andrew initially asked him to attend at the hotel room in order to examine the notebook.</sentence>
+<sentence id="s157">That does not conflict with Ms McClure's evidence that she
+ "did not make arrangements for him to attend [at the execution of the warrant] as I was of the understanding that it is much more practicable for a computer to be accessed and analysed at the [Commission's] offices than in the field, as [the latter course] requires the forensic computer expert to bring with them a large amount of equipment and possibly even to have to return to the [Commission's] offices to obtain more equipment.</sentence>
+<sentence id="s158">" 
+ 
+
+Instead, Mr Freestone advised Mr Andrew that the notebook should be examined at the Commission's offices rather than at the hotel room.</sentence>
+<sentence id="s159">Again, the reasons for that advice are unexceptionable.</sentence>
+<sentence id="s160">
+ 40 Timeliness was also of some import.</sentence>
+<sentence id="s161">Mr Freestone deposed that he advised Mr Andrew that examining the notebook at the Commission's offices rather than at the hotel room "would save time".</sentence>
+<sentence id="s162">Timeliness in s 3K(2)(a)(i) means no more than that.</sentence>
+<sentence id="s163">The Explanatory Memorandum to the Cybercrime Bill 2001 (Cth) --- the source of s 3K(2)(a)(i) --- says:
+ "In determining whether it is significantly more practicable to process or examine the thing at another place, the executing officer or constable must have regard to the timeliness and cost of processing or examining the thing at another place rather than on site and to the availability of expert evidence.</sentence>
+<sentence id="s164">In other words, the proposed amendment would permit a thing to be moved to another place if it is significantly faster or less costly to process or examine the thing at that other place or easier to obtain expert assistance to process or examine the thing at the other place.</sentence>
+<sentence id="s165">
+ ... 
+ The existing provision is too restrictive.</sentence>
+<sentence id="s166">The requirement that it be 'not practicable' to process or examine the thing at the warrant premises before it can be moved does not allow consideration to be given to whether it would be more efficient or effective to process or examine the thing at another place.</sentence>
+<sentence id="s167">" 
+ 
+
+(The emphases are mine.</sentence>
+<sentence id="s168">)
+ 
+ 41 It seems cost was of little import.</sentence>
+<sentence id="s169">There is no evidence about it.</sentence>
+<sentence id="s170">However, it may be inferred from Mr Freestone's evidence that it would have been more costly for him to collect his equipment, travel to the hotel room and examine the notebook there rather than at the Commission's offices.</sentence>
+<sentence id="s171">See also [39].</sentence>
+<sentence id="s172">42 For the above reasons, the complaint that the Commission failed to comply with
+s 3K(2)(a)(i) when it moved the notebook from the hotel room to its offices is without substance.</sentence>
+<sentence id="s173">
+ THE PROCEDURE BY WHICH THE DVDS WERE OBTAINED 
+ 
+ 43 Though it created the DVDs, the Commission ultimately obtained them by way of the notice.</sentence>
+<sentence id="s174">44 Mr Andrew deposed to the circumstances in which the notice was issued:
+ (a) On 17 February 2004, he "asked Mr Freestone to conduct various key word searches of the forensic image to determine which parts [thereof] fell within the third condition of the warrant".</sentence>
+<sentence id="s175">Though Mr Freestone conducted those searches, Mr Andrew did not obtain the results thereof.</sentence>
+<sentence id="s176">(b) After discussions with Ken Goodchild, another member of the Commission's staff, Mr Andrew "suspected that there would be information on the forensic image that would be relevant to [certain investigations of the Commission] that did not fall within the terms of the warrant".</sentence>
+<sentence id="s177">(c) Messrs Andrew and Goodchild "wished to access the entire contents of the forensic image [and] decided to apply to an examiner" for the notice.</sentence>
+<sentence id="s178">(d) The application for the notice was prepared by David Hellings, who seems to be a member of the Commission's staff, and endorsed by Mr Goodchild.</sentence>
+<sentence id="s179">(e) On 19 February 2004, Mr Freestone gave Mr Andrew the DVDs.</sentence>
+<sentence id="s180">(f) Also on 19 February 2004, one of the Commissioner's examiners issued the notice.</sentence>
+<sentence id="s181">
+
+Mr Andrew also deposed to the provision of the DVDs to the applicant, the service of the notice on him and his compliance with the notice.</sentence>
+<sentence id="s182">Those events are described at [7] and [8].</sentence>
+<sentence id="s183">
+ 45 Section 29 of the Australian Crime Commission Act 2002 (Cth) relevantly provides: 
+ 
+ 
+ '(1) An examiner may, by notice in writing served on a person, require the person: 
+ 
+ 
+ 
+ 
+ (a) to attend, at a time and place specified in the notice, before a person specified in the notice, being the examiner or a member of the staff of the [Commission]; and 
+ (b) to produce at that time and place to the person so specified a document or thing specified in the notice, being a document or thing that is relevant to a special [Commission] operation / investigation.</sentence>
+<sentence id="s184">
+ 
+ 
+ 
+ 
+ (1A) Before issuing a notice under subsection (1), the examiner must be satisfied that it is reasonable in all the circumstances to do so.</sentence>
+<sentence id="s185">The examiner must also record in writing the reasons for the issue of the notice.</sentence>
+<sentence id="s186">" 
+ 
+ 
+ 
+ 46 The statement of claim pleaded that:
+ &#8226; "[i]n the premises, s 29 ... did not authorise a member of staff of the [Commission] to require the applicant to produce the [DVDs] pursuant to the notice" (para 17); and
+ &#8226; "[b]y reason of the foregoing ... the notice ... was issued for an unlawful purpose [and] was unlawful and of no force and effect" (para 18(c)).</sentence>
+<sentence id="s187">
+
+However, the grounds on which the notice is impugned were not exposed until the applicant filed and served written submissions in reply --- on the day the hearing of the application commenced.</sentence>
+<sentence id="s188">Pursuant to leave, the applicant filed and served an amended statement of claim that pleaded the two grounds exposed by the submissions.</sentence>
+<sentence id="s189">First, that the examiner who issued the notice was not, in the terms of s 29(1A) "satisfied that it [was] reasonable in all the circumstances to do so".</sentence>
+<sentence id="s190">Secondly, that the DVDs were never in the applicant's "custody, possession and/or control" and, therefore, could not have been produced pursuant to the notice.</sentence>
+<sentence id="s191">I will deal with them in reverse order.</sentence>
+<sentence id="s192">"Possession, custody and/or control" 
+ 
+ 47 By his written submissions in reply, the applicant contends that:
+ "[The applicant] was required to produce a thing which was not in his 'custody, possession and/or control' in the requisite sense .</sentence>
+<sentence id="s193">In circumstances where: 
+ 
+ 
+ (a) the notice ... required the production of the ... DVDs 'forthwith'; 
+ (b) [the applicant] was afforded no opportunity to verify the contents of the DVDs; and 
+ (c) [the applicant] was handed the ... DVDs at a time when his presence at the [Commission's] offices was involuntary --- 
+ 
+ 
+ possession of the 'thing' did not pass to [the applicant].</sentence>
+<sentence id="s194">" 
+ 
+
+(The emphases are in the original.</sentence>
+<sentence id="s195">) The applicant also cites Chairman, National Crime Authority v Flack (1998) 156 ALR 501 as discussing the relevant authorities.</sentence>
+<sentence id="s196">(The Commission does not dispute the facts set out in sub-paras (a) to (c) of the passage quoted above.</sentence>
+<sentence id="s197">)
+ 
+ 48 The applicant's contentions in the passage quoted at [47] are fundamentally unsound.</sentence>
+<sentence id="s198">The qualification of "custody, possession and/or control" by "the requisite sense" begs the question of what that sense is.</sentence>
+<sentence id="s199">The terms of the notice are clear.</sentence>
+<sentence id="s200">There is no reason to read them down.</sentence>
+<sentence id="s201">In the events that occurred, possession --- however fleeting --- of the DVDs passed to the applicant when they were handed to him.</sentence>
+<sentence id="s202">It is beside the point that they were created by the Commission and handed to him in the knowledge or with the intention that he would immediately thereafter be compelled by way of the notice to hand them back.</sentence>
+<sentence id="s203">Until he was so compelled he was in possession of them.</sentence>
+<sentence id="s204">It is also beside the point that he was not in possession of them when the notice was issued --- as opposed to when the notice was served on him.</sentence>
+<sentence id="s205">As far as he was concerned, the notice was a dead letter unless and until it was served on him.</sentence>
+<sentence id="s206">49 The Commission referred to the decision of Hill J in Puglisi v Australian Fisheries Management Authority (1997) 148 ALR 393 at 396 and 403.</sentence>
+<sentence id="s207">In that case, material had been 'seized' at two premises.</sentence>
+<sentence id="s208">However, those 'seizures' were defective.</sentence>
+<sentence id="s209">In order to remedy those defects, the material was returned to the respective premises and 're-seized'.</sentence>
+<sentence id="s210">At 396, his Honour said:
+ "At the premises at Bungo Street the goods which had been seized were brought into the house and then re-seized.</sentence>
+<sentence id="s211">However, at 40 Parson Street the seized goods remained in the police vehicle stationary in the driveway and Mr Puglisi's wife was asked to come out to the vehicle and identify the material.</sentence>
+<sentence id="s212">The material was 're-seized' while it was still in the vehicle ... and driven away.</sentence>
+<sentence id="s213">" 
+ 
+
+At 403, his Honour said:
+ 
+ "In my view the items that were in the Federal Police car were never 'found' at the Parson Street premises in the course of a search.</sentence>
+<sentence id="s214">Nor were they ever then 'seized'.</sentence>
+<sentence id="s215">The items were always in the possession of the ... Federal Police and in the car.</sentence>
+<sentence id="s216">In my view it would be a misuse of language to speak of items always in the possession of the ... Federal Police as being 'found' at premises merely because they are in a car owned by the Federal Police parked in the premises.</sentence>
+<sentence id="s217">Nor can items held by the ... Federal Police be seized by the Federal Police from the Federal Police.</sentence>
+<sentence id="s218">" 
+ 
+
+Clearly, the situation in the instant proceeding was different from that in Puglisi .</sentence>
+<sentence id="s219">The DVDs were handed back to the applicant.</sentence>
+<sentence id="s220">That is analogous to the situation at the Bungo Street premises rather than that at the Parson Street premises referred to above.</sentence>
+<sentence id="s221">
+ 50 The fact that the applicant was not afforded an opportunity to verify that the DVDs' contents matched their description in the notice does not detract from the fact that he was in possession of the DVDs at time the notice was served on him.</sentence>
+<sentence id="s222">Only if the DVDs' contents did not match their description would the notice have been defective because it compelled the applicant to produce "forthwith" a thing that was not in his "custody, possession and/or control".</sentence>
+<sentence id="s223">51 The fact that the applicant was served with the notice during his involuntary attendance at the Commission's offices is neither here nor there.</sentence>
+<sentence id="s224">52 The authorities discussed in Flack avail the applicant nothing.</sentence>
+<sentence id="s225">They include the 'finding' cases of Bridges v Hawkesworth (1851) 21 LJQB 75, South Staffordshire Water Company v Sharman [1896] 2 QB 44 and Parker v British Airways Board [1982] 1 QB 1004.</sentence>
+<sentence id="s226">This is not a 'finding' case.</sentence>
+<sentence id="s227">The DVDs were handed to the applicant at the Commission's offices.</sentence>
+<sentence id="s228">The question whether the Commission intended to exercise control over its offices to the extent that it owns things found therein by strangers simply does not arise for determination.</sentence>
+<sentence id="s229">53 It was put by Mr Lucarelli QC that a failure by the Court to disapprove of the device by which the Commission obtained the DVDs from the applicant might allow the Commission to employ a similar device in order to, for example, hand a person a gun and then compel him or her to hand it back.</sentence>
+<sentence id="s230">I do not intend to read down the plain terms of s 29 and the notice in order to accommodate an extreme hypothetical example.</sentence>
+<sentence id="s231">In any case, the potential mischief sought to be illustrated by way of the example is not of great import.</sentence>
+<sentence id="s232">The only evidence that could be created by such a device is of the fact that the person possessed the gun between the point at which it was handed to him or her by the Commission and the point at which he or she was compelled to hand it back to the Commission.</sentence>
+<sentence id="s233">
+ Section 29(1A) 
+ 
+ 54 The applicant's complaint that the Commission has failed to show that the examiner who issued the notice was, in the terms of s 29(1A) "satisfied that it [was] reasonable in all the circumstances to do so" is misconceived.</sentence>
+<sentence id="s234">The onus is on the applicant to show that there was no such satisfaction.</sentence>
+<sentence id="s235">See [19] and [20].</sentence>
+<sentence id="s236">The applicant has failed to adduce evidence to that end.</sentence>
+<sentence id="s237">55 The Commission did not adduce evidence that the examiner was satisfied in the requisite sense.</sentence>
+<sentence id="s238">That lack of evidence is unexceptionable because the applicant failed to adduce evidence that the examiner was not so satisfied and first raised the issue of whether or not the examiner was so satisfied on the day the hearing of the application commenced.</sentence>
+<sentence id="s239">For those reasons:
+ &#8226; it is not appropriate for me to draw an inference of the sort described by Windeyer J in Jones v Dunkel [1959] HCA 8 ; (1959) 101 CLR 298 at 320-321 from the Commission's failure to adduce evidence from Messrs Hellings or Goodchild --- whose roles in the procurement of the notice are described at [44](d) --- or the examiner; and
+ &#8226; I need not deal with the applicant's contention that the examiner could not have been satisfied in the requisite sense when he issued the notice because he must have known that the Commission created the DVDs and/or that the applicant was not, at that point in time, in "custody, possession and/or control" of the DVDs.</sentence>
+<sentence id="s240">
+ CONCLUSION 
+ 
+ 56 For the above reasons, I would dismiss the application with costs.</sentence>
+<sentence id="s241">Further, if I am wrong in any of those reasons, I would, in the exercise of my discretion, refuse to grant the relief sought.</sentence>
+<sentence id="s242">In Johnson v Williams (2000) 58 ALD 1 at [24] and [25], the Full Court of this Court said:
+ "One matter that is properly to be taken into account in proceedings to quash or have declared invalid an administrative decision is whether there has been delay in bringing the proceeding.</sentence>
+<sentence id="s243">Courts quite properly take the view that there is a need for a speedy determination of the validity of an administrative decision.</sentence>
+<sentence id="s244">The interests of good administration and third parties are at stake: O'Reilly v Mackman [1983] UKHL 1 ; [1983] 2 AC 237 at 284; Caswell v Dairy Produce Quota Tribunal for England &amp; Wales [1990] UKHL 5 ; [1990] 2 AC 738.</sentence>
+<sentence id="s245">Unreasonable or unaccounted for delay cannot be tolerated.</sentence>
+<sentence id="s246">
+ 
+ The timely action that is required is the commencement of proceedings for or in the nature of judicial review.</sentence>
+<sentence id="s247">" 
+ 
+
+(The emphasis is mine.</sentence>
+<sentence id="s248">) In that case, the relief sought from and refused by the primary judge was an order to quash a decision of the Attorney-General to refuse to withdraw a request for extradition.</sentence>
+<sentence id="s249">
+ 57 In the present case, the warrant was issued on 13 February 2004 and executed the following day.</sentence>
+<sentence id="s250">The notice was issued and served on 19 February 2004.</sentence>
+<sentence id="s251">The application was filed on 21 December 2005: over 22 months after the events that gave rise to it occurred.</sentence>
+<sentence id="s252">The applicant has failed to explain his inordinate delay in commencing proceedings.</sentence>
+<sentence id="s253">His attempt to do so by the affidavit of Philip Cadman (of his solicitors) fails.</sentence>
+<sentence id="s254">Mr Cadman deposed that:
+ "The ... warrant ... and the ... notice ... form part of a clandestine investigation conducted in circumstances of confidentiality and secrecy.</sentence>
+<sentence id="s255">Prior to the [Commission] releasing details of actions taken in the course of their investigations ... [by way of certain press releases issued in June 2005 and exhibited to Mr Andrew's affidavit], it was not possible for the applicant or any other members of the public to be aware that materials outside the scope of the warrant and the notice ... were being acted on by the [Commission].</sentence>
+<sentence id="s256">" 
+ 
+
+Apart from being hearsay, this is beside the point.</sentence>
+<sentence id="s257">The applicant complains that the Commission's exercise of coercive power --- in the form of a substantial interference with his personal property --- was unlawful because it was done pursuant to an unlawful warrant and notice.</sentence>
+<sentence id="s258">What happened afterwards is irrelevant to the basis upon which that complaint is made.</sentence>
+<sentence id="s259">At most, it merely --- to put it colloquially --- raised the stakes for the applicant in his attempt to impugn the warrant and the notice.</sentence>
+<sentence id="s260">
+ 58 In any case, Mr Cadman's evidence is contradicted by other evidence adduced by the applicant.</sentence>
+<sentence id="s261">Michael Carr (of other solicitors for the applicant) deposed that on 19 February 2004 a member of the Commission advised the applicant in the presence of himself and Mr Galbally QC --- who appeared for the applicant before me --- that
+ "the investigation being conducted by the [Commission] would be broadened to include other persons who the applicant had dealings with, as identified in correspondence contained on the applicant's computer [and] stated words to the ... effect [that] '[t]here will be another search warrant'.</sentence>
+<sentence id="s262">" 
+ 
+
+It is neither here nor there that no such warrant was obtained.</sentence>
+<sentence id="s263">
+ 59 In the circumstances, I need not deal with the Commission's alternative submission that, if the applicant had made out a case for relief, I should not order the return of the information obtained pursuant to the warrant and the notice or prohibit its use, so as to preserve it for use in foreshadowed criminal proceedings --- pending a determination of the trial judge therein as to whether or not it should be excluded on the grounds that it was unlawfully obtained.</sentence>
+<sentence id="s264">See for example Malone v Metropolitan Police Commissioner [1980] QB 49 and Parker v Churchill (1985) 9 FCR 316.</sentence>
+<sentence id="s265">60 The application is dismissed.</sentence>
+<sentence id="s266">The applicant must pay the Commission's costs.</sentence>
+<sentence id="s267">
+
+
+ I certify that the preceding sixty (60) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Sundberg.</sentence>
+<sentence id="s268">Associate:
+
+Dated: 30 June 2006
+
+
+ Counsel for the Applicant: Mr D Galbally QC
+Mr N Lucarelli QC
+Mr A Thomas 
+ 
+ Solicitor for the Applicant: Browne &amp; Co 
+ 
+ Counsel for the First Respondent: Ms D Mortimer SC
+Dr S Donaghue 
+ 
+ Solicitor for the First Respondent: Ms R Sharp, Australian Crime Commission 
+ 
+ Date of Hearing: 1 and 2 June 2006 
+ 
+ Date of Judgment: 30 June 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/819.html 
+ 
+ </sentence>
+</sentences>
+</case>

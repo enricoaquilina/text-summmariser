@@ -1,0 +1,948 @@
+<?xml version="1.0"?>
+<case>
+<name>Mijac Investments Pty Ltd (ACN 084 820 280) v Graham (No 2) [2009] FCA 773 (22 July 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/773.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">duties of a "controller" under s 420a</catchphrase>
+<catchphrase "id=c1">whether duties breached</catchphrase>
+<catchphrase "id=c2">assignment of statutory cause of action</catchphrase>
+<catchphrase "id=c3">duties of mortgagee in possession</catchphrase>
+<catchphrase "id=c4">whether duties breached</catchphrase>
+<catchphrase "id=c5">adoption of proper process of sale</catchphrase>
+<catchphrase "id=c6">equitable and statutory remedies</catchphrase>
+<catchphrase "id=c7">assignment of cause of action and remedies available</catchphrase>
+<catchphrase "id=c8">taking account on wilful default</catchphrase>
+<catchphrase "id=c9">corporations</catchphrase>
+<catchphrase "id=c10">mortgages</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ In 2009, an assignee of a cause of action seeks orders, inter alia, that would set aside a sale of the assets and undertaking of a mortgagor that occurred in November 1999 where the purchaser was a company incorporated for that purpose by the sole director and shareholder of the mortgagee, the mortgagee failed to discharge its duty to act in good faith in the exercise of its power of sale but where the assets and undertaking have since 1999 been substantially altered and the proceedings instituted by the assignee, more than five years later in April 2005, have not been prosecuted in a way that has achieved the "just, quick , and efficient" resolution of the disputed issues: see Mijac Investments Pty Ltd v Graham [2009] FCA 303.</sentence>
+<sentence id="s1">Is the assignee entitled to the orders that it seeks?</sentence>
+<sentence id="s2">For the reasons that follow, the answer is "No".</sentence>
+<sentence id="s3">A company, Lawrenson Light Metal Die Casting Pty Ltd (ACN 081 829 790) ("LLMDC"), commenced operating a die casting business in January 1999.</sentence>
+<sentence id="s4">Its operation lasted less than one year.</sentence>
+<sentence id="s5">On 10 September 1999, the Third Respondent, Cosmick Pty Ltd (ACN 065 356 149) ("Cosmick") was granted a charge over the assets and undertaking of LLMDC ("the Charge").</sentence>
+<sentence id="s6">In November 1999, Cosmick (as mortgagee in possession) sold the assets and undertaking of LLMDC to the Fifth Respondent, Melbourne Gravity Pty Ltd (ACN 490 584 339) ("Gravity"), a company incorporated for that purpose by the sole director and shareholder of Cosmick, the First Respondent, William Graham ("Graham").</sentence>
+<sentence id="s7">On 10 September 2004, LLMDC assigned to the Applicant, Mijac Investments Pty Ltd (ACN 084 820 280), ("Mijac"), "all of [LLMDC's] right title and interest in any Cause of Action that [LLMDC] may have otherwise had".</sentence>
+<sentence id="s8">The "Cause of Action" was not defined but Recital C to the Deed of Assignment stated that prior to LLMDC going into liquidation, LLMDC had been "involved in dispute (sic) and litigation with several parties and consequently believe[d] it ha[d] a cause of action against those parties".</sentence>
+<sentence id="s9">As these reasons for decision will demonstrate, Mijac's application must fail.</sentence>
+<sentence id="s10">Although made in a factually different context, the statements by the High Court in Fysh v Page [1956] HCA 13 ; (1956) 96 CLR 233 at 243 are apposite --- equitable relief may be, and in my view in this case should be, denied where an applicant asks the Court to "rip up a transaction years after it has been completed", being a transaction to which Mijac was not a party (because it sues as an assignee) and where Mijac would get a radically different business now worth a lot more than that sold by the mortgagee in possession in 1999.</sentence>
+<sentence id="s11">However, although on the facts Mijac was entitled to an accounting for wilful default on the part of the mortgagee, that right is worthless because even if the mortgagee had conducted a "proper" sale of the assets and undertaking, there is no basis for concluding that such a sale would have generated any additional proceeds of sale above those paid to Cosmick.</sentence>
+<sentence id="s12">These reasons for decision are structured as follows: Content Para(s) I Relevant Legal Principles [6] --- [34] (a) Corporations legislation [7] (b) General law in relation to mortgagees in possession [20] (c) Equitable Remedies [22] (d) Property Law Act 1958 (Vic) ("the PLA") [27] (e) Assignment --- Effect on causes of action [30] II Facts [35] --- [141] (a) Introduction [35] (b) 1946-1997 [36] (c) 1998 [47] (d) 1999 --- January to October [55] (e) 1999 --- November and December [90] (f) 2000-2009 [131] III Analysis [142] --- [187] (a) Was Graham a controller within the meaning of s 420A of the Corporations Law ("the Law") as it applied in November 1999?</sentence>
+<sentence id="s13">[143] (b) Was Graham an officer of LLMDC within the meaning of the Law?</sentence>
+<sentence id="s14">[152] (c) Did s 418 of the Law apply?</sentence>
+<sentence id="s15">Was Graham a receiver of the property of LLMDC and, if so, what consequence(s) follow?</sentence>
+<sentence id="s16">[154] (d) Did Graham owe any and, if so, what duties in selling LLMDC's assets?</sentence>
+<sentence id="s17">[155] (e) If the answer to (d) is yes, did Graham breach those duties?</sentence>
+<sentence id="s18">[158] (f) What duties if any did Cosmick owe to LLMDC in selling its assets?</sentence>
+<sentence id="s19">[159] (g) If yes to (f), did Cosmick breach those duties?</sentence>
+<sentence id="s20">[162] (h) Is there an absolute prohibition on a mortgagee in possession selling the assets to himself or a related party?</sentence>
+<sentence id="s21">[167] (i) Did Cosmick sell LLMDC's assets to itself?</sentence>
+<sentence id="s22">[168] (j) Did s 103 of the PLA apply and, if so, was it breached?</sentence>
+<sentence id="s23">[169] (k) Did a demand have to be made before Cosmick entered into possession of LLMDC's assets?</sentence>
+<sentence id="s24">[170] (l) Is Mijac entitled to damages from Graham and / or Cosmick and, if so, what is the measure of damages and at what time are they to be assessed?</sentence>
+<sentence id="s25">[172] (m) Is Mijac entitled to have the sale by Cosmick to Gravity set aside and, if so, is it too late by reason of delay?</sentence>
+<sentence id="s26">[179] (n) Is Mijac entitled to any and, if so, what statutory remedies?</sentence>
+<sentence id="s27">[183] (o) What is the effect of the assignment by LLMDC to Mijac in 2004 on the available remedies?</sentence>
+<sentence id="s28">[184] (p) Should Mijac be required to elect which remedy it takes?</sentence>
+<sentence id="s29">[187] IV Orders [188] 
+I.</sentence>
+<sentence id="s30">RELEVANT LEGAL PRINCIPLES 
+ An understanding of the various duties and powers imposed on mortgagees in possession under the general law and under statute and the manner in which those various duties and powers interact is important.</sentence>
+<sentence id="s31">In particular, it is necessary to consider the legislative history of Pt 5.2 of the Law and the manner in which that Part interacts with the general law dealing with mortgagees in possession.</sentence>
+<sentence id="s32">(A) CORPORATIONS LEGISLATION
+ In 1988, the Australian Law Reform Commission Report No.</sentence>
+<sentence id="s33">45 " General Insolvency Inquiry " (known as the "Harmer Report") considered and rejected the idea that the existing law on receivers should be codified.</sentence>
+<sentence id="s34">Instead, the Harmer Report identified mortgagees in possession and receivers as an issue and in paras [187] and [188] of the Report addressed that issue in the following terms: 
+187.</sentence>
+<sentence id="s35">...</sentence>
+<sentence id="s36">The central issue, then, is whether those sections which only cover a receiver (however appointed) should be extended to cover an agent for a mortgagee in possession and a mortgagee in possession.</sentence>
+<sentence id="s37">... More importantly, however, the exclusion of mortgagees and their agents other than receivers discriminates between differing methods of enforcing charges in a way which is difficult to justify.</sentence>
+<sentence id="s38">It should be recognised that, in some cases, the choice of a secured creditor to take possession (whether itself or by an agent) rather than appoint a receiver is largely the result of the application of the Income Tax Assessment Act 1936 (Cth) s 221P which gives a priority to the Commissioner of Taxation where a receiver is appointed to the property of the corporation.</sentence>
+<sentence id="s39">If the priority afforded by s 221P is abolished as the Commissioner recommends, the recent practice of appointing an agent of the mortgagee to take possession would rarely, if ever, be used as a means of enforcing a charge.</sentence>
+<sentence id="s40">There would be no reason to prefer that method (in view of the potential liability of a mortgagee in possession) to the appointment of a receiver.</sentence>
+<sentence id="s41">Nevertheless, whether the Parliament decides to repeal s 221P or not, there is, for the most part, no logical reason for many of the provisions relating to receivers to distinguish between different methods of enforcing a charge and for the operation of those provisions to be confined merely to receivers.</sentence>
+<sentence id="s42">However this cannot be done by providing a comprehensive definition of receiver to include a mortgagee in possession since such a definition would be inappropriate in several cases.</sentence>
+<sentence id="s43">For example, it is not within the province of a mortgagee to report to the CAC [Corporate Affairs Commission] on the conduct of the mortgagor company or the company's officers under s 324C of the companies legislation.</sentence>
+<sentence id="s44">188.</sentence>
+<sentence id="s45">Recommendation.</sentence>
+<sentence id="s46">Accordingly, the Commission recommends that the following sections of the companies legislation be amended to include mortgagees and their agents by the use of wording similar to that contained in s 324(1) of the companies legislation and 331(1) and the Commission's draft legislation:
+ 
+ 
+[List of provisions].</sentence>
+<sentence id="s47">(Footnotes omitted).</sentence>
+<sentence id="s48">Four years later, in 1992, the Corporate Law Reform Act 1992 (Cth) implemented part of the recommendations of the Harmer Report.</sentence>
+<sentence id="s49">It did not codify the existing law on receivers.</sentence>
+<sentence id="s50">By the amendments, however, most of the powers and duties conferred and imposed on insolvency administrators under Pt 5.2 of the Law (as it then was) were extended to apply to all receivers and others who controlled company property under a charge: see para [25] of the Explanatory Memorandum to the Corporate Law Reform Bill 1992 ("EM").</sentence>
+<sentence id="s51">The objectives of the Harmer Report (identified in [7]) were achieved by imposing most of the powers conferred and duties imposed on insolvency administrators under Pt 5.2 of the Law on the "controller" and "managing controller" of the property of a corporation: s 9 of the Law and para [339] of the EM.</sentence>
+<sentence id="s52">(The term "controller" was inserted for the "purposes of provisions imposing duties on receivers and others who control company property, to include receivers and all other persons (for example, mortgagees in possession) who have control of company property for the purpose of enforcing a charge").</sentence>
+<sentence id="s53">"[C]ontroller, in relation to property of a corporation", was defined to mean: 
+(a) a receiver, or receiver and manager, of that property; or
+ 
+ 
+(b) anyone else who (whether or not as agent for the corporation ) is in possession, or has control, of that property for the purpose of enforcing a charge;
+ 
+ 
+(Emphasis added).</sentence>
+<sentence id="s54">"Controller" includes, by definition, a receiver and manager, (see e.g.</sentence>
+<sentence id="s55">s 9 (definition of "controller") and s 419(1)).</sentence>
+<sentence id="s56">However, a controller is not always a receiver, or receiver and manager: see e.g.</sentence>
+<sentence id="s57">ss 90 , 416, 418, 420, 420C, 425.</sentence>
+<sentence id="s58">"[M]anaging controller, in relation to property of a corporation" was defined to mean: 
+(a) a receiver and manager of that property; or
+ 
+ 
+(b) any other controller of that property who has functions or powers in connection with managing the corporation;
+ 
+ 
+and has a meaning affected by paragraph 434G(b) (which deals with 2 or more persons appointed as managing controllers).</sentence>
+<sentence id="s59">(The Law expressly provided for the appointment of two or more managing controllers of property of a corporation and a function or power of a managing controller of property of a corporation may be performed or exercised by any one of them or by any two or more of them together, subject to the terms of the order or instrument appointing them: s 434G).</sentence>
+<sentence id="s60">The need for a "managing controller" arose because the drafters realised that the conferral of one power (power to dispose of property subject to a prior charge (s 420B)) and the imposition of one duty (duty to report within two months about the company's affairs (s 421A)) was appropriate in relation to only those controllers who had a general management role in addition to their role in taking possession of the property under the charge.</sentence>
+<sentence id="s61">Accordingly, that one power, and that one duty, were imposed on "managing controllers", being defined as those controllers who had a management function: para [354] of the EM.</sentence>
+<sentence id="s62">Under Pt 5.2 of the Law, and at November 1999, various provisions were imposed on "controllers" including: 
+ (1).</sentence>
+<sentence id="s63">Notice Requirements --- a controller of property of a corporation:
+ 
+(i) must lodge with the Australian Securities and Investments Commission ("ASIC"):
+ within seven days after entering into possession or taking control, a notice that the person has entered into possession or taken control unless the person who appointed the person has done so: sub-ss 427(1A), (1B) and Form 504; within 14 days after becoming a controller of property of a corporation, a notice of the controller's office address: s 427(2); and notice of ceasing to be the controller of property of a corporation within seven days of ceasing to be the controller: s 427(4); 
+(ii) must serve on the corporation as soon as practicable notice that the person is a controller of the property of the corporation: s 429(2)(a);
+ 
+ (2).</sentence>
+<sentence id="s64">Reporting Obligations by and to Controllers --- where a person becomes a controller of property of a corporation:
+ 
+(i) within 14 days after the corporation receives notice under s 429(2)(a), the "reporting officers" (defined in s 429(1) to mean a director or secretary of the corporation) must make out and submit to the controller a report about the affairs of the corporation as at the control day: s 429(2)(b);
+ 
+(ii) the controller must, within one month of receiving the report under s 429(2)(b), lodge a copy of the report and a notice setting out the controller's comments on the report, if any, with ASIC and send a copy of the notice to the corporation: s 429(2)(c);
+ 
+(iii) the controller may, by notice, require persons (including past or present officers of the corporation, where the corporation had been incorporated for less than one year before the control day, the persons who took part in the formation of the corporation, and past or present employees) to verify by a statement in writing, and submit to the controller, a report about specified matters concerning the affairs of the corporation: s 430(1);
+ 
+(iv) the controller must lodge an account with ASIC within one month after the end of six months after the day when the controller became a controller of property of the corporation and within one month after ceasing to be the controller of property of the corporation: s 432(1).</sentence>
+<sentence id="s65">The form and contents of the account are prescribed: s 432(1A);
+ 
+ (3).</sentence>
+<sentence id="s66">Inspection of corporation's books --- a controller of property of a corporation is entitled to inspect books of the company that "relate to that property": s 431;
+ 
+ 
+ (4).</sentence>
+<sentence id="s67">Court Supervision and Direction --- 
+ 
+(i) if it appears to the Court (or ASIC) that a controller of property of a corporation has not faithfully performed or is not faithfully performing the controller's functions or has not observed or is not observing a requirement of the instrument under which the controller entered into possession or took control of that property, the Court (or ASIC) may inquire into the matter and the Court may take such action as it thinks fit: s 423(1).</sentence>
+<sentence id="s68">In that context, the Court may require a controller of property of a corporation to answer questions about the performance or exercise of any of the controller's functions and powers as controller: cf Smorgon v ANZ Banking Group Ltd [1976] HCA 53 ; (1976) 134 CLR 475 at 481 (dealing with s 264(1)(b) of the Income Tax Assessment Act 1936 (Cth)): s 423(3) ;
+ 
+(ii) a controller of property of a corporation may apply to the Court for directions in relation to any matter arising in connection with the performance or exercise of any of the controller's functions and powers as controller: s 424(1);
+ 
+(iii) the Court may declare whether a controller is validly acting: s 418A ;
+ 
+(iv) the Court may in certain circumstances relieve in whole or in part the liability of a controller not properly appointed: s 419(3) ;
+ 
+(v) the Court may remove a controller for misconduct on the application of the corporation: s 434A;
+ 
+(vi) the Court may remove a redundant controller on the application of a liquidator: s 434B;
+ 
+ (5).</sentence>
+<sentence id="s69">Statutory duties, powers and liabilities --- I will mention two:
+ 
+(i) any authorised person, who, whether as agent for the corporation concerned or not, enters into possession or assumes control of any property for the purpose of enforcing a charge, notwithstanding any agreement to the contrary, is liable for debts incurred by the person in the course of the possession or control for services rendered and the like: s 419(1).</sentence>
+<sentence id="s70">The person entitled to the benefit of the charge does not constitute a mortgagee in possession simply by reason of s 419(1): s 419(2).</sentence>
+<sentence id="s71">(ii) in exercising a power of sale in respect of property of a corporation, a controller must take all reasonable care to sell the property for not less than market value or if no market value, the best price that is reasonably obtainable in the circumstances: s 420A.</sentence>
+<sentence id="s72">As the Harmer Report recommended (see [7] above), these statutory powers and duties were not a code but were in addition to the general law duties of mortgagees in possession.</sentence>
+<sentence id="s73">The statutory provisions dealing with the duties, powers and liabilities of controllers assume that a person is in control of the property of a corporation for the purposes of enforcing a charge and impose powers and duties on that person.</sentence>
+<sentence id="s74">The general law governing mortgagees in possession does not.</sentence>
+<sentence id="s75">The differences between the statutory and general law duties do not create any practical difficulties to the resolution of the present matter because the dominant (and I consider more persuasive) view is that s 420A of the Law does not expressly confer a right to damages or any other remedy on the corporation or anyone else: see Florgale Uniforms Pty Ltd (Receiver and Manager Appointed) (in liq) v Orders (2004) 11 VR 54 at [357]-[388] and the authorities cited including Bryson J in GE Capital Australia v Davis [2002] NSWSC 1146 ; (2002) 180 FLR 250 at [45] .</sentence>
+<sentence id="s76">If that view is correct (and I consider that it is), then as a matter of statutory construction, what s 420A of the Law does is to redefine the general law duty and what must be done to protect the corporation and its property when affected by exercise of a power of sale so that "the corporation, as mortgagor ... retain[s] its existing available remedies, tested by reference to the [higher] duty in s 420A(1)": see Florgale Uniforms 11 VR at [370].</sentence>
+<sentence id="s77">That 'higher' standard was described in Florgale Uniforms 11 VR at [410]ff in terms which I adopt.</sentence>
+<sentence id="s78">A breach of s 420A is not established merely because the market value or the best price is not achieved.</sentence>
+<sentence id="s79">It requires a failure to take all reasonable care to sell the property for not less than market value or the best price that is "reasonably obtainable, having regard to the circumstances existing when the property is sold": s 420A of the Law.</sentence>
+<sentence id="s80">That enquiry requires a Court to look at the process that a controller of property has undertaken to sell the property: see also Artistic Builders Pty Ltd v Elliot &amp; Tuthill (Mortgages) Pty Ltd (2002) 10 BPR 19,565 at [126] and Ultimate Property Group Pty Ltd v Lord (2004) 60 NSWLR 646 at [69].</sentence>
+<sentence id="s81">Examples of a failure to undertake an appropriate process include (summarising the analysis of Florgale Uniforms 11 VR at [416] to [429]): Where an auction of mortgaged property was well advertised and competitive, but deliberate steps had been taken which would result in a 'seriously interested' potential bidder failing to attend the auction, therefore constituting a reckless disregard of the interests of the mortgagor: see Artistic Builders Pty Ltd v Elliot &amp; Tuthill (Mortgages) Pty Ltd (2002) 10 BPR 19,565; Where the sale of cattle on a per kilogram basis, locked into a sale of land transaction, was a misconceived estimate of value directed at the wrong market as the cattle had special characteristics that would have increased their value if marketed correctly, particularly when there was a failure to act in accordance with advice obtained, to provide sufficient notice to attract prospective purchasers and that alternate buyers may have been interested in the cattle sold separately from the land: see Jeogla Pty Ltd v Australian and New Zealand Banking Group Ltd (1999) 150 FLR 359 ; Where, during the sale of a business, the worth of a contract was devalued in a situation where that contract represented the major asset of the business, without sufficient justification at the time of sale and without encouraging competitive bidding for the business where several offers were made: see Kyuss Express Pty Ltd v Sellers [2001] VSC 10 ; (2001) 37 ACSR 62.</sentence>
+<sentence id="s82">Conversely, the Courts have found that the "process" adopted in selling the relevant property was not in breach of the duty: Where the controller had failed to consider relevant GST implications of a sale, but the controller was found to have determined that there was negligible benefit in adopting the course proposed by the plaintiff (as the purchaser was ultimately interested more in net value and not the GST implications of the disposal) and thus had rejected the proposed course of action for reasons which had logical force: see Ultimate Property Group Pty Ltd v Lord (2004) 60 NSWLR 646 ; Where a controller had allegedly sold plant and equipment for less-than-value where those assets had previously been the subject of an administrator's attempt to sell to a wide range of interested persons and there was a need to sell quickly given accruing liabilities (such as outstanding rent), particularly given that neither the debtor companies nor the director had protested and no market value for the assets could be determined: see GE Capital Australia v Davis [2002] NSWSC 1146 ; (2002) 180 FLR 250.</sentence>
+<sentence id="s83">Applicability of the Law
+ As noted earlier, the substantive events occurred in 1999 when the Law was in operation.</sentence>
+<sentence id="s84">Section 1400 of the Corporations Act 2001 (Cth) ("the Corporations Act ") provides, in part, that: 
+(1) ... this section applies in relation to a right or liability (the pre-commencement right or liability ), whether civil or criminal, that: 
+ 
+ 
+ (a) was acquired, accrued or incurred under a carried over provision of the old corporations legislation of a State or Territory in this jurisdiction; and 
+ 
+ 
+(b) was in existence immediately before the commencement.</sentence>
+<sentence id="s85">...
+ 
+ 
+(2) On the commencement, the person acquires, accrues or incurs a right or liability (the substituted right or liability ), equivalent to the pre-commencement right or liability, under the corresponding provision of the new corporations legislation (as if that provision applied to the conduct or circumstances that gave rise to the pre-commencement right or liability).</sentence>
+<sentence id="s86">(3) A procedure, proceeding or remedy in respect of the substituted right or liability may be instituted after the commencement under the new corporations legislation (as if that provision applied to the conduct or circumstances that gave rise to the pre-commencement right or liability).</sentence>
+<sentence id="s87">Throughout these reasons for decision, reference is made both to the Law as it applied in November 1999 and to the Corporations Act .</sentence>
+<sentence id="s88">Except where expressly noted, there is no dispute between the parties that the provisions in the Law which are central to the resolution of the disputed issues correspond to rights or liabilities which are found in provisions in the Corporations Act : see also ss 1370 and 1398 of the Corporations Act.</sentence>
+<sentence id="s89">(B) GENERAL LAW IN RELATION TO MORTGAGEES IN POSSESSION
+ In Upton v Tasmanian Perpetual Trustees Ltd [2007] FCAFC 57 ; (2007) 158 FCR 118 at [15] ff, Kiefel and Besanko JJ summarised the general law in the following terms: The starting point is that the power of sale is given to a mortgagee for his or her own benefit, to enable the realisation of the debt: Fisher and Lightwood's Law of Mortgage (2nd Aust ed, LexisNexis Butterworths, 2005) at [20.21] and the cases there cited, including Forsyth v Blundell [1973] HCA 20 ; (1973) 129 CLR 477 at 483.</sentence>
+<sentence id="s90">Equity however required a mortgagee exercising that power to act in good faith and not to deal with the property "in such a manner that the interests of the mortgagor are sacrificed".</sentence>
+<sentence id="s91">In the passage from Kennedy v De Trafford [1897] AC 180 at 185, cited by Menzies J in Forsyth v Blundell 129 CLR at 481, it was said: 
+ 
+... if a mortgagee in exercising his power of sale exercises it in good faith, without any intention of dealing unfairly by his mortgagor, it would be very difficult indeed, if not impossible, to establish that he had been guilty of any breach of duty towards the mortgagor.</sentence>
+<sentence id="s92">Lindley L.J.</sentence>
+<sentence id="s93">in the Court below, says that "it is not right or proper or legal for him either fraudulently or wilfully or recklessly to sacrifice the property of the mortgagor".</sentence>
+<sentence id="s94">Well, I think that is all covered really by his exercising the power committed to him in good faith.</sentence>
+<sentence id="s95">It is very difficult to define exhaustively all that would be included in the words "good faith", but I think it would be unreasonable to require the mortgagee to do more than exercise his power of sale in that fashion.</sentence>
+<sentence id="s96">Of course, if he wilfully and recklessly deals with the property in such a manner that the interests of the mortgagor are sacrificed, I should say that he had not been exercising his power of sale in good faith.</sentence>
+<sentence id="s97">( Kennedy v de Trafford [1897] AC 180 was followed by the High Court in Barns v Queensland National Bank Ltd [1906] HCA 26 ; (1906) 3 CLR 925 and Pendlebury v Colonial Mutual Life Assurance Society Ltd [1912] HCA 9 ; (1912) 13 CLR 676).</sentence>
+<sentence id="s98">Mason J in CAGA v Nixon 152 CLR at 502 commented that, after much debate, equity decided that a mortgagee was not a trustee of the power of sale and the power was not a fiduciary power.</sentence>
+<sentence id="s99">Nevertheless, his Honour observed, there remained in equity the long-standing controversy: 
+ 
+'Was the duty of the mortgagee in exercising his power of sale limited to acting bona fide or did it extend to the taking of reasonable precautions to ensure that the property was sold at the market value?</sentence>
+<sentence id="s100">'
+ 
+ That debate was discussed in Forsyth v Blundell [1973] HCA 20 ; 129 CLR 477.</sentence>
+<sentence id="s101">By that time English cases such as Cuckmere Brick Co Ltd v Mutual Finance Ltd [1971] 1 Ch 949 had accepted that the more onerous requirements were referrable to a selling mortgagee.</sentence>
+<sentence id="s102">Salmon LJ in that case held that that duty was owed by a mortgagee on "neighbour" principles (see at 966).</sentence>
+<sentence id="s103">The High Court did not need to resolve the debate in Forsyth v Blundell [1973] HCA 20 ; 129 CLR 477.</sentence>
+<sentence id="s104">Menzies J, however in a dissenting judgment, viewed the statements in Cuckmere Brick Co Ltd [1971] 1 Ch 949 in light of the equitable duty and was of the view that they were not at odds with the rule stated in Kennedy v De Trafford [1897] AC 180 , because to take reasonable precautions to obtain a proper price was "but a part of the duty to act in good faith" (at 481).</sentence>
+<sentence id="s105">More recently a Full Court in Gomez v State Bank of New South Wales Ltd [2002] FCA 442 at [20] commented that there is much to be said for this view, one which has more recently been elaborated upon in Medforth v Blake [2000] Ch 86 at 101-102.</sentence>
+<sentence id="s106">The Full Court did not however suggest that this approach had been adopted by Australian courts.</sentence>
+<sentence id="s107">The differences of approach have been regarded as irreconcilable: CAGA v Nixon 152 CLR at 494 per Gibbs CJ.</sentence>
+<sentence id="s108">The question has not been authoritatively ruled upon by the High Court.</sentence>
+<sentence id="s109">Australian courts have not applied the more stringent requirements: see Fisher and Lightwood's Law of Mortgage (2005) at [20.21] and the cases there cited; Gomez v State Bank of New South Wales Ltd [2002] FCA 442 at [24], [26]; Jovanovic v Commonwealth Bank of Australia [2004] SASC 61 ; (2004) 87 SASR 570 at 593 at [91].</sentence>
+<sentence id="s110">They have continued to regard a mortgagee's duty as equitable but they do not appear to have accepted that the duty is as extensive as that described by Menzies J in Forsyth v Blundell [1973] HCA 20 ; 129 CLR 477.</sentence>
+<sentence id="s111">The reliance placed by the appellant upon Ultimate Property Group Pty Ltd v Lord (2004) 60 NSWLR 646 at 650, as indicative of an approach towards some wider obligation on the part of a mortgagee, is misplaced.</sentence>
+<sentence id="s112">In that case Young CJ in Eq held that authority compelled the view that there was no duty on a mortgagee in New South Wales to render a mortgagee liable for common law damages if a good price was not obtained for the mortgaged property.</sentence>
+<sentence id="s113">The duty of which his Honour spoke, and which the appellant sought to adopt for the purposes of his argument, that to act "conscionably" (see at [38]), was that of good faith and no more.</sentence>
+<sentence id="s114">
+ 
+(Emphasis added in bold).</sentence>
+<sentence id="s115">See also Florgale Uniforms 11 VR at [336]-[349] and the authorities cited.</sentence>
+<sentence id="s116">In exercising the power of sale, a mortgagee is liable for the defaults of its agents: see Commercial and General Acceptance Ltd v Nixon [1981] HCA 70 ; (1981) 152 CLR 491 at 508-516 per Aickin J; Goldcel Nominees Pty Ltd (Provisional Liquidator Appointed) v Network Finance Ltd [1983] 2 VR 257 at 262; Nolan v MBF Investments Pty Ltd [2009] VSC 244 at [280] ; Florgale Uniforms 11 VR at [350].</sentence>
+<sentence id="s117">That view is of course consistent with general agency principles: see Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd [2004] HCA 52 ; (2004) 219 CLR 165 at [69] - [82] ; Legione v Hateley [1983] HCA 11 ; (1983) 152 CLR 406 at 452-454; Combulk Pty Ltd v TNT Management Pty Ltd [1993] FCA 89 ; (1993) 41 FCR 59 at 66-68.</sentence>
+<sentence id="s118">As Gibbs CJ said in Commercial and General Acceptance Ltd v Nixon 152 CLR at 498, in the context of a statutory duty to take reasonable care to ensure that the property was sold at market value, that duty is "not discharge[d] ... simply by delegating the duty to another, whether that other be an agent or an independent contractor".</sentence>
+<sentence id="s119">(C) EQUITABLE REMEDIES
+ If a mortgagee's equitable duty in relation to its power of sale (see [20] above) is breached, equitable relief might include orders setting aside the sale where there is no independent bargain between the mortgagee in possession and the purchaser of the property the subject of the mortgage: e.g.</sentence>
+<sentence id="s120">Australia and New Zealand Banking Group Ltd v Bangadilly Pastoral Co Pty Ltd [1978] HCA 21 ; (1978) 139 CLR 195 at 202-3 per Jacobs J and at 228 per Aickin J; Latec Investments Ltd v Hotel Terrigal Pty Ltd (in liq) [1965] HCA 17 ; (1965) 113 CLR 265 at 273-275 and Tse Kwong Lam v Wong Chit Sen [1983] 1 WLR 1349.</sentence>
+<sentence id="s121">In each of Latec Investments [1965] HCA 17 ; 113 CLR 265 and Tse Kwong Lam [1983] 1 WLR 1349 , the mortgagee sold to a related company and the mortgagor delayed for a long time before seeking relief in respect of that sale.</sentence>
+<sentence id="s122">Each is authority for the proposition that it is for the mortgagee to demonstrate that the sale was proper i.e.</sentence>
+<sentence id="s123">in good faith.</sentence>
+<sentence id="s124">If the mortgagee fails to do so, ordinarily the mortgagor would be entitled as of right to have the sale set aside.</sentence>
+<sentence id="s125">However "setting aside the sale" is not actually what occurs.</sentence>
+<sentence id="s126">In fact, the purchaser is treated as having bought the mortgage and the debt and the mortgagor retains its right of redemption of the mortgaged property against the purchaser.</sentence>
+<sentence id="s127">But not always.</sentence>
+<sentence id="s128">As the High Court said in Fysh v Page 96 CLR at 243, equitable relief may be denied where an applicant asks "the Court ... to rip up a transaction years after it has been completed[,] the lapse of time itself [being] one of the elements bearing upon the equities that exist entitling the [applicant] to relief".</sentence>
+<sentence id="s129">In that case, the Court refused to set aside the sale of a farm 12 years later because it meant that the plaintiff would have got back a property worth twice or three times the amount paid.</sentence>
+<sentence id="s130">(On the question of laches see also Edmunds v Pickering (No 3) (1999) 75 SASR 407 at 574-78 (refusing to apply laches after a five year delay); Jad International Pty Ltd v International Trucks Australia Ltd (1994) 50 FCR 378 at 387-89 (refusing to apply laches to bar rescission of sale of a truck where the relevant period of delay was one year); and Reader v Fried [2001] VSC 495 at [26] - [29] (refusing to apply laches even after an eight year delay in bringing proceedings)).</sentence>
+<sentence id="s131">In other circumstances, the rights of third parties will have intervened so that the result of the purchaser being treated as having bought the mortgage and the debt and the mortgagor retaining its right of redemption of the mortgaged property against the purchaser cannot be achieved.</sentence>
+<sentence id="s132">In both those circumstances (changed subject matter and / or the intervention of third party rights), the Privy Council suggests that the mortgagor will have a right to damages: Tse Kwong Lam [1983] 1 WLR 1349.</sentence>
+<sentence id="s133">In ELG Tyler, PW Young and C Croft, Fisher &amp; Lightwood's Law of Mortgage (2nd Australian ed, 2005) at [19.34], the learned authors suggest that if the mortgagee in possession has sold the property, and there is an inquiry into the propriety of the sale or the adequacy of the price, the mortgagee in possession will be liable to account not only for the proceeds of sale received by him but also for those proceeds which he might have received "without wilful default": Mayer v Murray (1878) 8 Ch D 424 ; Farrar v Farrars Ltd (1888) 40 Ch D 395 ; Commonwealth Bank of Australia v Hadfield [2001] NSWCA 440 ; (2001) 53 NSWLR 614 ; and Ultimate Property Group Pty Ltd v Lord (2004) 60 NSWLR 646.</sentence>
+<sentence id="s134">The mortgagee in possession's liability to account in the manner described (see [25]) has been held to extend in favour of all those who are interested in the equity of redemption (including an assignee) whether or not the mortgagee has assigned the mortgage: ELG Tyler, PW Young and C Croft, Fisher &amp; Lightwood's Law of Mortgage (2nd Australian ed, 2005) at [19.34] citing Hinde v Blake (1841) 11 LJ Ch 26 and Hall v Heward (1886) 32 Ch D 430.</sentence>
+<sentence id="s135">(D) PROPERTY LAW ACT 1958 (VIC)
+ The PLA, as it then applied, contained a number of provisions relating to both the power of sale of a mortgagee and the exercise of that power.</sentence>
+<sentence id="s136">First, s 101(1) of the PLA provided a power of sale to mortgagees under certain conditions: 
+(1) A mortgagee, where the mortgage is made by deed, shall, by virtue of this Part , have the following powers, to the like extent as if they had been in terms conferred by the mortgage deed , but not further, namely - 
+ 
+ 
+(a) a power, when the mortgage money has become due, to sell, or to concur with any other person in selling, the mortgaged property, or any part thereof, either subject to prior charges or not, and either together or in lots, by public auction or by private contract, and for a sum payable either in one amount or by instalments, subject to such conditions respecting title, or evidence of title, or other matter, as he, the mortgagee, thinks fit, with power to vary any contract for sale, and to buy in at an auction, or to rescind any contract for sale, and to re-sell, without being answerable for any loss occasioned thereby, with power to make such roads, streets and passages and grant such easements of right of way or drainage over the same as the circumstances may require and he thinks fit.</sentence>
+<sentence id="s137">(Emphasis added).</sentence>
+<sentence id="s138">The PLA then regulated the exercise of that power under s 103: 
+A mortgagee shall not exercise the power of sale conferred by this Part unless and until - 
+ 
+ 
+(a) notice requiring payment of the mortgage money has been served on the mortgagor or one of two or more mortgagors, and default has been made in payment of the mortgage money, or of part thereof, for one month after such service; or
+ 
+ 
+(b) some interest under the mortgage is in arrear and unpaid for one month after becoming due; or
+ 
+ 
+(c) there has been a breach of some provision contained in the mortgage deed or in this Part, or in any corresponding previous enactment, and on the part of the mortgagor, or of some person concurring in making the mortgage, to be observed or performed, other than and besides a covenant for payment of the mortgage money or interest thereon.</sentence>
+<sentence id="s139">(Emphasis added).</sentence>
+<sentence id="s140">Mijac submitted that there had been a failure to satisfy the conditions in ss 103(a) -(c) of the PLA and that "where the mortgagee has not complied with s 103 , the power of sale will have not been (sic) properly exercised and may provide the basis for setting aside the contract".</sentence>
+<sentence id="s141">I reject that contention.</sentence>
+<sentence id="s142">In the present case, these provisions are not engaged.</sentence>
+<sentence id="s143">Where an express power of sale is granted under a mortgagee document, as was provided by cl 5.1 of the Charge (see [145] below), it is unnecessary for a mortgagee to rely upon the power provided by the PLA: see Emerald Securities Pty Ltd v Tee Zed Enterprises Pty Ltd (1981) 28 SASR 214 at 220; ELG Tyler, PW Young and C Croft, Fisher &amp; Lightwood's Law of Mortgage (2nd Australian ed, 2005) at [20.5] and [20.11].</sentence>
+<sentence id="s144">In other words, the power of sale under the PLA does not replace the power of sale under the mortgage document --- it provides an alternate source of such a power and regulates how it is used.</sentence>
+<sentence id="s145">In the present case, Mijac's contention that there has been a failure to comply with s 103 of the PLA is rejected.</sentence>
+<sentence id="s146">Cosmick's power of sale was not exercised under s 101 of the PLA --- it was exercised as an express power of sale under the mortgage.</sentence>
+<sentence id="s147">(E) ASSIGNMENT --- EFFECT ON CAUSES OF ACTION
+ Choses in action in general are assignable: Poulton v Commonwealth (1952) 89 CLR 540 at 571 per Fullagar J (and on appeal at 602 per Williams, Webb and Kitto JJ); Trendtex Trading Corporation v Credit Suisse [1982] AC 679 at 702 per Lord Roskill ( Trendtex ).</sentence>
+<sentence id="s148">As noted earlier, the right to equitable relief in form of an accounting is capable of assignment: see [26].</sentence>
+<sentence id="s149">However, as Gyles J stated in Tosich v Tasman Investment Management Ltd [2008] FCA 377 ; (2008) 250 ALR 274 at 284, "a bare right to litigate requires special consideration".</sentence>
+<sentence id="s150">To that group of actions or rights requiring special consideration I would add statutory causes of action.</sentence>
+<sentence id="s151">For example, Davies J held in Park v Allied Mortgage Corporation Ltd [1993] ATPR (Digest) 46-105 at 53,469 that "a right to claim damages under ss 82 and 87 of the Trade Practices Act 1974 (Cth) ("TPA") is, in general, a bare right of action which cannot be assigned".</sentence>
+<sentence id="s152">This was followed in Allstate Life Insurance Co v ANZ Banking Group Ltd [1994] FCA 814 and upheld by Rares J in Boston Commercial Services Pty Ltd v GE Capital Finance Australasia Pty Ltd [2006] FCA 1352 ; (2006) 236 ALR 720 at 733 and cf Beatty v Brashs Pty Ltd [1998] 2 VR 201 at 215.</sentence>
+<sentence id="s153">The reason that statutory causes of action have been held not to be assignable is attributable to the distinction between personal causes of action and an impersonal right in the nature of a proprietary right.</sentence>
+<sentence id="s154">As Rares J stated in Boston Commercial Services 236 ALR at 733, "[o]nly a person who suffers loss or damage by the conduct done in contravention of a relevant provision of the [TPA] can recover under s 82 ".</sentence>
+<sentence id="s155">This distinction is well established: see Poulton v Commonwealth (1952) 89 CLR 540 at 571 per Fullagar J (and on appeal at 602 per Williams, Webb and Kitto JJ); Trendtex [1982] AC at 702 per Lord Roskill; TS &amp; B Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (No 3) [2007] FCA 151 ; (2007) 158 FCR 444 at 465 per Finkelstein J.</sentence>
+<sentence id="s156">Thus, even if s 420A of the Law does create a separate cause of action (which view I reject), the purported deed of assignment by LLMDC in favour of Mijac is ineffectual if it seeks to assign what is asserted to be a personal right under s 420A.</sentence>
+<sentence id="s157">Section 420A imposes a duty to take all reasonable care on the controller of a property of a corporation in exercising a power of sale.</sentence>
+<sentence id="s158">A right to sue for the breach of that duty would be a personal right.</sentence>
+<sentence id="s159">It is owed by the controller to the company, creditor and shareholders.</sentence>
+<sentence id="s160">The duty the controller owes is not property and cannot be assigned as a chose in action.</sentence>
+<sentence id="s161">That analysis applies equally to allegations of breaches of s 232 of the Corporations Act by a controller.</sentence>
+<sentence id="s162">Finally, it is unclear whether the Trendtex [1982] AC 679 exception, where an assignee may show they have a genuine and substantial or genuine commercial interest in enforcement of another's claim and to that extent takes an assignment, applies in Australia: see TS &amp; B Retail Systems 158 FCR at 465 per Finkelstein J; Rickard Constructions Pty Ltd v Rickard Hails Moretti Pty Ltd [2004] NSWSC 1041 ; (2004) 220 ALR 267 at 281-2 per McDougall J.</sentence>
+<sentence id="s163">However, the exception is irrelevant here as Trendtex [1982] AC 679 concerns the assignment of rights which affect the applicant's commercial interest or his interest in property.</sentence>
+<sentence id="s164">That is not this case.</sentence>
+<sentence id="s165">II.</sentence>
+<sentence id="s166">FACTS 
+ (A) INTRODUCTION
+ The facts giving rise to the issues in this case read like a soap opera.</sentence>
+<sentence id="s167">The principal cast members, roughly in order of appearance, include: Alan Jorgensen ("Jorgensen"), a man with a history of failed business enterprises who at various times was banned by ASIC from being involved in the management of a corporation or bankrupt or both.</sentence>
+<sentence id="s168">He was well known at the race track.</sentence>
+<sentence id="s169">He attended Court each day, controlled the prosecution of Mijac's application, but did not give evidence; Janine Brodie, Jorgensen's fianc&eacute; and de facto wife from 1990 to 2001 who lived with him for most of those years and who unquestionably acted at his direction.</sentence>
+<sentence id="s170">She describes her current occupation as "secretary".</sentence>
+<sentence id="s171">Janine Brodie gave evidence.</sentence>
+<sentence id="s172">She presented as submissive to Jorgensen with little real understanding of what she had got herself into except that she understood that if Mijac was successful in these proceedings, she would benefit financially; Paul Brodie, the brother of Janine Brodie and a bankrupt; Barbara Craven ("Craven"), a director of LLMDC at first with Paul Brodie among others, and subsequently, the sole director and secretary of LLMDC.</sentence>
+<sentence id="s173">Her willingness to be involved in these events at the behest of Jorgensen was not explained; Alexander (known as Sandy) McGregor ("McGregor"), a businessman who had a background as a chartered accountant specialising in insolvency.</sentence>
+<sentence id="s174">McGregor knew Jorgensen from the race track as "a fellow punter".</sentence>
+<sentence id="s175">At the request of Jorgensen, one of McGregor's companies (Callawadda Equities Pty Ltd (ACN 082 952 814) ("Callawadda")) loaned funds to LLMDC, secured by a charge over the assets and undertaking of LLMDC; and Graham, the First Respondent, who also knew Jorgensen.</sentence>
+<sentence id="s176">He was the sole director and shareholder of Cosmick (see [2] above) which advanced money to LLMDC at the request of Jorgensen but did so on the basis that Cosmick took priority ahead of Callawadda.</sentence>
+<sentence id="s177">(B) 1946-1997
+ A die casting business first operated at 136 Gaffney Street Coburg ("the Coburg Premises") in 1946 under the name "Townsend and Parker".</sentence>
+<sentence id="s178">In 1957, Consolidated Diecasters Pty Ltd (ACN 000 221 081) ("Consolidated Diecasters") was incorporated.</sentence>
+<sentence id="s179">In June 1970, T&amp;P Pty Ltd (ACN 004 832 311) ("T&amp;P") was incorporated.</sentence>
+<sentence id="s180">Both were part of the Townsend &amp; Parker Group.</sentence>
+<sentence id="s181">John Cumming ("Cumming") commenced as the general manager of the Townsend &amp; Parker Group in 1982 and was appointed as Principal Executive Officer of T&amp;P on 23 April 1985.</sentence>
+<sentence id="s182">On 27 October 1989, Jorgensen took over T&amp;P and was appointed a director of T&amp;P. That resulted in Cumming ceasing to be the Principal Executive Officer and leaving the business.</sentence>
+<sentence id="s183">Jorgensen was appointed a director of Consolidated Diecasters on 25 May 1991.</sentence>
+<sentence id="s184">Things did not go well for Jorgensen.</sentence>
+<sentence id="s185">As the following summary of the facts demonstrates, that is not uncommon for Jorgensen.</sentence>
+<sentence id="s186">The following list of problems for Jorgensen or those associated with him is by no means complete.</sentence>
+<sentence id="s187">On 22 January 1992, a receiver and manager was appointed to T&amp;P and Consolidated Diecasters as well as three other entities not in the Townsend &amp; Parker Group but connected to Jorgensen --- Pelcar Pty Ltd (ACN 006 372 676), Phoneflasher.com Pty Ltd (ACN 006 104 534) and Teksid Pty Ltd (ACN 004 359 979).</sentence>
+<sentence id="s188">Less than three months later, on 8 April 1992, another Jorgensen entity, ESS Goods Pty Ltd (ACN 007 961 300), was wound up in insolvency.</sentence>
+<sentence id="s189">On 3 February 1993, 12 months after the appointment of the receiver and manager, T&amp;P was wound up in insolvency with a deficiency of $11,497,685 and Consolidated Diecasters was wound up in insolvency with a deficiency of $9,918,333.</sentence>
+<sentence id="s190">On 18 May 1995, Riton Holdings Pty Ltd (ACN 069 470 891) ("Riton") was incorporated.</sentence>
+<sentence id="s191">The directors were Paul Brodie and Janine Brodie.</sentence>
+<sentence id="s192">Janine Brodie was appointed secretary.</sentence>
+<sentence id="s193">On 21 July 1995, this entity changed its name to "Townsend and Parker Pty Ltd".</sentence>
+<sentence id="s194">On 12 October 1995, Jorgensen was appointed a director of Riton.</sentence>
+<sentence id="s195">On 10 April 1996, Jorgensen ceased to be a director.</sentence>
+<sentence id="s196">He was appointed secretary on 1 July 1996 but ceased to be so on 21 November 1996.</sentence>
+<sentence id="s197">On 6 July 1995, Townsend &amp; Parker Holdings Pty Ltd (ACN 070 242 189) was incorporated.</sentence>
+<sentence id="s198">Again, Janine Brodie and her brother Paul were appointed as two of the directors.</sentence>
+<sentence id="s199">This entity subsequently changed its name to Lawrenson Metal Casting Pty Ltd ("LMC").</sentence>
+<sentence id="s200">On 13 November 1995, Jorgensen was appointed a director of LMC but ceased to be so less than one month later.</sentence>
+<sentence id="s201">In many documents, LMC is recorded as being the trustee of the Townsend &amp; Parker Unit Trust.</sentence>
+<sentence id="s202">On 21 March 1996, LMC acquired the Coburg Premises.</sentence>
+<sentence id="s203">This fact is important.</sentence>
+<sentence id="s204">It will feature later in these reasons for decision.</sentence>
+<sentence id="s205">One reason why Jorgensen had ceased to be a director or secretary of these entities was due to the fact that, on 30 August 1996, Jorgensen entered into a composition with his creditors under Pt X of the Bankruptcy Act 1966 (Cth) ("the Bankruptcy Act ").</sentence>
+<sentence id="s206">To complete the 1996 year, Lotusdale Pty Ltd (ACN 068 893 550), another Jorgensen entity, was wound up in insolvency on 18 December 1996.</sentence>
+<sentence id="s207">The start to 1997 did not improve.</sentence>
+<sentence id="s208">On 29 January 1997, Machland Pty Ltd (ACN 071 758 293), another Jorgensen entity, was wound up in insolvency.</sentence>
+<sentence id="s209">On 27 November 1997, Dynacast (Aust) Pty Ltd (ACN 080 883 423) was incorporated ("Dynacast (Aust)").</sentence>
+<sentence id="s210">(C) 1998
+ Confusingly, on 28 January 1998, Riton changed its name to "Townend and Parker Pty Ltd" and LMC changed its name to "Townsend &amp; Parker Pty Ltd".</sentence>
+<sentence id="s211">On 3 March 1998, LLMDC was incorporated.</sentence>
+<sentence id="s212">Paul Brodie was appointed one of the directors.</sentence>
+<sentence id="s213">On 18 March 1998, an administrator was appointed to Riton.</sentence>
+<sentence id="s214">On 28 May 1998, the creditors of Riton resolved to wind the company up in insolvency.</sentence>
+<sentence id="s215">The creditors included the Australian Taxation Office ("ATO") ($668,148.94), FAI Workers' Compensation ($179,810.67) and the State Revenue Office ($206,077.31).</sentence>
+<sentence id="s216">On 18 March 1998, LLMC Ltd (ACN 081 982 354) ("LLMC") was incorporated with Paul Brodie as one of the directors.</sentence>
+<sentence id="s217">On 30 September 1998, LMC changed its name from Townsend &amp; Parker Pty Ltd to Light Metal Casting Pty Ltd and on 20 October 1998, changed its name again to Lawrenson Metal Casting Pty Ltd. On 24 November 1998, Jorgensen was banned by ASIC for a period of three years from being a director or promoter of or being concerned in the management of a company.</sentence>
+<sentence id="s218">That does not appear to have hindered him.</sentence>
+<sentence id="s219">On 29 December 1998, Janine Brodie was appointed secretary of LMC.</sentence>
+<sentence id="s220">On 31 December 1998, LMC and LLMDC executed an agreement entitled "Ratification and Amendment of Sale of Business and Assets Agreement".</sentence>
+<sentence id="s221">The recitals to that agreement recorded that LMC (as Vendor) had sold "the Assets and the Business" to LLMDC under an earlier agreement dated 17 April 1998, that settlement under that earlier agreement had not occurred and that the parties had agreed to enter into this agreement to amend various matters in the earlier agreement but otherwise ratify and confirm the terms of the earlier agreement.</sentence>
+<sentence id="s222">The intent of the agreement was stated to be "to provide for the settlement of the purchase and sale of the Assets and Business": recital G. The terms "Assets" and "Business" were defined as follows: 
+"Assets" means the Plant and Equipment, Business Names, Contracts and Deposits, Stock, Work in Progress and Intellectual Property.</sentence>
+<sentence id="s223">...
+ 
+ 
+"Business" means the business of diecasting carried on by [LMC] at [the Coburg Premises] including Customer Lists and records, accounts and the goodwill thereof.</sentence>
+<sentence id="s224">"
+ 
+ Subject to adjustments, the purchase price comprised three elements - $1,000,000, the value of the Stock (at cost or net realisable value, whichever was the lower) and the value of the Deposits (in general terms, prepayments to utilities): cll 3.1-3.6.</sentence>
+<sentence id="s225">$400,000 of the purchase price was satisfied by the issue of shares in LLMDC to LMC.</sentence>
+<sentence id="s226">The agreement was conditional upon execution by LMC and LLMDC of an agreement under which LLMDC had the option of acquiring all of LMC's interest in the Coburg Premises and the entry by the parties into a lease of the Coburg Premises: cll 2.2 and 8.</sentence>
+<sentence id="s227">On the same day, Craven was appointed a director of LLMDC.</sentence>
+<sentence id="s228">The agreement was executed on behalf of LMC by Paul Brodie and Janine Brodie and on behalf of LLMDC by Craven and Paul Brodie.</sentence>
+<sentence id="s229">On its face, it was not an arm's length dealing.</sentence>
+<sentence id="s230">(D) 1999 --- JANUARY TO OCTOBER
+ In January 1999, LLMDC commenced to operate the "Business" at the Coburg Premises.</sentence>
+<sentence id="s231">The invoicing for the business however continued to be performed by LMC.</sentence>
+<sentence id="s232">This "arrangement" was not formalised.</sentence>
+<sentence id="s233">Craven described it in the following terms at para [6] of her affidavit sworn on 9 December 2008: 
+LMC continued to invoice the customers of LLMDC where LMC would account to LLMDC each month and deduct an administration charge for the invoicing and administrative service.</sentence>
+<sentence id="s234">On 26 February 1999, Paul Brodie ceased to be a director of LLMDC.</sentence>
+<sentence id="s235">Despite the ASIC ban, Jorgensen was appointed a director and secretary of Dynacast (Aust) on 18 March 1999.</sentence>
+<sentence id="s236">He ceased to be a director on 31 March 1999.</sentence>
+<sentence id="s237">On 1 June 1999, Janine Brodie was appointed a director of Dynacast (Aust).</sentence>
+<sentence id="s238">On 20 April 1999, an administrator was appointed to LLMC.</sentence>
+<sentence id="s239">On 22 April 1999, LLMC was wound up in insolvency with creditors of $943,349.</sentence>
+<sentence id="s240">The liquidator's report described the company as "inadequately capitalised and poorly managed".</sentence>
+<sentence id="s241">On 12 May 1999, Paul Brodie was banned by ASIC under s 600(3) of the Law for a period of two years and two months from being a director or promoter of or being concerned in the management of a company.</sentence>
+<sentence id="s242">He ceased to be a director of LMC, Riton and LLMC.</sentence>
+<sentence id="s243">During the course of May or June 1999 (and it matters not which month), Jorgensen approached McGregor and told him he needed about $400,000 urgently to settle the purchase of some die casting equipment in Sydney.</sentence>
+<sentence id="s244">On 11 June 1998, Callawadda was incorporated.</sentence>
+<sentence id="s245">Using that entity, a syndicate of lenders advanced approximately $120,000.</sentence>
+<sentence id="s246">The loan was described by McGregor as "on the basis of a substantial establishment fee, a high interest rate and was secured by a debenture".</sentence>
+<sentence id="s247">As with many facts and matters in this case, the evidence about it was devoid of detail.</sentence>
+<sentence id="s248">According to McGregor, the loan was repaid and yielded a profit to Callawadda.</sentence>
+<sentence id="s249">One or two months later, Jorgensen contacted McGregor and requested a further loan as he urgently needed funds for his die casting business at the Coburg Premises.</sentence>
+<sentence id="s250">The "business" was conducted by LLMDC: see [53] and [55] above.</sentence>
+<sentence id="s251">At that point in time, the ASIC extract for LLMDC records Craven as the sole director and a secretary.</sentence>
+<sentence id="s252">Janine Brodie was also a secretary until 6 July 1999 having been replaced by a "Jmieale Jorgensen" (spelt various ways throughout the documents) on the same date.</sentence>
+<sentence id="s253">On 8 July 1999, LLMDC executed a fixed and floating charge over its assets and undertaking in favour of Callawadda.</sentence>
+<sentence id="s254">The prospective liability was $100,000.</sentence>
+<sentence id="s255">The Deed of Charge was executed by Craven and what appears to be the signature of a person with the surname "Jorgensen".</sentence>
+<sentence id="s256">In addition to the Charge, McGregor's evidence was that there was a Loan Deed between LLMDC and Callawadda which provided for interest at a rate of about 32.5% per annum.</sentence>
+<sentence id="s257">He was unable to produce the Loan Deed.</sentence>
+<sentence id="s258">McGregor's evidence was that pursuant to the Loan Deed and the Deed of Charge, Callawadda advanced the following sums to LLMDC in July 1999: 
+8 July 1999 $25,000
+ 
+14 July 1999 $10,000
+ 
+20 July 1999 $15,000
+ 
+22 July 1999 $5,000
+ In the midst of this, on 22 July 1999, Paul Brodie appointed a trustee under s 188 of the Bankruptcy Act .</sentence>
+<sentence id="s259">In late July 1999, LLMDC faced serious challenges.</sentence>
+<sentence id="s260">On 23 July 1999, Simon Wallace-Smith ("Wallace-Smith") was appointed as interim receiver and manager of LLMDC and Dynacast (Aust) upon the application of ASIC.</sentence>
+<sentence id="s261">On 29 July, Gregory Andrews was appointed administrator of Dynacast (Aust).</sentence>
+<sentence id="s262">Over the next three weeks, Wallace-Smith incurred fees of about $130,000.</sentence>
+<sentence id="s263">On 26 July 1999, Gregory Andrews was appointed administrator of LMC.</sentence>
+<sentence id="s264">(A receiver and manager had been appointed on 2 July 1999).</sentence>
+<sentence id="s265">As noted earlier, LMC was the registered proprietor of the Coburg Premises.</sentence>
+<sentence id="s266">Two days later, on 28 July 1999, the receiver and manager of LMC served a Notice of Forfeiture on LLMDC in relation to the lease from LMC of the Coburg Premises: see [54] above.</sentence>
+<sentence id="s267">At this point in time, the sole director of LMC was Jmieale Jorgensen who had been appointed on 4 July 1999.</sentence>
+<sentence id="s268">She remained the sole director until 3 September 1999 when she was replaced by Trudy Jorgensen.</sentence>
+<sentence id="s269">On 8 August 1999, Craven borrowed $50,000 against her residential home in Bundoora to lend funds to LLMDC to meet a current liability of $49,000 to the ATO.</sentence>
+<sentence id="s270">On 20 August 1999, LMC was wound up in insolvency with a deficiency in excess of $2.5 million.</sentence>
+<sentence id="s271">Four days later, on 24 August 1999, Dynacast (Aust) was wound up in insolvency with a deficiency of $406,000.</sentence>
+<sentence id="s272">Six days later, on 30 August 1999, Jorgensen filed a composition under the Bankruptcy Act .</sentence>
+<sentence id="s273">On 1 September 1999, Paul Brodie was made bankrupt on petition by the ATO.</sentence>
+<sentence id="s274">At this point in time, the Coburg Premises, on which LLMDC conducted its business, were still in limbo: see [65] above.</sentence>
+<sentence id="s275">In early September 1999, Jorgensen asked McGregor for $250,000 which he said he urgently needed for a settlement with ASIC to facilitate the removal of the receiver and manager of LLMDC.</sentence>
+<sentence id="s276">McGregor refused to advance the funds.</sentence>
+<sentence id="s277">Jorgensen then approached Graham for funds.</sentence>
+<sentence id="s278">Graham agreed to advance $250,000 to LLMDC for six weeks on the following terms and conditions: if the loan was not repaid within four weeks, there would be a further penalty of $50,000; if the loan was not repaid within six weeks, there would be a further penalty of 30% interest per annum payable on all outstanding monies; and a first ranking Deed of Charge over LLMDC.</sentence>
+<sentence id="s279">Shortly after McGregor's meeting with Jorgensen (see [68]), McGregor was asked to, and did, attend a meeting with Henry Kalus ("Kalus") at Kalus Kenny.</sentence>
+<sentence id="s280">Kalus acted for Graham.</sentence>
+<sentence id="s281">Kalus told McGregor that Graham had agreed to lend LLMDC $250,000 on the security of a fixed and floating charge over the assets and undertaking of LLMDC, the funds were to be advanced by an entity related to Graham, being Cosmick, and that in addition to the charge, Graham wanted Cosmick to have priority ahead of Callawadda not only for the loan of $250,000 but also an establishment fee of $110,000, interest and costs.</sentence>
+<sentence id="s282">McGregor agreed on behalf of Callawadda to execute a Deed of Priority in favour of Cosmick in respect of the sum of $300,000.</sentence>
+<sentence id="s283">On 10 September 1999, a number of documents were executed.</sentence>
+<sentence id="s284">First, ASIC and LLMDC executed a Deed of Settlement.</sentence>
+<sentence id="s285">Craven was the sole director of LLMDC.</sentence>
+<sentence id="s286">In general terms, ASIC agreed to the discharge of the orders and termination of the appointment of Wallace-Smith as the receiver and manager to LLMDC subject to a number of conditions including: the appointment of an administrator to LLMDC "to pursue the realisation of the assets of [LLMDC] in an orderly fashion and without being placed in liquidation"; and Craven entering to an agreement with Cosmick for the advance of $250,000 to LLMDC for its use in prescribed ways.</sentence>
+<sentence id="s287">Other deeds and agreements dated 10 September 1999 were also executed.</sentence>
+<sentence id="s288">One bundle concerned the advance of $250,000 by Cosmick to LLMDC evidenced and secured by a Loan Agreement, a Debenture (defined as the "Charge" (see [2] above) and a Guarantee and Indemnity all dated 10 September 1999.</sentence>
+<sentence id="s289">The guarantors were Craven, Jorgensen and Jmieale Jorgensen.</sentence>
+<sentence id="s290">The last document was a Deed of Priority between Callawadda, Cosmick and LLMDC.</sentence>
+<sentence id="s291">Kalus recalled meeting Jorgensen and a woman and telling Jorgensen that he was putting his business at risk and that Jorgensen expressed confidence that the loan would be repaid.</sentence>
+<sentence id="s292">On 10 September 1999, the appointment of Wallace-Smith to LLMDC was discharged and Anthony Cant ("Cant") was appointed administrator of LLMDC.</sentence>
+<sentence id="s293">At the same time, however, the receiver and manager of LMC commenced proceedings in the Supreme Court of Victoria against LLMDC for possession of the Coburg Premises: see [65] above.</sentence>
+<sentence id="s294">First thing in the morning on 30 September 1999, LLMDC's solicitor, Mr Robin Settle ("Settle") telephoned Kalus and asked whether Cosmick would be voting in favour of a proposed Deed of Company Arrangement ("DOCA").</sentence>
+<sentence id="s295">Kalus responded by saying that he did not have instructions and he was interested to know about the progress of the refinancing and the likelihood of the repayment of the Cosmick loan by the due date.</sentence>
+<sentence id="s296">That same day, Jorgensen telephoned Kalus and told Kalus that Cosmick would be repaid $200,000 from factoring debts and $100,000 from another source.</sentence>
+<sentence id="s297">30 September 1999 was also the last day for LLMDC to exercise the option to renew the lease for a further term of one year.</sentence>
+<sentence id="s298">LLMDC did not exercise that option.</sentence>
+<sentence id="s299">As a result, LMC was the registered proprietor of land with a tenant with a lease that was due to expire on 31 December 1999.</sentence>
+<sentence id="s300">The status of the Property Option under the Ratification and Amendment of Sale of Business and Assets Agreement (see [54] above) was uncertain.</sentence>
+<sentence id="s301">It could be exercised for up to two years from 31 December 1998.</sentence>
+<sentence id="s302">On 1 October 1999, Kalus was sent a copy of a letter from ASIC to Cant dated 29 September 1999 concerning the administration of LLMDC.</sentence>
+<sentence id="s303">Amongst other things, ASIC suggested that it was "not appropriate [for Cant] to publish and proceed with the draft [Report to Creditors] in its current form".</sentence>
+<sentence id="s304">ASIC specifically referred to a number of inconsistencies in the material on which Cant had relied in preparing the draft report.</sentence>
+<sentence id="s305">The issues identified by ASIC included: LLMDC had been highly profitable in the past which suggested that the accounting material relied upon by Cant was wholly or substantially unreliable and required thorough investigation; the recommendation that LLMDC enter into a DOCA was on the assumption that LLMDC was a going concern and that it would continue to operate from the Coburg Premises when, in fact: the LLMDC Draft 1999 Annual Report recorded unpaid capital of $890,000.</sentence>
+<sentence id="s306">ASIC noted that the draft report referred to the fact that Craven had given evidence in the Supreme Court of Victoria that she held 760,000 shares paid to one cent and that the "majority of the balance of shares paid to one cent are owned by parties whom [Cant] indicates he is not able to identify".</sentence>
+<sentence id="s307">However, ASIC noted that under the terms of the draft DOCA, Craven would avoid the call on her unpaid capital and yet at the same time would inherit a profitable corporation.</sentence>
+<sentence id="s308">
+ASIC recommended that the meeting of creditors be adjourned to address these and other issues.</sentence>
+<sentence id="s309">A copy of the Administrator's Report and the draft DOCA sent to creditors was attached to an affidavit filed by Wallace-Smith seeking assessment of his remuneration: see [87] below.</sentence>
+<sentence id="s310">On 5 October 1999 (and despite ASIC's concerns), LLMDC executed a DOCA.</sentence>
+<sentence id="s311">On the same day, Cant exercised a lien over $300,000 of LLMDC's debtors.</sentence>
+<sentence id="s312">At the same time, without the knowledge or consent of Cosmick or Callawadda (each with the benefit of a Charge over LLMDC's assets and undertaking), there was a purported contract of sale of LLMDC's assets to Dynacast (Int) Pty Ltd (ACN 061 234 642) ("Dynacast (Int)") for $650,000.</sentence>
+<sentence id="s313">This was another of the issues raised by ASIC in its 29 September 1999 letter: see [75] above.</sentence>
+<sentence id="s314">On 7 October 1999, LLMDC's solicitor, Mr Settle, telephoned Kalus and told him that Cant had retained all LLMDC's debts and that "his client" wanted to pressure Cant into releasing the debtors so that the debts could be factored.</sentence>
+<sentence id="s315">During this conversation, reference was also made to a refinance with Colonial, the detail of which would be explained to Kalus by Jorgensen or Craven.</sentence>
+<sentence id="s316">That did not occur and, on 11 October 1999, LLMDC failed to repay $310,000 to Cosmick.</sentence>
+<sentence id="s317">In accordance with the Loan Agreement terms (see [69] above), the amount owing by LLMDC to Cosmick increased to $360,000.</sentence>
+<sentence id="s318">On the same day, a number of significant events occurred: Kalus sent a letter to LLMDC (marked to the attention of Craven) advising her that the amount of $360,000 was now due on 29 October 1999.</sentence>
+<sentence id="s319">Kalus' letter reiterated some of the issues raised by ASIC including the alleged non disclosure of unpaid capital on the shares in LLMDC offered as security to Cosmick and the tenuous rights of occupation of LLMDC's business at the Coburg Premises.</sentence>
+<sentence id="s320">In the circumstances, Kalus requested to be provided with weekly financial information.</sentence>
+<sentence id="s321">Kalus sent another letter to Cant in the following terms: 
+As you are aware the first repayment date for monies owed by [LLMDC] to Cosmick Pty Ltd is 10 October 1999.</sentence>
+<sentence id="s322">Payment was not made on that date.</sentence>
+<sentence id="s323">The consequences of [LLMDC's] failure to make the repayment due by 29 October 1999 are likely to be disastrous for all concerned including all unsecured creditors.</sentence>
+<sentence id="s324">I understand that you propose retaining control of all preadministration and administration debtors in the amount of some $511,000.00.</sentence>
+<sentence id="s325">We were advised by the Director, Barbara Craven that [LLMDC] hopes to raise an advance on available debtors in order to assist in repayment of monies owing to Cosmick.</sentence>
+<sentence id="s326">We would like to explore with you the possibility of taking control of certain debtors on behalf of our client after retention by you of those that you consider necessary to discharge your responsibilities.</sentence>
+<sentence id="s327">Our client's rights in relation to its security documentation are obviously reserved and as each day passes my client becomes increasingly inclined to exercise those rights.</sentence>
+<sentence id="s328">Jorgensen sent a handwritten facsimile to Graham from Mauritius which, in part, read as follows: 
+I have been desperately trying to get together the $300,000 by today to avoid the $50,000 penalty, as you can imagine.</sentence>
+<sentence id="s329">Between Melb &amp; Mauritius contacts, I haven't been successful, but am confident that it won't be far away.</sentence>
+<sentence id="s330">A letter was sent to [Kalus] last week, which I presume you got a copy of ...</sentence>
+<sentence id="s331">I tried to explain that it would help our refinancing very much, if [Kalus] is able to negotiate with the ex administrator (Tony Cant) or his office, about COSMICK taking control of the $500,000 of Debtors we now have, less an allowance for the Administrator to cover his liabilities (as per the letter).</sentence>
+<sentence id="s332">This will then allow you (Cosmick) to hand back to our COMPANY, say $300,000 of debtors (under your entitlement of your debebture charge) to FACTOR and raise say 80% of ie $260,000?</sentence>
+<sentence id="s333">
+ 
+ 
+We can then raise the other $100,000 or so, from our bankers on the plant &amp; equipment to pay you out in full.</sentence>
+<sentence id="s334">The Administrator has "done the dirty" on us (contrary to his assurances) by trying to retain all the debtors to cover all sorts of contingencies including excessive fees ...
+ 
+ 
+Cosmick, as the secured lender, is NOT bound by the Deed , that was prepared by its solicitors, hence has the absolute right to demand the debtors be handed to it!!!</sentence>
+<sentence id="s335">I know this sounds messy but I believe it's (sic) quite straight forward.</sentence>
+<sentence id="s336">Why doesn't [Kalus] call Cant's office &amp; feel them out?</sentence>
+<sentence id="s337">...
+ 
+ 
+... in short, the business is going strong with plenty of forward orders, $500,000 of Debtors, $120,000 of stock &amp; work in progress, creditors of $200,000 of which $175,000 have agreed to be paid on the "Drip" over next six months (as per Deed).</sentence>
+<sentence id="s338">...</sentence>
+<sentence id="s339">I note [Kalus'] comment about the tenancy of Coburg.</sentence>
+<sentence id="s340">We have a contract to purchase it from the Hong Kong Bank for $650,000.</sentence>
+<sentence id="s341">We also have a lease til 31/12/99, with 2 x 2 year options!</sentence>
+<sentence id="s342">Accordingly, there is no worry about our right to occupy the premises.</sentence>
+<sentence id="s343">The contents of this handwritten facsimile indicate the problems faced and caused by Jorgensen.</sentence>
+<sentence id="s344">To name just a few: Jorgensen was managing a company when he was subject to an ASIC ban.</sentence>
+<sentence id="s345">Jorgensen asserted factual and legal positions which were erroneous --- LLMDC did not have an ongoing right to occupy the Coburg Premises: see [43], [54], [65], [67], [73] and [74] above.</sentence>
+<sentence id="s346">Jorgensen (or some entity or person associated with him) had contracted to buy the Coburg Premises.</sentence>
+<sentence id="s347">This last fact (whether or not accurate at the time) is important.</sentence>
+<sentence id="s348">Its importance stems from the nature of the equipment in the die casting business and the manner of its attachment to the floor of the premises.</sentence>
+<sentence id="s349">That requires some explanation.</sentence>
+<sentence id="s350">A list of equipment sold by LMC to LLMDC was attached as Annexure A to the Ratification and Amendment of Sale of Business and Assets Agreement: see [53] above.</sentence>
+<sentence id="s351">At least some of that equipment was, or ran the risk of being considered, a fixture which an owner of the Coburg Premises would inherit if LLMDC was placed into liquidation or simply no longer occupied the Coburg Premises.</sentence>
+<sentence id="s352">As will become evident, that issue would be (and subsequently was) of serious concern to the secured lenders --- Cosmick and Callawadda.</sentence>
+<sentence id="s353">Moreover, the practical outcome of Jorgensen (or some entity or person associated with him) buying the Coburg Premises was possibly that he (or some entity or person associated with him) would end up with the die casting machines which constituted fixtures, being machines which were critical to operate the die casting business, at nil cost.</sentence>
+<sentence id="s354">Jorgensen contacted McGregor again in about mid October and asked McGregor to lend him funds to refinance the Cosmick debt.</sentence>
+<sentence id="s355">McGregor told Jorgensen he would wish to inspect LLMDC's business.</sentence>
+<sentence id="s356">McGregor's evidence was that he spent about a week or two at the Coburg Premises and concluded that the business was in a very poor state.</sentence>
+<sentence id="s357">Although McGregor was cross-examined on this subject, that cross-examination did not challenge McGregor's sworn evidence that in his view, amongst other problems, the plant and equipment was run down and out of date, a proportion of the equipment did not work, the asbestos roof of the Coburg Premises was in disrepair and there was a lack of books and records.</sentence>
+<sentence id="s358">That is not surprising.</sentence>
+<sentence id="s359">A valuation of LLMDC's plant and equipment by Dominion Valuers &amp; Auctioneers dated 11 November 1999 came to a not dissimilar conclusion: see [99] and [102] below.</sentence>
+<sentence id="s360">Regardless of the truth about the condition of LLMDC's business, McGregor obtained Graham's contact details from Kalus and spoke to Graham directly for the first time.</sentence>
+<sentence id="s361">Prior to this, he did not know and had not spoken to Graham.</sentence>
+<sentence id="s362">McGregor telephoned Graham and told Graham he needed to go and look at LLMDC's business.</sentence>
+<sentence id="s363">McGregor met Graham at the Coburg Premises.</sentence>
+<sentence id="s364">This inspection took place before 13 October 1999 (a fact recorded in the facsimile at [84] below).</sentence>
+<sentence id="s365">McGregor told Graham that if LLMDC defaulted on the Cosmick loan, as seemed inevitable, then Cosmick would need to go into possession and that nothing could be ruled in or out including that they might need to buy LLMDC's business to protect their investment in the LLMDC.</sentence>
+<sentence id="s366">On 13 October 1999, Jorgensen sent another handwritten facsimile from Mauritius to Kalus which referred to Graham's visit to the Coburg Premises and asked him to consider "picking the eyes" out of LLMDC's debtors and claiming those debtors under Cosmick's security.</sentence>
+<sentence id="s367">At about the same time that McGregor and Graham inspected the Coburg Premises, McGregor was asked to attend a meeting with ASIC.</sentence>
+<sentence id="s368">During that meeting, ASIC told McGregor that ASIC was investigating Jorgensen's companies, Jorgensen personally was under investigation for dishonesty and fraud offences and that many companies associated with Jorgensen had been liquidated and millions of dollars had been lost.</sentence>
+<sentence id="s369">As a result of his time at the Coburg Premises and attending the meeting with ASIC, McGregor formed the view that the LLMDC business was in a poor state.</sentence>
+<sentence id="s370">McGregor became concerned that LLMDC would lose the bulk of its plant and equipment and the secured lenders would lose the value of their security.</sentence>
+<sentence id="s371">McGregor telephoned LMC's receiver and manager, Malcolm Orders ("Orders"), who confirmed that he had an offer on the table from Jorgensen to buy the Coburg Premises which he might accept because it was above the bank's valuation.</sentence>
+<sentence id="s372">Orders told McGregor that if McGregor wanted to make an offer he had better be quick because he was selling it, he "could not care less" about LLMDC's business, he had been instructed to sell the property and that under no circumstances would he give any warranties regarding occupation to a purchaser of LLMDC's assets.</sentence>
+<sentence id="s373">McGregor decided that either he and / or Graham needed to buy the Coburg Premises before Jorgensen.</sentence>
+<sentence id="s374">McGregor contacted Graham and told him his views.</sentence>
+<sentence id="s375">On 15 October 1999, Kalus was told by Cant's solicitors that Cant would not release the debtors.</sentence>
+<sentence id="s376">On the same day, Cosmick was served with a copy of a summons filed by Wallace-Smith seeking assessment of his remuneration.</sentence>
+<sentence id="s377">Ordinarily that event would go unannounced but the documents exhibited to the affidavit in support included the First Report by Wallace-Smith of 30 July 1999 where he concluded that he had no option but to permanently close LLMDC's business and noted that an amount of $480,177 was still owing to LMC under the Ratification and Amendment of Sale of Business and Assets Agreement (see [54] above) but that the debt was probably $350,000 higher because Orders had told him that there was no evidence that the original purchase price was received by LMC.</sentence>
+<sentence id="s378">A copy of the Administrator's Report and the DOCA was also attached to the affidavit of Wallace-Smith.</sentence>
+<sentence id="s379">On 29 October 1999, a Notice of Demand was issued by Cosmick on LLMDC for $324,744.90 comprising $250,000 principal, $110,000 establishment fee and $12,744.90 interest.</sentence>
+<sentence id="s380">The facsimile transmission sheet recorded that the Notice of Demand was sent to Craven at LLMDC at 17:31pm in the afternoon.</sentence>
+<sentence id="s381">29 October 1999 was the Friday before the Melbourne Cup Long Weekend.</sentence>
+<sentence id="s382">The "race that stops the nation" is the first Tuesday in November.</sentence>
+<sentence id="s383">The Monday preceding the Tuesday is often taken as a holiday.</sentence>
+<sentence id="s384">Not long afterwards, McGregor learnt that LLMDC had failed to repay the Cosmick loan.</sentence>
+<sentence id="s385">At about this time, McGregor offered Orders $625,000 to purchase the Coburg Premises and paid a deposit of $62,500.</sentence>
+<sentence id="s386">A receipt for the deposit was issued dated 1 November 1999.</sentence>
+<sentence id="s387">(E) 1999 --- NOVEMBER AND DECEMBER
+ On 1 November 1999 (the Monday before the Melbourne Cup), a Notice of Default and Notice of Possession was served on LLMDC by Cosmick.</sentence>
+<sentence id="s388">Cosmick took possession as mortgagee.</sentence>
+<sentence id="s389">On instructions from Cosmick, one of Kalus' employees arranged for an advertisement to be placed in the Australian Financial Review in the following terms: 
+Cosmick Pty Ltd as the Controller of the assets of a Melbourne based Diecasting company offers for immediate sale the following:
+ 
+ 
+Plant and Equipment
+ 
+Other business assets
+ 
+ 
+Initial enquiries for the above assets should be made as follows:
+ 
+ 
+Attention: Mr Henry Kalus
+ 
+ Kalus Kenny
+ 
+ Commercial Lawyers
+ 
+ Facsimile: 9826 9909
+ 
+ 
+The above matter is urgent.</sentence>
+<sentence id="s390">Offers for purchase of the above will close at 5.00pm on Friday 12 th November 1999.</sentence>
+<sentence id="s391">All offers must be accompanied by a deposit of 10% payable by bank cheque.</sentence>
+<sentence id="s392">The advertisement was published in the Australian Financial Review on Friday 5 and Monday 8 November 1999.</sentence>
+<sentence id="s393">Mijac attacked the timing and content of the advertisement including that there was no description of the assets, no telephone number, no address, no area code for the facsimile number and that offers were required to be lodged no more than a week after the first advertisement was published.</sentence>
+<sentence id="s394">Kalus' evidence was that he would not have made up the wording.</sentence>
+<sentence id="s395">That was true.</sentence>
+<sentence id="s396">He did not.</sentence>
+<sentence id="s397">McGregor's evidence was that in response to a question from Kalus regarding the advertising of the property, he "cut an advertisement out of the Financial Review that looked appropriate, and said, 'Henry, model it on this and advertise.</sentence>
+<sentence id="s398">'" Not only was the advertisement published, it was seen.</sentence>
+<sentence id="s399">It was seen by Craven and by Cumming.</sentence>
+<sentence id="s400">In response to the advertisement, on 8 November 1999 Kalus received facsimiles from five separate parties expressing interest and, on 9 November 1999, he received two further facsimiles and four telephone calls from other parties expressing interest.</sentence>
+<sentence id="s401">On 5 November 1999, Kalus sent a letter by facsimile to Craven at LLMDC confirming that Cosmick was in possession of all the assets and undertaking of LLMDC and requiring a separate bank account to be established.</sentence>
+<sentence id="s402">On the morning of 10 November 1999, Kalus sent a facsimile dated 9 November 1999 enclosing the list of plant and equipment to 10 parties who had expressed interest.</sentence>
+<sentence id="s403">The cover sheet stated that if they wished to take the matter further, they should register their desire to inspect the plant and equipment and they would then be advised of available inspection times.</sentence>
+<sentence id="s404">On 9 November 1999, Kalus received a letter from Lennon Settle (LLMDC's solicitors) in the following terms: 
+It has come to our client's attention that its assets have been advertised for sale by your client over the weekend.</sentence>
+<sentence id="s405">Our client is of the opinion that the form of the advertisement is something of a "token" attempt to discharge the legal obligation your client has to achieve the best price that is reasonably obtainable having regard to the circumstances.</sentence>
+<sentence id="s406">In this regard, we are instructed that brokers approached by our client have indicated a potential going concern sale price of in excess of $1 million.</sentence>
+<sentence id="s407">In any event, we are also instructed that our client has executed a contract to sell the business to a company called Dynacast International Pty Ltd, a copy of which we have requested and will forward to you shortly.</sentence>
+<sentence id="s408">We are further instructed that our client is not in breach of that contract.</sentence>
+<sentence id="s409">For your information, we are instructed that the first payment due to the Deed Administrator under the [DOCA] will be made tomorrow.</sentence>
+<sentence id="s410">We hereby request your client's confirmation that it will not attempt to sell our client's assets without its consent and the formal release by both parties of their respective obligations to each other under the contract of sale referred to above.</sentence>
+<sentence id="s411">If such confirmation is not received by 5.00 p.m. today, our client intends to seek an injunction retaining such a sale without further notice to you.</sentence>
+<sentence id="s412">There are a number of points to be made about the letter from Lennon Settle.</sentence>
+<sentence id="s413">Someone associated with LLMDC had obviously read the advertisement.</sentence>
+<sentence id="s414">The alleged contract of sale to "Dynacast International Pty Ltd" was not in the possession of the company's own solicitors.</sentence>
+<sentence id="s415">On the assumption that "Dynacast International Pty Ltd" was in fact Dynacast Int (see [77] above), the directors on 9 November 1999 (according to ASIC records) were Craven (appointed 5 August 1999), Patrice Kervicie (appointed 5 October 1999) and Jmieale Jorgensen (resigned 10 November 1999).</sentence>
+<sentence id="s416">Jorgensen had resigned as a director on 1 June 1999.</sentence>
+<sentence id="s417">(The ASIC extract records Patrice Kervicie as having been born in Mauritius and the company ultimately subject to external administration).</sentence>
+<sentence id="s418">Kalus responded by facsimile the same day.</sentence>
+<sentence id="s419">He denied the allegations concerning the advertisement and asked that a certified copy of the alleged contract of sale be forwarded to him so that he could obtain instructions.</sentence>
+<sentence id="s420">During the afternoon of 10 November 1999, Kalus sent further facsimiles enclosing the list of plant and equipment to other parties who had expressed interest.</sentence>
+<sentence id="s421">Again, the cover sheet stated that if any party wished to take the matter further, they should register their desire to inspect the plant and equipment and they would then be advised of available inspection times.</sentence>
+<sentence id="s422">Over the course of 9 and 10 November 1999, an equipment valuer, Graham Roberts ("Roberts"), of Dominion Valuers &amp; Auctioneers, inspected the Coburg Premises.</sentence>
+<sentence id="s423">Roberts observed that the plant was "very, very poor", that the plant was not busy, there were no depreciation schedules or other records relating to the plant available and that two thirds of the die casting machines had been pulled out of production and parked in a shed.</sentence>
+<sentence id="s424">11 November 1999
+ Thursday, 11 November 1999, was a busy day.</sentence>
+<sentence id="s425">At 1:14 am, Kalus received another handwritten facsimile from Jorgensen in Mauritius entitled "Re Cosmick Payout by LLMDC" which stated: 
+I spoke with ... Graham last night &amp; advised that a family member, Norm Brodie has agreed to provide the Bulk of the $375,000 (or so) payment, Friday or Monday.</sentence>
+<sentence id="s426">Robin Settle is arranging a meeting with him &amp; his city solicitor &amp; ... Craven in AM, &amp; hopefully yourself.</sentence>
+<sentence id="s427">It is the intention to transfer Cosmic's (sic) securities to Norman Brodie / his company, and settle Friday aro' (sic) or Monday Am, if [Graham] is unavailable til then.</sentence>
+<sentence id="s428">Norman will provide evidence today that he in fact, has the cash at bank (&amp; further confirmed by his solicitor, I suspect).</sentence>
+<sentence id="s429">As I believe the meeting between all parties will lead to the quickest settlement, it would appreciated if you could liase (sic) with ... [Settle] on this matter.</sentence>
+<sentence id="s430">Despite this facsimile from Jorgensen, Kalus continued with the recovery process and, on 11 November 1999, sent a facsimile to four parties that had expressed interest advising them that the plant and equipment could be inspected at the Coburg Premises that day between 6:00 pm and 7:30 pm, that McGregor would be available to meet them to discuss any enquiries they had and that the dead line for offers had been extended to 4:00 pm on 16 November 1999.</sentence>
+<sentence id="s431">McGregor did attend the Coburg Premises.</sentence>
+<sentence id="s432">The only other party to attend was Gary Tyler ("Tyler"), an accountant, on behalf of Jorgensen.</sentence>
+<sentence id="s433">During the course of the day, Dominion Valuers &amp; Auctioneers provided Kalus with a valuation of LLMDC's plant and equipment at $298,000 based on installed existing usage and $144,915 based for onsite auction realisation.</sentence>
+<sentence id="s434">Consistent with usual valuation practice, the equipment was listed.</sentence>
+<sentence id="s435">The report stated, in part, that the "industry [was] to some degree in decline [and] without significant sales evidence being available [they] had to err on the conservative in [their] estimate of values".</sentence>
+<sentence id="s436">In the preparation of the valuation, Dominion did not attempt to "pre-empt a potential purchaser with a specialist interest in the plant" and assumed that the assets were, or were capable of, being utilised as assets of a profitable undertaking.</sentence>
+<sentence id="s437">Also during the course of 11 November 1999, Kalus' file records a telephone call from a Mark Butler at Cash Resources about factoring LLMDC's debts.</sentence>
+<sentence id="s438">Butler told Kalus that a factoring application may require real estate security and that they were a "long way yet" from lending.</sentence>
+<sentence id="s439">Although by this time it might be said that Jorgensen had shifted his focus from factoring to a loan from Norman Brodie (see [100] above]), it was apparent that Jorgensen's previous idea of release of trade debtors for factoring was not well advanced and not a viable prospect, at least in the short term.</sentence>
+<sentence id="s440">The shift in focus by Jorgensen to Norman Brodie was confirmed by Craven and Norman Brodie.</sentence>
+<sentence id="s441">Both gave evidence.</sentence>
+<sentence id="s442">Craven gave evidence that during the morning on 11 November 1999, she sent a facsimile to Sue Brodie which set out the previous year's financial information for LLMDC.</sentence>
+<sentence id="s443">Four pages were tendered.</sentence>
+<sentence id="s444">The document on its face records that it in fact comprised three pages.</sentence>
+<sentence id="s445">I find that the second page of the exhibit did not comprise part of the document Craven sent by facsimile to Sue Brodie.</sentence>
+<sentence id="s446">It bears a different time in its header.</sentence>
+<sentence id="s447">A number of points should be made about the contents of the facsimile of 11 November 1999.</sentence>
+<sentence id="s448">It described the information as "the previous years financials".</sentence>
+<sentence id="s449">LLMDC had only been running the business since January, less than 12 months.</sentence>
+<sentence id="s450">In addition, at least the following additional facts and matters were not recorded: the debts to the secured creditors; the previous appointment of the receiver and manager; the previous appointment of an administrator as well as the lien claimed by the administrator, Cant, over the debtors; the DOCA; that one of the mortgagees was in possession.</sentence>
+<sentence id="s451">12 November 1999
+ At 8:08am, Kalus received a facsimile from Craven of LLMDC in the following terms: 
+I believe ... Settle has been in touch with you to discuss and arrange the mechanics of settling Cosmick's loan in the next few days.</sentence>
+<sentence id="s452">We have been in touch with ... Graham yesterday and was informed that he would be in Tasmania until Friday evening.</sentence>
+<sentence id="s453">If this is the case, could you please advise when settlement can occur, given that the settlement will require a transfer of Cosmick's securities to the new lender.</sentence>
+<sentence id="s454">To avoid any unnecessary delays, could you also please provide details of the payout figure together with information relating to monies Cosmick may have collected from our debtors, or ... Cant and also monies paid on our Company's behalf.</sentence>
+<sentence id="s455">....
+ 
+ 
+Needless to say, but the issues concerning our Company's current Sale of Business Agreement with Dynacast International Pty Ltd and you advertising to sell the business, appear irrelevant at the moment.</sentence>
+<sentence id="s456">Please confirm your client's view on this, together with the status of negotiations, as we also have had several interested parties contact us for information, including our competitors.</sentence>
+<sentence id="s457">That same day, 12 November 1999, Kalus telephoned Settle and left a message for him to return his call.</sentence>
+<sentence id="s458">Kalus subsequently spoke to Settle.</sentence>
+<sentence id="s459">Kalus' file note records that Kalus was told an agreement (presumably the Sale of Business Agreement with Dynacast (Int)) was being couriered to him.</sentence>
+<sentence id="s460">The note recorded Kalus as responding saying that when Settle had the money, Settle should let Kalus know and Kalus would get instructions.</sentence>
+<sentence id="s461">The note further recorded that Settle agreed that was appropriate and that he would call Kalus when he had the money, that Kalus did not know the pay out figure and would have to get instructions, but that in the meantime Kalus was pushing on with the recovery process that had been commenced.</sentence>
+<sentence id="s462">The note finally recorded Settle stating that Kalus' client was mad if they did not push on with the recovery process.</sentence>
+<sentence id="s463">Kalus' evidence was that he had no independent recollection of the conversations recorded in the file notes on the file but explained his practice of recording file notes and the contemporaneous nature of them.</sentence>
+<sentence id="s464">I find that the conversation not only took place but did so substantively in the terms recorded in the file note.</sentence>
+<sentence id="s465">That conversation is important.</sentence>
+<sentence id="s466">LLMDC and its solicitors were on notice that the recovery process was continuing, a process which LLMDC's solicitor said was a course they were mad not to adopt.</sentence>
+<sentence id="s467">Secondly, and unsurprisingly given the unfulfilled assertions of LLMDC, Jorgensen and Craven over the previous months, the solicitors agreed that Kalus would not seek instructions in the absence of concrete evidence that Settle (i.e.</sentence>
+<sentence id="s468">LLMDC / Jorgensen) had the necessary money to pay out LLMDC's debts.</sentence>
+<sentence id="s469">Later that day, Settle did send a facsimile to Kalus which stated that: 
+[O]ur client's shareholders have procured the finance necessary to repay your client, hopefully early next week.</sentence>
+<sentence id="s470">Our client proposes that in return for the necessary payment your client assigns its securities to the new lender.</sentence>
+<sentence id="s471">We request that you get your client's instructions in relation to this and provide us with an all inclusive payout figure as soon as possible.</sentence>
+<sentence id="s472">Kalus' evidence was that he would have passed the letter on to his client and sought instructions but, as with other aspects of this matter, he simply could not recall doing so.</sentence>
+<sentence id="s473">What is certain is that Kalus advised at least 12 parties that had expressed interest in LLMDC's assets that the deadline for offers was extended to 4:00 pm on 16 November 1999.</sentence>
+<sentence id="s474">13 - 16 November 1999
+ Nothing appeared to have progressed over the weekend of 13 and 14 November 1999.</sentence>
+<sentence id="s475">On Monday, 15 November 1999, Kalus received a notice from ASIC dated that day, pursuant to s 33 of the Australian Securities and Investments Commission Act 1989 (Cth), requiring him to produce at 1:00 pm at his offices to a named ASIC officer a "copy of the sale of business agreement between [LLMDC] ... Dynacast International Pty Ltd ...".</sentence>
+<sentence id="s476">A handwritten note on the coversheet indicates that someone would collect the agreement that afternoon.</sentence>
+<sentence id="s477">On 16 November 1999, Cant as the DOCA Administrator of LLMDC issued a Notice to Creditors calling a meeting of creditors because the first cheque for $20,000 required to be paid under the DOCA was dishonoured.</sentence>
+<sentence id="s478">Cant recommended the DOCA be terminated and LLMDC wound up.</sentence>
+<sentence id="s479">Just before lunch on 16 November 1999, Kalus sent a facsimile to a number of parties who had expressed interest in LLMDC's assets confirming that the deadline for offers had been extended to 4:00 pm that day and inviting parties to advise his office if they required any further information in relation to the assets being sold.</sentence>
+<sentence id="s480">Kalus received three "offers" for LLMDC's assets: McGregor offered $400,000 for LLMDC's assets comprising $300,000 in cash, assumption of employee liabilities of $100,000 and stock valued up to $25,000.</sentence>
+<sentence id="s481">A cheque for $30,000 was enclosed by way of deposit; Equity Die Casters offered $250,000 less employee entitlements plus stock at valuation.</sentence>
+<sentence id="s482">The offer was subject to finance; Tyler on behalf of Jorgensen did not make a formal offer.</sentence>
+<sentence id="s483">Instead he made an "introductive offer for the plant and equipment and goodwill" of $600,000 plus the value of the stock in trade.</sentence>
+<sentence id="s484">The last paragraph stated that "there [were] a number of other relevant issues that [had to] be clarified prior to a formal offer being made".</sentence>
+<sentence id="s485">The "offer" was said to form the basis of further negotiations.</sentence>
+<sentence id="s486">Cosmick decided to accept McGregor's offer that night.</sentence>
+<sentence id="s487">That decision was not disclosed at that time to Jorgensen or to Settle.</sentence>
+<sentence id="s488">It was however disclosed to another party that was possibly interested.</sentence>
+<sentence id="s489">17-22 November 1999
+ On 17 November 1999, Settle sent a facsimile to Kalus in the following terms: 
+[W]e have been instructed to write to you to request that a meeting be convened at your offices between our respective clients and solicitors to discuss the mechanics of settling the amount owed to your client.</sentence>
+<sentence id="s490">We are instructed that the necessary funds are being provided from a number of sources and that discussions are required for this reason.</sentence>
+<sentence id="s491">We again request that you provide us with an up to date "payout" figure.</sentence>
+<sentence id="s492">Kalus responded on the same day in the following terms: 
+I am instructed that [LLMDC] is indebted to the Debenture holders in the following amounts:
+ 
+ 
+To Cosmick Pty Ltd $392,000.00 approximately
+ 
+To Callawatta (sic) Pty Ltd $130,000.00 approximately
+ 
+ 
+I am instructed that these amounts are approximate only, having regard to recoverable costs which are continuing.</sentence>
+<sentence id="s493">Both Cosmick and Callawatta (sic) are aware of the contents of your fax of 17 November 1999.</sentence>
+<sentence id="s494">Both parties have instructed me to be (sic) request that you put in writing the matters which your client wishes to discuss.</sentence>
+<sentence id="s495">Settle never responded to this letter.</sentence>
+<sentence id="s496">On 22 November 1999, Eric Vadarlis ("Vadarlis") for Tyler (on behalf of Jorgensen) spoke with Kalus.</sentence>
+<sentence id="s497">Kalus' file note records Vadarlis telling Kalus that his instructions were uncertain and that although he had been instructed that they could settle the next day, he did not know that for a fact.</sentence>
+<sentence id="s498">23 November 1999
+ The next day, 23 November 1999, a file note records a conversation between Settle and Kalus in which Settle told Kalus that Vadarlis acted for Gary Dumbrell who would pay $550,000 for LLMDC's business and that if this party was serious, he would contact Kalus with a written offer and money.</sentence>
+<sentence id="s499">That morning Vadarlis sent a facsimile to Kalus seeking a copy of the Cosmick Charge, the Priority Agreement between Cosmick and Callawadda and the DOCA.</sentence>
+<sentence id="s500">Vadarlis "confirm[ed] that [his client was] considering taking an assignment of [Cosmick's] security, that is the debenture mortgage charge held by it over [LLMDC].</sentence>
+<sentence id="s501">" Later on 23 November 1999, Kalus informed Dynacast (Int) that he acted on behalf of Cosmick, the mortgagee in possession of all of the assets and undertaking of LLMDC, and that neither Cosmick nor Callawadda consented to release of the assets and the business of LLMDC the subject of a Sale of Business and Assets Agreement between Dynacast (Int) and LLMDC.</sentence>
+<sentence id="s502">That same day a Sale of Business and Assets Agreement between Cosmick as vendor and Gravity was executed.</sentence>
+<sentence id="s503">Although the historical company information of Gravity was not adduced at trial, it was the evidence of McGregor that he and Graham "set up Gravity on 17 November 1999 as equal shareholders in order to make the acquisition".</sentence>
+<sentence id="s504">The Respondents admitted Graham was a director of Gravity at the time of these transactions.</sentence>
+<sentence id="s505">And although they originally denied McGregor was a director, he certainly acted as if he was a director or secretary --- the Agreement referred to above was executed on behalf of Gravity by both McGregor and Graham in their capacity as directors or directors / secretaries.</sentence>
+<sentence id="s506">Later that day, Settle again telephoned Kalus.</sentence>
+<sentence id="s507">Kalus' file note records Settle stating that the shareholders of the mortgagor and the mortgagor (LLMDC) knew from McGregor that the business had been sold and wanted to know the details.</sentence>
+<sentence id="s508">The note records Kalus having told Settle that the sale was for $400,000 plus stock.</sentence>
+<sentence id="s509">Finally, the note records Settle telling Kalus to ignore the facsimile from Vadarlis, that if Dumbrell wished to take the matter further, he would make an offer to purchase LLMDC's business rather than take over the securities and that if Dumbrell was serious, Vadarlis would put a firm offer in writing but obviously he could not do that yet.</sentence>
+<sentence id="s510">24 and 25 November 1999
+ The next day, 24 November 1999, Settle telephoned Kalus.</sentence>
+<sentence id="s511">Kalus' file note records Settle telling him that LLMDC would be seeking an injunction to prevent the sale from Cosmick to Gravity and that if Settle did not hear from Kalus, he would presume there were no offers of undertakings from Kalus' client not to proceed with the sale.</sentence>
+<sentence id="s512">No undertakings were proffered by Cosmick.</sentence>
+<sentence id="s513">Kalus responded to Vadarlis' facsimile of the previous day.</sentence>
+<sentence id="s514">Kalus referred to his conversation with Settle that Vadarlis' client had no interest in acquiring Cosmick's security but was interested in acquiring the business.</sentence>
+<sentence id="s515">Kalus went on to record the fact that Settle had told him that if Vadarlis' client was serious, Vadarlis would correspond with him and he had not.</sentence>
+<sentence id="s516">Kalus enclosed a copy of a letter Settle had sent Kalus that day which was in the following terms: 
+We have now informed our client and it's (sic) shareholders of the purported sale of the business by your client as controller to a company seemingly owned and controlled by the secured lenders.</sentence>
+<sentence id="s517">Our clients are outraged given that you were yesterday contacted by ... Vadarlis on behalf of a client of his who, on our instructions has sufficient funds to repay your client in full or purchase the business for a price of around $550,000.</sentence>
+<sentence id="s518">We have been instructed to indicate that our client will retain our firm, in conjunction with David Grace QC, to make an application to the Supreme Court seeking an order that the sale effected by your client be restrained (if it is, in fact, incomplete) or set aside ... unless we receive your confirmation by noon today that the sale will not be completed pending the repayment of your client by ... Vadarlis' client, in relation to which, we are instructed you will be placed in funds today.</sentence>
+<sentence id="s519">Finally, on 24 November 1999, Dynacast (Int) lodged a caveat over the Coburg Premises.</sentence>
+<sentence id="s520">On 25 November 1999, LMC (receiver and manager appointed and in liquidation) sold the Coburg Premises to Gravity for $650,000.</sentence>
+<sentence id="s521">December 1999
+ According to McGregor, on 1 December 1999, the sale from Cosmick to Gravity was completed.</sentence>
+<sentence id="s522">The next day, 2 December 1999, LLMDC served a summons seeking to restrain the sale by Cosmick to Gravity.</sentence>
+<sentence id="s523">On 7 December 1999, Beach J of the Supreme Court of Victoria not only refused LLMDC's application for injunction because the sale had already been completed but LLMDC was wound up in insolvency by resolution of creditors.</sentence>
+<sentence id="s524">(F) 2000 - 2009
+ What follows are just some of the events that occurred post sale.</sentence>
+<sentence id="s525">The summary is by no means comprehensive or intended to be so.</sentence>
+<sentence id="s526">Instead, the summary identifies some of the events which further support the conclusion that any order of the kind sought by Mijac should not be made.</sentence>
+<sentence id="s527">In April 2000, Gravity sold its plant and equipment to Gaffney Street Holdings Pty Ltd (ACN 091 261 773) ("GSH"), an entity which was incorporated on 19 January 2000 and since 29 February 2000 had McGregor and Graham as its sole shareholders and directors.</sentence>
+<sentence id="s528">Over the next year, Gravity automated the high volume dies on the casting equipment thereby increasing the casting speed by 20% to 25%.</sentence>
+<sentence id="s529">By 2003, Gravity had replaced all the furnaces with new furnaces which were quicker and easier to load.</sentence>
+<sentence id="s530">In the first three months of 2001, Gravity secured seven new customers which generated additional sales of in excess of $5 million over the next three years.</sentence>
+<sentence id="s531">On 15 November 2000, Cosmick, not Graham, submitted accounts to ASIC in relation to LLMDC for the period from 1 November 1999 to 30 April 2000 in its capacity as controller or managing controller.</sentence>
+<sentence id="s532">Graham signed the form in his capacity as "Director of Cosmick Pty Ltd, Controller".</sentence>
+<sentence id="s533">From 2001 to 2008, as a result of Gravity becoming eligible to participate in the Automotive Competitiveness Investment Scheme, it received grants of in excess of $1 million.</sentence>
+<sentence id="s534">In December 2001, Gravity expanded by acquiring another business, Impregnation Services.</sentence>
+<sentence id="s535">That business increased Gravity's profits.</sentence>
+<sentence id="s536">For the 2008 financial year, it added just under $200,000 to Gravity's annual profit.</sentence>
+<sentence id="s537">In late 2003, Gravity installed fettling shop conveyors to increase output with the same number of employees.</sentence>
+<sentence id="s538">In April 2006, Gravity successfully tendered for a contract with the Ford Motor Company and, to satisfy those contractual arrangements, Gravity installed low pressure die casting equipment at a cost of $1.6 million.</sentence>
+<sentence id="s539">During the same period, on 31 October 2003, Jorgensen commenced separate Federal Court proceedings against Graham, McGregor, Cosmick, Callawadda and Kalus Kenny.</sentence>
+<sentence id="s540">On 3 May 2005, those proceedings were dismissed and Jorgensen was ordered to pay the Respondents' costs.</sentence>
+<sentence id="s541">As noted earlier (see [3] above), on 10 September 2004, LLMDC allegedly assigned to Mijac, "all of [LLMDC's] right title and interest in any Cause of Action that [LLMDC] may have otherwise had".</sentence>
+<sentence id="s542">Jorgensen's business success did not improve.</sentence>
+<sentence id="s543">On 2 November 2004, the Federal Court declared by consent that Dynacast (Int) breached the TPA by making misleading and deceptive representations about a Phoneflasher mobile phone accessory and then, in March 2007, Dynacast Int was found guilty of contempt of Court for breaching those orders.</sentence>
+<sentence id="s544">On 21 June 2007, Jorgensen was made bankrupt on petition from Slater &amp; Gordon.</sentence>
+<sentence id="s545">That bankruptcy was set aside two months later when he paid $200,000 to his creditors.</sentence>
+<sentence id="s546">On 29 June 2007, Jim's Water Tanks Pty Ltd (ACN 123 918 721) ("Jim's Water Tanks"), of which Jorgensen was a director, entered into an enforceable undertaking with the Commissioner of Fair Trading in Queensland to rectify the company's advertisements.</sentence>
+<sentence id="s547">In the following month, August 2007, ASIC obtained orders restraining Jorgensen from approaching any point of international departure, requiring him to surrender his passport and freezing his personal bank account and those of Jim's Water Tanks.</sentence>
+<sentence id="s548">On 31 December 2007, an administrator was appointed to Jim's Water Tanks and on 16 March 2008, Jim's Water Tanks entered into a DOCA.</sentence>
+<sentence id="s549">On 4 September 2008, Jorgensen filed a debt agreement under the Bankruptcy Act which was subsequently cancelled on 9 October 2008.</sentence>
+<sentence id="s550">III.</sentence>
+<sentence id="s551">ANALYSIS 
+ The issues the parties submitted should be determined are set out in [5] above under the heading "Analysis".</sentence>
+<sentence id="s552">I now turn to consider each of those issues.</sentence>
+<sentence id="s553">(A) WAS GRAHAM A CONTROLLER WITHIN THE MEANING OF S 420A OF THE LAW AS IT APPLIED IN NOVEMBER 1999?</sentence>
+<sentence id="s554">Mijac contended that Graham was a "controller" within the meaning of s 420A of the Law.</sentence>
+<sentence id="s555">Initially the Respondents agreed but, at the conclusion of the hearing, the Respondents sought to withdraw that admission and submit that he was not a controller.</sentence>
+<sentence id="s556">For the reasons that follow, Graham was a controller within the meaning of s 420A of the Law.</sentence>
+<sentence id="s557">The first limb of the definition of "controller" (sub-para (a)) is not relevant.</sentence>
+<sentence id="s558">Graham was not appointed a receiver of the property of LLMDC under the Charge: see cl 6.1 of the Charge.</sentence>
+<sentence id="s559">Put another way, under the Charge, Cosmick had a choice - appoint a receiver or take possession as a mortgagee in possession.</sentence>
+<sentence id="s560">Cosmick chose the latter.</sentence>
+<sentence id="s561">Pursuant to cl 5 of that Charge, Cosmick took possession of the "Mortgaged property" (as that term is defined in cl 2.1 of the Charge) for the purposes of enforcing the Charge.</sentence>
+<sentence id="s562">Clause 5.1 of the Charge provided that "the powers of sale, ... entering into possession and every other power conferred ... upon the Mortgagee by this Deed may be fully exercised by the Mortgagee or its officers, employees, managers and agents in respect of the Mortgaged property without the necessity for any demand".</sentence>
+<sentence id="s563">As the Respondents submitted: Cosmick, not Graham, was granted the Charge over the Mortgaged property (see [70]-[72] above); Cosmick, not Graham, entered into possession of the Mortgaged property by service of the Notice of Possession (see [90] above); Cosmick, not Graham, assumed control of the Mortgaged property (see [90] above); Graham (as the sole director of Cosmick) instructed Kalus to advertise the Mortgaged property for sale.</sentence>
+<sentence id="s564">The advertisement described Cosmick as the "Controller of the assets" (see [91] above); Cosmick, not Graham, sold the Mortgaged property to Gravity (see [122] above); and Cosmick, not Graham, submitted accounts to ASIC in relation to LLMDC for the period from 1 November 1999 to 30 April 2000 in its capacity as controller or managing controller.</sentence>
+<sentence id="s565">Graham signed the form in his capacity as "Director of Cosmick Pty Ltd, Controller" (see [133] above).</sentence>
+<sentence id="s566">Notwithstanding those facts, Mijac submitted that Graham was a controller within the meaning of s 420A of the Law.</sentence>
+<sentence id="s567">I agree.</sentence>
+<sentence id="s568">As the legal analysis explains (see [7] to [14] above), the express words of the Law and the Corporations Act recognise that a person will be a controller.</sentence>
+<sentence id="s569">That is important not because it provides or creates additional causes of action (it does not as explained at [15] above) but because of the other powers and duties addressed to and imposed on controllers in Pt 5.2 , some of which are listed in [13] above.</sentence>
+<sentence id="s570">Leave to withdraw admission?</sentence>
+<sentence id="s571">In light of those findings, it is not necessary to determine the Respondents' application to withdraw their prior admission that Graham was a controller.</sentence>
+<sentence id="s572">In my view, if the Respondents had required leave to withdraw the admission, then the Respondents should have been granted leave to do so.</sentence>
+<sentence id="s573">That conclusion requires explanation.</sentence>
+<sentence id="s574">Paragraph 33 of the Third Further Amended Statement of Claim ("TFASC") pleaded that, on 1 November 1999 Cosmick "as mortgagee in possession appointed Graham as Controller of [LLMDC]".</sentence>
+<sentence id="s575">Paragraphs 35B --- 39 of the TFASC contained additional references to Graham as Controller of LLMDC.</sentence>
+<sentence id="s576">The Respondents' Amended Defence to the previous pleading admitted that Graham was a controller.</sentence>
+<sentence id="s577">The Respondents sought leave to withdraw any admission that Graham was a controller.</sentence>
+<sentence id="s578">A proposed amended defence to the TFASC was provided by the Respondents.</sentence>
+<sentence id="s579">Mijac opposed the Respondents being granted leave to withdraw the admission.</sentence>
+<sentence id="s580">The relevant principles governing the grant of leave to withdraw an admission are well established: e.g.</sentence>
+<sentence id="s581">Australian Competition and Consumer Commission v Construction, Forestry, Mining and Energy Union [2007] FCA 1390 at [4] and the authorities cited; G and M v Armellin (2008) 219 FCR 359 at [116].</sentence>
+<sentence id="s582">Applying those principles to the facts of the present case, it is both necessary and in the interests of justice that leave to withdraw the admission be granted for the following reasons: whether Graham was a controller within the meaning of s 420A is a question of law: Collector of Customs v Pozzolanic Enterprises Pty Ltd (1993) 43 FCR 280 at 287 (per 5 th proposition as outlined).</sentence>
+<sentence id="s583">As Fullagar J said in Hayes v Federal Commissioner of Taxation [1956] HCA 21 ; (1956) 96 CLR 47 at 51, "[w]here the factum probandum involves a term used in a statute, the question whether the accepted facta probantia establish that factum probandum will generally - so far as I can see, always - be a question of law"; questions of law (and even mixed questions of fact and law) cannot and should not be resolved by admissions in pleadings: The Bell Group Ltd (in liq) v Westpac Banking Corporation [No 9] (2008) 225 FLR 1 at [4528] and Shine v Williams [2007] WASCA 194 at [27] ; Mijac would not suffer prejudice by reason of the withdrawal of the admission; the matters identified by Mijac as supporting a contention that it would have conducted its case differently if the admission had been absent related solely to the ASIC form referred to in [13(1)(i)] above.</sentence>
+<sentence id="s584">That document was not and cannot be conclusive: see also s 1305 of the Corporations Act .</sentence>
+<sentence id="s585">Moreover, I reject Mijac's contention that Graham's subjective intent at the time of completing the form was relevant; finally, Mijac was not taken by surprise.</sentence>
+<sentence id="s586">At my suggestion before the close of trial the parties agreed on the issues to be addressed in final submissions.</sentence>
+<sentence id="s587">The first agreed issue for resolution was whether "Graham [was] a controller within the meaning of section s 420A of the Corporations Law?</sentence>
+<sentence id="s588">" (B) WAS GRAHAM AN OFFICER OF LLMDC WITHIN THE MEANING OF THE LAW?</sentence>
+<sentence id="s589">An "officer" under s 232 of the Law as it then applied includes "a receiver, or receiver and manager, of property of the corporation, or any other authorised person who enters into possession or assumes control of the corporation for the purposes of enforcing any charge".</sentence>
+<sentence id="s590">However, because Mijac takes the benefit of any cause of action by way of assignment, it is unnecessary to further consider the application of this section.</sentence>
+<sentence id="s591">That cause of action was not capable of assignment to Mijac: see [30] to [34] above.</sentence>
+<sentence id="s592">(C) DID S 418 OF THE LAW APPLY?</sentence>
+<sentence id="s593">WAS GRAHAM A RECEIVER OF THE PROPERTY OF LLMDC AND, IF SO, WHAT CONSEQUENCE(S) FOLLOW?</sentence>
+<sentence id="s594">The answer to both questions is no.</sentence>
+<sentence id="s595">Graham was not a receiver.</sentence>
+<sentence id="s596">Clause 6.1 of the Charge permitted the mortgagee to appoint a receiver by instrument in writing.</sentence>
+<sentence id="s597">That did not occur.</sentence>
+<sentence id="s598">There was no notification to ASIC of such an appointment.</sentence>
+<sentence id="s599">Accordingly, s 418 was not engaged.</sentence>
+<sentence id="s600">(D) DID GRAHAM OWE ANY AND, IF SO, WHAT DUTIES IN SELLING LLMDC'S ASSETS?</sentence>
+<sentence id="s601">Section 420A of the Law is a "carried over provision": s 1400 of the Corporations Act .</sentence>
+<sentence id="s602">Section 420A of the Corporations Act provides that: 
+(1) In exercising a power of sale in respect of property of a corporation, a controller must take all reasonable care to sell the property for:
+ 
+ 
+(a) if, when it is sold, it has a market value - not less than that market value; or 
+ 
+ 
+(b) otherwise - the best price that is reasonably obtainable, having regard to the circumstances existing when the property is sold.</sentence>
+<sentence id="s603">As a matter of statutory construction, what s 420A of the Law does is to redefine the duty and what must be done to protect the corporation and its property when affected by exercise of a power of sale so that "the corporation, as mortgagor ... retain[s] its existing available remedies, tested by reference to the [higher] duty in s 420A(1) ": Florgale Uniforms 11 VR at [370]: see [7] to [21] above.</sentence>
+<sentence id="s604">As a result, it is necessary to consider s 420A in considering the duties owed by Cosmick in exercising its power of sale as mortgagee in possession.</sentence>
+<sentence id="s605">(E) DID GRAHAM BREACH THOSE DUTIES?</sentence>
+<sentence id="s606">As previously noted, s 420A is not a separate cause of action: see [15] above.</sentence>
+<sentence id="s607">Accordingly, it is unnecessary to answer this question.</sentence>
+<sentence id="s608">(F) WHAT DUTIES IF ANY DID COSMICK OWE IN SELLING LLMDC'S ASSETS?</sentence>
+<sentence id="s609">Two duties owed by Cosmick were relevant --- a mortgagee's general law duty in relation to its power of sale to act in good faith and the statutory duty under s 420A of the Corporations Act .</sentence>
+<sentence id="s610">A mortgagee's general law duty means that a mortgagee must in the exercise of its power of sale act without fraud and without wilfully or recklessly sacrificing the interests of the mortgagor: Commercial and General Acceptance Ltd v Nixon 152 CLR at 525.</sentence>
+<sentence id="s611">As Kiefel and Besanko JJ said in Upton v Tasmanian Perpetual Trustees Ltd 158 FCR at [22], the mortgagee's duty in relation to the power of sale "does not require the mortgagee to act in protection of the interests of the mortgagor, unless the mortgagee's failure to do so would be fraudulent or would amount to a wilful or reckless sacrificing of those interests".</sentence>
+<sentence id="s612">As the Respondents submitted, these duties are far more limited than those of a receiver: see cl 6 of the Charge and s 420 of the Corporations Act .</sentence>
+<sentence id="s613">As explained earlier (see [14] to [16] above), the statutory powers and duties are not a code but are in addition to the general law duties of mortgagees in possession.</sentence>
+<sentence id="s614">However, that regime does not create practical difficulties because the better view is that s 420A of the Law does not expressly confer a right to damages or any other remedy on the corporation or anyone else: see [156] above.</sentence>
+<sentence id="s615">(G) DID COSMICK BREACH THOSE DUTIES?</sentence>
+<sentence id="s616">As noted earlier (see [17]), the question is whether there was a failure to take all reasonable care to sell the property for not less than market value or the best price that is "reasonably obtainable, having regard to the circumstances existing when the property is sold": s 420A of the Law as applied in Florgale Uniforms 11 VR at [370].</sentence>
+<sentence id="s617">For the following reasons, Cosmick failed to take reasonable care to sell the assets and undertaking of LLMDC for not less than market value or the best price.</sentence>
+<sentence id="s618">It follows that the failure to attain this 'higher' duty also leads to the conclusion that Cosmick breached its obligations under the general law regarding a mortgagee's duty to sell the mortgaged property in good faith by not wilfully and recklessly sacrificing the interests of the mortgagor.</sentence>
+<sentence id="s619">That failure is demonstrated by the process it adopted.</sentence>
+<sentence id="s620">First, Cosmick failed to adequately advertise the property: see [91] above.</sentence>
+<sentence id="s621">The contact details in the advertisement were incomplete, the advertising period was excessively short and contrary to the substantive offer from the related party which was ultimately accepted the advertisement did not offer to sell the assets as a going concern: Pendlebury v The Colonial Mutual Life Assurance Society Limited [1912] HCA 9 ; (1912) 13 CLR 676 and Barns v Queensland National Bank Ltd [1906] HCA 26 ; (1906) 3 CLR 925.</sentence>
+<sentence id="s622">It only offered the assets, not the undertaking.</sentence>
+<sentence id="s623">I accept that Cosmick as the mortgagee in possession could not advertise or offer the assets as a going concern because there was no existing lease capable of assignment to a purchaser, but the subsequent offer received by the related entity to purchase the assets as a going concern did provide a possible basis for further negotiation with other parties.</sentence>
+<sentence id="s624">Secondly, the property was sold to a related entity: see [35(6)] and [122] above.</sentence>
+<sentence id="s625">Thirdly, the "process" adopted by Cosmick falls short of what has previously been found by Courts to be necessary.</sentence>
+<sentence id="s626">In addition to the matters identified in [163], there was a failure by Cosmick to investigate other offers for the mortgaged property or at the very least a failure to encourage competition between offers made.</sentence>
+<sentence id="s627">Moreover, the process of obtaining the mortgaged property for sale and selling that property appeared to ensure a sale to a related entity (particularly in circumstances where the sale was the subject of considerable protest by the mortgagor).</sentence>
+<sentence id="s628">Those facts lead to the conclusion that there was a failure by Cosmick to take all reasonable care to sell the assets and undertaking of LLMDC.</sentence>
+<sentence id="s629">Of course, it is not necessary to prove that the property was in fact sold for less than its market value: Florgale Uniforms 11 VR at [410] and [413].</sentence>
+<sentence id="s630">In fact, in the present case, although the process adopted by Cosmick may have been flawed, the evidence does not disclose that the mortgagor suffered any compensable loss.</sentence>
+<sentence id="s631">That issue is addressed in further detail in [172] to [178] below.</sentence>
+<sentence id="s632">(H) IS THERE AN ABSOLUTE PROHIBITION ON A MORTGAGEE IN POSSESSION SELLING THE ASSETS TO HIMSELF OR A RELATED PARTY?</sentence>
+<sentence id="s633">It was common ground that there is no absolute prohibition on a mortgagee in possession selling the property to another corporation which is separate but related to the mortgagee: Re One.Tel Networks Holdings Pty Ltd (2001) 40 ACSR 83 ; Tse Kwong Lam [1983] 1 WLR 1349.</sentence>
+<sentence id="s634">(I) DID COSMICK SELL LLMDC'S ASSETS TO ITSELF?</sentence>
+<sentence id="s635">This question is unnecessary to answer: see [146] and [167] above.</sentence>
+<sentence id="s636">(J) DID S 103 OF THE PROPERTY LAW ACT 1958 (VIC) APPLY AND, IF SO, WAS IT BREACHED?</sentence>
+<sentence id="s637">The answer is no: see [27] to [29] above.</sentence>
+<sentence id="s638">(K) DID A DEMAND HAVE TO BE MADE BEFORE COSMICK ENTERED INTO POSSESSION OF LLMDC'S ASSETS?</sentence>
+<sentence id="s639">No.</sentence>
+<sentence id="s640">First, cl 5.1 of the Charge expressly empowered Cosmick to exercise its powers as mortgagee at any time without the necessity for any demand or notice.</sentence>
+<sentence id="s641">Cosmick's powers to enter into possession were triggered as soon as LLMDC defaulted under the Loan Agreement: cl 4.1 of the Charge read with cl 1.1(a).</sentence>
+<sentence id="s642">LLMDC was in default: see [79] above.</sentence>
+<sentence id="s643">Secondly, even if a demand or notice was required (and it was not), such a demand or notice was prepared, signed and served: see [88] above.</sentence>
+<sentence id="s644">(L) IS MIJAC ENTITLED TO DAMAGES FROM GRAHAM AND / OR COSMICK AND IF SO, WHAT IS THE MEASURE OF DAMAGES AND AT WHAT TIME ARE THEY TO BE ASSESSED?</sentence>
+<sentence id="s645">No.</sentence>
+<sentence id="s646">Mijac is not entitled to damages from Graham.</sentence>
+<sentence id="s647">Against Graham there was no separate cause of action.</sentence>
+<sentence id="s648">Against Cosmick, Mijac is limited to the taking of an account in the manner described at [25] above.</sentence>
+<sentence id="s649">However, despite Mijac's entitlement to an accounting for wilful default on the part of Cosmick as mortgagee in possession, there was no basis for concluding that had there been no default, the mortgagee might have received more than it did.</sentence>
+<sentence id="s650">That last conclusion requires explanation.</sentence>
+<sentence id="s651">First, as the following summary of the facts demonstrates, the evidence did not disclose that if Cosmick had conducted a "proper" sale of LLMDC's assets and undertaking it would have generated any additional proceeds of sale above those paid by Gravity (see [25] above).</sentence>
+<sentence id="s652">In relation to the assets of LLMDC, Dominion Valuers &amp; Auctioneers: inspected the Coburg Premises in early November 1999 and concluded that the plant was "very, very poor", that the plant was not busy, there were no depreciation schedules or other records relating to the plant available and two thirds of the die casting machines had been pulled out of production and parked in a shed: see [99] above; valued the listed plant and equipment at $298,000 based on installed existing usage and $144,915 based for onsite auction realisation: see [102] above.</sentence>
+<sentence id="s653">The distinction drawn by the valuers is important --- the equipment was far more valuable if it remained installed on site than if it was removed; reported, in part, that the "industry [was] to some degree in decline [and] without significant sales evidence being available [they] had to err on the conservative in [their] estimate of values".</sentence>
+<sentence id="s654">In the preparation of the valuation, Dominion did not attempt to "pre-empt a potential purchaser with a specialist interest in the plant" and assumed that the assets were, or were capable of, being utilised as assets of a profitable undertaking: see [102] above.</sentence>
+<sentence id="s655">Consistent with the views of the valuers, it was by no means certain that all of the equipment the subject of the sale was in fact available for sale.</sentence>
+<sentence id="s656">At least some of the equipment the subject of sale ran the risk of being considered a fixture which the owner of the Coburg Premises would inherit if LLMDC no longer operated from the Coburg Premises: see [81] above.</sentence>
+<sentence id="s657">LLMDC ceased to retain the right to operate from the Coburg Premises and the receiver of the landlord, LMC, had instituted proceedings for possession of the Coburg Premises: see [73] above.</sentence>
+<sentence id="s658">In fact, both McGregor's offer and the Sale of Business and Assets Agreement (cl 2) were conditional upon Gravity obtaining rights of occupation of the Coburg Premises and / or entering into an unconditional contract to acquire the Coburg Premises.</sentence>
+<sentence id="s659">Even if one was to consider a theoretical sale of the undertaking of LLMDC the evidence did not disclose that a "proper" sale of the assets and undertaking might have generated any additional proceeds of sale above those paid to Cosmick.</sentence>
+<sentence id="s660">As at November 1999: LLMDC, as the entity operating the business, was insolvent, a fact conceded by Craven in cross examination; LLMDC had no right to occupy the Coburg Premises as the lease had been forfeited for non payment of rent and the receiver and manager of the landlord, LMC, had instituted proceedings for possession of the Coburg Premises.</sentence>
+<sentence id="s661">Even if possession of the Coburg Premises was secured, the premises were unsafe with rain falling through holes in the asbestos roof; much of LLMDC's assets were built into the Coburg Premises and therefore ran the risk of being considered as fixtures or, at the very least, could not quickly and cheaply be relocated to new premises; apart from a six week debtors ledger, there were no books and records available to potential purchasers to assess the financial viability of the underlying business.</sentence>
+<sentence id="s662">Both the receiver and manager and the administrator of LLMDC had concluded that LLMDC's financial records were in a poor state; ten customers of LLMDC including three substantial customers had been lost since June 1999 with a resulting diminution in sales by one third; the Valuers had expressed their view on the state of the plant and equipment which underpinned the value of LLMDC's undertaking --- the plant was in a "very, very poor state" and "two thirds of the [die casting machines] had been pulled out of production and parked in a shed" and about one third was not working at all and needed replacement or repair: see [173] above; the die casting machines in operation were the subject of Workcover notices.</sentence>
+<sentence id="s663">
+This list is by no means complete.</sentence>
+<sentence id="s664">To the extent that Mijac sought to rely upon the views of Mr Lom, an expert accountant, in support of the contention that the underlying business of LLMDC was profitable, I reject his evidence.</sentence>
+<sentence id="s665">He was an unsatisfactory witness who, contrary to the role of an expert (and for that matter the Federal Court expert evidence guidelines), was an advocate for Mijac who appeared willing to accept, often on the basis of flimsy material and without critical analysis, any position which he considered advanced Mijac's position.</sentence>
+<sentence id="s666">In addition, his opinion proceeded upon some incorrect factual premises including, but not limited to, the fact that (1) he assumed that LLMDC had an ongoing right to occupy the Coburg Premises and he was unaware that LMC had commenced proceedings for possession of the premises; (2) he did not know that LLMDC had lost substantial customers; (3) he did not know about the threat to the industry from China and (4) he did not know enough about LLMDC's customer base.</sentence>
+<sentence id="s667">Mr Lom accepted that each of these facts or matters would have affected the value he ascribed.</sentence>
+<sentence id="s668">As Mr Blashki, an expert accountant called by the Respondents concluded, having regard to the concerns about the reliability of the financial performance of LLMDC, the lack of satisfactory explanation for LLMDC's insolvency problems and the lack of verifiable financial information, it was not possible to have any confidence in the future profitability of LLMDC's business.</sentence>
+<sentence id="s669">To that list of factors, Mr Blashki added security of tenure of the Coburg Premises and the likely significant cost of relocation.</sentence>
+<sentence id="s670">I would add the additional facts and matters listed in [175] above.</sentence>
+<sentence id="s671">Having regard to each of those factors, I accept Mr Blashki's view that a purchaser was "unlikely to value the business more than on an auction realisation basis".</sentence>
+<sentence id="s672">In other words, the value of LLMDC's business was more properly represented by the value of its individual assets less liabilities.</sentence>
+<sentence id="s673">The evidence disclosed that a calculation on that basis (assets less liabilities) might have resulted in the following proceeds being generated compared to the actual proceeds received from Gravity: Evidence / Valuation Actual Sale Fixed Assets and Intangibles on an on site auction realisation basis --- Dominion Valuers 144,915 400,000 Stock and work in progress 38,214 25,000 Less allowance for employee entitlements (110,143) (100,000) Estimated Proceeds of Sale $72,986 $325,000 
+ 
+ 
+ 
+Even if the plant and equipment was valued based on installed existing usage at $298,000 (see [102] above), the actual proceeds of sale exceeded the estimated proceeds of sale by in excess of $98,000.</sentence>
+<sentence id="s674">Moreover, even if (contrary to the views I have formed), additional proceeds might have been received "without wilful default", other amounts would need to be deducted from those additional proceeds, including the sum of approximately $130,000 owed to Callawadda as described in [117] above which remained unpaid and the recovery costs incurred by the secured lenders.</sentence>
+<sentence id="s675">If those amounts were conservatively assessed at say $150,000, there was no evidence to suggest that any sale of the assets by a mortgagee in possession might have generated sufficient funds to pay these additional amounts.</sentence>
+<sentence id="s676">Accordingly, it is inappropriate to order any accounting even if the claim for loss and damage was to be understood as encompassing a claim for the taking of an account.</sentence>
+<sentence id="s677">For completeness I should add that I do not regard the claim for loss and damage as extending to the radically different remedy of account.</sentence>
+<sentence id="s678">(M) IS MIJAC ENTITLED TO HAVE THE SALE BY COSMICK TO GRAVITY SET ASIDE AND, IF SO, IS IT TOO LATE BY REASON OF DELAY?</sentence>
+<sentence id="s679">Mijac is not entitled to have the sale by Cosmick to Gravity set aside.</sentence>
+<sentence id="s680">Equity would not intervene to set aside the sale.</sentence>
+<sentence id="s681">As noted above (see [22] to [23]), if, as here, a mortgagee's equitable duty in relation to its power of sale is breached, equitable relief ordinarily would include orders setting aside the sale where there is no independent bargain between the mortgagee in possession and the purchaser of the property the subject of the mortgage.</sentence>
+<sentence id="s682">Moreover, as noted above, "setting aside the sale" is not actually what occurs.</sentence>
+<sentence id="s683">Instead, the purchaser is treated as having bought the mortgage and the debt and the mortgagor retains its right of redemption of the mortgaged property against the purchaser.</sentence>
+<sentence id="s684">However, in the present case, equity would not intervene to set aside the sale in the manner just described.</sentence>
+<sentence id="s685">Here, Mijac asks "the Court ... to rip up a transaction [10] years after it has been completed[,] the lapse of time itself [being] one of the elements bearing upon the equities that exist entitling the [applicant] to relief": Fysh v Page 96 CLR at 243.</sentence>
+<sentence id="s686">If that was not itself a sufficient reason to refuse relief, Mijac makes that application as an assignee of a cause of action in respect of property that has not only transmogrified into substantially different property worth a considerable amount more than the purchaser paid but has since been sold to a third party: see [132] to [136] above.</sentence>
+<sentence id="s687">For those reasons, Mijac is not entitled to have the sale set aside and delay is just "one of the elements bearing upon the equities that exist entitling the [applicant] to relief": Fysh v Page 96 CLR at 243.</sentence>
+<sentence id="s688">(N) IS MIJAC ENTITLED TO ANY AND, IF SO, WHAT STATUTORY REMEDIES?</sentence>
+<sentence id="s689">No.</sentence>
+<sentence id="s690">First, statutory remedies are not capable of assignment and secondly, the only statutory remedies identified by Mijac concerned Graham.</sentence>
+<sentence id="s691">(O) WHAT IS THE EFFECT OF THE ASSIGNMENT BY LLMDC TO MIJAC IN 2004 ON THE AVAILABLE REMEDIES?</sentence>
+<sentence id="s692">As noted above (see [30]), choses in action in general are assignable and the right to equitable relief in form of an accounting is capable of assignment.</sentence>
+<sentence id="s693">On the other hand, "a bare right to litigate" and statutory causes of action require special consideration: see [31] to [34] above.</sentence>
+<sentence id="s694">Consistent with those principles, Mijac is left to its equitable remedies.</sentence>
+<sentence id="s695">Mijac submitted that the question of the effect of the assignment was a new question of law not previously pleaded and about which they had no notice.</sentence>
+<sentence id="s696">I reject that contention.</sentence>
+<sentence id="s697">The question of the effect of assignment is a question of law that cannot be put aside from consideration and moreover, it was one of the questions that the parties agreed required resolution.</sentence>
+<sentence id="s698">Turning then to the substantive argument, Mijac sought to rely upon a number of cases where it had been found that certain "personal" causes of action for example, under Pt V of the TPA may be assigned by a liquidator pursuant to s 477(2)(c) of the Corporations Act or by a trustee in bankruptcy pursuant to ss 134(1)(a) and 135(1)(a) of the Bankruptcy Act .</sentence>
+<sentence id="s699">That may well be the case.</sentence>
+<sentence id="s700">However, as the Respondents correctly submitted, these cases either reinforced or failed to address (as was discussed at [31] to [34] above) the proposition that an assignee will not be able to recover where they themselves have suffered no loss or damage: see Brookfield v Davey Products Pty Ltd (1996) 14 ACLC 303 at 305.</sentence>
+<sentence id="s701">Thus, in the circumstances of this case, no remedy is available to Mijac regarding the statutory causes of action.</sentence>
+<sentence id="s702">Moreover, s 477(2)(c) of the Law does not permit a statutory cause of action not otherwise assignable to be assigned: Pritchard v Racecage Pty Ltd (1997) 72 FCR 203 at 218-221; UTSA Pty Ltd v Ultra Tune Australia Pty Ltd [1997] 1 VR 667 at 698; Pearl Coast Divers Pty Ltd v Cossack Pearls Pty Ltd [2008] FCA 927 ; (2008) 249 ALR 591 at [6] - [8] .</sentence>
+<sentence id="s703">Finally, the above analysis proceeds on the assumption that the assignment did not fail for other reasons including, but not limited to, a lack of definition about what in fact was assigned (the subject matter of the assignment was labelled "a Cause of Action") or a failure to comply with requirements at common law and / or in equity.</sentence>
+<sentence id="s704">The copy of the assignment tendered in evidence was not executed by Mijac.</sentence>
+<sentence id="s705">The Deed recorded it was executed by the liquidator of LLMDC on 10 September 2004, at a time when, according to the ASIC records, LLMDC was subject to external administration in the form of the appointment of Mr McVeigh, as liquidator of that entity.</sentence>
+<sentence id="s706">Although Recitals B and E of the Deed recorded that Mijac was the holder of a registered charge over LLMDC and an existing creditor of LLMDC, neither the existence nor the terms of that charge or indebtedness were proved.</sentence>
+<sentence id="s707">Finally, the subject matter of the assignment was labelled "a Cause of Action".</sentence>
+<sentence id="s708">As a matter of construction, the Respondents accepted that the Deed effected an assignment of a bare right to bring an action and not an assignment of the assets of LLMDC.</sentence>
+<sentence id="s709">Given the views I have earlier expressed and in the absence of detailed submissions from the parties, it is unnecessary for me to consider further the proper construction of the Deed and, in particular, the phrase "a Cause of Action": Pacific Brand Sport &amp; Leisure Pty Ltd v Underworks Pty Ltd [2006] FCAFC 40 ; (2006) 149 FCR 395 at 411.</sentence>
+<sentence id="s710">(P) SHOULD MIJAC BE REQUIRED TO ELECT WHICH REMEDY IT TAKES?</sentence>
+<sentence id="s711">Having regard to the views that I have formed about the relief available to Mijac, this question is unnecessary to answer.</sentence>
+<sentence id="s712">IV ORDERS 
+ For those reasons, I would dismiss the application.</sentence>
+<sentence id="s713">However, having regard to the merits of the parties' respective positions, I will make no order as to costs.</sentence>
+<sentence id="s714">The costs should lie where they fall.</sentence>
+<sentence id="s715">I certify that the preceding one hundred and eighty-eight (188) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gordon.</sentence>
+<sentence id="s716">Associate:
+ 
+ 
+Dated: 22 July 2009
+ 
+ Counsel for the Applicant: Mr M McInnis with Mr J McKenna 
+ 
+ Solicitor for the Applicant: Melbourne Legal Partners 
+ 
+ Counsel for the Respondents: Mr P Cawthorn SC with Ms Z Maud 
+ 
+ Solicitor for the Respondents: B2B Lawyers 
+ Date of Hearing: 23-25 February &amp; 23-27 March 2009 
+ 
+ Date of Judgment: 22 July 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/773.html 
+ 
+ </sentence>
+</sentences>
+</case>

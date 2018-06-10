@@ -1,0 +1,683 @@
+<?xml version="1.0"?>
+<case>
+<name>Bienstein v Attorney-General [2007] FCA 1174 (8 August 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1174.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">request</catchphrase>
+<catchphrase "id=c1">transfer of request to another agency</catchphrase>
+<catchphrase "id=c2">transfer on basis that subject-matter of documents more closely connected with functions of another agency</catchphrase>
+<catchphrase "id=c3">whether recipient of request required to search for documents before transferring request on the basis that the subject-matter of documents is more closely connected with the functions of another agency</catchphrase>
+<catchphrase "id=c4">requests made to attorney-general and minister for justice and customs for access to their documents</catchphrase>
+<catchphrase "id=c5">purported transfers of requests to attorney-general's department</catchphrase>
+<catchphrase "id=c6">whether administrative appeals tribunal erred in law in holding requests validly transferred</catchphrase>
+<catchphrase "id=c7">consequences of failure to effect proper transfers of requests</catchphrase>
+<catchphrase "id=c8">freedom of information</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+
+ The nature of the proceeding 
+ 
+1 This appeal, pursuant to s 44(1) of the Administrative Appeals Tribunal Act 1975 (Cth) ("the AAT Act "), is from two decisions of the Administrative Appeals Tribunal ("the Tribunal").</sentence>
+<sentence id="s1">The Tribunal decided that it did not have jurisdiction to deal with two applications for review made by the applicant.</sentence>
+<sentence id="s2">Each of those applications for review related to a request made pursuant to the Freedom of Information Act 1982 (Cth) ("the FOI Act "), one to the Attorney-General and the other to the Minister for Justice and Customs ("the Justice Minister"), seeking access to certain documents.</sentence>
+<sentence id="s3">Both the Attorney-General's office and the Justice Minister's office purported to transfer the respective requests to the Attorney-General's Department ("the Department"), pursuant to s 16 of the FOI Act .</sentence>
+<sentence id="s4">There is a question in each case whether these purported transfers gave rise to a deemed refusal to provide access to the documents.</sentence>
+<sentence id="s5">In each case, there is an antecedent question as to whether the purported transfer was valid, and a subsidiary question as to whether a transfer of a request absolves the original agency, to which the request is addressed, from the obligation to search for documents answering the descriptions in the request, to determine whether it has such documents in its possession.</sentence>
+<sentence id="s6">2 In each case, the Tribunal's decision was given, and its reasons for decision were published, on 26 August 2004.</sentence>
+<sentence id="s7">Each application for review was dealt with on the papers by consent of the parties to it.</sentence>
+<sentence id="s8">The decisions and reasons are found in Bienstein v Attorney-General (Commonwealth) [2004] AATA 896 and Bienstein v Minister for Justice &amp; Customs [2004] AATA 895.</sentence>
+<sentence id="s9">3 When the original notice of appeal was filed in this Court, it set out a large number of issues, many of which could not properly amount to questions of law arising from the Tribunal's decisions.</sentence>
+<sentence id="s10">By s 44(1) of the AAT Act , an appeal from the Tribunal to this Court is limited to a question of law.</sentence>
+<sentence id="s11">Because the applicant was unrepresented, owing to her lack of means, I referred her to counsel, pursuant to the scheme for legal representation found in O 80 of the Federal Court Rules .</sentence>
+<sentence id="s12">Subsequently, the applicant told me at a directions hearing that she did not wish to be represented by the counsel to whom she had been allocated, as she did not feel he had a sufficient understanding of administrative law.</sentence>
+<sentence id="s13">She requested allocation to another counsel.</sentence>
+<sentence id="s14">I declined, on the basis that the O 80 scheme is not designed to give a disadvantaged party choice of counsel, but to provide a means of assisting such a party, and the Court, when such assistance appears to be beneficial.</sentence>
+<sentence id="s15">The scheme ought not to be treated as a form of legal aid, entitling a party to his or her choice of legal representative.</sentence>
+<sentence id="s16">In the result, the applicant continued the proceeding, and appeared at the hearing of the appeal, without representation.</sentence>
+<sentence id="s17">She filed two amended notices of appeal.</sentence>
+<sentence id="s18">Even the latest version suffers from prolixity, lack of precision and the applicant's apparent desire to broaden the issues as much as she can.</sentence>
+<sentence id="s19">Nevertheless, it is possible to discern from the amended notice of appeal filed on 13 September 2005, and from the argument that the applicant put most capably on the hearing of the appeal, questions of law which can be raised legitimately and which are of substance.</sentence>
+<sentence id="s20">It is those questions which I have outlined above, and which are dealt with in these reasons for judgment.</sentence>
+<sentence id="s21">The relevant provisions of the FOI Act 
+ 
+4 Section 3 of the FOI Act provides:
+ 
+ (1) The object of this Act is to extend as far as possible the right of the Australian community to access to information in the possession of the 
+ Government of the Commonwealth by: 
+ 
+ (a) making available to the public information about the 
+ operations of departments and public authorities and, in 
+ particular, ensuring that rules and practices affecting members 
+ of the public in their dealings with departments and public 
+ authorities are readily available to persons affected by those 
+ rules and practices; and 
+ 
+ (b) creating a general right of access to information in 
+ documentary form in the possession of Ministers, departments 
+ and public authorities, limited only by exceptions and 
+ exemptions necessary for the protection of essential public 
+ interests and the private and business affairs of persons in 
+ respect of whom information is collected and held by 
+ departments and public authorities; and 
+ 
+ (c) creating a right to bring about the amendment of records 
+ containing personal information that is incomplete, incorrect, 
+ out of date or misleading.</sentence>
+<sentence id="s22">
+ 
+ (2) It is the intention of the Parliament that the provisions of this Act shall 
+ be interpreted so as to further the object set out in subsection (1) and 
+ that any discretions conferred by this Act shall be exercised as far as 
+ possible so as to facilitate and promote, promptly and at the lowest 
+ reasonable cost, the disclosure of information.</sentence>
+<sentence id="s23">
+ 
+
+5 Section 4(1) contains a number of definitions relevant to this proceeding:
+ 
+ agency means a Department, a prescribed authority or an eligible case 
+ manager.</sentence>
+<sentence id="s24">
+ 
+ ... 
+ 
+ Department means a Department of the Australian Public Service that corresponds to a Department of State of the Commonwealth... 
+ 
+ request means an application made in accordance with subsection 15(1).</sentence>
+<sentence id="s25">
+ 
+ ... 
+ 
+ Tribunal means the Administrative Appeals Tribunal.</sentence>
+<sentence id="s26">
+ 
+
+6 Part III of the FOI Act deals with access to documents.</sentence>
+<sentence id="s27">It begins with s 11 , which is in the following terms:
+ 
+ (1) Subject to this Act, every person has a legally enforceable right to obtain access in accordance with this Act to: 
+ 
+ (a) a document of an agency, other than an exempt document; or 
+
+ (b) an official document of a Minister, other than an exempt 
+ document.</sentence>
+<sentence id="s28">
+ 
+ (2) Subject to this Act, a person's right of access is not affected by: 
+ 
+ (a) any reasons the person gives for seeking access; or 
+ 
+ (b) the agency's or Minister's belief as to what are his or her 
+ reasons for seeking access.</sentence>
+<sentence id="s29">
+ 
+
+7 Section 15 provides as follows:
+ 
+ (1) Subject to section 15A , a person who wishes to obtain access to a document of an agency or an official document of a Minister may 
+ request access to the document.</sentence>
+<sentence id="s30">
+ 
+ (2) The request must: 
+ 
+ (a) be in writing; and 
+ 
+ (b) provide such information concerning the document as is 
+ reasonably necessary to enable a responsible officer of the 
+ agency, or the Minister, to identify it; and 
+ 
+ (c) specify an address in Australia at which notices under this Act 
+ may be sent to the applicant; and 
+ 
+ (d) be sent by post to the agency or Minister, or delivered to an 
+ officer of the agency or a member of the staff of the Minister, at 
+ the address of any central or regional office of the agency or 
+ Minister specified in a current telephone directory; and 
+ 
+ (e) be accompanied by the fee payable under the regulations in 
+ respect of the request.</sentence>
+<sentence id="s31">
+ 
+ (3) Where a person: 
+ 
+ (a) wishes to make a request to an agency; or 
+ 
+ (b) has made to an agency a request that does not comply with this 
+ section; 
+ 
+ it is the duty of the agency to take reasonable steps to assist the person 
+ to make the request in a manner that complies with this section.</sentence>
+<sentence id="s32">
+ 
+ (4) Where a person has directed to an agency a request that should have 
+ been directed to another agency or to a Minister, it is the duty of the 
+ first-mentioned agency to take reasonable steps to assist the person to 
+ direct the request to the appropriate agency or Minister.</sentence>
+<sentence id="s33">
+ 
+ (5) On receiving a request, the agency or Minister must: 
+ 
+ (a) as soon as practicable but in any case not later than 14 days 
+ after the day on which the request is received by or on behalf 
+ of the agency or Minister, take all reasonable steps to enable 
+ the applicant to be notified that the request has been received; 
+ and 
+ 
+ (b) as soon as practicable but in any case not later than the end of 
+ the period of 30 days after the day on which the request is 
+ received by or on behalf of the agency or Minister, take all 
+ reasonable steps to enable the applicant to be notified of a 
+ decision on the request (including a decision under section 21 
+ to defer the provision of access to a document).</sentence>
+<sentence id="s34">
+ 
+ (6) Where, in relation to a request, the agency or Minister determines in 
+ writing that the requirements of section 26A , 27 or 27A make it 
+ appropriate to extend the period referred to in paragraph (5)(b): 
+ 
+ (a) the period is to be taken to be extended by a further period of 
+ 30 days; and 
+ 
+ (b) the agency or Minister must, as soon as practicable, inform the 
+ applicant that the period has been so extended.</sentence>
+<sentence id="s35">
+ 
+
+8 Section 15A does not contain provisions relevant to the present case.</sentence>
+<sentence id="s36">Section 16 should also be set out in full:
+ 
+ (1) Where a request is made to an agency for access to a document and: 
+ 
+ (a) the document is not in the possession of that agency but is, to 
+ the knowledge of that agency, in the possession of another 
+ agency; or 
+ 
+ (b) the subject-matter of the document is more closely connected 
+ with the functions of another agency than with those of the 
+ agency to which the request is made; 
+ 
+ the agency to which the request is made may, with the agreement of 
+ the other agency, transfer the request to the other agency.</sentence>
+<sentence id="s37">
+ 
+ (2) Where a request is made to an agency for access to a document that: 
+ 
+ (a) originated with, or has been received from, a body which, or 
+ person who, is specified in Part I of Schedule 2; and 
+ 
+ (b) is more closely connected with the functions of that body or 
+ person than with those of the agency to which the request is 
+ made; 
+ 
+ the request shall be transferred to the Department corresponding to 
+ the Department of State administered by the Minister who administers 
+ the enactment by or under which the body or person is established, 
+ continued in existence or appointed.</sentence>
+<sentence id="s38">
+ 
+ (3) Where a request is made to an agency for access to a document that: 
+ 
+ (a) originated in, or has been received from, another agency, 
+ being an agency specified in Part II of Schedule 2 or an agency 
+ that is a body corporate established by or under an Act 
+ specified in Part III of Schedule 2; and 
+ 
+ (b) is more closely connected with the functions of the other 
+ agency in relation to documents in respect of which the other 
+ agency is exempt from the operation of this Act than with the 
+ functions of the agency to which the request is made; 
+ 
+ the agency to which the request is made shall transfer the request to 
+ the other agency.</sentence>
+<sentence id="s39">
+ 
+ (3A) Where: 
+ 
+ (a) a request is made to an agency for access to more than one 
+ document; and 
+ 
+ (b) one or more of those documents is a document to which 
+ subsection (1), (2) or (3) applies; 
+ 
+ this section applies to each of those documents as if separate requests 
+ for access had been made to the agency in respect of each of those 
+ documents.</sentence>
+<sentence id="s40">
+ 
+ (4) Where a request is transferred to an agency in accordance with this 
+ section, the agency making the transfer shall inform the person making 
+ the request accordingly and, if it is necessary to do so in order to 
+ enable the other agency to deal with the request, send the document to 
+ the other agency.</sentence>
+<sentence id="s41">
+ 
+ (5) Where a request is transferred to an agency in accordance with this 
+ section, the request is to be taken to be a request: 
+ 
+ (a) made to the agency for access to the document that is the 
+ subject of the transfer; and 
+ 
+ (b) received by the agency at the time at which it was first received 
+ by an agency.</sentence>
+<sentence id="s42">
+ 
+ (6) In this section, agency includes a Minister.</sentence>
+<sentence id="s43">
+ 
+
+9 Section 24 provides relevantly:
+ 
+ (1) The agency or Minister dealing with a request may refuse to grant 
+ access to documents in accordance with the request, without having 
+ caused the processing of the request to have been undertaken, if the 
+ agency or Minister is satisfied that the work involved in processing the 
+ request: 
+ 
+ (a) in the case of an agency--would substantially and 
+ unreasonably divert the resources of the agency from its other 
+ operations; or 
+ 
+ (b) in the case of a Minister--would substantially and 
+ unreasonably interfere with the performance of the Minister's 
+ functions.</sentence>
+<sentence id="s44">
+ 
+ ... 
+ 
+ (6) An agency or Minister must not refuse to grant access to a document: 
+ 
+ (a) on the ground that the request for the document does not 
+ comply with paragraph 15(2)(b); or 
+ 
+ (b) under subsection (1); 
+ 
+ unless the agency or Minister has: 
+ 
+ (c) given the applicant a written notice: 
+ 
+ (i) stating an intention to refuse access; and 
+ 
+ (ii) identifying an officer of the agency or a member of staff 
+ of the Minister with whom the applicant may consult 
+ with a view to making the request in a form that would 
+ remove the ground for refusal; and 
+ 
+ (d) given the applicant a reasonable opportunity so to consult; and 
+ 
+ (e) as far as is reasonably practicable, provided the applicant with 
+ any information that would assist the making of the request 
+ in such a form.</sentence>
+<sentence id="s45">
+ 
+ (7) For the purposes of section 15 , the period commencing on the day an 
+ applicant is given a notice under paragraph (6)(c) and ending on the 
+ day the applicant confirms or alters the request following the 
+ consultation referred to in subsection (6) is to be disregarded in the 
+ computation of the 30 day period referred to in section 15.</sentence>
+<sentence id="s46">
+ 
+
+10 Section 24A provides:
+ 
+ An agency or Minister may refuse a request for access to a document if: 
+ 
+ (a) all reasonable steps have been taken to find the document; and 
+ 
+ (b) the agency or Minister is satisfied that the document: 
+ 
+ (i) is in the agency's or Minister's possession but cannot be 
+ found; or 
+ 
+ (ii) does not exist.</sentence>
+<sentence id="s47">
+ 
+
+11 Section 30A(1) provides for an agency or Minister to remit all or part of an application fee, on certain grounds.</sentence>
+<sentence id="s48">An applicant may make a written request for remission of the application fee.</sentence>
+<sentence id="s49">Section 30A provides for a decision on such a request within a maximum of 30 days after the request was made.</sentence>
+<sentence id="s50">By s 30A(1B) , if an applicant has not received notice of a decision on a request by the end of the period of 30 days, the agency or Minister concerned is taken to have made, on the 30th day, a decision to the effect that no part of the application fee is to be remitted.</sentence>
+<sentence id="s51">12 Part VI of the FOI Act relates to the review of decisions.</sentence>
+<sentence id="s52">Section 54(1) provides for internal review, in the following terms:
+ 
+ (1) Subject to subsection (1A), where a decision has been made, in 
+ relation to a request to an agency, otherwise than by the responsible 
+ Minister or principal officer of the agency, being: 
+ 
+ (a) a decision refusing to grant access to a document in 
+ accordance with a request; or 
+ 
+ (b) a decision granting access to a document but not granting, in 
+ accordance with the request, access to all documents to which 
+ the request relates; or 
+ 
+ (ba) a decision purporting to grant, in accordance with a request, 
+ access to all documents to which the request relates, but not 
+ actually granting that access; or 
+ 
+ (c) a decision to defer the provision of access to a document; or 
+
+ (d) a decision under section 29 relating to imposition of a charge 
+ or the amount of a charge; or 
+ 
+ (e) a decision under section 30A relating to remission of an 
+ application fee; or 
+ 
+ (f) a decision to grant access to a document only to a qualified 
+ person under subsection 41(3); or 
+ 
+ (g) a decision refusing to amend a record of personal information 
+ in accordance with an application made under section 48 ; or 
+
+ (h) a decision refusing to annotate a record of personal 
+ information in accordance with an application made under 
+ section 48 ; 
+ 
+ the applicant may, by application in writing to the agency 
+ accompanied by any application fee in respect of the application, 
+ request a review of the decision.</sentence>
+<sentence id="s53">
+ 
+
+13 Subsection (1A) provides for time limits on the making of an application for internal review.</sentence>
+<sentence id="s54">14 Section 55 provides relevantly as follows:
+ 
+ (1) Subject to this section, an application may be made to the 
+ Administrative Appeals Tribunal for review of: 
+ 
+ (a) a decision refusing to grant access to a document in 
+ accordance with a request; or 
+ 
+ (aa) a decision granting access to a document but not granting, in 
+ accordance with a request, access to all documents to which 
+ the request relates; or 
+ 
+ (ab) a decision purporting to grant, in accordance with a request, 
+ access to all documents to which the request relates, but not 
+ actually granting that access; or 
+ 
+ (b) a decision to defer the provision of access to a document; or 
+
+ (c) a decision refusing to allow a further period for making an 
+ application under subsection 54(1) for a review of a decision; 
+ or 
+ 
+ (d) a decision under section 29 relating to imposition of a charge 
+ or the amount of a charge; or 
+ 
+ (e) a decision under section 30A relating to remission of an 
+ application fee; or 
+ 
+ (f) a decision to grant access to a document only to a qualified 
+ person under subsection 41(3); or 
+ 
+ (g) a decision refusing to amend a record of personal information 
+ in accordance with an application made under section 48 ; or 
+
+ (h) a decision refusing to annotate a record of personal 
+ information in accordance with an application made under 
+ section 48.</sentence>
+<sentence id="s55">
+ 
+ (2) Subject to subsection (3), where, in relation to a decision referred to in 
+ subsection (1), a person is or has been entitled to apply under section 
+ 54 for a review of the decision, that person is not entitled to make an 
+ application under subsection (1) in relation to that decision, but may 
+ make such an application in respect of the decision made on such a 
+ review.</sentence>
+<sentence id="s56">
+ 
+
+15 Section 56(1) provides:
+ 
+ (1) Subject to this section, where: 
+ 
+ (a) a request has been made to an agency or Minister in 
+ accordance with section 15 ; and 
+ 
+ (b) the period of 30 days, in relation to the request, mentioned in 
+ paragraph 15(5)(b), or that period as extended under 
+ subsection 15(6), has expired since the day on which the 
+ request was received by or on behalf of the agency or Minister; 
+ and 
+ 
+ (c) notice of a decision on the request has not been received by the 
+ applicant; 
+ 
+ the principal officer of the agency or the Minister shall, for the 
+ purpose of enabling an application to be made to the Tribunal under 
+ section 55 , be deemed to have made, on the last day of that period, a 
+ decision refusing to grant access to the document.</sentence>
+<sentence id="s57">
+ 
+
+16 Section 58(1) of the FOI Act provides:
+ 
+ Subject to this section, in proceedings under this Part, the Tribunal has power, in addition to any other power, to review any decision that has been made by an agency or Minister in respect of the request and to decide any matter in relation to the request that, under this Act, could have been or could be decided by an agency or Minister, and any decision of the Tribunal under this section has the same effect as a decision of the agency or Minister.</sentence>
+<sentence id="s58">
+ 
+ The Tribunal's reasons 
+ 
+17 In its reasons for the two decisions, the Tribunal identified five issues with which it was required to deal.</sentence>
+<sentence id="s59">In substance, those five issues are as follows:
+ 
+ &#8226; May the Attorney-General or the Justice Minister transfer the requests even if the applicant does not want them to be transferred?</sentence>
+<sentence id="s60">&#8226; If they are transferred, are the decisions to transfer reviewable and are there inherent decisions to refuse the requests that are reviewable?</sentence>
+<sentence id="s61">&#8226; Did the Attorney-General or the Justice Minister transfer the requests to the Department?</sentence>
+<sentence id="s62">&#8226; Did the Attorney-General and the Justice Minister transfer the requests pursuant to s 16 of the FOI Act ?</sentence>
+<sentence id="s63">&#8226; Is the Attorney-General or the Justice Minister deemed to have made a decision refusing the applicant's requests?</sentence>
+<sentence id="s64">
+
+18 In each case, the Tribunal identified the decisions of which review was sought as decisions that the applicant submitted were deemed to have been made by the Attorney-General and the Justice Minister respectively.</sentence>
+<sentence id="s65">The Tribunal pointed out that s 55(1) of the FOI Act specified the decisions in respect of which a person may apply to the Tribunal.</sentence>
+<sentence id="s66">Those decisions included those made under ss 15 and 30A , but not decisions made under s 16.</sentence>
+<sentence id="s67">19 The Tribunal treated each of what I have identified as a request as two requests, one for access to the documents, and the other for remission of fees.</sentence>
+<sentence id="s68">For the sake of convenience, except where it is necessary to distinguish the request for remission of fees from the request for access to documents, I refer to the request to the Attorney-General as a single request, and to the request to the Justice Minister as a single request.</sentence>
+<sentence id="s69">The Tribunal found that the applicant's request to the Attorney-General was sent by post.</sentence>
+<sentence id="s70">Assuming that it was posted on the day on which it was dated, and using s 160 of the Evidence Act 1995 (Cth) as a guide, the Tribunal reached the conclusion that the request to the Attorney-General would have been received on 8 September 2003.</sentence>
+<sentence id="s71">Similarly, the Tribunal found that the applicant's request to the Justice Minister was sent by post.</sentence>
+<sentence id="s72">It assumed that the letter was posted on the day on which it was dated, 5 September 2003.</sentence>
+<sentence id="s73">Using s 160 of the Evidence Act 1995 (Cth) as a guide, the Tribunal found that the letter would have been received on 11 September 2003.</sentence>
+<sentence id="s74">20 In each case, the Tribunal determined the first issue it had posed for itself in favour of the Attorney-General and the Justice Minister.</sentence>
+<sentence id="s75">It held that each was entitled to transfer the request, even though the applicant had asked specifically that the request not be transferred to the Department.</sentence>
+<sentence id="s76">The Tribunal held that it was apparent from the provisions of s 16 of the FOI Act that no consideration was to be given to the wishes of the person seeking access.</sentence>
+<sentence id="s77">Instead, consideration was to be given to the criteria specified in s 16.</sentence>
+<sentence id="s78">21 In each case, the Tribunal rejected the applicant's argument that there was inherent in a decision to transfer a request under s 16 of the FOI Act a further decision, made under s 24A , that the documents requested did not exist or could not be found.</sentence>
+<sentence id="s79">Focusing on s 16(1) , the relevant subsection of s 16 for the purposes of these cases, the Tribunal held that paras (a) and (b) of that subsection are alternatives.</sentence>
+<sentence id="s80">It was only necessary for an agency to make a decision that a document was not in its possession if the agency chose to transfer a request pursuant to s 16(1)(a).</sentence>
+<sentence id="s81">A decision that the document was not within the agency's possession was not a prerequisite to a decision to transfer under s 16(1)(b).</sentence>
+<sentence id="s82">For two reasons, a decision to transfer under s 16(1)(a) did not necessarily entail a decision under s 24A.</sentence>
+<sentence id="s83">The preliminary step under s 16(1)(a) was not the same decision that must be made under s 24A.</sentence>
+<sentence id="s84">The former required a decision that a document was not in the possession of the agency, but the latter required a decision either that the document was in possession of the agency but could not be found, or that the document did not exist.</sentence>
+<sentence id="s85">Further, the decision to transfer under s 16(1) was not a decision dealing with the substance of the request.</sentence>
+<sentence id="s86">The agency transferring the request was not determining it at all.</sentence>
+<sentence id="s87">Section 16(5) made it clear that the request had not been determined when it was transferred to the other agency and s 16(4) , requiring that the transferring agency must send the relevant document to the other agency "in order to enable the other agency to deal with the request", made it clear that the transferee agency was dealing with the request, that is, determining it.</sentence>
+<sentence id="s88">22 The Tribunal then reached the conclusion that, if either the Attorney-General or the Justice Minister had made a deemed decision under s 56(1) of the FOI Act , the applicant was entitled to apply to the Tribunal for review.</sentence>
+<sentence id="s89">If the request had been transferred to the relevant Department, and it was deemed to have made a decision, the applicant was also entitled to apply to the Tribunal.</sentence>
+<sentence id="s90">In either case, the internal review provisions in s 54 had no application.</sentence>
+<sentence id="s91">In relation to a deemed decision under s 30A(1B) , as a result of an agency's failure to deal with an application for remission of the application fee, the Tribunal held that the provisions of s 54 were not excluded, so that the applicant would have been required to apply for internal review under s 54 , before applying to the Tribunal for review.</sentence>
+<sentence id="s92">23 The Tribunal then dealt with the question whether each of the requests had been transferred.</sentence>
+<sentence id="s93">On the basis of communications between a member of the Attorney-General's staff and an officer of the Department, and despite the lack of any notice to the applicant pursuant to s 16(4) of the FOI Act or any formal acceptance by the Department of the request to transfer, the Tribunal found that the applicant's request to the Attorney-General was transferred to the Department on 2 October 2003.</sentence>
+<sentence id="s94">On the basis of communications between the Chief of Staff of the Justice Minister and an officer of the Department, and despite the absence of notice to the applicant under s 16(4) , the Tribunal found that the applicant's request to the Justice Minister was transferred to the Department on 25 September 2003.</sentence>
+<sentence id="s95">24 The Tribunal then dealt with the crucial question whether the requests were transferred in accordance with s 16 of the FOI Act .</sentence>
+<sentence id="s96">In each case, the Tribunal found that the relevant communications gave no indication that any consideration was given to whether s 16(1)(a) was satisfied fully, or whether s 16(1)(b) was considered.</sentence>
+<sentence id="s97">The only consideration appearing on the face of the email correspondence that took place was that the documents were not in the possession of the Attorney-General and the Justice Minister respectively.</sentence>
+<sentence id="s98">There was no indication that consideration was given to whether the documents were, to the knowledge of the Attorney-General or the Justice Minister, in the possession of the Department to which the requests were transferred.</sentence>
+<sentence id="s99">There was no indication that there was any consideration given to whether the subject-matter of the documents was more closely connected with the functions of the Department than with those of the Attorney-General or the Justice Minister.</sentence>
+<sentence id="s100">There was no evidence of compliance with the requirement of s 16(4) to notify the applicant of the transfer.</sentence>
+<sentence id="s101">25 The Tribunal did not consider that the presumption of regularity was sufficient justification for it to find that either transfer was properly effected under s 16(1)(a).</sentence>
+<sentence id="s102">The Tribunal was not satisfied that, to the knowledge of those in the Attorney-General's office, or the Justice Minister's office, the documents sought in the applicant's request were in the possession of the Department.</sentence>
+<sentence id="s103">The Tribunal found that the question was never asked of the Department, and those in the Attorney-General's office and the Justice Minister's office did not know whether the Department held any of the documents at that time.</sentence>
+<sentence id="s104">26 The Tribunal expressed the view that s 16(1)(b) was a different matter.</sentence>
+<sentence id="s105">It did not raise a question of whether the Attorney-General or the Justice Minister knew the whereabouts of the documents sought by the applicant.</sentence>
+<sentence id="s106">It did not raise a question whether the documents sought actually existed.</sentence>
+<sentence id="s107">Instead, it raised a question of the subject-matter of the documents sought.</sentence>
+<sentence id="s108">Was that subject-matter more closely connected with the functions of another agency than with those of the recipient of the request?</sentence>
+<sentence id="s109">In each case, it was clear on the face of the applicant's request that a number of other agencies could have been involved.</sentence>
+<sentence id="s110">Section 16(1)(b) did not require an agency to identify the agency to whose functions the request was most closely related, although there was some practical merit in doing so in order for a request to be handled most expeditiously.</sentence>
+<sentence id="s111">It only required that the subject-matter of the document be more closely related to the functions of the agency to which the request was transferred than to those of the recipient of the request.</sentence>
+<sentence id="s112">There was no requirement that the agency transferring the request actually have possession of the document.</sentence>
+<sentence id="s113">In each case, the Tribunal was satisfied that the subject-matter of the documents sought was more closely connected with the functions of the Department than with those of the Attorney-General and the Justice Minister respectively.</sentence>
+<sentence id="s114">This meant that, in each case, the request could have been transferred pursuant to s 16(1)(b).</sentence>
+<sentence id="s115">As each request had actually been transferred, the Tribunal was satisfied that the Attorney-General's office and the Justice Minister's office each purported to transfer the relevant request pursuant to s 16(1)(b).</sentence>
+<sentence id="s116">The request for remission of fees was ancillary to the request for access to documents, so the Tribunal found in each case that it was necessarily transferred at the same time.</sentence>
+<sentence id="s117">27 Applying the principles laid down in Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 (1998) 194 CLR 355, the Tribunal found that the failure to notify the applicant of the transfer in accordance with s 16(4) of the FOI Act did not invalidate the transfer.</sentence>
+<sentence id="s118">In the Tribunal's view, Parliament intended the notification requirement to be procedural.</sentence>
+<sentence id="s119">It intended that the person making the request be notified that the request was being handled by another agency.</sentence>
+<sentence id="s120">The requirement was for notification "where a request is transferred".</sentence>
+<sentence id="s121">In the Tribunal's view, this meant that the notification was to occur after the transfer had occurred.</sentence>
+<sentence id="s122">A failure to comply with s 16(4) did not affect the transfer, let alone render it invalid.</sentence>
+<sentence id="s123">28 The Tribunal then dealt with the final question, whether the requests had been deemed to be refused while in the possession of the Attorney-General and the Justice Minister respectively.</sentence>
+<sentence id="s124">In the absence of any extension of time pursuant to s 15(6) of the FOI Act , the 30-day period for a decision on the request to the Attorney-General would have expired on 8 October 2003.</sentence>
+<sentence id="s125">The transfer occurred on 2 October 2003, within that 30-day period.</sentence>
+<sentence id="s126">Similarly, the request was received by the Justice Minister by 11 September 2003 and the date of the transfer was 25 September 2003.</sentence>
+<sentence id="s127">The transfer occurred within 30 days of the Justice Minister's receipt of the request.</sentence>
+<sentence id="s128">In each case, therefore, there was no deemed decision while the requests were in the possession of the recipients of them.</sentence>
+<sentence id="s129">No decision had been made by either recipient.</sentence>
+<sentence id="s130">The Tribunal only had jurisdiction if a decision had been made, or was deemed to have been made, so it did not have jurisdiction in either case.</sentence>
+<sentence id="s131">The issues 
+ 
+29 At the heart of the applicant's case is the proposition that the transfer of a request pursuant to s 16(1)(b) does not absolve the original recipient of the request from the obligation to search its records for documents to which the request relates, and to respond to the request in an appropriate manner in relation to each relevant document in its possession.</sentence>
+<sentence id="s132">In other words, a transfer of the whole of a request, without regard to what documents the transferor has, or may have, that would answer the request is not a valid transfer under s 16(1)(b).</sentence>
+<sentence id="s133">The original recipient of the request retains an obligation to respond with a decision on the request within the time required, and can only transfer so much of the request as relates to identified documents that have a subject-matter more closely connected with the functions of another agency than with those of the recipient of the request.</sentence>
+<sentence id="s134">30 The respondent submitted that the effect of s 16(5) was to make the transferee agency responsible for the request, so that the transferor agency was no longer to be treated as the agency to which the request had been made.</sentence>
+<sentence id="s135">Once the transfer had taken place, the transferor had no further duties or liabilities under the FOI Act in relation to the request, apart from complying with s 16(4).</sentence>
+<sentence id="s136">31 It appears to be common ground between the parties that certain of the Tribunal's conclusions are correct.</sentence>
+<sentence id="s137">A decision under s 16(1) to transfer is not reviewable under s 55(1) of the FOI Act .</sentence>
+<sentence id="s138">A transfer under s 16 does not inherently involve the making of a decision under s 24A of the FOI Act that documents to which the request relates cannot be found or do not exist.</sentence>
+<sentence id="s139">In addition, there was no argument about the correctness or otherwise of the Tribunal's conclusion that a deemed decision under s 30A(1B) , that no part of an application fee is to be remitted, consequent upon the passage of 30 days from the making of the request, was a decision for the purposes of s 54(1)(e) , so that internal review was required as a prerequisite to an application for review by the Tribunal, by virtue of s 55(2).</sentence>
+<sentence id="s140">In addition, although s 16(1) of the FOI Act makes no reference to an application pursuant to s 30A for remission of an application fee, there was no challenge to the correctness of the Tribunal's conclusion that such a request was automatically transferred, as ancillary to the request for access to documents, pursuant to s 16(1).</sentence>
+<sentence id="s141">The proper construction of section 16(1)(b) 
+ 
+32 There appears to be no authority on the central question in relation to the construction of s 16(1)(b).</sentence>
+<sentence id="s142">Nor does the Explanatory Memorandum in relation to the Bill that led to the passage of s 16 assist.</sentence>
+<sentence id="s143">As is commonly the case, the Explanatory Memorandum simply echoes the words of the relevant statutory provisions.</sentence>
+<sentence id="s144">It is therefore necessary to determine the proper construction of s 16(1)(b) by ascertaining the intention of the legislature by reference to the terms of the provision itself, the context provided by other provisions of the FOI Act and the underlying purpose or object of the legislation.</sentence>
+<sentence id="s145">33 In its own terms, s 16(1)(b) authorises a transfer of a request for access to a document only where the subject-matter of "the document" is more closely connected with the functions of an agency other than the recipient of the request.</sentence>
+<sentence id="s146">It is important that regard is not to be had to the subject-matter of the request, but to the subject-matter of "the document".</sentence>
+<sentence id="s147">In some cases, there will be no difference between the subject-matter of a particular document and the subject-matter of the request for it.</sentence>
+<sentence id="s148">A person may invoke the right given by s 15(1) to make a request for access to a document in the knowledge that a specific document exists, and using terms in the request that are apt to describe that specific document.</sentence>
+<sentence id="s149">For example, the document may be described by reference to its title, its date, the parties to it (in the case of correspondence) or its contents.</sentence>
+<sentence id="s150">More commonly, however, a person seeking to invoke the right to request access to a document will not know precisely what documents exist.</sentence>
+<sentence id="s151">The request will be in terms of a description of the kinds of documents sought by the person making the request.</sentence>
+<sentence id="s152">In the first type of case, in which a specific document is sought, it would be possible for the recipient to judge from the terms of the request whether the document sought was more closely related to the functions of another agency.</sentence>
+<sentence id="s153">From the description in the request, the recipient could reach the necessary conclusion to enable a transfer to be made.</sentence>
+<sentence id="s154">By contrast, where documents are sought by general description, it may be impossible to make a decision about the subject-matter of each such document without ascertaining whether the recipient of the request holds any such documents and, if so, considering the subject-matter of each of them.</sentence>
+<sentence id="s155">This consideration points to the proposition that, at least in some cases, a request cannot be transferred pursuant to s 16(1)(b) without the agency receiving it ascertaining whether it has documents to which access is sought by means of the request.</sentence>
+<sentence id="s156">34 Overall, s 16 of the FOI Act applies to transfers in four situations.</sentence>
+<sentence id="s157">The situations that are the subject of subss (2) and (3) give rise to a duty to transfer.</sentence>
+<sentence id="s158">The word "shall" is used.</sentence>
+<sentence id="s159">By contrast, in relation to the two conditions of transfer in subs (1), the word "may" is used, connoting that the exercise of discretion is involved.</sentence>
+<sentence id="s160">Each of the four situations in which a transfer is required or authorised focuses on the word "document".</sentence>
+<sentence id="s161">By s 16(1)(a) , the power to transfer may be exercised only where the document is not in the possession of the recipient agency but, to the knowledge of the recipient agency, is in the possession of another agency.</sentence>
+<sentence id="s162">The recipient of the request could not exercise this power to transfer without knowing that it did not have the document sought in its possession.</sentence>
+<sentence id="s163">It could only know the answer to that question if it had taken steps to ascertain what documents it did have answering the description in the request.</sentence>
+<sentence id="s164">Paragraphs (a) and (b) of s 16(1) appear to be alternatives.</sentence>
+<sentence id="s165">Between them, they exhaust the ambit of the discretionary power to transfer a request.</sentence>
+<sentence id="s166">Each of those paragraphs contemplates a specific document the subject of a request.</sentence>
+<sentence id="s167">Which one of the paragraphs will apply depends on whether the document is or is not in the possession of the recipient of the request.</sentence>
+<sentence id="s168">Before a request can be transferred pursuant to s 16(1) , it must be the case that the document is not in the possession of the recipient of the request, in which case para (a) applies, or it is in the possession of the recipient of the request and its subject-matter is more closely connected with the functions of another agency, in which case para (b) applies.</sentence>
+<sentence id="s169">The question whether a document is in an agency's possession can only be answered after the agency has made any necessary search for that document, or a document answering its description.</sentence>
+<sentence id="s170">Further, each of the duties to transfer specified in subss (2) and (3) could only be carried out if the recipient of the request was aware of what documents it had answering the description in a request and the criteria in those subsections respectively.</sentence>
+<sentence id="s171">This is a powerful reason for concluding that the process of transferring under s 16 is one that can only be considered after the recipient of the request has become aware of the documents it has in its possession answering the description in the request, by making a search of its own records.</sentence>
+<sentence id="s172">In this context, particularly because it refers to a "document", rather than to a request, as do s 16(1)(a) , s 16(2) and s 16(3) , there is no reason to suppose that s 16(1)(b) is to be construed any differently.</sentence>
+<sentence id="s173">35 The context of the remaining provisions of s 16 of the FOI Act tends to confirm that a transfer can only be put into effect after an agency has conducted a search to ascertain whether or not it has the document sought.</sentence>
+<sentence id="s174">Section 16(3A) provides that a request for more than one document (which would include a request for documents by description of categories) is to be treated, for transfer purposes, as a request for each of those documents separately.</sentence>
+<sentence id="s175">In conjunction with s 16(1)(b) , this has the effect that the request can only be transferred to the extent that it relates to each specific document of which it can be said that the subject-matter is more closely connected with the functions of another agency.</sentence>
+<sentence id="s176">Section 16(3A) makes it clear that, where the request describes a category or categories of documents to which access is sought, s 16(1)(b) provides no authority for the transfer of the whole of the request.</sentence>
+<sentence id="s177">The specific subject-matter of each document answering the description in the request must be considered.</sentence>
+<sentence id="s178">It is unlikely that this could be done without first ascertaining whether the agency receiving the request has documents answering the description.</sentence>
+<sentence id="s179">Similarly, s 16(4) requires an agency transferring a request to another agency in any of the circumstances outlined in s 16 to send "the document" the subject of the request to the other agency "if it is necessary to do so in order to enable the other agency to deal with the request".</sentence>
+<sentence id="s180">Plainly, without having ascertained whether it has such a document, the transferor agency would not be in a position to comply with this requirement.</sentence>
+<sentence id="s181">36 The broader context of the FOI Act is also important.</sentence>
+<sentence id="s182">It is true that there is not to be found in the provisions of the FOI Act any express imposition of a duty on the recipient of a request for access to documents to search its records to ascertain whether it has documents answering the description in the request.</sentence>
+<sentence id="s183">Such a duty is implicit, however.</sentence>
+<sentence id="s184">Section 11 provides a right to obtain access to documents.</sentence>
+<sentence id="s185">Provided that a request made pursuant to s 15(1) complies with the basic requirements of s 15(2) , s 15(4) imposes on the recipient of the request a duty to take reasonable steps to assist the person making the request to direct it to the appropriate agency, if the request "should have been directed" to another agency or Minister.</sentence>
+<sentence id="s186">It is difficult to see how that obligation could be carried out unless the recipient of the request first established that it had no documents answering the description in the request.</sentence>
+<sentence id="s187">Section 18 imposes a positive duty on the recipient of the request to give the person making the request access to the document.</sentence>
+<sentence id="s188">Only under limited circumstances, specified in s 21(1) , can such access be deferred.</sentence>
+<sentence id="s189">The circumstances in which a request may be refused are also very limited.</sentence>
+<sentence id="s190">Section 24 deals with requests that are so onerous that they would substantially and unreasonably divert the resources of an agency from its other operations, or interfere with the performance of a Minister's functions.</sentence>
+<sentence id="s191">In those circumstances, s 24(1) provides that the request may be refused "without having caused the processing of the request to have been undertaken".</sentence>
+<sentence id="s192">Section 24(2)(a) specifically allows an agency or Minister to have regard to the resources that would have been used in "identifying, locating or collating the documents within the filing system of the agency, or the office of the Minister", in determining whether to refuse to grant access to documents under s 24(1).</sentence>
+<sentence id="s193">These provisions suggest that, where a request is not so onerous, the recipient of it is obliged to cause the processing of it to be undertaken, using whatever resources are necessary to identify, locate and collate the documents in the filing system of the agency or the office of the Minister concerned.</sentence>
+<sentence id="s194">A refusal under s 24A is only possible if all reasonable steps have been taken to find the documents and the recipient of the request is satisfied either that the document cannot be found or that it does not exist.</sentence>
+<sentence id="s195">A refusal under s 24A is therefore impossible without a search.</sentence>
+<sentence id="s196">Finally, there is the specific requirement in s 15(5)(b) that a decision be given on the request within 30 days, unless the time is extended under s 15(6).</sentence>
+<sentence id="s197">It is hard to see how a decision can be given about whether to grant or refuse access to documents requested (aside from onerous requests of the kinds referred to in s 24(1)) , unless the recipient of the request took steps to find out what documents it had and to consider whether they are exempt under various provisions of the FOI Act and, if not, whether deletion of exempt matter or irrelevant material under s 22 is necessary.</sentence>
+<sentence id="s198">In this context, it is unlikely to have been the intention of Parliament that the power to transfer a request under s 16(1)(b) , alone among all of the obligations that fall on the recipient of a request, was intended to be exercisable without any step being taken to ascertain whether the recipient of the document has documents answering the description in the request.</sentence>
+<sentence id="s199">37 If the terms of s 16(1)(b) and its context do not lead to the conclusion that s 16(1)(b) should be construed as I have suggested, then reference to the legislative purpose of the FOI Act makes that conclusion abundantly clear.</sentence>
+<sentence id="s200">The purpose of the FOI Act is explicit in s 3(1).</sentence>
+<sentence id="s201">It is "to extend as far as possible the right of the Australian community to access to information in the possession of the Government of the Commonwealth by", among other things, creating a general right of access to information in documentary form in the possession of Ministers and other agencies, "limited only by exceptions and exemptions necessary for the protection of essential public interests and the private and business affairs of persons in respect of whom information is collected and held".</sentence>
+<sentence id="s202">Not only is this purpose so expressed, but Parliament in s 3(2) of the FOI Act has expressed its intention that the provisions of the FOI Act are to be interpreted so as to further that object.</sentence>
+<sentence id="s203">If s 16(1)(b) were to be construed as permitting the recipient of a request to transfer that request without first ascertaining whether it had documents answering the description in the request, there would be a considerable gap in the right of access to information given by the FOI Act .</sentence>
+<sentence id="s204">To the extent to which s 16(1)(b) may be regarded as ambiguous, it should be construed in accordance with the legislative purpose expressed in s 3.</sentence>
+<sentence id="s205">The effect of s 16(1)(b) in the present case 
+ 
+38 This reasoning leads to the conclusion that s 16(1)(b) did not permit the Attorney-General and the Justice Minister to transfer the respective requests made to them by the applicant to the Department without first taking whatever reasonable steps were necessary to ascertain whether they themselves had documents answering the description in the respective requests.</sentence>
+<sentence id="s206">If they did have such documents, it would have been necessary for them to consider the subject-matter of each, to see whether it met the criterion of being more closely connected with the functions of another agency than with those of the Attorney-General or the Justice Minister as the case may be.</sentence>
+<sentence id="s207">Only in respect of specific documents, and only if that criterion was met in relation to those documents, could the transfer have been effected, if the Department agreed with the transfer.</sentence>
+<sentence id="s208">The applicant had a right to access to whatever documents were in the possession of the Attorney-General and the Justice Minister, to which her requests applied.</sentence>
+<sentence id="s209">As is shown by the fact that she requested that each request not be transferred, she sought to exercise that right.</sentence>
+<sentence id="s210">39 The Tribunal was therefore in error when it said in its reasons for decision in each case that s 16(1)(b) does not raise a question of whether the Attorney-General or the Justice Minister knew the whereabouts of the documents sought by the applicant, and that it did not raise a question whether the documents sought actually existed.</sentence>
+<sentence id="s211">The Tribunal should have held that s 16(1)(b) could only authorise the transfer of a request so far as it related to a specific document, actually existing and with a subject-matter more closely related to the functions of the appropriate department than to the functions of the Attorney-General or the Justice Minister, as the case may be.</sentence>
+<sentence id="s212">40 The Tribunal accepted in each case that there were no documents in the possession of the Attorney-General or the Justice Minister.</sentence>
+<sentence id="s213">In the case of the Attorney-General, this finding was based on an ambiguous email from an adviser to the Attorney-General to the officer of the Department responsible for compliance with the FOI Act .</sentence>
+<sentence id="s214">The email began by saying, "We don't think we have anything here.</sentence>
+<sentence id="s215">" It went on immediately to say "If anything turns up in the packing process I'll let you know.</sentence>
+<sentence id="s216">" The Tribunal took judicial notice of the fact that the holder of the office of Attorney-General changed on 7 October 2003, and expressed the view that it was understandable that thoughts were on packing rather than on the niceties of s 16 of the FOI Act .</sentence>
+<sentence id="s217">In the light of the ambiguity of the email, it may not have been altogether clear that the Attorney-General had no documents that would answer the descriptions in the request.</sentence>
+<sentence id="s218">If the possibility existed that some such documents might turn up in the packing process, then plainly a sufficient search to exhaust that possibility had not been undertaken.</sentence>
+<sentence id="s219">Similarly, in the case of the Justice Minister, the basis of the Tribunal's finding that there were no relevant documents in existence was an email saying, "the office has no record of any Ministerial correspondence to or from Mrs Bienstein".</sentence>
+<sentence id="s220">Whether the mere reference to records of correspondence would be sufficient to exhaust the possibility that the Justice Minister had no documents answering the descriptions in the applicant's request is unclear.</sentence>
+<sentence id="s221">Nevertheless, this is an appeal limited to a question of law, and I must accept the Tribunal's findings that neither the Attorney-General nor the Justice Minister for Justice had any documents to which the applicant might have been granted access.</sentence>
+<sentence id="s222">That being the case, neither the Attorney-General nor the Justice Minister could consider the subject-matter of any such document.</sentence>
+<sentence id="s223">If neither could consider the subject-matter of any such document, neither could determine the question whether that subject-matter was more closely related to the functions of the Department than to the functions of the Attorney-General or the Justice Minister respectively.</sentence>
+<sentence id="s224">In the absence of reference to any specific document, and its subject-matter, the decision necessary to trigger the exercise of the power to transfer given by s 16(1)(b) could not be made.</sentence>
+<sentence id="s225">41 The Tribunal was therefore in error in deciding that each of the transfers could have been made properly pursuant to s 16(1)(b).</sentence>
+<sentence id="s226">If neither transfer could have been made, it follows that the Attorney-General and the Justice Minister remained in possession of their respective requests and responsible for dealing with them.</sentence>
+<sentence id="s227">It is not express, but is certainly implicit in the reasons for decision of the Tribunal in each case that the Attorney-General and the Justice Minister did not make a decision on the request within the 30-day period specified in s 15(5) of the FOI Act .</sentence>
+<sentence id="s228">There was no extension of time pursuant to s 15(6).</sentence>
+<sentence id="s229">In the absence of a decision, there was a deemed decision under s 56(1) of the FOI Act , which entitled the applicant to apply to the Tribunal for review, pursuant to s 55(1).</sentence>
+<sentence id="s230">No application for internal review was necessary under s 54 as a prerequisite to an application to the Tribunal.</sentence>
+<sentence id="s231">Accordingly, the Tribunal did have jurisdiction in relation to each application for review.</sentence>
+<sentence id="s232">42 As to the requests for remission of application fees, the Tribunal regarded those requests as ancillary to the requests for access to documents and as transferred along with them.</sentence>
+<sentence id="s233">Given that no valid transfer of either request for access to documents occurred, the requests for the remission of application fees were not transferred by this means either.</sentence>
+<sentence id="s234">There is no other indication in the reasons for decision of the Tribunal that those requests were transferred in any other manner.</sentence>
+<sentence id="s235">Accordingly, they remained with the Attorney-General and the Justice Minister respectively.</sentence>
+<sentence id="s236">At the end of the 30-day period specified in s 30A(1B) of the FOI Act , there was a deemed decision that no part of the application fee was to be remitted.</sentence>
+<sentence id="s237">This also gave the applicant a right to apply to the Tribunal for review unless, as the Tribunal held, it was necessary for her to apply under s 54(1)(e) for an internal review, as a prerequisite to applying for review by the Tribunal.</sentence>
+<sentence id="s238">Neither side addressed any argument to this question on the hearing of the appeal, so I prefer to say nothing about it.</sentence>
+<sentence id="s239">Conclusion 
+ 
+43 It follows from what I have said that the appeal must be allowed.</sentence>
+<sentence id="s240">Each of the decisions of the Tribunal must be set aside, and the case must be remitted to the Tribunal to be heard and decided again according to law.</sentence>
+<sentence id="s241">Although the applicant is not represented, she is entitled to costs in respect of out-of-pocket expenses that she has incurred in the preparation and presentation of her case, if an order for costs is made in her favour.</sentence>
+<sentence id="s242">There appears to be no reason why such an order should not be made, in accordance with the normal principle that costs follow the event.</sentence>
+<sentence id="s243">I certify that the preceding forty-three (43) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Gray.</sentence>
+<sentence id="s244">Associate:
+
+Dated: 8 August 2007
+
+
+ Counsel for the applicant: The applicant appeared in person 
+ 
+ Counsel for the respondent: M Campbell 
+ 
+ Solicitor for the respondent: Australian Government Solicitor 
+ 
+ Date of Hearing: 15 February 2006 
+ 
+ Date of Judgment: 8 August 2007 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1174.html 
+ 
+ </sentence>
+</sentences>
+</case>

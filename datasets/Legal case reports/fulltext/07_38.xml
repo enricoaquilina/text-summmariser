@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<case>
+<name>Visible Results Properties Inc v Sushi Train (Australia) Pty Limited (Corrigendum dated 11 April 2007) [2007] FCA 38 (7 February 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/38.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">patents</catchphrase>
+<catchphrase "id=c1">patent for loyalty card system and method</catchphrase>
+<catchphrase "id=c2">no infringement</catchphrase>
+<catchphrase "id=c3">asserted lack of novelty not made out</catchphrase>
+<catchphrase "id=c4">intellectual property</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ Introduction 
+ 
+1 The applicants sue the respondent for infringement of a patent said to have occurred in the use of loyalty cards in the respondent's business of running a restaurant chain.</sentence>
+<sentence id="s1">2 From July 2005, the respondent has changed its business operations sufficiently to remove any allegation of infringement.</sentence>
+<sentence id="s2">Thus the claim is for a closed period between the end of 2000 and July 2005.</sentence>
+<sentence id="s3">3 The patent is both for a system and a method and is a combination patent.</sentence>
+<sentence id="s4">4 The issues in the case are:
+ 
+(a) whether the respondent has infringed the patent in suit, 
+ 
+(b) whether the patent is novel, by reference to one published asserted anticipation, being a European patent, and 
+ 
+(c) various issues concerning title to the patent and the licence arrangements.</sentence>
+<sentence id="s5">5 Because of the views to which I have come that there was no infringement of the patent and that the patent is not bad for want of novelty, it is unnecessary to deal with the issues in [4(c)] above.</sentence>
+<sentence id="s6">The patent in suit 
+ 
+6 The priority date of the patent is 27 December 1996.</sentence>
+<sentence id="s7">7 The essential principles of construction were not in dispute; see generally Sachtler GmbH &amp; Co KG v Re Miller Pty Ltd (2005) 65 IPR 605 at [43]; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230 at 236 [39] and Flexible Steel Lacing Company v Beltreco (2000) 49 IPR 331 at 347-350 [70]-[81].</sentence>
+<sentence id="s8">8 The field of the invention was shortly stated as follows:
+ 
+ "The present invention relates to an affordable, yet effective, system and apparatus for determining, upon request, an appropriate personalized and individually-targeted response for a particular user based upon current user-specific data with real-time delivery of that response to the user in non-volatile, re-writable visual format.</sentence>
+<sentence id="s9">" 
+ 
+
+9 The prior art described in the specification concerned various ways to promote businesses and to create a degree of loyalty with customers.</sentence>
+<sentence id="s10">These included coupons, targeted promotions and product recommendations using database information connected to a store which may be being visited, smart cards which can store information, portable magnetic cards, and magnetic strip cards with a visual print region.</sentence>
+<sentence id="s11">The specification claimed a relevant advance in the personalised responses to the user of a system or method in accordance with the patent.</sentence>
+<sentence id="s12">10 The organisation of the essential integers of the subject claims were agreed between the two expert witnesses, Dr Roger Clarke (called by the applicants) and Mr Doron Ben-Meir (called by the respondent).</sentence>
+<sentence id="s13">There is a slight variation in language in the following agreed expression of the integers from the language of the claims in the patent but only such as to aid comprehension.</sentence>
+<sentence id="s14">The main claims are claim 1 (system) and claim 13 (method).</sentence>
+<sentence id="s15">Most attention was paid to them and I will deal with them first.</sentence>
+<sentence id="s16">11 The agreed integers of claim 1 were as follows:
+ 
+ "Claim 1 of the patent has all of the following essential integers or features:- 
+ 
+ (a) 
+ 
+ (i) a system for determining a promotional program selected response for a particular user, 
+ (ii) the selected response being based upon continuously updated current user data, 
+ (iii) with real time delivery of said response to the user; 
+ 
+ 
+ 
+ (b) the system comprises at least one printer/reader/writer terminal and at least one user card associated with the user for use in said terminal; 
+ 
+ 
+ 
+ (c) the user card has: 
+ (i) a region for receiving and storing machine readable code containing current user data comprising user personal data and user transaction history data; and 
+ (ii) a thermo-reversible region for receiving and displaying information to the user in a non-volatile, erasable, re-writable, visual format; 
+ 
+ 
+ (d) the terminal has: 
+ 
+ (i) a means for reading machine readable code stored on said user card and means for writing and re-writing machine-readable code to said user card; 
+ (ii) a means for writing, erasing and re-writing a response to the user upon the user card in the thermo-reversible region; 
+ (iii) a mans for entry of current transaction data; 
+ (iv) a set of terminal-stored promotional program rules; and 
+ (v) an integrated means for storing and processing data, operating to apply the promotional program rules to the user personal data, the user transaction history data, the entered current transaction data and the promotional program data to determine the promotional program selected response comprising a user message response and an updated current user data resource with the system delivering the promotional program selected response to the user in a non-volatile, erasable, graphical, or textual human-readable format and updates [sic: updating] the current user data to allow a subsequent promotional program selected response to incorporate said current transaction data in providing a subsequent response.</sentence>
+<sentence id="s17">" 
+ 
+
+12 The agreed integers of claim 13 were as follows:
+ 
+ "Claim 13 of the Patent has all the following essential integers or features, namely a method for determining and providing a computed promotional response for a particular user comprising the steps of:- 
+ 
+ 
+ (a) providing a set of response-determining promotional software program rules and promotional program data in memory on a printer/reader/writer terminal; 
+ 
+ (b) providing a user card to the user; 
+ 
+ (c) storing current user data in machine readable format on the user card with the current user data comprising user personal data and user purchasing history data; 
+ 
+ (d) inserting the user card into the terminal to initiate determination of the computed promotional program response; 
+ 
+ 
+ 
+ (e) the terminal reading the current user data stored on the card; 
+ 
+ (f) entering current transaction data into the terminal; 
+ 
+ (g) calculating the computed promotional response by the terminal, said calculating comprising the application of the promotional program rules to the user personal data, the user transaction history data, the current transaction data and the promotional program data to determine the computed response wherein said computed response comprises an updated current user data response and user message response; 
+ 
+ (h) recording a human readable output based on the computed user message response on the user card in the non-volatile, erasable/rewritable, visual format of a thermo-reversible region; and 
+ 
+ (i) updating the user card with the second current user data in readable format, such that the user card is updated to reflect continuously current user data, and a personalized human readable message is delivered to the user in real time such response taking into account the program rules, the program data, the current transaction data and the current user data.</sentence>
+<sentence id="s18">" 
+ 
+ 
+
+13 In order to understand the debate about infringement and the issue of construction thrown up thereby, it is necessary to appreciate the loyalty card system as it was operated by the respondent at the relevant time.</sentence>
+<sentence id="s19">14 The system consisted of a membership card and a terminal located in a Sushi Train restaurant.</sentence>
+<sentence id="s20">The system operated to award points for each purchase made by a customer, at a rate of one point for every two whole dollars spent.</sentence>
+<sentence id="s21">Those points could be accumulated and redeemed for rewards in the form of sushi or gifts of an advertised kind.</sentence>
+<sentence id="s22">The customer would initially sign up for membership, and would receive a membership card with a membership number.</sentence>
+<sentence id="s23">That membership card had a silver-coloured patch of metallic appearance approximately square in shape, covering less than half of the surface area of one side of the card.</sentence>
+<sentence id="s24">On the other side, seven membership conditions were written width-wise.</sentence>
+<sentence id="s25">The silver patch was equipped to display the membership number, date of joining, number of visits, date of last visit, number of points for this last visit and current total number of points earned.</sentence>
+<sentence id="s26">When the member made a purchase at a Sushi Train restaurant, he or she presented the card, whereupon it would be inserted into a slot in the electronic terminal located in the restaurant.</sentence>
+<sentence id="s27">While placed in the electronic terminal, the card would be updated with the points earned in that transaction.</sentence>
+<sentence id="s28">The previously displayed information would be erased, and the silver patch would then display (along with the membership number and date of joining) the updated version of the number of visits, date of last visit, the points earned on this visit and the current total number of points earned.</sentence>
+<sentence id="s29">The card would be ejected and returned to the customer.</sentence>
+<sentence id="s30">If points were redeemed, whether for sushi or for advertised gifts, the points would be adjusted by use of the electronic terminal.</sentence>
+<sentence id="s31">15 The conditions on the member's card included the following:
+ 
+ "This card is valid to a holder of the member's card, and only one card is issued per member.</sentence>
+<sentence id="s32">" 
+ 
+
+The phrase "a holder" was relied on by the respondent in support of a submission that the card was not restricted to use by a member.</sentence>
+<sentence id="s33">The evidence revealed, however, that the terms of membership contained in the membership application form (though not recorded on the portable card) included the following:
+ 
+ "The card is not transferable and only one card is issued per member.</sentence>
+<sentence id="s34">" 
+ 
+
+16 Though the member's name did not appear on the card, the membership number given to the member and placed on the card was unique in the sense that there was only one such number given to any member --- a prefix by reference to the store and a number.</sentence>
+<sentence id="s35">Thus, the membership number could be linked to a particular member by reference to records kept by the business; but the member's name was not stored on the electronic terminal in the restaurant and played no part in the reading, erasing and writing in the electronic terminal at each transaction.</sentence>
+<sentence id="s36">Infringement 
+ 
+17 There were three issues arising from claim 1 of the patent.</sentence>
+<sentence id="s37">They also applied to claim 13.</sentence>
+<sentence id="s38">The respondent said that the Sushi Train system did not involve a promotional program selected response; that in the Sushi Train system there was no user personal data on the card; and that in the Sushi Train system the promotional program rules were not applied to any user personal data (even if such were on the card).</sentence>
+<sentence id="s39">No promotional program selected response 
+ 
+18 The first dispute is whether integers (a)(i) and (ii) of claim 1 set out at [11] above were satisfied.</sentence>
+<sentence id="s40">It was agreed that integer (a)(iii) was satisfied.</sentence>
+<sentence id="s41">The dispute about integers (a)(i) and (ii) concerned the phrase "determining a promotional program selected response" and within that phrase, the words "determining" and "selected".</sentence>
+<sentence id="s42">19 The applicants submitted that the word "determining" was being used to say what the whole system does, which is to determine or bring about a holistic concatenation being a promotional programs selected response.</sentence>
+<sentence id="s43">If there is a "promotional program", that is a body of rules which upon application to relevant data deliver or bring about (select) a response, there is such a system.</sentence>
+<sentence id="s44">20 The respondent gave emphasis to the word "selected" and by reference to aspects of the specification said that there must be selection, that is choice, from different promotional programs and then using that response generating the appropriate response.</sentence>
+<sentence id="s45">21 I reject this construction put forward by the respondent.</sentence>
+<sentence id="s46">Though the phrase is clumsy, and though there are parts of the specification which speak of the customer selecting, I think it is clear that the specification and the claims contemplate the possibility of only one program.</sentence>
+<sentence id="s47">The offering of alternative programs was only an option.</sentence>
+<sentence id="s48">22 The respondent further argued that even if the promotional program selected the response, that did not occur here because there was no response of the type described in the specification; nor was there any "selection".</sentence>
+<sentence id="s49">I disagree.</sentence>
+<sentence id="s50">The card, the printer/reader/writer, the data on the card and the reading, erasing and writing of machine and human readable information determines a "promotional program selected response" as it calculates by a rule driven algorithm how many points the member accumulates by reason of his or her most recent purchase and in real time delivers back to him or her a message addressed by reference to the user number dealing with the date of joining, the number of visits, the date of current visit, how many points on this visit and the total accumulated points.</sentence>
+<sentence id="s51">This is a response in my view that can be described as a "promotional program selected response.</sentence>
+<sentence id="s52">"
+ 
+23 Thus, in my view integers (a)(i) and (ii) were satisfied.</sentence>
+<sentence id="s53">No current user personal data on the respondent's card 
+ 
+24 The next area of debate arises at integer (c)(i).</sentence>
+<sentence id="s54">(It was agreed that integer (b) was satisfied.</sentence>
+<sentence id="s55">) The respondent submitted that the data on the Sushi Train card (membership number, date of joining, date of visit, points earned and points accumulated) were not, or did not contain, user personal data.</sentence>
+<sentence id="s56">25 The respondent emphasised aspects of the specification (in particular, page 18 lines 18-21) in support of the submission that, as a minimum, personal information required one or more of name, address, birth date, marital status, number and ages of children and basic product preferences.</sentence>
+<sentence id="s57">I reject this submission.</sentence>
+<sentence id="s58">I do not think that this part of the specification can be seen as providing a dictionary.</sentence>
+<sentence id="s59">Importantly, the specification itself (page 19 lines 2-4) contemplates the card being used for carrying information about the user being only the user identification number and current transaction information.</sentence>
+<sentence id="s60">26 In my view, reading the claims and the specification as a whole, a sensible meaning to ascribe to the phrase "user personal data" is data specific to a particular user or that can be associated with a particular individual.</sentence>
+<sentence id="s61">Here the membership number which can be linked to the member and the date of joining (which may not be a date on which any transaction took place) can be seen as such.</sentence>
+<sentence id="s62">I do not see that any element of apparent sensitivity or confidentiality is imported in to the phrase.</sentence>
+<sentence id="s63">27 It is, of course, necessary that the "user personal data" be part of the current user data upon which the promotional program rules operate.</sentence>
+<sentence id="s64">But the specification itself makes clear that the "information about the user" carried by the card, may be limited to user identification number and transaction information.</sentence>
+<sentence id="s65">28 The terms of the issue of the card in the application form, that it is not transferable, and the fact that it relates to a nominated person as the member make the membership number and the date of joining information or data about a person (the member) which can be described as personal and non-transactional.</sentence>
+<sentence id="s66">29 In my view, there is user personal data on the card: the membership number and the date of joining.</sentence>
+<sentence id="s67">Thus, integer (c)(i) was satisfied.</sentence>
+<sentence id="s68">30 It was agreed that integers (c)(ii) and (d)(i), (ii), (iii) and (iv) of claim 1 were satisfied.</sentence>
+<sentence id="s69">Whether the promotional program rules were applied to the user personal data 
+ 
+31 The next issue arose in integer (d)(v) of claim 1.</sentence>
+<sentence id="s70">The respondent submitted that even if (as I have found) the membership number and date of joining were user personal data, the promotional program rules were not applied to the user personal data.</sentence>
+<sentence id="s71">This was so because the algorithm worked only upon the transaction data --- the algorithm awarding 1 point for every $2.</sentence>
+<sentence id="s72">32 It is clear that no aspect of the membership number or date of first joining played any part in the operation of the algorithm.</sentence>
+<sentence id="s73">It is clear that the membership number and date of first joining were not used as operating inputs in the promotional program rules.</sentence>
+<sentence id="s74">The claims and the specification as a whole distinguish between user personal data and transaction data.</sentence>
+<sentence id="s75">No argument was put by the applicants that the user personal data was anything other than the membership number and date of joining.</sentence>
+<sentence id="s76">33 The applicants submitted the following in [28] of their written submissions:
+ 
+ "The related issue of whether the user-personal data is something to which the promotional program rules are "applied" (along with user transaction history data, entered current transaction data and promotional program data) is, in the applicants' submission, answered in a straightforward manner.</sentence>
+<sentence id="s77">The application of the promotional program rules, that is to say here, one point for every two-hundred cents spent, discarding any surplus expenditure between one and one hundred and ninety-nine cents, is a calculation that is entirely dependent upon being anchored to the particular member number inscribed on the card, being a member number uniquely identified with a person who filled in a form and engaged in their first transaction (which may have been merely the joining and payment of $3: ...)" 
+ 
+
+34 This is a more difficult issue.</sentence>
+<sentence id="s78">It seems to me that there is considerable force in the respondent's submission that the promotional program rules did not apply to the user personal data if such data was not relevant to the operation of the algorithm therein to determine the promotional program selected response.</sentence>
+<sentence id="s79">35 The issue is also of particular importance to the question of the anticipation of the claims by the patent the subject of the asserted anticipation, the European Patent No 0689160A1 with a priority date of 19 October 1993, (the "Euro-patent") to which I will come.</sentence>
+<sentence id="s80">Mr Ben-Meir in his oral evidence said that the teaching of the Euro-patent was that there was an application of user personal data by the putting of the user's name on the card.</sentence>
+<sentence id="s81">In this context of the teaching of the Euro-patent, Mr Ben-Meir said that it was not necessary that the promotional program rules use the personal data as a relevant affecting criterion in the selection of a response.</sentence>
+<sentence id="s82">Looking at the matter in this way, the application issue collapses in on the "user personal data issue" discussed earlier.</sentence>
+<sentence id="s83">Essentially this was Dr Clarke's view also: If the membership number and date of joining are user personal data (which in my view they are) then for the purposes of integer (d)(v) there are means for storing and processing data operating to apply the algorithm reducing money to points to all the relevant data (though only the transaction data causes changes in the response as written on the card) to determine the promotional program selected response comprising a user message response in which the personal data is written on the card (having been read and erased).</sentence>
+<sentence id="s84">36 The question is one of construction of the claims.</sentence>
+<sentence id="s85">The relevant part of claim 1 (integer (d)(v)) states that the terminal comprises, amongst other things: 
+ 
+ "integrated means for storing and processing data, said means for processing data operating to apply said promotional program rules to said user personal data, said user transaction history data, said entered current transaction data, and promotional program data 
+ 
+ to determine said promotional program selected response comprising a user message response and an updated current user data resource, said system delivering said promotional program selected response to said user in a non-volatile, erasable, graphical, or textual human-readable format and updates said current user data to allow a subsequent promotional program selected response to incorporate said current transaction data in providing a subsequent response.</sentence>
+<sentence id="s86">" 
+ 
+
+37 I agree with the submission of the respondent (and I do not understand Dr Clarke and Mr Ben-Meir to disagree about this) that, in particular in the light of the consistory clause on pages 8A and 8B of the specification, one reads on from the phrase "promotional program data" to the words "to determine said..." and what follows.</sentence>
+<sentence id="s87">Thus, there is no need to read in any word or words such as "means" before the words "to determine said...".</sentence>
+<sentence id="s88">(This was the approach taken in the formulation of the expression of the integers at [11]-[12] above.</sentence>
+<sentence id="s89">)
+ 
+38 The claim requires that the integrated means for processing data operate to apply the promotional program rules (here, the algorithm 1 point for 200 cents, discarding any balance) to the data identified.</sentence>
+<sentence id="s90">Dr Clarke said that the promotional program rules need only apply to some of the data identified --- user transaction history data, entered current transaction data and promotional program data.</sentence>
+<sentence id="s91">I do not read the claim thus.</sentence>
+<sentence id="s92">I read it to require the rules to apply to all the data to determine the response.</sentence>
+<sentence id="s93">Thus, the determination of what the response will be depends upon the application of the rules to, amongst other data, the user personal data.</sentence>
+<sentence id="s94">The notion used by the applicants in their submissions of "anchoring" the calculation of the algorithm and its updating of the transaction data to the unique member number cannot overcome the fact that the promotional program rules do not have any application to the user personal data.</sentence>
+<sentence id="s95">The software (the integrated means for processing data) reads what is on the card, stores it, rewrites the data that does not change (the surface having been erased) and writes the changes that have been brought about by the application of the algorithm to the transaction data.</sentence>
+<sentence id="s96">Thus, undoubtedly, the integrated means for processing data operates upon the user personal data, by reading, storing and rewriting it.</sentence>
+<sentence id="s97">But said means do not operate upon the user personal data by applying the said promotional rules to the user personal data.</sentence>
+<sentence id="s98">The algorithm of 1 point for 200 cents, discarding any balance applies only to transaction data.</sentence>
+<sentence id="s99">39 The case proceeded on the basis that the phrase "promotional program rules" was this algorithm.</sentence>
+<sentence id="s100">40 This reading of the relevant part of claim 1 is consistent with the totality of the specification --- that is reading the claims in their context.</sentence>
+<sentence id="s101">The objects of the invention are stated at pages 8-9 of the specification as follows:
+ 
+ " Accordingly, it is a primary object of the present invention to provide a system that, upon request, provides a personalized message, individually targeted promotion, or other such individually fashioned response to a user based on that user's demographic characteristics, current purchasing or other activities, personal purchasing history, and other external factors such as the date or time, with each of these elements being evaluated and processed through multiple decision trees.</sentence>
+<sentence id="s102">
+ 
+ A further object is to provide a system which is capable of storing and processing sufficient data to provide the user with sophisticated responses without the need for external storage, processing equipment, or data input means.</sentence>
+<sentence id="s103">
+ 
+ Still another object is to provide an economical system wherein a user may go to any location using the system at any time and receive a personalized response in real time based on up-to-the-minute information regarding that user.</sentence>
+<sentence id="s104">
+ 
+ It is a further object of the present invention to provide a marketing system, which will provide a customer a feeling of individual significance.</sentence>
+<sentence id="s105">
+ 
+ It is a still further object to provide a system, which is adaptable to any location regardless of the POS or operating system in place at that location.</sentence>
+<sentence id="s106">
+ 
+ Still another object is a system which encourages co-sponsored promotions by facilitating delivery of personalized and targeted promotions, coupons, or the like by more than one business or other such entity at all system locations without the need for expensive equipment, data translation, or interconnection.</sentence>
+<sentence id="s107">
+ 
+ It is another object to offer a system which provides the user with a stable and high-quality visual display on their user card 
+ 
+ A further object is to provide a system which delivers a visual, audible, or other such response to a user in addition to a printed message, coupon, or other such response.</sentence>
+<sentence id="s108">
+ 
+ The invention aims to substantially achieve one or more of the above-identified objects or at least to ameliorate the problems of the prior art.</sentence>
+<sentence id="s109">" 
+ [emphasis added]
+ 
+
+41 Though the preferred embodiments that are later described include (but do not require) having a communication link with a central host computer, no embodiment uses a link to a central host computer.</sentence>
+<sentence id="s110">The relevant data required to interact with each user is carried on each card.</sentence>
+<sentence id="s111">This is explained on page 16 of the specification:
+ 
+ "Similarly, although external peripherals are not necessary for the system of the invention to interact with a user, addition of some peripherals may add a desirable dimension to the system's ability to communicate with the user.</sentence>
+<sentence id="s112">For instance, connection to a modem or other such communication device is not required to accomplish interaction with a particular user.</sentence>
+<sentence id="s113">It is beneficial, however, to have a communication link with a central host computer.</sentence>
+<sentence id="s114">A host can provide a central storage area for information regarding all users within the system.</sentence>
+<sentence id="s115">Data regarding new users and the purchasing history or other such updates relating to current users may be batched and uploaded to the central host daily or as desired.</sentence>
+<sentence id="s116">There is no urgency, however, other than to free up memory space at PRW 20 (FIG.</sentence>
+<sentence id="s117">2), in that the current data required to interact with each user is carried directly on user card 10 (FIG.</sentence>
+<sentence id="s118">1).</sentence>
+<sentence id="s119">A central storage of user data is beneficial for designing future promotions and co-sponsored promotions as well as serving as a backup source in the event that a user should misplace his or her user card.</sentence>
+<sentence id="s120">Information regarding current promotions contests, sweepstakes, new products and the like may be automatically downloaded from a central host to each system site through such a communication link as well.</sentence>
+<sentence id="s121">In addition, updates to the customized software resident in PRW 20 may also be sent via a communication link to a central host.</sentence>
+<sentence id="s122">Finally, if desired, a communication link allows the system to act as a typical credit or debit facility.</sentence>
+<sentence id="s123">Magnetic film print region 18 on user card 10 (FIG.</sentence>
+<sentence id="s124">1) carries information identifying the user as on any credit or debit card.</sentence>
+<sentence id="s125">Thus, credit/debit verification can be provided through a simple query to a central credit verification source, as is done in any typical credit/debit card transaction, allowing PRW 20 (FIG.</sentence>
+<sentence id="s126">2) to serve as a typical Verifone&reg;.</sentence>
+<sentence id="s127">" 
+ [emphasis added]
+ 
+
+42 The data storage and processing means is in the terminal ("said terminal comprising ...integrated means for storing and processing data..." --- see claim 1 --- and integer (d)(v)).</sentence>
+<sentence id="s128">43 In discussing the software and the determination of the appropriate response the specification stated at page 17:
+ 
+ "In determining appropriate user responses, the specialized application software correlates a user's personal and purchasing history as read from magnetic film print region 18 on user card 10 (FIG.</sentence>
+<sentence id="s129">1); program data such as available promotions or awards, threshold values, prizes, limits, thresholds, rules and messages which are stored in memory means in PRW 20; and information regarding the user's current transaction as input by means of keypad 31 or a POS system linked by connector 35.</sentence>
+<sentence id="s130">Determinations are made based on a series of rules and queries which direct the specialized application software to consider specific information regarding the user such as birth date, demographics, purchasing history, or other relevant user information to fashion a personalized response in the form of a visual message printed to the thermo-chromic region 17 on user card 10 (FIG.</sentence>
+<sentence id="s131">1); a printed coupon; and/or celebrating award symbol such as bells, whistles, flashing lights, or a chorus of happy birthday, to name only a few possibilities.</sentence>
+<sentence id="s132">" 
+ [emphasis added]
+ 
+
+44 The specification then discusses initiating a new user.</sentence>
+<sentence id="s133">In the description of the various ways that the user may be initiated one can see a variety of non-transactional data which can be seen as personal data being placed on the card.</sentence>
+<sentence id="s134">At page 18 the specification states:
+ 
+ "Several approaches are possible in initiating a new user into the system.</sentence>
+<sentence id="s135">For instance, information from current marketing databases or other such sources may be used to create a user card carrying a particular user's personal and purchasing data.</sentence>
+<sentence id="s136">A unique user identification number is assigned to that user and encoded on the corresponding user card 10 and correlated with the file containing that user's data at a central host database.</sentence>
+<sentence id="s137">This user card 10 may then be sent to the user with an invitation for the user to join in the benefits of membership by bringing the card into a system site.</sentence>
+<sentence id="s138">" 
+ 
+
+45 The specification then describes another method of initiating a user:
+ 
+ "Another approach for initiating a new user is to provide an enrollment application (not shown) to a prospective user upon a first visit to a system location.</sentence>
+<sentence id="s139">This application may seek basic personal information such as name, address, birth date, marital status, number and ages of children, as well as questions directed at determining basic product preferences, needs, and desires.</sentence>
+<sentence id="s140">Upon handing in the enrollment application, a blank user card 10 is issued to that user.</sentence>
+<sentence id="s141">Upon entry of user card 10 into PRW 20 through slot 27, operating system software will direct the magnetic read/write means to read the user data encoded on the card's magnetic film print regions 18.</sentence>
+<sentence id="s142">Once it is determined that there is no data on the card, the card will be recognized as new and the imbedded application software, in conjunction with the operating system software, will direct that the current date and the next available user identification number be encoded into magnetic film print region 18 and displayed on LCD screen 31.</sentence>
+<sentence id="s143">" 
+ 
+
+46 Importantly, the specification then proceeds to deal with the nature of the information on the card and how it may be added.</sentence>
+<sentence id="s144">The specification states the following at page 19:
+ 
+ " If it is desired that the user card 10 carry information about the user beyond the user identification number and current transaction information, additional information may be added to the card in a variety of ways.</sentence>
+<sentence id="s145">For example, at the user's first visit, specialized application software may prompt by means of LCD display 32 for the entry of data via keypad 31 which may be written upon the user card 10 by the magnetic write means within PRW 20.</sentence>
+<sentence id="s146">Alternatively, completed user enrollment application forms are sent to a central data input site where information from the application regarding that particular user is entered into a central database and referenced against that user's user identification number.</sentence>
+<sentence id="s147">Any information already stored at the central host regarding that user's purchasing history may be encoded, along with selected data from the application form, onto a replacement user card and mailed to the user.</sentence>
+<sentence id="s148">According to another approach, once information regarding a particular user has been entered into a central database, it may be downloaded for temporary storage to PRW's or other storage means at individual system sties.</sentence>
+<sentence id="s149">When that particular user comes to a site and enters his or her temporary card, the system will recognize the user number and transfer the stored user data to magnetic strip 19 on user card 10.</sentence>
+<sentence id="s150">" 
+ [emphasis added]
+ 
+
+47 Thus, the specification posits that the invention may operate with the card carrying only the unique (and necessarily unchanging) identification number and transaction information.</sentence>
+<sentence id="s151">This, as I have already said, assists in drawing the conclusion that a membership number is personal data.</sentence>
+<sentence id="s152">Whilst this is so, it does not allow a conclusion to be drawn that, the invention necessarily extends to the relevant promotional rules operating only upon the only variable information.</sentence>
+<sentence id="s153">This cannot be concluded merely from the fact that the membership number never changes.</sentence>
+<sentence id="s154">The program rules may, for instance employ a numerical relationship between (variable) current purchases and (static) membership number.</sentence>
+<sentence id="s155">For example, the program rules may award a prize when the amount spent is divisible by the first numeral in the membership number.</sentence>
+<sentence id="s156">Nevertheless, it might be said that the message in figure 3A (a copy of which is annexed) does not appear to reveal anything other than changes to points based presumably on shopping value.</sentence>
+<sentence id="s157">That perhaps overstates the matter.</sentence>
+<sentence id="s158">Figure 3A is given (along with figures 3B and 3C, also annexed) as an example of a personalized message: see the citation from pages 19 and 20 of the specification at [48] below.</sentence>
+<sentence id="s159">I do not think that one can infer anything as to the rules or algorithm used and in particular whether the rules had recourse in their operation to any personal data.</sentence>
+<sentence id="s160">48 The specification also describes the specialized software at pages 19 and 20 as follows:
+ 
+ "The specialized application software, stored in the PRW's long-term storage means, contains specific rules, tests, and parameters by which to judge user data and purchasing history to arrive at a personalized response.</sentence>
+<sentence id="s161">This specialized application software correlates and analyzes the user data now stored in short-term memory with current promotional offers available at that location stored in the PRW's long-term memory means.</sentence>
+<sentence id="s162">The application software is capable of making intelligent decisions taking into account the number of user visits, the products purchased at each visit, demographics regarding that particular customer, personal information such as birth dates, co-sponsored promotions which are appropriately targeted to that user, as well as specific information regarding that system location such as special promotions or product availability.</sentence>
+<sentence id="s163">As a result of this analysis, a highly-personalized and targeted response will be activate to the user.</sentence>
+<sentence id="s164">One response is in the form of a personalized message printed to region 17 on the user card 10 by the thermo-chromic print means within PRW 20 (see FIGS.</sentence>
+<sentence id="s165">3A, 3B, 3C as examples).</sentence>
+<sentence id="s166">There may also be direction given to an external printer to print a graphical display of a gift certificate, coupon, admission ticket or some other such promotion for the business at the system site or for use at another business (see FIG.</sentence>
+<sentence id="s167">3C).</sentence>
+<sentence id="s168">In addition, a TTL signal may be sent via a cable connected to one of the I/O peripheral ports 34 as an activation signal to an external device capable of rewarding the user by way of flashing lights, buzzers, beepers, or even a musical composition.</sentence>
+<sentence id="s169">
+ 
+ The specialized application software in conjunction with the operating systems software will further direct that the magnetic writing means encode certain of the user data temporarily stored in the short-term storage means such as items purchased and the date onto magnetic stripe 18 of the user's card 10, thereby keeping the data contained on the user's card current.</sentence>
+<sentence id="s170">Further, some of the data stored in the short-term storage means may also be directed to be written into the long-term storage means for later transfer via a modem to a central host location.</sentence>
+<sentence id="s171">" 
+ 
+
+49 No part of the specification is inconsistent with the above reading of claim 1, in particular integer (d)(v).</sentence>
+<sentence id="s172">Indeed, the specification is largely consistent with and supportive of this construction.</sentence>
+<sentence id="s173">50 The Sushi Train system does not satisfy integer (d)(v) in claim 1 so construed.</sentence>
+<sentence id="s174">Thus, there is no infringement of claim 1.</sentence>
+<sentence id="s175">Other Claims 
+ 
+51 By reason of my conclusion as to the proper construction of integer (d)(v), claim 1 was not infringed.</sentence>
+<sentence id="s176">52 The assertion of infringement of claim 2 was withdrawn during the hearing.</sentence>
+<sentence id="s177">53 Claims 3 and 5 are dependent on claims 1 and 2.</sentence>
+<sentence id="s178">Thus there was no infringement of these claims.</sentence>
+<sentence id="s179">54 The issues concerning claim 13 (the primary method claim), with one additional issue, were the same as in claim 1.</sentence>
+<sentence id="s180">My conclusions as to integer (d)(v) in relation to claim 1, concludes the same issue in integer (g) in relation to claim 13 --- "applying said promotional program rules to said user personal data... to determine the computed response".</sentence>
+<sentence id="s181">55 Thus, there was no infringement of claim 13.</sentence>
+<sentence id="s182">56 Claims 15, 16 and 17 depend on claim 13.</sentence>
+<sentence id="s183">Therefore there was no infringement of them.</sentence>
+<sentence id="s184">Likewise as to claim 18, which was dependent on claim 17.</sentence>
+<sentence id="s185">Whether the response was "personalised" 
+ 
+57 The only remaining issue concerned an additional argument about infringement that related to claim 13 and integer (i) referred to at [12]' above --- whether the human readable message was "personalised".</sentence>
+<sentence id="s186">58 Whilst there is some force in the submissions of the respondent that this element in claim 13 required some element beyond the updating of points to an identified person, the examples given of a personalised response in Figure 3A and 3C, in particular the former, lead me to conclude that the personalised response is satisfied here by a message directed to the holder of the card (by the terms of its issue, the member), just as the card in figure 3A is directed.</sentence>
+<sentence id="s187">This is reinforced by the fact that the whole message (including the membership number) is re-written.</sentence>
+<sentence id="s188">59 For the above reasons there has not been an infringement of any claim of the patent in suit and the application should be dismissed.</sentence>
+<sentence id="s189">Novelty --- the cross-claim for revocation 
+ 
+60 One ground of invalidity of the patent was raised by the cross-claim --- the anticipation by one patent: the Euro-patent.</sentence>
+<sentence id="s190">The title and description of the Euro-patent were as follows:
+ 
+ "METHOD FOR RECORDING INFORMATION AND PICTURE ON CARD HAVING INFORMATION RECORDING SECTION AND PICTURE RECORDING SECTION.</sentence>
+<sentence id="s191">
+ 
+ A method for recording information and pictures onto and reading out the information from a card having a rewritable information recording section and rewritable picture recording section which is composed of a reversibly heat-sensitive recording material by means of a card reader writer.</sentence>
+<sentence id="s192">The number of information rewriting times in the information recording section is counted and the picture recorded in the picture recording section is rewritten at the timing when the number of information rewriting times reaches a predetermined number.</sentence>
+<sentence id="s193">Therefore, the service life of the card can be increased by leaps and bounds.</sentence>
+<sentence id="s194">" 
+ 
+
+61 The field of the invention was described as follows:
+ 
+ "The present invention relates to an information and image recording method, and more particularly to a method of carrying out the recording and reading of information and the recording of an image in a card by using a card reader and writer, which card comprises a rewritable information recording portion, and a rewritable image recording portion comprising a reversible thermosensitive recording material.</sentence>
+<sentence id="s195">" 
+ 
+
+62 The Euro-patent was not directly concerned with the promotion of loyalty programs.</sentence>
+<sentence id="s196">Rather, as the above described field of the invention reveals, it was directed to the technical method of using a card and a reader and writer unit to record and read information.</sentence>
+<sentence id="s197">63 There was no debate as to the applicable law.</sentence>
+<sentence id="s198">The Patents Act 1990 as it existed before the amendments made by the Patents Amendments Act 2001 (Act 160 of 2001) governed the case.</sentence>
+<sentence id="s199">It was not in dispute that reverse infringement is the general test for anticipation and want of novelty: Meyers Taylor Pty Ltd v Vicarr Industries Ltd [1977] HCA 19 ; (1977) 137 CLR 228 at 235.</sentence>
+<sentence id="s200">See also Olin Corporation v Super Cartridge Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 261.</sentence>
+<sentence id="s201">64 The reverse infringement test cannot be applied literally: see Nicaro Holdings Pty Ltd v Martin Engineering Co (1990) 91 ALR 513 at 528 and R D Werner &amp; Co Inc v Bailey Aluminium Products Pty Ltd (1989) 25 FCR 565 at 568-569.</sentence>
+<sentence id="s202">And see generally Bristol Myers Squibb Company v FH Faulding &amp; Co Ltd [2000] FCA 316 ; (2000) 97 FCR 524 at 546-49 [60] - [68] ; Jupiter Ltd v Neurizon Pty Ltd (2005) 65 IPR 86 at 105-106; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd (2005) 67 IPR 230; Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co (2005) 68 IPR 1 at 66-69 [311]-[324]; Imperial Chemical Industries Pty Ltd v Commissioner of Patents (2004) 63 IPR 476 at 487-490 [60]-[68]; Merck &amp; Co Inc v Arrow Pharmaceuticals [2006] FCAFC 91 ; (2006) 68 IPR 511 at 537-538 [104] - [112] .</sentence>
+<sentence id="s203">65 With a prior paper anticipation as alleged here, and applying the reverse infringement test, with assistance from the words of Lord Westbury LC in Hill v Evans (1862) 31 LJ Ch 457 at 463, the following can be stated:
+ 
+ "...The antecedent statement [here the Euro-patent] must be such that a person of ordinary knowledge of the subject would at once perceive, understand and be able practically to apply the discovery [the disclosure in the Euro-patent] without the necessity of making further experiments and gaining further information before the invention can be made useful.</sentence>
+<sentence id="s204">If something remains to be ascertained which is necessary for the careful application of the discovery, that affords sufficient room for another valid patent.</sentence>
+<sentence id="s205">" 
+ 
+
+66 Mr Ben-Meir propounded a disclosure analysis of the Euro-patent which saw all the integers of the patent in suit disclosed.</sentence>
+<sentence id="s206">Dr Clarke agreed with the "technical substance" of Mr Ben-Meir's disclosure analysis, but he expressed the view that the disclosure was not such as to amount to instruction in that he did not think that the Euro-patent provided a person skilled in the art with sufficient information to implement a system contemplated by the patent in suit.</sentence>
+<sentence id="s207">67 Thus the parties were apart on the degree or quality of the exemplification or disclosure in the Euro-patent.</sentence>
+<sentence id="s208">Before turning to that question, it is important to appreciate the significance to this aspect of the case of my view of integer (d)(v) for claim 1 and integer (g) for claim 13.</sentence>
+<sentence id="s209">My disagreement with the applicants' construction of the aspect of claims 1 and 13 about the means for processing data operating to apply the promotional program rules to user personal data, means that it is necessary for the Euro-patent to reveal in the relevant sense a system and a method whereby that element is disclosed --- not merely a system of a card "belonging to" or "identified with" one person or a unique number which has points updated after purchasing pursuant to some algorithm, as in the Sushi Train system.</sentence>
+<sentence id="s210">My views on the construction of integer (d)(v) of claim 1 and integer (g) of claim 13 make it possible for me to express my views about the question of anticipation fairly shortly.</sentence>
+<sentence id="s211">68 Were it not for my view as to the proper construction of integers (d)(v) in claim 1 and (g) in claim 13 in this regard, I would agree with Mr Ben-Meir, that a skilled person in the field would, upon reading the Euro-patent, including of course the specification and drawings, understand, and be instructed in, a system which used a printer/reader/writer terminal and at least one user card associated with a user for use in the terminal, the card having a region for receiving and storing machine readable code containing data about a user (at least his or her name or identification number) and about his or her transaction history.</sentence>
+<sentence id="s212">The instruction extended to increasing points as the card was used for purchases.</sentence>
+<sentence id="s213">Thus some rules would be needed for the translation of purchasing into points.</sentence>
+<sentence id="s214">The instruction of some promotion appears clear.</sentence>
+<sentence id="s215">If, as the applicant submitted, a system such as the Sushi Train system fell within the patent in suit because the promotional program rules need only apply to the transaction data in the manner earlier described, such a system was clearly disclosed in the Euro-patent, even though directed to the technical questions of card operation, by the exemplification of the operation of the card with increasing points and the provision of a personalised message to the card user.</sentence>
+<sentence id="s216">69 Mr Ben-Meir's explanation of disclosure of integer (d)(v) of claim 1 is entirely unpersuasive if one takes the view that I do (and that Dr Clarke did not) that more is required in respect of the application of the promotional program rules to the user personal data than the applicants submitted.</sentence>
+<sentence id="s217">The fact that in the Euro-patent the name of the card holder is disclosed on the card does not disclose that the promotional program rules have been applied to used personal data.</sentence>
+<sentence id="s218">It discloses no more than the writing of that name on the card which may be (as here with the Sushi Train system and a unique number) irrelevant to the application of the promotional program rules.</sentence>
+<sentence id="s219">70 Thus, in my view, there was no unmistakeable or clear instruction as to integer (d)(v) of claim 1 or integer (g) of claim 13 in the Euro-patent.</sentence>
+<sentence id="s220">71 Claims 2, 3, 5, 15, 16 and 17 are dependent on claim 1 or claim 13 and claim 18 is dependant on claim 17.</sentence>
+<sentence id="s221">72 Thus, in my view, the patent in suit was not anticipated by the Euro-patent.</sentence>
+<sentence id="s222">The cross-claim therefore fails.</sentence>
+<sentence id="s223">The issues concerning standing 
+ 
+73 Given the views that I have come to it is unnecessary to deal with the respondent's arguments about standing.</sentence>
+<sentence id="s224">74 The application should be dismissed.</sentence>
+<sentence id="s225">The question of anticipation was part of the defence and also the foundation of the cross-claim.</sentence>
+<sentence id="s226">75 I will give the parties 14 days to provide submissions on costs, but I would propose that the applicants pay the respondent's costs, other than the costs of the question of novelty and alleged anticipation, the costs of which will be paid by the respondent cross-claimant.</sentence>
+<sentence id="s227">76 The orders of the Court will be:
+ 
+1.</sentence>
+<sentence id="s228">The application be dismissed.</sentence>
+<sentence id="s229">2.</sentence>
+<sentence id="s230">The amended cross-claim be dismissed.</sentence>
+<sentence id="s231">3.</sentence>
+<sentence id="s232">The parties file submissions on costs within 14 days.</sentence>
+<sentence id="s233">4.</sentence>
+<sentence id="s234">The time for filing and serving any notice of appeal run from the date of orders as to costs.</sentence>
+<sentence id="s235">I certify that the preceding seventy-six (76) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Allsop.</sentence>
+<sentence id="s236">Associate:
+Dated: 7 February 2007
+
+
+ Counsel for the Applicants: Mr R Cobden SC 
+ 
+ Solicitor for the Applicants: Cutler Hughes &amp; Harris 
+ 
+ Counsel for the Respondent: Mr D M Logan 
+ 
+ Solicitor for the Respondent: Michael Sing Lawyers 
+ 
+ Date of Hearing: 3, 4 and 5 April 2006 
+ 
+ Date of Judgment: 7 February 2007 
+
+ Annexure A 
+ 
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/38.html 
+ 
+ </sentence>
+</sentences>
+</case>

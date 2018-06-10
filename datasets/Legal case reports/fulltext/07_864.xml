@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<case>
+<name>Stena Rederi Aktiebolag v Austal Ships Sales Pty Ltd [2007] FCA 864 (21 June 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/864.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">hull structure of multi-hull vessel</catchphrase>
+<catchphrase "id=c1">improved seakeeping at high speeds</catchphrase>
+<catchphrase "id=c2">construction of claims</catchphrase>
+<catchphrase "id=c3">application of agreed legal principles to present case</catchphrase>
+<catchphrase "id=c4">whether claims ambiguous or uncertain</catchphrase>
+<catchphrase "id=c5">whether ambiguity in 'substantial portion' or 'narrow waisted'</catchphrase>
+<catchphrase "id=c6">'substantial portion' not defined by numerical parameters</catchphrase>
+<catchphrase "id=c7">'narrow waisted' means 'significant narrowing'</catchphrase>
+<catchphrase "id=c8">construction of inconsistent claims</catchphrase>
+<catchphrase "id=c9">modification of claims</catchphrase>
+<catchphrase "id=c10">infringement of patent</catchphrase>
+<catchphrase "id=c11">whether width of allegedly infringing vessels continually decreases</catchphrase>
+<catchphrase "id=c12">priority date of patent</catchphrase>
+<catchphrase "id=c13">whether claims in australian application disclosed by claims in earlier swedish application</catchphrase>
+<catchphrase "id=c14">whether amendments affect priority date</catchphrase>
+<catchphrase "id=c15">inventive step and obviousness</catchphrase>
+<catchphrase "id=c16">consideration of high court in lockwood</catchphrase>
+<catchphrase "id=c17">application of agreed legal principles to present case</catchphrase>
+<catchphrase "id=c18">whether combination of swath forward hull with catamaran stern hull obvious</catchphrase>
+<catchphrase "id=c19">whether prior art disclosed inventive step before priority date</catchphrase>
+<catchphrase "id=c20">prior art of vessels built before priority date</catchphrase>
+<catchphrase "id=c21">prior art of publications published before priority date</catchphrase>
+<catchphrase "id=c22">novelty</catchphrase>
+<catchphrase "id=c23">whether claims are clear and succinct, define the invention and possess fair basis.</catchphrase>
+<catchphrase "id=c24">narrow waisting</catchphrase>
+<catchphrase "id=c25">substantial proportion</catchphrase>
+<catchphrase "id=c26">continually decreases</catchphrase>
+<catchphrase "id=c27">patent</catchphrase>
+<catchphrase "id=c28">words and phrases</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 This is an application for injunctive and other relief by Stena Rederi Aktiebolag ("Stena"), a Swedish company which is the proprietor of Australian Patent No.</sentence>
+<sentence id="s1">648634, entitled "A Hull Structure for Multi-Hull Ships".</sentence>
+<sentence id="s2">Stena claims priority from an application filed in Sweden on 30 January 1991.</sentence>
+<sentence id="s3">The respondents, which I will refer to collectively as "Austal", comprise a group of ship building companies based in Western Australia.</sentence>
+<sentence id="s4">2 Stena sues Austal for alleged infringement of the patent and seeks an injunction to restrain Austal from continuing to infringe.</sentence>
+<sentence id="s5">Specifically, Stena alleges that the hull forms of three types of vessels manufactured, sold or promoted by Austal --- namely the Austal 94, Austal 196 and Austal 285 hull forms --- infringe its patent.</sentence>
+<sentence id="s6">3 In response to these allegations, Austal filed a cross-application seeking to revoke the patent for invalidity on the grounds of (i) lack of novelty, (ii) lack of inventive step or obviousness; and/or (iii) failure to comply with the requirements of s 40 of the Patents Act 1990 (Cth) ("Act") that the claims be clear and succinct, define the invention and possess a fair basis.</sentence>
+<sentence id="s7">PATENT SPECIFICATION 
+ 
+4 The specification includes 10 claims defining the invention.</sentence>
+<sentence id="s8">There are two claims in issue in these proceedings, claims 1 and 7.</sentence>
+<sentence id="s9">Claims 1 and 7 read as follows:
+ 
+ 1.</sentence>
+<sentence id="s10">A hull for multi-hull seagoing vessels capable of speeds greater than 30 knots, wherein: [ 1.1 ] 
+ 
+ 
+ in the case of the sternward half of the hull, located between the stern and midships of the hull, the vertical distance from the hull base line to the volumetric centre-of-gravity of that part of the respective half of the hull below a water line corresponding to a normally occurring hull draft is greater than 55% of the normally occurring draft; [ 1.2 ] 
+ 
+ 
+ 
+ in the case of the foreward half of the hull, located between the forebody of the hull and midships, said vertical distance is less than 55% of the draft; [ 1.3 ] 
+ 
+ 
+ 
+ at a position corresponding to 75% of the total length of the underwater body of the hull calculated from the stern of the hull, the distance between the base line and the centre-of-gravity of the frame area (as defined herein) below the water line, and at that position is less than 55% of the draft; and [ 1.4 ] 
+ 
+ 
+ 
+ the width of the hull at the water line is substantially greater in the after body of the hull than in the forward body of the hull [ 1.5 ] and continually decreases in a forward direction, and wherein the cross-sectional shape of the hull throughout a substantial portion of the forward half of the hull located between the bow and midships has a bulbous underwater part and a narrow waisted part which extends through the water line.</sentence>
+<sentence id="s11">[ 1.6 ] 
+ 
+ 
+ ............ 
+ 
+ 
+ 7.</sentence>
+<sentence id="s12">A hull according to any one of claims 1 to 5, wherein the width of the hull at the water line is substantially constant in the case of the sternward quarter part of the vessel and then narrows towards the prow of the vessel.</sentence>
+<sentence id="s13">' (Emphasis added.</sentence>
+<sentence id="s14">) 
+
+5 As a means of reference, claim 1 is separated into six integers, referred to as 1.1-1.6.</sentence>
+<sentence id="s15">The critical integers for present purposes are integers 1.5 and 1.6.</sentence>
+<sentence id="s16">In relation to claim 7, the dispute concerns the relationship of claim 7 to claim 1 and the meaning of the words 'the water line is substantially constant in the case of the sternward quarter part of the vessel'.</sentence>
+<sentence id="s17">6 The invention relates to a hull structure for a multi-hull ship.</sentence>
+<sentence id="s18">The invention is described in the following terms:
+ 
+ 'The inventive hull construction can be described as comprising a foreward hull part which has a bulbous underwater cross section , i.e.</sentence>
+<sentence id="s19">the hull width is narrower in the region of the water line than both above and below the water line, and a rearward hull part which merges continuously therewith , the local draft of which decreases in a direction towards the stern while simultaneously the width of the hull at the water line increases in this direction.</sentence>
+<sentence id="s20">This imparts to the stern of the vessel a shape which is favourable for water-jet propulsion.</sentence>
+<sentence id="s21">The invention is not restricted to water-jet propulsion, however.</sentence>
+<sentence id="s22">As a result of the invention, the hull has a relatively large width at the water line at the stern part of the hull, which enables propulsion engines and like prime movers to be readily fitted to the hull with the absence of any problems concerning air intake, exhaust gas discharge, lifting and lowering of engines, etc. Because the hull has a relatively large water line width in relation to the maximum width of the hull beneath the water line, particularly at the stern of the hull, the hull has good stability , particularly at its stern part, therewith favouring the loading and offloading of cargo from the stern of the vessel.</sentence>
+<sentence id="s23">
+ 
+ The bulbous shape of the foreward part of the hull cross-section, i.e.</sentence>
+<sentence id="s24">a relatively narrow hull width in the vertical region of the hull that extends up through the water line, as a continuation of the more generally U-shape of the hull stern, limits the wave-dependent vertical movement associated with conventional catamaran hull designs that include a generally uniform hull cross-section along the length of the hull.</sentence>
+<sentence id="s25">As a result of the bulbous shape of the cross-section of the foreward hull part, the wave-exerted lifting force will be lower at the foreward part of the hull, and motion-restricting suction forces will occur at the bottom surface of the hull structure and at the upwardly facing wet surface of the hull as the hull moves vertically in the water.</sentence>
+<sentence id="s26">' (Emphasis added.</sentence>
+<sentence id="s27">)
+ 
+
+7 The problem to which the invention is directed is that multi-hull ships of the catamaran type are liable to move vertically in a manner which not only generates unwanted vertically-acting acceleration forces on goods transported by catamarans but also is unpleasant to passengers.</sentence>
+<sentence id="s28">As a consequence, multi-hull vessels were developed with a hull which had a narrow cross-section at the water line.</sentence>
+<sentence id="s29">This meant that only a small lifting force is generated by the waves acting on the hull, so that the seakeeping of the vessel is improved.</sentence>
+<sentence id="s30">The parts of the hull beneath the surface of the water were joined to those parts of the hull located above the surface by means of narrow connections.</sentence>
+<sentence id="s31">This approach to the improvement of seakeeping led to problems regarding the use of and type of equipment required to propel the vessel, and a consequent need for greater power.</sentence>
+<sentence id="s32">8 One object of the invention is to provide a hull structure of favourable construction with a low tendency to lift upwards under the influence of waves.</sentence>
+<sentence id="s33">This result would create highly efficient movement through the water, allow greater speed in high seas with a high load resistance and enable the vessel to be powered by water jet propulsion.</sentence>
+<sentence id="s34">It was also an objective to have a high stern stability to enable the vessel to be loaded and unloaded from the stern.</sentence>
+<sentence id="s35">An example of this type of vessel is a fast passenger and cargo carrying catamaran which can have a speed of 30 to 50 knots, with a length of 120 metres by a width of 40 metres, and a submerged volume of up to 3,000 cubic metres.</sentence>
+<sentence id="s36">9 As is apparent in the description of the invention above, the 'bulbous shape' of the forward part of the hull cross-section, which is described as a relatively narrow hull in the vertical region of the hull extending up through the water line as a continuation of a generally U-shaped hull stern, has the effect of limiting or dampening the wave-created vertical movement experienced by conventional catamaran hull designs.</sentence>
+<sentence id="s37">The bulbous shape also has the effect that the wave lifting force will be lower at the forward part of the hull, creating motion restricting forces at the bottom surface of the hull structure, which in turn will contain any excess movement and so improve the vessel's seakeeping.</sentence>
+<sentence id="s38">10 The following characteristics can be drawn from integers 1.5 and 1.6 of claim 1:
+ 
+ 
+ &#8226; the width of the hull at the water line is substantially greater in the after body than in the forward body of the hull;
+ &#8226; the width of the hull at the water line continually decreases in a forward direction;
+ &#8226; the cross-sectional shape of the hull throughout a substantial portion of the forward half of the hull has a bulbous underwater part; and
+ &#8226; a substantial portion of the forward half has a narrow waisted part which extends through the water line.</sentence>
+<sentence id="s39">
+ 
+
+The words in bold emphasis give rise to the dispute in these proceedings because they are said to be uncertain, vague, unclear and incapable of application.</sentence>
+<sentence id="s40">11 Claim 7 expresses a preference that the width of the hull at the water line should be substantially constant in the sternward quarter of the vessel, and then narrow towards the prow of the vessel.</sentence>
+<sentence id="s41">This latter requirement that the width is 'substantially constant', is accepted to be inconsistent, on its face, with the requirement in integer 1.5 which requires that the width of the hull must continually decrease in a forward direction.</sentence>
+<sentence id="s42">12 The vessel is described as differing from conventional hull designs because the width of the inventive hull decreases generally in a forward direction at the water line, and keeps a constant frame area beneath the water line along the length of the hull, decreasing at the forward and aft parts of the hull.</sentence>
+<sentence id="s43">This means that the hull will have a relatively large width at the water line in the stern part of the hull, thereby restricting the local draft of the hull at the stern.</sentence>
+<sentence id="s44">13 There are said to be five advantages which flow from the Stena design.</sentence>
+<sentence id="s45">These are:
+ 
+ 
+ &#8226; vessel propulsion equipment, including jet engines, can be mounted comfortably in the hull and easily maintained;
+ &#8226; the hull can withstand loads in the stern;
+ &#8226; the hull is adapted for high speeds up to 40 knots;
+ &#8226; the hull has a low pitching tendency during movement of the vessel through the water and can transport passengers and goods; and
+ &#8226; the hull obviates the need to lash down cargo such as lorries and trucks under normal sea conditions.</sentence>
+<sentence id="s46">
+ 
+
+14 In short, the benefits of such a vessel are that its hull structure can be used with different sizes of hulls, intended for different speeds and methods of vessel propulsion, whilst still retaining the advantages of multi-hull vessels.</sentence>
+<sentence id="s47">15 The specification describes the inventive hull by reference to a preferred embodiment.</sentence>
+<sentence id="s48">Three drawings or 'Figures' illustrate this embodiment.</sentence>
+<sentence id="s49">Figure 1 is a body plan for the forward and sternward half of a hull, which is illustrated by six similar but separate frames numbered from 0 to 5 along the hull, with the water line corresponding to a normal draft.</sentence>
+<sentence id="s50">This is said to show that the local draft of the hull decreases in the afterbody of the hull in a sternward direction so that it falls to about 50% of the hull draft, with the maximum local draft occurring in the area forward of the hull's length centre.</sentence>
+<sentence id="s51">Figure 1 also shows that the width of the hull at the water line decreases generally continuously from the stern to the forward part of the hull, while the width of the underwater body of the hull increases downwards from the water line so that the underwater body has a bulbous or onion-shaped cross-section, at least in the length region between fore to midships.</sentence>
+<sentence id="s52">16 Figure 1 also shows that changes in the normal draft only slightly alter the area and shape of the hull at the water surface so that the width of the hull decreases in the area above the water line thereby restricting any additional lifting forces exerted against the hull by waves.</sentence>
+<sentence id="s53">The additional lifting forces are smaller at the forward part of the inventive hull as a result of the smaller width of the hull in the forward hull parts above the water.</sentence>
+<sentence id="s54">17 The bulbous shape which is solely at the forward part of the underwater body of the vessel means that the upward facing surface of the displacement body is large in the forward part.</sentence>
+<sentence id="s55">As a result, the downward movement of the hull during pitching is restricted in that forward part.</sentence>
+<sentence id="s56">The vessel depicted in Figure 1 is a hull for a twin hull vessel to be propelled at 40 knots with a draft of about 4.5 metres, an underwater part of about 5 metres and a length of about 120 metres.</sentence>
+<sentence id="s57">18 Figures 2 and 3, neither of which feature prominently in these proceedings, illustrate respectively the position of the centre of gravity of the hull frame area and the displacement of the forward and sternward parts of the hull.</sentence>
+<sentence id="s58">CLAIM CONSTRUCTION 
+ Relevant Principles 
+ 
+19 There is no significant dispute as to the relevant legal principles of interpretation.</sentence>
+<sentence id="s59">It is clear that the claims must not be read in the abstract, but rather in their context, including existing published knowledge.</sentence>
+<sentence id="s60">What is being construed is a public instrument which must define a monopoly in such a way that it is not reasonably capable of being misunderstood: Populin v HB Nominees Pty Ltd (1982) 41 ALR 471 at 476.</sentence>
+<sentence id="s61">In Kimberly-Clark Pty Ltd v Arico Trading International Pty Limited [2001] HCA 8 ; (2001) 207 CLR 1 at 16, the majority joint judgment noted that it is necessary to construe the complete specification in the light of the common general knowledge and the art before the priority date, allowing the Court to place itself in the position of a person reading the specification who is acquainted with the surrounding circumstances as to the state of that art and its manufacture at that time.</sentence>
+<sentence id="s62">20 Where the language of the specification is unambiguous, a court should not readily depart from the wording of the claim by reading words into it or using stray phrases in the body of the specification in order to narrow or widen the boundaries of the monopoly fixed by the plain words of a claim.</sentence>
+<sentence id="s63">As Lord Russell of Killowen stated in Electric and Musical Industries Ltd v Lissen (1938) 56 RPC 23 at 39:
+ 
+ 'The function of the claims is to define clearly and with precision the monopoly claimed, so that others may know the exact boundary of the area within which they will be trespassers.</sentence>
+<sentence id="s64">Their primary object is to limit and not to extend the monopoly.</sentence>
+<sentence id="s65">What is not claimed is disclaimed.</sentence>
+<sentence id="s66">The claims must undoubtedly be read as part of the entire document and not as a separate document; but the forbidden field must be found in the language of the claims and not elsewhere.</sentence>
+<sentence id="s67">' 
+ 
+
+See also Kirin-Amgen Inc v Hoechst Marion Roussel Limited [2004] UKHL 46 at [20] (per Lord Hoffmann); Kimberly-Clark Pty Ltd v Arico Trading International Pty Limited [2001] HCA 8 ; (2001) 207 CLR 1 at 12; Interlego AG v Toltoys Pty Ltd [1973] HCA 1 ; (1973) 130 CLR 461 at 479.</sentence>
+<sentence id="s68">21 Patent language which uses terms expressing approximation or requiring assessment according to circumstances does necessarily not mean that the impugned claim lacks clarity.</sentence>
+<sentence id="s69">Exact expressions are not always essential.</sentence>
+<sentence id="s70">An example of this dictum is found in Minnesota Mining &amp; Manufacturing Company v Beiersdorf (Australia) Ltd [1980] HCA 9 ; (1980) 144 CLR 253 at 274, where Aickin J said that lack of precise definition in claims is not fatal to validity so long as they provide a workable standard suitable to the intended use.</sentence>
+<sentence id="s71">In that case, his Honour did not consider the word 'inextensible' to be imprecise because on its correct construction in the circumstances his Honour considered that it meant 'relatively inextensible' or 'not capable of extending appreciably'.</sentence>
+<sentence id="s72">As can been seen from his Honour's use of language in deciding the meaning of the term, his Honour did not shrink from using other words of general connotation.</sentence>
+<sentence id="s73">22 In Leonardis v Sartas No 1 Pty Ltd (1996) 67 FCR 126 at 134, the Full Court stated that it is not inadmissible to use an imprecise word in a claim where, in an appropriate context, it conveys the necessary meaning.</sentence>
+<sentence id="s74">The Court there referred to the use in patent claims of imprecise expressions such as 'relatively small', 'a minor amount', 'substantial effect' and 'substantially above' as terminology which does not necessarily invalidate a patent.</sentence>
+<sentence id="s75">Relative expressions which require the exercise of judgment can be used but they must be understood in a practical commonsense manner.</sentence>
+<sentence id="s76">Moreover, as Dixon CJ cautioned in Martin v Scribal Pty Ltd [1954] HCA 48 ; (1954) 92 CLR 17 at 60, a patentee does not have to express his claim with a precision that implies an arbitrary restriction on the inherent variability of a feature which is part of the invention.</sentence>
+<sentence id="s77">23 In Melbourne v Terry Fluid Controls Pty Ltd (1993) 26 IPR 292, Jenkinson J decided that the words 'substantial portion' used in a claim to describe a sleeve of a mechanical assembly did not apply to a situation where the portion was less than 50% of the total length.</sentence>
+<sentence id="s78">In that case it was 48%.</sentence>
+<sentence id="s79">In reaching this conclusion his Honour had regard to context of the complete specification and to the expert evidence concerning the functions which the sleeve was intended to perform in operation of the device.</sentence>
+<sentence id="s80">24 The above interpretation principles are relevant in the present case to a consideration of the particular expressions in the patent specification which Austal submits display uncertainty and lack of clarity.</sentence>
+<sentence id="s81">The relevant expressions are found in integers 1.5 and 1.6 and, to a lesser extent, in claim 7.</sentence>
+<sentence id="s82">25 The gravamen of the submission by Austal is that the language of claim 1 is so obscure, ambiguous and uncertain in important respects that it cannot give rise to an infringement.</sentence>
+<sentence id="s83">The submission relies on the principle adopted by Hely J in Flexible Steel Lacing Company v Beltrico Ltd (2000) 49 IPR 331 at 348-349, that a claim may be bad for uncertainty notwithstanding that the Court could find its true meaning in the circumstances, if it is so obscure that its proper construction must remain a matter of doubt.</sentence>
+<sentence id="s84">The difficulty in the application of the principle is in defining the level of clarity required in the context of a particular claim.</sentence>
+<sentence id="s85">It is not sufficient to show merely that a claim might have been better drafted or that it is capable of more than one construction.</sentence>
+<sentence id="s86">26 The imprecise language which Austal says makes claim 1 invalid for uncertainty resides particularly in the drafter's use of the undefined expressions 'substantial portion' and 'narrow waisted' in integer 1.6.</sentence>
+<sentence id="s87">The vagueness which arises from these expressions is said to be compounded because they are interrelated features relating to the bulbous underwater part of the hull shape.</sentence>
+<sentence id="s88">Austal notes that the expression 'substantial portion' was first introduced into the claim by an amendment as a consequence of opposition.</sentence>
+<sentence id="s89">Evidence on construction 
+ 
+27 Mr Soars who gave evidence for the applicant is a qualified naval architect.</sentence>
+<sentence id="s90">He graduated with a Bachelor of Science in engineering and is a member of the Royal Institution of Naval Architects.</sentence>
+<sentence id="s91">He has had considerable experience in the design of large twin hull vessels.</sentence>
+<sentence id="s92">His expertise and experience is not in issue.</sentence>
+<sentence id="s93">Between 1980 and the year 2000 he was involved in the design of over 120 high speed light craft ranging from 16 metres to 100 metres.</sentence>
+<sentence id="s94">He was the Senior Naval Architect at Incat Designs between 1983 and 1985, a role which involved computer programming, structural design, design technology developments, supervision and project management for high speed catamarans.</sentence>
+<sentence id="s95">28 When Mr Soars first read the patent his impression was that it was unconventional and highly innovative.</sentence>
+<sentence id="s96">It was different because of the torpedo-like forward body with small water plane area, which towards the aft transitioned into a more conventional catamaran stern.</sentence>
+<sentence id="s97">The impression conveyed to him was that of a Small Waterplane Area Twin Hull ("SWATH") design at the front half of the vessel --- that is, the maximum beam of the underwater hull form is significantly greater than the beam at water line throughout the length of the hull --- combined with a reasonably conventional catamaran design at the back half of the vessel.</sentence>
+<sentence id="s98">He describes the invention in loose terms as a 'semi-SWATH' hull design.</sentence>
+<sentence id="s99">A vessel of this description, he says, should have the maximum beam of the underwater hull greater than the beam at the water line for a significant proportion of the length of the hull.</sentence>
+<sentence id="s100">His understanding of integer 1.6 of claim 1 of the patent was that the terms 'substantial portion', 'bulbous underwater part' and 'narrow waisted part' are interrelated, together forming part of the composite phrase 'wherein the cross-sectional shape of the hull throughout a substantial portion in the forward half of the hull located between the bow and midships has a bulbous underwater part and a narrow waisted part which extends through the water line.</sentence>
+<sentence id="s101">'
+ 
+29 Mr Soars considers the term a 'substantial portion' to mean a 'majority portion', being more than 50 percent.</sentence>
+<sentence id="s102">On his interpretation, integer 1.6 means that there is a definite pronounced bulbous shape to the underwater hull, which is coupled with a narrow waisted part protruding through the water over most or all of the forward half of the hull .</sentence>
+<sentence id="s103">This is a characteristic of the so-called semi-SWATH vessels.</sentence>
+<sentence id="s104">He observes that there must be a transitioning or fairing area between the SWATH-like forward section of the hull and the more conventional catamaran-like rear of the vessel.</sentence>
+<sentence id="s105">He considers that, practically speaking, the bulbed and narrow waisted section could cover all the forward half of the hull.</sentence>
+<sentence id="s106">30 Mr Soars refers in his construction of the patent to the references in the patent's specification to 'SWATH vessels', which he says enables him to understand the nature of the hull forms described.</sentence>
+<sentence id="s107">His construction considers the way in which the force exerted by the waves will be lower at the forward part of the hull because of the bulbous shape of the cross-section of that part of the hull, which is a typical aim of a SWATH type vessel.</sentence>
+<sentence id="s108">He observes that the wording of the patent draws attention to Figure 1 which shows a vessel with a SWATH-like forward two-thirds and a conventional looking round bilge stern.</sentence>
+<sentence id="s109">He has regard to the statements in the specification which describe the result achieved by a SWATH-type vessel as deriving from the fact that there is a smaller cross-section at the water line, which in turn implies a larger cross-section below the water line.</sentence>
+<sentence id="s110">31 Mr Soars interprets the term 'narrow waisted' to mean that the hull has a width or beam at the water line significantly narrower than the maximum beam of the underwater hull form.</sentence>
+<sentence id="s111">While a figure for narrow waisting cannot be precisely defined due to the necessity of taking into account the overall shape of the hull below and slightly above the water line, as well as the transitioning of the SWATH-style forward part into the conventional back half, Mr Soars selects a figure of 20 percent as a general indication of a narrow waisted hull form.</sentence>
+<sentence id="s112">In practical terms, such a figure means that the hull width at the water line is at least 20 percent narrower than the maximum underwater beam width.</sentence>
+<sentence id="s113">Although noting that such precision is not necessary to understand the hull forms which are the subject of the patent, Mr Soars acknowledges that more than a minute concavity at the water line is required for the hull form to have a bulbous underwater part and a narrow waisted part extending through the water line.</sentence>
+<sentence id="s114">The expression 'substantial portion' 
+ 
+32 This expression is important because it directly affects the seakeeping characteristics of the vessel and designates the extent of the bulb in the forward half of the hull extending through the waterline which must be 'narrow waisted'.</sentence>
+<sentence id="s115">33 Austal contends that, on the evidence, the compound and inherent uncertainty in the terms used in the claims cannot be resolved by a skilled addressee so as to provide a commonsense assessment or understanding of the claims.</sentence>
+<sentence id="s116">Austal accepts that, consistent with a proper understanding of the specification as a whole, the reference to 'narrow waisted bulb' may be capable of referring to a circumstance where the bulb shape is present for the whole or almost all of the forward half of the hull.</sentence>
+<sentence id="s117">Austal refers to the fact that it will always be the case that the underwater forward extremity of the bulb is not waisted and therefore it cannot be said that the bulb occupies the entire forward half of the hull.</sentence>
+<sentence id="s118">At best, it could only occupy a substantial portion.</sentence>
+<sentence id="s119">Notwithstanding this conclusion, Austal contends that the claim lacks sufficient precision.</sentence>
+<sentence id="s120">34 Austal says that a critical question is whether a clear meaning can be given to the minimum longitudinal extent of the 'narrow waisted' bulb and the extent of waisting which must exist before it can properly be said to be narrow waisted.</sentence>
+<sentence id="s121">35 According to Stena, when the specification is read as a whole it gives sufficiently precise content to the expression 'substantial portion'.</sentence>
+<sentence id="s122">Stena refers to the prior existence of SWATH vessels and conventional catamarans, pointing out that the invention combines these two hull forms.</sentence>
+<sentence id="s123">Therefore, looked at broadly, the vessel would have a SWATH hull at the front end and a conventional catamaran form at the aft end, which difference in form requires a transition zone in between.</sentence>
+<sentence id="s124">The existence of a transition zone indicates that there is no precise transition point on the hull.</sentence>
+<sentence id="s125">Stena submits that the existence of the transition zone supports the view that there must be significant fairing between the forward and aft parts of the hull.</sentence>
+<sentence id="s126">When considering the characteristics of good stability at the aft of the hull and increased seakeeping at the forward part of the hull, one must balance considerations of the role of the vessel, the results required, and the particular circumstances which the vessel is likely to encounter.</sentence>
+<sentence id="s127">According to Stena, Figures 1, 2 and 3 also strongly support its construction.</sentence>
+<sentence id="s128">Figure 1 indicates a hull shape where the bulb and narrow waisted portion extends beyond the forward half significantly into the rearward half of the vessel.</sentence>
+<sentence id="s129">On its face, therefore, a reference to a 'substantial portion' of the forward half is a reference to hull forms in which the whole, or almost the whole, of the forward half of the hull has the relevant feature.</sentence>
+<sentence id="s130">36 The evidence of Mr Soars supports the conclusion that there is sufficient clarity and certainty in the expression 'substantial portion'.</sentence>
+<sentence id="s131">He says that on first reading the specification the language conveyed three parts to him and not two halves .</sentence>
+<sentence id="s132">The three parts were a forward section, an aft section and a transition zone.</sentence>
+<sentence id="s133">His interpretation was that 'substantial portion' is a reference to more than 50%, and thus the claim envisages a bulbous shape to the underwater hull over most or all of its forward half.</sentence>
+<sentence id="s134">He reached this conclusion as a consequence of the references to two characteristic shapes in the inventive hull, namely the SWATH-like forward end and the more conventionally shaped rear end, which are then required to merge.</sentence>
+<sentence id="s135">37 Mr Quigley, a witness called for Austal, considers that Mr Soars gave undue weight to the word 'substantial' in reaching his conclusion.</sentence>
+<sentence id="s136">Austal points out that Mr Soars conceded that Figure 1 was different to what he had in mind before he first saw it, and that he paid little regard to the features of the preferred embodiment as depicted in that drawing.</sentence>
+<sentence id="s137">There is nothing, Austal says, to compel the universal conclusion that the relevant portion of the forward half can be as little as 50% because of the lack of precision in the expression 'substantial portion'.</sentence>
+<sentence id="s138">Mr Quigley considers that the expression is imprecise and its parameters unclear.</sentence>
+<sentence id="s139">He attacks Mr Soars' construction on the basis that it was imprecise because he could not confidently give any exact figure to the expression.</sentence>
+<sentence id="s140">Mr Soars, it is said, conceded that the term 'substantial' is open to diverse meanings.</sentence>
+<sentence id="s141">38 In my view, the evidence indicates that it is not necessary to have numerical parameters to ascertain the meaning of 'substantial portion'.</sentence>
+<sentence id="s142">Having regard to the proposed practical operation of the vessels, and read in the context of the specification as a whole, I prefer the construction of Mr Soars to that of Mr Quigley.</sentence>
+<sentence id="s143">The meaning of the expression can be more closely defined when assessing the circumstances and objectives of the particular design of a vessel in the particular conditions in which it is expected to operate.</sentence>
+<sentence id="s144">The specification allows for a range of forms which will differ according to these variables.</sentence>
+<sentence id="s145">Accordingly, I do not consider that the expression is obscure or uncertain or otherwise inappropriate, regardless of whether considered in isolation from or in context of the other requirements in the specification.</sentence>
+<sentence id="s146">The expression 'narrow waisted' 
+ 
+39 As noted by Bennett J in Austal Ships Pty Ltd v Stena Rederi Aktiebolag (2004) 66 IPR 420 at 433, the requirements in the patent specification in relation to 'narrow waisted' are:
+ 
+ 
+ &#8226; 'SWATHs are catamaran type vessels where those parts of the hull located beneath the surface of the water are joined by narrow connections.</sentence>
+<sentence id="s147">Such vessels have a narrow hull waist, or narrow cross section, at the water line.</sentence>
+<sentence id="s148">
+ &#8226; The cross sectional shape of the hull shapes of the claims throughout a substantial portion of the forward half of the hull has a bulbous underwater part and a narrow waisted part which extends through the water line.</sentence>
+<sentence id="s149">
+ &#8226; The hull construction of the claims comprises a forward hull part which has a bulbous underwater cross section.</sentence>
+<sentence id="s150">That is, the hull width is narrower in the region of the water line than both above and below the water line.</sentence>
+<sentence id="s151">There are numerous references to the bulbous shape.</sentence>
+<sentence id="s152">For example, 'pronounced bulbous shape solely at the foreward part of its underwater body'.</sentence>
+<sentence id="s153">The bulbous shape of the forward part of the hull cross-section --- a relatively narrow hull width in the vertical region of the hull extends up through the water line.</sentence>
+<sentence id="s154">
+ &#8226; The figures, in particular fig 1, show the bulbous shape underwater and significant waisting at the water line.</sentence>
+<sentence id="s155">
+ &#8226; The hull is described in such a way as to indicate to the skilled reader that the forward part is SWATH-like.</sentence>
+<sentence id="s156">There is a specific reference to the link between the area above the water line and a characteristic of SWATHs' 
+ 
+
+40 Austal says that the expression 'narrow waisted', which is interrelated with the other requirements of integer 1.6, is also obscure and capable of diverse meanings.</sentence>
+<sentence id="s157">41 It is noteworthy that the reference is to a waist which is narrow.</sentence>
+<sentence id="s158">Not all waisting can of course be described as 'narrow'.</sentence>
+<sentence id="s159">It is common ground that the degree of waisting of the preferred embodiment in Figure 1 (expressed as a percentage of the forward half of the hull which is narrowed or waisted) is as follows: 
+ 
+ 
+ &#8226; 85% narrowing at 40% of the forward half of the hull;
+ &#8226; about 79-80% narrowing at 50% of the forward half of the hull;
+ &#8226; 62% narrowing at 80% of the forward half of the hull;
+ &#8226; about 42% narrowing at 100% of the forward half of the hull; and
+ &#8226; 23% narrowing at 120% of the forward half of the hull.</sentence>
+<sentence id="s160">
+ 
+
+42 On an ordinary grammatical reading, waisting can occur when lines are merely not parallel.</sentence>
+<sentence id="s161">As a matter of language, the expression 'waisting' requires only a discernable narrowing.</sentence>
+<sentence id="s162">However, given that the expression at issue here is 'narrow waisting', I agree with Bennett J that the expression 'narrow waisting', on its correct construction, means a 'significant narrowing': see Austal Ships Pty Ltd v Stena Rederi Aktiebolag (2004) 66 IPR 420 at 433-434.</sentence>
+<sentence id="s163">43 Mr Soars agreed that a hull with an underwater bulb which, at the waterline at 50 percent of the forward half of the hull, is waisted at little more than 20 percent would be profoundly different to the preferred embodiment in its ability to dampen the pitching of the vessel.</sentence>
+<sentence id="s164">Such a hull would have only one quarter of the waisting of the preferred embodiment at 50 percent of the forward half of the hull (that is, 20 percent waisting compared with 80 percent).</sentence>
+<sentence id="s165">Although Mr Soars ultimately put the requirement as being any waisting in excess of 20 percent, Austal notes that in cross examination Mr Soars referred to the expression 'narrow waisted' as being a vague one.</sentence>
+<sentence id="s166">By contrast, Mr Quigley considered that a vessel could not be a SWATH style vessel unless it had a waisting of at least 70 percent.</sentence>
+<sentence id="s167">He added that he had never seen a SWATH with only 20 percent waisting, stating that although he was unable to determine from the claims of the specification a precise percentage for the narrow waisting, a significant narrowing of the waist would require at least a 50 percent narrowing of the maximum underwater hull width.</sentence>
+<sentence id="s168">Accordingly, Austal submits that that degree of waisting, on the language of the claim, must be more than 50 percent.</sentence>
+<sentence id="s169">44 The difficulty with the evidence of Mr Quigley is that he has regard solely to the SWATH-type characteristics of the vessel.</sentence>
+<sentence id="s170">He has given insufficient weight to the hybrid nature of the hull design issue in suit.</sentence>
+<sentence id="s171">In my view, a narrowing of the waisting in the order of 20 percent or more could be said to be a significant narrowing.</sentence>
+<sentence id="s172">I accept the evidence of Mr Soars on this point.</sentence>
+<sentence id="s173">Integer 1.5 and Claim 7 
+ 
+45 Both integer 1.5 and claim 7 in the patent specification refer to the required width of the hull at the water line.</sentence>
+<sentence id="s174">Accordingly, it can be said that claim 7 incorporates claim 1 and is dependent on it.</sentence>
+<sentence id="s175">When read literally, integer 1.5 and claim 7 have different and inconsistent requirements.</sentence>
+<sentence id="s176">In integer 1.5 there must be a continual decrease in the forward direction, whereas claim 7 requires that the width is substantially constant in the sternward quarter and narrows towards the prow.</sentence>
+<sentence id="s177">46 Stena submits that the two requirements must be read together with the consequence that the requirement in claim 7 that the width remains substantially constant must replace the reference to 'continually decreases' in claim 1.</sentence>
+<sentence id="s178">47 Both Mr Soars and Mr Quigley considered that the 'substantially constant' requirement of claim 7 and the requirement of integer 1.5 were alternatives, so that there would be an inconsistency if claim 7 was construed so as to import the 'continually decreases' requirement of integer 1.5.</sentence>
+<sentence id="s179">Mr Soars went on to state that the term 'substantially constant' means constant or almost constant.</sentence>
+<sentence id="s180">He envisaged a water line width which is either constant over the sternward quarter of the hull or varies slightly or by a small amount.</sentence>
+<sentence id="s181">He expressed the view that where any variation in the width of the hull is less than 1.5 percent of the average width, this variation would be insignificant in the overall form of the hull.</sentence>
+<sentence id="s182">48 As a consequence of this view, Mr Soars considered that the width of the hull in the sternward quarter of the Austal 94 hull is substantially constant.</sentence>
+<sentence id="s183">Similarly, in the case of the Austal 196 and Austal 285 hulls, he regards the width of the hull at the water line as substantially constant in the sternward quarter, and any deviations as insignificant.</sentence>
+<sentence id="s184">49 Mr Soars' conclusion is that each of the three impugned Austal hulls shapes incorporate integer 1.6 of claim 1 because they have a hull form in which the cross-sectional shapes throughout a substantial portion of the forward half have a bulbous underwater part and a narrow waisted part which extends through the water line.</sentence>
+<sentence id="s185">He also considers that each of the impugned Austal hulls has a width at the water line which is substantially constant, and therefore incorporates this feature.</sentence>
+<sentence id="s186">50 In order to give content to both integer 1.5 and claim 7, it is appropriate to read integer 1.5 as requiring that the width of the hull at the water line is substantially constant in the sternward quarter and then narrows towards the prow.</sentence>
+<sentence id="s187">In this way the inconsistency can be resolved, all the while having regard to the fact that the requirement in claim 7 is specifically directed to the sternward quarter of the vessel whereas integer 1.5 refers to the entire hull.</sentence>
+<sentence id="s188">In my view, this is a fair and reasonable reading of the claims in the light of the specification as a whole, and is in accordance with the principle that a dependent claim incorporates the features of an earlier claim unless it is clear that the later claim is intended to cover a modification of the earlier claim: Blanco-White, Patents for Inventions (4 th ed., 1974) at [2-210].</sentence>
+<sentence id="s189">In the present case such a modification, in my view, was intended in relation to the sternward quarter of the inventive hull form.</sentence>
+<sentence id="s190">51 On this interpretation, claim 7 is not otiose and is given a commonsense construction when looked at in context of the whole specification.</sentence>
+<sentence id="s191">Further support for this interpretation is gleaned from comparing the claims as they stood immediately prior to the amendments made with effect from 5 March 1998.</sentence>
+<sentence id="s192">The previous version of claim 7 (which was then claim 8) removed the words 'generally decreases in the forward direction' from claim 1, and substituted them for the words 'is substantially constant in the case of the sternward quarter part of the vessel and then narrows towards the prow of the vessel' in claim 7.</sentence>
+<sentence id="s193">Accordingly, claim 7 was always intended to have its own specific width requirement referable to the sternward quarter which substituted for the more general width requirement appearing in claim 1.</sentence>
+<sentence id="s194">52 I am of the view that the two claims can be read in a modified way, such that the width of the inventive hull be substantially constant in the sternward quarter and then narrows forward.</sentence>
+<sentence id="s195">This reading has significant implications when considering whether there has been an infringement in respect of the Austal 94 hull form.</sentence>
+<sentence id="s196">INFRINGEMENT 
+ 
+53 In order to succeed on the infringement claim, Stena must show that Austal has taken each and every one of the essential integers of the patentee's claim; that is, Stena must show that each of the Austal 94, Austal 196 and Austal 285 vessels possesses all of the essential features of the relevant claims: see Populin v HB Nominees Pty Ltd (1982) 41 ALR 471 at 475; Olin Corporation v Super Cartridge Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 246 (per Gibbs J).</sentence>
+<sentence id="s197">54 The infringement claim concerns six multi-hull seagoing vessels, which were manufactured and sold by the respondents.</sentence>
+<sentence id="s198">Each of the six vessels were manufactured in accordance with one of three hull forms used by the respondents as set out in the following table.</sentence>
+<sentence id="s199">
+ Vessel Hull form Delivery date 
+ Adnan Menderez Austal 94 June 1998
+ Turgut Ozal Austal 94 December 1998
+ Jonathan Swift Austal 94 May 1999
+ Carmen Ernestina Austal 94 June 1999
+ Bocayna Express Austal 196 August 2003
+ Highspeed 5 Austal 285 mid-2005
+ 
+
+55 As already noted, the infringement issue turns on integers 1.5, 1.6 and claim 7 of the patent, and the dispute largely turns on the construction questions referred to above.</sentence>
+<sentence id="s200">56 Austal submits that because the Austal 94 vessels actually expand by 147 millimetres between the 100 percent and 90 percent frames in the sternward part of the hull they do not infringe the patent.</sentence>
+<sentence id="s201">This is because integer 1.5 requires that the width of the hull at the water line 'continually decreases in a forward direction'.</sentence>
+<sentence id="s202">Accordingly, if the vessel increases rather than reduces in width, there can be no infringement.</sentence>
+<sentence id="s203">57 I do not accept this argument.</sentence>
+<sentence id="s204">I accept the evidence of Mr Soars that the increase is insignificant and immaterial, and reject the submission of Austal that it is a significant deviation which takes the Austal 94 vessel outside the patent's integer 1.5.</sentence>
+<sentence id="s205">Although the deviation percentage between the 100 percent and 90 percent frames is 1.6 percent, which exceeds Mr Soars' suggested allowable maximum deviation of 1.5 percent, in my view this deviation must on the evidence be accepted as immaterial and insignificant or barely discernible.</sentence>
+<sentence id="s206">58 Additionally, I consider that on a proper construction of integer 1.5 and claim 7 the inconsistency in relation to the width requirements be resolved on the basis that claim 7 varies integer 1.5.</sentence>
+<sentence id="s207">The resulting requirement is that the hull width at the water line in the sternward quarter must be substantially constant before then narrowing forward.</sentence>
+<sentence id="s208">59 Mr Quigley accepted that a hull width which decreased only slightly would be 'substantially constant' and that this expression is less exacting than the expression 'continually decreasing'.</sentence>
+<sentence id="s209">In my view, a hull which increases in width by 147 millimetres would still be regarded as 'substantially constant'.</sentence>
+<sentence id="s210">Claim 7, while being dependent on claim 1, operates to clarify and vary the meaning of integer 1.5, so that the inventive hull has a sternward quarter at the water line which is 'substantially constant' before it then 'continually decreases' towards the prow of the vessel.</sentence>
+<sentence id="s211">60 In relation to Austal 196 and Austal 285, Austal accepts that the width of the sternward quarter of these hull forms is 'substantially constant', despite portions of the sternward quarter of these vessels being parallel.</sentence>
+<sentence id="s212">However, Austal does not accept that the vessels infringe claim 1 of the patent specification because they do not 'continually decrease'.</sentence>
+<sentence id="s213">Having regard to my conclusion in relation to claim 7, which more specifically deals with the sternward quarter being 'substantially constant', I do not think that claim 1 is applicable.</sentence>
+<sentence id="s214">Accordingly, I consider that the three hull forms are, in relation to their width , caught by claim 1 and claim 7.</sentence>
+<sentence id="s215">61 The degree of waisting of the preferred embodiment of the inventive hull is set out at [41] above.</sentence>
+<sentence id="s216">By comparison, the degree of waisting in each of the three impugned Austal vessels is as follows:
+ 
+ Austal 94 : 51.3% narrowing at 50% of the forward half of the hull
+ 45.4% narrowing at 60% of the forward half of the hull
+ 33.90% narrowing at 80% of the forward half of the hull
+ 22.3% narrowing at midships (100% of the forward half of the hull)
+ 
+ Austal 196 : 25.5% narrowing at 50% of the forward half of the hull
+ 20.0% narrowing at 60% of the forward half of the hull
+ 11.7% narrowing at 80% of the forward half of the hull
+ 5.8% narrowing at midships (100% of the forward half of the hull)
+ 
+ Austal 285 : 27.1% narrowing at 50% of the forward half of the hull
+ 22.7% narrowing at 60% of the forward half of the hull
+ 15.6% narrowing at 80% of the forward half of the hull
+ 8.5% narrowing at midships (100% of the forward half of the hull) 
+ 
+ 
+
+62 Having regard to this evidence, it is apparent that Figure 1 to the patent specification discloses a substantial narrowing of the forward half of the hull.</sentence>
+<sentence id="s217">This narrowing ranges from 85 percent narrowing at 40 percent of the forward half of the hull to 42 percent at midships (100 percent of the forward half).</sentence>
+<sentence id="s218">Of course, the preferred embodiment is indicative only and does not limit the range of narrowing which can be comprised within the claim.</sentence>
+<sentence id="s219">In addition, the evidence also demonstrates that almost the entire forward half of the Austal 94 hull shape exceeds 25 percent narrowing.</sentence>
+<sentence id="s220">In my view, that extent of narrowing can be said to come within integer 1.6.</sentence>
+<sentence id="s221">63 By contrast, it cannot be said that all or almost all of the forward half of the Austal 196 and Austal 285 possess a significant waisting.</sentence>
+<sentence id="s222">Indeed, Stena even accepts that Austal 196 and 285 are closer to the margins of the claims in respect of the requirements in integer 1.6 for a 'bulbous underwater part' and 'narrow waisted part which extends through the waterline'.</sentence>
+<sentence id="s223">In the case of Austal 196 hull there is a narrowing from 25.5% at 50% of the forward half of the hull to 5.8% narrowing at midships.</sentence>
+<sentence id="s224">In the case of the Austal 285 hull there is a narrowing from 27.1% narrowing at 50% of the forward half of the hull to 8.5% narrowing at midships.</sentence>
+<sentence id="s225">In my view, both of these vessels are outside the claim because they do not satisfy the requirement that they should be significantly narrow waisted for all or almost all of the forward half of the hull.</sentence>
+<sentence id="s226">64 Accordingly, in relation to the question of infringement, I consider that the Austal 94 hull form is within claims 1.6 and 7 and thus infringes the patent.</sentence>
+<sentence id="s227">I also consider that both the Austal 196 hull form and the Austal 285 hull form are outside claims 1.6 and 7 and consequently do not infringe the patent.</sentence>
+<sentence id="s228">PRIORITY DATE 
+ 
+65 The issue as to the priority date is whether patent takes priority from the date of filing of the original application in Sweden on 30 January 1991 or whether it should be taken as 5 March 1998 when the amendment to the specification, which added integer 1.6, was filed.</sentence>
+<sentence id="s229">The determination is important because it affects the questions of obviousness and novelty due to the fact that the Stena hull forms which constitute the embodiment of the claimed invention were disclosed after 1991 but before 1998.</sentence>
+<sentence id="s230">66 The priority date of the claims is to be determined according to ss 43 and 114 (1) of the Act and regs 3.12 and 3.14 of the Patents Regulations 1991 (Cth) ("Regulations").</sentence>
+<sentence id="s231">The effect of these provisions is that the priority date of the current patent is the filing date in Australia, namely 28 January 1992, unless the Regulations so provide.</sentence>
+<sentence id="s232">However, if the claims of the patent are fairly based on matter which is disclosed in the original application document in Sweden, then the priority date will be the date of filing in Sweden, namely 30 January 1991.</sentence>
+<sentence id="s233">In other words, if the present claims cover matters which were in substance really and reasonably clearly disclosed, so that the invention as now claimed is broadly described in the body of the original specification considered as a whole, then the priority date will be taken as 30 January 1991: see Pfizer Inc v Commissioner for Patents [2005] FCA 137 ; (2005) 141 FCR 413 at 420; Rhem Pty Ltd v Websters Security Systems (International) Pty Ltd (1988) 81 ALR 79 at 95; Lockwood Security Products Pty Limited v Doric Products Pty Limited [2004] HCA 58 ; (2004) 217 CLR 274 at 300-301.</sentence>
+<sentence id="s234">67 The submission by Austal in relation to the question of priority date is that if the words 'substantial portion' in integer 1.6, when properly interpreted, mean something other than 'all or almost all the forward half of the hull', then the amendments made on 5 March 1998, which introduced the feature for the first time, materially altered the scope of the invention claim, therefore rendering the priority date the date of the amendments.</sentence>
+<sentence id="s235">This is said to be so because, prior to the amendments, the specification described a bulbous and narrow waisted part as extending throughout all of the forward half of the hull.</sentence>
+<sentence id="s236">Indeed, in the case of the preferred embodiment, the bulbous narrow waisted part extended throughout all or almost all of the forward half and into the sternward half of the hull.</sentence>
+<sentence id="s237">Thus if the term 'substantial portion' means something other than all or almost all of the forward half, then the amendments enlarge the scope of the claim because the bulbous and narrow waisted part need only be located in a substantial portion of the forward half of the hull.</sentence>
+<sentence id="s238">68 For reasons given earlier on the question of construction, I am of the view that the expression 'substantial portion' means all or almost all of the forward half of the hull.</sentence>
+<sentence id="s239">Therefore, the arguments advanced by Austal do not arise.</sentence>
+<sentence id="s240">69 In any event, even if the question of construction had been decided differently, I would conclude that integer 1.6 is in substance disclosed in the original application in Sweden and the claims are thus entitled to priority as from 30 January 1991.</sentence>
+<sentence id="s241">On a fair and commonsense reading of that patent specification as a whole, there is a real and reasonably clear disclosure of the invention.</sentence>
+<sentence id="s242">The body of the specification and the claims provide a broad and general disclosure of a family of hull shapes incorporating a conventional catamaran aft and a SWATH-like shape forward with a transition zone between the two.</sentence>
+<sentence id="s243">There is no specific numeric or percentage limitation as to the extent of the length or size of the respective shapes, nor is there an explicit requirement that the bulbous underwater part and the narrow waisted part must extend through the whole of the forward half.</sentence>
+<sentence id="s244">The language used is cast in terms broad enough to allow for a spectrum of possible versions of the hull shape, depending on particular needs and circumstances of operation.</sentence>
+<sentence id="s245">The specification simply requires that the cross section of the hull has a substantially onion-shape in the forward part of the hull.</sentence>
+<sentence id="s246">It is a general disclosure not limiting the bulb to the whole of the forward half.</sentence>
+<sentence id="s247">There is a clear difference between the references to a forward half and a forward part .</sentence>
+<sentence id="s248">The language of the original application in Sweden is not prescriptive or precise as to any limitations of forms.</sentence>
+<sentence id="s249">It is comprehensive and flexible, and the 5 March 1998 amendment does not materially alter the scope of the invention claim in such a way as to defer the priority date.</sentence>
+<sentence id="s250">70 Mr Soars' evidence confirms the above conclusion.</sentence>
+<sentence id="s251">I accept his evidence that the inventive hull shape begins as a pronounced onion-shape merging into a catamaran aft, whereby at some point in between the two areas there will be a bulb which is not 'pronounced'.</sentence>
+<sentence id="s252">He did not consider that the word 'pronounced' required the bulb-shape to be coextensive with the whole forward half, but simply that it was required to be pronounced or narrow waisted in the forward part.</sentence>
+<sentence id="s253">Mr Soars acknowledged that Figure 1 attached to the patent specification covered a concept with a multitude of possibilities, of which the preferred embodiment was one.</sentence>
+<sentence id="s254">It was illustrative, not definitive or prescriptive.</sentence>
+<sentence id="s255">71 Accordingly, for these reasons, I conclude that the priority date of the claims is 30 January 1991.</sentence>
+<sentence id="s256">Consequently, the disclosure of various documents and publications after the priority date but before 5 March 1998 need not be taken into account on the question of novelty or obviousness.</sentence>
+<sentence id="s257">INVENTIVE STEP AND OBVIOUSNESS 
+ 
+72 The principles relating to 'inventive step' and 'obviousness' were recently considered by the High Court in Lockwood Security Products Pty Ltd v Doric Products Pty Ltd [2007] HCA 21.</sentence>
+<sentence id="s258">In that case, their Honours referred to ss 7(2) and (3) the Act , which describe the statutory test as to what constitutes an 'inventive step'.</sentence>
+<sentence id="s259">Their Honours noted at [122] and [150] that the standard by which obviousness is to be determined is by reference to the understanding of a person skilled in the relevant art, who, at the priority relevant date, would possess common general knowledge in that art, and who would have had regard to any additional information referred to in s 7(3): see also Firebelt Pty Ltd v Brambles Australia Ltd [2002] HCA 21 ; (2002) 188 ALR 280 at 287-289; Tidy Tea Ltd v Unilever Australia Ltd (1995) 32 IPR 405 at 414 (per Burchett J).</sentence>
+<sentence id="s260">The Court clarified at [152] that s 7(3) has the effect of enlarging the prior art base to include relevant prior disclosures beyond that information which is shown to constitute common general knowledge in that art.</sentence>
+<sentence id="s261">73 The High Court at [111] emphasised that it is not the role of a court to substitute its own conclusion for the objective test laid down by ss 7(2) and (3), except in the rarest of circumstances: see also Technograph Printed Circuits Ltd v Mills &amp; Rockley (Electronics) Ltd [1972] RPC 346 at 355 (per Lord Reid).</sentence>
+<sentence id="s262">The task for the court is to look forward from the prior art base to what a person skilled in the relevant art is likely to have done when faced with the problem which the patentee claims to have solved.</sentence>
+<sentence id="s263">The Court noted at [115]-[116] the importance of secondary evidence when considering whether an inventive step has been achieved.</sentence>
+<sentence id="s264">Secondary evidence is that evidence which relates to matters such as the commercial success of the invention, the satisfaction of a long felt want or need, the failure of others to find a solution to the problem and the copying of the invention by competitors.</sentence>
+<sentence id="s265">Their Honours at [115] also refer to the necessity for a court to consider the scope and extent of the prior art, and to determine the precise advance over that which was previously in existence, when assessing the level of that prior art.</sentence>
+<sentence id="s266">74 When considering the application of s 7(3) , the Court observed at [152] that attention must be directed to prior disclosures (that is publicly available information which is not part of common general knowledge), which a person skilled in the relevant art could be expected to have regarded as relevant to solving a particular problem.</sentence>
+<sentence id="s267">This does not mean that regard must be given to any work in the relevant art whatsoever, but rather only to that information a person skilled in the art could regard as relevant when confronted with the problem faced by the patentee.</sentence>
+<sentence id="s268">75 In this case, it is not the principles relating to 'inventive step' and 'obviousness' which are in dispute, but rather their application.</sentence>
+<sentence id="s269">Austal submits that the hull of the invention is only a hybrid combination of desirable features of conventional catamaran hulls and SWATH hulls to produce a multi-hull vessel suitable for high speed operations in exposed seas.</sentence>
+<sentence id="s270">The design approach of Stena was not counter-intuitive.</sentence>
+<sentence id="s271">A person or team skilled in the art as at the priority date would, when seeking to modify the hull of a catamaran or SWATH into a hull of a so-called semi-SWATH in order to improve seakeeping while retaining speed and stability, design a hull form within the claims without any inventive step.</sentence>
+<sentence id="s272">This, Austal submits, demonstrates that the claimed invention is obvious.</sentence>
+<sentence id="s273">76 Austal submits that the relevant prior art base for consideration concerns large high speed multi-hull passenger and cargo vessels suitable for use in exposed sea conditions.</sentence>
+<sentence id="s274">It argues that, prior to 30 January 1991, the advantages and disadvantages of both conventional multi-hull catamaran-type vessels and SWATH-type vessels were apparent and known to those in the field.</sentence>
+<sentence id="s275">Conventional catamarans were known to be highly efficient with low resistance and capable of high speeds greater than 30 knots.</sentence>
+<sentence id="s276">They had broad flat stern sections and were well suited to accommodate large engines, gear boxes and water jets to enable high speed propulsion.</sentence>
+<sentence id="s277">In addition, the broad flat stern sections were suitable for loading cargo on and off the stern.</sentence>
+<sentence id="s278">One difficulty they suffered, however, was bad seakeeping when operating in exposed waters, which arose from the vertical motion imparted due to the influence of waves.</sentence>
+<sentence id="s279">77 SWATH vessels, on the other hand, had advantages of good seakeeping due to their small water plane area and the ability to move at high speeds (up to about 30 knots).</sentence>
+<sentence id="s280">However, SWATH vessels suffered hindrances in the form of limitations on their maximum speed due to high frictional resistance arising from large wetted surface areas.</sentence>
+<sentence id="s281">They also had low load stability and involved some engineering complexities, such as difficulty in installing and powering suitable water jet propulsion.</sentence>
+<sentence id="s282">As a result of this difficulty with propulsion, they were regarded as unsuitable for use above 30 knots.</sentence>
+<sentence id="s283">78 Having identified the respective advantages in each type of vessel, Austal contends that the invention claimed by Stena was simply a combination of the stern part of a catamaran hull form with the forward part of a SWATH hull form in order to achieve the benefits of both hull forms in combination.</sentence>
+<sentence id="s284">79 The inventive hull achieves high speeds in exposed seas while at the same time maintaining good seakeeping.</sentence>
+<sentence id="s285">The high speed is achieved by water jet propulsion, the use of which is made possible by the wide flat stern, which is a feature adopted from the catamaran hull form.</sentence>
+<sentence id="s286">Austal submits that a person skilled in the prior art would have been directly led to adopt this form of 'hybrid' hull if faced with the same problem addressed by the patent.</sentence>
+<sentence id="s287">Mr Soars agreed that the advantages of the invention were a direct consequence of marrying the respective features of a catamaran and a SWATH.</sentence>
+<sentence id="s288">The approach which Austal argues was obvious, was to start with a SWATH vessel and modify it accordingly.</sentence>
+<sentence id="s289">The design pathway would involve widening the transom to accommodate water jets and then placing those jets at or about the waterline.</sentence>
+<sentence id="s290">The transom could be lifted to reduce transom drag and ensure that the underside of the transom was reasonably close to the bottom of the water jets.</sentence>
+<sentence id="s291">Finally, the hull lines could be merged into the conventional shape of the forward part of a SWATH vessel, while retaining as much of the SWATH shape as possible.</sentence>
+<sentence id="s292">This, it is said, was an obvious solution to the disadvantages of speed suffered by the SWATH hull form.</sentence>
+<sentence id="s293">To support this contention, Austal refers to evidence that SWATH vessels (such as the "Seagull", the "Patria" and "Navatek 1"), which were known or in operation by the priority date, had good seakeeping qualities.</sentence>
+<sentence id="s294">80 A second obvious approach advanced by Austal was to start with a catamaran hull form and modify it accordingly.</sentence>
+<sentence id="s295">Austal says that this approach had been taken in Australia before 1991, and referred to the Crowther 155, the Austal 14 and Austal 18 vessels as examples.</sentence>
+<sentence id="s296">The evidence is, however, that these vessels were designed for semi-sheltered waters, and not for exposed seas where good seakeeping was of central importance.</sentence>
+<sentence id="s297">Nor did they provide significant seakeeping improvements.</sentence>
+<sentence id="s298">Notwithstanding this, Austal submits that the improvements made by the invention could readily be made by extending the bulbous portion of the hull.</sentence>
+<sentence id="s299">Austal points to the fact that these hulls had a smaller forward water plane area than conventional catamarans, thus approximating or suggesting a type of 'hybrid' hull form.</sentence>
+<sentence id="s300">Mr Black considered that the design of the Crowther 155, the Austal 14 and Austal 18 vessels were very close to incorporating the features of the present claims.</sentence>
+<sentence id="s301">Austal argues that this design pathway of 'desensitising' the forward part of the hull to reduce vertical movement was also an obvious approach to improve seakeeping of catamarans.</sentence>
+<sentence id="s302">81 On the question of lack of inventive step or obviousness, the evidence of Mr Soars is that the hull forms in the patent are not mere variations of already designed hull forms in existence prior to 30 January 1991.</sentence>
+<sentence id="s303">He was aware of catamarans with bulbous bows, such as the Crowther and Austal designs, which had been used on conventional cargo ships for many years to reduce the resistance of the vessels.</sentence>
+<sentence id="s304">He had carried out tank testing on the effects of bow shape on dampening motions, but felt that while they would provide some improvement it would be quite small.</sentence>
+<sentence id="s305">He considers that the identified 'prior art' does not meet requirements of claim 1 of the patent that:
+ 
+&#8226; the width of the hull must continually decrease in a forward direction; 
+ 
+&#8226; there is a bulbous under water part and a narrow waisted part which extends through the water line for a substantial portion of the forward half; an
+ 
+&#8226; the volumetric centre-of-gravity requirement of the hull in the forward half is less than 55 percent.</sentence>
+<sentence id="s306">82 He does not consider that someone as at the priority date would have tried to solve the problem addressed by the patent in the way set out therein.</sentence>
+<sentence id="s307">The facts that there was a lot of development work going on world-wide, including in Australia, and that nobody had resolved the seakeeping problem in the way described by the patent, supports the innovative nature of the hull shapes in the patent.</sentence>
+<sentence id="s308">83 He states that other hull forms which had been designed sought to reduce pitching by reducing the reserve buoyancy above the water line, while the inventive hull sought to reduce buoyancy both above and just below the water line.</sentence>
+<sentence id="s309">While the same can be said of the Austal and Crowther bulbous bow catamarans, they also had bows that were substantially smaller and did not include a narrow water line or small water plane area.</sentence>
+<sentence id="s310">In the pre-existing vessels described in the Austal evidence as 'semi-SWATH', the water plane area of the forward half of the hull is conventional.</sentence>
+<sentence id="s311">The inventive design differs from these characteristics in significant respects.</sentence>
+<sentence id="s312">84 In the opinion of Mr Soars, none of the Crowther designs or Austal designs included all the features required by claim 1.</sentence>
+<sentence id="s313">They were at most conventional catamarans with the addition of a smaller bulbous bow.</sentence>
+<sentence id="s314">They did not have a substantial portion of the forward half of the hull which was bulbed and waisted.</sentence>
+<sentence id="s315">Nor did they have a small water plane area in the forward part of the hull.</sentence>
+<sentence id="s316">The bulbous portions of the hulls did not extend beyond 10 to 15 percent of the length of the hull.</sentence>
+<sentence id="s317">They did not have hull shapes a with small water plane area forward at the water line.</sentence>
+<sentence id="s318">Other vessels relied on to demonstrate the lack of an inventive step were twin hull vessels with bulbous bows and normal (that is, not small) water plane areas at the water line in the forward half.</sentence>
+<sentence id="s319">Mr Soars stated that the defining feature of SWATH vessels is to have the maximum beam of the under water hull form significantly greater than the beam at the water line throughout the length of the hull, thereby giving a small water plane area.</sentence>
+<sentence id="s320">None of the hull forms in Australia at 30 January 1991 had water plane areas which could be described as small throughout the forward half.</sentence>
+<sentence id="s321">Moreover, the Crowther and Austal designs do not have a hull the width of which at the water line is substantially greater in the aft body than in the forward body, and thus can be said to generally decrease in a forward direction.</sentence>
+<sentence id="s322">They have a water line that is constant or near constant in the entire aft of the hull.</sentence>
+<sentence id="s323">85 Mr Soars considers that the claims and description in the patent specification provide sufficient information to develop the design of a catamaran hull form having the features required.</sentence>
+<sentence id="s324">He sees the essence of the patent being in the fact that the hull shape has a low centre of buoyancy in the forward part of the hull, with a significantly lower than average water plane area, combined with a higher centre of buoyancy in the aft part of the hull, with a high water plane area increasing from forward to aft.</sentence>
+<sentence id="s325">He considers that a competent naval architect is given more than enough information in the patent to put the invention into practice.</sentence>
+<sentence id="s326">Mr Soars also disagrees with the approach suggested by Mr Quigley with respect to the "Patria", on which Austal relied to demonstrate a lack of inventive step in the patent.</sentence>
+<sentence id="s327">Mr Soars states that the "Patria" was a failed attempt to make a SWATH vessel more practical.</sentence>
+<sentence id="s328">He notes that the merging of a SWATH with a catamaran, as described in a journal article put in evidence, is quite different to that in the patent.</sentence>
+<sentence id="s329">The "Patria" and the hybrid in the article are simply SWATHs with more water plane area than a conventional SWATH.</sentence>
+<sentence id="s330">There was no suggestion in either source of what Mr Soars describes as a 'semi-SWATH hull' prior to the priority date.</sentence>
+<sentence id="s331">He says the design trend in the industry in the 1980s and early 1990s was towards a wave piercer design to reduce motions in a seaway.</sentence>
+<sentence id="s332">The wave piercer has its water plane width forward, which is at its widest closest to the water line and becomes narrower above and below the water line.</sentence>
+<sentence id="s333">This is the opposite from a SWATH where the water plane is narrowest at the water line and increases below and above the water line.</sentence>
+<sentence id="s334">86 Mr Soars also notes that wave piercers were designed to achieve better seakeeping than traditional catamaran hulls by 'piercing' the waves.</sentence>
+<sentence id="s335">On the other hand, SWATH vessels minimise forces that cause pitching by reducing the volume of the hull in the vicinity of the water line, often by using struts to connect the superstructure with the underwater torpedo hull form.</sentence>
+<sentence id="s336">This has no resemblance to a conventional catamaran.</sentence>
+<sentence id="s337">The wave piercing hull was derived by starting first with a conventional catamaran hull and then reducing the free board of the hull so that the deck was above the static water line.</sentence>
+<sentence id="s338">87 Although there was some attack was on the effect of the evidence given by Mr Soars, I am of the view that his evidence was not significantly shaken in cross-examination and I accept him as a credible witness.</sentence>
+<sentence id="s339">I prefer his evidence to that of the other witness for the following reasons.</sentence>
+<sentence id="s340">88 In a number of significant respects the evidence of Mr Quigley was unsatisfactory and I conclude therefore that his evidence should not be accepted where it is conflict with Mr Soars'.</sentence>
+<sentence id="s341">89 The evidence of Mr Quigley was influenced by information and knowledge acquired after the priority date as a consequence of hindsight and information given to him by instructions of a leading nature when he was first retained.</sentence>
+<sentence id="s342">The clearest illustration of this point, identified by Stena, is Mr Quigley's use of the expression 'semi-SWATH' when the term was not, as is demonstrated by the evidence, in existence until after the priority date.</sentence>
+<sentence id="s343">Furthermore, instructions alerted Mr Quigley to the Crowther 155, Austal 14 and Austal 18 hulls relied on by Austal, and he was aware of the patent to which his expert evidence would relate.</sentence>
+<sentence id="s344">While he included a discussion of SWATHS in his affidavit, none had been sold in Australia before the priority date.</sentence>
+<sentence id="s345">90 Of particular significance when considering the evidence of Mr Quigley are the handwritten annotations made by him on the instructions he received when initially asked to provide evidence.</sentence>
+<sentence id="s346">The notes indicate that he was not aware of publications to which he later referred in subsequent affidavits.</sentence>
+<sentence id="s347">Indeed, it is difficult to identify those publications referred to in his affidavit that he would have been able to obtain if he had sought to solve the problem addressed by the patent specification prior to 1991.</sentence>
+<sentence id="s348">His attempts to explain this in cross-examination were unsatisfactory.</sentence>
+<sentence id="s349">The substance of these notes suggests that there was no distinction between SWATHS and semi-SWATHS, which he claims were known to him prior to the priority date.</sentence>
+<sentence id="s350">I am not persuaded that he undertook research on the state of naval architecture in 1991 for the purpose of giving his evidence.</sentence>
+<sentence id="s351">His later affidavits were highly argumentative in nature and in a number of respects failed to address the substance of the views expressed by Mr Soars.</sentence>
+<sentence id="s352">Finally, in cross-examination he was unable to identify what design he would have used when confronted in 1991 with the problem addressed by the patent specification.</sentence>
+<sentence id="s353">Ultimately, this supports the existence of an inventive step in the invention.</sentence>
+<sentence id="s354">91 Other witnesses called for Austal were also unsatisfactory on this question.</sentence>
+<sentence id="s355">Mr Wagner's evidence neither relates to the issues in dispute in these proceedings, nor is based on any work done in Australia relevant in this case.</sentence>
+<sentence id="s356">Moreover, the designs with which he is familiar differ from the hull in the claimed invention.</sentence>
+<sentence id="s357">Mr Black's evidence suffers because he is not an independent witness, employed as he is by Austal, and because he was aware of the patent and had been involved in its opposition.</sentence>
+<sentence id="s358">Indeed, it is revealing to note that Mr Black described the similarities between the Austal 94 hull form and the patent claims as 'too close for comfort!'.</sentence>
+<sentence id="s359">His evidence that the expression 'narrow waisted' refers to any waisting whatsoever has already been rejected by Bennett J, with whom I agree at [42] above: see A ustal Ships Pty Ltd v Stena Rederi Aktiebolag (2004) 66 IPR 420 at 433-434.</sentence>
+<sentence id="s360">In addition, he refers to the concept of 'semi-SWATH', which indicates that his knowledge was affected by information obtained after the priority date.</sentence>
+<sentence id="s361">92 The evidence of Mr Norman for Austal was also unsatisfactory.</sentence>
+<sentence id="s362">His evidence does not address the developments in Australia at Austal between the design of both Austal 14 and Austal 18 in 1990 and the design of Austal 94.</sentence>
+<sentence id="s363">It is significant to note that no evidence was adduced by Austal to explain the steps which were taken to arrive at the design of the Austal 94, despite the apparent availability of this information.</sentence>
+<sentence id="s364">93 Austal relied on the "Patria", which was a modified SWATH in operation before the priority date, as an example of a vessel with SWATH-type features which could be suitably modified to solve the problem addressed by the patent.</sentence>
+<sentence id="s365">The "Patria", however, is classified as a SWATH vessel and the evidence indicates that its design and use of propeller propulsion created problems at speed.</sentence>
+<sentence id="s366">This indicates that any attempt to modify the "Patria" design would require significant design modifications in order to accommodate some form of water-jet propulsion in order to achieve speeds above 30 knots.</sentence>
+<sentence id="s367">While the "Patria" may have had good seakeeping features, this was achieved at the expense of speed, which is a critical element in the problem the invention was designed to meet.</sentence>
+<sentence id="s368">It should be noted that when Mr Quigley initially dealt with the question of obviousness, he made no reference whatsoever to the "Patria".</sentence>
+<sentence id="s369">This lends support to the conclusion that it was not a type of vessel which readily came to mind when considering the question of obviousness.</sentence>
+<sentence id="s370">94 I do not agree that, on the evidence, it would have been a clear and simple task to make adjustments to the hull form of the "Patria" so as to include some form of jet propulsion, and thereby satisfactorily resolve the problems addressed by the patent.</sentence>
+<sentence id="s371">Moreover and more generally, it is not sufficient, in my view, simply to assert that the fusing together of the concepts of a SWATH and a conventional catamaran was an obvious solution to the problem addressed by the patent.</sentence>
+<sentence id="s372">The level of generality of this assertion is too great.</sentence>
+<sentence id="s373">95 To further its argument that the claimed inventive step was obvious, Austal also relies on documents and information concerning the Davidson A destroyer and related vessels, which were disclosed before the priority date and showed high speed vessels designed to improve seakeeping in exposed waters.</sentence>
+<sentence id="s374">Austal submits that this information would be considered by a person skilled in the art as being directly relevant to the design of a hull suitable for such operations.</sentence>
+<sentence id="s375">The result of this submission is that the invention would be obvious once a person skilled in the art had regard to the Davidson A hull design.</sentence>
+<sentence id="s376">96 In particular, Austal relied on prior art information in the form of some journal articles, drawn in particular from the Journal of Ship Research .</sentence>
+<sentence id="s377">These articles, which date back to 1960, are advanced as publications which Mr Quigley in fact consulted or which he could have readily located.</sentence>
+<sentence id="s378">For instance, Austal relies on information relating to the Davidson A destroyer discussed in an article in a 1970 article: Smith &amp; Salvesen, "Comparison of Ship-Motion" (1970) 14(1) Journal of Ship Research 67.</sentence>
+<sentence id="s379">However, in my view, the articles are inconclusive.</sentence>
+<sentence id="s380">In part, this is because the Davidson A destroyer is a monohull vessel developed in the area of military defence vessels.</sentence>
+<sentence id="s381">Mr Quigley gave evidence that he is now aware of the Davidson Laboratory, but did not recall whether he was aware of it in January 1991.</sentence>
+<sentence id="s382">He says that it was possible that he might have sought out a copy of the publications concerning the vessel.</sentence>
+<sentence id="s383">His evidence is quite unsatisfactory on this aspect.</sentence>
+<sentence id="s384">The mere fact that the vessel was a monohull would not of itself eliminate from consideration publications discussing it, but Austal has not explained precisely how such modification to a monohull shape could be achieved so that it would come within the claims.</sentence>
+<sentence id="s385">97 As pointed out by Emmett J in E I Du Pont De Nemours v ICI Chemicals &amp; Polymers Ltd (2005) 66 IPR 462 at 493:
+ 
+ 'Ultimately, it is a matter for the court as to whether a proposed line of enquiry was obvious to the relevant persons.</sentence>
+<sentence id="s386">Where the evidence of a relevant person constitutes no more than speculation as to what that person might have done in circumstances that had never arisen ... the evidence will have little weight'.</sentence>
+<sentence id="s387">
+ 
+
+98 In my view, the evidence does not establish that the Davidson A hull would provide any basis to support the argument which would make the claimed inventive step obvious or non-existent.</sentence>
+<sentence id="s388">99 Furthermore, simply because the earlier Austal hulls and Crowther hull included a bulbous bow in a catamaran hull design does not automatically mean they were relevant to a consideration of the problem addressed by the patent.</sentence>
+<sentence id="s389">It is left unclear as to the nature and extent of the modifications required to make such vessels suitable for use in exposed waters.</sentence>
+<sentence id="s390">I accept the evidence that these vessels did not disclose the use of a small water plane area for a substantial portion of the forward half of the vessel, which is a crucial feature of the patent specification.</sentence>
+<sentence id="s391">They were more akin to the water plane areas used in conventional catamarans at that time.</sentence>
+<sentence id="s392">The use of such vessels in calm or sheltered waters does not necessarily provide any useful guide to the design of a hull suitable for use at high speed in exposed waters, in which conditions the problem of good seakeeping is greatly increased.</sentence>
+<sentence id="s393">100 The onus is on Austal to show that the documents and publications establish a lack of inventive step.</sentence>
+<sentence id="s394">It is not enough merely to show that the documents and publications relied on could have been ascertained.</sentence>
+<sentence id="s395">Rather, Austal must show that they were documents and publications which the skilled person could be 'reasonably expected' not only to have ascertained but also to have understood and regarded as relevant to the inventive hull form.</sentence>
+<sentence id="s396">In my view this has not been proven.</sentence>
+<sentence id="s397">101 The evidence does not satisfy me that the documents and publications relied on by Austal could have been reasonably expected to have been ascertained by a person skilled in the art who would understand or regard it as relevant as at the priority date.</sentence>
+<sentence id="s398">In my view, the evidence advanced by Austal amounts to little more than an argument that the respective advantages of the SWATH and catamaran vessels might have been fused as at the priority date, but no obvious way in which this might have been accomplished has been indicated in any convincing manner.</sentence>
+<sentence id="s399">It is not enough to suggest that, conceptually or theoretically, there may have been a combination of the desirable characteristics of both types of vessels in order to achieve the qualities achieved by the patent.</sentence>
+<sentence id="s400">102 For the above reasons, I am not satisfied that there was no inventive step in this case.</sentence>
+<sentence id="s401">Austal has failed to make out its case that there was no inventive step in the invention, as required by ss 7 and 18 of the Act .</sentence>
+<sentence id="s402">NOVELTY 
+ 
+103 Austal also submits that claims 1 to 9 in the patent specification lack novelty and therefore the patent is invalid because it does not satisfy s 7(1) of the Act .</sentence>
+<sentence id="s403">This argument depends on a finding that the priority date is 5 March 1998.</sentence>
+<sentence id="s404">For the reasons given above, I consider that the priority date is 30 January 1991.</sentence>
+<sentence id="s405">Accordingly, Austal's submissions on novelty must fail.</sentence>
+<sentence id="s406">SECTION 40 OF THE ACT 
+ 
+104 For the same reasons given above in relation to the construction of the claims, I consider that the claims are sufficiently precise to define the invention in a real and practical sense.</sentence>
+<sentence id="s407">The use of percentages following expressions such as 'greater than' or 'less than' does not mean that the claims fail to define the invention.</sentence>
+<sentence id="s408">Nor can it be said that the specification does not describe the invention fully.</sentence>
+<sentence id="s409">The language used in the claims is clear and comprehensive.</sentence>
+<sentence id="s410">105 As to the question of fair basis, because I consider the patent as granted is fairly based on the disclosure in the original application in Sweden, and taking into account the similarity of that patent specification and the present patent specification, I consider there is fair basis for the claims in this case.</sentence>
+<sentence id="s411">The claims do not travel beyond the disclosure.</sentence>
+<sentence id="s412">The consistory clauses at pages 3 to 3A reflect the language of the claims and provide a fair basis for them: see Lockwood Security Products Pty Ltd v Doric Products Pty Ltd [2004] HCA 58 ; [2004] 217 CLR 274 at 293-294.</sentence>
+<sentence id="s413">CONCLUSION 
+ 
+106 The applicant has established infringement in respect of the Austal 94 hull design but not in respect of the Austal 196 and Austal 285 hull designs.</sentence>
+<sentence id="s414">The cross-claim as to invalidity is dismissed.</sentence>
+<sentence id="s415">I direct the applicant to draft and file Short Minutes of Orders to deal with the precise form of orders and as to future directions in this matter.</sentence>
+<sentence id="s416">I will hear the parties on costs and on the form of orders at a time to be arranged with my associate.</sentence>
+<sentence id="s417">I certify that the preceding one hundred and six (106) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tamberlin.</sentence>
+<sentence id="s418">Associate:
+
+Dated: 21 June 2007
+
+
+ Counsel for the Applicant: Mr J. Nicholas SC and Mr C. Dimitriadis 
+ 
+ Solicitor for the Applicant: Spruson &amp; Ferguson Lawyers 
+ 
+ Counsel for the Respondent: Mr B. Caine SC, Mr G.L.</sentence>
+<sentence id="s419">Fitzgerald and Dr L. Duncan 
+ 
+ Solicitor for the Respondent: Griffith Hack 
+ 
+ Date of Hearing: 5, 6, 7, 8, 11, 12, 13, 14, 15 December 2007 
+ 
+ Date of Judgment: 21 June 2007 
+
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/864.html 
+ 
+ </sentence>
+</sentences>
+</case>

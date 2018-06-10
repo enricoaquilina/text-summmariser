@@ -1,0 +1,399 @@
+
+<DOC>
+<DOCNO> FBIS3-59774 </DOCNO>
+<HT>    "jpjst004__l94015" </HT>
+
+
+<HEADER>
+<AU>   JPRS-JST-94-004L </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Japan </ABS>
+<DATE1>   27 January 1994 </DATE1>
+<F P=100> Aerospace </F>
+<H3> <TI>   Development of Orbital Experimental Equipment for JEM 
+Exposed Facility </TI></H3>
+<F P=102>  93FE0890B Tokyo ISHIKAWAJIMA HARIMA GIHO in Japanese May 93 
+pp 180-185 --FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 93FE0890B </F>
+<F P=104>  Tokyo ISHIKAWAJIMA HARIMA GIHO </F>
+
+
+<TEXT>
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by M. Sato, senior specialist, Aerospace Division, </F>
+Space Station Dept.; M. Morioka, senior specialist, 
+Technological Research Institute, Aerospace Development Dept.; 
+T. Kato, senior specialist, Aerospace Division, Space Station 
+Dept.; K. Fusegi, senior specialist, Aerospace Division, Space 
+Station Dept.; K. Nakao, Aerospace Division, Space Station 
+Dept.; H. Ban, Aerospace Division, Space Station Dept.; T. 
+Ohashi, Aerospace Division, Space Station Dept.; R. Amagata, 
+Aerospace Division, Space Station Dept.; K. Arafune, Aerospace 
+Division, No. 2 Technology Dept.] 
+  [Text] The Exposed Facility Flyer Unit (EFFU) is an orbital 
+experimental facility to be mounted on the free flyer Space 
+Flyer Unit (SFU). The SFU is scheduled to be launched by an H-II 
+launch vehicle in early 1995. After several months in orbit, the 
+SFU will be retrieved by the Space Shuttle. The EFFU will 
+provide experience in developing the key technology of the 
+Exposed Facility of Japanese Experiment Module (JEM), which will 
+be attached to the Space Station Freedom in the late 1990s. The 
+EFFU proto-flight model test was concluded. This paper describes 
+the development of the EFFU. 
+<H5>  1. Introduction </H5>
+  An international consortium of countries and organizations 
+including the United States, Canada, Japan, and the ESA 
+(European Space Association) have been working jointly to 
+develop an international space station which they hope to 
+complete by the end of the century. Japan is in charge of 
+developing and operating the JEM (Japanese Experiment Model). 
+Figure 1 is a schematic drawing of the JEM. The JEM Exposed 
+Facility, which Ishikawajima-Harima Heavy Industries (IHI) is in 
+charge of developing, is a system which offers an exposed 
+testing environment in space. The Exposed Facility Flyer Unit 
+(EFFU) is a part of the JEM Exposed Facility and was built with 
+the aim of improving reliability in the key technologies used in 
+the JEM and mastering common experimental technologies. The EFFU 
+will be carried aboard the Space Flyer Unit (SFU), which is the 
+first recoverable and reusable experimental satellite developed 
+by Japan, and will be used to perform orbital experiments. 
+
+
+
+  IHI has been working on the EFFU since 1987 after being 
+awarded a contract by the National Space Development Agency 
+(NASDA). The fabrication of the EFFU proto-flight model is now 
+complete, and it is undergoing SFU system tests as part of the 
+SFU. This paper outlines the development of the EFFU. 
+<H5>  2. EFFU </H5>
+  2.1 Overview of SFU 
+  As we can see in Figure 2, the EFFU is mounted on the SFU. 
+The SFU is being jointly developed by three government agencies, 
+namely, NASDA, which is part of the Science and Technology 
+Agency, the ISAS (Institute of Space and Astronautical Science), 
+which is part of the Ministry of Education, and MITI (Ministry 
+of International Trade and Industry). The SFU will be launched 
+in February 1995 aboard an H-II rocket and be put into orbit at 
+an altitude of about 500 km. It will be used to conduct various 
+material and biological experiments and make astronomical 
+observations for approximately 4.5 months, and then be recovered 
+and returned to earth by the Space Shuttle (U.S.). During that 
+time, the EFFU will conduct orbital experiments that will take 
+up a total of about 1.5 months. 
+
+
+
+  2.2 Overview of EFFU 
+  2.2.1 Main Specifications of EFFU 
+  Figure 3 is an external view of the EFFU. The main frame of 
+the EFFU, which is a truss structure, is covered on the outside 
+by a multi-layer insulator. The EFFU weighs 282 kg. Its external 
+dimensions are approximately 1.5 m x 1.5 m x 1.05 m. Below, we 
+list the main specifications of the EFFU. 
+
+
+
+  ------------------------------------------------------------------------------- 
+|Weight (kg):                          |282                                   | 
+------------------------------------------------------------------------------- 
+|External dimensions (mm):             |1500 x 1500 x 1050                    | 
+------------------------------------------------------------------------------- 
+|Power consumption (W):                |Max: about 700 Avg. less than 430 (su-| 
+|                                      |pply voltage 32.5V-51.5V)             | 
+------------------------------------------------------------------------------- 
+|Telemetry (bit/s):                    |During normal operation: 875 During   | 
+|                                      |æ-g experiment: 2,000                 | 
+------------------------------------------------------------------------------- 
+
+
+
+
+
+
+    2.2.2 Mission of EFFU&lt;sup&gt; (1)&lt;/sup&gt; 
+  The purpose of the EFFU is to perform the orbital 
+experiments 
+listed below and evaluate the results obtained therein. 
+  (1) Element Technologies in Fluid Loop Heat Control 
+  The principle heat control method used in the JEM Exposed 
+Facility is based on fluid loops. The technical data obtained 
+from the fluid loop of the EFFU will be used to ascertain the 
+behavior characteristics of fluids in an orbital environment and 
+verify the validity of the thermal analysis methods. For that 
+reason, the fluid loops will be operated for extended periods of 
+time while in orbit so that we can obtain fluid loop data such 
+as fluid temperature and pressure, as well as temperature data 
+on the EFFU equipment and frame. 
+  (2) Element Technologies in Equipment Exchange Unit 
+  The equipment exchange unit (EEU) of the JEM is a mechanism 
+which has a mechanical disconnect function for disconnecting the 
+experimental payload from the JEM exposed facility, and also an 
+interface function for supplying power, communication, and 
+fluids. The EFFU x EEU uses the same transfer load mechanism, 
+coupling retention force, and solid lubrication method for 
+moving parts that the JEM x EEU uses. While in orbit, the EEU 
+will conduct repeated disconnects so that we can evaluate the 
+soundness of the interfaces such as the electrical connectors 
+and fluid couplers, and evaluate the durability of the solid 
+lubricants. 
+  (3) Acquiring Microgravity Characteristic Data 
+  We installed micro-acceleration sensors near the excitation 
+sources in the EFFU and the gas dynamics experiment facility 
+(GDEF) to verify that the GDEF is operating in a microgravity 
+environment. In addition, we want to compare and verify the 
+results of ground tests and analysis against the orbital 
+microgravity data, and evaluate the vibration transmission 
+characteristic and response characteristic, and then use this 
+information in analyzing the microgravity environment of the JEM. 
+  (4) Exposure Experiment on Elements and Materials 
+  The SFU will be put into an orbit that is almost stationary 
+to that of the sun. We will attach material samples necessary in 
+the development of the JEM on both the sunlit and shady sides of 
+the external surface of the EFFU to evaluate the properties of 
+those materials while in space. 
+  (5) Gas Dynamics Experiment&lt;sup&gt; (6)&lt;/sup&gt; 
+  In the gas dynamics experiment, we will verify the growth of 
+diamond crystal by the chemical vapor deposition method in an 
+orbital microgravity environment. 
+  2.2.3 EFFU Configuration 
+  In Figure 4, we show the configuration of the EFFU, and in 
+Figure 5, show a functional block diagram of the same. 
+
+
+
+
+
+
+
+    (1) Infrastructure&lt;sup&gt; (3),(4)&lt;/sup&gt; 
+  The main frame within the structural system is a truss-type 
+structure made up of titanium and CFRP members. The equipment is 
+mounted to panels that are supported by the main frame. Figure 4 
+is a schematic drawing of the EFFU infrastructure. 
+  (2) Heat Control System 
+  Heat control is maintained by a fluid loop, which acts as 
+the 
+cooling medium, a heater, and a multi-layer insulator. The fluid 
+loop consists of a pump-inverter, hot plate, cold plate, and 
+radiator. The heat generated by the equipment is absorbed by the 
+cold plate, transported to the radiator by the fluid loop, and 
+vented into space. The heater is also activated as needed by a 
+thermostat. 
+  Figure 6 is a block diagram of the fluid loop in the heat 
+control system. 
+
+
+
+  (3) Communication Control System 
+  The communication control system is made up of an EFFU 
+control unit. The ECU monitors and controls the equipment within 
+the EFFU, and communicates with the SFU. 
+  (4) Electrical Power System 
+  The electrical power system consists of an electrical power 
+distribution unit (EPDU) that receives electrical power from the 
+SFU and distributes that to the equipment within the EFFU. The 
+EDPU is equipped with fuses corresponding to the equipment being 
+supplied power. 
+  (5) Experiment Support System 
+  The experiment support system consists of an EEU, a 
+microgravity measuring unit, and an exposed test unit for 
+elements and materials. 
+  The EEU is made up of an equipment exchange unit for the 
+exposed facility, an equipment exchange unit for the payload, 
+and a motor drive unit (MDU) that runs and controls the 
+equipment exchange unit motor. Figure 7 is a functional block 
+diagram of the EFFU x EEU. 
+
+
+
+  (6) Gas Dynamics Experiment Facility&lt;sup&gt; (6)&lt;/sup&gt; 
+  The gas dynamics experiment facility aboard the EFFU 
+consists 
+of a plasma reaction vessel, a reaction gas cylinder, a 
+spectroscope, a camera, and control unit. 
+  2.3 NASA Safety Requirements 
+  The SFU will be retrieved by the NASA (U.S. National 
+Aeronautics and Space Administration) Space Shuttle. For that 
+reason, the EFFU mounted aboard the SFU must meet NASA 
+requirements regarding safety. A NASA safety review board is in 
+the process of determining if those safety standards have been 
+met. The safety review has completed its second phase (a review 
+of hazard potentials and follow-up control plans). The third 
+phase of the safety review is coming next in which a report will 
+be issued detailing the results of implementing the control 
+plans indicated in the prior phase based on tests and 
+verification data. 
+<H5>  3. Development Outlined </H5>
+  The development of the EFFU, as can be seen in Figure 8, was 
+based on the EM/PFM (engineering model/proto-flight model) 
+system. This system integrates the PM (protomodel) with the FM 
+(flight model) to form the PFM. 
+
+
+
+  In the detailed engineering phase, we built and tested a 
+prototype of the engineering model, which is the development 
+model, while in the maintenance design phase, we built and 
+tested the PFM. After the SFU system tests are complete, 
+adjustments will be made to a final flight component during the 
+pre-launch modification period, and built into the SFU for 
+launch. 
+<H5>  4. Development of Engineering Models </H5>
+  As for engineering models, we built and tested prototypes of 
+a structural development model, a thermal development model, a 
+system engineering model, and an SFU interface engineering 
+model. Figure 9 is a flow diagram showing the engineering models. 
+
+
+
+  4.1 Structure Development Model Testing&lt;sup&gt; (3,4)&lt;/sup&gt; 
+  A structural model of the CFRP members and components that 
+make up the infrastructure was fabricated ahead of the 
+engineering model by element prototyping and testing and 
+subjected to the following two tests. 
+  (1) A materials test to gather data on CFRP parts for the 
+NASA safety review, included in which is a tensile strength and 
+heat cycle degradation test on CFRP parts. 
+  (2) A structural model fabrication test on parts to perfect 
+the key technologies used for the truss-type frame. 
+  The SDM is a model in which a mass dummy is attached to the 
+frame of the engineering model. With the SDM, an assortment of 
+tests including static load tests, vibration tests, and mass 
+characteristics tests were given to verify the soundness of the 
+structural design and the validity of the numerical model used 
+for the structure, to also verify the environmental conditions 
+of the on-board equipment, and to perfect the fabrication and 
+testing methods. Further tests were done on EFFU coupling with 
+the SFU. 
+  Also, to satisfy the fail-safe requirements demanded by 
+NASA, 
+various tests including static load and vibration tests were 
+given to verify structural strength. In addition, there was also 
+a fluorescent penetration test on metal parts, and an ultrasonic 
+penetrant examination for composite parts and bonded parts, but 
+nothing abnormal was reported. 
+  4.2 Thermal Development Model Tests 
+  The thermal development model is a model in which a mass 
+dummy is removed from the structure development model, and is 
+replaced by heat control equipment and a heat dummy. With the 
+thermal development model, a thermal equilibrium test and heat 
+vacuum preliminary test were administered. A post-test analysis 
+and evaluation verified the fact that the fluid loop performed 
+as designed, and that the thermal numerical model was in fact 
+sound. 
+  4.3 System Engineering Model Tests 
+  The system engineering model is identical to the 
+proto-flight 
+model with the exceptions being that the EEU is a dummy, and 
+there are no microgravity sensors. As far as system engineering 
+model tests, we performed an electrical performance test for the 
+entire EFFU, and an electromagnetic compatibility test, but no 
+abnormalities were reported. 
+  4.4 SFU Interface Tests 
+  In conducting a verification test on the electrical 
+interface, which is implemented by direct connection with the 
+SFU, the engineering model designed for the SFU interface test 
+was loaded aboard the SFU system prior to the SEM and the 
+electrical interfaces with the SFU were verified. 
+  4.5 Microgravity Ground Tests 
+  Using a model in which the heater function was removed from 
+the thermal development model, we conducted a microgravity 
+ground test and obtained microgravity characteristic data for 
+ground operation of the fluid loop, and analysis data on the 
+vibration mode of the EFFU. The data obtained was used to 
+determine the gain in microgravity sensors, the locations where 
+microgravity sensors should be installed, and the direction of 
+measurement. 
+<H5>  5. PFM System Development </H5>
+  As for the proto-flight model, we implemented and 
+successfully completed the following tests after the 
+post-assembly inspection. 
+  (1) Initial electrical performance test 
+  (2) Vibration test 
+  (3) Thermal equilibrium test and heat vacuum test 
+  (4) Final electrical performance test 
+  5.1 Electrical Performance Test 
+  In the electrical performance test, we verified that the 
+electrical functions and characteristics in the EFFU met the 
+necessary requirements. Based on the test results from the 
+function test and final electrical performance test that were 
+given before and after the vibration test, and during and after 
+the heat vacuum test, we confirmed that there was not any 
+degradation from the environmental test. 
+  5.2 Vibration Test 
+  Figure 10 is a photograph showing the setup for the 
+vibration 
+test. We applied a sine-wave vibration load, which is about the 
+same given in an acceptance test, directly to the three axes of 
+the EFFU, but found nothing abnormal in the EFFU. Tests also 
+confirmed that the EFFU met the necessary requirements with 
+regard to rigidity, and that both the vibration mode and the 
+primary inherent vibration frequency agreed with analysis. 
+
+
+
+  5.3 Thermal Equilibrium Test and Heat Vacuum Test 
+  Figure 11 is a photograph showing the setup of the heat 
+vacuum test. Tests confirmed the properties of the heat control 
+system, and also confirmed that the EFFU can operate normally in 
+high-temperature and low-temperature thermal vacuum 
+environments. The test results from the heat equilibrium test 
+confirmed the validity of the analytic model used for the 
+proto-flight model. 
+
+
+
+<H5>  6. Conclusion </H5>
+  The manufacture of the EFFU-PFM is complete. After the SFU 
+system tests are done, we will make improvements to perfect the 
+flight components, and then schedule delivery. 
+  In the development of the EFFU, we have been able to use 
+CFRP 
+components in the frame, develop a heat control system using 
+fluid loops, develop element technologies for the equipment 
+exchange unit, and to develop a system for conducting exposed 
+environment testing. We have also been able to master system 
+integration technologies for developing not only the JEM Exposed 
+Facility but also other futuristic space vehicles. 
+Bibliography 
+  1. M. Ito, T. Fujita, and N. Ishihara: ``EFFU Orbital 
+Experiment Project,'' Proceedings of 8th Space Station 
+Conference, April 1992, pp 19-20. 
+  2. Space Station Dept., Mechatronics Dept., Equipment 
+Vibration Dept.: ``Development of the JEM Equipment Exchange 
+Unit; 2nd Paper: Development Status and Functional Model Test 
+Results,'' Ishikawajima Harima Giho, Vol 31, No 3, May 1991, pp 
+139-144. 
+  3. T. Watanabe, K. Sakano, T. Igami, M. Asahi, T. Tokumura, 
+and K. Seo: ``Development of Retrievable Space Structure,'' 
+Ishikawajima Harima Giho, Vol 31, No 3, May 1991, pp 145-151. 
+  4. M. Ito, T. Watanabe, T. Igami, and K. Seo: ``Development 
+of EFFU Infrastructure,'' Proceedings of 8th Space Station 
+Conference, April 1992, pp 21-22. 
+  5. M. Ito, E. Hashimoto, K. Arafune, K. Fushiki, M. Morioka, 
+and S. Terazaki: ``&mgr;-g Measurement Experiment in EFFU,'' 
+Proceedings of 8th Space Station Conference, April 1992, pp 
+23-24. 
+  6. Y. Sato, K. Shibukawa, K. Murakami, T. Machida, T. 
+Uemiya, 
+K. Tanaka, and A. Hirao: ``Development of Gas Dynamics 
+Experiment Facility (GDEF),'' Proceedings of 35th Meeting of 
+Space and Astronautical Science and Technology Federation, 
+October 1991, pp 49-50. 
+<H5>  Acknowledgments </H5>
+  We would like to take this opportunity to express our 
+sincere 
+thanks to those individuals from the National Space Development 
+Agency (NASDA) for their guidance and cooperation in helping 
+develop the EFFU. 
+
+</TEXT>
+
+</DOC>

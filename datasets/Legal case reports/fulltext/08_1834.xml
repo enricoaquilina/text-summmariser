@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<case>
+<name>AXA Asia Pacific Holdings Limited v Commissioner of Taxation [2008] FCA 1834 (3 December 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1834.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">indirect taxes</catchphrase>
+<catchphrase "id=c1">goods and services tax (gst)</catchphrase>
+<catchphrase "id=c2">a new tax system (goods and services tax) act 1999 (cth) (act)</catchphrase>
+<catchphrase "id=c3">input tax credits</catchphrase>
+<catchphrase "id=c4">applicant (axa), the representative member of gst group of companies</catchphrase>
+<catchphrase "id=c5">chief operating company within gst group a life insurance company (nmla)</catchphrase>
+<catchphrase "id=c6">nmla paid gst on certain general management expenses (gme)</catchphrase>
+<catchphrase "id=c7">whether entitlement to input tax credits in respect of that gst</catchphrase>
+<catchphrase "id=c8">not possible to attribute gme directly to particular supplies</catchphrase>
+<catchphrase "id=c9">common ground that some gme related to input taxed supplies which "blocked" entitlement to input tax credits related to those supplies</catchphrase>
+<catchphrase "id=c10">whether there should be apportionment on basis that a proportion of gme related to supplies that were not input taxed</catchphrase>
+<catchphrase "id=c11">nmla invested in unit trusts which made supplies that were not input taxed</catchphrase>
+<catchphrase "id=c12">trustees of the unit trusts were, in their personal capacities, companies within the gst group</catchphrase>
+<catchphrase "id=c13">whether the unit trusts and the trustees of them in their capacity as trustees were members of the gst group as distinct from the trustees being members of that group in their personal capacities</catchphrase>
+<catchphrase "id=c14">whether act permitted a "look through" approach</catchphrase>
+<catchphrase "id=c15">"financial supply" defined to include an acquisition of units in a unit trust</catchphrase>
+<catchphrase "id=c16">whether the requirement that nmla's deemed supply (being an acquisition supply) of the units be "for consideration" required that consideration must move to nmla for a service provided by it.</catchphrase>
+<catchphrase "id=c17">tax</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 This proceeding relates to the Goods and Services Tax (GST) and the A New Tax System (Goods and Services Tax) Act 1999 (Cth) (the Act) (references below to Parts, Divisions, Subdivisions and Sections are references to those things within the Act).</sentence>
+<sentence id="s1">2 The applicant, AXA Asia Pacific Holdings Limited (AXA), is the representative member of a GST group of entities (Group) that has been approved as a GST group by the respondent, the Commissioner of Taxation (Commissioner --- I will sometimes refer to ATO) under s 48-5 of the Act for the purposes of Div 48 of that Act.</sentence>
+<sentence id="s2">3 At the time relevant to the present proceeding (February 2002), the Group apparently comprised 40 members, including AXA itself, although I note that as at the date of approval of the Group by the Commissioner (5 October 2000), the Group had comprised 63 companies.</sentence>
+<sentence id="s3">Other members of the Group to which I will refer are The National Mutual Life Association of Australasia Limited (NMLA), National Mutual Assets Management Limited (NMAM), and National Mutual Funds Management Limited (NMFM).</sentence>
+<sentence id="s4">4 The present proceeding is brought by AXA as representative member of the Group, but it is the business activity of NMLA with which the proceeding is concerned.</sentence>
+<sentence id="s5">I will therefore refer, as the parties did, to NMLA.</sentence>
+<sentence id="s6">The business activities of NMLA 
+ 
+5 NMLA carries on business as an insurer.</sentence>
+<sentence id="s7">Lewis Andrew Culliver, AXA's Taxation Manager, explained the nature of the life insurance market generally.</sentence>
+<sentence id="s8">According to Mr Culliver, the products made available by NMLA to its customers as at 31 December 2002 fell into the following three broad areas:
+ 
+(a) risk products, including term life insurance and income protection policies;
+ 
+ 
+ (b) whole of life and endowment policies; and 
+ 
+
+(c) superannuation and retirement products.</sentence>
+<sentence id="s9">6 NMLA's retail activities comprise both life insurance and non-life insurance business.</sentence>
+<sentence id="s10">In accordance with the Life Insurance Act 1995 (Cth), the life insurance business was conducted within one or more separate statutory funds.</sentence>
+<sentence id="s11">The investments of any of those funds may be used only to meet the liabilities and expenses incurred for the purposes of the business of that fund, to make investments in a way that is likely to further the business of that fund, or for the purposes of distribution when certain solvency and capital adequacy requirements are met: see ss 38 and 43 of the Life Insurance Act 1995 .</sentence>
+<sentence id="s12">There was evidence of the composition of the respective statutory funds and of the categories of assets within each.</sentence>
+<sentence id="s13">One of those categories is "'unit trusts'", being investments by NMLA through a holding of units in a unit trust which usually invests in real property or shares".</sentence>
+<sentence id="s14">7 Affidavit evidence describes in detail the steps that are taken to ensure that NMLA's investments are appropriate to meet its insurance risks and to provide a profit.</sentence>
+<sentence id="s15">Events leading to the present proceeding 
+ 
+8 Under the Act, GST is payable by the representative member, not by any other group member, although each member is jointly and severally liable to pay the GST that is payable by the representative member (s 48 - 40 ).</sentence>
+<sentence id="s16">Similarly, it is the representative member, not any other group member, who is entitled to a benefit of any input tax credit (s 48 - 45 ).</sentence>
+<sentence id="s17">The concept of an input tax credit, which is central to the present case, is discussed below.</sentence>
+<sentence id="s18">It is the representative member, not any other group member, who is required to furnish GST returns to the Commissioner (s 48 - 60 ).</sentence>
+<sentence id="s19">For some purposes a GST group is treated as a single entity, and one of those purposes is the working out of the amount of any income tax credits to which the representative member is entitled (s 48 - 55 ).</sentence>
+<sentence id="s20">9 In its role as representative member, AXA furnished to the Commissioner a Business Activities Statement (BAS) in respect of the month 1 February 2002 to 28 February 2002.</sentence>
+<sentence id="s21">10 On 23 March 2006, the ATO notified AXA that it had reviewed some of the information reported in the BAS for February 2002 and made an assessment of the net amount for that period, which was a different amount from that claimed by AXA in its BAS.</sentence>
+<sentence id="s22">11 On 22 May 2006, AXA gave a notice of its objection to the ATO's assessment.</sentence>
+<sentence id="s23">The Commissioner did not make a decision on the objection within the period of 60 days of the day of lodgement of the notice.</sentence>
+<sentence id="s24">By an undated letter, AXA, pursuant to s 14ZYA of the Taxation Administration Act 1953 (Cth) (TA Act), required the Commissioner to make an objection decision.</sentence>
+<sentence id="s25">The Commissioner did not make an objection decision within the period of 60 days from being given that letter, and by the operation of s s14ZY(3) the Commissioner was taken to have made a decision under s 14ZY(1) to disallow the taxation objection.</sentence>
+<sentence id="s26">12 Against that deemed decision, AXA exercised its right of appeal to this Court under Div 5 of Pt IVC of the TA Act by filing on 11 December 2006 the application that commenced this proceeding.</sentence>
+<sentence id="s27">13 In para 9 of his amended appeal statement, the Commissioner accepts that by reason of the operation of the former s 35 of the TA Act, the amount of indirect tax the subject of the assessment ceased to be payable at the end of four years after the time when it became payable.</sentence>
+<sentence id="s28">Accordingly, the Commissioner accepts that for this reason his assessment was excessive and will need to be amended once the issues calling for decision in the case have been determined.</sentence>
+<sentence id="s29">The issue in this proceeding 
+ 
+14 It has been a disappointing feature of the case that the respective positions taken by the parties have changed over time, including several times during the hearing, as they have become more aware of the evidentiary position and of the stances taken by each other.</sentence>
+<sentence id="s30">Their changing of positions has made what was already a factually complex contest all the more difficult in terms of judgment writing.</sentence>
+<sentence id="s31">Earlier drafts of the reasons have had to be abandoned or substantially amended as I discovered in the transcript successive changes of position of the parties.</sentence>
+<sentence id="s32">15 The issue raised by AXA's appeal is whether NMLA acquired certain things for a "creditable purpose" (s 11-5) and is therefore entitled under Div 11 of the Act to "input tax credits" in respect of those things (s 11-20).</sentence>
+<sentence id="s33">This question, in turn, raises the question whether NMLA is denied input tax credits by reason of the fact that the acquisitions related to the making of supplies that "would be input taxed" (s 11-15).</sentence>
+<sentence id="s34">The source and significance of these expressions will be discussed below.</sentence>
+<sentence id="s35">16 The "things" acquired by NMLA with which the proceeding is concerned have been variously referred to, somewhat loosely, as "general management expenses", "general administrative expenses" and "overheads".</sentence>
+<sentence id="s36">I say "somewhat loosely" because an "expense" or "overhead" is not a thing acquired.</sentence>
+<sentence id="s37">For convenience, however, I will conform to the parties' usage.</sentence>
+<sentence id="s38">I describe the general management expenses (GME) in more detail at [63]ff below.</sentence>
+<sentence id="s39">AXA claims that they are incapable of being allocated directly to distinct identifiable supplies, although no evidence was specifically directed to showing this.</sentence>
+<sentence id="s40">The particular question posed, therefore, concerns the extent to which the GME of NMLA in February 2002 related to the making of supplies that would be input taxed.</sentence>
+<sentence id="s41">THE STATUTORY FRAMEWORK 
+ 
+17 The Act commenced on 1 July 2000 (s 1-2(1)).</sentence>
+<sentence id="s42">GST is payable only on a supply or importation to the extent that it is made on or after 1 July 2000: s 7(1) of the A New Tax System (Goods and Services Tax Transition) Act 1999 (Cth).</sentence>
+<sentence id="s43">The application of the provisions of that Act to the facts of the present case was not disputed.</sentence>
+<sentence id="s44">18 Chapter 2 (Divs 5-37) is headed "The basic rules"; Ch 3 (Divs 37-42) "The exemptions"; Ch 4 (Divs 45-171) "The special rules"; Ch 5 (Div 177) "Miscellaneous"; and Ch 6 (Div 184-195) "Interpreting this Act".</sentence>
+<sentence id="s45">Included in Ch 6 is the Act's Dictionary which is found in Div 195 constituted by s 195- 1 .</sentence>
+<sentence id="s46">19 Section 182- 1 (headed "What forms part of this Act") is within Part 6 - 1 (headed "Rules for Interpreting this Act").</sentence>
+<sentence id="s47">Section 182- 1 provides:
+ (1) These all form part of this Act: 
+ 
+ &#8226; the headings to the Chapters, Parts, Divisions and Subdivisions of this Act;
+ &#8226; explanatory sections;
+ &#8226; the headings to the sections and subsections of this Act;
+ &#8226; the headings for groups of sections of this Act (group headings);
+ &#8226; the notes and examples (however described) that follow provisions of this Act.</sentence>
+<sentence id="s48">
+ 
+ (2) The asterisk used to identify defined terms form part of the Act.</sentence>
+<sentence id="s49">However, if a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation division.</sentence>
+<sentence id="s50">In these reasons, I omit asterisks from quoted provisions of the Act.</sentence>
+<sentence id="s51">20 Where a provision of the Act uses the expression "you", it applies to entities generally unless its application is expressly limited: s 195- 1 .</sentence>
+<sentence id="s52">21 GST is payable on "taxable supplies" and "taxable importations", while entitlements to "input tax credits" arise on "creditable acquisitions" and "creditable importations": s 7 - 1 .</sentence>
+<sentence id="s53">Taxable importations and creditable importations are not of present relevance, and I will therefore refer only to taxable supplies and creditable acquisitions.</sentence>
+<sentence id="s54">22 Amounts of GST and amounts of input tax credits are set off against each other to produce a "net amount for a tax period" which may be altered to take account of "adjustments": s 7 - 5 .</sentence>
+<sentence id="s55">23 Every entity that is registered or required to be registered has tax periods applying to it: s 7 - 10 .</sentence>
+<sentence id="s56">Registration is provided for in Pt 2 - 5 and tax periods are provided for in Pt 2 - 6 .</sentence>
+<sentence id="s57">Relevantly, NMLA, NMFM and NMAM are registered.</sentence>
+<sentence id="s58">24 The net amount for a tax period is the amount that the entity must pay to the Commonwealth or the Commonwealth must refund to the entity in respect of the period: s 7 - 15 .</sentence>
+<sentence id="s59">If the GST payable exceeds the entitlement to input tax credits, the entity will owe the Commonwealth money.</sentence>
+<sentence id="s60">If the entitlement to input tax credits exceeds the GST payable, the Commonwealth must make a refund to the entity in respect of the period.</sentence>
+<sentence id="s61">The matter of "Returns, payments and refunds" is dealt with in Pt 2 - 7 .</sentence>
+<sentence id="s62">25 Part 2 - 2 is headed "Supplies and acquisitions".</sentence>
+<sentence id="s63">It comprises two Divisions: Div 9 which is headed "Taxable supplies" and Div 11 which is headed "Creditable acquisitions".</sentence>
+<sentence id="s64">Within Div 9, s 9 - 5 is headed "Taxable supplies" and provides:
+ You make a taxable supply if: (a) you make the supply for consideration; and 
+ 
+ (b) the supply is made in the course or furtherance of an enterprise that you carry on; and 
+ 
+(c) the supply is connected with Australia; and (d) you are registered, or required to be registered.</sentence>
+<sentence id="s65">However, the supply is not a taxable supply to the extent that it is GST-free or input taxed.</sentence>
+<sentence id="s66">The proviso at the end of the section may be seen to refer to two classes of supplies that are "exempt" from being taxable supplies.</sentence>
+<sentence id="s67">26 Some of the terms used in s 9 - 5 are defined.</sentence>
+<sentence id="s68">Section 9 - 10 defines "supply" widely to be any form of supply whatsoever and to include, inter alia, a supply of goods, a supply of services, a creation, grant, transfer, assignment or surrender of any right, and a "financial supply".</sentence>
+<sentence id="s69">The expression "financial supply", which is important for the purpose of the concept of an input taxed supply (see below) and for the present case, is defined in s 195- 1 to have the meaning given by the regulations made for the purposes of s 40- 5 (2).</sentence>
+<sentence id="s70">I discuss those regulations at [42]ff below.</sentence>
+<sentence id="s71">Section 9 - 10 (4) provides that a supply does not include a supply of "money" unless the money is provided as "consideration" for a supply that is also a supply of money.</sentence>
+<sentence id="s72">27 Section 195- 1 defines "consideration" for a supply or acquisition to mean any consideration within the meaning given by s 9 - 15 in connection with the supply or acquisition.</sentence>
+<sentence id="s73">Section 9 - 15 gives the following inclusory definition of "consideration":
+ (1) Consideration includes: 
+ 
+ 
+ (a) any payment, or any act or forbearance, in connection with a supply of anything; and
+ (b) any payment, or any act or forbearance, in response to or for the inducement of a supply of anything.</sentence>
+<sentence id="s74">
+ 
+ 
+ 
+ 
+ (2) It does not matter whether the payment, act or forbearance was voluntary, or whether it was by the recipient of the supply.</sentence>
+<sentence id="s75">(2A) ...
+ (2B) For the avoidance of doubt, the fact that the supplier is an entity of which the recipient of the supply is a member, or that the supplier is an entity that only makes supplies to its members, does not prevent the payment, act or forbearance from being consideration.</sentence>
+<sentence id="s76">(3) .... 
+ 
+
+
+ 
+28 The notion of an "enterprise" is defined broadly in s 9 -20.</sentence>
+<sentence id="s77">Section 9 -20(1) provides:
+ (1) An enterprise is an activity, or series of activities, done: 
+ 
+ (a) in the form of a business; or
+ (b) in the form of an adventure or concern in the nature of trade; or 
+ 
+ 
+ 
+ 
+ (c) on a regular or continuous basis, in the form of a lease, licence or other grant of an interest in property; or 
+ 
+ 
+ 
+ 
+ (d) ... 
+ ...
+ 
+ 
+
+Section 195- 1 defines the word "business" to include any profession, trade, employment, vocation or calling, but not occupation as an employee.</sentence>
+<sentence id="s78">29 Section 9 -20(2) provides that an "enterprise" does not include certain activities or series of activities, such as, for example and in general terms, those done by a person as an employee, as a private recreational pursuit or hobby, or by an individual without a reasonable expectation of profit or gain.</sentence>
+<sentence id="s79">Section 195- 1 defines "carrying on" an enterprise to include doing anything in the course of the commencement or termination of the enterprise.</sentence>
+<sentence id="s80">30 Section 9 -30(1) tells us which supplies are "GST-free" and s 9 -30(2) tells us which supplies are "input taxed".</sentence>
+<sentence id="s81">A supply is "GST-free" if it is, relevantly, GST-free under Div 38.</sentence>
+<sentence id="s82">Of importance in the present case is the category of supply provided for in Subdiv 38-E which is headed "Exports and other supplies for consumption outside Australia".</sentence>
+<sentence id="s83">I was not required to consider precisely how Subdiv 38-E was said to apply.</sentence>
+<sentence id="s84">It suffices to say that it seems to be common ground that in the case of at least some of the overseas investments made by unit trusts in which NMLA invested, if NMLA had made those overseas investments directly rather than "through" the unit trusts there would have been GST-free supplies which would not have blocked NMLA's entitlement to input tax credits in respect of the GME related to those investments.</sentence>
+<sentence id="s85">31 A supply is input taxed if it is, relevantly, input taxed under Div 40.</sentence>
+<sentence id="s86">Examples of input taxed supplies are financial supplies (Subdiv 40-A), residential rent (Subdiv 40-B) and residential premises (Subdiv 40-C).</sentence>
+<sentence id="s87">Financial supplies are the particular class of input taxed supplies the focus of the present proceeding.</sentence>
+<sentence id="s88">It will be recalled that GST-free supplies and input taxed supplies are not taxable supplies by reason of the proviso to s 9 - 5 (see [25] above).</sentence>
+<sentence id="s89">32 Section 9 -30(3)(a) provides that to the extent that a supply would, apart from that subsection, be both GST-free and input taxed, the supply is GST-free and not input taxed, unless the provision under which it is input taxed requires the supplier to have chosen for its supplies of that kind to be input taxed.</sentence>
+<sentence id="s90">33 Subdivision 9-B within Pt 2 - 2 makes the maker of a taxable supply liable to pay the GST payable on it: s 9 -40.</sentence>
+<sentence id="s91">Section 9 -75 defines the value of a taxable supply as:
+ 
+where the "price" is the sum of:
+ 
+ 
+ (a) so far as the consideration for the supply is expressed as an amount of money, that amount without any discount in respect of the GST payable on the supply; and
+ (b) so far as the consideration is not expressed as an amount of money, the GST inclusive market value of that consideration.</sentence>
+<sentence id="s92">
+ 
+
+An example given is the selling of a car for $22,000 in the course of the carrying on an enterprise.</sentence>
+<sentence id="s93">The value of the supply is:
+ 
+ 
+The GST on the supply is therefore $2,000 (ie 10% of $20,000).</sentence>
+<sentence id="s94">34 At the heart of the present case is Div 11 which is headed "Creditable acquisitions".</sentence>
+<sentence id="s95">Section 11 - 1 is headed "What this Division is about" and provides: 
+ You are entitled to the input tax credit for any creditable acquisition that you make...</sentence>
+<sentence id="s96">It will be recalled that for the purpose of working out of the amount of any income tax credits to which a representative member is entitled, a GST group is to be treated as a single entity: s 48-55 referred to at [8] above.</sentence>
+<sentence id="s97">35 Section 11 - 5 provides:
+ You make a creditable acquisition if: (a) you acquire anything solely or partly for a creditable purpose; and (b) the supply of the thing to you is a taxable supply; and (c) you provide, or are liable to provide, consideration for the supply; and (d) you are registered, or required to be registered.</sentence>
+<sentence id="s98">Section 11 - 10 gives the meaning of "acquisition" and provides that an "acquisition" is any form of acquisition whatsoever and includes an acquisition of something the supply of which is a financial supply.</sentence>
+<sentence id="s99">36 It is para (a) of s 11 - 5 which is controversial in the present case: did NMLA acquire the things for which it paid the GME and on which it paid GST at least partly for a creditable purpose?</sentence>
+<sentence id="s100">37 Section 11 - 15 gives the meaning of "creditable purpose" as follows:
+ 
+ 
+ (1) You acquire a thing for a creditable purpose to the extent that you acquire it in carrying on your enterprise.</sentence>
+<sentence id="s101">(2) However, you do not acquire the thing for a creditable purpose to the extent that: 
+ 
+ 
+ 
+ 
+ (a) the acquisition relates to making supplies that would be input taxed; or 
+ 
+ 
+ 
+ 
+ (b) the acquisition is of a private or domestic nature.</sentence>
+<sentence id="s102">(3) An acquisition is not treated, for the purposes of paragraph (2)(a), as relating to making supplies that would be input taxed to the extent that the supply is made through an enterprise, or a part of an enterprise, that you carry on outside Australia.</sentence>
+<sentence id="s103">(4) ...
+ (5) An acquisition is not treated, for the purposes of paragraph (2)(a), as relating to making supplies that would be input taxed to the extent that: 
+ 
+ 
+ 
+ 
+ (a) the acquisition relates to making a financial supply consisting of a borrowing; and 
+ 
+ 
+ 
+ 
+ (b) the borrowing relates to you making supplies that are not input taxed.</sentence>
+<sentence id="s104">
+ 
+[my emphasis] 
+I noted the meaning of the expression "enterprise" and the expression "carrying on" in to relation to an enterprise at [28] and [29] above.</sentence>
+<sentence id="s105">It is not disputed that NMLA acquired the things for which it paid its GME in carrying on its enterprise.</sentence>
+<sentence id="s106">38 Section 11 - 15 (1) is very broad.</sentence>
+<sentence id="s107">It is not necessary that there be an actual "on-supply" by the acquirer.</sentence>
+<sentence id="s108">However, subs (2)(a) of s 11 - 15 is a "blocking" provision.</sentence>
+<sentence id="s109">Even if an entity acquires a thing in carrying on its enterprise, it does not acquire it for a creditable purpose to the extent that, relevantly, the acquisition relates to making supplies that would be input taxed.</sentence>
+<sentence id="s110">39 Section 11 -20 provides that an entity is entitled to an input tax credit for any creditable acquisition that it makes.</sentence>
+<sentence id="s111">Section 11 - 25 provides that the amount of the input tax credit is an amount equal to the GST payable on the supply of the thing acquired, although the amount is reduced if the acquisition is only partly creditable.</sentence>
+<sentence id="s112">The question of apportionment that arises is taken up in s 11 -30 which provides in subs (1) as follows:
+ 
+ 
+ (1) An acquisition that you make is partly creditable if it is a creditable acquisition to which one or both of the following apply:
+ (a) you make the acquisition only partly for a creditable purpose; 
+ 
+ 
+ 
+ 
+ (b) ... 
+ 
+ 
+ 
+
+40 Subsection (3) of s 11 -30 provides a formula for the calculation of the input tax credit on an acquisition that is only partly creditable.</sentence>
+<sentence id="s113">The formula requires the application of a percentage, namely, the extent to which the creditable acquisition is for a creditable purpose expressed as a percentage of the total purpose of the acquisition.</sentence>
+<sentence id="s114">That percentage must be applied to the "full input tax credit", being the amount of the input tax credit to which the acquisition would give rise if the acquisition had been made solely for a creditable purpose.</sentence>
+<sentence id="s115">41 As noted at [31] above, Div 40 deals with input taxed supplies.</sentence>
+<sentence id="s116">Section 40- 5 (1) within Div 40 provides that a "financial supply" is input taxed, and s 40- 5 (2) provides that "financial supply" has the meaning given by the regulations.</sentence>
+<sentence id="s117">Section 195- 1 similarly defines the expression "financial supply" to have that meaning.</sentence>
+<sentence id="s118">42 The Regulations are A New Tax System (Goods and Services Tax) Regulations 1999 (Cth).</sentence>
+<sentence id="s119">Division 40 of the Regulations is headed "Input taxed supplies".</sentence>
+<sentence id="s120">Within Div 40, reg 40-5.06 provides:
+ (1) An entity, in relation to the supply of an interest that was: 
+ 
+ (a) immediately before the supply, the property of the entity; or
+ (b) created by the entity in making the supply;
+ is the financial supply provider of the interest.</sentence>
+<sentence id="s121">(2) The entity that acquires that interest is also the financial supply provider of the interest.</sentence>
+<sentence id="s122">
+ 
+
+Regulation 40-5.02 defines "interest" as anything that is recognised at law or in equity as property in any form.</sentence>
+<sentence id="s123">43 Regulation 40-5.09 provides as follows:
+ 
+ 
+ (1) The provision, acquisition or disposal of an interest mentioned in subregulation (3) or (4) is a financial supply if:
+ (a) the provision, acquisition or disposal is: 
+ 
+ 
+ 
+ 
+ (i) for consideration; and
+ (ii) in the course or furtherance of an enterprise; and
+ (iii) connected with Australia; and 
+ 
+ 
+ 
+ 
+ (b) the supplier is: 
+ 
+ 
+ 
+ 
+ (i) registered or required to be registered; and 
+ 
+ 
+ 
+ 
+ 
+ (ii) a financial supply provider in relation to supply of the interest.</sentence>
+<sentence id="s124">
+ 
+ 
+(2) ... 
+ 
+ (3) For subregulation (1), the interest is an interest in or under the matter mentioned in an item in the following table: ...
+ 
+ 
+
+44 Remarkably, under regs 40-5.06 and 40-5.09 an acquisition of an interest can be a supply of the interest (I will use, as the parties did, the expression "acquisition supply" to refer to this type of supply) and the actual acquirer of the interest is called the financial supply provider of the interest.</sentence>
+<sentence id="s125">45 The table in reg 40-5.09(3) contains eleven items.</sentence>
+<sentence id="s126">Items numbered 4, 5, 6 and 10 are of present relevance.</sentence>
+<sentence id="s127">They are as follows:
+ 4 A regulated superannuation fund, an approved deposit fund, a pooled superannuation trust or a public sector superannuation scheme within the meaning of the Superannuation Industry (Supervision) Act 1993 , or an RSA (retirement savings account) within the meaning of the Retirement Savings Accounts Act 1997 5 An annuity or allocated pension 6 Life insurance business to which subsection 9 (1) of the Life Insurance Act 1995 , or a declaration under subsection 12 (2) or section 12A of that Act, applies, or related reinsurance business 10 Securities, including: (a) a debenture described in paragraph (a), (b), (c), (d), (e) or (f) of the definition of debenture in section 9 of the Corporations Law; and (b) a document issued by an individual that would be debenture if it were issued by a body corporate; and (c) a scheme described in paragraph (e), (i), (k) or (m) of the definition of managed investment scheme in section 9 of the Corporations Law; and (d) the capital of a partnership or trust.</sentence>
+<sentence id="s128">46 The items in the table in reg 40-5.09 are elaborated upon in reg 40-5.11 and Schedule 7 to the Regulations.</sentence>
+<sentence id="s129">Regulation 40 -5.11 provides that something mentioned in a Part of Schedule 7 that relates to a financial supply mentioned in an item in the table in reg 40-5.09, is an example of the financial supply mentioned in that item.</sentence>
+<sentence id="s130">Schedule 7 is headed "Examples of financial supply".</sentence>
+<sentence id="s131">It contains nine Parts numbered 1 to 9.</sentence>
+<sentence id="s132">They deal respectively with Items 1, 2, 3, 6, 7, 8, 9, 10 and 11 in the table in reg 40-5.09.</sentence>
+<sentence id="s133">Within Part 4 relating to Item 6 ("Life Insurance business...") in the table in reg 40-5.09, one of the examples given is:
+ A contract (whether or not a contract of insurance) that constitutes an investment account contract, or an investment-linked contract, within the meaning of section 14 of the Life Insurance Act 1995 .</sentence>
+<sentence id="s134">One of the examples in Part 8 relating to Item 10 ("Securities, ...") in the table in reg 40-5.09 is:
+ Units in a unit trust.</sentence>
+<sentence id="s135">The Australian GST regime 
+ 
+47 The nature of the Australian GST regime was explained in an early article by Professors G S Cooper and R J Vann, "Implementing the Goods and Services Tax" (1999) 21 Syd L Rev 337, and also by Hill J, with whom Stone and Allsop JJ agreed, in HP Mercantile Pty Ltd v Commissioner of Taxation [2005] FCAFC 126 ; (2005) 143 FCR 553 ( HP Mercantile) at [10]-[21].</sentence>
+<sentence id="s136">I discuss each of these is turn.</sentence>
+<sentence id="s137">The Cooper and Vann article 
+ 
+48 I recognise, as the parties pointed out, that the Act has been amended in various respects since the publication of this article.</sentence>
+<sentence id="s138">However, the article is useful in explaining in general terms some of the concepts in the legislation.</sentence>
+<sentence id="s139">49 Professors Cooper and Vann give the following description and illustration of the GST regime of tax and credits (at 347-8):
+ The operation of the invoice-based credit system is usually demonstrated by a simple numerical example, like that in Table 2 below, with three suppliers in a distribution chain (say a manufacturer, a wholesaler and a retailer).</sentence>
+<sentence id="s140">Supplier 1 supplies (sells) to supplier 2 for $100 before GST on which GST of $10 at a 10 per cent rate is charged.</sentence>
+<sentence id="s141">Assuming that the original supplier does not purchase inputs on which GST has been paid (which, even allowing that employee labour is untaxed, is more than a little improbable in the real world), there are no GST credits on the inputs used to make this supply, and so supplier 1 remits its net tax liability of $10.</sentence>
+<sentence id="s142">Supplier 2 then sells for $200 before GST and pays GST of $20 on the sale.</sentence>
+<sentence id="s143">Because supplier 2 purchased from supplier 1 and paid $110, including $10 GST for these inputs, there is a credit of $10 allowed against the output tax liability, which leaves a net tax payable by supplier 2 of $10.</sentence>
+<sentence id="s144">Similarly, for supplier 3 selling at $300, the GST on the sale is $30 and there is a GST credit of $20 relating to the purchase of inputs from supplier 2.</sentence>
+<sentence id="s145">When supplier 3 sells to a consumer, the price of $330 will include $30 of GST but the consumer is unable to claim tax credits and effectively bears the $30 GST out of the total purchase price of $330.</sentence>
+<sentence id="s146">Table 2 
+ 
+ Manufacturer Supplier 1 Wholesaler Supplier 2 Retailer Supplier 3 1 Sale price before tax 100 200 300 2 Sale price after tax 110 220 330 3 GST on sale 10 20 30 4 GST credit on inputs (0) (10) (20) 5 Net tax payable 10 10 10 If this were all that the GST involved, it would be a relatively simple tax to operate, although requiring considerable record keeping by the suppliers.</sentence>
+<sentence id="s147">As with any tax, however, there are many complications.</sentence>
+<sentence id="s148">50 Professors Cooper and Vann explain input taxed supplies and GST-free supplies as follows (at 348-9) (footnote omitted):
+ Two important sources of complexity arise from so-called input taxed supplies (referred to elsewhere in the world as exempt supplies) and GST-free supplies (Usually referred to elsewhere as zero-rated supplies).</sentence>
+<sentence id="s149">The difference between these two concepts is fundamental.</sentence>
+<sentence id="s150">They share the feature that no output tax is charged on making these supplies.</sentence>
+<sentence id="s151">They differ, however, in regard to the entitlement to claim credits for input tax.</sentence>
+<sentence id="s152">Input tax can be recovered for GST-free supplies, but not for input taxed supplies.</sentence>
+<sentence id="s153">The effect of input taxation is that a business purchaser is treated as if it is a consumer of the goods and services it acquires.</sentence>
+<sentence id="s154">The rationale for treating different supplies as taxable, input taxed and GST-free depends on the interplay of various policy and administrative arguments.</sentence>
+<sentence id="s155">51 It will be recalled that the present proceeding is concerned with a particular class of input taxed supplies, namely, financial supplies.</sentence>
+<sentence id="s156">Financial supplies have been treated as input taxed because it has been found to be administratively difficult to subject them to a valued added tax, such as GST, because of the difficulty in identifying and measuring any value added.</sentence>
+<sentence id="s157">52 Professors Cooper and Vann illustrate the operation of the variations to the normal GST treatment resulting from input taxing in the following table (at 350) which is a variation of Table 2 (set out at [49] above) in which Supplier 2 makes an input taxed supply:
+ Table 3 
+ 
+ Manufacturer Supplier 1 Wholesaler Supplier 2 (Input Taxed Supply) Retailer Supplier 3 1 Sale Price before tax 100 210** 310** 2 Sale Price after tax 110 210* 341 3 GST on sale 10 0 31 4 GST credit on inputs (0) (0) (0) 5 Net tax payable 10 0 31 
+ 
+ * This is the $200 sale price from Table 1 [a reference to an earlier Table which I need not set out] plus the tax of $10 charged by supplier 1 to supplier 2.</sentence>
+<sentence id="s158">As supplier 2 gets no credit for the tax paid by supplier 1, the sale price increases by $10.</sentence>
+<sentence id="s159">
+ 
+ 
+ 
+ ** This treatment assumes a constant dollar mark-up: in normal business practice mark-ups are more commonly calculated by percentage of cost.</sentence>
+<sentence id="s160">If the mark-up is based on costs there is mark-up on tax, as well as tax on tax.</sentence>
+<sentence id="s161">
+ 
+ 
+53 Where there is an input taxed supply, there is no GST payable on the sale price and no credit for GST that was paid on the things acquired to make that input taxed supply.</sentence>
+<sentence id="s162">On the other hand, taxable supplies and GST-free supplies do not "block" entitlement to input tax credits (cf s 11 - 15 set out at [37] above).</sentence>
+<sentence id="s163">HP Mercantile 
+ 
+54 Both parties called in aid certain passages from the judgment of Hill J in HP Mercantile .</sentence>
+<sentence id="s164">In that case, HP Mercantile Pty Ltd (the Trustee) was the trustee of The Recoveries Trust (the Trust).</sentence>
+<sentence id="s165">As trustee, the Trustee carried on an "enterprise".</sentence>
+<sentence id="s166">A question arose whether the Trustee should acquire a series of debts at a price which apparently was less than their face value.</sentence>
+<sentence id="s167">The Trustee paid for professional advice as to whether it should do so (due diligence services).</sentence>
+<sentence id="s168">Later, after it had acquired the debts, it paid for professional services connected with the recovery of them (debt collection services).</sentence>
+<sentence id="s169">The Trustee paid GST that was included in the amounts that it paid for both of the services mentioned, and claimed input tax credits in respect of that GST.</sentence>
+<sentence id="s170">55 The Commissioner denied the full input credits claimed by the Trustee.</sentence>
+<sentence id="s171">The Administrative Appeals Tribunal was of the view that the Commissioner's assessments were correct so far as they disallowed the full input tax credits for the amounts paid in connection with the debt collection services.</sentence>
+<sentence id="s172">56 The Trustee appealed to the Full Court from the Tribunal's decision so far as it related to the disallowance of the full input tax credits for the debt collection services.</sentence>
+<sentence id="s173">57 By reason of reg 40-5.09 (see [43]-[45] above), the acquisition of the debts by the Trustee was a financial supply and therefore input taxed.</sentence>
+<sentence id="s174">However, the Trustee submitted that its acquisition of the debt collection services did not relate to making a supply that " would be input taxed" (my emphasis) within s 11 - 15 (2)(a), because the supply in question, the acquisition of the debts, had already taken place.</sentence>
+<sentence id="s175">The Full Court disagreed, holding that the words "would be input taxed" in s 11 - 15 (2)(a) did not require futurity.</sentence>
+<sentence id="s176">58 In the course of his Honour's discussion of the statutory scheme and the relevant provisions of the Act, Hill J noted that the Australian GST is a value added tax, the genus of which is that there is ordinarily no cascading of tax and the tax payable by each supplier in a chain is only upon the value added by that supplier (at [13]).</sentence>
+<sentence id="s177">His Honour stated in relation to financial supplies (at [16]-[17]):
+ [16] In terms of GST theory, it is generally accepted that there are certain kinds of activities where the basic system of output tax on supplies and input tax credits on acquisitions will not lead to taxation on the value added by each supplier in the chain.</sentence>
+<sentence id="s178">The most important example is said to be financial transactions of financial institutions such as, but not confined to, banks, because they constantly borrow and lend and turn over money in a way that amounts, such as interest charged, will not represent the real value added by the financial institutions.</sentence>
+<sentence id="s179">Indeed, as the explanatory memorandum distributed with the Bill which, as amended, later became the GST Act (the EM) says in Chapter 1 at [5.140]: "there is no readily agreed identifiable value for supplies consumed by customers of financial services".</sentence>
+<sentence id="s180">In such a case, it is the margin or imputed margin that is the real economic subject of the supply.</sentence>
+<sentence id="s181">There are other examples where this may be the case, one of which is the leasing of, or other dealings with, residential property (not being new residential property).</sentence>
+<sentence id="s182">[17] By way of what may be seen as a compromise for the difficulties of applying the normal system of value added taxation to financial supplies and other difficult cases, value added taxation design has created a form of supply which is referred to in Australia as an input taxed supply but which, in international value added tax parlance, is referred to as an "exempt supply".</sentence>
+<sentence id="s183">An input taxed or exempt supply (and financial supplies made by financial institutions will be the main example) will not, generally speaking, attract output tax, but the entity which makes financial supplies will, likewise, not obtain an input tax credit for the tax payable on acquisitions it makes in the course of its enterprise of making input taxed supplies.</sentence>
+<sentence id="s184">... 
+ 
+ 
+ 
+
+59 At [21], Hill J observed that it was "perhaps, not unremarkable" that s 11-15 of the Act bears, in its structure, some similarity to the general business deduction provisions of the Australian income tax law, ie, s 51(1) of the Income Tax Assessment Act 1936 (Cth) and s 8-1 of the Income Tax Assessment Act 1997 (Cth).</sentence>
+<sentence id="s185">His Honour noted that in both the GST provision and the income tax provisions it is necessary first to satisfy a positive test, and that apportionment is called for where the positive test is only partly satisfied.</sentence>
+<sentence id="s186">In both cases also there are negative tests which exclude the allowance of a credit in the GST context or the allowance of a deduction in the income tax context.</sentence>
+<sentence id="s187">60 His Honour discussed at length (at [34]ff) the relationship required by s 11 -15(2)(a) between the acquisition and the making of the supplies that would be input taxed.</sentence>
+<sentence id="s188">The parties before the Full Court appeared to accept that the relationship had to be "real" and "substantial" and not "trivial" (at [35]).</sentence>
+<sentence id="s189">61 Since the relationship between both the due diligence services and the debt collection services on the one hand and the purchase of the debts on the other was direct, there was no question of an indirect relationship as there is in the present case.</sentence>
+<sentence id="s190">However, Hill J made the following pertinent observations relevant to the expression "relates to" (at [35]-[38]):
+ [35] ...It was common ground that the words "relates to" are wide words signifying some connection between two subject matters.</sentence>
+<sentence id="s191">The connection or association signified by the words may be direct or indirect, substantial or real.</sentence>
+<sentence id="s192">It must be relevant and usually a remote connection would not suffice.</sentence>
+<sentence id="s193">The sufficiency of the connection or association will be a matter for judgment which will depend, among other things, upon the subject matter of the enquiry, the legislative history, and the facts of the case.</sentence>
+<sentence id="s194">Put simply, the degree of relationship implied by the necessity to find a relationship will depend upon the context in which the words are found.</sentence>
+<sentence id="s195">So much appears from the various cases referred to by the Tribunal when discussing the meaning of these words: ... [36] That the relationship contemplated here might be indirect follows, probably from s 11 -15(5), which provides that an acquisition will not be treated as relating to supplies that are input taxed where the acquisition relates to making a financial supply which consists of a borrowing and the borrowing relates to the taxpayer making supplies that are not input taxed.</sentence>
+<sentence id="s196">Hence, input tax credits will not be disallowed if the acquisition which gives rise to them relates to the taxpayer making a borrowing but the borrowing is used by the taxpayer in making taxable or GST free supplies.</sentence>
+<sentence id="s197">In other words, s 11 -15(5) would appear to contemplate that an acquisition having an indirect connection with a financial supply would otherwise [fall] within s 11 -15(2)(a).</sentence>
+<sentence id="s198">[37] It follows, perhaps more clearly, as well from the requirement of apportionment to be found in the words "to the extent that" which indicate that an acquisition may relate to the making of supplies that are input taxed as well as supplies that are taxable, as would be the case with undifferentiated general overhead outgoings of an entity making both input taxed and taxable supplies (cf, Ronpibon Tin NL v Federal Commissioner of Taxation [1949] HCA 15 ; (1949) 78 CLR 47 at 55-6).</sentence>
+<sentence id="s199">[38] It might be said, as indeed it is by the Trustee, that where the legislature intended to refer to an indirect connection in the GST Act, it did so.</sentence>
+<sentence id="s200">This can be seen for example in ss 60-20(1) and (2)(a) as well as s 38-190(2A).</sentence>
+<sentence id="s201">With respect, the mere fact that a particular subsection refers to relationships that are direct or indirect does not necessarily reveal that uses of the word "relation" in other subsections will be restricted to direct relationships.</sentence>
+<sentence id="s202">Whether that is the case will depend upon context: Clyne v Deputy Commissioner of Taxation [1981] HCA 40 ; (1981) 150 CLR 1 at 10, 15.</sentence>
+<sentence id="s203">62 Finally, his Honour made the following observations in relation to the legislative policy that might inform the construction of s 11-15(2)(a) (at [44]-[46] and [49]-[51]):
+ [44] It is clear, both having regard to the modern principles of interpretation as enunciated by the High Court in cases such as CIC Insurance Limited v Bankstown Football Club Ltd [1997] HCA 2 ; (1997) 187 CLR 384 and s 15AA of the Acts Interpretation Act 1901 (Cth) that the Court will prefer an interpretation of a statute which would give effect to the legislative purpose, as opposed to one that would not.</sentence>
+<sentence id="s204">This requires the Court to identify that purpose, both by reference to the language of the statute itself and also any extrinsic material which the Court is authorised to take into account.</sentence>
+<sentence id="s205">[45] The language of the GST Act, as seen in the context of value added taxation generally, makes it clear that the legislative scheme is that a taxpayer will be entitled to an input tax credit where it is necessary that a credit be given to ensure that output tax payable by the taxpayer is not imposed upon an amount which already includes tax payable at some early stage in the commercial cycle.</sentence>
+<sentence id="s206">Where possible, GST is not to be found embedded in the price or consideration on which output tax is calculated when taxable supplies are made.</sentence>
+<sentence id="s207">However, in the case of a taxpayer which makes input taxed supplies, while that taxpayer will not be liable to output tax on the supplies it makes which satisfy the description of input taxed supplies, that taxpayer will be denied an input tax credit for the tax payable on acquisitions it makes where the necessary relationship exists.</sentence>
+<sentence id="s208">[46] The language of s 11-15 would suggest that it was not intended that there be a tracing between the subject matter of an acquisition and an actual supply.</sentence>
+<sentence id="s209">Such a tracing would be necessary were the language of s 11-15(2)(a) to operate to disallow a credit where there was a relationship between the acquisition and an actual supply which was input taxed.</sentence>
+<sentence id="s210">That no doubt explains why the relationship which negates the input tax credit was expressed as being between the acquisition and the making of input taxed supplies, rather than between the acquisition and actual input taxed supplies.</sentence>
+<sentence id="s211">However, while it is true that the GST Act does not mandate a system of tracing acquisitions to actual supplies, it does not follow that an entity which has embarked upon an enterprise which consists of the making of input taxed supplies, but in fact makes no supplies, will be entitled to obtain input tax credits.</sentence>
+<sentence id="s212">Whether it is will depend upon whether the acquisitions are related to supplies which, if made, would be input taxed.</sentence>
+<sentence id="s213">If the acquisitions do not, then a credit will be available.</sentence>
+<sentence id="s214">... [49] The policy, as expressed by the Trustee, assumes that the system of input taxed supplies is one where inputs will always be able to be traced to particular outputs.</sentence>
+<sentence id="s215">As already noted, many acquisitions may involve generalised overhead expenses which relate to different facets of an enterprise.</sentence>
+<sentence id="s216">These acquisitions will not directly relate to particular supplies, yet the enterprise will take them into account in pricing outputs.</sentence>
+<sentence id="s217">So too, the fact that particular acquisitions may post date supplies, although be related to them, merely requires that outputs of the enterprise will be priced so as to take into account the costs of these acquisitions, at least in a continuing business.</sentence>
+<sentence id="s218">[50] If it be necessary here to state a general policy for the application of the GST to enterprises making input taxed supplies, it would be that, to the extent that an entity carries on an enterprise that consists of making input taxed supplies, it will bear the GST on acquisitions without an input tax credit so that its pricing of outputs, if any are made, will take into account, commercially, all GST it will be required to bear on its inputs.</sentence>
+<sentence id="s219">[51] This must particularly be the case where the financial supply that the enterprise makes consists of an acquisition supply --- that is to say, the receipt of a loan, or, as here, the acquisition of debts.</sentence>
+<sentence id="s220">FURTHER FACTS IN RELATION TO THE ISSUE IN DISPUTE 
+ The "things" acquired by NMLA 
+ 
+63 In the course of its business activities, NMLA incurred expenses in acquiring things, some of which bore GST (such as commissions) and some of which did not (such as wages and salaries paid to NMLA's employees).</sentence>
+<sentence id="s221">Some of the expenses were identifiable as relating directly to (1) input taxed supplies; (2) taxable supplies; (3) GST-free supplies; and (4) supplies outside the scope of GST.</sentence>
+<sentence id="s222">An example of directly attributable expenses is commissions paid to independent sales agents in connection with the promotion and sale of NMLA's products.</sentence>
+<sentence id="s223">64 As previously mentioned, the appeal does not relate to the manner in which, for GST purposes, NMLA's directly attributable expenses have been allocated, but rather to the manner in which its GME have been allocated.</sentence>
+<sentence id="s224">According to Mr Culliver, these included staff salaries, staff on-costs, travel and accommodation, training and recruitment, rent, other occupancy costs, telephone, postage, advertising and audit fees, and cannot be directly attributed to particular activities of NMLA.</sentence>
+<sentence id="s225">Obviously, AXA's claim to be entitled to input tax credits in the present proceeding concerns only GME paid in respect of GST bearing supplies to NMLA.</sentence>
+<sentence id="s226">The supplies made by NMLA 
+ 
+65 Acquisitions not forming part of NMLA's GME have been attributed directly to various supplies, and input tax credits claimed or not claimed as the case may be.</sentence>
+<sentence id="s227">AXA's claim to those input tax credits in respect of directly attributable acquisitions are not in issue in the present proceeding.</sentence>
+<sentence id="s228">66 The dispute between AXA and the Commissioner concerns (1) whether various supplies made by NMLA were input taxed supplies; (2) the extent to which the GME were related to those supplies; and (3) the proper methodology according to which the "relatedness" between the acquisitions and supplies is to be established.</sentence>
+<sentence id="s229">67 It is not disputed that the various forms of life insurance product issued by NMLA fall within each of Items 4, 5 and 6 in the table contained in reg 40-5.09(3), and are therefore input taxed supplies by NMLA that block entitlement to input tax credits in respect of any GME related to the supply of those products.</sentence>
+<sentence id="s230">68 The dispute largely concerns NMLA's investment in unit trusts of which NMAM and NMFM were the trustees.</sentence>
+<sentence id="s231">Those trustees, incorporated in Australia like NMLA, invested the trust funds wholly or substantially overseas.</sentence>
+<sentence id="s232">As mentioned at [30] above, it appears to have been accepted that the investment of funds overseas was a GST-free supply by the relevant trustee.</sentence>
+<sentence id="s233">It will be recalled that GST-free supplies do not block entitlement to input tax credits.</sentence>
+<sentence id="s234">69 The Commissioner contends that by acquiring units in the unit trusts, NMLA made an input taxed supply, in particular, a financial supply (being an "acquisition supply") that falls within Item 10(d) in the table contained in reg 40-5.09(3) (see [45]-[46] above).</sentence>
+<sentence id="s235">The acquisition of the units therefore, according to the Commissioner, blocked any entitlement to input tax credits in respect of GME to the extent that the GME were related to the acquisition of those units.</sentence>
+<sentence id="s236">70 For various reasons, AXA disputes that the acquisition of the units in the unit trusts were input taxed supplies.</sentence>
+<sentence id="s237">It also contends that even if they were, they did not block all entitlement to input tax credits.</sentence>
+<sentence id="s238">I elaborate on AXA's submissions below.</sentence>
+<sentence id="s239">71 Initially the Commissioner's understanding was that NMLA's investments were made exclusively through the acquisition of units in the unit trusts.</sentence>
+<sentence id="s240">AXA asserted, however, that NMLA made some of its investments directly and without the interposition of a unit trust, and that these gave rise to supplies that were not input taxed (and therefore not input credit blocking).</sentence>
+<sentence id="s241">On the final day of the hearing the Commissioner accepted that it did appear on the evidence that NMLA made some of its investments directly.</sentence>
+<sentence id="s242">The amount of input tax credits claimed by AXA 
+ 
+72 AXA's case is that there must be an apportionment because some of the things acquired for which it paid GME were related to supplies made by NMLA that were not input taxed or to other enterprise activities.</sentence>
+<sentence id="s243">73 While the Commissioner ultimately accepted that some supplies made by NMLA were not input taxed, and that therefore an apportionment must be made, he submits that none of the apportionment methodologies submitted by AXA are appropriate.</sentence>
+<sentence id="s244">Senior counsel for the Commissioner said that it would be necessary for the parties to approach the question of an appropriate apportionment methodology de novo in the light of my reasons on the various questions of law addressed below.</sentence>
+<sentence id="s245">I agree.</sentence>
+<sentence id="s246">74 The parties asked that at this stage I simply publish reasons on certain legal issues and allow them the opportunity of exploring the implications of my conclusions in terms of quantification.</sentence>
+<sentence id="s247">For this reason, I have chosen not to recount the facts relating to the successive apportionment methodologies used or proposed by AXA.</sentence>
+<sentence id="s248">75 It seems appropriate, however, to indicate that in a case of apportionment of GME under s 11-30, ideally the evidence would specify the nature and use made of the things acquired in some detail, the attempts made to relate them directly to supplies, and the reason why the particular methodology and proxies proposed are most likely to approximate the relatedness between acquisition of the things and the use made of them.</sentence>
+<sentence id="s249">AXA's financial statements 
+ 
+76 In reliance on NMLA's financial statements for the year ending 31 December 2002, the Commissioner submits that the "pool" of GME that is capable of being apportioned for the 2002 year is, at most, $33 million .</sentence>
+<sentence id="s250">AXA disagrees and relies on a much higher figure.</sentence>
+<sentence id="s251">77 According to the Commissioner, NMLA was required to prepare its financial statements in accordance with the relevant standards: Actuarial Standard 1.02 entitled "Valuation Standard" and Accounting Standard AASB 1038 entitled "Life Insurance Business".</sentence>
+<sentence id="s252">The Valuation Standard required, relevantly, that NMLA apportion its expenses into defined categories of Acquisition Expenses, Maintenance Expenses and Investment Management Expenses.</sentence>
+<sentence id="s253">The Valuation Standard stated that for those expenses that could not be directly allocated to particular expense categories, processes of apportionment may be called for.</sentence>
+<sentence id="s254">78 Note 11 to NMLA's financial statements related to "Operating Expenses" and included data on "Administration Expenses", which are summarised in the following table:
+ Administration expenses (other than commission) For Year ended 31/12/02 Percentage Policy acquisition $84 m 24.56% Policy maintenance $225 m 65.79% Investment management $33 m 9.65% Total $342 m 100% 
+79 The Commissioner's argument is that NMLA recorded only the amount of $33 million under "Investment Management Expenses", and that all other administrative expenses were attributed to the "Policy Acquisition" and the "Policy Maintenance" categories, which are related to input taxed supplies.</sentence>
+<sentence id="s255">80 AXA has led evidence to the effect that the figure of $33 million was limited to the charges paid to the investment manager, NMFM, and that 90% to 100% of that sum was passed on to Alliance Capital Management Pty Ltd, an unrelated company external to the Group which provided investment management services.</sentence>
+<sentence id="s256">AXA claims that its GME relating to supplies that were not input taxed included many expenses not comprised within the $33 million.</sentence>
+<sentence id="s257">81 In my view, the question of AXA's entitlement to input tax credits for the purposes of the Act is not necessarily limited by NMLA's published financial statements, although they are evidence of an admission by NMLA.</sentence>
+<sentence id="s258">Whether particular GME are "related to" particular input taxed supplies must be determined not by one piece of evidence or evidence of one particular kind but by reference to all of the evidence before the Court.</sentence>
+<sentence id="s259">CONSIDERATION 
+ Unit Trusts 
+ 
+82 As noted above, NMLA subscribes for units in unit trusts.</sentence>
+<sentence id="s260">In his affidavit, Mr Culliver states : 
+ Most of NMLA's investment portfolio is held through unit trusts.</sentence>
+<sentence id="s261">Each trust is managed as a separate asset pool and each statutory fund of NMLA has varying interests in each unit trust.</sentence>
+<sentence id="s262">Most of the unit trusts have a member of the AXA GST Group as the trustee.</sentence>
+<sentence id="s263">I took the approach that in calculating the revenue referable to investments in unit trusts, a "look through" approach should be adopted on the basis that NMLA is an active investor with controlling interests in almost all of its unit trust investments with the unit trust serving merely as a convenient vehicle for holding the investments.</sentence>
+<sentence id="s264">Accordingly, revenue derived through the holding revenue units in a unit trust should be treated in the same way as if it had been derived directly by NMLA.</sentence>
+<sentence id="s265">The "look through" approach taken by Mr Culliver is relevant to the contested issues concerning the unit trusts.</sentence>
+<sentence id="s266">1.</sentence>
+<sentence id="s267">Were the acquisitions of the units by NMLA financial supplies?</sentence>
+<sentence id="s268">
+ 
+1.1 AXA's consideration argument
+ 
+83 It will be recalled that a financial supply is an input taxed supply, and therefore input tax credit blocking.</sentence>
+<sentence id="s269">84 If the other terms of reg 40-5.09(1) (set out at [43] above) are satisfied, an acquisition of units in a unit trust is a financial supply by the acquirer.</sentence>
+<sentence id="s270">One of the conditions specified in reg 40-5.09(1) is that the acquisition be "for consideration" (reg 40-5.09(1)(a)(i)).</sentence>
+<sentence id="s271">85 The Commissioner submits that the fact that NMLA paid for the acquisition of the units satisfies the requirement that the acquisition be "for consideration".</sentence>
+<sentence id="s272">86 AXA submits that the requirement that the acquisition of the units be "for consideration" requires that the "value" or "benefit" constituting the consideration flow to the supplying party, in the present case NMLA because of its being deemed a supplier of the units.</sentence>
+<sentence id="s273">Since there was no consideration flowing in this direction, NMLA's deemed supply of the units was not, according to AXA, an input taxed supply because it was not "for consideration".</sentence>
+<sentence id="s274">87 As will be recalled, consideration is defined in s 9-15 (set out at [27] above).</sentence>
+<sentence id="s275">88 Paragraph (a) of s 9-15(1) provides that consideration includes "any payment...in connection with a supply of anything".</sentence>
+<sentence id="s276">This provision refers only to a supply, and not specifically to an acquisition.</sentence>
+<sentence id="s277">However, the term "supply" is defined to include a "financial supply" (s 9-10(2)(f)) which in turn is defined to include an acquisition of certain interests (reg 40-5.09(1)), including units in a trust (see [46] above).</sentence>
+<sentence id="s278">89 Section 9-15(2) provides that it does not matter whether the payment was voluntary or whether it was by the recipient of the supply (being the entity to which the supply is made: s 195-1).</sentence>
+<sentence id="s279">90 I readily agree that it is odd to think that the payment made by NMLA is to be regarded as the consideration "for" its acquisition (deemed supply) of the units.</sentence>
+<sentence id="s280">According to ordinary contractual concepts, one would expect consideration to move from the acquirer to the supplier (because of the deeming, NMLA, the actual acquirer, is the deemed supplier).</sentence>
+<sentence id="s281">But ordinary contractual concepts have no application.</sentence>
+<sentence id="s282">As the Commissioner points out, consideration in the Act is wider than consideration under the general principles of the law of contract and is an "extended statutory concept".</sentence>
+<sentence id="s283">It is not relevant to look to whether there is "discrete factual real world consideration" as AXA suggests.</sentence>
+<sentence id="s284">91 I see no alternative to construing s 9-15 literally: a supply, including an "acquisition supply", is "for consideration" so long as there is a payment, act or forbearance "in connection with" the acquisition.</sentence>
+<sentence id="s285">It suffices that there is a payment, act or forbearance furnished by the actual acquirer even though, by reason of the supply being an "acquisition supply", the actual acquirer is a deemed supplier.</sentence>
+<sentence id="s286">92 In my opinion, for the purposes of reg 40-5.09 and the Act, NMLA made a financial supply because it acquired the units for consideration because it made a payment "in connection with" its deemed supply of the units.</sentence>
+<sentence id="s287">93 I think that my construction is consistent with the policy underlying behind the input taxed supply provisions (see [51] above and the comments of Hill J set out at [58] above).</sentence>
+<sentence id="s288">It seems to me that by deeming an actual acquisition of an interest mentioned in subreg (3) or (4) of reg 40-5.09 to be a financial supply and defining consideration so widely in s 9-15, the legislature intended to catch an investment of the present kind.</sentence>
+<sentence id="s289">In acquiring the units, NMLA added nothing of value on which GST could be assessed.</sentence>
+<sentence id="s290">94 AXA referred to Visy Paper Pty Ltd v Australian Competition and Consumer Commission [2003] HCA 59 ; (2003) 216 CLR 1 ( Visy ), Finanzamt Gro&szlig;-Gerau v MKG-Kraftfahrzeuge-Factory GmbH (C-305/01 ) [2003] EUECJ C-305_01 ; [2004] All ER (EC) 454 , and Hagemeyer Ireland Plc v Revenue Commissioners [2007] IEHC 49.</sentence>
+<sentence id="s291">With respect, I do not see that any of these cases have any bearing on the present issue.</sentence>
+<sentence id="s292">The latter two were concerned with "factoring arrangements" arising under the terms of foreign legislation and the Visy case was concerned with s 47 of the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s293">95 From the cases referred to, AXA attempted to derive a principle that would limit what I consider to be the plain meaning of the Act.</sentence>
+<sentence id="s294">That principle is that in some cases, an acquirer (for example, the factor acquiring a debt as in the two European cases) can be seen to be providing a service to, and conferring a benefit on, the seller.</sentence>
+<sentence id="s295">AXA submits that the inclusion of acquisition in the definition of "financial supply" in reg 40-5.09 was intended to be limited in its operation to a situation of that kind.</sentence>
+<sentence id="s296">96 I see no reason to import as authorities on the construction of the Act approaches that were taken in cases concerning different statutory texts and contexts.</sentence>
+<sentence id="s297">97 I note in passing that in HP Mercantile , which concerned an acquisition of a debt as part of a factoring arrangement (see [54]ff above), it seems to have been assumed by the parties and by the Court that the amount paid for the acquisition of the debts was consideration for the purposes of reg 40-5.09(a)(i) (although, as AXA points out, the consideration was apparently less than the face value of the debts and so "value" can also be seen to have passed to the deemed supplier (the actual acquirer) of those debts).. 
+ 1.2 AXA's subset argument
+ 
+98 AXA also argues that input taxed supplies and GST-free supplies are subsets of taxable supplies.</sentence>
+<sentence id="s298">Accordingly, to be an input taxed supply, a supply must first satisfy the Act's definition of "taxable supply".</sentence>
+<sentence id="s299">The Commissioner disagrees and submits that input taxed supplies, GST-free supplies and taxable supplies are three separate categories of supply.</sentence>
+<sentence id="s300">99 I set out s 9 - 5 's definition of "taxable supply" at [25] above.</sentence>
+<sentence id="s301">The proviso at the end of that section (beginning "However, ...") does not by its terms require that each of the categories "GST-free supply" and "input taxed supply" lie wholly within the category of "taxable supply".</sentence>
+<sentence id="s302">The proviso merely acknowledges the possibility that some taxable supplies may to some extent be GST-free supplies and/or input taxed supplies.</sentence>
+<sentence id="s303">100 However, the word "supply" in s 9 - 5 bears the meaning given to it by s 9 - 10 and therefore includes a financial supply (s 9 - 10 (2)(f)) which is a particular species of input taxed supply (s 40 - 5 (1)).</sentence>
+<sentence id="s304">It follows that a financial supply (as defined in reg 40-5.09) is taken into s 9 - 5 by reason of its being included in s 9 - 10 's definition of "supply", and it is then taken out of s 9 - 5 by the proviso at the end of that section ("However, ...").</sentence>
+<sentence id="s305">101 AXA refers to the fact that to be a taxable supply, a supply must, inter alia, be made for consideration (s 9 - 5 (1)(a)).</sentence>
+<sentence id="s306">This is not different from the requirement in reg 40-5.09(a)(i) that a provision, acquisition or disposal of an interest be for consideration.</sentence>
+<sentence id="s307">For that reason, AXA does not need its subset argument to make its submission based on the words "for consideration".</sentence>
+<sentence id="s308">I have dealt with the "for consideration" argument above.</sentence>
+<sentence id="s309">1.3 AXA's "economic activity" argument
+ 
+102 I also understood AXA to argue that in order for NMLA's acquisition of the units to be a financial supply they must be acquired in the course of an economic activity carried on by NMLA.</sentence>
+<sentence id="s310">It is not clear to me whether AXA put this argument independently of the arguments referred to above.</sentence>
+<sentence id="s311">103 While the concept of economic activity is relevant to the cases Finanzamt Gro&szlig;-Gerau v MKG-Kraftfahrzeuge-Factory GmbH (C-305/01 ) [2003] EUECJ C-305_01 ; [2004] All ER (EC) 454 and Hagemeyer Ireland Plc v Revenue Commissioners [2007] IEHC 49 , to which AXA referred, those cases arose under foreign legislation.</sentence>
+<sentence id="s312">The concept of "economic activity" that arose in those cases is not relevant to the Act.</sentence>
+<sentence id="s313">104 The Act requires that the supply, whether a taxable supply or a financial supply, be in the course or furtherance of an enterprise (s 9-5(b) and reg 40-5.09(1)(a)(ii) respectively).</sentence>
+<sentence id="s314">I referred to the definition of "enterprise" and "business" at [28]-[29] above.</sentence>
+<sentence id="s315">105 In my opinion, when NMLA acquired the units from time to time it was doing an activity or series of activities in the form of a part of its business.</sentence>
+<sentence id="s316">That business included not only supplying life insurance for premiums but also the investment of its policyholders' and shareholders' funds.</sentence>
+<sentence id="s317">2.</sentence>
+<sentence id="s318">Are the unit trusts or the trustees of those trusts part of the Group?</sentence>
+<sentence id="s319">
+ 
+106 NMFM and NMAM were trustees of many of the unit trusts.</sentence>
+<sentence id="s320">AXA submits that NMFM and NMAM were members of the Group, and that therefore, even if the acquisition of units in the unit trusts is a financial supply, that "acquisition supply" is an "intra-group" supply and must be ignored for the purposes of working out entitlement to input tax credits (see s 48-55 referred to at [8] above).</sentence>
+<sentence id="s321">107 It is common ground that NMFM and NMAM were members of the Group in their personal capacities.</sentence>
+<sentence id="s322">However, the Act distinguishes between an entity's personal capacity and its capacity as trustee.</sentence>
+<sentence id="s323">108 Division 184 of the Act, headed "Meaning of entity", distinguishes clearly between a body corporate and a trust, even a trust of which the body corporate is the trustee.</sentence>
+<sentence id="s324">109 Section 184-1 defines "entity" to mean any of the following:
+ (a) an individual; (b) a body corporate; (c) a corporation sole; (d) a body politic; (e) a partnership; (f) any other unincorporated association or body of persons; (g) a trust; (h) a superannuation fund.</sentence>
+<sentence id="s325">In ordinary legal parlance, the word "trust" is used to refer to a particular class of relationship or the congeries of rights and obligations constituting such a relationship generally or on the facts of a particular case.</sentence>
+<sentence id="s326">110 Subsection 184-1(2) provides:
+ The trustee of a trust or of a superannuation fund is taken to be an entity consisting of the person who is the trustee, or the persons who are the trustees, at any given time.</sentence>
+<sentence id="s327">A note to this subsection states:
+ This is because a right or obligation cannot be conferred or imposed on an entity that is not a legal person.</sentence>
+<sentence id="s328">This provision is concerned with continuity irrespective of changes that may occur in the identity of the trustee or trustees from time to time.</sentence>
+<sentence id="s329">Under the provisions, a change in the identity of a trustee of a trust does not mark a change in the entity, which is the "trustee of [the] trust".</sentence>
+<sentence id="s330">111 Subsection 184-1(3) provides:
+ A legal person can have a number of different capacities in which the person does things.</sentence>
+<sentence id="s331">In each of those capacities, the person is taken to be a different entity.</sentence>
+<sentence id="s332">The following example is given:
+ In addition to his or her personal capacity, an individual may be: 
+ 
+ &#8226; sole trustee or one or more trusts; and
+ &#8226; one of a number of trustees of a further trust.</sentence>
+<sentence id="s333">
+ 
+ In his or her personal capacity, he or she is one entity.</sentence>
+<sentence id="s334">As trustee of each trust, he or she is a different entity.</sentence>
+<sentence id="s335">The trustees of the further trust are a different entity again, of which the individual is a member.</sentence>
+<sentence id="s336">112 The effect of the above provisions in the present case is plain.</sentence>
+<sentence id="s337">Each of NMFM and NMAM is a body corporate and therefore an entity in its own right, but it is also a separate entity in its capacity as trustee of each of the unit trusts of which it is the trustee.</sentence>
+<sentence id="s338">113 Division 48 is headed "GST groups", and I referred to various provisions within Div 48 at [8] above.</sentence>
+<sentence id="s339">Section 48-5(1) provides that the Commissioner must approve two or more entities as a GST group if, inter alia, each of those entities "satisfies the membership requirements" for that group (s 48-5(1)(b)).</sentence>
+<sentence id="s340">114 What are the requirements for membership of a group?</sentence>
+<sentence id="s341">Section 48-10(1) provides, relevantly, that an entity "satisfies the membership requirements" of a GST group or a proposed GST group, if the entity is, relevantly, a trust that satisfies the requirements specified in the Regulations (s 48-10(1)(a)(ii)) and is registered (s 48-10(1)(c)).</sentence>
+<sentence id="s342">115 Regulation 48-10.03 is headed "Membership requirements for trusts".</sentence>
+<sentence id="s343">Regulation 48-10.03(1) provides that, for the purposes of s 48-10(1)(a)(ii) of the Act, the requirements that must be satisfied for a trust to be a member of a GST group are the requirements set out in reg 48-10.03.</sentence>
+<sentence id="s344">The evidence does not establish that the unit trusts in question satisfy the requirements, but I need not discuss the nature of these requirements.</sentence>
+<sentence id="s345">It suffices to say that the evidence shows that none of the unit trusts were members of the Group.</sentence>
+<sentence id="s346">116 The definition of "entity" to mean, inter alia, a trust, and the distinction between a body corporate in its personal capacity and in its capacity as trustee of a trust leads to the following overlapping results.</sentence>
+<sentence id="s347">117 First, the Group did not include as members either any of the unit trusts or NMFM or NMAM in its capacity as a trustee of any of them.</sentence>
+<sentence id="s348">For this reason, the acquisition of units in the unit trusts of which NMFM or NMAM was trustee is not required to be ignored by reason of s 48-55.</sentence>
+<sentence id="s349">118 Second, for GST purposes, each member of the Group, each of the unit trusts and each of NMFM or NMAM as trustee of any of the trusts are separate entities that make their own separate acquisitions and supplies.</sentence>
+<sentence id="s350">NMLA is entitled to input tax credits in respect of its acquisitions, except to the extent that, relevantly, they relate to the making of supplies by NMLA that would be input taxed.</sentence>
+<sentence id="s351">That relatedness is not shown by a relatedness, if it exists, between acquisitions by NMLA and supplies by NMAM or NMFM as trustee of any of the unit trusts.</sentence>
+<sentence id="s352">119 Third, the enterprise that NMLA or any other member of the Group carried on is not the enterprise that the unit trusts or NMFM or NMAM as trustee for any of them carried on.</sentence>
+<sentence id="s353">3.</sentence>
+<sentence id="s354">Is a "look through" approach permitted by the Act?</sentence>
+<sentence id="s355">
+ 
+120 The distinction that the Act makes between an entity in its personal capacity, the entity in its capacity as trustee, and the entity constituted by a trust itself as described above seems to go a long way to contradicting any look through approach.</sentence>
+<sentence id="s356">121 AXA appeared to contend, however, that even accepting that the unit trusts, and NMAM and NMFM in their capacity as trustees of any of them, were not part of the Group, a look through approach was still appropriate.</sentence>
+<sentence id="s357">According to AXA's submission, NMLA should be treated as having made the investments directly (and thereby as having made supplies that were not input taxed).</sentence>
+<sentence id="s358">AXA's argument appears to be that the Act allows for an acquisition to be related indirectly to a supply, and that where the actual purpose of AXA in investing in unit trust was to make overseas investments, that actual purpose should be determinative.</sentence>
+<sentence id="s359">122 In my opinion, the "look through" approach is inconsistent with the Act.</sentence>
+<sentence id="s360">123 Let it be assumed that the acquisition of the units was merely a "formal mechanism" used in order for NMLA to make investments.</sentence>
+<sentence id="s361">This does not mean that the provisions of the Act are to be ignored.</sentence>
+<sentence id="s362">124 The Act entitles an entity to an input tax credit for any creditable acquisition that it makes (s 11-20).</sentence>
+<sentence id="s363">To make a creditable acquisition, an entity must have, inter alia, acquired the thing solely or partly for a creditable purpose (s 11-5(a)).</sentence>
+<sentence id="s364">Creditable purpose is defined in s 11-15 by way of a positive test (the thing is acquired in carrying on the entity's enterprise --- s 11-15(1)) and by way of a negative test or blocking provision (relevantly, the acquisition relates to making supplies that would be input taxed --- s11-15(2)(a)).</sentence>
+<sentence id="s365">Subsection (1) invokes an objective notion.</sentence>
+<sentence id="s366">One might perhaps have hoped for a more apt expression than "creditable purpose" to refer to the simple notion of an acquisition in the course of the carrying on of an enterprise.</sentence>
+<sentence id="s367">The expression "the acquisition relates to supplies that would be input taxed" in para (a) of s11-15(2) is likewise objective: it refers to a relatedness as a matter of objective fact between an acquisition and a supply.</sentence>
+<sentence id="s368">125 The Act provides in subss (3) and (4) of s 11-15 for circumstances in which an acquisition that would otherwise be related to making supplies that would be input taxed is not to be treated as such.</sentence>
+<sentence id="s369">Investment in a unit trust is not one of those situations.</sentence>
+<sentence id="s370">126 Paragraph 3.26 of the Explanatory Memorandum to the A New Tax System (Goods and Services) Tax Bill 1998 states:
+ ... you are not entitled to an input tax credit for acquiring a thing if your acquisition of the thing relates to an input taxed supply you are going to make.</sentence>
+<sentence id="s371">No tax will be charged on that supply.</sentence>
+<sentence id="s372">Therefore, you do not have a creditable purpose if your acquisition of a thing relates, either directly or indirectly, to a supply you make that is input taxed.</sentence>
+<sentence id="s373">[my emphasis] 
+127 The extent to which NMLA acquired the things for which it paid its GME for a creditable purpose is therefore answered by looking to the extent to which those things were acquired in the carrying on of NMLA's enterprise, and then to the extent that the acquisitions related, directly or indirectly, to the making of any input taxed supplies by NMLA .</sentence>
+<sentence id="s374">Neither the subjective intention of NMLA, nor the activities of NMFM and NMAM in their capacity as trustees of the unit trusts, is determinative of these questions.</sentence>
+<sentence id="s375">CONCLUSION 
+ 
+128 As indicated earlier, I will publish these reasons and fix a date for directions as to the progression of the matter to finality.</sentence>
+<sentence id="s376">I certify that the preceding one hundred and twenty-eight (128) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s377">Associate:
+
+Dated: 3 December 2008
+
+
+
+ Counsel for the Applicant: Mr R Cordara QC and Mr M L Robertson 
+ 
+ Solicitor for the Applicant: Ernst &amp; Young Law 
+ 
+ Counsel for the Respondent: Ms J Davies SC, Mr KM Connor SC and Mr RS Quinn 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ 
+
+ Date of Hearing: 8, 10, 11, 17, 18 April 2008 
+ 
+ Date Last Submission Received: 4 June 2008 
+ 
+ Date of Judgment: 3 December 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1834.html 
+ 
+ </sentence>
+</sentences>
+</case>

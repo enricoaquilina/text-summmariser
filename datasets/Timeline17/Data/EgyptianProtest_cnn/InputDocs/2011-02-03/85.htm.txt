@@ -1,0 +1,26 @@
+Protesters in Egypt post a sign asking the government to restore internet service , which was restored on Wednesday . 
+It seemed so easy for Egypt . 
+Just order a shutdown of the country 's internet connections and -- bam -- it happens . 
+But is such an authoritarian action transferable ? 
+Could the U.S. government shut down American internet connections ? 
+And is it possible for the global internet to be toppled ? 
+Technically , yes , internet experts said Wednesday , shortly after Egypt 's government restored internet connections there as violent political protests continued . 
+But it 's highly unlikely . 
+`` Could you break the internet ? 
+Can you shut it down ? 
+Shutting down the entire internet would be pretty much impossible at this point , '' said Jim Cowie , co-founder of Renesys , an worldwide internet tracker . 
+Cowie spoke of the internet as if it were a giant , adaptable worm . 
+`` The funny thing about the internet is even if you break it in half , the two halves will function as -LRB- separate -RRB- internets , '' he said . 
+How Egypt shut down the internet Understanding what happened in Egypt helps frame the discussion about what could happen to the internet in the United States or around the globe . 
+According to internet traffic monitors and experts , Egypt 's government likely called the country 's five main internet service providers -- like on the phone -- late last week and ordered them to barricade online traffic . 
+That 's sort of like calling all of the post offices in the country and telling them to throw the mail away instead of delivering it , said Robert Faris , research director at Harvard 's Berkman Center for Internet & Society . 
+But instead of shredding paper mail , the Egyptian internet providers altered their Border Gateway Protocols , the software that routes online information . 
+`` There 's not an on-off switch , '' Faris said . 
+`` What it is , it 's a list of IP addresses that route information between nodes on the internet . 
+And what they did -LRB- in Egypt -RRB- is they changed all the software and the list in there to something called null routing . 
+So all the traffic going in and out was essentially thrown away . '' 
+Faris called these measures extreme . 
+They have been carried out in only two other instances , he said : In Myanmar during 2007 protests ; and in Nepal in 2005 , when the king seized power . 
+Iran and China filter the internet instead of blocking it , he said . 
+Could the United States do the same ? 
+Technically , the United States could do the same thing Egypt did to block internet access , Faris said . 

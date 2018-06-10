@@ -1,0 +1,1096 @@
+<?xml version="1.0"?>
+<case>
+<name>NSI Dental Pty Ltd v University of Melbourne (with Corrigendum dated 30 November 2006) [2006] FCA 1216 (8 September 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1216.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">unjustified threats of infringement of chemical patent</catchphrase>
+<catchphrase "id=c1">first respondent owns patents for complexes, methods and products designed to treat dental caries</catchphrase>
+<catchphrase "id=c2">sent letters to third parties alleging that products manufactured by applicant infringed patents owned by first respondent</catchphrase>
+<catchphrase "id=c3">infringement</catchphrase>
+<catchphrase "id=c4">counter-claim by respondents that applicant infringed the first respondent's patents</catchphrase>
+<catchphrase "id=c5">whether integers of the claim are present in the applicant's products</catchphrase>
+<catchphrase "id=c6">construction of patent claim</catchphrase>
+<catchphrase "id=c7">whether extraction and isolation of phosphopeptide must be deliberate</catchphrase>
+<catchphrase "id=c8">whether complex must have been stabilized by the phosphopeptide at the moment of formation</catchphrase>
+<catchphrase "id=c9">validity</catchphrase>
+<catchphrase "id=c10">novelty</catchphrase>
+<catchphrase "id=c11">cross-claim by applicant that patents are invalid</catchphrase>
+<catchphrase "id=c12">whether prior disclosures contain all integers of claim</catchphrase>
+<catchphrase "id=c13">whether disclosures contains clear and unmistakable instructions as to how to use the claimed invention</catchphrase>
+<catchphrase "id=c14">whether disclosures were publicly available</catchphrase>
+<catchphrase "id=c15">whether first respondent consented to publication</catchphrase>
+<catchphrase "id=c16">validity</catchphrase>
+<catchphrase "id=c17">inventive step</catchphrase>
+<catchphrase "id=c18">whether invention obvious to a person skilled in the art in light of the common general knowledge at the priority date</catchphrase>
+<catchphrase "id=c19">whether common general knowledge included knowledge of cluster sequence and its function in binding calcium phosphate</catchphrase>
+<catchphrase "id=c20">whether common general knowledge taught formation of casein phosphopeptide complexes at a ph greater than 7</catchphrase>
+<catchphrase "id=c21">validity</catchphrase>
+<catchphrase "id=c22">false suggestion</catchphrase>
+<catchphrase "id=c23">first respondent made a false submission to the patent office as to the state of the prior art</catchphrase>
+<catchphrase "id=c24">whether submission constitutes a false suggestion</catchphrase>
+<catchphrase "id=c25">validity</catchphrase>
+<catchphrase "id=c26">fair basis</catchphrase>
+<catchphrase "id=c27">whether patent specification is clear, succinct and fairly based on the matter described in the specification</catchphrase>
+<catchphrase "id=c28">misleading and deceptive conduct</catchphrase>
+<catchphrase "id=c29">first respondent alleges applicant made representations that studies revealed that its products had a similar anti-caries effect to the first respondent's products</catchphrase>
+<catchphrase "id=c30">whether representations were misleading or deceptive as to the qualities of the goods</catchphrase>
+<catchphrase "id=c31">patents</catchphrase>
+<catchphrase "id=c32">patents</catchphrase>
+<catchphrase "id=c33">patents</catchphrase>
+<catchphrase "id=c34">patents</catchphrase>
+<catchphrase "id=c35">patents</catchphrase>
+<catchphrase "id=c36">patents</catchphrase>
+<catchphrase "id=c37">trade practices</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 This is an application by NSI Dental Pty Limited ("NSI") filed on 2 July 2004, seeking declarations and orders that the University of Melbourne ("the University") and Recaldent Pty Ltd ("Recaldent") made unjustified threats within s 128(1)(a) of the Patents Act 1990 (Cth) ("the Act ") .</sentence>
+<sentence id="s1">Injunctive relief is sought in respect of these threats.</sentence>
+<sentence id="s2">The allegedly unjustified threats are also said to contravene Pt V of the Trade Practices Act 1974 (Cth) ("the TPA") and equivalent provisions of the Fair Trading Act 1987 (NSW).</sentence>
+<sentence id="s3">2 In June 2004, the solicitors for the University and Recaldent sent letters to third parties asserting that products sold by NSI since 1999 under the names "Topacal C-5" and "Dentacal" infringed a number of patents owned by the University.</sentence>
+<sentence id="s4">These letters are claimed to constitute the unjustified threats.</sentence>
+<sentence id="s5">The patents to which the letters refer are the "Phosphopeptide Patent", the "Dental Calculus Patent", the "Dentinal Hypersensitivity Patent" and the "Complex Patent".</sentence>
+<sentence id="s6">These patents are dated between 12 June 1987 and 13 March 1998, with expiry dates ranging from 12 June 2007 to 13 March 2018.</sentence>
+<sentence id="s7">3 In response to the application, the University and Recaldent filed a cross-claim against NSI and other named entities ("the NSI Parties") for infringement of the Caries Inhibition Patent, which expired 4 March 2002, the Dental Calculus Patent, the Dentinal Hypersensitivity Patent and the Complex Patent ("the infringement cross-claim") by the manufacture, sale and distribution of Topacal C-5 with Dentacal, Dentacal and Phoscal Powder ("the NSI Products").</sentence>
+<sentence id="s8">The cross-claim also alleges that the conduct of the cross-respondents contravened the TPA.</sentence>
+<sentence id="s9">The claim for infringement of the Dental Calculus Patent was abandoned by the University and Recaldent on 25 December 2004.</sentence>
+<sentence id="s10">4 The current infringement cross-claim, the Second Further Amended Cross-Claim, was filed on 8 July 2005.</sentence>
+<sentence id="s11">The amended cross-claim makes the additional assertion that the NSI Products infringe the Phosphopeptide Patent.</sentence>
+<sentence id="s12">5 In response to the infringement cross-claim, NSI filed a further cross-claim challenging the validity of each of the patents on which the University and Recaldent base their claims of infringement ("the invalidity cross-claim").</sentence>
+<sentence id="s13">The particulars of invalidity are set out by NSI in a Fifth Further Amended Particulars of Invalidity filed in Court on 8 December 2005.</sentence>
+<sentence id="s14">As a result of admissions and undertakings made by NSI for the purposes of the proceedings, the invalidity cross-claim is now concerned only with the Complex Patent.</sentence>
+<sentence id="s15">6 The hearing of the evidence in this matter commenced on 28 November 2005 and concluded on 8 December 2005.</sentence>
+<sentence id="s16">Oral submissions in closing were heard on 14 and 15 December 2005.</sentence>
+<sentence id="s17">The hearing was limited to the questions of liability for non-pecuniary remedies.</sentence>
+<sentence id="s18">The question of the quantum of any pecuniary relief is to be determined separately.</sentence>
+<sentence id="s19">ISSUES 
+ 
+7 Admissions and undertakings were made by the NSI Parties on 2 December 2005.</sentence>
+<sentence id="s20">As a consequence, the following matters are no longer in dispute:
+ 
+ 
+ (a) The Phosphopeptide Patent is valid and was infringed.</sentence>
+<sentence id="s21">(b) The Dentinal Hypersensitivity Patent is valid and was infringed.</sentence>
+<sentence id="s22">(c) The Caries Inhibition Patent was valid and was infringed.</sentence>
+<sentence id="s23">(d) The NSI Parties are liable to pay damages or account for profits made in respect of the manufacture, sale or distribution of Topacal C-5, Dentacal and Phoscal Powder.</sentence>
+<sentence id="s24">(e) Some of the NSI Parties had engaged in some, but not all, of the misleading and deceptive conduct alleged in the infringement cross-claim.</sentence>
+<sentence id="s25">(f) Some of the NSI Parties are liable to pay damages or account for profits received as a result of making the said misrepresentations.</sentence>
+<sentence id="s26">
+ 
+
+8 The following matters remain in dispute:
+ 
+ 
+ (a) The validity of Claims 7, 10, 11, 13, 18 and 21 of the Complex Patent.</sentence>
+<sentence id="s27">NSI asserts that these Claims are invalid for want of fair basis, lack of clarity, ambiguity, want of novelty and lack of inventive step.</sentence>
+<sentence id="s28">(b) The validity of Claims 8, 9, 12, 14-17, 19, 20 and 20-30.</sentence>
+<sentence id="s29">NSI asserts that these Claims are invalid on the basis of false suggestion.</sentence>
+<sentence id="s30">(c) Infringement of Claims 7, 10, 11, 13, 18 and 21 of the Complex Patent by some or all of the NSI Parties as a result of the manufacture, sale and/or distribution of Topacal C-5, Dentacal and Phoscal Powder.</sentence>
+<sentence id="s31">(d) Infringement by certain of the NSI Parties of the Complex Patent as a result of conduct that falls within s 117 of the Act.</sentence>
+<sentence id="s32">(e) Unjustified threats of infringement by the University and Recaldent.</sentence>
+<sentence id="s33">(f) Infringement by some of the NSI Parties of Pt V of the TPA.</sentence>
+<sentence id="s34">
+ 
+ THE PATENTS 
+ 
+9 The University owns the patents referred to in [2] above.</sentence>
+<sentence id="s35">The named inventor of each of the five patents is Professor Eric Reynolds AO who is employed by the University in its School of Dentistry.</sentence>
+<sentence id="s36">Each patent is a reflection of Professor Reynolds' work at the University as a biochemist investigating the chemistry of milk.</sentence>
+<sentence id="s37">In particular, the patents draw on Professor Reynold's work on casein, which is the principal protein in milk and is responsible for the beneficial effect of milk on teeth.</sentence>
+<sentence id="s38">10 Professor Reynolds has carried out his research for over 20 years and this has resulted in the grant of a number of patents.</sentence>
+<sentence id="s39">The first patent to be granted was the Caries Inhibition Patent, which was an application in respect of a specification originally filed in March 1982.</sentence>
+<sentence id="s40">This patent states that phosphorylated amino acid residues in casein and in polypeptides from casein have an anti-caries effect.</sentence>
+<sentence id="s41">The Phosphopeptide Patent, which was granted in 1987, relates to particular phosphorylated polypeptides from casein ("phosphopeptides") and, in particular, phosphopeptides which include a sequence of three phosphorylated peptides amino acid residues followed by two residues of amino acids of a different type ("the Cluster Sequence").</sentence>
+<sentence id="s42">The next patent to be granted was the Dental Calculus Patent in 1992 followed by the Dental Hypersenstivity Patent which was subsequently granted in 1993.</sentence>
+<sentence id="s43">This patent relates to products designed to treat dental hypersensitivity, in which the active component is a phosphopeptide containing the Cluster Sequence.</sentence>
+<sentence id="s44">11 The Complex Patent, which is the principal patent in suit, was filed on 13 March 1997, which is the priority date.</sentence>
+<sentence id="s45">It relates to novel chemical complexes in which a soluble, alkaline, amorphous calcium phosphate formed at a pH above 7 is stabilised by phosphopeptides.</sentence>
+<sentence id="s46">That patent also relates to compositions containing those complexes, methods of making those complexes and applications of those complexes.</sentence>
+<sentence id="s47">The complexes deliver calcium phosphate to prevent dental caries or tooth decay.</sentence>
+<sentence id="s48">THE NSI PARTIES 
+ 
+12 There is a dispute as to the appropriate parties against whom relief should be granted and also as to whether the claims lack novelty due to prior exposure.</sentence>
+<sentence id="s49">It is therefore appropriate to briefly consider the history of the commercialisation of the invention and to describe the parties' concerns in that process.</sentence>
+<sentence id="s50">13 Around 1990, the University began to enter into arrangements for the commercialisation of its patents.</sentence>
+<sentence id="s51">The University entered into agreements with Bonlac Foods Limited ("Bonlac"), an Australian dairy company, for the purpose of Bonlac making the phosphopeptides claimed in the Phosphopeptide Patent from casein and supplying that ingredient to third parties who would be licensed to use it in the manufacture of products.</sentence>
+<sentence id="s52">14 In late 1994, Bonlac began to trial the small-scale manufacture of the ingredient under the name of "Calpep".</sentence>
+<sentence id="s53">By 1993, Calpep comprised not only the phosphopeptides with the Cluster Sequence but also those phosphopeptides in a complex with calcium phosphate.</sentence>
+<sentence id="s54">This complex is described in detail in the Complex Patent.</sentence>
+<sentence id="s55">15 Bonlac engaged ICI Australia Pty Ltd ("ICI") to assist it in marketing Calpep to third party licensees.</sentence>
+<sentence id="s56">The principal contact at ICI was Mr Michael Nunn.</sentence>
+<sentence id="s57">Bonlac also recruited the assistance of New Zealand Pharmaceuticals Limited ("NZP"), a member of the ICI group of companies globally, because of its expertise in the manufacture and supply of ingredients made from milk.</sentence>
+<sentence id="s58">The principal contact at NZP was Dr Richard Garland.</sentence>
+<sentence id="s59">16 Mr Nunn was employed by ICI as a national business manager in the consumer specialties division.</sentence>
+<sentence id="s60">From about 1992 to 1994, he was responsible for the market development of the Calpep products, the active ingredient of which employed phosphopeptide technology as it was being developed by Professor Reynolds.</sentence>
+<sentence id="s61">17 In 1994, Mr Nunn commenced a business known as "Michael Nunn and Associates".</sentence>
+<sentence id="s62">From 1994 to 1997, Mr Nunn worked as a consultant to NZP, assisting with the sale and marketing of the phosphopeptide technology being developed by the University.</sentence>
+<sentence id="s63">Mr Nunn gives evidence that, in 1996, he arranged for the dissemination of the "Introducing Calpep" information, which is said by NSI to represent a novelty-defeating anticipation of the claims of the Complex Patent.</sentence>
+<sentence id="s64">The University submits that the "Introducing Calpep" information, either alone or as part of the "Information Package," does not contain a disclosure of the complex claimed in Claim 7 of the Complex Patent ("the complex").</sentence>
+<sentence id="s65">The University also contends that such dissemination by Mr Nunn was in breach of the obligation of confidence that he owed to the University.</sentence>
+<sentence id="s66">18 Since 2003, Mr Nunn has been a director of NZPH Australia Pty Ltd ("NZPH"), the third cross-respondent.</sentence>
+<sentence id="s67">From August 2002 to March 2004, NZPH was known as NSI Dental Pty Ltd. Mr Nunn was also a director of Phoscal Holdings Pty Ltd ("Phoscal Holdings"), the fifth cross-respondent, from December 2000 to June 2004.</sentence>
+<sentence id="s68">Since approximately January 2004, Probiotec (Australia) Pty Ltd ("Probiotec"), the sixth cross-respondent, has had management control of Phoscal Holdings Pty Ltd and has owned a significant number of the shares in that company.</sentence>
+<sentence id="s69">19 Dr Garland has been a director of NZP since the mid-1990s.</sentence>
+<sentence id="s70">From about 1994 until October 1997, Dr Garland was closely involved in the market development of Calpep.</sentence>
+<sentence id="s71">After October 1997, NZP ceased to have any authorised involvement in the University technology.</sentence>
+<sentence id="s72">NZP is, however, the company that manufactures Phoscal Powder in New Zealand.</sentence>
+<sentence id="s73">Dr Garland is also a director of NZPH and Phoscal Holdings.</sentence>
+<sentence id="s74">20 The second cross-respondent is Topacal Pty Ltd. Topacal Pty Ltd was known as NSI Dental Pty Ltd between February 2001 and August 2002 and is now known as Nulite Systems International Pty Ltd ("Nulite").</sentence>
+<sentence id="s75">Nulite was one of the third parties interested in the technology being developed by the University.</sentence>
+<sentence id="s76">From 1994 to 1998, Nulite was engaged in evaluating the possibility of using Calpep in products for dental applications.</sentence>
+<sentence id="s77">Nulite also manufactured a product incorporating Calpep, which had been supplied by the University and Bonlac, called "Topacal C-5 with Calpep".</sentence>
+<sentence id="s78">21 Mr Lindsay McEachern was a director of Nulite from 1992 to 2002.</sentence>
+<sentence id="s79">Mr McEachern was also a director of Phoscal Holdings from September 2000 to June 2005 and Pacific Biolink Pty Ltd ("Pacific Biolink"), the fifth cross-respondent, from October 1996 to July 2005.</sentence>
+<sentence id="s80">22 NSI is the ultimate successor to the business of Nulite.</sentence>
+<sentence id="s81">NSI first marketed the products that are the subject of the threats by the University and Recaldent.</sentence>
+<sentence id="s82">23 The agreements referred to in [13] above between the University and Bonlac ended in 2002.</sentence>
+<sentence id="s83">Recaldent then entered into an exclusive licence agreement with the University.</sentence>
+<sentence id="s84">It is alleged that Recaldent participated in making the threats to NSI and it is therefore a party to the infringement cross-claim.</sentence>
+<sentence id="s85">THE NSI PRODUCTS 
+ 
+24 The NSI Products in dispute are Phoscal Powder, Topacal C-5 and Dentacal.</sentence>
+<sentence id="s86">25 Phoscal Powder has been made at least since 2000 by NZP and/or by Tatua Nutritionals, a division of Tatua Co-operative Dairy Co Ltd.</sentence>
+<sentence id="s87">Neither of these companies are parties to the proceedings.</sentence>
+<sentence id="s88">It is admitted by NSI that it has, either by itself or by its agents, offered to supply and has supplied Phoscal Powder in Australia.</sentence>
+<sentence id="s89">It is further admitted that, in about 2000 or early 2001, Topacal Pty Ltd obtained and supplied Phoscal Powder to an Australian manufacturer and, in early 2003, NZPH supplied some Phoscal Powder to an Australian confectionary manufacturer for inclusion as an ingredient in sweets.</sentence>
+<sentence id="s90">26 Pacific Biolink licensed Phoscal Holdings to sub-licence entities to manufacture and supply Phoscal Powder in Australia.</sentence>
+<sentence id="s91">Probiotec has been contracted to provide manufacturing and other services to NSI.</sentence>
+<sentence id="s92">27 The existence of Phoscal Powder as a product of NSI was not made known to the University until interlocutory applications were made compelling the production of relevant documents.</sentence>
+<sentence id="s93">28 Topacal C-5 is in the form of a cr&egrave;me.</sentence>
+<sentence id="s94">Topacal C-5 has been made in two forms --- with "Calplex" and with "Phoscal".</sentence>
+<sentence id="s95">An earlier form of the product was known as Topacal C-35.</sentence>
+<sentence id="s96">The NSI Parties have ceased distributing Topacal C-5 with Calplex and Topacal C-35 and undertaken not to do so in the future.</sentence>
+<sentence id="s97">Further references to "Topacal" in this judgment are to "Topacal C-5 with Phoscal".</sentence>
+<sentence id="s98">The NSI parties admit that, between August 2002 and March 2004, NZPH, either by itself or by its agents, manufactured, supplied, sold and/or offered for sale Topacal.</sentence>
+<sentence id="s99">NSI has, either by itself or by its agents, manufactured, supplied, sold and/or offered for sale Topacal in Australia since April 2004.</sentence>
+<sentence id="s100">29 Dentacal is in a liquid form and is marketed as a mouth rinse.</sentence>
+<sentence id="s101">The NSI parties admit that, between August 2002 and March 2004, NZPH, either by itself or by its agents, manufactured, supplied, sold and/or offered for sale Dentacal to dentists, pharmacies and consumers in Australia.</sentence>
+<sentence id="s102">During this same period, Pacific Biolink also licensed Phoscal Holdings to sub-licence NZPH to manufacture, supply and/or sell Topacal and Dentacal in Australia.</sentence>
+<sentence id="s103">30 A number of admissions have been made by the NSI Parties regarding the NSI Products.</sentence>
+<sentence id="s104">These include the following:
+ 
+ (a) Topacal C-5 and Dentacal contain the active ingredient known as Phoscal.</sentence>
+<sentence id="s105">(b) Phoscal Powder is a form of the active ingredient known as Phoscal.</sentence>
+<sentence id="s106">(c) Phoscal is a stable water-dispersible alkaline calcium phosphate complex.</sentence>
+<sentence id="s107">(d) Phoscal is formed at a pH greater than 7.</sentence>
+<sentence id="s108">(e) The calcium phosphate is Phoscal and is amorphous.</sentence>
+<sentence id="s109">(f) Phoscal includes some proteins which include the 5 amino acid sequence of Ser(P)-Ser(P)-Ser(P)-Glu-Glu sequence.</sentence>
+<sentence id="s110">
+ THE COMPLEX PATENT SPECIFICATION 
+ 
+31 The Complex Patent Specification is entitled "Calcium Phosphopeptide Complexes" ("the Specification").</sentence>
+<sentence id="s111">The introductory paragraph states:
+ 
+ "The present invention relates to novel complexes in which amorphous calcium phosphates are stabilized by phosphopeptides.</sentence>
+<sentence id="s112">These complexes have anti-cariogenic effects and may also be used as dietary supplements to increase calcium bio-availability and to heal or prevent diseases associated with calcium deficiencies.</sentence>
+<sentence id="s113">Methods of making the complexes of the invention and of treatment or prevention of dental caries, calcium malabsorption, and bone diseases are also provided.</sentence>
+<sentence id="s114">" 
+ 
+
+32 The complex described in the patent is used to deliver a form of calcium phosphate to the surface of teeth so that it can be incorporated into the teeth in order to prevent and treat dental caries.</sentence>
+<sentence id="s115">It is said to meet a need for a non-toxic anti-decay agent that can supplement the effects of fluoride to lower the incidence of tooth decay.</sentence>
+<sentence id="s116">33 The protein "casein" is the component responsible for the anti-decay effect of dairy products.</sentence>
+<sentence id="s117">However, the use of casein to fight dental decay has produced some adverse effects and is required in very high levels to be effective.</sentence>
+<sentence id="s118">34 Initial research indicated that casein phosphopeptides produced by a tryptic process contributed to the activity of casein.</sentence>
+<sentence id="s119">In particular, phosphopeptides containing the Cluster Sequence used in combination with calcium phosphate were shown to produce anti-decay properties.</sentence>
+<sentence id="s120">Later research indicated that the Cluster Sequence within those phosphopeptides had the ability to stabilise their own weight in the amorphous form of calcium phosphate.</sentence>
+<sentence id="s121">The complex is therefore the most soluble alkaline form of non-crystalline calcium phosphate.</sentence>
+<sentence id="s122">It is an effective form of calcium phosphate to lessen tooth decay in that it has the effect of being more readily deliverable to the teeth so as to be available to carry out its function.</sentence>
+<sentence id="s123">35 The Specification goes on to describe the requirements and a method for forming the complex.</sentence>
+<sentence id="s124">36 Claims 1 to 9, including Claim 7, which is the primary focus of the proceedings, are for chemical "complexes" simpliciter.</sentence>
+<sentence id="s125">That is to say, they are not claims for products or for any particular use of the complexes.</sentence>
+<sentence id="s126">Claims 21 and 22 are methods for making those complexes, again without any indication that they are for a particular application.</sentence>
+<sentence id="s127">37 The remaining claims are a mixture of claims for products that include one of the complexes in Claims 1 to 9 and methods of use of such products.</sentence>
+<sentence id="s128">Of the claims in suit, Claims 10, 11 and 13 are for products including the species in Claim 7, while Claim 18 is a method of treating dental caries using the species in Claim 7.</sentence>
+<sentence id="s129">38 The opening words of the Specification identify the complexes which are the subject of Claims 1 and 7.</sentence>
+<sentence id="s130">Claims 2 to 6 reflect the product claims in that they refer to products with dental applications and other applications relevant to all conditions that might result from calcium deficiency.</sentence>
+<sentence id="s131">39 The University accepts that if Claim 7 is invalid, then so are Claims 10, 11 and 13.</sentence>
+<sentence id="s132">40 It is common ground that the invention lies in the making of the identified complexes rather than the inclusion of these complexes in any particular product for any particular purpose.</sentence>
+<sentence id="s133">The basis of the invention is the unexpected ability of the Cluster Sequence within the phosphopeptides to stabilize amorphous calcium phosphate and prevent crystallisation of the amorphous calcium phosphate.</sentence>
+<sentence id="s134">CONSTRUCTION --- LEGAL PRINCIPLES 
+ 
+41 The principles of construction of a patent specification are well-settled.</sentence>
+<sentence id="s135">The general approach is summarised by the Full Court of the Federal Court in Jupiters Ltd v Neurizon Pty Limited (2005) 65 IPR 86 at [67] and [68].</sentence>
+<sentence id="s136">It is not necessary to repeat the Full Court's comments here.</sentence>
+<sentence id="s137">42 In constructing a patent claim, the ordinary meaning of the language selected to define the claim is of prime importance: see Baygol Pty Ltd v Foamex Polystyrene Pty Ltd (2005) 64 IPR 437.</sentence>
+<sentence id="s138">Although a claim must be understood in the light and context of the whole specification, as a general rule, the words of a claim are not to be altered by a gloss taken from the body of the specification and essential integers are determined by a common sense assessment of what the words of the claim convey in the context of the existing published knowledge at the time: see Rehm Pty Ltd v Websters Securities Systems (International) Pty Ltd (1988) 81 ALR 79 at 92; Kimberley-Clark Australia Pty Ltd v Arico Trading International Pty Ltd [2001] HCA 8 ; (2001) 207 CLR 1.</sentence>
+<sentence id="s139">It is not legitimate to narrow or expand the boundaries of an anomaly as fixed by the words of a claim by adding words drawn from other parts of the specification: see Flexible Steel Lacing Co v Beltreco Ltd (2000) 49 IPR 331 at [74].</sentence>
+<sentence id="s140">In addition, claims are not to be construed by reference to the actual intentions or opinions of the inventor: see Sartas (No 1) Pty Limited v Koukourou &amp; Partners Pty Ltd (1994) 30 IPR 479 at 485-6.</sentence>
+<sentence id="s141">43 It is, however, necessary to guard against an unduly strict literal approach since, in some circumstances, such an approach may be inappropriate.</sentence>
+<sentence id="s142">By way of illustration, see Catnic Components Ltd v Hiller and Smith Ltd [1982] RPC 183 at 242 per Lord Diplock.</sentence>
+<sentence id="s143">That case illustrates circumstances in which the strict literal approach was considered by the House of Lords to be inappropriate.</sentence>
+<sentence id="s144">CONSTRUCTION OF CLAIMS 
+ 
+44 With these principles in mind, I turn now to the construction of the claims in the present case.</sentence>
+<sentence id="s145">45 The construction question in the present case focuses on Claim 7 of the Complex Patent.</sentence>
+<sentence id="s146">As discussed above, Claim 7 is a claim for a complex and not a product or a method for a product.</sentence>
+<sentence id="s147">It claims a monopoly for: 
+ 
+ 
+ "(7) A stable soluble alkaline calcium phosphate complex, which has been formed at a pH greater than 7, including phosphopeptide stabilised amorphous calcium phosphate or a derivative thereof wherein the said phosphopeptide includes the amino acid sequence Ser(P)-Ser(P)-Ser(P)-Glu-Glu.</sentence>
+<sentence id="s148">" 
+ 
+ 
+ 
+
+46 Professor Dawes explains Claim 7 in this way.</sentence>
+<sentence id="s149">He points out that a "complex" is a combination of two or more components in which there is an interaction between the components.</sentence>
+<sentence id="s150">The calcium phosphate complex in this claim is alkaline.</sentence>
+<sentence id="s151">This means that, as it exists, it has a pH of more than 7.</sentence>
+<sentence id="s152">There is an additional integer that the calcium phosphate must be formed at a pH greater than 7.</sentence>
+<sentence id="s153">This goes to the manufacture of the complex, which must retain a pH greater than 7 after creation and when examined.</sentence>
+<sentence id="s154">The phosphopeptide referred to is a chain of amino acids which has phosphorylated amino acids.</sentence>
+<sentence id="s155">The phosphopeptides stabilise calcium phosphate in a non-crystalline form by inhibiting it from converting into a crystalline form and precipitating out of solution.</sentence>
+<sentence id="s156">Amorphous calcium phosphate is usually not stable as it tends to convert to crystalline forms of calcium phosphate.</sentence>
+<sentence id="s157">Amorphous calcium phosphate is bio-available in that it can dissolve and release calcium and phosphate for depositing on teeth.</sentence>
+<sentence id="s158">The calcium and phosphate ions, due to their size, can diffuse through surface enamel over a sub-surface caries lesion.</sentence>
+<sentence id="s159">The pores on the surface enamel are larger than the charged ions and will not impede the diffusion of calcium or phosphate ions through the enamel.</sentence>
+<sentence id="s160">By contrast, crystalline forms of calcium phosphate present in the mouth under normal oral conditions cannot diffuse into the teeth, because the crystals are too large to diffuse through the pores in the enamel.</sentence>
+<sentence id="s161">These forms of calcium phosphate are therefore not bio-available.</sentence>
+<sentence id="s162">47 The case for NSI is that, as a matter of language, the subject of the claim is the "complex" referred to, which is defined in the claim.</sentence>
+<sentence id="s163">NSI says that the complex is required to be "stable", "soluble", "alkaline", to "include calcium phosphate" - which is "formed at a pH greater than 7" - and to "include phosphopeptide which stabilises amorphous calcium phosphate or a derivative thereof".</sentence>
+<sentence id="s164">48 In my view, the last descriptor referred to by NSI does not accurately reflect Claim 7.</sentence>
+<sentence id="s165">The final element of Claim 7 refers to phosphopeptide stabilized amorphous calcium phosphate or a derivative thereof.</sentence>
+<sentence id="s166">It is the stabilized amorphous calcium phosphate or derivative which is included and not merely the phosphopeptide.</sentence>
+<sentence id="s167">The expression is a composite.</sentence>
+<sentence id="s168">49 NSI also submits that the phosphopeptide must include the Cluster Sequence.</sentence>
+<sentence id="s169">NSI says that it is common general knowledge among relevant addressees that phosphopeptides containing the amino acid Cluster Sequence are derived from proteins and, in particular, caseins.</sentence>
+<sentence id="s170">50 NSI contends that because the complex includes the phosphopeptides, there can be no doubt that the adjectives "stable", "soluble" and "alkaline" describe the calcium phosphate/phosphopeptide complex.</sentence>
+<sentence id="s171">It is said that, on a plain reading of Claim 7, these adjectives describe the complex .</sentence>
+<sentence id="s172">They do not qualify the reference to "calcium phosphate" because, at that point, calcium phosphate is also a descriptor of the total complex, identifying only one component of it.</sentence>
+<sentence id="s173">NSI notes that there does not appear to be any disagreement amongst the experts as to the meaning of each of these descriptors.</sentence>
+<sentence id="s174">51 NSI submits that Claim 7 is framed so as not to define or comprise any particular structure.</sentence>
+<sentence id="s175">NSI acknowledges that the claim includes an assertion that the constituents of the complex are phosphopeptides and calcium phosphate and says something about the relationship between them, namely, that the phosphopeptide "stabilises" the calcium phosphate as part of the formation of the complex.</sentence>
+<sentence id="s176">However, NSI submits that Claim 7, considered alone, says nothing about the structure of the amorphous calcium phosphate or the calcium phosphate in the complex.</sentence>
+<sentence id="s177">52 NSI says that a consideration of the body of the specification confirms that the complex that is the subject of Claim 7 consists of both the phosphopeptides and the amorphous calcium phosphate and provides no particular structure for the complex of each of them.</sentence>
+<sentence id="s178">Beyond confirming that the calcium phosphate is amorphous, the specification indicates that no particular compound of amorphous calcium phosphate is included in the complex of Claim 7.</sentence>
+<sentence id="s179">NSI then says that the specification supports the conclusion that the phosphopeptides must act as a distinct species and be present at the time of formation of the complex.</sentence>
+<sentence id="s180">53 According to NSI, the specification does not contain any teaching about complexes with particular structures or the incorporation of alkaline amorphous calcium phosphates in the complex.</sentence>
+<sentence id="s181">The teaching is merely that the amorphous calcium phosphate must be formed by a careful and deliberate process concurrently with the process of formation of the complex itself.</sentence>
+<sentence id="s182">However, there is no teaching that the process is directed to producing a special type of amorphous calcium phosphate.</sentence>
+<sentence id="s183">Therefore, the description of the invention is that the phosphopeptide is deliberately extracted, isolated and purified from the whole protein.</sentence>
+<sentence id="s184">It is not sufficient if the phosphopeptide comes into existence as the consequence of a non-deliberate, ongoing, interactive chemical process.</sentence>
+<sentence id="s185">54 The reason that NSI advances this submission is that, in their products, the stabilization takes place through the breakdown of casein by a chemical process and not by the deliberate introduction of the phosphopeptides which stabilizes the amorphous calcium phosphate in the manner specified in the body of the specification.</sentence>
+<sentence id="s186">They submit that there is no infringement because of the different way in which the stabilisation is effected.</sentence>
+<sentence id="s187">55 The difficulty with this submission is that it requires Claim 7 to be construed as limited by a requirement of deliberate stabilisation where the language does not contain such a requirement.</sentence>
+<sentence id="s188">The expression "including phosphopeptide stabilized amorphous calcium phosphate" is sufficiently wide to include a result or consequence of a particular chemical process.</sentence>
+<sentence id="s189">The words do not require that there must be deliberate stabilisation, but rather that the product, at the time that it is examined, can be correctly described as a stable, soluble, alkaline calcium phosphate complex in which the calcium phosphate is amorphous and has been stabilized by phosphopeptides with the Cluster Sequence.</sentence>
+<sentence id="s190">It does violence to the language chosen to assert a requirement of a deliberate introduction of phosphopeptides.</sentence>
+<sentence id="s191">Such a view necessitates the insertion of a further and unwarranted requirement that the amorphous calcium phosphate must be stabilised by a deliberate act or process.</sentence>
+<sentence id="s192">56 There must be a cogent reason to justify such a substantial variation to the language of what must be regarded as a carefully drafted claim.</sentence>
+<sentence id="s193">In the present case, there is no reason why such a variation should be introduced.</sentence>
+<sentence id="s194">57 Claim 7 is to be contrasted with Claim 21, which outlines a method of producing a stable complex of calcium phosphate and sets out four steps in the process of production.</sentence>
+<sentence id="s195">The method of production is not essential to Claim 7.</sentence>
+<sentence id="s196">58 The body of the specification describes in detail the way in which the phosphopeptides in the Complex Patent can be obtained.</sentence>
+<sentence id="s197">It states that the phosphopeptides "may be from any source" and suggests, as one example, tryptic digestion of casein or other phospho-acid rich proteins or recombinant synthesis as ways of deriving the phosphopeptide, provided that it includes the core sequence.</sentence>
+<sentence id="s198">As the amorphous calcium phosphate is formed, the phosphopeptide binds to the nascent nuclei and stabilises the amorphous calcium phosphate as a phosphopeptide/amorphous calcium phosphate complex.</sentence>
+<sentence id="s199">Without this stability, the amorphous calcium phosphate will precipitate into crystalline form.</sentence>
+<sentence id="s200">59 It is noteworthy that Dr Mackinlay for NSI draws a distinction between the means of obtaining the phosphopeptides set out in the body of the specification and the wording of Claim 7.</sentence>
+<sentence id="s201">Dr Mackinlay identifies the methods of obtaining the phosphopeptide outlined in the specification, namely, tryptic digestion or chemical or recombinant synthesis, as deliberate methods of obtaining the particular phosphopeptide.</sentence>
+<sentence id="s202">However, Dr Mackinlay acknowledged in cross-examination that Claim 7 did not indicate whether the phosphopeptide has been deliberately or accidentally extracted.</sentence>
+<sentence id="s203">60 There is no evidence to support the implication of any reference to the phosphopeptides being deliberately formed or introduced.</sentence>
+<sentence id="s204">There are references to possible alternative methods.</sentence>
+<sentence id="s205">For example, the University refers in its submissions to the reference in the body of the specification to the phosphopeptides being derived from " any source " (emphasis added).</sentence>
+<sentence id="s206">61 On the evidence of Dr Holt, which I accept, the process used for manufacture of the NSI Products is one calculated to produce phosphopeptides.</sentence>
+<sentence id="s207">In the view of Dr Holt, the mode of manufacture and storage of the NSI Products leads to the breakdown of susceptible peptide bonds by enzymes or hydrolysis.</sentence>
+<sentence id="s208">As a consequence of this, peptides containing the Cluster Sequence will form.</sentence>
+<sentence id="s209">This can be described as an intended result of the process.</sentence>
+<sentence id="s210">The references by Dr Holt to the process of hydrolysis and its effect on casein should be accepted, as should his opinion that the formulation of these products leads to the hydrolysis yielding peptides that contain the Cluster Sequence.</sentence>
+<sentence id="s211">Therefore, even if, contrary to my view, Claim 7 contains an integer requiring a deliberate process to be used that leads to the isolation of the Cluster Sequence, which is then used to stabilise amorphous calcium phosphate, the evidence of Dr Holt establishes that this was likely to have been within the contemplation of the NSI Parties as a consequence of the process.</sentence>
+<sentence id="s212">62 The second issue on construction is whether, as NSI contends, it is a requirement that, at the moment the complex is formed, it must have been stabilised by the phosphopeptide.</sentence>
+<sentence id="s213">The importance of this question is that, if NSI's submission is correct, and if the amorphous calcium phosphate cannot be said to have been stabilised by the phosphopeptide at the moment of the formation of the complex, then there cannot be any infringement by the NSI Products.</sentence>
+<sentence id="s214">63 The University refers to the phrase "including phosphopeptide stabilised amorphous calcium phosphate" and submits that this refers to the contents of the complex at the time that infringement is tested.</sentence>
+<sentence id="s215">This testing may be at the time of manufacture, at the time of packaging or at the time of sale.</sentence>
+<sentence id="s216">According to the University, the question is not whether the complex included amorphous calcium phosphate which had been stabilised by the phosphopeptide at the time of formation, but rather whether the complex included this integer at the time when infringement is tested.</sentence>
+<sentence id="s217">Therefore, it is sufficient if the stabilisation takes effect partly before and partly after formation of the complex.</sentence>
+<sentence id="s218">64 On a plain grammatical reading of the wording of Claim 7, there is no basis to justify the insertion of a requirement that, at the moment of formation, the amorphous calcium phosphate must have been stabilised by the phosphopeptide.</sentence>
+<sentence id="s219">This is a contrived construction of the claim.</sentence>
+<sentence id="s220">65 During the making of the NSI Products, cluster peptides are formed and bind calcium phosphate.</sentence>
+<sentence id="s221">Dr Holt said in evidence that the creation of cluster peptides is caused by the breakdown of casein during the manufacture of Phoscal Powder and the manufacture and storage of Topacal C-5 and Dentacal.</sentence>
+<sentence id="s222">The phosphopeptides containing the Cluster Sequence affect the stabilisation of the amorphous calcium phosphates.</sentence>
+<sentence id="s223">66 In the case of the NSI Products, it is the whole casein protein which includes the Cluster Sequence that operates to bind the amorphous calcium phosphate so as to produce phosphopeptide stabilised amorphous calcium phosphate.</sentence>
+<sentence id="s224">67 NSI contends that where the breakdown occurs in the process or where the stabilisation occurs after formation, it has not then been formed by the phosphopeptide doing the stabilising, but rather by the stabilising effect of the relevant part of the protein.</sentence>
+<sentence id="s225">68 In my view, where the infringement is, for example, the sale of an infringing product, one looks at the product as at the date of sale and asks whether it contains all the integers of the claim.</sentence>
+<sentence id="s226">In relation to the NSI Products, the evidence demonstrates that there is a stable soluble alkaline calcium phosphate complex formed at a pH greater than 7 which includes phosphopeptide stabilised amorphous calcium phosphate.</sentence>
+<sentence id="s227">This is because complexes exist in which the phosphopeptide, derived from what was originally protein after hydrolysis, has effected the stabilisation.</sentence>
+<sentence id="s228">69 The question is whether there is a complex wherein the phosphopeptide includes the relevant Cluster Sequence.</sentence>
+<sentence id="s229">The requirements characterise the complex and not the formation of the complex.</sentence>
+<sentence id="s230">Accordingly, the phrase "including phosphopeptide stabilised amorphous calcium phosphate" does not qualify the formation method or process.</sentence>
+<sentence id="s231">During the process that results in the product, crystals form if the amorphous calcium phosphate grows to a sufficient size and it nucleates to produces a precipitate.</sentence>
+<sentence id="s232">However, when peptides form during the making of the clusters, they prevent this nucleation and consequent precipitation.</sentence>
+<sentence id="s233">The same process occurs if the whole protein is used.</sentence>
+<sentence id="s234">At the moment of formation, it is the whole protein, as distinct from phosphopeptide, that holds or stabilises the amorphous calcium phosphate and prevents the growth of crystals.</sentence>
+<sentence id="s235">This results from the breakdown of the protein into phosphopeptide.</sentence>
+<sentence id="s236">70 I find that the claim does not focus on the moment of formation but on the finished complex which possesses the integers.</sentence>
+<sentence id="s237">I also accept the University's submission that the claim does not depend solely on the peptides formed by being precisely digested with trypsin but that they can rely on the presence of peptides which form as a result of the processes used to create the NSI Products.</sentence>
+<sentence id="s238">INFRINGEMENT 
+ 
+71 The next issue is whether, on the above construction of Claim 7, the products of NSI Dental infringe the patent.</sentence>
+<sentence id="s239">72 The University's case on infringement does not depend on any principles of purposive construction.</sentence>
+<sentence id="s240">Instead, the University claims that each of the integers of Claim 7 are literally present, in combination, in each of the NSI Products.</sentence>
+<sentence id="s241">The question of infringement is largely determined by reference to the proper construction of the claim: see Olin Corporation v Super Cartridge Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 246 per Gibbs J.</sentence>
+<sentence id="s242">73 NSI says that, if the University's construction of Claim 7 is correct, the NSI Products do not infringe the claim because there is no evidence that they include the relevant form of amorphous calcium phosphate, namely, stable, soluble and alkaline calcium phosphate.</sentence>
+<sentence id="s243">On the other hand, NSI says that, if its construction of Claim 7 is correct, the NSI Products do not infringe the claim because the complexes are not formed by using phosphopeptides deliberately extracted, isolated and purified.</sentence>
+<sentence id="s244">Further, to the extent that the phosphopeptides are created after formation of a complex of casein, calcium and phosphate, they are not formed by the phosphopeptide stabilising amorphous calcium phosphate as required by Claim 7.</sentence>
+<sentence id="s245">74 It is therefore necessary to consider the evidence.</sentence>
+<sentence id="s246">75 According to NSI, the process of making the NSI Products is one of haphazard creation of phosphopeptides as opposed to deliberate introduction of phosphopeptides.</sentence>
+<sentence id="s247">Furthermore, whilst, at the time of formation of the complex, some of the phosphopeptides may be present, in other cases, they may form subsequently.</sentence>
+<sentence id="s248">Accordingly, because of the random form and indeterminate nature of the way in which the phosphopeptides are created in the NSI Products, NSI submits that there is no infringement of Claim 7.</sentence>
+<sentence id="s249">76 It is common ground that the NSI Parties began to develop the NSI Products whilst in a commercial relationship with the University.</sentence>
+<sentence id="s250">The NSI Parties were clearly conscious of the possibility of infringement of the patents owned by the University and were endeavouring to work around them.</sentence>
+<sentence id="s251">This is evidenced by an email sent on behalf of Mr Garland of NZP to Dr McIntosh of Phoscal Holdings on 1 May 2001.</sentence>
+<sentence id="s252">This email outlines the various casein-related patents owned by the University and then states:
+ 
+ 
+ "The main issue to me is still whether the Phoscal patent covers casein phosphopeptides as a dispersing agent.</sentence>
+<sentence id="s253">
+ 
+ I agree with Jim that using casein phosphoprotein only, would remove any doubt but provided we check the amino acid profile of the peptides we are using, I am sure that we are OK." 
+ 
+
+77 NSI did not call expert evidence to explain the development process of the NSI Products and did not provide any satisfactory evidence as to the research carried out in the course of such development.</sentence>
+<sentence id="s254">I note that, when Nulite was evaluating Calpep between 1994 and 1998, Dr Bannister led the technical team working towards the creation of Topacal.</sentence>
+<sentence id="s255">Dr Bannister was the person available to NSI who was in the best position to provide evidence to support a submission that no deliberate steps were taken to isolate the phosphopeptides in Claim 7.</sentence>
+<sentence id="s256">The failure to adduce evidence from him was not explained by NSI.</sentence>
+<sentence id="s257">In relation to Phoscal Powder, Mr Buchanon was the scientist at NZP responsible for the formulation of Phoscal Powder, however, he was not called to give any details regarding the development of this product.</sentence>
+<sentence id="s258">78 Experiments were conducted by Mr McInerney on behalf of the University in December 2004 and August 2005.</sentence>
+<sentence id="s259">These experiments establish the inclusion of phosphopeptides containing the Cluster Sequence in each of the NSI Products.</sentence>
+<sentence id="s260">The results of these experiments are set out in the evidence of Mr McInerney.</sentence>
+<sentence id="s261">The December 2004 experiments demonstrated that cluster peptides were present in Phoscal Powder and Dentacal.</sentence>
+<sentence id="s262">In relation to Topacal, the experiments demonstrated that there were casein phosphopeptides but did not establish the presence of cluster peptides.</sentence>
+<sentence id="s263">As Mr McInerney explained in his affidavit of 23 December 2004 at [99], this does not mean that there were no cluster peptides in Topacal.</sentence>
+<sentence id="s264">Professor Dawes and Dr Holt, called on behalf of the University, also explain why cluster peptides may not have been detected in Topacal.</sentence>
+<sentence id="s265">In any event, the August 2005 experiments disclosed the presence of cluster peptides in Phoscal Powder, Dentacal and Topacal.</sentence>
+<sentence id="s266">These experiments also established that the cluster peptides were created during the manufacturing process.</sentence>
+<sentence id="s267">79 The evidence of Dr Holt is directed to the way in which phosphopeptides are formed and act to bind calcium phosphate.</sentence>
+<sentence id="s268">He explains why and how the peptides can be found in the NSI Products and act on the casein.</sentence>
+<sentence id="s269">Dr Holt explains in his October 2005 affidavit that the presence of a small weight percentage of cluster peptides is significant in terms of binding calcium phosphate and that, on a weight for weight basis, cluster peptides will bind more calcium phosphate than full length caseins.</sentence>
+<sentence id="s270">He states that cluster peptides will be found in Phoscal Powder, Dentacal and Topacal because the conditions under which Phoscal Powder is manufactured, and the conditions under which Topacal and Dentacal are manufactured and stored, leads to the breakdown of casein in these products.</sentence>
+<sentence id="s271">A secondary source of cluster peptides in the NSI Products is the likely presence of trace amounts of cluster peptides in the sodium caseinate starting material due to the breakdown of casein by milk enzymes.</sentence>
+<sentence id="s272">As a consequence of the breakdown, the cluster peptides bind to the calcium phosphate.</sentence>
+<sentence id="s273">80 The evidence of Dr Holt is that phosphopeptides continue to be formed in milk after secretion from the animal due to the effect of an enzyme called plasmin, which has the effect of cutting up the caseins in the milk so that, at the time of secretion, there are trace levels of phosphopeptides in the milk.</sentence>
+<sentence id="s274">After secretion, the plasmin will continue to create phosphopeptides to an extent that depends on the conditions.</sentence>
+<sentence id="s275">When milk reacts with sodium caseinate produced from raw casein, the conditions encourage the enzyme activity of the plasmin and can create phosphopeptides from the caseins through the process of hydrolysis.</sentence>
+<sentence id="s276">In the NSI Products, the process of manufacture can operate to make further phosphopeptides, as will any remaining plasmin.</sentence>
+<sentence id="s277">Therefore, at the time of formation of the NSI Products, any phosphopeptides present among the caseins will react with the calcium phosphate and complex with them, so that there may be some complexes formed from or including phosphopeptides.</sentence>
+<sentence id="s278">After the making of the NSI Products, the conditions of storage, handling and the passage of time can precipitate the creation of further phosphopeptides through the enzymic activity of plasmin or by hydrolysis.</sentence>
+<sentence id="s279">The plasmin acts in a way which leaves cluster phosphopeptides intact.</sentence>
+<sentence id="s280">According to Dr Holt, hydrolysis acts randomly on casein.</sentence>
+<sentence id="s281">He considers that, in the case of phosphopeptides which are the result of hydrolysis, the Cluster Sequence will be preserved because the casein prevents precipitation.</sentence>
+<sentence id="s282">81 In the opinion of Dr Holt, the two experiments conducted by Mr McInerney confirm his view that the manufacturing and storage conditions result in the breakdown of caseins.</sentence>
+<sentence id="s283">He also says that the hydrolytic effect will continue when Phoscal is re-hydrated.</sentence>
+<sentence id="s284">82 The December 2004 and August 2005 experiments establish to my satisfaction that each of the NSI Products contains significant amounts of phosphopeptides containing the Cluster Sequence.</sentence>
+<sentence id="s285">83 The evidence indicates that the active ingredient in Topacal is a stable soluble alkaline calcium phosphate complex.</sentence>
+<sentence id="s286">It is admitted by the NSI Parties that Phoscal Powder and the active ingredient in Topacal and Dentacal includes a stable water-dispersible alkaline calcium phosphate complex.</sentence>
+<sentence id="s287">The reference to "water dispersible" is a reference to solubility.</sentence>
+<sentence id="s288">Claim 7 refers to a complex which is stable, that is, the calcium phosphate remains in an amorphous form until it arrives at the point of use so that it does not dissolve or crystallise until it reaches the tooth.</sentence>
+<sentence id="s289">This stability is obtained by the phosphopeptide binding the calcium phosphate.</sentence>
+<sentence id="s290">It is also admitted by the NSI Parties that Phoscal Powder, and the active ingredient in Topacal and Dentacal, is formed at a pH greater than 7.</sentence>
+<sentence id="s291">84 The evidence satisfies me that the NSI Products include phosphopeptide stabilised amorphous calcium phosphate.</sentence>
+<sentence id="s292">As discussed above, the evidence indicates the presence of phosphopeptides in the NSI Products.</sentence>
+<sentence id="s293">Dr Holt's evidence was that the phosphopeptides would stabilise the amorphous calcium phosphate in a soluble alkaline form.</sentence>
+<sentence id="s294">85 Professor Dawes, called for the University, concluded that Topacal C-5 and Dentacal are pharmaceutical compositions including a complex within Claim 7 in combination with a pharmaceutical carrier.</sentence>
+<sentence id="s295">He considered that Phoscal Powder, being a pharmaceutical composition including a complex, can be placed with a pharmaceutical carrier.</sentence>
+<sentence id="s296">86 It is common ground that if Claim 7 is found to have been infringed, Claims 10, 11, 13 and 18 are also infringed.</sentence>
+<sentence id="s297">In respect of Claim 21, which is a method claim, the NSI parties rely on their reasoning in relation to Claim 7, which I have already rejected for reasons given above.</sentence>
+<sentence id="s298">Accordingly, I find that Claims 7, 10, 11, 13, 18 and 21 of the Complex Patent have been infringed by the NSI Products.</sentence>
+<sentence id="s299">PARTIES 
+ 
+87 If Claim 7 is valid, NSI agrees that the parties who have infringed are those who have exploited the three products within the jurisdiction.</sentence>
+<sentence id="s300">In relation to Topocal C-5, this includes NSI and the second and third cross-respondents.</sentence>
+<sentence id="s301">In relation to Dentacal, if infringement is found and the patent is valid, then NSI and Recaldent are the infringing parties.</sentence>
+<sentence id="s302">In relation to Phoscal, the relevant parties are NSI, Recaldent and the third-cross respondent.</sentence>
+<sentence id="s303">At this point, I do not propose to find and determine who are the relevant parties for the grant of relief, and I will reserve my determination of this question until the parties have an opportunity to consider my reasons and make any further submissions on this question.</sentence>
+<sentence id="s304">88 I now turn to the question of novelty.</sentence>
+<sentence id="s305">NOVELTY --- LEGAL PRINCIPLES 
+ 
+89 For a patent to be valid, pursuant to s 18(1)(b)(i) of the Act , the invention must be novel when compared to the prior art base as it existed before the priority date of the relevant claim.</sentence>
+<sentence id="s306">Section 7(1) of the Act provides that a patentable invention is taken to be novel unless it is not novel in the light of specified types of information, each of which must be considered separately.</sentence>
+<sentence id="s307">The relevant types of information for the purposes of this matter are:
+ 
+ 
+ (a) Prior art information made publicly available in a single document or through doing a single act.</sentence>
+<sentence id="s308">(b) Information made publicly available in two or more related documents, or though doing 2 or more related acts, if the relationship between the documents is such that a person skilled in the relevant art in the patent area would treat them as a single source of that information.</sentence>
+<sentence id="s309">
+ 
+
+90 The test for anticipation is whether use of a product or process in accordance with the prior disclosure would constitute an infringement of the claim.</sentence>
+<sentence id="s310">If the answer is in the affirmative, then the claim has been anticipated and is invalid for lack of novelty: see Meyers Taylor Pty Ltd v Vicarr Industries Ltd [1977] HCA 19 ; (1977) 137 CLR 228 at 235 per Aickin J; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd [2005] FCAFC 220 at [125] .</sentence>
+<sentence id="s311">91 This test calls for consideration of whether the prior disclosure incorporates all of the integers of any of the claims: see Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd [2005] FCAFC 220 at [128] - [152] .</sentence>
+<sentence id="s312">That is, the prior disclosure must reveal the totality of the invention and the antecedent information and must be such that a person of ordinary knowledge of the subject would perceive, understand and be able to practically apply the invention without needing to do experiments or obtain further information before the invention can be made useful: see Hill v Evans (1862) 4 De GF &amp; J 288 per Lord Westbury LC; Olin Corporation v Super Cartridge &amp; Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 261 per Stephen and Mason JJ.</sentence>
+<sentence id="s313">In other words, the principal issue is whether the content and effect of the claimed anticipation is sufficient to destroy the element of novelty in the invention: see Pfizer-Overseas Pharmaceuticals v Eli Lilly &amp; Co [2005] FCAFC 224 at [311] - [324] .</sentence>
+<sentence id="s314">92 Of particular importance is whether the disclosure has been sufficiently clear.</sentence>
+<sentence id="s315">That is, the disclosure must contain clear and unmistakable instructions as to how to use the claimed invention: see Pfizer Overseas Pharmaceuticals v Eli Lilly &amp; Co [2005] FCAFC 224 at [314] ; Fresenius Medical Care Australia Pty Ltd v Gambro Pty Ltd [2005] FCAFC 220 at [140] and [153].</sentence>
+<sentence id="s316">In documentary anticipations, the insistence upon clear and unmistakable instructions does not require the equivalence of language between the claimed invention and the disclosure.</sentence>
+<sentence id="s317">What matters is what is taught by the material: Evans Medical Ltd's Patent [1998] RPC 517 at 576 per Laddie J.</sentence>
+<sentence id="s318">93 The acts or prior publication said to anticipate the invention must be publicly available, that is, they must be communicated to a member of the public without any restraint as to the use of the information by the recipient: see Arrow Pharmaceuticals Ltd v Merck &amp; Co Inc (2004) 213 ALR 182 at [99].</sentence>
+<sentence id="s319">A similar test was outlined by Drummond J in Stanway Oyster Cylinders Pty Ltd v Marks (1996) 35 IPR 71.</sentence>
+<sentence id="s320">NOVELTY - THE CLAIMS 
+ 
+94 NSI submits that Claims 7, 10, 11, 13, 18 and 21 are not novel and are therefore invalid.</sentence>
+<sentence id="s321">The University accepts that the validity of Claims 10, 11 and 13 turns on the same questions as Claim 7.</sentence>
+<sentence id="s322">The University submits, however, that Claim 18 stands independently.</sentence>
+<sentence id="s323">95 There are three documents on which the anticipation is based.</sentence>
+<sentence id="s324">These are:
+ 
+ (a) An article by Sato and others published in 1991 entitled "Characterisation of Phosphopeptide derived from Bovine [beta]-casein: an Inhibitor to Intra-intestinal Precipitation of Calcium Phosphate" ("the Sato Article").</sentence>
+<sentence id="s325">It is asserted by NSI that this article discloses the invention of Claim 7.</sentence>
+<sentence id="s326">
+
+
+ 
+ (b) A review article by Reynolds published in 1995 entitled "Dairy Products and Dental Health" ("the Reynolds Article").</sentence>
+<sentence id="s327">It is asserted by NSI that this article discloses the inventions of Claims 7 and 18.</sentence>
+<sentence id="s328">
+
+
+ 
+ (c) Publication in 1995 and 1996 of information included in: 
+
+
+ 
+ 
+ (i) An application in June 1995 by ICI to the National Food Authority of Australia and again in September 1995 ("the NFA Application").</sentence>
+<sentence id="s329">It is asserted by NSI that this document discloses the inventions of Claims 7 and 18.</sentence>
+<sentence id="s330">
+ 
+
+
+ 
+ 
+ (ii) A document entitled "Calpep Booklet" distributed by the University in May 1996 to potential users of the product to be manufactured by Bonlac Limited ("the Information Package").</sentence>
+<sentence id="s331">It is asserted by NSI that this document discloses the inventions of Claims 7 and 18.</sentence>
+<sentence id="s332">The University maintains that no disclosure of the inventions has been made and also that the document was not made "publicly available" as it was provided confidentially to the recipients.</sentence>
+<sentence id="s333">
+ 
+
+96 NSI does not press its claim that the provision by Professor Reynolds of samples of Topacal C-5 with Calpep to dentists in Australia in about September 1996 constitutes a prior disclosure of the invention.</sentence>
+<sentence id="s334">NOVELTY --- THE SATO ARTICLE 
+ 
+97 The Sato Article is based on experimental work in preparing a casein phosphopeptide from beta casein.</sentence>
+<sentence id="s335">The phosphopeptide contains the Cluster Sequence.</sentence>
+<sentence id="s336">The phosphopeptide was mixed with calcium chloride and sodium phosphate buffer at pH 8 and left to stand for 60 minutes.</sentence>
+<sentence id="s337">Dr Mackinlay, called for NSI, gave evidence that the Sato Article reported that the procedure involved the formation of a complex of the phosphopeptide and calcium phosphate at the nominated alkalinity of pH 8.</sentence>
+<sentence id="s338">He said that the data triggered a calculation that inevitably led to the conclusion that the experiment was not merely reporting calcium alone binding to the phosphopeptide but the creation of a complex between the phosphopeptide and calcium phosphate, and therefore it was an anticipation of Claim 7.</sentence>
+<sentence id="s339">98 NSI submits that the procedure in the Sato Article involved the formation of a complex because the phosphopeptide prevented the precipitation of calcium phosphate.</sentence>
+<sentence id="s340">NSI says that the complex formed by the procedure in the Sato Article is stable because it prevents precipitation.</sentence>
+<sentence id="s341">It is soluble because the complex is made, and remains, in solution, and it is alkaline because it is formed at a pH greater than 7.</sentence>
+<sentence id="s342">NSI says that the Sato Article therefore incorporates all of the integers of Claim 7 and, if the directions in the Sato Article were followed, it would inevitably result in a product which, if the Complex Patent was valid, would constitute an infringement of that patent.</sentence>
+<sentence id="s343">99 The University points out that NSI has led very little evidence concerning the extent of publication of the Sato Article.</sentence>
+<sentence id="s344">NSI only led formal evidence of the fact of publication.</sentence>
+<sentence id="s345">100 The University says that the Sato Article did not disclose the invention of Claim 7 and that the evidence of Dr Mackinlay does not justify a conclusion that the Sato Article anticipated the invention.</sentence>
+<sentence id="s346">101 The University points out that Dr McKinnon gave evidence that the Sato Article does not report any measurement of the final phosphate concentrations and leaves the role of the phosphate unclear.</sentence>
+<sentence id="s347">As admitted by Dr Mackinlay in cross-examination, further and final calculations would be necessary in order to determine whether the casein phosphopeptide was binding with the calcium phosphate.</sentence>
+<sentence id="s348">The Sato Article also makes no mention of "complexes" and there is no disclosure that a "complex" was formed.</sentence>
+<sentence id="s349">The Sato Article does not give any information about the nature, composition and structure of any entity formed between the casein and calcium and phosphate.</sentence>
+<sentence id="s350">The only relevant information that is provided in the Sato Article is, according to Dr McKinnon, that the amount of calcium is higher than if there were simply calcium and phosphate and no phosphopeptide.</sentence>
+<sentence id="s351">Although the Sato Article indicates that clusters are present and suggests that these may be important, Dr McKinnon says that the Sato Article does not specify that clusters are a requirement and does not provide any evidence to support the importance of the clustering.</sentence>
+<sentence id="s352">I accept the evidence of Dr McKinnon on this point.</sentence>
+<sentence id="s353">102 There is no mention of a stable alkaline complex formed at a pH greater than 7 and, since this integer is missing, it cannot be supplied by a skilled addressee.</sentence>
+<sentence id="s354">This is because there is no integer to consider.</sentence>
+<sentence id="s355">Further, there is no specific reference in the Sato Article to amorphous calcium phosphate.</sentence>
+<sentence id="s356">Dr Mackinlay admitted in cross-examination that he had simply assumed that the calcium phosphate would take this form.</sentence>
+<sentence id="s357">103 Although Dr Mackinlay said that further calculations were necessary, he agreed that he did not really understand the Scatchard plots in Figure 2 of the Sato Article.</sentence>
+<sentence id="s358">He conceded that he was not sufficiently familiar with Scatchard plots to make the necessary calculations.</sentence>
+<sentence id="s359">A comparison of these plots is important to a proper understanding of the Sato Article and is lacking.</sentence>
+<sentence id="s360">104 I do not consider that the Sato Article is an anticipation which invalidates the patent for lack of novelty.</sentence>
+<sentence id="s361">NOVELTY --- THE REYNOLDS ARTICLE 
+ 
+105 NSI submits that the complex of the claims is disclosed in the section of the Reynolds Article entitled "Interaction of CPP with Calcium Phosphate", which refers to calcium phosphopeptide having a marked ability to stabilise calcium phosphate in solution.</sentence>
+<sentence id="s362">NSI says that the Reynolds Article expressly discloses the formation of the complex.</sentence>
+<sentence id="s363">It was accepted by Dr Holt, who was called for the University, that the complex disclosed in the Reynolds Article was stable and soluble.</sentence>
+<sentence id="s364">106 The remaining issue then is whether the Reynolds Article discloses that the complex should be "formed at a pH greater than 7".</sentence>
+<sentence id="s365">107 In submitting that the Reynolds Article does disclose this integer of Claim 7, NSI relies on evidence from Dr Holt in cross-examination.</sentence>
+<sentence id="s366">NSI says that Dr Holt ultimately accepted that, as a ready inference, the Reynolds Article teaches the formation of the complex at an alkaline pH. NSI contends that, in referring to alkalinity, Dr Holt must have been referring to a pH greater than 7.</sentence>
+<sentence id="s367">NSI submits that there is no relevant distinction to be made between the complexes of Claim 7 formed at a pH greater than 7 and complexes formed at pH 7.</sentence>
+<sentence id="s368">It therefore follows that the pH was not an essential integer of the claim.</sentence>
+<sentence id="s369">108 The University contends that there is no disclosure of the formation of the complex at a pH greater than 7.</sentence>
+<sentence id="s370">Dr Holt was of the opinion that the relevant section of the Reynolds Article did not teach the pH at which various solutions were made.</sentence>
+<sentence id="s371">He said that the Reynolds Article was not so much a description of how the experiments might be carried out but rather a statement that the experiments had been carried out.</sentence>
+<sentence id="s372">The Reynolds Article did not make it clear what pH ranges and concentrations should be used to form the complex.</sentence>
+<sentence id="s373">Furthermore, the University says that the Reynolds Article refers to the pH range in the context of experiments conducted in the absence of a phosphopeptide and does not indicate what would happen in the presence of a phosphopeptide.</sentence>
+<sentence id="s374">In cross-examination, Dr Mackinlay gave evidence that several of the solutions described in this section of the Reynolds Article are formed at a pH of 7 and not a pH greater than 7.</sentence>
+<sentence id="s375">109 The University also refers to the section of the Reynolds Article entitled "Mineralisation of Enamel Lesions by CPP-ACP".</sentence>
+<sentence id="s376">The University says that the evidence given by Dr Mackinlay establishes that the solutions referred to in the second paragraph of this section bear no relationship to the experiments.</sentence>
+<sentence id="s377">This section merely contains a statement that a number of solutions containing various amounts of calcium phosphopeptide, calcium and phosphate were created with a range of finally adjusted pH values of 7 to 9.</sentence>
+<sentence id="s378">The pH values do not refer to the pH at any intermediate stage.</sentence>
+<sentence id="s379">Nowhere is there a specification of the formation at a pH greater than 7.</sentence>
+<sentence id="s380">110 The absence of this precise pH integer defeats the anticipation claim by NSI based on the Reynolds Article.</sentence>
+<sentence id="s381">The Reynolds Article does not teach the pH at which the solutions were made.</sentence>
+<sentence id="s382">This is in accordance with Dr Holt's evidence that the Reynolds Article does not contain a description of how to do the experiments but rather a statement of what experiments were done, with the consequence that, if one sought to reproduce the experiments, there would be considerable difficulties in determining the appropriate ranges of pH and concentrations.</sentence>
+<sentence id="s383">On the evidence, the Reynolds Article does not teach the formation of a stable soluble alkaline amorphous calcium phosphate complex at a pH greater than 7.</sentence>
+<sentence id="s384">111 I do not consider that the Reynolds Article is an anticipation which invalidates the patent for lack of novelty.</sentence>
+<sentence id="s385">NOVELTY - INFORMATION PACKAGE 
+ DISCLOSURE 
+ 
+112 A document entitled "Introducing Calpep" ("the document") is part of an Information Package prepared for marketing purposes.</sentence>
+<sentence id="s386">A copy of the Information Package was produced to the Court by the Australia New Zealand Food Authority ("ANZFA") in response to a subpoena.</sentence>
+<sentence id="s387">Information of a similar type was sent out in applications to the National Food Authority in about mid-1995 and to its successor, ANZFA, in about mid-1996.</sentence>
+<sentence id="s388">113 The document is relied on by NSI as amounting to an anticipation of the Complex Patent.</sentence>
+<sentence id="s389">NSI says that there is a complete disclosure of the complex the subject of Claim 7 at pages eight to ten of the Information Package.</sentence>
+<sentence id="s390">NSI did not lead any evidence from a skilled addressee as to the way in which the document should be read, although there was some cross-examination of Professor Reynolds by NSI.</sentence>
+<sentence id="s391">114 The document refers to a calcium phosphopeptide complex with anticariogenic properties and a complex of amorphous calcium phosphate stabilised by casein phosphopeptides that lower the risk of tooth decay.</sentence>
+<sentence id="s392">It also refers to "pH 7 and above" and to "various pH (7-9)".</sentence>
+<sentence id="s393">The University acknowledges that there is a reference on that same page of the document to "neutral and alkaline ... solutions", however, it says that this is a reference to the property of the solution and is not a method of manufacture.</sentence>
+<sentence id="s394">The University says that the document goes on to teach a method of manufacture of complexes at a pH of 7, assessing the efficacy of complexes made at that pH.</sentence>
+<sentence id="s395">This is clearly outside Claim 7 of the Complex Patent, which requires the formation of complexes at a pH greater than 7.</sentence>
+<sentence id="s396">115 The document goes on to discuss a rat study and a human in situ study.</sentence>
+<sentence id="s397">The rat study does not expressly refer to the pH of the manufacture.</sentence>
+<sentence id="s398">However, the rat study appears to refer to the same solution that is used in the human study.</sentence>
+<sentence id="s399">This solution is a sodium phosphate solution formed at pH 7.</sentence>
+<sentence id="s400">There are numerous other references in the document to solutions formed at pH 7.</sentence>
+<sentence id="s401">There is a single reference to a solution formed at pH 9 on page 17 of the document, however, the conclusion on that page refers to the method of manufacture in the rat study and the human in situ study, namely, a method that requires a sodium phosphate pH 7 solution.</sentence>
+<sentence id="s402">Evidence was given by Professor Reynolds that the reference to pH 9 was a typographical error.</sentence>
+<sentence id="s403">116 The relevant parts of the document are, to some extent, contradictory.</sentence>
+<sentence id="s404">However, the emphasis in the document is on the efficacy of a solution made at pH 7.</sentence>
+<sentence id="s405">In my view, having regard to the above, a skilled reader would be left confused by the document as to the pH at which the complex is manufactured.</sentence>
+<sentence id="s406">As stated in General Tyre &amp; Rubber Co v Firestone Tyre and Rubber Co Ltd [1972] RPC 457 at 485-486, it is not sufficient that the prior disclosure contains a direction which is capable of being carried out in a manner that would infringe the patentee's claim, but is at least as likely to be carried out in a way which would not infringe the claim.</sentence>
+<sentence id="s407">The references to pH in the document cannot be described as "clear and unmistakable directions" as to how to produce the complex.</sentence>
+<sentence id="s408">Professor Reynolds gave evidence that the type of information in the document is not sufficient to enable the manufacture of the product.</sentence>
+<sentence id="s409">Mr Quigley, in cross-examination, referred to discrepancies between the information in the Information Package and the process actually employed during the production trials by the CSIRO.</sentence>
+<sentence id="s410">The evidence of Mr Nunn was that the information in the document would not enable the manufacture of the Calpep product without more information.</sentence>
+<sentence id="s411">117 Accordingly, it cannot be said that the document anticipates the integers of Claims 7 and 18.</sentence>
+<sentence id="s412">PUBLIC AVAILABILITY AND CONSENT 
+ 
+118 In the event that I am incorrect and the document does anticipate all the integers of Claims 7 and 18, the issue is whether the novelty destroying disclosure was made "publicly available" before the priority date: s 7(1) of the Act .</sentence>
+<sentence id="s413">NSI bears the onus of establishing that the document was made publicly available: see Jupiters Ltd v Neurizon Pty Ltd (2005) 65 IPR 86 at 118.</sentence>
+<sentence id="s414">If this is established, then, in order to uphold the validity of the patent, the University must establish that it did not consent to the disclosure of the document: s 24(1)(b) of the Act .</sentence>
+<sentence id="s415">In this case, I am satisfied that the document was not made publicly available and also that the University did not consent to it being publicly disclosed.</sentence>
+<sentence id="s416">119 I am satisfied that the document was made available to a limited body of persons in circumstances where it appeared, on the face of the document, that it had the quality of confidence about it.</sentence>
+<sentence id="s417">It appeared that the document was communicated for limited purposes and imported an obligation not to disclose it and suggested to the reader that its disclosure would amount to a breach of confidence: see Moorgate Tobacco Co Ltd v Philip Morris Ltd (No 2) [1984] HCA 73 ; (1984) 156 CLR 414 at 437-438.</sentence>
+<sentence id="s418">120 Section 24 of the Act provides that for the purpose of deciding whether an invention is novel, the Court must disregard information made publicly available without the consent of the patentee through any publication by another person who derived the information from the patentee.</sentence>
+<sentence id="s419">121 NSI contends that the Information Package was made publicly available and that the evidence demonstrates that the Information Package was sent from Professor Reynolds' office to a number of prospective third party licensees in about May 1996, including Dr Barnett of SmithKline Beecham, Ms Finidori of Synthelabo in France, Dr Nelson of Consumer Health Care in the United States, Mr Markowitz of the Block Drug Company in the United States, Mr Faller of Procter &amp; Gamble in the United States, Mr Ziemkiewicz of Chesebrough Ponds in the United States and Mr Garland of NZP in New Zealand.</sentence>
+<sentence id="s420">122 The questions as to disclosure in this case are twofold.</sentence>
+<sentence id="s421">The first question is whether the Information Package was made publicly available.</sentence>
+<sentence id="s422">The University claims that the Information Package was received in circumstances where an obligation of confidence was imposed on the recipients in respect of its contents, and therefore the disclosure of the Information Package was not a disclosure to people "free in law and equity to use it".</sentence>
+<sentence id="s423">The second question is whether the University consented to the Information Package being made publicly available.</sentence>
+<sentence id="s424">123 In relation to the first question, NSI submits that there was no obligation of confidence owed by the recipients.</sentence>
+<sentence id="s425">NSI says that Professor Reynolds had been making complexes since at least mid-1994 and that, since this time, he regarded the details disclosed in the Information Package as protected by the existing patents.</sentence>
+<sentence id="s426">NSI also says that Professor Reynolds had known, as at May 1996, that the information was insufficient to enable commercial manufacture of the complex.</sentence>
+<sentence id="s427">Reliance is placed on what is said to be Professor Reynolds' evidence that he did not recognise the special closed structure that is said to have prompted the application for the Complex Patent until the end of 1996.</sentence>
+<sentence id="s428">124 The onus to show that the information was made publicly available is on the person seeking to revoke a patent.</sentence>
+<sentence id="s429">To amount to a "public disclosure", the information must have been made available to persons who are free in law and equity to use that information.</sentence>
+<sentence id="s430">Therefore, a disclosure to a specified number of persons does not automatically constitute a "public disclosure".</sentence>
+<sentence id="s431">125 If the disclosure in the Information Package is sufficient to constitute anticipation and NSI proves that the information was made publicly available, the University must then show that this disclosure was made without its consent and that a patent application for the invention was made within the prescribed period of one year.</sentence>
+<sentence id="s432">The University contends that the reference to a "patent application" in s 24(1) of the Act includes a "provisional application".</sentence>
+<sentence id="s433">I agree that s 24 should be so construed.</sentence>
+<sentence id="s434">The language of that section makes no distinction between provisional and complete applications.</sentence>
+<sentence id="s435">Section 29(2) makes it clear that a "patent application" may be a provisional application.</sentence>
+<sentence id="s436">126 Mr Nunn was called for NSI.</sentence>
+<sentence id="s437">Mr Nunn is qualified and experienced in food science and technology, as set out at [16]-[18] above.</sentence>
+<sentence id="s438">127 Between mid-1994 and September 1997, Mr Nunn's firm was retained by NZP, a wholly owned subsidiary of ICI, to assist with sales and marketing of the Calpep products.</sentence>
+<sentence id="s439">At this time, Calpep was being manufactured on behalf of Bonlac Bio Science International Pty Ltd, a subsidiary of Bonlac.</sentence>
+<sentence id="s440">Bonlac appointed ICI and NZP to market the complex.</sentence>
+<sentence id="s441">Mr Nunn's responsibility was to assist in marketing Calpep to companies in the food and dental industry.</sentence>
+<sentence id="s442">It was to be marketed specifically for inclusion in dental products and food products.</sentence>
+<sentence id="s443">In the course of this work, Mr Nunn liaised with Professor Reynolds and Bonlac.</sentence>
+<sentence id="s444">He also reported to Dr Garland, who was then the Managing Director of NZP.</sentence>
+<sentence id="s445">128 In 1995, Mr Nunn prepared a petition for the affirmation of Calpep as a safe product.</sentence>
+<sentence id="s446">This is known as the "GRAS document".</sentence>
+<sentence id="s447">It was contemplated that this document might be filed with the United States Food and Drug Administration (FDA).</sentence>
+<sentence id="s448">Mr Nunn was responsible for those parts of the GRAS document directed to complying with the FDA Regulations.</sentence>
+<sentence id="s449">Professor Reynolds was involved in drafting some technical aspects of the GRAS document, such as the inclusion of the required manufacturing information.</sentence>
+<sentence id="s450">129 Mr Nunn used the document in presentations from mid to late 1995 to a number of potential customers interested in using Calpep in their products, such as Uncle Toby's, Heinz and Johnson &amp; Johnson.</sentence>
+<sentence id="s451">Copies of the GRAS document were left with prospective customers.</sentence>
+<sentence id="s452">He thought it was a useful marketing tool for prospective customers interested in using the complex in dental products and foodstuffs, because it set out some of the information necessary if one of the customers wished to subsequently seek approval from the FDA, the National Food Authority in Australia or other regulatory bodies for a product including the complex.</sentence>
+<sentence id="s453">Between late February 1996 and mid-March 1996, he visited a number of large oral care and confectionary companies in the United States and Europe.</sentence>
+<sentence id="s454">These included SmithKline Beechem (the manufacturer of "Macleans" Toothpaste) and Cadbury Confectionary (a leading confectionary manufacturer).</sentence>
+<sentence id="s455">He provided the companies with a sample of Calpep provided by Professor Reynolds and, on 8 May 1996, he asked Professor Reynolds' secretary to send the Information Package to the individuals named in a facsimile.</sentence>
+<sentence id="s456">These individuals included the persons named in [121] above.</sentence>
+<sentence id="s457">130 Mr Nunn says that most of the section in the Information Package headed "An Introduction to Anticariogenic Casein Phosphopeptide" was largely reproduced from the GRAS document.</sentence>
+<sentence id="s458">He refers in his affidavit to a draft Evaluation and Confidential Disclosure Agreement referred to in correspondence with SmithKline Beecham, but says the agreement was never executed.</sentence>
+<sentence id="s459">Mr Nunn was not aware of any other confidentiality agreement entered into or any other obligation of confidence imposed on SmithKline Beecham in relation to the Information Package.</sentence>
+<sentence id="s460">He refers to letters from two large corporations, Chesebrough Pond's USA Co. and Pzfizer Inc, acknowledging receipt of the Information Package.</sentence>
+<sentence id="s461">Mr Nunn says that he was not informed by Professor Reynolds or any representative of Bonlac that the complex he was responsible for marketing to potential customers was different to the complex manufactured and supplied before 13 March 1997.</sentence>
+<sentence id="s462">131 The evidence is that the Information Package was sent to the persons referred to at [121] above on 8 May 1996 at the direction of Mr Nunn.</sentence>
+<sentence id="s463">The material was sent by Professor Reynolds' secretary.</sentence>
+<sentence id="s464">However, this does not mean that Professor Reynolds sent the material or gave his consent to it being sent.</sentence>
+<sentence id="s465">Mr Nunn says he was not expressly told whether the particular manufacturing information in the Information Package was confidential.</sentence>
+<sentence id="s466">However, he agreed that he was not in a position to make a determination one way or the other about the confidentiality of the information.</sentence>
+<sentence id="s467">In cross-examination, he expressed his view as being that only a complete manufacturing description could be confidential.</sentence>
+<sentence id="s468">132 Dr Garland refers to a meeting of 13 December 1995 and to subsequent discussions with Mr Nunn about the production of the Information Package.</sentence>
+<sentence id="s469">He says that at the meeting on 13 December 1995, it was agreed that Mr Nunn, Mr Quigley and Professor Reynolds would prepare an Information Package for the complex.</sentence>
+<sentence id="s470">He said that there was no discussion to the effect that the Information Package was to be treated by himself or Mr Nunn as a confidential document.</sentence>
+<sentence id="s471">Dr Garland provided to Mr Botsman, who was retained by Bonlac as a consultant, parts of the Information Package which referred to NZP prior to its finalisation.</sentence>
+<sentence id="s472">He refers to commercial meetings and states that he has no recollection of any indication being given at these meetings as to the importance of treating the Calpep manufacturing process described in the Information Package as confidential.</sentence>
+<sentence id="s473">He says that he was not informed that any material contained in the Information Package could not be disseminated to potential customers due to its confidential nature.</sentence>
+<sentence id="s474">133 Professor Reynolds for the University gave evidence that the University, Bonlac and ICI/NZP held meetings on a regular basis from early 1994 onwards to review progress in relation to aspects of the phosphopeptide project.</sentence>
+<sentence id="s475">Regular attendees included Mr Hammermeister, Mr Quigley, Mr Botsman and Mr Nunn.</sentence>
+<sentence id="s476">Mr Garland also attended from time to time.</sentence>
+<sentence id="s477">The meetings discussed the negotiations between Bonlac and ICI/NZP in relation to their long-term involvement in the project, interest in the technology being shown by third parties such as Colgate and Warner Lambert, and the development of a commercial process for the manufacture of the product.</sentence>
+<sentence id="s478">Professor Reynolds says that, for a time, confidentiality was a regular issue for discussion at the meetings.</sentence>
+<sentence id="s479">He exhibits an Agenda dated April 1994 that lists an item entitled "Confidentiality Agreements/compliance".</sentence>
+<sentence id="s480">He also refers to another meeting of 28 October 1994 during which the issue of confidentiality was raised.</sentence>
+<sentence id="s481">Professor Reynolds says the issue was also brought up from time to time outside those meetings.</sentence>
+<sentence id="s482">He says that his understanding, from the meetings he attended and the various discussions he held with people involved in the project, was that those involved were informed of and aware of the need to protect the confidential information pertaining to the technology, and, in particular, the information concerning the manufacturing process.</sentence>
+<sentence id="s483">134 Professor Reynolds also gave evidence that in 1994, the University was approached by the company NuLite, which expressed an interest to evaluate the technology for its potential inclusion in one or more dental products.</sentence>
+<sentence id="s484">He then refers to a confidentiality agreement between the University and NuLite dated May 1994.</sentence>
+<sentence id="s485">He says that confidentiality in relation to the project was an issue regularly raised by representatives of Bonlac particularly in relation to the provision of information concerning the technology to third parties.</sentence>
+<sentence id="s486">He annexes a document entitled "Notes for ACPP Meeting" dated 20 June 1996, which relates to the signing of confidentiality agreements.</sentence>
+<sentence id="s487">The signature of Mr Nunn appears at the bottom of this document.</sentence>
+<sentence id="s488">135 Professor Reynolds also refers to receiving a copy of the requirements for GRAS affirmation from Mr Nunn and preparing the technical content of a draft document based on these requirements.</sentence>
+<sentence id="s489">The GRAS affirmation required that information concerning the manufacturing process be provided.</sentence>
+<sentence id="s490">Professor Reynolds says, and I accept, that he was unaware that Mr Nunn had used the GRAS document for presentations to potential customers in mid to late 1995.</sentence>
+<sentence id="s491">He says that he was unaware of the GRAS documents being used as a marketing tool or discussed at meetings by Mr Nunn or anyone else.</sentence>
+<sentence id="s492">136 Professor Reynolds states that he wrote several reiterations of a document with and including the title "Anticariogenic Casein Phosphopeptides," and these did not include confidential information or manufacturing processes.</sentence>
+<sentence id="s493">He believed that a GRAS application had not been submitted to the FDA until after the completion of the Licence Agreement in 1998.</sentence>
+<sentence id="s494">Professor Reynolds also says that he does not recall having seen the Information Package exhibited to Mr Nunn's affidavit prior to being provided with a copy of his affidavit.</sentence>
+<sentence id="s495">137 In relation to the Information Package, Professor Reynolds states that it contained errors where information important for understanding the efficacy of the product had been omitted or incorrectly transcribed.</sentence>
+<sentence id="s496">He added that it also contained inconsistent information in relation to the pH at which complexes were formed.</sentence>
+<sentence id="s497">Regarding the NFA application, Professor Reynolds states that he understood that both applications to the NFA/ANZFA had been treated as confidential by NFA/ANZFA, at least until 28 April 1997.</sentence>
+<sentence id="s498">138 Mr Quigley gave evidence for the University.</sentence>
+<sentence id="s499">He was employed by Bonlac Foods from 1994 to 2002 as Senior Project Manager and Research &amp; Development Manager.</sentence>
+<sentence id="s500">He reported to Mr Hammermeister, the Group Manager (Technology &amp; Development) up to 1998.</sentence>
+<sentence id="s501">At Bonlac, Mr Quigley was involved in the project relating to anticariogenic casein phosphopeptide technology (also known as Calpep).</sentence>
+<sentence id="s502">From 1994, the CSIRO assisted Bonlac to carry out its pilot scheme.</sentence>
+<sentence id="s503">ICI was originally part of the project team and had responsibility for trying to develop a market for the technology.</sentence>
+<sentence id="s504">139 Mr Quigley recalls that Professor Reynolds developed the Calpep technology.</sentence>
+<sentence id="s505">He states that Bonlac had rights in relation to the manufacturing and marketing of Calpep and, together with the University and other partners in the project, was trying to develop a product suitable for commercialisation.</sentence>
+<sentence id="s506">He refers to regular meetings of those involved in the Calpep project held as regularly as every week during the intensive periods of the process of development.</sentence>
+<sentence id="s507">These meetings were of a particularly technical nature.</sentence>
+<sentence id="s508">140 Mr Quigley notes that separate meetings of a commercial nature relating to the development of the market for the technology were also held.</sentence>
+<sentence id="s509">Of this second type of meeting, he recalls general meetings involving Professor Reynolds, Mr Nunn and himself.</sentence>
+<sentence id="s510">He also remembers attending meetings with Professor Reynolds, Mr Nunn, Mr Hammermeister and Mr Botsman, a consultant of Bonlac.</sentence>
+<sentence id="s511">Mr Garland attended on occasions.</sentence>
+<sentence id="s512">Mr Quigley says he treated the details of Bonlac's developing manufacturing processes as confidential and does not recall disclosing any detailed information about the developing manufacturing process to ICI, NZP, Mr Garland or Mr Nunn.</sentence>
+<sentence id="s513">He does not recall Bonlac being approached for its consent to the external use of the Information Package concerning the manufacturing process or consent by Bonlac to the external use of the document.</sentence>
+<sentence id="s514">Mr Quigley says that the material entitled "An Introduction to Anticariogenic Casein Phosphate Peptides" is similar to an internal reference document used as a primer for the technology that was circulating when he first joined the Calpep project.</sentence>
+<sentence id="s515">However, he recalls that at that time, the material had a different title.</sentence>
+<sentence id="s516">141 On 14 March 1990, the University entered into a Confidentiality Agreement with Bonlac and the Victorian Dairy Industry Authority ("VDIA") regarding the evaluation of a process for the production of anticariogenic phosphopeptides from caseins.</sentence>
+<sentence id="s517">This agreement provided for an obligation of "absolute secrecy" during the evaluation period.</sentence>
+<sentence id="s518">The University subsequently entered into a Manufacturing Agreement and Option for Licence with Bonlac on 14 March 1991.</sentence>
+<sentence id="s519">This agreement imported the confidentiality regime of the earlier document.</sentence>
+<sentence id="s520">Following this, another agreement was entered into by the University on 22 February 1993 involving the University, the VDIA, Bonlac and ICI.</sentence>
+<sentence id="s521">This agreement also identified and imposed obligations of confidentiality on the parties.</sentence>
+<sentence id="s522">142 In a facsimile dated 2 May 1995 from Mr Michael Glass of Warner Lambert, there is evidence which refers to a confidentiality agreement made in June 1994 between that company and ICI.</sentence>
+<sentence id="s523">An amendment was proposed by Warner Lambert in November 1994 after ICI made certain adjustments to its business, but this was never signed due to the inclusion of certain exclusivity provisions.</sentence>
+<sentence id="s524">There is a reference, however, to the terms of confidentiality being clarified in an agreement to be drafted by NZP.</sentence>
+<sentence id="s525">Further confidentiality requests are also referred to in a Technology Licence Agreement finalised in December 1995 involving the University, Bonlac and the VDIA.</sentence>
+<sentence id="s526">This agreement imposed duties of non-disclosure and states that confidential information must only be used for specific purposes.</sentence>
+<sentence id="s527">143 In my view, the existence of these agreements and undertakings supports the conclusion that the University was not prepared to consent to disclosure or publication of any novelty-defeating information concerning the development of the process.</sentence>
+<sentence id="s528">There is no agreement specifically on point, however, the history of the University's concerns regarding confidentiality and the periodic references to this issue at meetings make it more likely than not that there was a regime of non-disclosure in effect.</sentence>
+<sentence id="s529">I am satisfied that Mr Nunn appreciated that the information contained in the Calpep document was confidential in nature, notwithstanding his assertion that he only considered that a complete description of the manufacturing process would be confidential in nature.</sentence>
+<sentence id="s530">The recipients of the Information Package were obviously important clients and contacts of ICI with whom Nunn had had previous discussions.</sentence>
+<sentence id="s531">One might reasonably expect that they would treat material that was confidential on its face as imposing an obligation not to further disclose it.</sentence>
+<sentence id="s532">Dr Garland, to whom he reported, adopted the over-simplistic position that unless it was expressly spelt out to him that material disclosed was confidential, he would not infer that it would be confidential.</sentence>
+<sentence id="s533">Dr Garland said that, even in the case of a patent application disclosed for the purpose of entering into an agreement, he would not consider the information confidential unless it was expressly stipulated.</sentence>
+<sentence id="s534">I do not accept this as a reasonably tenable view.</sentence>
+<sentence id="s535">It is also important to bear in mind that although it was Professor Reynolds' secretary who sent out the Information Package, this was done at the direction of Mr Nunn.</sentence>
+<sentence id="s536">I accept that the distribution of this information was not known to Professor Reynolds.</sentence>
+<sentence id="s537">Having regard to the foregoing, I am not satisfied that the material in the Information Package was made publicly available.</sentence>
+<sentence id="s538">In any event, I am satisfied that the University did not consent to it being made publicly available.</sentence>
+<sentence id="s539">NATIONAL FOOD AUTHORITY APPLICATION 
+ 
+144 An application was made to the NFA by ICI on 28 June 1995 for approval of the complexes of phosphopeptide and calcium phosphate as food additives for inclusion in sugar-containing foods to be marketed in Australia ("the NFA application").</sentence>
+<sentence id="s540">Professor Reynolds was consulted in drafting the NFA application and, as discussed above, the NFA application was used by Dr Garland and Mr Nunn as the basis for the Information Package.</sentence>
+<sentence id="s541">The idea of the Information Package arose from a suggestion made by Dr Garland to Mr Nunn that they use the NFA application, with some amendments, as a marketing tool.</sentence>
+<sentence id="s542">I am satisfied that the Information Package was prepared or extracted from material in the NFA application.</sentence>
+<sentence id="s543">The preparation of the Information Package was supervised by Dr Garland.</sentence>
+<sentence id="s544">Professor Reynolds' involvement extended only to providing an updated paper on anticariogenic casein phosphopeptides and a one-page Bonlac fact sheet.</sentence>
+<sentence id="s545">145 NSI claims that the NFA application was made publicly available.</sentence>
+<sentence id="s546">It says that under s 39(1) of the National Food Authority Act 1991 ("the NFA Act "), a duty is imposed on the NFA, its staff and consultants not to disclose confidential and commercial information acquired in the course of the NFA's activities.</sentence>
+<sentence id="s547">The NFA treated information as confidential only if a claim of commercial confidentiality was made in the application at the time it was lodged with the NFA.</sentence>
+<sentence id="s548">Otherwise, the information would be regarded as part of the public register accessible to members of the public.</sentence>
+<sentence id="s549">NSI says that commercial confidence was never claimed by the University in relation to any of the information included in the NFA application either at the time that the NFA application was made or subsequently.</sentence>
+<sentence id="s550">Therefore, it says that the information was made publicly available.</sentence>
+<sentence id="s551">NSI submits that this is not surprising because, by late 1994, Professor Reynolds had already been making the complexes outlined in Claim 7 for a substantial period of time and the University and Bonlac regarded the information as protected by the Phosphopeptide Patent.</sentence>
+<sentence id="s552">NSI also adds that the University and Bonlac were a long way from developing a manufacturing procedure for a complex of the sort that would truly be confidential.</sentence>
+<sentence id="s553">146 The University contends that the NFA Act does not impose obligations on applicants in respect of confidential information.</sentence>
+<sentence id="s554">Further, it says that the evidence indicates that the two applications to the NFA were withdrawn and that no part of them was made available to the public.</sentence>
+<sentence id="s555">147 Mr Nunn gave evidence, which I do not accept, that Professor Reynolds played an important role in the discussion regarding the drafting of the Information Package.</sentence>
+<sentence id="s556">This evidence was led in a late affidavit of Mr Nunn.</sentence>
+<sentence id="s557">His recollection of events in relation to the creation of the Information Package is, in my view, self-serving.</sentence>
+<sentence id="s558">Furthermore, Mr Nunn's claim in his second affidavit that he had edited a paper discussing anticariogenic casein phosphopeptide with Professor Reynolds is not supported by his actual diary entry, which suggests that Mr Nunn edited this paper alone.</sentence>
+<sentence id="s559">Mr Nunn agreed that his recollection of these events was based on his diary entries and that he had no independent recollection.</sentence>
+<sentence id="s560">The self-serving nature of Mr Nunn's evidence is also evident in his adherence in cross-examination to the view that the abbreviation "NDA" in a document referred to "non-disclosure agreement" when, on any reasonable approach, this was not correct.</sentence>
+<sentence id="s561">Dr Garland's oral evidence was that he had no particular discussions with any representative of the University or Bonlac in relation to the use of the documents, including the booklet introducing Calpep, for marketing purposes.</sentence>
+<sentence id="s562">Having regard to these matters, I am not persuaded that the application to the NFA amounted to a disclosure, even assuming that it contained adequate information that would constitute an anticipation of the invention.</sentence>
+<sentence id="s563">148 NSI referred to the fact that neither Mr Botsman nor Mr Hammermeister, who reported to Mr Botsman, were called to support the University's submission that there was an obligation of confidence or non-disclosure imposed in respect of the Information Package.</sentence>
+<sentence id="s564">I am not persuaded that any adverse or strengthening inference should be drawn from the absence of these witnesses.</sentence>
+<sentence id="s565">In the case of Mr Botsman, I am not satisfied that he was involved in the preparation of the marketing material to the extent alleged by NSI.</sentence>
+<sentence id="s566">In my view, it was not incumbent on the University, in view of other evidence from Professor Reynolds and Mr Quigley, to call these witnesses.</sentence>
+<sentence id="s567">I have taken their absence into account, however, I do not consider that anything flows from the fact that they were not called with respect to the issue of confidentiality or non-disclosure.</sentence>
+<sentence id="s568">INVENTIVE STEP 
+ PRINCIPLES 
+ 
+149 The question is whether the invention involves an inventive step when compared with the prior art base as it existed before the priority date of the Claim.</sentence>
+<sentence id="s569">The invention is taken to involve an inventive step unless it would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed in the patent area before 12 March 1997.</sentence>
+<sentence id="s570">150 In Minnesota Mining and Manufacturing Company v Beiersdorf (Australia) Limited [1980] HCA 9 ; (1980) 144 CLR 253 at 292, Aickin J defines "common general knowledge" as:
+ 
+ "that which is known or used by those in the relevant trade.</sentence>
+<sentence id="s571">It forms the background knowledge and experience which is available to all in the trade in considering the making of new products, or the making of improvements in old, and it must be treated as being used by an individual as a general body of knowledge.</sentence>
+<sentence id="s572">" 
+
+151 At the outset, it is necessary to describe the attributes of the skilled addressee and the relevant patent area.</sentence>
+<sentence id="s573">The skilled addressee is a legal construct and is assumed to be a person, or team, who is "not 'particularly imaginative or inventive'": Pfizer Overseas Pharmaceuticals v Eli Lilly and Co [2005] FCAFC 224 at [288] per French and Lindgren JJ.</sentence>
+<sentence id="s574">This does not mean that the addressee is a technician or person with only practical and non-academic qualifications.</sentence>
+<sentence id="s575">In fields such as chemistry, the addressee can be a person or group with high level qualifications and a capacity for original research: Aktiebolaget Hassle v Alphapharm Pty Ltd [2002] HCA 59 ; (2002) 212 CLR 411 at [30] .</sentence>
+<sentence id="s576">The test formulated by the majority in Alphapharm at [53]-[54] is whether the addressee would directly be led, as a matter of course, to pursue one avenue in the expectation that it may well produce the claimed result.</sentence>
+<sentence id="s577">Their Honours referred to the approach taken by Graham J in Olin Mathieson Chemical Corporation v Biorex Laboraties Ltd [1970] RPC 157 at 187-188.</sentence>
+<sentence id="s578">His Honour framed the question in terms of whether a notional research group, at the relevant date, in all the circumstances, which include a knowledge of all the relevant prior art and of the facts of the nature and success of a chemical, would be led directly as a matter of course to try a particular substitution in the expectation that it might well produce a useful alternative to, or better drug than, the existing drug or a body useful for any other purpose.</sentence>
+<sentence id="s579">152 In approaching the question of obviousness, it is necessary to assess the inventiveness of the invention and not simply to examine each integer in isolation.</sentence>
+<sentence id="s580">In Alphapharm , the majority said at [58]:
+ 
+ "The tracing of a course of action which was complex and detailed, as well as laborious, with a good deal of trial and error, with dead ends and the retracing of steps is not the taking of routine steps to which the hypothetical formulator was taken as a matter of course.</sentence>
+<sentence id="s581">" 
+
+This observation is pertinent to the present case.</sentence>
+<sentence id="s582">Mere verification or discovery is not an invention.</sentence>
+<sentence id="s583">An invention may be made by a brilliant sudden insight or act or by a slow and laborious approach: see In re Farbenindustrie AG's Patents (1930) 47 RPC 289 at 322 per Maugham J. Obviousness is not determined by asking whether a particular avenue of research is worth a try.</sentence>
+<sentence id="s584">SUBMISSIONS 
+ 
+153 The inventiveness in the present case claimed by the University is said to reside in the recognition of a desirable outcome, namely, a treatment for dental caries using calcium phosphate and casein and providing that outcome by the complex with the integers of Claim 7.</sentence>
+<sentence id="s585">154 NSI submits that the invention claimed by the University in Claims 7, 10, 11, 13 and 21 lacks an inventive step.</sentence>
+<sentence id="s586">NSI says that the common general knowledge prior to the priority date of the claim included the knowledge of the Cluster Sequence within casein and the function of that sequence in binding calcium phosphate, adjusting conditions in which the complex is formed (such as by increasing the pH) and the fact that complexes would form between amorphous calcium phosphate and casein phosphopeptides.</sentence>
+<sentence id="s587">This common knowledge, either taken separately or in combination, makes the invention obvious.</sentence>
+<sentence id="s588">155 The Complex Patent specification refers to the basis of the invention as being the unexpected ability of casein phosphopeptides containing the Cluster Sequence to stabilise amorphous calcium phosphate, which can be localised at the tooth surface to provide superior anti-caries efficacy.</sentence>
+<sentence id="s589">The specification states that it has been found that the amorphous form of calcium phosphate stabilised by the casein phosphopeptides is the most soluble basic form of non-crystalline calcium phosphate and a superior form in preventing caries and increasing calcium bio-availability.</sentence>
+<sentence id="s590">An example is given of the titration of calcium ions and phosphate ions while maintaining the pH above 7 (preferably 9) in the presence of the phosphopeptide.</sentence>
+<sentence id="s591">The example refers to the amorphous calcium phosphate being formed, with the phosphopeptide binding to the nuclei and stabilising the amorphous calcium phosphate as a phosphopeptide-amorphous calcium phosphopeptide complex.</sentence>
+<sentence id="s592">The phosphopeptide prevents the precipitation of the amorphous calcium phosphate out of solution into a crystalline form, which has limited anticariogenic activity.</sentence>
+<sentence id="s593">156 The benefits derived from the Complex Patent arise from the identification of the cluster of phosphopeptides that stabilise the calcium phosphate in an amorphous soluble alkaline form.</sentence>
+<sentence id="s594">The Complex Patent draws on several fields of expertise.</sentence>
+<sentence id="s595">The field of the invention is concerned with a calcium phosphate complex in a stable, soluble and alkaline form and involves a transition between states and calls for expertise in calcium phosphate chemistry.</sentence>
+<sentence id="s596">The inventive step is also concerned with the interaction of calcium phosphopeptides, which calls for an understanding of calcium proteins.</sentence>
+<sentence id="s597">A third area of skill requires an understanding of the beneficial effects of the calcium phosphate complex in the above form.</sentence>
+<sentence id="s598">157 NSI claims that, in relation to Claims 7 and 21 of the Complex Patent, the skilled person must be a biochemist or protein chemist who is familiar with the various forms of bovine casein and their characteristics, including their amino acid sequences.</sentence>
+<sentence id="s599">The person must be aware of the ability of casein to interact with calcium phosphate and experienced in preparing peptides in a laboratory and developing chemical entities.</sentence>
+<sentence id="s600">In relation to Claims 10, 11 and 13, NSI claims that the skilled person must be a team consisting of a biochemist or protein chemist, as described above, and a formulation chemist experienced in formulating active ingredients into pharmaceutical and therapeutic compositions and delivery vehicles.</sentence>
+<sentence id="s601">Dr Mackinlay, who was called for NSI, was a protein chemist until he retired in 1996.</sentence>
+<sentence id="s602">158 The University, on the other hand, submits that NSI incorrectly characterised the attributes of the relevant skilled person or team of persons.</sentence>
+<sentence id="s603">The University says that the Complex Patent traverses a number of scientific disciplines including oral biology, protein chemistry, and calcium phosphate chemistry, including physical chemistry.</sentence>
+<sentence id="s604">The relevance of physical chemistry was acknowledged by Dr Mackinlay in cross-examination.</sentence>
+<sentence id="s605">Therefore, the relevant person or persons must have knowledge of these fields.</sentence>
+<sentence id="s606">159 The University contends that Dr Mackinlay does not possess all the necessary skills.</sentence>
+<sentence id="s607">Dr Mackinlay is a retired biochemist.</sentence>
+<sentence id="s608">His research on casein ceased in the early 1980s and he has since worked in other fields.</sentence>
+<sentence id="s609">He has never studied the interaction between casein and calcium phosphate and has no expertise in calcium phosphate chemistry or oral biology.</sentence>
+<sentence id="s610">Dr Mackinlay conceded in cross-examination that he was not the right person to give evidence about the meaning of the term "metastable", a term which appeared in the Complex Patent.</sentence>
+<sentence id="s611">He said that a physical chemist would be the appropriate person to provide this information.</sentence>
+<sentence id="s612">The University says that Dr Rowe, a formulation chemist called for NSI, was not able to supply the missing attributes of the relevant skilled person.</sentence>
+<sentence id="s613">EVIDENCE 
+ 
+160 Dr McKinnon, a physical chemist, who was called for the University, stated that an understanding of physical chemistry issues, in particular chemical equilibria and phase behaviour, is critical to an understanding of the complex described in the Complex Patent.</sentence>
+<sentence id="s614">I accept this opinion because the relevant field is clearly concerned with the prevention of a change of physical state.</sentence>
+<sentence id="s615">Dr McKinnon has particular expertise in physical chemistry.</sentence>
+<sentence id="s616">This area of chemistry involves the study of the physical properties of materials, such as their form and state, and how that form changes with environmental conditions such as temperature and pressure.</sentence>
+<sentence id="s617">It also concerns the study of the equilibria between different forms of matter and chemical species, including transformations between the three different states of matter - liquids, solids and gases - and the investigation of other factors that affect the extent and rate of chemical reactions.</sentence>
+<sentence id="s618">These qualifications are pertinent to an understanding of the operation of the Cluster Sequence, phosphopeptides and the calcium phosphate complex.</sentence>
+<sentence id="s619">161 Dr McKinnon has worked in the dairy chemistry area since 1991 on issues such as phase behaviour, solubility, chemical equilibrium thermodynamics and chemical reactions.</sentence>
+<sentence id="s620">Dr McKinnon does not, however, have any experience in oral biology.</sentence>
+<sentence id="s621">He has experience working with casein and calcium phosphate in the dairy chemistry context.</sentence>
+<sentence id="s622">His work has concentrated on the mineral composition of milk and the interaction of calcium and phosphate with the casein micelle in milk.</sentence>
+<sentence id="s623">Although Dr McKinnon had not published widely in the dairy chemistry field prior to the priority date of the Complex Patent, I am satisfied as to the extent of his experience in this area.</sentence>
+<sentence id="s624">162 The evidence that Dr McKinnon and Dr Mackinlay have consulted many of the same authors and sources indicates, to some extent, an overlapping of their areas of expertise.</sentence>
+<sentence id="s625">163 So far as oral biology is concerned, I accept that Dr Dawes, who was called for the University, is a skilled addressee in the field of oral biology.</sentence>
+<sentence id="s626">164 This is not a case where it is possible to rely simply on the evidence of one skilled person or group to the exclusion of the evidence of all others.</sentence>
+<sentence id="s627">There is no simple exclusionary touchstone.</sentence>
+<sentence id="s628">The witnesses on each side clearly have some common area of expertise.</sentence>
+<sentence id="s629">However, while Dr Mackinlay has some of the relevant attributes of the skilled addressee, as between Dr Mackinlay and Dr McKinnon, I am satisfied that the experience and expertise of Dr McKinnon as a physical chemist is of more direct relevance to calcium phosphate chemistry than that of Dr Mackinlay.</sentence>
+<sentence id="s630">Accordingly, I give somewhat greater weight to the evidence of Dr McKinnon as a skilled addressee than to that of Dr Mackinlay.</sentence>
+<sentence id="s631">I have, however, taken into account the evidence of Dr Mackinlay and weighed it in the balance in considering the question of obviousness.</sentence>
+<sentence id="s632">165 The University submits that Dr Mackinlay's evidence must be approached with some caution because it is unclear precisely what his knowledge was before March 1997.</sentence>
+<sentence id="s633">This is because it is unclear what Dr Mackinlay personally knew before March 1997 and what facts he assumed or additional knowledge he gained by reading articles provided to him by his instructing solicitors.</sentence>
+<sentence id="s634">The University also submits that Dr Mackinlay's views could have been influenced by hindsight because he was given a copy of the Complex Patent early in the litigation.</sentence>
+<sentence id="s635">Taken in isolation, this is not a decisive objection.</sentence>
+<sentence id="s636">However, the authorities show that it is a matter that goes to the weight to be given to Dr Mackinlay's evidence and points to the need to exercise a degree of caution when considering his evidence: see, for example, Minnesota Mining and Manufacturing Company v Beiersdorf (Australia) Limited [1980] HCA 9 ; (1980) 144 CLR 253 at 293-294 per Aickin J.</sentence>
+<sentence id="s637">1958 REEVES AND LATOUR ARTICLE 
+ 
+166 NSI asserts that the claims lack the necessary inventive step because it was common general knowledge as at March 1997 that the Cluster Sequence was present in casein and that it served to bind calcium phosphate.</sentence>
+<sentence id="s638">It is contended that this knowledge, when taken with the 1958 paper by Reeves and Latour entitled "Calcium Phosphate Sequestering Phosphopeptide from Casein" ("the Reeves and Latour article"), would make the invention obvious to the skilled addressee.</sentence>
+<sentence id="s639">167 Subject to my comments above regarding the skilled addressee, the principal relevant skilled addressees include Dr Mackinlay and Dr McKinnon.</sentence>
+<sentence id="s640">168 NSI relies on the evidence of Dr Mackinlay to the effect that the Reeves and Latour article teaches that casein phosphopeptide complexes can be formed at pHs greater than 7.</sentence>
+<sentence id="s641">However, in cross-examination, Dr Mackinlay conceded that the Reeves and Latour article did not mention whether a complex of casein phosphopeptides had been formed and that he used hindsight to reach this conclusion.</sentence>
+<sentence id="s642">This is an illustration of the way in which Dr Mackinlay used hindsight.</sentence>
+<sentence id="s643">Dr Mackinlay first saw the Reeves and Latour article after reading the Complex Patent and the University submits that this diminishes the weight that should be given to his evidence.</sentence>
+<sentence id="s644">Furthermore, the Reeves and Latour article does not state that it is the cluster of phosphopeptides that increases the solubility of calcium phosphate.</sentence>
+<sentence id="s645">The University says that this conclusion can only be reached if the article is read in conjunction with the 1995 article by Dr Reynolds entitled "Anticariogenicity of Calcium Phosphate Complexes of Typtic Casein Phosphopeptides in the Rat".</sentence>
+<sentence id="s646">169 Dr McKinnon gave evidence that he would have understood the Reeves and Latour article to show only that the casein phosphopeptide could make soluble a certain amount of calcium phosphate but he would not have been able to tell how the phosphopeptides interacted with the calcium and phosphate to form an entity.</sentence>
+<sentence id="s647">He considered that the article did not enable a conclusion to be reached as to the structure or size of the entity formed, its precise chemical composition or the form of the calcium phosphate.</sentence>
+<sentence id="s648">Nor could the proportions of the phosphopeptide, calcium ions, phosphate ions and water be determined.</sentence>
+<sentence id="s649">All that could be concluded was that the entity would contain calcium phosphate and casein phosphopeptides.</sentence>
+<sentence id="s650">170 Dr Reynolds gave evidence in cross-examination that the Reeves and Latour article did not identify the Cluster Sequence and demonstrate whether any entity including calcium, phosphate and calcium phosphopeptides was formed as a result of the experiments.</sentence>
+<sentence id="s651">The article also did not identify how the calcium phosphopeptide could help to solubilise the calcium and phosphate.</sentence>
+<sentence id="s652">171 I do not consider that the expert evidence of these witnesses supports the view that the Reeves and Latour article operates to make the inventive step obvious.</sentence>
+<sentence id="s653">1991 SATO ARTICLE 
+ 
+172 NSI relies on the evidence of Dr Mackinlay to the effect the Sato article teaches that casein phosphopeptide sequences can be formed at pHs greater than 7.</sentence>
+<sentence id="s654">However, in cross-examination, Dr Mackinlay concedes that the Sato article does not describe a complex of casein phosphopeptides with calcium phosphate, and nor does it indicate the role of the phosphate.</sentence>
+<sentence id="s655">The University claims that it is clear that Dr Mackinlay had read the Sato article in the light of an article by Dr Holt which preceded it by five years.</sentence>
+<sentence id="s656">Dr Mackinlay's approach amounts to an impermissible "mosaicing" in circumstances where the two articles should not be read as a single source of information.</sentence>
+<sentence id="s657">173 Dr McKinnon's evidence is that it is not possible to deduce the nature of the exact entity formed between the casein, calcium and phosphate from the article.</sentence>
+<sentence id="s658">There is no measurement in the Sato article of the final phosphate concentrations and therefore, the role of the phosphate in the formation of the entity is unclear.</sentence>
+<sentence id="s659">174 In the light of this evidence, which I accept, I do not consider that the Sato article serves to make the inventive step obvious.</sentence>
+<sentence id="s660">1995 REYNOLDS ARTICLE 
+ 
+175 NSI also relies on the Reynolds article and highlight that Dr Mackinlay considered that this article teaches that casein phosphopeptide and calcium phosphate complexes can be formed at pH 7.</sentence>
+<sentence id="s661">He says that the Reynolds article indicates that the casein phosphates contain the Cluster Sequence and that the calcium phosphate is amorphous.</sentence>
+<sentence id="s662">It did not teach formation of the complexes at a pH greater than 7.</sentence>
+<sentence id="s663">176 Dr McKinnon considered that the focus in the Reynolds article was on testing the efficacy of the complexes in treating caries rather than on the complexes themselves.</sentence>
+<sentence id="s664">He considered that the Reynolds article reported that the Cluster Sequence was important in forming the properties of the complex but he did not understand it to indicate that the calcium phosphopeptide solution prepared contained calcium and phosphate ions at concentrations that would make the solution super-saturated with calcium phosphate.</sentence>
+<sentence id="s665">177 Taking this evidence into account, I do not consider that the Reynolds article renders the invention obvious.</sentence>
+<sentence id="s666">178 It is important to note, as Dr McKinnon points out in his affidavit, that the three articles discussed above to some extent teach in different directions.</sentence>
+<sentence id="s667">Dr McKinnon observed that the Reeves and Latour article and the Reynolds article were contradictory in relation to the issue of stability.</sentence>
+<sentence id="s668">Dr McKinnon considered that the articles, when read together, did not indicate whether a pH above 7 would hinder the formation of stable complexes due to the increasing likelihood of large-scale precipitation of calcium phosphate and calcium caseinate.</sentence>
+<sentence id="s669">179 In addition, Professor Reynolds gave evidence of the lengthy research and experimental process and the detailed steps taken by him over 18 years to arrive at the invention, taking account of different stages and streams of research in relation to the formation of complexes at various pH values to increase the yield, the extensive trial and error involved and the consideration of documents teaching away from the invention.</sentence>
+<sentence id="s670">These elements are important considerations in relation to the question of obviousness: see Alphapharm at [53].</sentence>
+<sentence id="s671">HYPOTHETICAL RESEARCH PROJECT --- DR MACKINLAY 
+ 
+180 Dr Mackinlay was asked by NSI to describe, by way of a hypothetical research project ("the HRP"), how he would have gone about developing a chemical entity that would take advantage of the interaction between casein and calcium phosphate and have the maximum amount of calcium phosphate bound.</sentence>
+<sentence id="s672">This was based on the assumption that it was part of the common general knowledge that calcium phosphate binds to casein.</sentence>
+<sentence id="s673">181 The University levelled several criticisms at the HRP.</sentence>
+<sentence id="s674">First, the University submitted that Dr Mackinlay's opinion was affected by hindsight.</sentence>
+<sentence id="s675">Secondly, it contended that the HRP assumed part of the inventive process.</sentence>
+<sentence id="s676">Thirdly, it was submitted that Dr Mackinlay proceeded on the wrong test of obviousness by having regard to whether "straightforward" or "routine" steps could be taken to make the invention.</sentence>
+<sentence id="s677">182 In relation to the first issue, the University points out that Dr Mackinlay was provided with the Complex Patent before he embarked on the HRP.</sentence>
+<sentence id="s678">As discussed at [165] above, the authorities indicate that considerable caution must be exercised where the glaring effect of hindsight is a factor in reasoning as to obviousness.</sentence>
+<sentence id="s679">As an example, Dr Mackinlay refers to having set out on his task "with a working hypothesis that a complex of the sort described in Claim 7 could have been prepared.</sentence>
+<sentence id="s680">"
+ 
+183 Dr McKinnon, on the other hand, was only given a copy of the Complex Patent after setting out his knowledge as at 1 March 1997.</sentence>
+<sentence id="s681">His evidence was that, if he had read the Complex Patent in March 1997, he would not have expected to have been able to prevent the growth of calcium phosphate to a size that complexes form a stable solution.</sentence>
+<sentence id="s682">The reason for this is that, at an alkaline pH, calcium phosphate is highly insoluble and precipitates rapidly.</sentence>
+<sentence id="s683">Dr McKinnon also said that, if he had read the Complex Patent, he would have found it difficult not to be influenced by the knowledge he gained from reading it and his other readings and activities since March 1997.</sentence>
+<sentence id="s684">184 In relation to the second issue it can be seen from the parameters of the HRP that it assumes part of the inventive process, namely, the recognition of a desirable outcome.</sentence>
+<sentence id="s685">The desirable outcome was an advanced treatment for dental caries using calcium phosphate and casein.</sentence>
+<sentence id="s686">The University submits that, because of this assumption, the HRP lacked a "context", in the sense that the end goal was a given.</sentence>
+<sentence id="s687">The University also refers to the approach outlined by the High Court in Alphapharm at [53].</sentence>
+<sentence id="s688">In this case, the High Court stated that the question is whether the person or group would be led directly as a matter of course to try the claimed invention in the expectation that it might well produce a useful result.</sentence>
+<sentence id="s689">This indicates the importance of context in providing a useful result.</sentence>
+<sentence id="s690">The research is then evaluated in the light of a given purpose, result or direction.</sentence>
+<sentence id="s691">Dr McKinnon said that he would want to know about the purpose or context of a HRP before embarking on it.</sentence>
+<sentence id="s692">He said that, without this information, he would not have embarked on the HRP engaged in by Dr Mackinlay because it lacked direction and definition.</sentence>
+<sentence id="s693">185 In relation to the third issue, the University submits that Dr Mackinlay proceeded on the basis that the making of adjustments in relation to pH, temperature, ionisation and concentration were "routine" and that this disclosed an erroneous approach to the question of obviousness.</sentence>
+<sentence id="s694">The correct and different test that was accepted in Alphapharm at [53] is whether a person would be led directly, as a matter of course, to try the claimed invention in the expectation that it may well produce a useful or better alternative to the product that existed previously.</sentence>
+<sentence id="s695">186 Finally, it is submitted by the University that the outcome of the HRP does not correspond with the terms of the invention because it does not refer to the form of the amorphous calcium phosphate and omits an important integer of Claim 7.</sentence>
+<sentence id="s696">187 In my view, there is cogency in these submissions by the University and I accept them.</sentence>
+<sentence id="s697">I do not give any significant weight to the HRP on the question of obviousness.</sentence>
+<sentence id="s698">TRIAL AND ERROR PROCESS 
+ 
+188 The Complex Patent was formulated by Professor Reynolds drawing together three streams of research leading to the calcium phosphopeptide technology.</sentence>
+<sentence id="s699">He developed a process to produce calcium phosphopeptide calcium phosphate complexes ("CPP-calcium phosphate complexes") and studied the molecular structure of these calcium phosphopeptide calcium phosphate complexes.</sentence>
+<sentence id="s700">He also examined the development of an in situ model to study the efficiency of CPP---calcium phosphate complex solutions in re-mineralising enamel subsurface lesions.</sentence>
+<sentence id="s701">The three streams proceeded independently.</sentence>
+<sentence id="s702">It was the insights gained in advances in one or more of the streams that enabled him to understand and approach the direction of the other streams.</sentence>
+<sentence id="s703">189 Professor Reynolds carried out equilibrium binding studies which suggested to him that forming CPP-calcium phosphate complexes at higher pH values might lead to a substantially higher yield of the calcium phosphopeptide per kilogram of caseinate.</sentence>
+<sentence id="s704">Studies in mid-1990s confirmed that forming CCP-calcium phosphate complexes at a pH of 9 increased the yield.</sentence>
+<sentence id="s705">At this pH value, the solution became unstable and routinely precipitated.</sentence>
+<sentence id="s706">He says that:
+ 
+ 'I later learned through trial and error that under certain conditions of slow and careful addition of calcium ions and phosphate ions the calcium phosphate would not precipitate.</sentence>
+<sentence id="s707">' 
+ 
+
+190 He was also engaged in investigating the three dimensional structure of the CCP -calcium phosphate complexes.</sentence>
+<sentence id="s708">As a result of equilibrium binding studies on the molecular structure, he saw indications that more calcium and phosphate was bound by the calcium phosphopeptide at a pH of 9 rather than at a pH of 7.</sentence>
+<sentence id="s709">However, he saw these results were apparently contradicted in a paper by Professor Holt.</sentence>
+<sentence id="s710">As a result, he began to focus on amorphous phases of calcium phosphate.</sentence>
+<sentence id="s711">He found that amorphous states of calcium phosphate are highly pH dependent, such that acidic amorphous phases are chemically distinct from alkaline phases.</sentence>
+<sentence id="s712">This led him to investigate and ultimately understand how the conditions of formation of the CCP-calcium phosphate complexes would affect the phase of the calcium phosphate in the complex.</sentence>
+<sentence id="s713">191 He discovered that by careful titration of high concentrations of calcium fluoride sodium phosphate and sodium hydroxide at a pH of 9 with thorough mixing, he could produce the calcium phosphopeptide containing the Cluster Sequence by binding the amorphous calcium phosphate at levels considerably higher than previously achieved.</sentence>
+<sentence id="s714">As at early 1996, he believed that remineralisation efficacy was optimal with CPP-calcium phosphate complexes formed at a pH of 7.</sentence>
+<sentence id="s715">He carried out clinical trials in 1996 which were surprising.</sentence>
+<sentence id="s716">They showed that the CCP-calcium phosphate complex formed by the new process was far superior in its ability to remineralise enamel substance lesions in situ than the calcium complex previously used.</sentence>
+<sentence id="s717">The results of an in situ remineralisation study emphasised the importance of the oral environment.</sentence>
+<sentence id="s718">He realised that the new CPP-calcium phosphate complex he had developed overcame the major problem associated with earlier complexes.</sentence>
+<sentence id="s719">His analysis indicated that the new CCP---calcium phosphate complex material bound significantly higher concentrations of calcium ions and phosphate ions and included hydroxide ions at an optional ratio.</sentence>
+<sentence id="s720">192 It is important to appreciate that Professor Reynolds arrived at the Complex Patent by a series of trial and error experiments in the light of contradictory information teaching in different directions.</sentence>
+<sentence id="s721">By bringing together these separate streams of research, he was able to identify the invention that is the subject of the Complex Patent and to understand the way in which CCP-calcium phosphate complex could be formulated and prepared so as to result in the improved delivery of remineralisation to the tooth surface.</sentence>
+<sentence id="s722">PRIOR ART INFORMATION --- SECTION 7 OF THE ACT 
+ 
+193 Submissions were made by NSI as to the interpretation and effect of ss 7(2) and (3) of the Act , prior to the amendments made by the Patents Amendment Act 2001 (No 160 of 2001).</sentence>
+<sentence id="s723">The sections relevantly provide:
+ 
+ "7(2) For the purposes of this Act , an invention is taken to involve an inventive step when compared with the prior art base unless the invention would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed in the patent area before the priority date of the relevant claim, whether that knowledge is considered separately or together with either of the kinds of information mentioned in subsection (3), each of which must be considered separately.</sentence>
+<sentence id="s724">
+ 
+ (3) For the purposes of subsection (2), the kinds of information are: 
+ 
+ 
+ (a) prior art information made publicly available in a single document or through doing a single act; and 
+ (b) prior art information made publicly available in 2 or more related documents, or through doing 2 or more related acts, if the relationship between the documents or acts is such that a person skilled in the relevant art in the patent area would treat them as a single source of that information; 
+ 
+ 
+ being information that the skilled person mentioned in subsection (2) could, before the priority date of the relevant claim, be reasonably expected to have ascertained, understood and regarded as relevant to work in the relevant art in the patent area.</sentence>
+<sentence id="s725">" 
+
+
+ 
+194 The reference to "reasonably expected" in s 7(2) , in my view, means that it is not simply a question of a person's capacity to use search tools and methods in order to locate information but rather whether, in the opinion of the Court, there is on the evidence a reasonable degree of expectation that the skilled person would have ascertained the information.</sentence>
+<sentence id="s726">195 The word "could" is modified by the requirement of a "reasonable expectation" in the light of an assessment of what a skilled addressee would do according to expert evidence.</sentence>
+<sentence id="s727">The language does not impose any requirement that all skilled addressees would have done so.</sentence>
+<sentence id="s728">The test is also concerned not with an individual skilled addressee but rather with the constructive or hypothetical addressee with all the notional qualities attributed to the skilled addressee.</sentence>
+<sentence id="s729">The question should be addressed on the basis of a legal construct, not greatly dissimilar to that of the hypothetical reasonable man used in other areas of law, but with the particular attributes required of a skilled addressee in the field.</sentence>
+<sentence id="s730">The test is an objective one and is not limited to accepting what any particular skilled addressee asserts would have been done.</sentence>
+<sentence id="s731">196 It is submitted by the University that whether a document falls within s 7(3) has to be ascertained in the course of the skilled person's ordinary work in the relevant field and must be regarded as relevant to that ordinary work.</sentence>
+<sentence id="s732">The University says that the information is not to be ascertained and regarded as relevant as part of a particular inventive process taking into account an orientation towards the solution of a recognised problem.</sentence>
+<sentence id="s733">The submission is that, it is not correct to proceed on the basis that there is a specific problem and no motivation to be taken into account.</sentence>
+<sentence id="s734">Put another way, it is said that s 7(3) does not relate to a step on a hypothetical journey but it merely refers to the body of common general knowledge in the relevant field for the purpose of comparison.</sentence>
+<sentence id="s735">197 As a matter of interpretation, there is no justification for limiting this provision to information that could be reasonably expected to have been ascertained as part of the person's ordinary work ignoring the circumstances that the skilled person is taking into account in pursuing a particular research project.</sentence>
+<sentence id="s736">198 Section 7 , in terms, is silent as to any such distinction.</sentence>
+<sentence id="s737">On its face, it is capable of application where a person is engaged in work in the relevant art and also where the person is engaged in undertaking a particular project.</sentence>
+<sentence id="s738">The question posed by the section is whether it would have been obvious to a skilled person in the art.</sentence>
+<sentence id="s739">There is no limitation as to the type of work being performed.</sentence>
+<sentence id="s740">It is artificial to categorically exclude information which would have been ascertained in the course of directing attention to the useful or desirable result.</sentence>
+<sentence id="s741">Accordingly, I do not read s 7(3) as so limited.</sentence>
+<sentence id="s742">ASCERTAINED 
+ 
+199 The University accepts that Dr Mackinlay would have been capable of ascertaining the existence of the articles by Sato, Reynolds and Reeves and Latour.</sentence>
+<sentence id="s743">However, the University says that he could not reasonably have been expected to have directed particular attention to them.</sentence>
+<sentence id="s744">This is because he was obviously influenced by hindsight, as demonstrated, for example, by going directly to peptides.</sentence>
+<sentence id="s745">Moreover, it is not clear what criteria were used by Dr Mackinlay because his evidence as to selection was not clear or consistent.</sentence>
+<sentence id="s746">For example, an article by Dr Holt was not referred to in Dr Mackinlay's original evidence.</sentence>
+<sentence id="s747">However, Dr Mackinlay conceded in cross-examination that it was relevant.</sentence>
+<sentence id="s748">Dr Mackinlay found approximately 27 articles which he considered could have been relevant and selected three of these 27 articles.</sentence>
+<sentence id="s749">In addition, his reasons as to why he would have wanted to read the Reeves and Latour articles were unsatisfactory, as these reasons on their face appeared to repeat matters of which he was already aware.</sentence>
+<sentence id="s750">Moreover, he could not explain why he did not follow up another article cited in the same context as the Reeves and Latour articles.</sentence>
+<sentence id="s751">200 Dr McKinnon, after setting out his approach to literature searches, said that he would not have gone back to examine literature written prior to 1960 and located the Reeves and Latour article because of the great progress in the area of casein research since that date.</sentence>
+<sentence id="s752">He also stated that his experience had been that, in the period from 1960 to 1980, much of the early experimental work had not been properly controlled and, therefore, results from this period were likely to be unreliable.</sentence>
+<sentence id="s753">Dr McKinnon had not come across the Reeves and Latour article in the course of his work.</sentence>
+<sentence id="s754">He doubts whether any search made by him would have brought up the Reeves and Latour article.</sentence>
+<sentence id="s755">He also says that, if he had come across the Reynolds article, it would have been marginal whether or not he read it.</sentence>
+<sentence id="s756">In relation to the Sato article, Dr McKinnon would not have regarded it as relevant based on the title and authors.</sentence>
+<sentence id="s757">201 I am not persuaded on the evidence of the skilled addressee(s) that it could have been reasonably expected that these three articles would have been ascertained by persons skilled in the relevant art before 12 March 1997.</sentence>
+<sentence id="s758">Nor am I satisfied that a skilled addressee would have been expected to treat them as relevantly a single source or that any particular attention would have been paid to them.</sentence>
+<sentence id="s759">202 Having regard to the foregoing reasons in relation to obviousness, I do not accept the submission that the Complex Patent is invalid on this ground.</sentence>
+<sentence id="s760">FALSE SUGGESTION 
+ 
+203 A patent can be revoked under s 138(3)(d) of the Act on the basis that the patent was obtained by fraud, false suggestion or misrepresentation.</sentence>
+<sentence id="s761">204 NSI alleges that Claims 7 to 30 of the Complex Patent were obtained by false suggestion.</sentence>
+<sentence id="s762">These allegations relate to a letter dated 13 February 2002 from the University in response to the fifth report of the examiner.</sentence>
+<sentence id="s763">The examiner objected to the grant of the Complex Patent on the ground that the invention was anticipated.</sentence>
+<sentence id="s764">An amended form of Claim 7 was submitted by the University, including a requirement that the complex be formed at a pH greater than 7, and the University represented to the Patent Office that it believed that the claim was now novel and inventive.</sentence>
+<sentence id="s765">205 NSI claims that the letter made a false suggestion because it represented that the patent attorneys believed all claims were novel and inventive when that was not so, thereby leading to the grant of the patent.</sentence>
+<sentence id="s766">NSI alleges that this representation was false, as the Information Package had already been made publicly available and this contained all the integers of Claim 7 of the Complex Patent.</sentence>
+<sentence id="s767">206 It should be noted that the statement by the University is in the form of a submission as to the legal effect of the amended patent claim and it must be considered in that context.</sentence>
+<sentence id="s768">The statement involved a consideration of the state of the prior art.</sentence>
+<sentence id="s769">It is settled law that an applicant for a patent can make submissions to the Patent Office as to the proper construction or effect of a claim, and this will not be found to have been a false suggestion or representation simply because such a submission may later be held to have been incorrect: see ICI Chemicals and Polymers Ltd v Lubrizol Corp Inc [2000] FCA 1349 ; (2000) 49 IPR 513 at [91] .</sentence>
+<sentence id="s770">207 Insofar as the representation is based on belief, it has not been shown to be a false belief or one which is not reasonably held.</sentence>
+<sentence id="s771">On the contrary, the conclusions that I have reached on the issues of novelty and obviousness meet the submissions of NSI.</sentence>
+<sentence id="s772">208 In closing addresses, NSI sought to raise other questions that were not pleaded.</sentence>
+<sentence id="s773">I do not consider that these should be entertained.</sentence>
+<sentence id="s774">However, in any event, in my view, they do not affect the conclusion that I have reached in any way.</sentence>
+<sentence id="s775">FAIR BASIS 
+ 
+209 Section 40 of the Act requires that a complete specification must be clear, succinct and fairly based on the matter described in the specification.</sentence>
+<sentence id="s776">NSI submits that the Complex Patent specification does not comply with these requirements.</sentence>
+<sentence id="s777">In Lockwood Security Products Pty Ltd v Doric Products Pty Ltd [2004] HCA 58 ; (2004) 217 CLR 274 at [69] , the High Court formulated the relevant question as being whether there has been a real and reasonably clear disclosure in the body of the specification of what is then claimed so that the invention is broadly or in a general sense described in the body of the specification.</sentence>
+<sentence id="s778">Another way that the question can be posed is to ask whether the claim travels beyond the disclosure in the specification: Olin Corporation v Super Cartridge Co Pty Ltd [1977] HCA 23 ; (1977) 180 CLR 236 at 240 per Barwick CJ.</sentence>
+<sentence id="s779">210 The submission of NSI is based on the contention that if the products Phoscal Powder, Topocal C-5 or Dentacal have the integers in Claims 7, 10, 11, 13, 18 and 21 of the Complex Patent, then the claims are not fairly based because they claim products that include an amorphous calcium phosphate complex irrespective of the manner in which the phosphopeptides are derived.</sentence>
+<sentence id="s780">This argument requires an unduly narrow interpretation to be taken of the specification.</sentence>
+<sentence id="s781">I have rejected such an interpretation earlier in these reasons.</sentence>
+<sentence id="s782">In this case, the specification consistory clause on p 4 uses the language of Claim 7.</sentence>
+<sentence id="s783">The specification description reinforces this by stating that the phosphopeptides can be derived from any source.</sentence>
+<sentence id="s784">This reading is also that adopted by Dr McKinnon.</sentence>
+<sentence id="s785">In my view, the claims are fairly based.</sentence>
+<sentence id="s786">211 NSI also asserts that the claims are not clear and succinct.</sentence>
+<sentence id="s787">However, in my view, there is no real ambiguity or lack of clarity or succinctness, and the claims satisfy these criteria.</sentence>
+<sentence id="s788">TRADE PRACTICES CLAIMS 
+ 
+212 The University claims, as against some of the respondents, that they have engaged in misleading and deceptive conduct in contravention of s 52 of the Trade Practices Act 1974 (Cth) ("the TPA").</sentence>
+<sentence id="s789">The University also says that they have represented that goods and services have sponsorship, approval, or performance characteristics or benefits that they do not have in contravention of s 53(c) of the TPA.</sentence>
+<sentence id="s790">213 Some of the trade practices claims initially brought have now been resolved.</sentence>
+<sentence id="s791">The remaining issue concerns an allegation by the University that some of the NSI parties have made representations that scientific studies conducted in relation to Phoscal, Topacal and Dentacal, all of which have Phoscal as their active ingredient, show that the efficacy of these products is similar or equal to that of the University product known as Recaldent and a product known as "Tooth Mousse", which has Recaldent as its active ingredient.</sentence>
+<sentence id="s792">214 The University refers to authorities that support the proposition that there must be a basis in fact for comparative advertising and to publish comparative claims to ensure that the comparison is accurate: see Stuart v Alexander (1981) 37 ALR 161 at 163 per Lockhart J; Makita (Aust) Pty Ltd v Black &amp; Decker (A'asia) Pty Ltd (1998) 18 IPR 270 at 280; Duracell Australia Pty Ltd v Union Carbide Australia Ltd (1988) 14 IPR 293 at 299 per Burchett J.</sentence>
+<sentence id="s793">In Colgate Palmolive Pty Ltd v Rexona Pty Ltd (1981) 37 ALR 91, the Court held that it is misleading conduct to make comparative efficiency claims that imply they were made on a scientific basis when, in fact, there is no proper scientific basis for making those claims.</sentence>
+<sentence id="s794">That case related to a claim in respect of an ingredient in a toothpaste.</sentence>
+<sentence id="s795">A comparison may be misleading by omission of a material fact that would be necessary to render the comparison fair and it can be misleading for a corporation not to put forward sufficient information to dispel the possibility that a recipient may be misled.</sentence>
+<sentence id="s796">In some circumstances, it may be misleading to make a statement implying that there is an adequate foundation in scientific knowledge to justify it when, taken in context, the scientific statement does not provide a proper foundation, for example, see Sterling Winthrop Pty Ltd v Boots Co (Australia) Pty ltd (1995) 32 IPR 361 at 365 and the cases cited therein.</sentence>
+<sentence id="s797">215 The representations said to have been made in this case were to the effect that the products in question had an equivalent anti-caries effect or efficacy, were very similar and led to similar clinical outcomes.</sentence>
+<sentence id="s798">In addition, there were assertions concerning the relative dosages.</sentence>
+<sentence id="s799">The University says that the NSI parties have made an implied representation that they had in their possession adequate scientific research and data to support the representations.</sentence>
+<sentence id="s800">Professor Dawes, an oral biologist called for NSI, said that he understood this to be the premise of the assertions.</sentence>
+<sentence id="s801">He gave evidence that, as far as he was aware, no scientifically valid data had been published to support the representations made by the NSI parties.</sentence>
+<sentence id="s802">The NSI parties have not filed evidence in answer to the evidence of Professor Dawes, with the exception of an affidavit by Dr McIntosh that refers to the distribution of the documents in which the representations are said to have been made.</sentence>
+<sentence id="s803">Instead, the NSI parties rely on the context and contents of the statements.</sentence>
+<sentence id="s804">The NSI parties submit that in considering whether the representation may be misleading, it is necessary to consider the context in which the statement is made to determine whether it implies that there is an adequate foundation in scientific knowledge to enable it to be made.</sentence>
+<sentence id="s805">NSI says that it is necessary in considering the context to take into account the likely recipients of the information.</sentence>
+<sentence id="s806">216 Confidential Exhibit A is dated January 2004.</sentence>
+<sentence id="s807">On its face, it appears to be a promotion document of 48 pages in relation to Phoscal entitled "Introducing Phoscal".</sentence>
+<sentence id="s808">It refers to the Recaldent patents and the technology developed by Professor Reynolds.</sentence>
+<sentence id="s809">It explains the background of the companies that produce Phoscal, discusses the use of Phoscal and examines the difference between Phoscal and the products containing Recaldent.</sentence>
+<sentence id="s810">It refers to various trials of products containing Phoscal and the potential applications of Phoscal.</sentence>
+<sentence id="s811">It contains what are described as foam stability comparisons made at periods up to 20 minutes.</sentence>
+<sentence id="s812">It refers to a cost-efficiency commercial advantage over Recaldant and extols the benefits of Phoscal.</sentence>
+<sentence id="s813">It says that, according to one study, Phoscal is less anti-cariogenic than Recaldent.</sentence>
+<sentence id="s814">It refers to an approximate comparison between the products.</sentence>
+<sentence id="s815">The evidence does not establish the use of this document or the class or type of recipient.</sentence>
+<sentence id="s816">In the absence of knowing more about the document and its context and use, I am not persuaded that the evidence of Professor Dawes establishes that there is any misrepresentation, implied or express, in relation to the Phoscal or Recaldent products.</sentence>
+<sentence id="s817">217 The next document relied on is CD 12 which relates to the relative merits of Topacal C-5 and Tooth Mousse.</sentence>
+<sentence id="s818">It is dated 21 October 2003 and is an email from Dr McIntosh of NSI Dental to a Melbourne dentist.</sentence>
+<sentence id="s819">The email refers to the dentist requesting further information about why NSI believes that Topacal is effective over a longer period of time than Tooth Mousse.</sentence>
+<sentence id="s820">The email refers to photographs demonstrating the effects of Topacal that are described by Dr McIntosh as "quite convincing".</sentence>
+<sentence id="s821">There is a reference by Dr McIntosh to some supporting publications and a reference to the documents presenting some of the arguments.</sentence>
+<sentence id="s822">Having regard to the language used in the email and the references to "belief" and "argument", I do not consider this document is a misrepresentation.</sentence>
+<sentence id="s823">Rather, on its face, this document is in the nature of an argument or assertion.</sentence>
+<sentence id="s824">218 Exhibit CD 13 is an email from Dr McIntosh to a person named Naomi.</sentence>
+<sentence id="s825">It attaches a file showing a comparison of ingredients used in Topacal C-5 and Tooth Moose.</sentence>
+<sentence id="s826">It states that using the whole phosphoprotein is chemically simpler and less expensive than using only certain peptides extracted from the same protein, as Tooth Mousse does, and has the advantage of being more stable.</sentence>
+<sentence id="s827">It states that both approaches have their advantages and points them out.</sentence>
+<sentence id="s828">It refers to the comparative disadvantages of each product and states that the end result is that clinical outcomes are very similar but that Topacal C-5 is less expensive.</sentence>
+<sentence id="s829">The email is addressed to the addressee only.</sentence>
+<sentence id="s830">There is no suggestion in this document that there are scientific studies to validate the statements.</sentence>
+<sentence id="s831">The email is apparently in response to an enquiry about the difference between the two products and a balanced answer is given.</sentence>
+<sentence id="s832">In my view, there is nothing in this email that is misleading or deceptive or makes a false representation.</sentence>
+<sentence id="s833">219 Exhibit CD 14 is a fax from Dr McIntosh to a Dr Glenda Harris, which explains the similarities and differences between the products and the active ingredients, namely, Phoscal, as used in Topacal C-5, and Recaldant, as used in Tooth Mousse.</sentence>
+<sentence id="s834">It states that the products are very similar.</sentence>
+<sentence id="s835">Topacal C-5 is said to be more stable than Tooth Mousse but it is said that this not a hugely important point.</sentence>
+<sentence id="s836">In relation to what is identified as the real question, namely, whether or not the additional calcium phosphate has any clinical significance, the facsimile states that the "jury is still out" and points out there have been no "head-to-head" comparison studies.</sentence>
+<sentence id="s837">In my view, this fax does not make any false representation as to implied scientific validation of the advantages of the NSI Products and the active ingredient Phoscal.</sentence>
+<sentence id="s838">Exhibit CD 2 is a file note dated October 2003.</sentence>
+<sentence id="s839">It is in the same form as the previous document.</sentence>
+<sentence id="s840">It also states that the "jury is still out".</sentence>
+<sentence id="s841">220 The next document, Exhibit CD-15, is a note referring to Topacal C-5 and Tooth Mousse.</sentence>
+<sentence id="s842">The use of this document and the context is not apparent.</sentence>
+<sentence id="s843">It states that there have been no direct comparisons between Topacal C-5 and Tooth Moose but that both have been shown to be equivalent to sodium fluoride rinses in their ability to prevent caries.</sentence>
+<sentence id="s844">Again, there is no indication in this document, in my view, of any scientific validating study.</sentence>
+<sentence id="s845">221 The next document is Confidential Exhibit D, which was used by Dr McIntosh at a presentation to Pfizer Australia.</sentence>
+<sentence id="s846">There is no evidence as to the distribution of this document, the attendance at the presentation or whether the document was merely used as notes for an oral presentation.</sentence>
+<sentence id="s847">There is a comparative table setting out a summary of properties as between Recaldent and Phoscal.</sentence>
+<sentence id="s848">In some instances, such as increased remineralisation, Recaldent is stated to be better.</sentence>
+<sentence id="s849">In my view, this document is to be characterised as part of a sales pitch and there is no reference to scientific studies.</sentence>
+<sentence id="s850">The comparison table would be seen as an advertising and publicity assertion rather than a factual representation for which exists scientific backing or studies for the statements.</sentence>
+<sentence id="s851">222 Finally, Dr Dawes refers to Confidential Exhibit E. This is a series of slides and stability studies.</sentence>
+<sentence id="s852">In my view, these do not give rise to an implication that there are any scientific studies to support any representations that may be made by these slides.</sentence>
+<sentence id="s853">Accordingly, there is no misleading representation.</sentence>
+<sentence id="s854">223 I am not persuaded that, on the evidence available, the statements made were misleading or deceptive as to the qualities of the goods or as to the suggested implication that there was sound scientific backing for the assertions made in the documents.</sentence>
+<sentence id="s855">Accordingly, I dismiss the trade practices claims brought by the University.</sentence>
+<sentence id="s856">CONCLUSION 
+ 
+224 I am satisfied from the above reasoning and conclusions that the allegation of unjustified threats under s 128 of the Act has not been made out.</sentence>
+<sentence id="s857">I find that the complex patent is valid, that there has been an infringement of the claims, and that a case has been made out by the University for injunctive relief.</sentence>
+<sentence id="s858">I dismiss the claims of the University under the TPA and the Fair Trading legislation.</sentence>
+<sentence id="s859">I reject the false suggestion claim.</sentence>
+<sentence id="s860">I have not resolved the question of the appropriate parties and I wish to hear the parties further on that question when they have had a chance to consider these reasons.</sentence>
+<sentence id="s861">I direct the respondents to prepare and exchange Draft Short Minutes of Order to give effect to these reasons, to appoint a time for any further hearings and to make provision for further submissions on any outstanding questions.</sentence>
+<sentence id="s862">I certify that the preceding two hundred and twenty-four (224) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Tamberlin.</sentence>
+<sentence id="s863">Associate:
+
+Dated: 8 September 2006
+
+
+ Counsel for the Applicant: R Webb SC, 
+N R Murray 
+ 
+ Solicitor for the Applicant: Spruson &amp; Ferguson Lawyers 
+ 
+ Counsel for the Respondents: D Catterns QC
+S Burley 
+ 
+ Solicitor for the Respondents: Freehills 
+ 
+ Date of Hearing: 28-30 November 2005
+1 December, 5-8 December, and 14-15 December 2005 
+ 
+ Date of Judgment: 8 September 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1216.html 
+ 
+ </sentence>
+</sentences>
+</case>

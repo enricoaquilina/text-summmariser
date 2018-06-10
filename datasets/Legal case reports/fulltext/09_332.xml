@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<case>
+<name>Roadshow Films Pty Ltd v iiNet Limited [2009] FCA 332 (15 April 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/332.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">pleadings</catchphrase>
+<catchphrase "id=c1">summary judgment and strike out</catchphrase>
+<catchphrase "id=c2">requirements of 'no reasonable prospect of success'</catchphrase>
+<catchphrase "id=c3">whether a strike out is more appropriate than summary judgment</catchphrase>
+<catchphrase "id=c4">s 31a federal court of australia act 1976 (cth)</catchphrase>
+<catchphrase "id=c5">o 11 r 16 federal court rules (cth)</catchphrase>
+<catchphrase "id=c6">copyright</catchphrase>
+<catchphrase "id=c7">facts necessary to give rise to a claim of conversion</catchphrase>
+<catchphrase "id=c8">whether there is an 'infringing copy'</catchphrase>
+<catchphrase "id=c9">s 116 copyright act 1968 (cth)</catchphrase>
+<catchphrase "id=c10">costs</catchphrase>
+<catchphrase "id=c11">whether both parties were partially successful</catchphrase>
+<catchphrase "id=c12">whether costs should be awarded to a party</catchphrase>
+<catchphrase "id=c13">practice and procedure</catchphrase>
+<catchphrase "id=c14">intellectual property</catchphrase>
+<catchphrase "id=c15">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ BACKGROUND 
+ Factual Background
+ Before the Court are Notices of Motion filed by the applicants ('Roadshow') and the respondent ('iiNet').</sentence>
+<sentence id="s1">To understand the issues raised by such motions, it is necessary to describe the claims made by Roadshow against iiNet in the proceedings.</sentence>
+<sentence id="s2">Roadshow's Amended Statement of Claim ('ASOC') pleads that Roadshow has copyright in a large catalogue of cinematograph films, which include, but are not limited by, 86 identified films for which copyright is specifically pleaded (hereafter both catalogue and identified films will be referred to as the 'films').</sentence>
+<sentence id="s3">IiNet is a general purpose internet service provider.</sentence>
+<sentence id="s4">It is acknowledged that iiNet provides both internet services and ' listed carriage services ' within the meaning of s 7 of the Telecommunications Act 1997 (Cth).</sentence>
+<sentence id="s5">Roadshow alleges that subscribers or other users of iiNet use peer to peer software, such as that based on the BitTorrent protocol (which will be the software discussed in this judgment), and iiNet's internet facilities to download copies of Roadshow's films.</sentence>
+<sentence id="s6">The downloading occurs as a result of the electronic transmission of minute packets of data which can be assembled to make up a file containing a film.</sentence>
+<sentence id="s7">Having been downloaded, Roadshow claims that such films are made available from those iiNet users' computers and shared with the internet at large via iiNet's provision of internet facilities.</sentence>
+<sentence id="s8">Specifically, Roadshow alleges that infringement of copyright in its films results from any one or all of the acts specified below, each act of which uses iiNet's facilities for the purpose of transmission.</sentence>
+<sentence id="s9">Roadshow alleges, firstly, that the act of having a copy of a film stored on an iiNet user's computer which can be downloaded by other users of BitTorrent-based software constitutes an active infringement of Roadshow's copyright by that user since the film is being made available online.</sentence>
+<sentence id="s10">Secondly, by the transfer via iiNet's facilities of packets of data of a file containing a film in response to a request made between BitTorrent users, Roadshow claims such iiNet users communicate the film to the public thereby committing an act of infringement.</sentence>
+<sentence id="s11">Thirdly, having a copy of the film on an iiNet user's computer following its download in itself constitutes an act of infringement.</sentence>
+<sentence id="s12">Fourthly, Roadshow claims that iiNet has authorised each of such acts by its users.</sentence>
+<sentence id="s13">In support of its claims of copyright infringement, Roadshow relies upon evidence adduced by the Australian Federation Against Copyright Theft ('AFACT').</sentence>
+<sentence id="s14">The AFACT has retained the services of DtecNet Software APS ('DtecNet'), a company incorporated in Denmark, which undertakes the investigation of suspected unauthorised sharing and transfer of copyright files by users of peer to peer file sharing systems such as BitTorrent.</sentence>
+<sentence id="s15">An affidavit of Kristian L&oslash;kkegaard sworn on 25 February 2009 describes the DtecNet technology and its method of investigation.</sentence>
+<sentence id="s16">The affidavits of Aaron Guy Herps sworn on 9 December 2008 and 23 February 2009 and Gregory Donald Fraser sworn on 23 February 2009 explain the process that Mr Herps and Mr Fraser undertook to connect with BitTorrent users and to download copies of the films using iiNet's facilities.</sentence>
+<sentence id="s17">Roadshow claims that the evidence provided by DtecNet, which includes the dates and times of when the films were downloaded and the internet protocol addresses ('IP addresses') of the BitTorrent users from which those films are sourced, is sufficient to enable iiNet to identify which of their users are engaging in such conduct.</sentence>
+<sentence id="s18">Relevant Principles
+ Each Notice of Motions seeks, as primary relief, the making of orders striking out sections of the pleadings under O 11 r 16 of the Federal Court Rules (Cth) ('the Rules') or granting summary judgment under s 31A of the Federal Court of Australia Act 1976 (Cth) ('the Court Act') in relation to specific parts of the pleadings.</sentence>
+<sentence id="s19">Section 31A of the Court Act
+ Section 31A of the Court Act (s 31A) relatively provides: 
+ (1) The Court may give judgment for one party against another in relation to the whole or any part of the proceeding if:
+ (a) the first party is prosecuting the proceeding or that part of the proceeding; and
+ (b) the Court is satisfied that the other party has no reasonable prospect of successfully defending the proceeding or that part of the proceeding.</sentence>
+<sentence id="s20">(2) The Court may give judgment for one party against another in relation to the whole or any part of a proceeding if:
+ (a) the first party is defending the proceeding or that part of the proceeding; and
+ (b) the Court is satisfied that the other party has no reasonable prospect of successfully prosecuting the proceeding or that part of the proceeding.</sentence>
+<sentence id="s21">(3) For the purposes of this section, a defence or a proceeding or part of a proceeding need not be:
+ (a) hopeless; or
+ (b) bound to fail;
+ for it to have no reasonable prospect of success.</sentence>
+<sentence id="s22">
+ There has been a judicial difference of opinion in two recent decisions of the Full Court concerning the interpretation of s 31A: see Jefferson Ford Pty Ltd v Ford Motor Company of Australia Ltd and Others [2008] FCAFC 60 ; (2008) 167 FCR 372 and Wills v Australian Broadcasting Corporation (2009) 253 ALR 228.</sentence>
+<sentence id="s23">The test which was applied generally on an application for summary judgment prior to insertion of s 31A in the Court Act was that referred to in General Steel Industries Inc v Commissioner for Railways (N.S.W.</sentence>
+<sentence id="s24">) and Others [1964] HCA 69 ; (1964) 112 CLR 125.</sentence>
+<sentence id="s25">At 129 Barwick CJ determined the test to be applied where an application is made to strike out a claim.</sentence>
+<sentence id="s26">His Honour said: 
+ At times the test has been put as high as saying that the case must be so plain and obvious that the court can say at once that the statement of claim, even if proved, cannot succeed; or "so manifest on the view of the pleadings, merely reading through them, that it is a case that does not admit of reasonable argument" ; "so to speak apparent at a glance".</sentence>
+<sentence id="s27">
+ Section 31A of the Court Act has been said to impose a less stringent test than that described in General Steel Industries and may be understood to enable summary dismissal of unmeritorious matters: see Jewiss v Deputy Commissioner of Taxation (2006) 65 ATR 222 at [26] and Gordon J in Jefferson Ford at [124].</sentence>
+<sentence id="s28">Gordon J at [126] said that ' whether a proceeding or part of a proceeding has no reasonable prospects of success ' requires: 
+ 1. identification of the cause of action pleaded;
+ 2. identification of the pleaded facts said to give rise to that cause of action;
+ 3. a review of the evidence (if any) tendered in support of the claim for judgment;
+ 4. identification of the defence pleaded;
+ 5. identification of any facts pleaded which are said to give rise to the defence; and
+ 6. a review of the evidence (if any) tendered in defence of the claim.</sentence>
+<sentence id="s29">
+ Gordon J distinguished between ' hopeless ' cases and those ' without reasonable prospects of success .</sentence>
+<sentence id="s30">' Her Honour said (at [132]): 
+ By distinguishing between "hopeless" cases and those without reasonable prospects for success, the statute makes clear that the court need not (indeed, must not) refuse summary judgment on the basis of a factual dispute said to arise only from a plausible, as opposed to a reasonable, inference.</sentence>
+<sentence id="s31">
+ Despite some difference in the judicial approach of Finkelstein J and Gordon J in Jefferson Ford , the Court is prepared to follow the observations of Gordon J as providing a practical guide to the interpretation of s 31A of the Court Act.</sentence>
+<sentence id="s32">The conflict between Gordon J and Rares J in Jefferson Ford (see [129], [73]) and which was not resolved in Wills , relating to whether judges retain a general discretion to enter summary judgment under s 31A, is irrelevant to the current judgment, and accordingly it is unnecessary for the Court to consider the conflicting judicial opinions.</sentence>
+<sentence id="s33">The observations of French J in Fortron Automotive Treatments Pty Ltd v Jones (No 2) [2006] FCA 1401 at [19] - [21] are particularly useful in distinguishing between the requirements for a summary judgment under s 31A and a strike out as discussed below.</sentence>
+<sentence id="s34">His Honour observed that s 31A renders judgment, and is thus distinct from a strike out, which can be followed by the amendment of a pleading.</sentence>
+<sentence id="s35">Thus judgment should only be entered where no amendment of pleadings or particulars is possible, that is, where there is a defect in the pleadings which cannot be cured.</sentence>
+<sentence id="s36">Order 11 rule 16 of the Rules
+ Order 11 rule 16 of the Rules provides: 
+ Where a pleading&#8722;
+ (a) discloses no reasonable cause of action or defence or other case appropriate to the nature of the pleading;
+ (b) has a tendency to cause, prejudice, embarrassment or delay in the proceeding; or
+ (c) is otherwise an abuse of the process of the Court,
+ the Court may at any stage of the proceeding order that the whole or any part of the pleading be struck out.</sentence>
+<sentence id="s37">
+ The application of O 11 r 16 should now be considered in the light of the principles discussed in relation to s 31A: see Commonwealth Bank of Australia (ACN 123 123 124) v ACN 000 247 601 Pty Ltd (in liq) (formerly Stanley Thompson Valuers) [2006] FCA 1416 at [11] , namely that a proceeding need not be hopeless or bound to fail before the Court can strike out a pleading or part of a pleading.</sentence>
+<sentence id="s38">In deciding whether to strike out, the Court must have regard to the adequacy of the pleading and must take the evidence at its highest.</sentence>
+<sentence id="s39">That is, the Court must assess the pleadings as if the facts alleged are true: see ACCC v Alice Car &amp; Truck Rentals Pty Ltd (unreported, O'Loughlin J, 5 March 1997).</sentence>
+<sentence id="s40">The Court should err on the side of striking out rather than giving summary judgment where the underlying complaint of a pleading supports a reasonable cause of action, although the pleading itself has deficiencies: see Kowalski v MMAL Staff Superannuation Fund Pty Ltd (No 2) [2008] FCA 691 at [1] .</sentence>
+<sentence id="s41">ISSUES NOW AGREED 
+ Quantum of Pecuniary relief
+ The first paragraph of Roadshow's Notice of Motion sought an order that, pursuant to O 29 r 2 of the Rules, the ' issues relating to the quantum of pecuniary relief be heard and determined separately from and after all other issues '.</sentence>
+<sentence id="s42">Since the filing of the Notice of Motion, iiNet has informed Roadshow that it will not oppose the making of such an order.</sentence>
+<sentence id="s43">As the Court considers that it is appropriate that the issues of liability and the question of damages be separated, the Court will make such orders to separate liability from quantum of pecuniary relief such as occurred in Universal Music Australia Pty Ltd and Others v Sharman Licence Holdings Ltd and Others [2005] FCA 1242 ; 65 IPR 289 at 295 (' Kazaa ') and Universal Music Australia Pty Ltd and Others v Cooper and Others [2005] FCA 972 ; (2005) 150 FCR 1 at [148] .</sentence>
+<sentence id="s44">Sufficiency of certain paragraphs of iiNet's Defence
+ Paragraphs two and three of Roadshow's Notice of Motion relate to the sufficiency of iiNet's Defence and particulars thereto in relation to the acts (as alleged in paragraph 59 of the ASOC) of iiNet's users in making copies; electronically transmitting copies; and making available online copies of films in respect of which Roadshow claims copyright.</sentence>
+<sentence id="s45">In the hearing of the Notice of Motion, Roadshow narrowed the number of paragraphs of iiNet's Defence that it sought to have struck out to paragraphs 59, 62, 63(l) and 63(m).</sentence>
+<sentence id="s46">Paragraphs 59 and 62 will now be considered, while the latter two paragraphs will be addressed later in the judgment.</sentence>
+<sentence id="s47">IiNet, in answer to the allegations in paragraph 59 of the ASOC, does not admit such allegations and states in the Particulars to paragraph 59 of its Defence: 
+ iiNet is unable to plead in any further detail to paragraph 59 of the Statement of Claim in the absence of further particulars and evidence of the alleged acts of users of iiNet's Services, including the operation of DtecNet.</sentence>
+<sentence id="s48">
+ Roadshow sought an order that such defence be struck out pursuant to O 11 r 16 of the Rules.</sentence>
+<sentence id="s49">Roadshow also sought an order that paragraph 62 of the Defence be struck out on the same basis.</sentence>
+<sentence id="s50">By paragraph 62 of its Defence, iiNet does not admit Roadshow's claim of infringement of the copyright in the films, and raises the same response under the heading of 'Particulars' as appears in paragraph 59 of the Defence.</sentence>
+<sentence id="s51">The issue concerning paragraphs 59 and 62 has been resolved.</sentence>
+<sentence id="s52">IiNet undertook during the hearing of the Notice of Motion to provide a statement of the nature of the case both in fact and law upon which it relied in support of such paragraphs.</sentence>
+<sentence id="s53">Such a statement was filed by iiNet on 9 April 2009.</sentence>
+<sentence id="s54">Paragraphs one and two of iiNet's Notice of Motion
+ In paragraph one and two of its motion, iiNet claimed that the breach of copyright alleged in paragraph 59(a) and (b) of the ASOC stated that iiNet users made available and electronically transmitted films ' to other persons ' rather than ' to the public' as is required to constitute an offence under s 86(c) of the Copyright Act 1968 (Cth).</sentence>
+<sentence id="s55">Despite several requests to clarify the pleading, iiNet says that it was only recently that consensus was reached with Roadshow as to the meaning of such phrase.</sentence>
+<sentence id="s56">The parties now agree that the pleading is intended to mean ' to the public '.</sentence>
+<sentence id="s57">The Court also notes that the phrase ' to the public ' is now used in the Amended Particulars to the ASOC ('Amended Particulars').</sentence>
+<sentence id="s58">Accordingly, paragraphs one and two of iiNet's Notice of Motion are no longer in issue.</sentence>
+<sentence id="s59">Paragraph 17 of the Application and Paragraphs 76 and 77 of the ASOC
+ IiNet, by paragraph three of its Notice of Motion, sought to have paragraph 17 struck out of the Application.</sentence>
+<sentence id="s60">Such paragraph seeks an order requiring iiNet to ' take all reasonable steps to disable access to any online location outside Australia, which access is provided by means of the iiNet Internet Services, containing copies of the whole or substantial part of any of the ' films.</sentence>
+<sentence id="s61">By paragraph four of its Notice of Motion, iiNet sought that paragraphs 76 and 77 of the ASOC be struck out.</sentence>
+<sentence id="s62">Such paragraphs relate to similar injunctive relief as that discussed in paragraph 17 of the Application.</sentence>
+<sentence id="s63">IiNet informed the Court during the hearing of its Notice of Motion that following the provision of the Amended Particulars it no longer presses these motions.</sentence>
+<sentence id="s64">THE AMENDED STATEMENT OF CLAIM 
+ Paragraph 60 --- Copying to DVD and other storage media
+ By paragraph eight of its Notice of Motion, iiNet seeks to have paragraph 60 of the ASOC struck out.</sentence>
+<sentence id="s65">Paragraph 60 of the ASOC alleges that iiNet users, having made copies of the films, have made further copies of films on physical DVD format or other physical storage media for the purpose of watching, storing or distributing those films.</sentence>
+<sentence id="s66">The Amended Particulars contain details of the date and the period in respect of which such conduct is said to have occurred.</sentence>
+<sentence id="s67">IiNet submits that no particulars of any single instance of such conduct have been supplied.</sentence>
+<sentence id="s68">IiNet refers to O 58 r 16 of the Rules which applies in relation to Copyright Act alleged infringements: 
+ Applications under Copyright Act (infringements) 
+ In proceedings for infringement of copyright, particulars of the infringement must specify the manner in which the copyright is alleged to be infringed and must give at least one instance of each type of infringement alleged.</sentence>
+<sentence id="s69">
+ Roadshow responds that the evidence of such occurrences are contained in the affidavits of Mr Herps, Mr Fraser and Neil Kevin Gane, a consultant to the AFACT, in his affidavit sworn on 24 February 2009.</sentence>
+<sentence id="s70">In its Amended Particulars, Roadshow has furnished iiNet with the web addresses or 'URLs' pertaining to conversations on web discussion forums.</sentence>
+<sentence id="s71">Such conversations record interchanges of ideas concerning the making of DVDs from downloaded copies of films.</sentence>
+<sentence id="s72">Such evidence is relied upon by Roadshow to demonstrate that the practice of making DVDs of downloaded films is notorious.</sentence>
+<sentence id="s73">However, iiNet submits that the acts of Mr Herps and Mr Fraser referred to in their affidavits were carried out pursuant to s 104 of the Copyright Act which provides that copyright is not infringed by acts done for the purpose of a judicial proceeding.</sentence>
+<sentence id="s74">IiNet submits that since such evidence was obtained under the protection of s 104 , the acts relied upon could not constitute infringements and that such acts are the only instances of actual infringement which Roadshow has elicited in relation to the paragraph 60 claim.</sentence>
+<sentence id="s75">Accordingly, such evidence does not constitute examples of infringement which iiNet could have sanctioned.</sentence>
+<sentence id="s76">In the alternative, iiNet says that it must be inferred that the conduct of Messrs Herps and Fraser in their investigation took place with the permission or the licence of the copyright owners.</sentence>
+<sentence id="s77">Accordingly, such activities could not be said to be instances of infringement.</sentence>
+<sentence id="s78">In relation to the claim that the practice of making copies of films onto DVDs or other storage devices is notorious, iiNet argues that the conversations on discussion forums were conducted by unidentified persons in different countries under different copyright regimes and are accordingly irrelevant.</sentence>
+<sentence id="s79">The Court considers that the evidence of Mr Herps and Mr Fraser could prove to be instances of the infringement of copyright in the films.</sentence>
+<sentence id="s80">Even if such evidence is not sufficient to establish the actual acts of infringement by them, such evidence may be sufficient to enable Roadshow to argue that inferences should be drawn that the conduct complained of in paragraph 60 of the ASOC is occurring.</sentence>
+<sentence id="s81">For this reason the Court is not satisfied that there is a basis for determining that the claim pleaded discloses no reasonable cause of action and will not strike out paragraph 60.</sentence>
+<sentence id="s82">In arriving at such conclusion, the Court is mindful that if the evidence of Roadshow proves inadequate to satisfy the requisite burden of proof, such claim will fail.</sentence>
+<sentence id="s83">Accordingly, the Court rejects the application to strike out paragraph 60 of the ASOC.</sentence>
+<sentence id="s84">Paragraphs 67A to 67E and 67F of the ASOC --- The conversion and primary infringement claim
+ As to the claim for conversion referred to in paragraphs 67A to 67E of the ASOC, iiNet seeks orders as contained in paragraphs five to seven of its Notice of Motion, that such claim be struck out or alternatively that judgment be entered pursuant to s 31A in relation to that portion of the claim which is raised by those paragraphs and in respect of which relief is claimed in paragraph 22 of the Application, namely damages pursuant to s 116(1A) of the Copyright Act .</sentence>
+<sentence id="s85">Paragraphs 67A to 67E allege that iiNet should be found liable for conversion of 'infringing copies' of the films or a substantial part of the films pursuant to s 116 of the Copyright Act .</sentence>
+<sentence id="s86">IiNet submits that the claim is insufficiently particularised because no specific instances of the underlying infringement are provided.</sentence>
+<sentence id="s87">IiNet also claims there must be a pleading of a deemed ownership in the hands of the copyright owner of the article that is said to be converted, and an allegation of an intentional act of conversion.</sentence>
+<sentence id="s88">It submits that the mere fact of transmission of minute portions of files containing the films by way of electronic impulses through the iiNet facilities cannot constitute conversion and that an unparticularised and inadequately pleaded claim of conversion should not be permitted, especially when it would raise new issues and potentially prejudice the hearing date allocated for the trial.</sentence>
+<sentence id="s89">IiNet relies upon the principles referred to in Oakley v Lyster [1931] 1 KB 148 at 153 in support of its contention that the tort of conversion involves deliberate intent.</sentence>
+<sentence id="s90">The principles concerning conversion under s 116 have been considered recently by the Full Court in Venus Adult Shops Pty Ltd and Others v Fraserside Holdings Ltd and Another [2006] FCAFC 188 ; (2006) 157 FCR 442 at [85] to [94].</sentence>
+<sentence id="s91">At [88] the Full Court said: 
+ The essence of conversion is interference with a right of possession.</sentence>
+<sentence id="s92">It is nevertheless properly described as a "varied and somewhat amorphous tort" serving two distinct functions.</sentence>
+<sentence id="s93">One function is tortious, whereby it compensates a person deprived of the use of goods.</sentence>
+<sentence id="s94">However it also acts as a "surrogate for the Roman vindicatio ; that is, in order to give a dispossessed owner the means to recover his goods in specie , or if that is not appropriate their market value" &#8722; Tettenborn, Wiley and Bennett; The Law of Damages (LexisNexis UK, 2003) p 294.</sentence>
+<sentence id="s95">The conduct which may constitute conversion is diverse.</sentence>
+<sentence id="s96">It has been said to include:
+ (i) refusal to return;
+ (ii) taking;
+ (iii) receipt;
+ (iv) disposal or deprivation of title;
+ (v) destruction;
+ (vi) loss as a bailee;
+ (vii) keeping.</sentence>
+<sentence id="s97">The diversity of that list raises questions about the universal appropriateness of a "market value" approach to the assessment of damages &#8722; Tettenborn A, "Damages in Conversion: the Exception or the Anomaly" (1993) 52 CLJ 128.</sentence>
+<sentence id="s98">
+ In International Writing Institute Inc v Rimala Pty Ltd and Another (1995) 57 FCR 135 the Full Court said (at 139): 
+ Conversion occurs when goods are dealt with in a manner inconsistent with the rights of the owner, but this must be clear... Whilst it is possible that conversion occurs at some different point...the sale of the goods will, generally speaking, provide the necessary certainty.</sentence>
+<sentence id="s99">
+ Crucially, in relation to s 116 of the Copyright Act , the conduct referred to in paragraphs 67A to 67E attaches to conversion of an ' infringing copy '.</sentence>
+<sentence id="s100">The term ' infringing copy ' is relevantly defined in s 10 of the Copyright Act to mean ' a copy of the film... being an article (which may be an electronic reproduction or copy of the...film) the making of which constituted an infringement of the copyright in the...film '.</sentence>
+<sentence id="s101">The word ' copy ' is defined to mean ' any article or thing in which visual images or sounds comprising the film are embodied '.</sentence>
+<sentence id="s102">Findings relating to the conversion claim
+ For the reasons considered hereunder, the Court concludes that the existing pleadings are deficient.</sentence>
+<sentence id="s103">Roadshow relies on the instances of infringement pleaded in paragraph 59 of the ASOC regarding the alleged infringement of iiNet users as constituting the basis for its claim for conversion.</sentence>
+<sentence id="s104">Specifically, Roadshow relies upon its claim that iiNet users ' electronically transmitted ' the whole or substantial parts of the films to other BitTorrent users which, according to Roadshow's logic, must be sufficient to give rise to an ' infringing copy ' for the purposes of a conversion by iiNet.</sentence>
+<sentence id="s105">It does not follow from the fact that the Court may find that the iiNet users have ' electronically transmitted ' the films that the Court will necessarily have to find that the data so transmitted constitutes an ' infringing copy .</sentence>
+<sentence id="s106">' For example, the Court could find as a fact that the users have ' electronically transmitted ' the whole or substantial part of the films by reference only to the conduct of the users without the Court having to consider the involvement of the technical process by which that transmission occurs.</sentence>
+<sentence id="s107">In such instance, the Court's finding in relation to the conduct of the iiNet users may have no bearing on whether it finds that the data transmitted is, while in transmission, a copy of the film as defined, meaning an article or thing in which the visual images or sounds comprising the film are embodied.</sentence>
+<sentence id="s108">The data would need to be a copy for it to constitute an infringing copy, and there would have to be an infringing copy for there to be conversion.</sentence>
+<sentence id="s109">In summary, even if the Court finds that there have been instances of infringement by iiNet's users, this will not necessarily lead to the conclusion that such conduct will result in the creation of an instance of an ' infringing copy '.</sentence>
+<sentence id="s110">Consequently, it is insufficient for Roadshow to merely refer back to its pleadings in relation to the alleged actions of iiNet's users to constitute an arguable claim of conversion.</sentence>
+<sentence id="s111">Roadshow submits that paragraph 57(h) of iiNet's Defence, in which iiNet pleads that it carried out a ' Category A activity ' for the purposes of 'safe harbour' provisions in Division 2AA of Part V of the Copyright Act , provides the particulars necessary for paragraph 67A of Roadshow's pleading in the claim of conversion.</sentence>
+<sentence id="s112">However, the mere fact that iiNet claims to have provided the facilities described in paragraph 57(h) of its Defence does not inexorably lead to the conclusion that, taken with any infringement by iiNet's users as described in the paragraph above, iiNet must have dealt with an ' infringing copy ' for the purposes of a conversion claim.</sentence>
+<sentence id="s113">The wording of s 116AC of the Copyright Act , when read with s 116AB refers, relevantly, to the provision of the facilities for ' transmitting, routing or providing connections for ' a cinematograph film.</sentence>
+<sentence id="s114">Section 116AC does not state and it does not follow that while being transmitted the data must be a copy such to constitute an ' infringing copy ' for a conversion claim.</sentence>
+<sentence id="s115">Additionally, mention must also be made of the phrase ' intermediate and transient storage of [cinematograph films] in the course of transmission, routing or provision of connections' contained in s 116AC of the Copyright Act .</sentence>
+<sentence id="s116">If iiNet has stored cinematograph films in a similar fashion to their users (albeit for a ' transient ' time) in the course of ' transmitting, routing or providing connections ' such fact appears to raise quite a different issue to that which is considered at [43] above.</sentence>
+<sentence id="s117">Roadshow appears to claim that both the transmission of data and the storage of data constitute 'infringing copies', but the facts alleged in paragraphs 67A and 67B of the ASOC do not draw sufficient distinction between the separate conduct alleged to result in the creation of 'infringing copies.</sentence>
+<sentence id="s118">' The claims are distinct, and require a clear statement of the facts relied upon to support each claim.</sentence>
+<sentence id="s119">The facts relied upon by Roadshow must therefore be distinctly pleaded in respect of both the aspect of transmission and/or storage.</sentence>
+<sentence id="s120">As has been shown, the facts on which Roadshow relies, even if proved, may not necessarily give rise to a valid conversion claim.</sentence>
+<sentence id="s121">Having said that, and though the claim in conversion is novel, none of the foregoing is to suggest that the claim has no reasonable prospects of success or that there is no reasonable cause of action.</sentence>
+<sentence id="s122">Rather than strike out 67A to 67E or enter judgment on this issue, the Court will require Roadshow to amend the conversion claim to specify exactly what the 'infringing copies' are; how they are created; and at least one instance of them, as is required by O 58 r 16 of the Rules.</sentence>
+<sentence id="s123">Relying upon the observations in Oakley v Lyster , iiNet has also submitted that conversion is an intentional tort, and Roadshow's pleadings relating to this cause of action are thereby deficient for failing to plead this integer.</sentence>
+<sentence id="s124">Such contention raises the question whether intentional dealing with the property of Roadshow is an integral requirement of the tort of conversion.</sentence>
+<sentence id="s125">As such contention is arguable, the Court concludes that to strike out the pleading on the basis that intentional dealing is not pleaded or to arrive at an interlocutory judgment on such question is inappropriate.</sentence>
+<sentence id="s126">This issue will require detailed argument at the hearing.</sentence>
+<sentence id="s127">Paragraph 67F of the ASOC --- primary infringement claim
+ In addition to Roadshow's claim that the iiNet users have infringed copyright in the films and that iiNet has authorised such conduct, Roadshow relies upon some of the same paragraphs as the conversion claim in support of a claim that iiNet itself has infringed the copyright in the films ('primary infringement').</sentence>
+<sentence id="s128">The fact that paragraph 67F refers only to paragraph 67B(b) for such claim, together with the Amended Particulars, suggests that Roadshow alleges the primary infringement claim only arises from the data which is stored transiently in iiNet's facilities and which was discussed at [46] of this judgment, and not the transmission of such data.</sentence>
+<sentence id="s129">The issues the Court has raised regarding the definition of ' infringing copy ', and whether that could apply on the facts pleaded, do not arise in relation to this claim.</sentence>
+<sentence id="s130">If it is found that there was transient storage of the whole or substantial part of the films, this may give rise to there being a ' copy ' for the purposes of s 86(c) of the Copyright Act , and consequently the problems discussed above in relation to ' electronic transmission ' do not apply.</sentence>
+<sentence id="s131">The Court finds no deficiency in the pleading of the primary infringement claim.</sentence>
+<sentence id="s132">Separate hearings
+ The Court now considers iiNet's claim in paragraph nine of its Notice of Motion for a separate determination of the issues relating to the 86 identified films from the other films in the catalogue of Roadshow.</sentence>
+<sentence id="s133">As stated earlier, Roadshow pleads that it has a large catalogue of cinematograph films, which include, but are not limited by, the identified films for which copyright is specifically pleaded.</sentence>
+<sentence id="s134">Roadshow has suggested in correspondence with iiNet that it does not intend to add any more titles to the list of identified films.</sentence>
+<sentence id="s135">IiNet submits that such indication has the consequence that all subsequent hearings should be confined to the identified films.</sentence>
+<sentence id="s136">Roadshow responds that iiNet's claim, if upheld, could limit injunctive and other relief to which Roadshow would be entitled regarding the whole of the catalogue, not just the identified films.</sentence>
+<sentence id="s137">The relief sought by Roadshow extends not merely to the films which are specifically identified since these may not be current at the time proceedings are determined.</sentence>
+<sentence id="s138">If Roadshow establishes an infringement of copyright in the 86 films, such finding may provide a basis to extend any injunctive relief to the whole film catalogue.</sentence>
+<sentence id="s139">Such an order was made in Kazaa at 94 and Universal Music Pty Ltd v Cooper [2005] FCA 1878 , in proceedings which are not dissimilar to the current proceedings.</sentence>
+<sentence id="s140">The Court considers that it would not be appropriate for the hearing to be limited only to the 86 identified films, and accordingly rejects iiNet's motion.</sentence>
+<sentence id="s141">ROADSHOW'S MOTION 
+ Paragraph 63 of the Defence --- Adequacy of iiNet's Defence
+ Roadshow, by paragraph three of its Notice of Motion, seeks to have paragraph 63(l) of the Defence struck out.</sentence>
+<sentence id="s142">Paragraph 63 of the ASOC alleges, inter alia, that iiNet took no action to cause the alleged infringements of copyright by iiNet's users to cease.</sentence>
+<sentence id="s143">Paragraph 63(l) of the Defence which responds in part to such claim states that notifications made by the AFACT to iiNet, using data collected by DtecNet of allegedly infringing iiNet users, ' were mere allegations of copyright infringement '.</sentence>
+<sentence id="s144">Roadshow submits that the statement that the notifications constitute ' mere allegations ' uses terminology which is not a term of art, nor is it found in the copyright legislation.</sentence>
+<sentence id="s145">The Court has no difficulty in understanding such pleading as being a statement that the AFACT notifications did no more than bring to iiNet's attention an allegation of copyright infringement.</sentence>
+<sentence id="s146">Whether the notifications from DtecNet of alleged infringement are sufficient to prove infringement by iiNet's users or might be used as evidence that iiNet was aware of the infringement of its users is necessarily a matter requiring evidence and thus is a matter for determination at the hearing.</sentence>
+<sentence id="s147">So considered, there is nothing further which needs to be added to the pleading.</sentence>
+<sentence id="s148">The Court rejects Roadshow's assertion that such statement is inadequate.</sentence>
+<sentence id="s149">Roadshow seeks to strike out paragraph 63(m) of the Defence.</sentence>
+<sentence id="s150">It states that: 
+ AFACT (on behalf of the applicants) did not, and continues not to, provide sufficient information to demonstrate the veracity of the allegations or to allow iiNet to verify the allegations 
+
+Roadshow submits that iiNet has available all the particulars it needs to make a more meaningful response.</sentence>
+<sentence id="s151">The Court is unable to find any deficiency in paragraph 63(m).</sentence>
+<sentence id="s152">The Court treats it as building upon paragraph 63(l) and finds that it is merely an allegation that iiNet cannot verify the allegations contained within the AFACT notifications.</sentence>
+<sentence id="s153">It is a matter for Roadshow to establish that such notifications could be verified rather than iiNet having to prove that it cannot verify such allegations.</sentence>
+<sentence id="s154">Such matters, requiring evidence, are necessarily matters for the hearing.</sentence>
+<sentence id="s155">Accordingly, Roadshow's challenge to paragraph 63(m) of the Defence fails.</sentence>
+<sentence id="s156">Outstanding particulars
+ The Court notes that iiNet has now provided a statement dealing with certain issues raised by Roadshow relating to iiNet's Defence.</sentence>
+<sentence id="s157">If such statement proves to be inadequate for the purposes of Roadshow, the Court will entertain an application under O 12 r 5(1)(b) of the Rules relating to any remaining unresolved pleading issues.</sentence>
+<sentence id="s158">COSTS 
+ Each party has made submissions concerning the costs of their motions.</sentence>
+<sentence id="s159">Roadshow submits that it should be entitled to its costs since it was only on the day preceding the hearing of the motion that the first paragraph in its Notice of Motion was consented to, namely that there be a separation of a hearing on quantum from liability.</sentence>
+<sentence id="s160">As to the second and third paragraphs of its Notice of Motion, Roadshow relies upon the fact that it was agreed at the hearing of the motions that iiNet will provide a statement in relation to paragraphs 59 and 62 leaving only 63(l) and 63(m) to the Court's determination.</sentence>
+<sentence id="s161">Accordingly, Roadshow submits that it has been partially successful in its motion.</sentence>
+<sentence id="s162">The Court has noted the submission of iiNet that upon receipt of the Amended Particulars on 19 March 2009 it was prepared to concede that a separate trial would be appropriate.</sentence>
+<sentence id="s163">However, the Court notes the submissions of Roadshow that such statement had no bearing upon the question of separate trials.</sentence>
+<sentence id="s164">IiNet submits that it has been to a degree successful in its motion.</sentence>
+<sentence id="s165">In relation to the claim for conversion, the Court will direct Roadshow to amend that portion of the ASOC.</sentence>
+<sentence id="s166">Accordingly, it has been partially successful in relation to that aspect of its motion, but it has not succeeded in relation to the other issues.</sentence>
+<sentence id="s167">Pursuant to s 43 of the Court Act, the Court has an unfettered general discretion in respect of the award of costs, provided that such discretion is exercised judicially: see Ruddock and Others v Vardarlis and Others (No 2) (2001) 115 FCR 229 at [9].</sentence>
+<sentence id="s168">The general rule is that costs follow the event: see Ruddock at [11].</sentence>
+<sentence id="s169">In AWB Ltd v Honourable Terrance Rhoderic Hudson Cole (No 6) [2006] FCA 1274 , Young J, at [16]-[17], ordered each party to pay their own costs, given that each had achieved a ' substantial measure of success '.</sentence>
+<sentence id="s170">His Honour could not find that either party could be considered the ' successful litigant '.</sentence>
+<sentence id="s171">The Court considers that the outcome of each party's motion is similar to that referred to by Young J.</sentence>
+<sentence id="s172">While Roadshow has been successful in respect of more issues on its motion than has iiNet, iiNet has been able to provide some reasons to justify its conduct in relation to the issues which Roadshow was successful.</sentence>
+<sentence id="s173">Further, while the Court has not upheld iiNet's desire to strike out the conversion claim, iiNet has persuaded the Court to make an order requiring Roadshow to amend such claim.</sentence>
+<sentence id="s174">Such finding constituted a partial victory on a significant issue which was argued at some length in the hearing of the motions.</sentence>
+<sentence id="s175">Taking into consideration the broad discretion bestowed upon the Court in relation to costs; the interlocutory nature of the judgment; and the fact that both Roadshow and iiNet have been partially successful in their motions put before the Court, the Court orders that each party pay its own costs of the motions.</sentence>
+<sentence id="s176">I certify that the preceding sixty-five (65) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Cowdroy.</sentence>
+<sentence id="s177">Associate:
+ 
+ 
+Dated: 15 April 2009
+ 
+ Counsel for the Applicants: Mr Bannon SC with Mr Dimitriadis 
+ 
+ Solicitor for the Applicants: Gilbert + Tobin 
+ 
+ Counsel for the Respondent: Mr Cobden SC with Mr Murray and Ms Beaumont 
+ 
+ Solicitor for the Respondent: Herbert Geer 
+ Date of Hearing: 25 March 2009 
+ 
+ Date of Judgment: 15 April 2009 
+ 
+ SCHEDULE 1 
+ 
+ 
+ UNIVERSAL CITY STUDIOS LLLP 
+Second Applicant
+ 
+ PARAMOUNT PICTURES CORPORATION 
+Third Applicant
+ 
+ WARNER BROS. ENTERTAINMENT INC. 
+Fourth Applicant
+ 
+ DISNEY ENTERPRISES, INC. 
+Fifth Applicant
+ 
+ COLUMBIA PICTURES INDUSTRIES, INC 
+Sixth Applicant
+ 
+ TWENTIETH CENTURY FOX FILM CORPORATION 
+Seventh Applicant
+ 
+ PARAMOUNT HOME ENTERTAINMENT (AUSTRALASIA) PTY LTD 
+Eighth Applicant
+ 
+ BUENA VISTA HOME ENTERTAINMENT, INC 
+Ninth Applicant
+ 
+ TWENTIETH CENTURY FOX FILM CORPORATION (AUSTRALIA) PTY LTD 
+Tenth Applicant
+ 
+ UNIVERSAL PICTURES (AUSTRALIA) PTY LTD 
+Eleventh Applicant
+ 
+ VILLAGE ROADSHOW FILMS (BVI) LTD 
+Twelfth Applicant
+ 
+ UNIVERSAL PICTURES INTERNATIONAL B.V 
+Thirteenth Applicant
+ 
+ UNIVERSAL CITY STUDIOS PRODUCTIONS LLLP 
+Fourteenth Applicant
+ 
+ RINGERIKE GMBH &amp; CO KG 
+Fifteenth Applicant
+ 
+ INTERNATIONALE FILMPRODUKTION BLACKBIRD VIERTE GMBH &amp; CO KG 
+Sixteenth Applicant
+ 
+ MDBF ZWEITE FILMGESELLSCHAFT MBH &amp; CO KG 
+Seventeenth Applicant
+ 
+ INTERNATIONALE FILM PRODUCKTION RICHTER GMBH &amp; CO KG 
+Eighteenth Applicant
+ 
+ NBC STUDIOS, INC 
+Nineteenth Applicant
+ 
+ DREAMWORKS FILMS L.L.C 
+Twentieth Applicant
+ 
+ WARNER BROS INTERNATIONAL TELEVISION DISTRIBUTION INC 
+Twenty-First Applicant
+ 
+ TWENTIETH CENTURY FOX HOME ENTERTAINMENT INTERNATIONAL CORPORATION 
+Twenty-Second Applicant
+ 
+ WARNER HOME VIDEO PTY LTD 
+Twenty-Third Applicant
+ 
+ PATALEX III PRODUCTIONS 
+Twenty-Fourth Applicant
+ 
+ LONELY FILM PRODUCTIONS GMBH &amp; CO KG 
+Twenty-Fifth Applicant
+ 
+ SONY PICTURES ANIMATION INC 
+Twenty-Sixth Applicant
+ 
+ UNIVERSAL STUDIOS B.V. 
+Twenty-Seventh Applicant
+ 
+ SONY PICTURES HOME ENTERTAINMENT PTY LTD 
+Twenty-Eighth Applicant
+ 
+ GH ONE LLC 
+Twenty-Ninth Applicant
+ 
+ GH THREE LLC 
+Thirtieth Applicant
+ 
+ BEVERLY BLVD LLC 
+Thirty-First Applicant
+ 
+ WARNER BROS ENTERTAINMENT AUSTRALIA PTY LTD 
+Thirty-Second Applicant
+ 
+ TWENTIETH CENTURY FOX HOME ENTERTAINMENT LLC 
+Thirty-Third Applicant
+ 
+ SEVEN NETWORK (OPERATIONS) LTD 
+Thirty-Fourth Applicant
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/332.html 
+ 
+ </sentence>
+</sentences>
+</case>

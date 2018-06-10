@@ -1,0 +1,392 @@
+
+<DOC>
+<DOCNO> FBIS4-20436 </DOCNO>
+<HT>    "jpcst004___94006" </HT>
+
+
+<HEADER>
+<AU>   JPRS-CST-94-004 </AU>
+JPRS 
+Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  China </ABS>
+<DATE1>   1 April 1994 </DATE1>
+<F P=100> Aerospace </F>
+<H3> <TI>   Prospects for Satellite Remote Sensing in Oceanography </TI></H3>
+<HT><F P=107><PHRASE>    Prospects for Satellite Remote Sensing in Oceanography </PHRASE></F></HT>
+
+
+<TEXT>
+Outlined 
+
+<F P=102>   94FE0205B Beijing ZHONGGUO HANGTIAN [AEROSPACE CHINA] in 
+Chinese No 10, Oct 93 pp 8-11 </F>
+
+<F P=103> 94FE0205B </F>
+<F P=104>  Beijing ZHONGGUO HANGTIAN [AEROSPACE CHINA] </F>
+<F P=105>  Chinese </F>
+CSO 
+
+<F P=106> [Article by Wu Peizhong [0702 1014 0022]] </F>
+  [Excerpts] 
+<H5>  I. Introduction </H5>
+  In oceanography, the most important issues are to recognize 
+the different phenomena that occur on the ocean surface and to 
+have a good understanding of the available resources in the 
+ocean. These are also the objectives of ocean monitoring and 
+surveillance. The traditional approaches for ocean monitoring 
+and surveillance involve the use of surveillance ships, 
+observation stations, ocean buoys, etc., to collect data that 
+reflect the ocean environment and resources. However, these 
+approaches are expensive, time-consuming and can only cover a 
+limited area; consequently, they are not suited for wide-area, 
+real-time, synchronous, continuous and dense observations. 
+  Because of the immense dimensions and constant motion of the 
+ocean, space-borne remote sensors have distinct advantages over 
+other monitoring techniques. These advantages are: 1) unlike 
+most conventional techniques which can only perform point-wise 
+or line-wise monitoring, space-borne sensors provide an 
+economical and convenient way to perform wide-area monitoring; 
+and 2) they have real-time monitoring capability. Today, the 
+simple ocean-surface monitoring technique has been replaced by 
+the integrated technique which makes use of space-borne sensors, 
+surface sensors and underwater sensors; in particular, 
+space-borne monitoring is now becoming the principal technique. 
+[passage omitted] 
+  China's marine remote-sensing technology is lagging far 
+behind [that of the United States and Europe]; the main reason 
+is that the potential development of technical talents and 
+scientists in this country is limited by the lack of raw 
+remote-sensing data. Nevertheless, a great deal has been 
+accomplished even with the limited data. In this paper, the main 
+accomplishments are summarized, and an argument is made that 
+since it is unlikely for China to launch its own remote-sensing 
+satellites within the next few years, the best course would be 
+to promote the research and application of remote-sensing 
+technology in this country by making maximum use of the data 
+collected by other countries. 
+<H5>  II. Objectives and Requirements of Satellite Remote Sensing </H5>
+in Oceanography 
+  The main objectives of satellite remote sensing in 
+oceanography are monitoring the dynamic ocean environment, 
+observing of ocean color, and mapping of the coastal belt and 
+offshore islands. 
+  1. Monitoring the Dynamic Ocean Environment 
+  Currently, satellite sensors can only detect changes on the 
+ocean surface; internal conditions of the ocean are inferred 
+from variations in the surface phenomena. The important 
+phenomena include: 1) surface wind fields, wave fields, flow 
+fields, tides, water pockets, front movement, vortices and 
+internal waves; and 2) surface terrain, surface height and ice 
+formation in the ocean. 
+  Like other dynamic processes, the dynamic process of the 
+ocean has its own characteristic length and time scales. In 
+general, the length scale in the horizontal direction spans from 
+several tens of centimeters to several thousand kilometers, with 
+a span ratio of 10[.sup]6[/]-10[.sup]7[/]; the length 
+scale in the vertical direction is typically 1/100 to 1/1000 
+that of the horizontal scale; the span of the time scale is even 
+larger, from several seconds to several years, with a span ratio 
+of 10[.sup]8[/] to 10[.sup]9[/]. Based on these unique 
+characteristics, the technical specifications of 
+ocean-monitoring satellites must satisfy the following 
+requirements: 
+  (1) To achieve global monitoring, the earth resource 
+satellites in general are placed in near-circular, 
+sun-synchronous orbits. 
+  (2) The scan distance and scan width of the ocean surface 
+should be matched to the horizontal length span ratio, but 
+because of the large variations in the span ratio associated 
+with the different dynamic processes, and the limitations of the 
+satellite orbit and the onboard detectors, it is necessary to 
+consider a compromise value for the satellite design. 
+  (3) The accuracy of the vertical length span ratio is 
+primarily determined by the stability of the satellite orbit and 
+the measurement accuracy. 
+  (4) The operating life and the repetition period of the 
+satellite orbit (including the back-up satellite) should be 
+matched to the time span ratio. Because of the large variations 
+in the time span ratio associated with the different dynamic 
+processes, it is impossible to satisfy all requirements 
+simultaneously; therefore, a compromise must again be 
+considered. For an experimental satellite, it is reasonable to 
+use a programmable repetition period. 
+  (5) The observation of the key elements of the dynamic 
+phenomena is based on the principle of measuring the roughness 
+of the ocean surface; generally, active microwave detectors with 
+all-weather capability are used. 
+  2. Observation of Ocean Color 
+  Ocean water contains organic and inorganic materials of 
+different concentration. These include non-soluble organic 
+materials such as floating plants, soluble organic materials 
+such as yellow substances, and non-soluble inorganic materials 
+such as suspended particles of mud and sand. The pollutants in 
+the ocean are a mixture of organic and inorganic materials. 
+Observation of ocean color usually refers to the measurement of 
+chlorophyll concentration, the content of suspended mud and 
+sand, the pollutants, the soluble organic materials, the depth 
+of water and underwater terrains. The requirements on satellite 
+orbit and altitude for observing ocean color are similar to 
+those for measuring the dynamic environment, the only difference 
+is that the repetition period can be somewhat longer. 
+  The detectors used for observing ocean color elements 
+generally operate in the visible-light band. The commonly used 
+techniques for measuring the chlorophyll content in the ocean 
+are the blue-green spectral response method and the fluorescent 
+peak response method; both techniques require fine resolution of 
+the spectral band and high sensitivity of the measuring 
+instrument. 
+  3. Mapping of the Coastal Belt and Offshore Islands 
+  The coastal belt consists of the land and sea region along 
+the shoreline. The main objectives of mapping the coastal belt 
+are to monitor changes in the shoreline, the configuration of 
+the beaches and reefs, the building environment along the shore, 
+the water depth of shallow sea and underwater terrain, the 
+geological structure and the distribution of vegetation. 
+  The technical requirement for mapping the coastal belt and 
+offshore islands is the same as that for mapping land areas. 
+Improvement is being made to the multi-band scanning radiometer 
+currently used for mapping to provide higher ground resolution 
+and three-dimensional mapping capability; also, the development 
+of synthetic aperture radar (SAR) technology (which has already 
+been implemented on the Japanese remote-sensing satellite JERS-1 
+launched in February 1992) will further improve the mapping 
+capability of the coastal belt and offshore islands. 
+<H5>  III. China's Accomplishments and Technological Gap in </H5>
+Satellite Remote Sensing in Oceanography 
+  During the past 10 years, significant advances have been 
+made 
+in satellite remote-sensing technology. In this country, 
+progress has been slow mainly because of inadequate 
+remote-sensing data. But even under these limited conditions a 
+great deal has been accomplished, and some useful results have 
+been produced. These results are derived from data collected by 
+the meteorology satellites and earth resource satellites. 
+  1. Application of Remote-Sensing Data From Meteorology 
+Satellite in Oceanography 
+  Since the early 1980s, when China began receiving data from 
+the U.S. polar-orbit NOAA satellites and the Japanese 
+geostationary GMS satellites, the following results have been 
+produced: 
+  (1) The data from NOAA AVHRR infrared channels 3, 4, 5 have 
+been processed to derive surface temperatures of the ocean; the 
+accuracy of the derived temperatures is +/- 1ÎC on average 
+and +/- 0.5ÎC over a localized area; the geopositioning 
+accuracy is 1-3 km. The data have been used in the following 
+applications: 1) Issuing timely reports of ocean conditions to 
+the fishing industry. By using the data of surface temperatures 
+to determine the front of cold and warm currents, it is possible 
+to issue timely reports of ocean conditions to the fishing 
+fleet; these data have proved to be quite reliable from tests 
+conducted over the past few years. 2) The Black Tide is a 
+current that travels along the western boundary of the Pacific 
+Ocean; it starts from Taiwan, moves northward past Okinawa, then 
+turns east toward the coast of Japan, and terminates at 
+160ÎE. It is a warm current system which has a direct effect 
+on the climate of regions along its path. By analyzing the 
+surface temperature data, preliminary results of the 
+distribution of surface currents in the East China Sea during 
+winter and spring have been obtained. 
+  (2) Data from AVHRR infrared channels 3, 4, 5 of the NOAA 
+satellite are used to monitor ice conditions in the northern 
+part of Bo Hai and the Yellow Sea. Ice maps of this region have 
+been constructed using sophisticated data processing techniques 
+including projection transformation, position correction, and 
+image enhancement; these maps show detailed diagrams of ice 
+coverage and thickness distribution of ice. The maps are 
+broadcast and distributed to the user every winter. 
+  (3) Data from channel 1 (visible-light channels) of the NOAA 
+satellite and channels 1, 3, 4 of the NIMBUS-1 satellite are 
+used in a remote-sensing test to measure water color at selected 
+points along the river and at the mouths of rivers; preliminary 
+results of chlorophyll concentrations at the mouth of the Yantze 
+River and in Hangzhou Bay and Bo Hai Bay have been obtained. 
+  (4) Real-time cloud maps from the GMS satellite and its 
+derived products are used to determine wind speed and direction, 
+which in turn are used to predict the intensity, the location of 
+the eye, and the path of a typhoon. 
+  2. Application of Remote-Sensing Data From the Landsat 
+Satellite in Oceanography 
+  In the mid-1980s, China constructed a ground station to 
+receive remote-sensing data from the U.S. Landsat. The data have 
+been used in the following applications in oceanography: 
+  (1) The MSS and TM data from Landsat are used to derive 
+preliminary results of suspended mud and sand concentrations at 
+the mouths of the Yellow River, the Yangtze River, Hangzhou Bay, 
+the Pearl River, the Min River and the Yalu River. The results 
+obtained for the Yellow River are found to be correlated with 
+the movement of mud and sand in the offshore region, the erosion 
+of the shoreline, the characteristics of the flow system and 
+with the formation of the river delta. Therefore they provide a 
+valuable data base for establishing future development plan for 
+the Yellow River Delta, for performing maintenance and repair, 
+and for developing oil fields and harbors in this region. 
+  (2) The MSS and TM data from Landsat are also used to survey 
+the northwest region of Hainan Island and to construct 1:200,000 
+and 1:500,000 scale maps that describe the vegetation cover, the 
+terrain, the geology and land use of that region. 
+  3. Deficiencies of the NOAA and Landsat Satellites in 
+Oceanography Applications 
+  (1) The accuracy of the AVHRR detector of the NOAA satellite 
+in measuring ocean surface temperature is rather poor; also, the 
+detector is subject to cloud cover limitations and therefore 
+cannot make continuous temperature measurements. In monitoring 
+ice conditions, the surface resolution and geopositioning 
+accuracy of the detector are poor; therefore it is difficult to 
+obtain information on ice movement. In measuring ocean color, 
+the spectral resolution and sensitivity of the detector are both 
+quite low, hence it is difficult to obtain quantitative measures 
+of chlorophyll concentration. 
+  (2) The TM (ETM) data from Landsat have poor spectral 
+resolution and low sensitivity so it is difficult to obtain 
+quantitative measures of suspended mud and sand in the ocean; in 
+monitoring ice conditions, its repetition period is too long to 
+be useful in providing information on ice movement; in mapping 
+the coastal belt, the detector does not have sufficient dynamic 
+range to accommodate the large difference in reflectivity 
+between water and land. 
+  (3) Many of the important marine environmental elements 
+cannot be effectively measured by the remote sensors of the NOAA 
+satellite or the Landsat; e.g., measurement of key dynamic 
+parameters of the ocean; quantitative determination of the ocean 
+color; quantitative measure of the pollution level in the ocean; 
+and measurement of the depth of the ocean floor. 
+  4. China's Technology Gap in Satellite Remote Sensing 
+for Marine Applications 
+  The development of marine remote-sensing techniques in the 
+United States began in the mid-1960s; the data used were 
+collected by the TIROS/NOAA satellites and the GOES family of 
+weather satellites. In the early 1980s, China began receiving 
+data from the TIROS/NOAA satellites and the GMS satellites, and 
+in the mid-1980s, the data were first used in marine 
+applications. Therefore, China is 20 years behind the United 
+States and Western Europe in terms of receiving and applying 
+data from weather satellites. Nevertheless, significant progress 
+had been made within the past 10 years and China's current 
+technology has reached a level comparable to that of advanced 
+nations. But in the area of global weather monitoring and ocean 
+monitoring, little progress can be made until China launches its 
+own satellites. China's first experimental weather satellite, 
+the Feng Yun-1A, was launched in September 1988, again 20 years 
+behind the first TIROS/NOAA satellites; further effort is 
+required to improve its operating life and storage capacity. 
+  In July 1972, the United States launched the first 
+land-monitoring satellite, the Landsat-1. In 1986, China began 
+receiving remote-sensing data from Landsat-4 (launched on 16 
+July 1982), and has continued to receive data for the past six 
+years. Data from Landsat have generated excellent results in the 
+survey of land resources, but they have not contributed a great 
+deal to the important aspect of oceanography -- mapping of the 
+coastal belt and offshore islands. In February 1992, Japan 
+launched its own Landsat which is equipped with an L-band 
+synthetic aperture radar in addition to a multi-band scanning 
+radiometer; it has a ground resolution of 18 m x 18 m and has 
+large onboard storage capacity. Therefore, the Japanese Landsat 
+is a satellite with full-duration, all-weather global monitoring 
+capability. The first Chinese Landsat is currently under 
+development; it probably will not be launched until after 1994. 
+Its detectors are similar to those used on the U.S. Landsat-5; 
+in other words, the technology used on the Chinese Landsat is 
+also 20 years behind. 
+  In June 1978, the United States launched the world's first 
+integrated marine observation satellite, the SEASAT-A. It is 
+equipped with five detectors, four of which are microwave 
+detectors, and one is a visible-light-infrared radiometer. This 
+satellite operated continuously for over 100 days, during which 
+time it collected various data on ocean wave fields, wind 
+fields, current fields, internal waves, boundaries between land 
+and water, terrains of shallow sea, ice distribution, oil 
+pollution, and terrains of the ocean surface. Analysis of the 
+data by scientists in the international community shows that the 
+detectors onboard the SEASAT-A are primarily used to monitor the 
+ocean's dynamic phenomena. 
+  Improved versions of the SEASAT-A detectors have been 
+implemented on the ERS-1 satellite, which was launched by the 
+European Space Agency (ESA) in July 1991; they are designed to 
+monitor ice conditions in the ocean. China currently does not 
+have the technological maturity to launch its own marine 
+satellites. The microwave detectors required for marine 
+applications are still in the experimental stage; also, there is 
+a lack of comprehensive research effort to develop microwave 
+remote sensors for marine applications. 
+  In October 1978, the United States launched the world's 
+first 
+ocean-color monitoring satellite, the NIMBUS-7; it was equipped 
+with a multi-channel microwave radiometer and a coastal zone 
+color scanner (CZCS). During 10 years of operation (1978-1988), 
+particularly the first five years, it had collected one-third of 
+the global data on ocean color, ocean surface temperature, and 
+wind velocity. In addition, the United States is planning to 
+launch another ocean-color monitoring satellite, the SEASTAR. 
+Its onboard SEAWIFS detectors with eight visible-light bands are 
+expected to provide better performance than the CZCS. In China, 
+there are no immediate plans for launching ocean-color 
+monitoring satellites. 
+<H5>  IV. China's Goals for the Development of Satellite Remote </H5>
+Sensing for Marine Applications in This Century 
+  Satellite remote-sensing technology for marine application 
+in 
+China today is approximately 20-25 years behind the 
+state-of-the-art. In order to accelerate the pace of development 
+and to narrow the technology gap, we should concentrate our 
+efforts on the development of integrated techniques for applying 
+remote-sensing data in oceanography. We should also emphasize 
+the systematic development of various technologies associated 
+with satellite remote sensing, particularly detector technology, 
+in order to build a good technical foundation in preparation for 
+the launch of China's own marine satellites early next century. 
+  1. Establishing Ground Systems for Receiving and 
+Processing Satellite Remote-Sensing Data 
+  The plan is to extend the capabilities of existing ground 
+stations to receive data from the ERS-1 satellite, the JERS-1 
+satellite (launched by Japan in February 1992), the ERS-2 
+satellite (a follow-on satellite to ERS-1, scheduled to be 
+launched at the end of 1994), the RADARSAT (to be launched by 
+Canada in 1994), and three other polar-orbit satellites (the 
+United States, Western Europe and Japan each plan to launch one 
+satellite after 1997). During the 1990s, when China's own 
+satellite remote-sensing technology is still in the early stage 
+of development, the most cost-effective approach would be to 
+make use of the remote-sensing data collected by foreign 
+satellites. Such data will be used to meet the growing domestic 
+needs in ocean petroleum development, marine products, marine 
+engineering, ocean transportation, disaster prevention, ocean 
+exploration, ocean management and military applications; this 
+will also provide an opportunity to accumulate a knowledge base 
+in applying microwave remote-sensing data, and to build a solid 
+technical foundation for launching our own marine satellites. 
+  The establishment of such systems will enhance China's 
+position in the international community of remote sensing for 
+marine applications. 
+  2. Establishment of Ground Systems for Receiving and 
+Processing Data From Ocean Color Monitoring Satellites 
+  By upgrading existing ground stations of the weather 
+satellites operated by the National Bureau of Oceanography, we 
+will be able to receive data from foreign ocean-color monitoring 
+satellites (e.g., the SEASTAR and the ADEOS). In view of the 
+fact that China will not have its own ocean-color satellite 
+during the 1990s, sharing data from other countries appears to 
+be a viable approach. 
+  The SEASTAR and the ADEOS satellites are expected to 
+continue 
+operating until the end of this century. They will be able to 
+provide data on chlorophyll concentration in the ocean, 
+suspended mud and sand content, and partial assessment of water 
+quality; such data are important for the development and 
+maintenance of fishing and cultivation zones, the construction 
+of harbors and shipping lanes, and the development and 
+utilization of beach-front areas. 
+  3. Promoting Basic Research of Marine Satellite 
+Technologies 
+  The topics of basic research should include various types of 
+microwave detectors (such as synthetic aperture radar, radar 
+altimeter, microwave scattering meter, microwave radiometer, 
+water-color detector and laser fluorescent detector), precision 
+orbit determination techniques and precision measurement 
+techniques. 
+
+</TEXT>
+
+</DOC>

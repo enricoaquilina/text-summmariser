@@ -1,0 +1,749 @@
+<?xml version="1.0"?>
+<case>
+<name>Alphapharm Pty Limited v Wyeth [2009] FCA 945 (25 August 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/945.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">interlocutory injunctions</catchphrase>
+<catchphrase "id=c1">whether respondents/cross-claimants established prima facie case of infringement of patent to warrant injunction</catchphrase>
+<catchphrase "id=c2">whether prima facie case of infringement to warrant injunction displaced in circumstances where the applicant/cross-respondent has established a prima facie case that patent is invalid</catchphrase>
+<catchphrase "id=c3">question of balance of convenience.</catchphrase>
+<catchphrase "id=c4">interlocutory injunctions</catchphrase>
+<catchphrase "id=c5">principles applicable to patent cases.</catchphrase>
+<catchphrase "id=c6">patents</catchphrase>
+<catchphrase "id=c7">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ BACKGROUND AND ISSUES 
+ The applicant, Alphapharm Pty Limited ( Alphapharm ), is a generic pharmaceutical company.</sentence>
+<sentence id="s1">The respondents are (respectively) an innovator pharmaceutical company incorporated in the United State of America, Wyeth, and its wholly owned Australian subsidiary, Wyeth Australia Pty Limited ( Wyeth and Wyeth Australia ).</sentence>
+<sentence id="s2">This decision concerns Wyeth's application for interlocutory relief to restrain Alphapharm from allegedly infringing Wyeth's patent pending the final resolution of the parties' competing claims about the validity of the patent and, if it is valid, whether Alphapharm's intended actions would infringe it in any event.</sentence>
+<sentence id="s3">Wyeth is the patentee of Australian Patent No 2003259586 entitled "Extended release formulation" ( the method patent ).</sentence>
+<sentence id="s4">The method patent is for a method of treating central nervous system disorders including depression, which comprises administering orally a single daily dosing formulation of venlafaxine hydrochloride that provides a therapeutic blood plasma concentration of venlafaxine hydrochloride over a 24 hour period with a peak blood plasma level of venlafaxine hydrochloride in from about 4 to 8 hours after administration.</sentence>
+<sentence id="s5">Through Wyeth Australia, Wyeth manufactures and sells its extended release formulation of venlafaxine hydrochloride under the name Efexor-XR .</sentence>
+<sentence id="s6">Efexor-XR has been on the Australian market since February 1999 and is the leading antidepressant medication in Australia in terms of units sold and value of sales.</sentence>
+<sentence id="s7">On the basis of bioequivalence to Efexor-XR, Alphapharm obtained registration on the Australian Register of Therapeutic Goods ( ARTG ) on 30 April 2009 of an extended release formulation of venlafaxine hydrochloride, known as Enlafax-XR .</sentence>
+<sentence id="s8">Alphapharm first became aware of the method patent on 19 March 2009.</sentence>
+<sentence id="s9">Wyeth first became aware of the registration of Enlafax-XR on 1 May 2009.</sentence>
+<sentence id="s10">On 19 June 2009 Alphapharm filed an application in which it sought an order that the method patent be revoked, alleging numerous grounds of invalidity.</sentence>
+<sentence id="s11">In its defence and cross-claim filed on 24 July 2009, Wyeth claimed interlocutory orders restraining Alphapharm from infringing claims 4 and 27 (insofar as claim 27 is dependent on claim 4) of the method patent by reason of its intended actions with respect to Enlafax-XR.</sentence>
+<sentence id="s12">On 29 July 2009, when the application first came before the Court, Alphapharm advised that it intends to commence supplying Enlafax-XR from 1 September 2009.</sentence>
+<sentence id="s13">Directions were made and a hearing date fixed in respect of Wyeth's application for interlocutory orders with the common intention that a decision about that application be made before 1 September 2009.</sentence>
+<sentence id="s14">The issues requiring resolution in respect of Wyeth's application for interlocutory relief against Alphapharm are as follows: 
+(1) What is the proper approach to the grant or refusal of an interlocutory injunction in a case such as the present, where Wyeth claims interim protection from an alleged infringement of its method patent and Alphapharm claims that the method patent is invalid?</sentence>
+<sentence id="s15">(2) Has Wyeth established the existence of a prima facie case supporting its claim of Alphapharm's infringement of the method patent and what is the strength of that case?</sentence>
+<sentence id="s16">(3) How does this weigh against any establishment by Alphapharm of the existence of a prima facie case supporting Alphapharm's claims that the method patent is invalid and the strength of those claims?</sentence>
+<sentence id="s17">Alphapharm relied on the following claims of invalidity for the purpose of the interlocutory application:
+ 
+(a) the claims of the method patent are not fairly based on the specification;
+ 
+(b) the method patent was obtained by false suggestion or misrepresentation;
+ 
+(c) the method patent is not a "manner of manufacture" as required;
+ 
+(d) the method patent lacks an inventive step; and
+ 
+(e) the specification does not describe the invention fully.</sentence>
+<sentence id="s18">(4) Where does the balance of convenience lie, including the nature, extent and reparability of any harm likely to be incurred by Wyeth and Alphapharm, the adequacy of a remedy of damages, an account of profits or compensation, and other discretionary factors identified by each party?</sentence>
+<sentence id="s19">Before moving to these issues it is convenient to provide a brief overview of some other uncontentious facts forming a part of the background to the proceeding.</sentence>
+<sentence id="s20">On 4 March 1988 Wyeth was granted a patent for the compound venlafaxine (Australian Patent No 1983022123) ( the compound patent ).</sentence>
+<sentence id="s21">Between November 1994 and August 2003 Wyeth maintained the registration of a product known as Efexor-IR on the ARTG.</sentence>
+<sentence id="s22">Efexor-IR was a formulation of venlafaxine hydrochloride requiring oral administration two or three times a day.</sentence>
+<sentence id="s23">The letters "IR" stand for "immediate release".</sentence>
+<sentence id="s24">In May 1998 Wyeth obtained registration of Efexor-XR on the ARTG.</sentence>
+<sentence id="s25">The letters "XR" stand for "extended release".</sentence>
+<sentence id="s26">In October 2003 Wyeth applied for the method patent, with a claimed priority date of 25 March 1996 (by reference to various other related patents).</sentence>
+<sentence id="s27">Efexor-XR was listed on the pharmaceuticals benefits scheme ( the PBS ) in December 2005.</sentence>
+<sentence id="s28">The method patent was granted on 11 May 2007, with the claimed priority date of 25 March 1996.</sentence>
+<sentence id="s29">On 6 December 2007 Wyeth was granted Australian Patent No 2002250058 for a compound known as desvenlafaxine, which is a metabolite of venlafaxine ( the Pristiq patent ).</sentence>
+<sentence id="s30">On 18 August 2008 Pristiq was registered on the ARTG.</sentence>
+<sentence id="s31">Pristiq was listed on the PBS on 1 February 2009.</sentence>
+<sentence id="s32">On 6 December 2008 the compound patent expired.</sentence>
+<sentence id="s33">There is another proceeding relating to the method patent between Sigma Pharmaceuticals (Australia) Pty Ltd ( Sigma ) and Wyeth ( the Sigma proceeding ).</sentence>
+<sentence id="s34">On 26 February 2009 Sigma obtained registration on the ARTG of an extended release formulation of venlafaxine hydrochloride, known as Evelexa-XR, also on the basis of bioequivalence to Efexor-XR.</sentence>
+<sentence id="s35">Wyeth applied for interlocutory relief restraining Sigma from infringing claims 4 and 27 of the method patent by reason of its intended actions with respect to Evelexa-XR.</sentence>
+<sentence id="s36">On 3 June 2009 Sundberg J made interlocutory orders in Wyeth's favour ( Sigma Pharmaceuticals (Australia) Pty Ltd (ACN 004 118 594) v Wyeth [2009] FCA 595 ( the Sigma decision )).</sentence>
+<sentence id="s37">The parties did not object to, or cross-examine about, any document or affidavit admitted into evidence on the basis that the application was for interlocutory relief, admissibility at trial was not conceded, and submissions about the weight to be given to certain evidence could be made irrespective of the lack of objection or cross-examination.</sentence>
+<sentence id="s38">I propose to deal with the evidence in the context of the resolution of the issues.</sentence>
+<sentence id="s39">THE METHOD PATENT 
+ The method patent states the following in the specification under the heading "Background of the invention" (pp 1a, 1b and 2): 
+ Extended release drug formulations are conventionally produced as compressed tablets by hydrogel tablet technology... 
+
+ 
+ ... 
+
+ 
+ Where the production of tablets is not feasible, it is conventional in the drug industry to prepare encapsulated drug formulations which provide extended or sustained release properties... 
+
+ 
+ ... 
+
+ 
+ Venlafaxine hydrochloride is presently administered to adults in compressed tablet form in doses ranging from 75 to 350 mg/day, in divided doses two or three times a day.</sentence>
+<sentence id="s40">In therapeutic dosing with venlafaxine hydrochloride tablets, rapid dissolution results in a rapid increase in blood plasma levels of the active compound shortly after administration followed by a decrease in blood plasma levels over several hours as the active compound is eliminated or metabolized, until sub-therapeutic plasma levels are approached after about twelve hours following administration, thus requiring an additional dosing with the drug.</sentence>
+<sentence id="s41">With the plural daily dosing regimen, the most common side effect is nausea, experienced by about 45% of patients under treatment with venlafaxine hydrochloride.</sentence>
+<sentence id="s42">Vomiting also occurs in about 17% of the patients.</sentence>
+<sentence id="s43">
+
+ Under the heading "Brief Description of the Invention" the following appears: 
+ In accordance with this invention, there is provided a method for providing a therapeutic blood plasma concentration of venlafaxine over a 24 hour period which comprises administering orally to a patient in need of venlafaxine a single daily dosing formulation of venlafaxine hydrochloride that provides a peak blood plasma level of venlafaxine in from about 4 to 8 hours after administration.</sentence>
+<sentence id="s44">
+
+ The specification thereafter describes, in the section "Brief Description of the Invention", examples of embodiments of the invention.</sentence>
+<sentence id="s45">One embodiment appears in these terms (p 3): 
+ In a further embodiment, there is provided a method for treating depression in a patient in need of such treatment, said method including the steps of administering orally to said patient, a single daily dosing formulation of venlafaxine hydrochloride over a 24 hour period with a peak blood plasma level of venlafaxine in from about 4 to 8 hours after administration.</sentence>
+<sentence id="s46">
+
+ Another (pp 4B, 4C and 4D) is as follows: 
+ In one embodiment, the venlafaxine hydrochloride formulation for use in the methods of this invention is comprised of venlafaxine hydrochloride, (or 1-[2-(dimethylamino)-1-(4-methoxyphenyl)ethyl]cyclohexamol hydrochloride), in admixture with microcrystalline cellulose and hydroxypropylmethylcellulose.</sentence>
+<sentence id="s47">
+
+ 
+ As an example, the extended release formulations are formed as coated beads or spheroids.</sentence>
+<sentence id="s48">In one embodiment, the drug containing formulation is coated with a mixture of ethyl cellulose and hydroxypropylmethylcellulose to provide the desired level of coating.</sentence>
+<sentence id="s49">
+
+ 
+ ... 
+
+ 
+ It was completely unexpected that a single daily dosing formulation containing venlafaxine hydrochloride for uses in the methods of the invention could be obtained because the hydrochloride of venlafaxine proved to be extremely water soluble.</sentence>
+<sentence id="s50">Numerous attempts to produce single daily dosing, extended release or tablets by hydrogel technology proved to be fruitless because the compressed tablets were either physically unstable (poor compressibility or capping problems) or dissolved too rapidly in dissolution studies.</sentence>
+<sentence id="s51">Typically, the tablets prepared as hydrogel sustained release formulations gave 40% to 50% dissolution at 2 hrs, 60% to 70% dissolution at 4 hrs and 85% to 100% dissolution at 8 hrs.</sentence>
+<sentence id="s52">
+
+ 
+ Numerous spheroid formulations were prepared using different grades of microcrystalline cellulose and hydroxypropylmethylcellulose, different ratios of venlafaxine hydrochloride and filler, different binders such as polyvinylpyrrolidone, methylcellulose, water, and polyethylene glycol of different molecular weight ranges in order to find a formulation which would provide a suitable granulation mix which could be extruded properly.</sentence>
+<sentence id="s53">In the extrusion process, heat buildup occurred which dried out the extrudate so much that it was difficult to convert the extruded cylinders into spheroids.</sentence>
+<sentence id="s54">Addition of hydroxypropylmethylcellulose 2208 to the venlafaxine hydrochloride-microcystalline cellulose mix made production of spheroids practical which proved to be practical for a single daily dosing formulation useful in the methods of the invention.</sentence>
+<sentence id="s55">
+
+ 
+ The following examples are presented to illustrate applicant's solution to the problem of preparation of the extended release drug containing formulations of this invention.</sentence>
+<sentence id="s56">
+
+ The specification then includes four examples and a description of various matters relating to them.</sentence>
+<sentence id="s57">The penultimate paragraph of this part of the specification contains the following statement (p 10): 
+ Thus, the desired dissolution rate of a sustained release dosage form of venlafaxine hydrochloride, impossible to achieve with hydrogel tablet technology, has been achieved with the film-coated spheroid compositions of this invention.</sentence>
+<sentence id="s58">
+
+ The claims section of the specification included claims 4 and 27 in these terms:
+ 
+ THE CLAIMS DEFINING THE INVENTION ARE AS FOLLOWS: 
+
+ 
+ ... 
+
+ A method for treating depression in a patient in need of such treatment, which comprises administering orally to said patient, a single daily dosing formulation of venlafaxine hydrochloride that provides a therapeutic blood plasma concentration of venlafaxine over a 24 hour period with a peak blood plasma level of venlafaxine in from about 4 to 8 hours after administration.</sentence>
+<sentence id="s59">
+ ... 
+
+ A method according to any one of the preceding claims wherein the formulation is an encapsulated formulation.</sentence>
+<sentence id="s60">INTERLOCUTORY INJUNCTIONS 
+ At one level of generality, the parties were on common ground.</sentence>
+<sentence id="s61">Hence, they did not debate the correctness of Sundberg J's description in the Sigma decision of the applicable principles relating to interlocutory injunctions generally at [14]-[15] as follows: 
+ [ 14 ] The general principles to be applied are: 
+
+ 
+ (a) whether there is a serious question to be tried, or Wyeth has made out a prima facie case in the sense that, if the evidence remains the same, there is a probability that at trial it will be entitled to relief; 
+
+ 
+ (b) whether Wyeth will suffer irreparable harm, for which damages will not be an adequate remedy, unless an injunction is granted; and 
+
+ 
+ (c) whether the balance of convenience favours the granting of an injunction.</sentence>
+<sentence id="s62">
+
+ 
+ See Australian Broadcasting Corporation v O'Neill [2006] HCA 46 ; (2006) 227 CLR 57 (O'Neill) at [19] and [70].</sentence>
+<sentence id="s63">
+
+ 
+ [ 15 ] Factors (a) and (c) are related in this sense, that whether there is a serious question or a prima facie case should not be considered in isolation from the balance of convenience.</sentence>
+<sentence id="s64">The apparent strength of the parties' substantive cases will often be an important consideration to be weighed in the balance: Tidy Tea Ltd v Unilever Australia Ltd (1995) 32 IPR 405 at [416]; Interpharma Pty Ltd v Commissioner of Patents [2008] FCA 1498 ; (2008) 79 IPR 261 ( Interpharma ) at [16].</sentence>
+<sentence id="s65">
+
+ There was a debate about the observation in [16] of Sundberg J's reasons, where his Honour said: 
+ [16] Special considerations apply where, as here, the party seeking interlocutory relief alleges infringement and the other party alleges invalidity.</sentence>
+<sentence id="s66">As to this, in Interpharma [2008] FCA 1498 ; 79 IPR 261 at [17] Jessup J said: 
+
+ 
+In such a situation, it will not be enough to ask whether the applicant has shown a serious question, or a probability of success, on his or her own case.</sentence>
+<sentence id="s67">While the answer to that question may be in the affirmative, it will then be necessary to consider whether that answer should be qualified by the apparent strength of the defence.</sentence>
+<sentence id="s68">In a patent case, the fact of registration constitutes prima facie evidence of validity: AB Hassle v Pharmacia (Aust) Pty Ltd (1995) 33 IPR 63 at 69-70 ( AB Hassle ); GenRx Pty Ltd v Sanofi-Aventis [2007] FCA 1485 ; (2007) 73 IPR 502 ... at [2]-[6] ...</sentence>
+<sentence id="s69">It has been said that it is for the respondent to show that want of validity is a triable question: AB Hassle at 69.</sentence>
+<sentence id="s70">This seems clear enough, but, in my opinion, the analysis needs to be taken a step further.</sentence>
+<sentence id="s71">Is it sufficient that the respondent does show a triable question on validity?</sentence>
+<sentence id="s72">In my view, if that is as far as the respondent goes, then, assuming always that the applicant has shown a triable issue on infringement, absent questions of validity, the conclusion would remain that the latter had a triable question.</sentence>
+<sentence id="s73">That is to say, as a matter of analysis, unless the case for invalidity is sufficiently strong (at the provisional level) to qualify the conclusion that, overall, the applicant has a serious question, or a probability of success, the court should move to consider the adequacy of damages, the balance of convenience and other discretionary matters.</sentence>
+<sentence id="s74">It is the applicant's title to interlocutory relief which is under consideration, and the bottom-line question, as it were, is whether the applicant has a serious question, or a probability of success, not whether the respondent does in relation to some point of defence raised or foreshadowed.</sentence>
+<sentence id="s75">Alphapharm, in its written submissions, cited the decision of the High Court in Beecham Group Limited v Bristol Laboratories Pty Ltd [1968] HCA 1 ; (1968) 118 CLR 618 at 623-624 as follows (with added emphasis): 
+ The first of these inquiries [whether the plaintiff has made out a prima facie entitlement to relief] in the present case is not complicated by the special considerations which generally arise in a patent action where there is a substantial issue to be tried as to the validity of the patent.</sentence>
+<sentence id="s76">In such an action the plaintiff's prima facie case must be a strong one so far as the question of validity is concerned, for he asserts a monopoly and must give more proof of the right he claims than is afforded by the mere granting of the patent : Smith v Grigg Ltd [1924] 1 KB 655 per Atkin LJ at p 659; Bonnella v Espir (1926) 43 RPC 159.</sentence>
+<sentence id="s77">The general practice in that kind of case has long been to refuse an interlocutory injunction unless either the patent has already been judicially held to be valid or it has stood unchallenged for a long period: Smith v Grigg Ltd [1924] 1 KB 655 , at p 658.</sentence>
+<sentence id="s78">Even if the patent is an old one --- which for this purpose is generally taken to mean more than six years old --- it has been said that an interlocutory injunction will generally be refused provided that the defendant shows by evidence 'some ground' for supposing that he has a chance of successfully disputing the validity of the patent at the trial: Marshall and the Lace Web Spring Co Ltd v Crown Bedding Co Ltd (1929) 46 RPC 267 , at p 269.</sentence>
+<sentence id="s79">This should be read, however, with Sir George Jessel's statement in Dudgeon v Thomson (1874) 30 LT 244 which divides into three classes the cases in which an injunction may be granted before the hearing in such a case.</sentence>
+<sentence id="s80">They are: (1) cases where the patent is an old one and the patentee has been in long and undisturbed enjoyment of it; (2) cases where its validity has been established elsewhere and the court sees no reason to doubt the propriety of the result; and (3) cases where the conduct of the defendant is such as to enable the court to say that, as against the defendant himself, there is no reason to doubt the validity of the patent.</sentence>
+<sentence id="s81">
+
+ The difficulty for Alphapharm, as Wyeth did not hesitate to expose, was that the very part of the decision in Beecham which Alphapharm emphasised has been consistently distinguished in the Federal Court since Gummow J's analysis in Martin Engineering Co v Trison Holdings Pty Ltd (1988) 81 ALR 543 (relying on the approach of McLelland J in Appleton Papers Inc v Tomasetti Paper Pty Ltd (1983) 3 NSWLR 208 at 216-219).</sentence>
+<sentence id="s82">Gummow J concluded, at p 549-550 in Martin , that: 
+ The curiosity is that Beecham showed that this reluctance to grant interlocutory relief had been carried forward into suits in respect of patents granted under the Australian Patents Act 1955, a statute, like the British Acts of 1949 and 1977, much removed from the patent system in force in the United Kingdom under the statutes of 80 or more years ago.</sentence>
+<sentence id="s83">Once this is appreciated, the force of Lord Diplock's statement that the former rule of practice concerning interlocutory relief had become obsolete ( American Cyanamid Co v Ethicon Ltd [1975] UKHL 1 ; [1975] AC 396 at 405-6) becomes apparent.</sentence>
+<sentence id="s84">Thus, the shift in judicial attitude to interlocutory relief in patent cases, culminating in the recent Australian decisions to which I have referred, may be seen as bringing practice at last into step with changes in the underlying substantive law.</sentence>
+<sentence id="s85">
+
+ Gummow J's analysis has been applied by Moore J in Merck and Co Inc v GenRx Pty Ltd (2006) 70 IPR 286 ; [2006] FCA 1407 , Gyles J in GenRx Pty Ltd v Sanofi-Aventis (2007) 73 IPR 502 ; [2007] FCA 1485 , Jessup J in Interpharma Pty Ltd v Commissioner of Patents (2008) 79 IPR 261 ; [2008] FCA 1498 and, of course, Sundberg J in the Sigma decision.</sentence>
+<sentence id="s86">For these reasons I do not accept Alphapharm's submission that I should depart from the approach of Sundberg J in the Sigma decision at [16], by reference to the observation of the High Court in Beecham which Alphapharm emphasised.</sentence>
+<sentence id="s87">PRIMA FACIE CASE OF INFRINGEMENT?</sentence>
+<sentence id="s88">
+ Competing submissions
+ Wyeth described its case on infringement as straightforward.</sentence>
+<sentence id="s89">Professor William Charman, Dean of the Victorian College of Pharmacy, Monash University and director of the Monash Institute of Pharmaceutical Science gave evidence for Wyeth by way of affidavits affirmed 28 July 2009 and 12 August 2009.</sentence>
+<sentence id="s90">Based primarily on the product information for Enlafax-XR, Professor Charman concluded that: - (i) the active ingredient of Enlafax-XR is venlafaxine hydrochloride, (ii) Enlafax-XR is to be administered orally in a single daily dose and is to be given chronically for the treatment of depression, (iii) Enlafax-XR is indicated for the treatment of major depression or social anxiety disorder, (iv) Enlafax-XR has been shown to be effective in reducing depression, and (v) after administration of Enlafax-XR the mean peak plasma concentration of venlafaxine is attained within the range of 4 to 8 hours.</sentence>
+<sentence id="s91">According to Wyeth this established a clear case that Enlafax-XR, when administered to a patient, would use the method of claims 4 and 27 of the method patent, with a consequential infringement by Alphapharm of the method patent as referred to in s 117 of the Patents Act 1990 (Cth).</sentence>
+<sentence id="s92">Alphapharm (in distinction from the position of Sigma in the Sigma proceeding) denied any infringement of the method patent.</sentence>
+<sentence id="s93">Alphapharm's submissions about infringement and validity are related.</sentence>
+<sentence id="s94">In its response to Wyeth's infringement claim, Alphapharm contended that, properly construed, the method patent excluded the use of hydrogel tablet technology from the invention.</sentence>
+<sentence id="s95">This was clear from the assertions in the specification that attempts to use hydrogel tablet technology had "proved to be fruitless" and "impossible to achieve".</sentence>
+<sentence id="s96">A person could hardly claim as an invention that which the person had found impossible to invent.</sentence>
+<sentence id="s97">The examples were examples of "this invention" defined earlier in the specification so as to exclude a formulation using hydrogel tablet technology.</sentence>
+<sentence id="s98">The references to "formulation" in the claims thus must exclude hydrogel tablet technology.</sentence>
+<sentence id="s99">Alphapharm noted that this construction is consistent with that advocated by Wyeth in other patent proceedings in the United States of America.</sentence>
+<sentence id="s100">It also reflected the conventional approach to construction summarised by Bennett J in H Lundbeck A/S v Alphapharm Pty Ltd [2009] FCAFC 70 at [120] as follows: 
+ It is not permissible to read into a claim an additional integer or limitation to vary or qualify the claim by reference to the body of the specification [citing Kimberly-Clark Australia Pty Limited v Arico Trading International Pty Limited [2001] HCA 8 ; (2001) 207 CLR 1 at [15] ; Welch Perrin and Company Proprietary Limited v Worrel [1961] HCA 91 ; (1961) 106 CLR 588 at 610].</sentence>
+<sentence id="s101">This is particularly relevant when the question concerns infringement of a claim or the sufficiency of a claim to define the invention.</sentence>
+<sentence id="s102">However, terms in the claim which are unclear may be defined or clarified by reference to the body of the specification ( Welch Perrin at 610; Kimberly-Clark at [15]).</sentence>
+<sentence id="s103">The language of the claims may have no positive meaning when read apart from the specification but the meaning may become clear and the invention sufficiently defined when read using the body of the specification as a dictionary of the jargon and ascertaining the nature of the invention ( Welch Perrin at 616).</sentence>
+<sentence id="s104">
+
+ Dr Philip Marshall, founder and director of Pharmchem Technical Services Pty Ltd, gave evidence for Alphapharm by way of an affidavit sworn 10 August 20009.</sentence>
+<sentence id="s105">Dr Marshall explained that Enlafax-XR uses hydrogel tablet technology, as described in the specification.</sentence>
+<sentence id="s106">############################################################################################################.</sentence>
+<sentence id="s107">Alphapharm said that Professor Charman did not dispute Dr Marshall's evidence but simply questioned Dr Marshall's conclusions and asserted a need to undertake laboratory studies to determine whether the Enlafax-XR products modify the release of venlafaxine hydrochloride by way of hydrogel tablet technology.</sentence>
+<sentence id="s108">According to Alphapharm, this need for further assessment should be seen as a reflection of Professor Charman's lack of practical expertise in contrast to Dr Marshall's vast practical experience as a bench formulator.</sentence>
+<sentence id="s109">If Alphapharm's construction of the method patent is incorrect then, said Alphapharm, Wyeth's problem is that the method patent could not survive the challenge to its validity on the ground that the claims are not fairly based; the method patent excluded hydrogel tablet technology but the claims of the method patent, on Wyeth's construction, purported to include all methods for extended release formulations of venlafaxine hydrochloride (a submission expanded upon with respect to the fair basis claim).</sentence>
+<sentence id="s110">As these matters involved issues of construction of the method patent, which is for the Court alone to determine, the Court could reach a conclusion about these issues with a reasonably high degree of confidence.</sentence>
+<sentence id="s111">In answer to Alphapharm's contentions, Wyeth said that Alphapharm's argument that Enlafax-XR did not breach the method patent should be rejected for at least two reasons.</sentence>
+<sentence id="s112">First, the claims define a method of treatment and are not limited to the use of any particular formulation of venlafaxine hydrochloride other than insofar as the features of the claim disclose.</sentence>
+<sentence id="s113">On this basis any formulation of venlafaxine hydrochloride achieving the features identified in the claims (namely, a single daily dosing with a therapeutic blood plasma concentration over a 24 hour period and a peak blood plasma level in from about 4 to 8 hours after administration) was within the scope of claim 4.</sentence>
+<sentence id="s114">Alphapharm's attempt to read down the scope of the claims by reference to one example in the specification of an embodiment of the invention is impermissible (citing Welch Perrin &amp; Co Pty Ltd v Worrel [1961] HCA 91 ; (1961) 106 CLR 588 at 610 and Kimberly-Clark Australia Pty Ltd v Arico Trading International Pty Ltd (2001) 207 CLR 1 ; [2001] HCA 8 at [15] , Jupiters Ltd v Neurizon Pty Ltd (2005) 222 ALR 155 ; [2005] FCAFC 90 at [67(iv)] , Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (2004) 217 CLR 274 ; [2004] HCA 58 at [69] ( Lockwood No 1 ) and Atlantis Corporation Pty Ltd v Schindler (1997) 39 IPR 29 , a decision which Alphapharm also emphasised).</sentence>
+<sentence id="s115">Second, the non-infringement argument depends on the proposition that Enlafax-XR uses hydrogel tablet technology itself to modify the release of venlafaxine hydrochloride.</sentence>
+<sentence id="s116">This claim is not made good on the evidence because the evidence fails to explain the role of the capsule in the release process.</sentence>
+<sentence id="s117">Professor Charman explained that it was inappropriate to consider the attributes of each component in isolation, as Dr Marshall had done.</sentence>
+<sentence id="s118">Rather, the components in combination ((################################################# #######################################################) all had to be considered in combination, with experimentation.</sentence>
+<sentence id="s119">########################################### ################################################################################.</sentence>
+<sentence id="s120">For these reasons, to ascertain whether Enlafax-XR uses hydrogel tablet technology itself to modify the release of venlafaxine hydrochloride laboratory assessments, including dissolution studies, visual observations and other characterisation tests are required.</sentence>
+<sentence id="s121">Insofar as Alphapharm attempted to rely on Wyeth's statements in other proceedings in the United States of America, Wyeth said the law is clear.</sentence>
+<sentence id="s122">The construction of a patent is a question of law for the Court.</sentence>
+<sentence id="s123">A party cannot make an admission about construction.</sentence>
+<sentence id="s124">In any event, a submission to the Court cannot constitute an admission of fact.</sentence>
+<sentence id="s125">Hence, this evidence is irrelevant and inadmissible.</sentence>
+<sentence id="s126">Discussion
+ To the extent that Alphapharm submitted that Professor Charman's evidence should be understood as a result of his lack of practical experience as a formulator compared to that of Dr Marshall, it is sufficient to say I have difficulty accepting the submission.</sentence>
+<sentence id="s127">On the basis of the evidence as it stands, Professor Charman has substantial qualifications and experience enabling him to make the observations on which Wyeth relied to answer Alphapharm's hydrogel tablet technology claim.</sentence>
+<sentence id="s128">I cannot discount that evidence, or lessen its potential weight, on the ground of Professor Charman's alleged lack of practical experience as Alphapharm proposed.</sentence>
+<sentence id="s129">It follows that, at this stage, I have conflicting expert evidence in circumstances where both, prima facie , appear entitled to weight.</sentence>
+<sentence id="s130">I consider, therefore, that this aspect of the infringement debate cannot rationally be excluded by reference to Dr Marshall's evidence.</sentence>
+<sentence id="s131">Accordingly, I turn to the issues of construction.</sentence>
+<sentence id="s132">I do not accept Alphapharm's submission that, as issues of construction are for the Court alone, they may be effectively resolved on an interlocutory basis.</sentence>
+<sentence id="s133">Although Alphapharm is correct to emphasise that construction is a matter for the Court alone, the evidence of experts can assist in explaining the prior art and thus the context of, as well as scientific or technical terms used in, the method patent.</sentence>
+<sentence id="s134">In this case there is (already) a wealth of expert evidence, parts of which are potentially relevant to the issues of construction and none of which has been tested by cross-examination.</sentence>
+<sentence id="s135">Accordingly, the issues of construction, like all other issues on this application, are to be assessed on a prima facie basis.</sentence>
+<sentence id="s136">There was considerable debate between the parties as to whether or not Sundberg J considered an argument equivalent to that of Alphapharm's defence against the infringement claim in the Sigma decision.</sentence>
+<sentence id="s137">The argument in question there was framed as part of Sigma's fair basis challenge to validity on the ground that the specification, properly construed, disclosed only a formulation of venlafaxine hydrochloride comprising a spheroid core having various qualities.</sentence>
+<sentence id="s138">Hence, the argument ran, all claims not so limited are not fairly based on the specification and breach s 40(3) of the Patents Act (which provides that "(t)he claim or claims must be clear and succinct and fairly based on the matter described in the specification).</sentence>
+<sentence id="s139">At [41]-[42] Sundberg J rejected Sigma's argument as follows: 
+ [ 41 ] As was said in Lockwood [2004] HCA 58 ; 217 CLR 274 at [69] , the words "real and reasonably clear disclosure" do not limit disclosures to preferred embodiments, or I would add examples.</sentence>
+<sentence id="s140">The spheroid core example is just that.</sentence>
+<sentence id="s141">Sigma's contention cannot be accepted when the specification is read as a whole.</sentence>
+<sentence id="s142">The invention is not limited to the example.</sentence>
+<sentence id="s143">It relates to a method of treating patients using a single daily dosing formulation of venlafaxine hydrochloride that provides a peak blood plasma concentration of venlafaxine within a defined period or at a defined level.</sentence>
+<sentence id="s144">
+
+ 
+ [ 42 ] Under the heading "Brief Description of the Invention" there are consistory style statements, three of which are set out at [10] and [12], that reflect various embodiments of the invention.</sentence>
+<sentence id="s145">These provide a description of the invention later claimed.</sentence>
+<sentence id="s146">See in particular claims 4 and 9.</sentence>
+<sentence id="s147">Nothing in the body of the specification suggests that the description of the invention it contains is wider than the invention claimed.</sentence>
+<sentence id="s148">The spheroid example is an example of one embodiment later reflected in a claim upon which Wyeth does not presently rely.</sentence>
+<sentence id="s149">See page 4B, lines 17 to 34, page 4C, line 1 and claims 18 and 19.</sentence>
+<sentence id="s150">The examples given at page 5 of the specification all deal with coated spheroids and are examples of the formulations referred to at page 4D, lines 5 to 16.</sentence>
+<sentence id="s151">
+
+ The consistory style statements to which Sundberg J was referring in [42] are also set out in [23] and [24] above.</sentence>
+<sentence id="s152">Whether or not Sundberg J was considering the same or a different argument, the principles his Honour applied are apt in relation to the present issue.</sentence>
+<sentence id="s153">The problem which Alphapharm must confront is that the specification (at p 2 lines 19-24) contains a statement identical to claim 1.</sentence>
+<sentence id="s154">Read with the preceding reference to the treatment of depression (p 1b lines 13-14), the specification also discloses the same matter as contained in claim 4.</sentence>
+<sentence id="s155">Further, the words "this invention", in the context of the specification read as a whole, prima facie refer to those words as used in the description on p 2 at lines 19-24 (namely, "(i)n accordance with this invention, there is provided a method for providing a therapeutic blood plasma concentration of venlafaxine over a 24 hour period...").</sentence>
+<sentence id="s156">One reference on which Alphapharm relied to support its construction is at p 4C lines 31-33 where the statement is made about numerous attempts having been made to produce single daily dosing, extended release or tablets by hydrogel technology proving to be fruitless.</sentence>
+<sentence id="s157">This reference, however, appears as part of an example of one embodiment in which the extended release formulations are formed as coated beads or spheres (at p 4B lines 22-26).</sentence>
+<sentence id="s158">Another main reference on which Alphapharm relied is at p 4D at lines 18-20 ("(t)he following examples are presented to illustrate applicant's solution to the problem of preparation of the extended release drug containing formulations of this invention").</sentence>
+<sentence id="s159">This is followed by a series of described further embodiments of the invention.</sentence>
+<sentence id="s160">This statement also appears as part of the example of one embodiment in which the extended release formulations are formed as coated beads or spheres.</sentence>
+<sentence id="s161">A similar point can be made about the statement that the desired dissolution rate had proven impossible to achieve with hydrogel tablet technology but had been achieved "with the film coated spheroid compositions of this invention" (at p 10 lines 17-19).</sentence>
+<sentence id="s162">The reference appears at the end of the example of one embodiment being the formation of the extended release formulations as coated beads or spheroids.</sentence>
+<sentence id="s163">In that context, the statement would ordinarily be read as a statement that, in that particular embodiment of "this invention", the use of hydrogel tablet technology had proven impossible, with the words "this invention" being a reference back to the invention as more generally described at p 2 lines 19-24 (that is, "(i)n accordance with this invention, there is provided a method for providing a therapeutic blood plasma concentration of venlafaxine over a 24 hour period...").</sentence>
+<sentence id="s164">I am reluctant to place any material weight on Wyeth's statements in other patent proceedings in the United States of America, essentially for the reasons given by Wyeth.</sentence>
+<sentence id="s165">The admissibility of those statements has not been finally determined.</sentence>
+<sentence id="s166">Wyeth foreshadowed an intention to object to their admission into evidence on the ground of relevance.</sentence>
+<sentence id="s167">The grounds articulated in support of this intended objection, at least on their face, carry weight.</sentence>
+<sentence id="s168">In summary, although the emphasis of the argument is undoubtedly different, Alphapharm's proposition is the same in principle as that considered and rejected by Sundberg J in the Sigma decision at [41]-[42].</sentence>
+<sentence id="s169">The statements on which Alphapharm relied to construe the method patent as excluding hydrogel tablet technology (as described at p 1a of the specification) all appear as part of the text dealing with the example of one embodiment being coated beads or spheroids.</sentence>
+<sentence id="s170">The ordinary cannons of construction tend to indicate that the invention is not limited to that embodiment or any example of that embodiment.</sentence>
+<sentence id="s171">Sundberg J so concluded in support of his rejection of Sigma's fair basis argument.</sentence>
+<sentence id="s172">On a prima facie basis, I also so conclude.</sentence>
+<sentence id="s173">Accordingly and for the purposes of this application, I accept that, as the evidence currently stands, Wyeth has a reasonably strong prima facie case for infringement under s 117 of the Patents Act .</sentence>
+<sentence id="s174">LACK OF FAIR BASIS 
+ Competing submissions
+ As noted at [42] above, Alphapharm's argument against infringement (on the basis that the method patent excludes hydrogel tablet technology) is related to its argument that the method patent contravenes s 40(3) of the Patents Act ("(t)he claim or claims must be clear and succinct and fairly based on the matter described in the specification").</sentence>
+<sentence id="s175">According to this argument, Wyeth's problem is that if the claims do not exclude hydrogel tablet technology then the claims are not fairly based on the matter described in the specification because the specification excludes that technology.</sentence>
+<sentence id="s176">The disagreement between the parties relates to the application of principles with respect to fair basis to the method patent rather than the content of those principles.</sentence>
+<sentence id="s177">Hence, it is common ground that the fair basis requirement relates to the matter in the specification disclosing the invention ( Lockwood No 1 at [53]).</sentence>
+<sentence id="s178">The requirement is that there be a real and reasonably clear disclosure in the body of the specification of that which is claimed so that the invention is broadly, that is in a general sense, described in the body of the specification.</sentence>
+<sentence id="s179">Such a disclosure is not limited to preferred embodiments.</sentence>
+<sentence id="s180">Further, a "requirement for the best method of performing an invention does not make it necessarily a requirement for all claims".</sentence>
+<sentence id="s181">Also, material forming part of the description of the invention need not be included as an integer of each claim ( Lockwood No 1 at [69] citing Rehm Pty Ltd v Websters Security Systems (International) Pty Ltd (1988) 81 ALR 79 at 95 per Gummow J).</sentence>
+<sentence id="s182">Alphapharm and Wyeth both drew support from Atlantis Corporation , albeit for their conflicting positions.</sentence>
+<sentence id="s183">The High Court in Lockwood No 1 at [87] described the reasoning in Atlantis Corporation in Lockwood No 1 : 
+ Finally, it is necessary to consider the trial judge's citation of Atlantis Corporation Pty Ltd v Schindler for the proposition that to couch a claim "in the same terms as the description of the invention in the specification" did not of itself, by that mere "coincidence of language", establish fair basing.</sentence>
+<sentence id="s184">That proposition is correct, but it is not fatal to the Patentee's position in this case.</sentence>
+<sentence id="s185">A "coincidence of language" between a claim and part of the body of a specification does not establish fair basing if that part of the language of the specification does not reflect the description of the invention in the light of the specification as a whole.</sentence>
+<sentence id="s186">In the Atlantis Case , the specification, read as a whole, described an apparatus limited to a particular use as a sub-soil drainage system.</sentence>
+<sentence id="s187">The claims, however, were "pure apparatus" claims without that limitation on use.</sentence>
+<sentence id="s188">The Full Court of the Federal Court of Australia refused to construe them narrowly so as to conform with the description in the specification.</sentence>
+<sentence id="s189">A statement in the specification of a description of the invention in similar language to the first claim was not treated as the description of the invention.</sentence>
+<sentence id="s190">While the Full Court did not engage in close textual analysis, it did distinctly hold that the statement in the specification ( Atlantis Corporation Pty Ltd v Schindler (1997) 39 IPR 29 at 50, per Wilcox and Lindgren JJ.</sentence>
+<sentence id="s191">Lockhart J also held that the patent did not satisfy s 40(2)(b) at 36): 
+
+ 
+"should not be allowed to disguise the fact that the invention disclosed in the body of the specification is truly 'a sub-soil drainage method based on a particular apparatus' or 'a particular apparatus in its application to sub-soil drainage'.</sentence>
+<sentence id="s192">The claims, however, are 'pure apparatus claims'.</sentence>
+<sentence id="s193">They are not subject to any limitation as to use.</sentence>
+<sentence id="s194">They travel beyond, and are not fairly based on, the matter described in the specification.</sentence>
+<sentence id="s195">"
+ 
+ Alphapharm contended that the claims in the method patent (assuming that they include hydrogel tablet technology) travel beyond the invention disclosed in the specification.</sentence>
+<sentence id="s196">It relied on the parts of the specification referred to at [42] above, as well as Dr Marshall's evidence.</sentence>
+<sentence id="s197">This evidence is to the effect that while the specification excludes hydrogel tablet technology (by stating that numerous attempts to produce a single daily dosing, extended release formulation by that technology proved fruitless), the claims purport to include a formulation, being hydrogel tablet technology.</sentence>
+<sentence id="s198">In other words, the claims include what the specification says is impossible to achieve.</sentence>
+<sentence id="s199">Alphapharm submitted that no other construction of the clear statement on p 10 of the specification about impossibility is open.</sentence>
+<sentence id="s200">Alphapharm characterised this approach to the method patent as "compelling".</sentence>
+<sentence id="s201">Wyeth said that the statements in the specification about hydrogel tablet technology do not assist Alphapharm on its fair basis point, for much the same reasons as given in response to Alphapharm's infringement defence.</sentence>
+<sentence id="s202">The consistory style statements (including that quoted at [23] above) provide a clear description of the invention claimed.</sentence>
+<sentence id="s203">Nothing in the specification, said Wyeth, suggests the description of the invention is narrower than the invention as claimed.</sentence>
+<sentence id="s204">In particular, the statements on which Alphapharm relied do not indicate that the use in the methods of formulation of hydrogel tablet technology is excluded from the invention.</sentence>
+<sentence id="s205">The invention is the method of treatment.</sentence>
+<sentence id="s206">Properly understood, the evidence of Professor Charman and Dr Marshall is to the effect that it would be possible to achieve the desired dissolution rate using hydrogel tablet technology.</sentence>
+<sentence id="s207">As to the formulation consisting of a spheroid core coated with a mixture of ethyl cellulose and hydroxypropylmethylcellulose ( HPMC ), Wyeth said this is put forward in the specification as a specific example of a formulation which can be used in the claimed method of treatment.</sentence>
+<sentence id="s208">It is expressly identified as an example of one embodiment of the invention.</sentence>
+<sentence id="s209">The experimental examples are said to be illustrative not exhaustive.</sentence>
+<sentence id="s210">Hence, the fair basis argument has no prospect of success.</sentence>
+<sentence id="s211">Discussion
+ I consider that, for similar reasons given in respect of the infringement issue, Alphapharm's approach to construction confronts difficulties arising from the structure and the text of the specification.</sentence>
+<sentence id="s212">The specification describes the invention as method of treatment involving certain key factors (the single daily dose to achieve the nominated peak and therapeutic blood plasma levels within the nominated time frames).</sentence>
+<sentence id="s213">Numerous embodiments of this invention are identified.</sentence>
+<sentence id="s214">The spheroid core coated with a mixture of ethyl cellulose and HPMC is an example of one embodiment.</sentence>
+<sentence id="s215">The statement on p 4C of the specification that attempts to produce a single daily dosing formulation using hydrogel tablet technology "proved fruitless" appears as a part of this example of one embodiment of the invention.</sentence>
+<sentence id="s216">The statement about the desired dissolution rate being impossible to achieve using hydrogel tablet technology appears as a concluding passage following a series of illustrative experimental examples of this example of one embodiment of the invention.</sentence>
+<sentence id="s217">The decision in Atlantis Corporation appears to provide Wyeth with greater support than Alphapharm.</sentence>
+<sentence id="s218">In Atlantis Corporation the narrow description of the invention appeared at the outset and was followed by a more general description of an apparatus.</sentence>
+<sentence id="s219">The first claim was for the more general description of the apparatus.</sentence>
+<sentence id="s220">That claim was unambiguous and could not be read down by reference to the specification.</sentence>
+<sentence id="s221">Hence, the claim travelled beyond and was not fairly based on the specification.</sentence>
+<sentence id="s222">In the present case the specification is structured differently.</sentence>
+<sentence id="s223">The statements of exclusion from or narrowing of the invention on which Alphapharm relied follow more general descriptions and embodiments of the invention, in parts of the specification dealing with one among a number of embodiments and an example of that embodiment.</sentence>
+<sentence id="s224">The claims are no broader than the more general descriptions and embodiments of the invention.</sentence>
+<sentence id="s225">It is therefore difficult to see how they are not fairly based on the on the matter described in the specification.</sentence>
+<sentence id="s226">For these reasons, and consistent with the equivalent conclusion of Sundberg J in the Sigma decision, I do not accept that Alphapharm has a prima facie case of invalidity on the fair basis argument.</sentence>
+<sentence id="s227">FALSE SUGGESTION OR MISREPRESENTATION 
+ Subsections 138(3)(d) and (e) of the Patents Act provide that a patent (or amendment of the patent) may be revoked if obtained by false suggestion or misrepresentation.</sentence>
+<sentence id="s228">Competing submissions
+ For the purpose of this application, Alphapharm contended that two statements in the specification constituted false suggestion or misrepresentation, namely, the statements on p 4C and p 10 respectively, as follows: 
+ p 4C: It was completely unexpected that a single daily dosing formulation containing venlafaxine hydrochloride for use in the methods of the invention could be obtained because the hydrochloride of venlafaxine proved to be extremely water soluble.</sentence>
+<sentence id="s229">
+
+ 
+( the completely unexpected representation ).</sentence>
+<sentence id="s230">
+ p 10 Thus, the desired dissolution rate of a sustained release dosage form of venlafaxine hydrochloride, impossible to achieve with hydrogel tablet technology, has been achieved with the film-coated spheroid compositions of this invention.</sentence>
+<sentence id="s231">
+
+ 
+ (the impossibility representation).</sentence>
+<sentence id="s232">
+ Alphapharm submitted that the specification set up a problem, being the statement at p 4D that: 
+ The following examples are presented to illustrate applicant's solution to the problem of preparation of the extended release drug containing formulations of this invention.</sentence>
+<sentence id="s233">
+
+ The specification identifies the two conventional technologies for preparing extended release formulations (hydrogel tablet technology at p 1a and film-coated spheroids at pp 1a-1b).</sentence>
+<sentence id="s234">The specification identifies difficulties with both (at p 4C for hydrogel tablet technology, being that the tablets dissolved too rapidly, and at p 4D for the film-coated spheroids, being that during the extrusion process, the extrudate was too dry).</sentence>
+<sentence id="s235">The specification also identifies the solution to this problem associated with the film-coated spheroids, being the addition of HPMC to the film-coating mixture (at p 4D).</sentence>
+<sentence id="s236">After giving examples of this solution, the specification concludes with the impossibility representation about hydrogel tablet technology.</sentence>
+<sentence id="s237">According to Alphapharm, the structure of the specification discloses that the two representations are central to the assertion that hydrogel tablet technology, one of the conventional means for preparing extended release formulations, did not work for venlafaxine hydrochloride.</sentence>
+<sentence id="s238">Hence, the representations are central in asserting the existence of a problem which the method patent purported to resolve.</sentence>
+<sentence id="s239">Without the assertion of a problem with conventional technologies for the preparation of an extended release formulation, it is likely the application for the method patent would have been rejected for not being a patentable invention on the grounds of not being a manner of manufacture or for not containing an inventive step.</sentence>
+<sentence id="s240">Thus, it readily may be inferred that the representations materially contributed to the decision to grant the method patent (by analogy to WM Wrigley Jr Company v Cadbury-Schweppes Pty Limited t/as Trebor Confectionary (2005) 66 IPR 298 ; [2005] FCA 1035 at [133] ).</sentence>
+<sentence id="s241">Alphapharm contended that the representations were false and misleading.</sentence>
+<sentence id="s242">With respect to the completely unexpected representation, Alphapharm emphasised Dr Marshall's evidence that, as at 25 March 1996 (the priority date of the method patent, as presumed for the purpose of the interlocutory application), it would not have been completely unexpected that a single daily dosing formulation of venlafaxine hydrochloride could be obtained.</sentence>
+<sentence id="s243">The specification does not identify any reason for this unexpectedness other than the water- solubility of tablets produced by hydrogel technology.</sentence>
+<sentence id="s244">As to that issue, by 25 March 1996: - (i) high solubility did not exclude an extended release formulation, (ii) many texts detailed how to delay dissolution, (iii) a number of highly water soluble drugs had been formulated into extended release formulations, (iv) the method patent refers to US Patent No 4138475 which is for an extended release formulation of a highly water soluble drug, and (v) examples of other successfully formulated extended release formulations can be found in reference texts.</sentence>
+<sentence id="s245">According to Alphapharm, Professor Charman agreed with Dr Marshall insofar as Professor Charman's evidence said that the problems experienced would not have suggested to a person skilled in the art in 1996 that an extended release formulation using hydrogel tablet technology could not be obtained.</sentence>
+<sentence id="s246">Further, Alphapharm submitted that the impossibility representation is an objective statement of fact of a position of impossibility for all time and cannot be read subjectively as limited to the inventor ( Apotex Pty Ltd (formerly GenRx Pty Ltd) v Sanofi-Aventis (2008) 78 IPR 485 ; [2008] FCA 1194 at [126] - [127] ).</sentence>
+<sentence id="s247">Enlafax-XR uses hydrogel tablet technology, which itself falsifies the impossibility representation.</sentence>
+<sentence id="s248">If limited to the priority date of the method patent, the statement is still false as Dr Marshall's and Professor Charman's evidence indicates.</sentence>
+<sentence id="s249">They both gave evidence that, in 1996, a hydrogel tablet technology formulation would be possible to be achieved by a person skilled in the art.</sentence>
+<sentence id="s250">The falsity is thus analogous to that found in Prestige Group (Australia) Pty Limited v Dart Industries Inc .</sentence>
+<sentence id="s251">(1990) 26 FCR 197 at 218-219 in that the method patent claims that using hydrogel tablet technology is impossible in the methods of the invention and yet does not exclude hydrogel tablet technology from the invention claimed.</sentence>
+<sentence id="s252">In this regard, Alphapharm again relied on Wyeth's statements in the other patent proceedings in the United States of America, referred to at [42] and [49] above as confirming the false and misleading nature of the representations.</sentence>
+<sentence id="s253">Alphapharm's written submissions also referred to International Patent Publication No WO94/25789 ( the Alza patent ).</sentence>
+<sentence id="s254">In its written submissions, Alphapharm pointed out that the Alza patent evidenced that a single daily dose formulation of venlafaxine hydrochloride in a controlled release formulation in fact existed before the priority date of the method patent.</sentence>
+<sentence id="s255">However, consistent with Sigma's approach in the Sigma proceeding, recorded at [44] of the Sigma decision, Alphapharm confirmed that it did not rely on the Alza patent in oral argument for the purpose of this interlocutory application.</sentence>
+<sentence id="s256">Hence, I do not consider the Alza patent further.</sentence>
+<sentence id="s257">Wyeth's response to Alphapharm's arguments about the completely unexpected representation emphasised that the statement is not that it was completely unexpected that venlafaxine hydrochloride could be formulated as an extended release formulation.</sentence>
+<sentence id="s258">The statement is limited to "use in the methods of the invention", those methods being the single daily dosing formulation providing the therapeutic and peak blood plasma concentrations within and over the periods prescribed.</sentence>
+<sentence id="s259">Wyeth said that Dr Marshall's evidence misunderstood the specification by failing to reflect the importance of the words "for use in the methods of the invention".</sentence>
+<sentence id="s260">In any event, statements about results being unexpected or surprising are unlikely to be capable of supporting a conclusion of false suggestion, let alone one materially influencing the grant of the patent (citing in support Apotex at [126]-127]).</sentence>
+<sentence id="s261">Wyeth's response to Alphapharm's arguments about the impossibility representation emphasised that the statement, properly construed, was limited to that which the inventor had found possible.</sentence>
+<sentence id="s262">The inventor had found it impossible to use hydrogel tablet technology in the methods of the invention, but the evidence of Dr Marshall and Professor Charman supported the inference that a person skilled in the art would not have thought it impossible to achieve.</sentence>
+<sentence id="s263">In any event, Alphapharm's submission is illogical.</sentence>
+<sentence id="s264">It is to the effect that a representation that the invention did not include a method using hydrogel tablet technology induced the grant of a patent that did extend to the use of hydrogel tablet technology.</sentence>
+<sentence id="s265">According to Wyeth the very fact that the method patent was granted for a method covering all technology demonstrates either that the impossibility representation was not conveyed or, if it was, that it was not material.</sentence>
+<sentence id="s266">Discussion
+ The relevant principles about this ground of challenge, insofar as not apparent from the summary of the competing submissions above, were not in dispute.</sentence>
+<sentence id="s267">They are identified in Ranbaxy Australia Pty Ltd v Warner-Lambert Co LLC (2008) 77 IPR 449 ; [2008] FCAFC 82 at [82] , [83] and [96] as follows: 
+ [82] If a representation that was false or misleading materially contributed to the Commissioner's decision to grant a patent, even if other circumstances or causes also played a part in the making of that decision, it may be said that the patent was obtained by a false suggestion or misrepresentation (or on a false suggestion or representation, to use the language of the 1952 Act).</sentence>
+<sentence id="s268">It is sufficient if the representation materially contributed to the Commissioner's decision to grant the patent or was a material, inducing factor, which led to the grant.</sentence>
+<sentence id="s269">However, it is not necessary to establish that the representation was material in the sense that, without it, the patent would not have proceeded to grant ( Pfizer Overseas Pharmaceuticals v Ely Lilly &amp; Co [2005] FCAFC 224 ; (2005) 225 ALR 416 at 495).</sentence>
+<sentence id="s270">It is not necessary to show that, but for the suggestion or representation, no grant would have been made ( Prestige Group (Australia) Pty Limited v Dart Industries Inc (1990) 95 ALR 533 at 537-538).</sentence>
+<sentence id="s271">
+
+ 
+ [83] Bearing in mind that the grant of a patent is a right in rem, the Commissioner could be expected to take a position if a misrepresentation did in fact play a part in the decision to grant a patent and it is a relevant factor that the Commissioner chooses not to give evidence ( ICI Chemicals &amp; Polymers Limited v The Lubrizol Corporation Inc [2000] FCA 1349 ; (2000) 106 FCR 214 at 244-245).</sentence>
+<sentence id="s272">In the absence of such evidence, it is for the Court to make a finding, based on the evidence before it.</sentence>
+<sentence id="s273">In the absence of explicit evidence that the Commissioner, or the Commissioner's delegate, was in fact misled, it may nevertheless be inferred that a representation in fact contributed to the decision to grant a patent, if the representation was objectively likely to contribute to such a decision and the patent was in fact granted (see Synthetic Turf Development Pty Limited v Sports Technology International Pty Limited [2004] FCA 1179 at [2] , and WM Wrigley Jr Co v Cadbury Schweppes Pty Limited [2005] FCA 1035 ; (2005) 66 IPR 298 at 321).</sentence>
+<sentence id="s274">
+
+ 
+ ... 
+
+ 
+ [96] It is for the Court to construe a specification, although the Court will do so in the light of evidence as to usage of language by the relevant skilled addressee of the specification, to the extent that language is used in a manner that is different from ordinary English usage.</sentence>
+<sentence id="s275">In order to do so, the Court must place itself in the position of a person skilled in the art as at the priority date.</sentence>
+<sentence id="s276">Thus, the Court would have regard to evidence of what a person skilled in the art would understand from the language, information or data in a specification or what such language, information or data would disclose to the relevant skilled addressee.</sentence>
+<sentence id="s277">Ultimately, of course, the question of what representations are made in a specification is a matter for the Court to determine.</sentence>
+<sentence id="s278">
+ 
+ Consistent with Wyeth's submissions, I do not find Alphapharm's approach to the completely unexpected representation persuasive on the basis of the evidence as it currently stands.</sentence>
+<sentence id="s279">While Dr Marshall was aware of the reference to "use in the methods of the invention" in the statement said to convey this representation, his evidence indicates that the significance of this limitation may not have played as significant a role in his conclusions as warranted.</sentence>
+<sentence id="s280">The statement is not about an extended release formulation of venlafaxine hydrochloride.</sentence>
+<sentence id="s281">It is about such a formulation satisfying the requirements of a single daily dosing formulation providing the therapeutic and peak blood plasma concentrations within and over the periods prescribed.</sentence>
+<sentence id="s282">In this context, the evidence available is not a sufficient basis to draw an inference that the statement is false or misleading, even if construed objectively.</sentence>
+<sentence id="s283">Accordingly, I do not consider that Alphapharm has established a prima facie case of invalidity based on the completely unexpected representation.</sentence>
+<sentence id="s284">The impossibility representation involves more difficult issues.</sentence>
+<sentence id="s285">The main problem for Alphapharm is that it is strongly arguable that, read in context, the "impossibility" is a reference back to the "numerous attempts" which had proved "fruitless" on p 4C.</sentence>
+<sentence id="s286">So read, the statement conveys nothing more than that which the inventor had not achieved.</sentence>
+<sentence id="s287">The main problem for Wyeth is that the statement is not expressly qualified as related to the inventor's attempts (unlike the completely unexpected representation) and appears absolute and unqualified.</sentence>
+<sentence id="s288">Wyeth's arguments about Alphapharm's submissions on materiality being illogical do not, at this stage, sufficiently engage with the structural argument that, in effect, the specification establishes a problem (impossibility of hydrogel tablet technology for use in the methods of the invention) and provides a solution (film-coated spheroid spheres for use in the methods of invention), and that together these matters would have been objectively material to the issues of manner of manufacture and inventive step, and thus material to the grant of the method patent.</sentence>
+<sentence id="s289">Accordingly, I consider that, as the evidence currently stands, Alphapharm has established a prima facie case of invalidity based on the impossibility representation.</sentence>
+<sentence id="s290">MANNER OF MANUFACTURE 
+ Competing submissions
+ In order to be a manner of manufacture within the meaning of s 6 of the Statute of Monopolies (referred to in the definition of "invention" in the Patents Act , s 3 , as meaning "any manner of new manufacture the subject of letters patent and grant of privilege within s 6 of the Statute of Monopolies, and includes an alleged invention") the specification must disclose an invention.</sentence>
+<sentence id="s291">This is a threshold or additional requirement to that of novelty and inventive step ( Merck &amp; Co Inc v Arrow Pharmaceuticals Limited (2006) 154 FCR 31 ; [2006] FCAFC 91 at [63] .</sentence>
+<sentence id="s292">Alphapharm submitted that the specification of the method patent did not disclose an invention and therefore was not a manner of manufacture.</sentence>
+<sentence id="s293">Based on the evidence of Dr James Rowe (director of CoPharm Pty Ltd and NxGen Pharmaceuticals Pty Ltd), Alphapharm said that at the 25 March 1996 priority date (as claimed but to be disputed) it is apparent that: - (i) venlafaxine hydrochloride was a known substance, (ii) extended release formulations of drugs were well known, (iii) control of release rate was a matter of routine variation of the delivery system, (iv) it was expected that a controlled release formulation would reach peak plasma levels in about four hours, (v) the desirable period for release of an active ingredient was known to be about six to eighteen hours, and (vi) a single daily dosing formulation of venlafaxine hydrochloride already existed (being a reference to the Alza patent on which Alphapharm did not rely for the purpose of this application).</sentence>
+<sentence id="s294">Accordingly, submitted Alphapharm, the alleged invention consists merely of a method of achieving an outcome, known to be desirable (due to the known problems with the immediate release formulation requiring multiple dosing), by known characteristics.</sentence>
+<sentence id="s295">Sundberg J so found on a prima facie basis in the Sigma decision at [34].</sentence>
+<sentence id="s296">Wyeth acknowledged Sundberg J's finding, but noted that in the present proceeding Professor Charman's evidence was to the contrary of that of Dr Rowe.</sentence>
+<sentence id="s297">Wyeth also observed that, while Sundberg J had concluded that there was a prima facie case on this issue, his Honour obviously did not consider it to be of such strength that it negated or undermined Wyeth's prima facie case on infringement.</sentence>
+<sentence id="s298">Wyeth also relied on certain evidence of Professor Charman additional to that before Sundberg J which it described as "compelling".</sentence>
+<sentence id="s299">Wyeth said that this closer analysis by Professor Charman revealed that: - (i) the practical utility of the claimed method is clear on the face of the specification (citing National Research Development Corporation v Commissioner of Patents [1959] HCA 67 ; (1959) 102 CLR 252) , (ii) Alphapharm's assertion that the claimed invention was merely a method using a known substance with known characteristics is a gross over-simplification of the claimed invention, (iii) nothing on the face of the specification supports Alphapharm's submission (distinguishing Commissioner of Patents v Microcell Ltd (1959) 102 CLR 232 at 249), (iv) the invention is not generally inconvenient, (v) the claimed plasma profile was not obviously desirable, and (vi) the concept of a specification having to disclose an invention, as a threshold to the requirements of novelty and inventive step, is debatable and a ground of last resort (citing Bristol-Myers Squibb Company v F H Faulding &amp; Co Ltd (2000) 97 FCR 524 ; [2000] FCA 316 at [45] and Lockwood Security Products Pty Ltd v Doric Products Pty Ltd (2007) 235 CLR 173 [2007] HCA 21 ( Lockwood No 2 ) at [106]).</sentence>
+<sentence id="s300">Discussion
+ As Sundberg J observed in the Sigma decision at [31]: 
+ The leading cases, including NV Philips Gloeilampenfabrieken v Mirabella International Pty Ltd [1995] HCA 15 ; (1995) 183 CLR 655 at 661-666 and Merck &amp; Co Inc v Arrow Pharmaceuticals Ltd [2006] FCAFC 91 ; (2006) 154 FCR 31 at [63] , establish that: 
+
+ 
+ (a) the opening words of s 18(1) of the Act --- "a patentable invention is an invention that" --- impose a threshold requirement that the "patentable invention" be an "invention", that is to say an alleged manner of new manufacture;
+ (b) that requirement will not be met if, on the face of the specification, the subject matter: 
+
+ 
+ (i) lacks the necessary quality of inventiveness under the Statute of Monopolies ;
+ (ii) is not new;
+ (c) a new use of an old substance is not an invention if its known properties make it suitable for that use --- in such a case the new purpose is no more than analogous to the purposes for which the utility of the substance is already known; and
+ (d) there will be an invention if the new use consists in taking advantage of a hitherto unknown or unsuspected property of the substance.</sentence>
+<sentence id="s301">
+
+ It is true that in the present proceeding Professor Charman has now provided a detailed response to Dr Rowe's evidence.</sentence>
+<sentence id="s302">On its face, the answers provided are comprehensive and capable of being persuasive.</sentence>
+<sentence id="s303">However, given that neither expert was cross-examined, it is not possible to predict where the weight of expert opinion will lie.</sentence>
+<sentence id="s304">In these circumstances, the position is as concluded by Sundberg J at [34], namely, that if Dr Rowe's evidence remains the same and is accepted at trial, it "will likely lead to the conclusion that there is no new manner of manufacture".</sentence>
+<sentence id="s305">Accordingly, Alphapharm has established a prima facie case of invalidity on this basis.</sentence>
+<sentence id="s306">INVENTIVE STEP 
+ Section 18(1)(b)(ii) of the Patents Act states that an invention is a patentable invention for the purposes of a standard patent if the invention, so far as claimed in any claim involves an inventive step.</sentence>
+<sentence id="s307">Section 7(2) provides that "(f)or the purposes of this Act, an invention is to be taken to involve an inventive step when compared with the prior art base unless the invention would have been obvious to a person skilled in the relevant art in the light of the common general knowledge as it existed in the patent area before the priority date of the relevant claim, whether that knowledge is considered separately or together with the information mentioned in subsection (3)".</sentence>
+<sentence id="s308">The information mentioned in s 7(3) is: (a) a single piece of prior art information; or (b) any combination of any two pieces of prior art information.</sentence>
+<sentence id="s309">The "prior art base" is defined in Sch 1.</sentence>
+<sentence id="s310">Competing submissions
+ Alphapharm relied on Dr Rowe's evidence (referred to at [85] above) to support its argument that the alleged invention in the method patent did not involve any inventive step.</sentence>
+<sentence id="s311">In summary, as Alphapharm's submissions at paragraph 89 put it, this evidence supports the conclusion that the alleged invention "describes a known drug....put in a known delivery system..., resulting in an expected extended release profile for that drug formulation" when all of those matters would have been known to a skilled addressee in light of the common general knowledge and prior art information as it existed before the priority date of the method patent.</sentence>
+<sentence id="s312">Wyeth stressed the inventive step of the invention as involving a particular plasma profile having a particular therapeutic effect.</sentence>
+<sentence id="s313">Wyeth submitted that Dr Rowe's evidence failed to address those essential elements of the invention.</sentence>
+<sentence id="s314">Dr Rowe in fact failed to identify key parameters of the plasma profile in the method.</sentence>
+<sentence id="s315">There was no way that a skilled addressee could have predicted at the priority date that the blood plasma profile of the method claimed would have achieved the therapeutic benefits of clinical effectiveness as well as reduced side effects.</sentence>
+<sentence id="s316">That is the inventive step.</sentence>
+<sentence id="s317">Wyeth noted that, as with the issue of manner of manufacture, Professor Charman has provided additional evidence not available to Sundberg J in the Sigma proceeding (in which his Honour concluded that Sigma had established a prima facie case of invalidity on this ground).</sentence>
+<sentence id="s318">Further, the test for lack of inventive step, or obviousness, is onerous ( Aktiebolaget Hassle v Alphapharm Pty Ltd (2002) 212 CLR 411 ; [2002] HCA 59 and Lockwood No 2 ).</sentence>
+<sentence id="s319">Accordingly, the challenger would have to show more than that it was "obvious to try"; it must be that the skilled person is "directly led as a matter of course to try" in the expectation that it might well work.</sentence>
+<sentence id="s320">A "'scintilla of invention' remains sufficient in Australian law to support the validity of a patent" ( Lockwood No 2 at [52]).</sentence>
+<sentence id="s321">The issue depends greatly on expert evidence and is heavily fact dependent.</sentence>
+<sentence id="s322">Hence, the establishment by Alphapharm of a prima facie case of invalidity on this ground could not operate to deprive Wyeth of interlocutory relief based on its prima facie case of infringement.</sentence>
+<sentence id="s323">Discussion
+ Consistent with the approach taken above to the expert evidence (and, I note, by Sundberg J in the Sigma decision), all that can be said at this stage is that the evidence is in conflict in circumstances where the opinions of both experts (Dr Rowe and Professor Charman), prima facie , appear to be entitled to weight.</sentence>
+<sentence id="s324">I am satisfied, therefore, that I should adopt the same approach as Sundberg J to the issue of inventive step, in short, for the reasons his Honour gave at [27]-[30].</sentence>
+<sentence id="s325">Those reasons are as follows: 
+ [27] ...that there is a prima facie case that the invention would have been obvious to a person skilled in the relevant art in light of the common general knowledge as it existed in Australia before the priority date (25 March 1996).</sentence>
+<sentence id="s326">The field of the invention is the formulation of extended release formulations of drug components.</sentence>
+<sentence id="s327">Dr Rowe is a formulation chemist.</sentence>
+<sentence id="s328">By reference to pre 1996 publications his evidence is that before the priority date the reasons for desiring an extended release formulation were well known, extended release formulations of drugs were known and available on the market, mechanisms for achieving extended release formulations were known, extended release polymers were known and commercially available, control of release rate was a matter of routine variation of the parameters of the delivery system, it was expected that a controlled release formulation would reach peak plasma levels in about four hours, and the desirable period over which an extended release formulation would release an active ingredient was known to be 6 to 18 hours.</sentence>
+<sentence id="s329">
+
+ 
+ [28] Wyeth criticised Dr Rowe's conclusions as no more than a routine literature search, falling short of establishing that what was shown by the documents to which he referred had entered the common general knowledge of those in Australia experienced in the practical working of formulating drugs for therapeutic use.</sentence>
+<sentence id="s330">See Aktiebolaget Hassle v Alphapharma Pty Ltd [2002] HCA 59 ; (2002) 212 CLR 411 at [45] and [57].</sentence>
+<sentence id="s331">
+
+ 
+ [29] It is true that Dr Rowe does not, in his several reports, use the words of s 7(2) of the Act --- "common general knowledge as it existed" in Australia.</sentence>
+<sentence id="s332">Nevertheless, on a fair reading of his reports, he does in my view do more than list the matters that he thought could be derived from the publications to which he referred.</sentence>
+<sentence id="s333">Dr Rowe first identified the relevant skilled person.</sentence>
+<sentence id="s334">He said that during his time at Abbott Laboratories in Sydney in the late 1980s working on new pharmaceutical formulations, he headed a team of six people comprising three analytical chemists and three formulation chemists, as well as several technicians.</sentence>
+<sentence id="s335">At the time he had a PhD, and the chemists in the team all had chemistry or pharmacy degrees and between two and fifteen years experience.</sentence>
+<sentence id="s336">He said that was the team he considered to be a typical team involved in pharmaceutical formulation, including sustained release formulation, in Australia at the priority date.</sentence>
+<sentence id="s337">He went on to say that where in his affidavit he referred to a skilled person, he was referring to what he would have done and what he believed, on the basis of his experiences, other persons with similar experience would be likely to have done at the priority date.</sentence>
+<sentence id="s338">Thus, for example, when he later referred (at par 40 of his affidavit) to standard textbooks which he owned "and which would have been routinely referred to by the Skilled Person at the Priority Date", he is to be taken as saying that a team such as the Abbott Laboratories group would have routinely referred to those texts.</sentence>
+<sentence id="s339">Throughout his main report (his affidavit) he uses variants of this formulation.</sentence>
+<sentence id="s340">Accordingly, when in examining the integers of the various claims, Dr Rowe says that the claims do not "provide anything that is new or surprising or an advance over what was well known and understood by the Skilled Person as at the Priority Date", and that they provide results of routine trial and error testing (at par 78), his opinion is to be understood in the manner I have described.</sentence>
+<sentence id="s341">
+
+ 
+ [30] Aspects of Dr Rowe's evidence were challenged ...It is not possible on an application such as this to come to a conclusion as to which expert's opinion is preferable.</sentence>
+<sentence id="s342">That is a matter for close examination at trial.</sentence>
+<sentence id="s343">Even taking into account Professor Charman's criticisms, I remain of the view that Dr Rowe's evidence, understood as I have explained it, raises a prima facie case of invalidity for want of an inventive step.</sentence>
+<sentence id="s344">
+
+ For these reasons, which I adopt, I also conclude that Alphapharm has established a prima facie case of invalidity on this ground.</sentence>
+<sentence id="s345">INSUFFICIENCY 
+ Section 40(2)(a) of the Patents Act provides that a complete specification must describe the invention fully, including the best method known to the applicant of performing the invention.</sentence>
+<sentence id="s346">Failure to do so is a ground for revocation (s 138(f)).</sentence>
+<sentence id="s347">Alphapharm contended that the specification has no description of any method of treatment using hydrogel tablet technology or any means by which it may be made.</sentence>
+<sentence id="s348">As noted, the specification describes attempts to do so as fruitless and the outcome as impossible to achieve.</sentence>
+<sentence id="s349">Alphapharm submitted that if the claims cover hydrogel tablet technology then it must follow that the specification does not fully describe the invention ( Williams Advanced Materials Inc v Target Technology Co LLC (2004) 63 IPR 645 ; [2004] FCA 1405 at [108] ).</sentence>
+<sentence id="s350">Wyeth described this claim as "hopeless" having regard to the applicable law, citing Lockwood No 1 at [60] as follows: 
+ For the purposes of s 40(2)(a) , it is not necessary for the inventor to disclose all the alternative means; it is enough that there is disclosure in the sense of enabling the addressee of the specification to produce something within each claim without new inventions or additions or prolonged study of matters presenting additional difficulty.</sentence>
+<sentence id="s351">
+
+ Further, the High Court at [103] in Lockwood No 1 said: 
+ One source of these unfairnesses was said to be the fact that s 40(2)(a) , on the construction given by this Court in Kimberly-Clark [ Kimberly-Clark Australia Pty Ltd v Arico Trading International Pty Ltd (2001) 207 CLR 1 ; [2001] HCA 8] , is complied with if the complete specification enables the addressee to produce something within each claim without new inventions or additions or prolonged study of matters presenting initial difficulty: but Doric, whilst willing to attempt to sap life from Kimberly-Clark, prudently eschewed any attack upon that binding authority.</sentence>
+<sentence id="s352">
+
+ Wyeth's submissions on this issue are prima facie persuasive.</sentence>
+<sentence id="s353">The method patent does provide an example of a formulation which can be used to achieve the method of the claims; an embodiment within the claims is thereby enabled.</sentence>
+<sentence id="s354">Accordingly, I am not satisfied that Alphapharm has established a prima facie case of invalidity on this ground.</sentence>
+<sentence id="s355">NOVELTY 
+ In its particulars of invalidity, Alphapharm also challenges the novelty of the method patent, by reason of the publication of the Alza patent.</sentence>
+<sentence id="s356">However, consistent with Sigma's approach in the Sigma proceeding (recorded at [44] of the Sigma decision), Alphapharm did not rely on this at the interlocutory stage.</sentence>
+<sentence id="s357">INTERIM CONCLUSION 
+ Wyeth has established a reasonably strong prima facie case that Alphapharm's intended actions will infringe the method patent.</sentence>
+<sentence id="s358">Alphapharm has established a prima facie case for invalidity of the method patent on the grounds of the falsity of the impossibility representation, manner of manufacture and lack of inventive step.</sentence>
+<sentence id="s359">It is necessary, therefore, to turn to the balance of convenience, including the nature and extent of the harm involved.</sentence>
+<sentence id="s360">BALANCE OF CONVENIENCE 
+ Alphapharm's case
+ Alphapharm's approach to this issue implicitly acknowledged the undeniable fact that Sundberg J had carefully analysed similar competing considerations in the Sigma decision in which his Honour concluded that an interim injunction should issue.</sentence>
+<sentence id="s361">Alphapharm, accordingly, emphasised key factors which were not in evidence before or relevant to the Sigma decision.</sentence>
+<sentence id="s362">One such factor is the identification of the status quo (given the purpose of an interlocutory injunction as being to maintain the status quo pending the final resolution of the rights between the parties) as a consequence of Wyeth's actions in relation to Pristiq.</sentence>
+<sentence id="s363">Alphapharm said the evidence available on this application established that there is no stable status quo to protect.</sentence>
+<sentence id="s364">The "established trade" in Efexor-XR, on which Sundberg J relied in the Sigma decision at [59], was a result of Wyeth's evidence when the true position is that, by Wyeth's own hand, the market is being altered so as to shift it from Efexor-XR to Pristiq.</sentence>
+<sentence id="s365">Alphapharm supported this submission by reference to affidavits from Belinda Cowell, Alphapharm's head of marketing, Peter Astles, Alphapharm's business development manager, Mark Hurley, Alphapharm's executive director, and Dr Stephen Downes, an independent marketing expert, as well as confidential documents produced by Wyeth.</sentence>
+<sentence id="s366">According to Alphapharm, Wyeth's evidence in chief presented a picture of Efexor-XR as the leading antidepressant in Australia with annual sales of $115 million or about 25% of Wyeth Australia's income.</sentence>
+<sentence id="s367">However, after December 2008 the picture has changed.</sentence>
+<sentence id="s368">The compound patent had expired.</sentence>
+<sentence id="s369">Wyeth became exposed to competition from generic venlafaxine products.</sentence>
+<sentence id="s370">According to Mr Hurley, if such a generic product is launched with a listing on the PBS, it may be able to secure 50% of the market.</sentence>
+<sentence id="s371">If launched without PBS listing, it may be able to secure about 13.5% of the market.</sentence>
+<sentence id="s372">Alphapharm said that Wyeth had altered its marketing strategy in anticipation of the ARTG approval for and PBS listing of its new product, Pristiq.</sentence>
+<sentence id="s373">Pristiq is not listed on the PBS in the same product code as Efexor-XR so that generic venlafaxine products cannot compete with Pristiq.</sentence>
+<sentence id="s374">By about January 2009 virtually all of Wyeth's marketing efforts focused on Pristiq.</sentence>
+<sentence id="s375">Alphapharm said that confidential internal documents showed this focus on Pristiq, in effect, at the expense of Efexor-XR in terms of both new and existing patients.</sentence>
+<sentence id="s376">In other words, Alphapharm said that Wyeth is attempting to switch patients from Efexor-XR to Pristiq in circumstances where the latter is not exposed to competition from generic substitutes due to the Pristiq patent.</sentence>
+<sentence id="s377">The former, however, is exposed to competition due to the expiry of the compound patent.</sentence>
+<sentence id="s378">The consequence is to reduce the market for Efexor-XR (and thus the market in which generic substitutes can compete) by Wyeth's own hand.</sentence>
+<sentence id="s379">This, , said Alphapharm, is supported by evidence about a range of measures known in the pharmaceutical industry including: - (i) frequency of detailing for Pristiq compared to Efexor-XR (that is, one-on-one visits to medical practitioners), (ii) share of voice (that is, detailing frequency for Pristiq as a proportion of the overall detailing frequency for all products), (iii) total marketing spend for Pristiq compared to that for Efexor-XR, (iv) priority given to Pristiq in visits by sales representatives, (v) provision of free samples of Pristiq compared to Efexor-XR, and (vi) Wyeth's marketing message about Pristiq.</sentence>
+<sentence id="s380">Based on this material Alphapharm said that Wyeth must be inferred to be happy to allow Efexor-XR's market share to be eroded by a competitor product (that is Pristiq).</sentence>
+<sentence id="s381">Further, evidence showed that Pristiq is in fact being prescribed by medical practitioners and, on Wyeth's evidence, is anticipated to increase to about 38% of the combined sales of Efexor-XR and Pristiq by 31 December 2010.</sentence>
+<sentence id="s382">Hence, Wyeth's conduct means that the market for venlafaxine is rapidly diminishing.</sentence>
+<sentence id="s383">Alphapharm submitted that, in these circumstances, first, Wyeth could not assert a stable status quo warranting protection by an interlocutory injunction.</sentence>
+<sentence id="s384">Second, the public interest in competition is a discretionary factor weighing in Alphapharm's favour.</sentence>
+<sentence id="s385">Third, Wyeth is seeking an interlocutory injunction for a purpose outside the scope of the protection of the method patent, namely, to shelter itself from competition, a factor which also weighed in Alphapharm's favour.</sentence>
+<sentence id="s386">Fourth, Wyeth's conduct undermined its submissions about the risk of patient confusion in the event that Enlafax-XR is permitted to enter the market, to which Sundberg J referred in the Sigma decision at [63]-[65].</sentence>
+<sentence id="s387">Wyeth is encouraging switching from Efexor-XR to Pristiq.</sentence>
+<sentence id="s388">Further, on Wyeth's evidence, 15% of patients prescribed Pristiq had to be switched to Efexor-XR.</sentence>
+<sentence id="s389">Alphapharm referred to the evidence of Dr Julian Parmegiani which established that concerns about patient confusion are largely illusory.</sentence>
+<sentence id="s390">The vast majority of patients treated for depression lead ordinary lives and are capable of dealing with a brand change, including a brand change back to Efexor-XR should Wyeth succeed in the final hearing.</sentence>
+<sentence id="s391">In summary, Wyeth may not both approbate and reprobate by obtaining an interlocutory injunction to protect its proposed product switching from Efexor-XR to Pristiq on the basis of claims against any such switching to a generic substitute for Efexor-XR.</sentence>
+<sentence id="s392">Alphapharm described the effect of an injunction on it as irreparable.</sentence>
+<sentence id="s393">If an injunction were granted, it would remain in place until the final hearing.</sentence>
+<sentence id="s394">However, this is a type of case in which an appeal is inevitable.</sentence>
+<sentence id="s395">Even if Alphapharm succeeded at first instance, Wyeth would undoubtedly seek a stay to enable the appeal to be determined.</sentence>
+<sentence id="s396">The final result may not be available for two years or more.</sentence>
+<sentence id="s397">In that period Wyeth's actions will substantially reduce the market in Efexor-XR.</sentence>
+<sentence id="s398">Alphapharm had incurred more than $750,000 in direct costs, a large amount of executive and sales force time, and would lose its investment in purchasing stock, which was substantial.</sentence>
+<sentence id="s399">Alphapharm contended that its offered undertaking (not to take any action which would result in the Commonwealth imposing a 12.5% price reduction of Efexor-XR under the PBS), combined with its undertaking to maintain full accounts and proceeds of sale of Enlafax-XR separately, meant that damages or an account of profits would be an adequate remedy for Wyeth.</sentence>
+<sentence id="s400">The position is thus different from that before Sundberg J as summarised in [51] and [52] of his Honour's reasons.</sentence>
+<sentence id="s401">The proposed limited private launch of Enlafax-XR may cause a modest drop in sales of Efexor-XR up to about 13.5%.</sentence>
+<sentence id="s402">Wyeth's evidence grossly exaggerated the likely impact.</sentence>
+<sentence id="s403">The fact that other generic venlafaxine products may also enter the market does not make damages or an account of profits impossible.</sentence>
+<sentence id="s404">Given Wyeth's intention to restrain all alleged breaches of the method patent, those generic suppliers too could be required to maintain separate accounts on sales of their generic equivalent.</sentence>
+<sentence id="s405">A complex calculation should not deter the Court from accepting the adequacy of the remedy (contrary to Sundberg J's conclusion at [56]).</sentence>
+<sentence id="s406">Similarly it is not correct that Wyeth could never recover its position if it ultimately succeeded.</sentence>
+<sentence id="s407">In that event, Efexor-XR would be the only product on the market (apart from Pristiq).</sentence>
+<sentence id="s408">By contrast, Alphapharm's position is not adequately protected by Wyeth's undertaking as to damages if the method patent is found to be invalid.</sentence>
+<sentence id="s409">First, Alphapharm was particularly concerned that Wyeth would remove Efexor-XR from the PBS, which would negate Alphapharm's capacity to list.</sentence>
+<sentence id="s410">This prompted Wyeth to offer to undertake not to do so until further order.</sentence>
+<sentence id="s411">Second, Alphapharm's loss would be hypothetical (lost sales) in the context of Wyeth's continuing cannibalisation of the market for Efexor-XR by Pristiq.</sentence>
+<sentence id="s412">Calculating such losses would be far more difficult than the task required to protect Wyeth if an injunction were refused, particularly given that Wyeth could be expected to argue that any changes in the market were not reasonably foreseeable when it gave the undertaking (citing Air Express Ltd v Ansett Transport Industries (Operations) Pty Ltd [1981] HCA 75 ; (1981) 146 CLR 249 at 306).</sentence>
+<sentence id="s413">Third, the inroads of Pristiq into the market will continue to diminish the market within which Alphapharm, if it succeeds, will be able to compete.</sentence>
+<sentence id="s414">Contrary to Sundberg J's finding at [62] that Sigma had proceeded with its "eyes wide open" (citing Interpharma Pty Ltd v Commissioner of Patents at [77]), the fact is, as Mr Hurley said, the pharmaceutical industry involves a myriad of patents, not all of which are enforced.</sentence>
+<sentence id="s415">Alphapharm was not aware of the method patent until 19 March 2009 by which time it had made a substantial investment of time and money in Enlafax-XR.</sentence>
+<sentence id="s416">Wyeth's case
+ Wyeth submitted that the balance of convenience strongly favoured the grant of an injunction to preserve the status quo, as the harm to Alphapharm would be insignificant if an injunction were granted compared to the harm to Wyeth if an injunction were refused.</sentence>
+<sentence id="s417">Wyeth stressed that the proposed trade in Enlafax-XR is new.</sentence>
+<sentence id="s418">To date there is only one order for the product.</sentence>
+<sentence id="s419">In contrast, Efexor-XR is Australia's leading antidepressant.</sentence>
+<sentence id="s420">Further, the method patent has been on foot since mid 2007.</sentence>
+<sentence id="s421">The application for it was published in November 2003.</sentence>
+<sentence id="s422">Any competent pharmaceutical company ought to have employed a patent searcher to keep a watch on the status reports for the relevant patents so as to be informed about any divisional applications.</sentence>
+<sentence id="s423">Mr Hurley's evidence about the efforts of the Mylan Group (the group of companies of which Alphapharm is a part) to identify relevant patents is vague and uninformative.</sentence>
+<sentence id="s424">Alphapharm could not be said to have been assiduous in its inquiries.</sentence>
+<sentence id="s425">Alphapharm was aware of the method patent from 19 March 2009 but has only recently moved to revoke it.</sentence>
+<sentence id="s426">Since then all of Alphapharm's commercial preparations have been undertaken with knowledge of the method patent.</sentence>
+<sentence id="s427">Wyeth's losses will be significant and irreparable in terms of: - (i) loss of market share (Wyeth said up to 50% if Enlafax-XR is listed on the PBS and unquantifiable otherwise), (ii) a reduction in price to compete with Enlafax-XR even if it is not listed on the PBS, (iii) a reduction in price by reason of the weighted average percentage difference under the price disclosure scheme irrespective of the 12.5% price reduction Alphapharm would undertake to avoid, (iv) loss of goodwill in the Efexor-XR brand due to patient confusion, and (v) a diversion of resources to support Efexor-XR.</sentence>
+<sentence id="s428">As to other generic products, five suppliers have or will secure ARTG approval.</sentence>
+<sentence id="s429">Competition between generic suppliers is intense and usually involves aggressive discounting to obtain rapid market share.</sentence>
+<sentence id="s430">Wyeth accepted that if Alphapharm is not enjoined, the other suppliers would follow into the market with generic formulations of venlafaxine hydrochloride (including a consequential dissolution of the injunction against Sigma).</sentence>
+<sentence id="s431">Hence, the damage to Wyeth's market in Efexor-XR will be rapid, severe, unquantifiable and irreversible.</sentence>
+<sentence id="s432">This is in circumstances where Efexor-XR represents about 25% of the total income of Wyeth Australia and Wyeth is only the ninth largest supplier of prescription products by volume in Australia.</sentence>
+<sentence id="s433">In contrast, Alphapharm is the largest supplier of prescription products by volume in Australia, with prescriptions under the PBS in the order of $325.5 million for the period ending June 2008.</sentence>
+<sentence id="s434">Hence, Enlafax-XR may be inferred to be one only of a large product range.</sentence>
+<sentence id="s435">The feared loss for Alphapharm will thus be "of a different order" to that of Wyeth, as Sundberg J found in the Sigma decision at [66].</sentence>
+<sentence id="s436">Further, Alphapharm's set up and operational costs were incurred at a time when it was well aware these could be wasted (also as noted by Sundberg J in the Sigma decision at [66]).</sentence>
+<sentence id="s437">The public interest did not support Alphapharm's case.</sentence>
+<sentence id="s438">This is shown by the evidence of Dr John Tiller, which addressed the same matters as Dr Parmegiani (referred to at [111] above) and is concerned about patient confusion and compliance issues.</sentence>
+<sentence id="s439">The argument that only seriously ill patients might experience confusion and thus could be disregarded is not an attractive one.</sentence>
+<sentence id="s440">Those patients are the most vulnerable.</sentence>
+<sentence id="s441">If Alphapharm proceeds with the supply of Enlafax-XR, but is ultimately unsuccessful, patients will be required to switch back to Efexor-XR, thereby exacerbating the risks.</sentence>
+<sentence id="s442">In truth, Alphapharm is seeking to get the jump on other generics at the risk of patient confusion and without regard to the fact that patients might be required to switch twice if Wyeth succeeds.</sentence>
+<sentence id="s443">The argument about Pristiq cannibalising Efexor-XR is speculation and should be rejected.</sentence>
+<sentence id="s444">The evidence shows that Pristiq is a new chemical entity which adds to the available range of antidepressants.</sentence>
+<sentence id="s445">Wyeth is not promoting to medical practitioners any switching of patients who are well stabilised on Efexor-XR to Pristiq.</sentence>
+<sentence id="s446">Wyeth expects Efexor-XR to make a significant contribution to its revenues for at least the next five years.</sentence>
+<sentence id="s447">It has no intention of removing Efexor-XR from the PBS, as confirmed by its willingness to give an undertaking not to de-list Efexor-XR from the PBS.</sentence>
+<sentence id="s448">In any event, the market has its own reality as indicated by the fact that 15% of patients prescribed Pristiq have switched from that product to Efexor-XR.</sentence>
+<sentence id="s449">Examples of other products which have cannibalised an earlier product are not apt to the present case.</sentence>
+<sentence id="s450">On the evidence, once a product had become established as an antidepressant it will continue to enjoy a level of success without sales promotion.</sentence>
+<sentence id="s451">Discussion
+ But for the issue relating to Pristiq, I consider that Wyeth's position against Alphapharm on the balance of convenience is similar to, if not stronger than its position against Sigma, which resulted in the grant of an interlocutory injunction in Wyeth's favour.</sentence>
+<sentence id="s452">Sigma offered an unconditional undertaking not to list its product, Evelexa-XR, on the PBS.</sentence>
+<sentence id="s453">Alphapharm has not.</sentence>
+<sentence id="s454">Its refusal to do so exposes Wyeth to the risk of a reduction in the price of Efexor-XR irrespective of Alphapharm's proposed undertaking with respect to the PBS.</sentence>
+<sentence id="s455">It is also now clear that there will be at least two generic suppliers entering the market, Sigma and Alphapharm.</sentence>
+<sentence id="s456">This is to be considered together with the likelihood of others entering the market.</sentence>
+<sentence id="s457">In this context, Sundberg J's reference to the "unpredictable and irreversible" effect of a new entrant into the market (at [58] citing GenRx Pty Ltd v Sanofi-Aventis at [15]) carries even greater weight.</sentence>
+<sentence id="s458">I am not persuaded that Alphapharm's attribution of a particular marketing strategy or the motivations for that strategy to Wyeth is sound.</sentence>
+<sentence id="s459">Efexor-XR is an established product already well known in the market in which Efexor-XR is the leading antidepressant.</sentence>
+<sentence id="s460">There is evidence that an established antidepressant is capable of maintaining sales without a continued marketing push.</sentence>
+<sentence id="s461">This seems unsurprising given that the evidence of Dr Tiller and Dr Parmegiani indicates that patients who have stabilised on one product are unlikely to be switched by a medical practitioner to another product given the issues of compliance, confusion and potential side effects.</sentence>
+<sentence id="s462">Pristiq is a new product.</sentence>
+<sentence id="s463">It is not established in the market.</sentence>
+<sentence id="s464">As such, it is also unsurprising that it has been subject to an intensive marketing campaign.</sentence>
+<sentence id="s465">Alphapharm relied on selective (and older) confidential marketing documents in circumstances where a careful reading of not only those documents, but also Wyeth's most recent marketing document, indicates that the thrust of the marketing of Pristiq is to new patients or existing patients who would be better served by being prescribed Pristiq (for whatever reason, such as side effects or efficacy).</sentence>
+<sentence id="s466">Wyeth's evidence indicates also that this is in fact what is happening, with Pristiq prescriptions dominated by patients who had no treatment for at least 12 months.</sentence>
+<sentence id="s467">It is true that prescriptions of Pristiq are likely to have an impact on the market share of Efexor-XR (as the evidence of Ms Braithwaite disclosed).</sentence>
+<sentence id="s468">But those prescriptions, as the evidence shows, are also intended and will be likely to be at the expense of other antidepressants, not just Efexor-XR.</sentence>
+<sentence id="s469">It appears that Efexor-XR, perhaps due to initial side effects issues, has been perceived as a second line treatment for major depressive illness.</sentence>
+<sentence id="s470">Pristiq is intended to function as a first line or initial treatment for depression competing against the full range of selective serotonin reuptake inhibitors as well as Efexor-XR (which is a serotonin-norepinephrine reuptake inhibitor).</sentence>
+<sentence id="s471">This intended marketing strategy appears to be consistent ############################################################## ######################################################################################################################################################################.</sentence>
+<sentence id="s472">In other words, from the evidence it appears that the market for Pristiq is intended to be broader than the market for Efexor-XR.</sentence>
+<sentence id="s473">For these reasons I am not persuaded that Alphapharm's argument with respect to Pristiq can bear the weight that Alphapharm seeks to place on it.</sentence>
+<sentence id="s474">There is an established trade in Efexor-XR.</sentence>
+<sentence id="s475">Wyeth will undertake not to remove Efexor-XR from the PBS.</sentence>
+<sentence id="s476">The evidence indicates that there will remain an established trade in Efexor-XR for the foreseeable future.</sentence>
+<sentence id="s477">Although I accept the inevitably of an appeal, the period of two years before final resolution of this matter appears excessive.</sentence>
+<sentence id="s478">The first instance hearing will take place in the first part of next year.</sentence>
+<sentence id="s479">There is no reason preventing a decision being made and the appeal being determined in the same year.</sentence>
+<sentence id="s480">In any event, the issue of the time that an injunction might be in place is equally relevant to Wyeth if an injunction is not granted, as for the same period Wyeth would be exposed to the alleged infringements of its patent and the likely changes to the market as a result.</sentence>
+<sentence id="s481">The risk that the market may alter in the interim period to Alphapharm's detriment must be weighed against the evidence of the materiality of that risk (which I consider substantially overstated by Alphapharm for the reasons already given) and the reasons the risk exists.</sentence>
+<sentence id="s482">The risk exists because Alphapharm was insufficiently diligent about maintaining a watch over the compound patent and both continued to take commercial decisions to supply Enlafax-XR and (at least to some extent) failed to take action immediately to challenge the validity of the method patent on becoming aware of the method patent on 19 March 2009.</sentence>
+<sentence id="s483">The issue cannot be reduced to one about mere switching (that is, either to Pristiq or to Enlafax-XR or another generic).</sentence>
+<sentence id="s484">As Wyeth submitted, it is one thing for a patentee to obtain a patent for a new product and place that new product on the market anticipating that it may have some effect on its existing product.</sentence>
+<sentence id="s485">It is another altogether for a patentee with a reasonably strong prima facie case for infringement to be exposed to competition against its existing product by an allegedly infringing product while the claim is resolved.</sentence>
+<sentence id="s486">This is particularly so in a case such as the present where there is evidence of up to five generic suppliers likely to enter the market (if not restrained) within the period before resolution of the infringement claim.</sentence>
+<sentence id="s487">Accordingly, there is a status quo which Wyeth is entitled to seek to protect in circumstances where it has made good a prima facie case for infringement of its method patent.</sentence>
+<sentence id="s488">The potential losses for Alphapharm are of a different order from those of Wyeth.</sentence>
+<sentence id="s489">As Wyeth said, Efexor-XR is the market leader and has been for some years.</sentence>
+<sentence id="s490">It contributes 25% of the income of Wyeth Australia.</sentence>
+<sentence id="s491">The effect of Alphapharm entering the market will inevitably be for Sigma to do so and for others to follow.</sentence>
+<sentence id="s492">The market will be transformed.</sentence>
+<sentence id="s493">It is not possible to know whether the effect on Wyeth will be a reduction of 13.5% or otherwise given the likelihood of rapid and aggressive competition for market share.</sentence>
+<sentence id="s494">Further, in such a market (which includes Pristiq), it is not possible to know whether all sales would have been sales of Efexor-XR or not.</sentence>
+<sentence id="s495">It is not possible to know whether and to what extent Wyeth might have to discount Efexor-XR to retain some market share in venlafaxine products.</sentence>
+<sentence id="s496">Alphapharm's proposed undertaking cannot compensate Wyeth for such a price reduction (consistent with Sundberg J's observation at [57] of the Sigma decision).</sentence>
+<sentence id="s497">It seems most unlikely, if Wyeth is ultimately successful and the generic products are found to infringe the method patent, that the sales price could simply revert to the current price.</sentence>
+<sentence id="s498">For these reasons it is not a question of a mere difficulty in calculating Wyeth's loss.</sentence>
+<sentence id="s499">Consistent with the reasoning of Sundberg J in [56] of the Sigma decision, Wyeth's loss will be impossible to calculate.</sentence>
+<sentence id="s500">By way of contrast, Enlafax-XR is not yet in the market.</sentence>
+<sentence id="s501">The assertion that the market will be effectively eroded by Wyeth itself is difficult to accept on the evidence.</sentence>
+<sentence id="s502">Hence, Alphapharm's losses are likely to be calculable (even if not without some difficulty).</sentence>
+<sentence id="s503">Alphapharm is Australia's largest generic supplier, which supports an inference of a large product range.</sentence>
+<sentence id="s504">Alphapharm has known about the method patent since 19 March 2009.</sentence>
+<sentence id="s505">Had it been diligent it would have known about the method patent since it was granted in May 2007.</sentence>
+<sentence id="s506">In any event, since 19 March 2009, Alphapharm has acted with knowledge of the method patent and taken its commercial decisions knowing about the likelihood of an infringement claim.</sentence>
+<sentence id="s507">Mr Hurley's evidence to the contrary is not persuasive.</sentence>
+<sentence id="s508">It provides no good reason to infer that Alphapharm could not have acted earlier.</sentence>
+<sentence id="s509">It suggests that the difficulties which Alphapharm now faces are largely of its own making.</sentence>
+<sentence id="s510">Having regard to these matters, I do not accept that Wyeth is acting other than to protect its method patent, which is its right.</sentence>
+<sentence id="s511">I accept that Wyeth, if an injunction is not granted, will suffer irreparable harm for which damages are not an adequate remedy.</sentence>
+<sentence id="s512">I also consider that, as Sundberg J said at [59] of the Sigma decision, Wyeth is "much more likely to suffer from a disturbance of the status quo" than Alphapharm.</sentence>
+<sentence id="s513">I am not satisfied that the existence of the prima facie case of invalidity of the method patent, as found above, is sufficient to disentitle Wyeth from obtaining the relief sought, having regard to the balance of convenience and the strength of Wyeth's prima facie case for infringement.</sentence>
+<sentence id="s514">Accordingly, the balance of convenience weighs in favour of Wyeth and against Alphapharm.</sentence>
+<sentence id="s515">CONCLUSION 
+ For these reasons, and on the basis of the proffered undertakings, I am satisfied that Wyeth should be granted relief in the form it has sought.</sentence>
+<sentence id="s516">Costs may be argued.</sentence>
+<sentence id="s517">
+ 
+ I certify that the preceding one hundred and thirty-three (133) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Jagot.</sentence>
+<sentence id="s518">Associate:
+ 
+ 
+Dated: 25 August 2009
+ 
+ Counsel for the Applicant/Cross-Respondent: Mr S C G Burley SC and Mr P W Flynn 
+ 
+ Counsel for the First and Second Respondents/Cross-Claimants: Mr A J L Bannon SC, Mr B N Caine SC and Mr C Dimitriadis 
+ 
+ Solicitor for the Applicant/Cross-Respondent Mallesons Stephen Jaques 
+ 
+ Solicitor for the First and Second Respondents/Cross-Claimants: Gilbert + Tobin 
+ Date of Hearing: 14 August 2009 
+ 
+ Date of Judgment: 25 August 2009 
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/945.html 
+ 
+ </sentence>
+</sentences>
+</case>

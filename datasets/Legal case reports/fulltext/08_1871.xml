@@ -1,0 +1,310 @@
+<?xml version="1.0"?>
+<case>
+<name>National Mutual Life Association of Australasia Limited v Commissioner of Taxation of the Commonwealth of Australia [2008] FCA 1871 (10 December 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1871.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">capital loss</catchphrase>
+<catchphrase "id=c1">reduced cost base</catchphrase>
+<catchphrase "id=c2">shares</catchphrase>
+<catchphrase "id=c3">use of explanatory memorandum</catchphrase>
+<catchphrase "id=c4">anomalous consequences</catchphrase>
+<catchphrase "id=c5">dictionary definitions</catchphrase>
+<catchphrase "id=c6">nature and state of a share</catchphrase>
+<catchphrase "id=c7">value of a share</catchphrase>
+<catchphrase "id=c8">taxation</catchphrase>
+<catchphrase "id=c9">statutory interpretation</catchphrase>
+<catchphrase "id=c10">company law</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 This proceeding concerns the construction of s 160ZH(3)(c) of the Income Tax Assessment Act 1936 (Cth) ('the Act').</sentence>
+<sentence id="s1">2 On 5 December 1993, The National Mutual Life Association of Australasia Limited ('the taxpayer') made a loss from the sale of shares held in its wholly owned UK subsidiary NM UK Limited ('NMUK').</sentence>
+<sentence id="s2">The amount of the capital loss the taxpayer could claim for capital gains tax purposes, then under Pt IIIA Div 3 of the Act, depended on whether the capital contribution to the extent of [sterling]42.912 million, incurred by the taxpayer, formed part of the reduced cost base of the shares under s 160ZH(3)(c) of the Act.</sentence>
+<sentence id="s3">3 A capital loss is calculated by reference to the reduced cost base of the disposed asset: see s 160Z(1)(b).</sentence>
+<sentence id="s4">Accordingly, where an asset is disposed of for an actual or deemed consideration which is less than its cost base, the reduced cost base must be calculated to determine whether a capital loss has been realised on the disposal.</sentence>
+<sentence id="s5">4 Under s 160ZH(3)(c), the reduced cost base includes:
+ the reduced amount of any expenditure of a capital nature incurred by the taxpayer to the extent to which it was incurred for the purpose of enhancing the value of the asset and is reflected in the state or nature of the asset at the time of disposal of the asset.</sentence>
+<sentence id="s6">5 The Commissioner did not dispute that the taxpayer incurred the [sterling]42.912 million for the relevant purpose, or that the capital expenditure added value to its shares in NMUK.</sentence>
+<sentence id="s7">The issue for determination is whether the capital contribution, at the time of disposal, was 'reflected in the state or nature' of the shares the taxpayer held in NMUK for the purposes of s 160ZH(3)(c) of the Act.</sentence>
+<sentence id="s8">6 The parties agreed upon the facts relevant for my determination, although evidence was tendered in addition to an agreed statement of facts, primarily in the event that any agreed fact needed to be considered in context.</sentence>
+<sentence id="s9">Expert testimony was included within the evidence tendered, but the expert testimony tendered by the Commissioner was in the end accepted by the taxpayer.</sentence>
+<sentence id="s10">In view of the agreed facts, nothing seems to turn on this expert testimony for the purposes of my determination on the construction of s 160ZH(3)(c) of the Act.</sentence>
+<sentence id="s11">However, the taxpayer did specifically refer in opening to the uncontested fact (which I accept) that at the time of the disposal of the shares in NMUK in December 1993, the assets of NMUK available to be distributed to shareholders pursuant to the rights attaching to their shares were augmented by the amount of the capital expenditure of [sterling]42.912 million.</sentence>
+<sentence id="s12">AGREED STATEMENT OF FACTS 
+ Preliminary 
+ 
+7 The taxpayer carries on a business of life insurance which, until 1993, included the selling of life insurance policies in the UK.</sentence>
+<sentence id="s13">The UK business was established in the late 19th century and was carried on through the taxpayer's No 6 statutory fund which operated as a self contained entity subject to UK regulation.</sentence>
+<sentence id="s14">8 The No 6 fund traditionally sold "with profits" policies of life insurance.</sentence>
+<sentence id="s15">By the mid 1980s those types of policies were declining in popularity and the taxpayer's UK business was growing slowly.</sentence>
+<sentence id="s16">Due to its slow growth, the No 6 fund had available to it a very significant surplus far in excess of that which was needed to meet the reasonable expectations of policy holders.</sentence>
+<sentence id="s17">9 The taxpayer conceived of a plan whereby it would grow its UK business by purchasing another UK life insurance company.</sentence>
+<sentence id="s18">It decided that it should acquire three subsidiaries of Schroder plc, namely Schroder Financial Management Ltd, Schroder Life Assurance Ltd (later called National Mutual Schroder Life Assurance Limited or 'NMSLAL') and Schroder Unit Trust Management Ltd. NMSLAL wrote unit linked policies, which at the time were popular in the UK.</sentence>
+<sentence id="s19">NMSLAL had, for that reason, expanded greatly in the 1980s, but needed further capital to keep growing.</sentence>
+<sentence id="s20">The taxpayer's plan was to use the surplus in its No 6 fund to provide that capital.</sentence>
+<sentence id="s21">It would do so by merging the assets and liabilities of that fund with NMSLAL.</sentence>
+<sentence id="s22">10 NMSLAL was ultimately acquired on 19 December 1986 for [sterling]105 million by the taxpayer's wholly owned UK resident subsidiary, NMUK.</sentence>
+<sentence id="s23">NMUK had been previously acquired as a shelf company in 1986 for the purpose of being the UK holding company of the taxpayer's UK business.</sentence>
+<sentence id="s24">The price paid was more than the actuarially ascertained value of [sterling]85 million.</sentence>
+<sentence id="s25">11 As at 31 March 1988, 43% of shares in NMUK were owned by the taxpayer and 57% by a wholly owned subsidiary of the taxpayer, NMC.</sentence>
+<sentence id="s26">12 Between December 1986 and March 1988 the taxpayer took steps to merge the business of its No 6 fund with that of NMSLAL.</sentence>
+<sentence id="s27">This required it to negotiate with the then UK Department of Trade ('DTI') and the UK Government Actuary's Department ('GAD') over the amount of the No 6 fund surplus that would be available to be utilised by the taxpayer.</sentence>
+<sentence id="s28">The DTI and the GAD had formed the view that the policy holders in the No 6 fund were entitled to a part of that surplus and that it should be returned to them by way of bonuses over time.</sentence>
+<sentence id="s29">13 After agreement was reached with the DTI about the surplus, the taxpayer was able, pursuant to s 49 of the Insurance Companies Act 1982 (UK), to apply to the Chancery Division of the High Court for orders requiring the transfer of the assets and liabilities of the No 6 fund to NMSLAL.</sentence>
+<sentence id="s30">Under the arrangement agreed with the DTI, that part of the surplus which could be used to grow NMSLAL's business would be paid as contributed capital by the taxpayer to the shareholders' funds of NMSLAL, and thereafter be transferred to NMSLAL's Long Term Business Fund ('LTBF').</sentence>
+<sentence id="s31">Orders securing the transfer of the business of the No 6 fund and for the making of the contribution of capital were made on 23 March 1988.</sentence>
+<sentence id="s32">The Terms of the Scheme 
+ 
+14 The orders of the High Court gave legal force to a 'scheme' for the purposes of ss 49 and 50 of the Insurance Companies Act 1982 (UK) .</sentence>
+<sentence id="s33">The relevant terms of the scheme were as follows:
+ 
+ 
+ (a) Recital F provided that 'NMLA has agreed to recapitalise NMSLAL by way of capital contribution on the terms and conditions set out in this Scheme in order to augment the capital base of NMSLAL to enable NMSLAL to develop and expand its existing business and to develop new business';
+ (b) cl 1(d)(i) provided that the taxpayer should pay to NMSLAL on or before the expiry of one month from 31 March 1988 (being the "Effective Date" of the Scheme) an amount equal to the Capital Contribution Amount (as defined in the Scheme) 'by way of a capital contribution to shareholders' funds of NMSLAL, which amount shall, for so long as it shall be outstanding be a debt due and owing to NMSLAL', by the taxpayer and shall bear interest from 31 March 1988 to the date of payment;
+ (c) cl 1(d)(ii) provided that the taxpayer could discharge that obligation in cash or by a transfer or transfers to NMSLAL of assets having a value 'on the date of such transfer equal to the full amount of the then outstanding amount of the debt (including interest thereon) or partly in one way and the balance in the other';
+ (d) cl 5(3) provided that NMSLAL should, not later than the date falling three months after 31 March 1988, transfer from its shareholders' funds and allocate to its LTBF cash and/or assets having value 'equal to the aggregate of: 
+ 
+ 
+ 
+ 
+ (1) the amount by which the aggregate value of the cash and assets received by it in discharge of the principal amount of the debt referred to in cl 1(d)(i) exceeds the aggregate value of any other cash and assets transferred from its shareholders' funds and allocated to the LTBF prior to such date but on or after 31 March 1988; and
+ (2) an amount calculated at the rate equivalent to the rate of interest specified in cl 1(d) on each amount of cash, and the value of each asset, transferred from its shareholders' funds and allocated to the LTBF pursuant to this subclause (3) over the period from [31 March 1988] to the date on which such cash or asset is so transferred and allocated'; 
+ 
+ 
+
+(e) cl 5(4) provided that: 
+ 
+ 
+ 
+ (1) NMSLAL shall not, at any time within the period of five years from 31 March 1988 transfer from the LTBF to its shareholders' funds any of the assets representing, or derived from, the amount allocated to the LTBF pursuant to subcl (3) above, other than investment income ... derived therefrom; and
+ (2) NMSLAL shall maintain a separate and distinct register in respect of each of the assets representing or derived from the cash or assets transferred or allocated to the LTBF pursuant to subcl (3) above.</sentence>
+<sentence id="s34">
+ 
+ 
+
+15 The Capital Contribution Amount was defined in the scheme as '[a]n amount which the United Kingdom Committee determines before the Effective Date to contribute to NMSLAL as a capital contribution in accordance with cl 1(d) of the Scheme, being the amount which, at the date of such determination, the United Kingdom Committee considers to be a reasonable pre-estimate of the opening balance ... of the Other-Business Fund less the aggregate of the amount to be added to the value of the Other-Business Fund pursuant to Clause 6(4)(v) and the value of the assets representing Transferred Policies which are linked policies ...'.</sentence>
+<sentence id="s35">16 Pursuant to the orders the taxpayer transferred the Capital Contribution Amount to the shareholders' funds of NMSLAL and subsequently that amount was transferred to NMSLAL's Long Term Business Fund.</sentence>
+<sentence id="s36">17 The LTBF comprised:
+ 
+(a) a 'Closed Fund' into which the liabilities of the former No 6 fund would be transferred together with assets sufficient to make good those liabilities (including part of the No 6 fund surplus as agreed with the DTI);
+ 
+(b) an 'Other Business Fund' or 'OBF' which contained all of the former unit linked business of NMSLAL.</sentence>
+<sentence id="s37">It was intended that most of the capital contribution would be used to fund new business for this fund; and
+ 
+(c) a smaller 'With-Profits Business Fund'.</sentence>
+<sentence id="s38">18 The amount transferred to the LTBF was allocated partly to the Closed Business Fund and the balance to the OBF.</sentence>
+<sentence id="s39">The amount allocated to the OBF, [sterling]42.912 million increased the surplus in the fund and was used to grow the business of NMSLAL.</sentence>
+<sentence id="s40">19 The [sterling]42.912 million was not credited to NMSLAL's share capital account, no issue of scrip accompanied the expenditure and the expenditure did not effect any change to the memorandum or the articles of association of NMSLAL or NMUK.</sentence>
+<sentence id="s41">Events after 1988 
+ 
+20 The [sterling]42.912 million remained in NMSLAL's OBF and was not dissipated or transferred prior to the sale in 1993 of NMUK to Friends.</sentence>
+<sentence id="s42">Neither NMUK nor NMSLAL paid dividends or returned capital from 1988 until the sale to Friends.</sentence>
+<sentence id="s43">After April 1993 and immediately prior to the sale of the NMUK shares by the taxpayer to Friends the [sterling]42.912 million was available to be transferred out of the LTBF to NMSLAL's shareholders' funds in accordance with cl 5(4) of the orders referred to above.</sentence>
+<sentence id="s44">Sale of NMUK 
+ 
+21 The taxpayer's objectives in buying the NMSLAL business were not fulfilled--the business did not grow as expected and NMSLAL was never floated.</sentence>
+<sentence id="s45">In early December 1993 the taxpayer sold its shares in NMUK to Friends for [sterling]113 million.</sentence>
+<sentence id="s46">Friends was the only company prepared to buy the business.</sentence>
+<sentence id="s47">22 Immediately prior to the sale of NMUK, the taxpayer owned all of the shares in NMUK.</sentence>
+<sentence id="s48">Prior to this NMUK's shares had been held by other group companies, but neither party contended that theses changes in ownership was a relevant consideration to the issue for determination.</sentence>
+<sentence id="s49">23 As I have already indicated, it was accepted by the parties that the amount equal to the Capital Contribution Amount paid by the taxpayer to NMSLAL to the extent of [sterling]42.912 million, was incurred by the taxpayer for the purpose of enhancing the value of the shares in NMUK, the parent of NMSLAL.</sentence>
+<sentence id="s50">Moreover, at the time of the sale of the NMUK shares to Friends the [sterling]42.912 million was:
+ 
+(a) reflected in the "embedded value" of NMSLAL;
+ 
+(b) reflected in the "embedded value" of NMUK; and
+ 
+(c) reflected in the value of the shares and the shareholders' equity in NMUK.</sentence>
+<sentence id="s51">CONSIDERATION 
+ 
+24 As I have indicated, the only issue for the Court's determination is whether the [sterling]42.912 million was 'reflected in the state or nature' of the taxpayer's shares held in NMUK for the purposes of s 160ZH(3)(c) of the Act at the time of their disposal.</sentence>
+<sentence id="s52">25 The Commissioner's contention was that the 'value' of an asset is different from its 'state or nature' for the purposes of s 160ZH(3)(c) and that an increase in the asset's value, resulting from the capital expenditure, is not, of itself, sufficient to meet the requirement that the expenditure be 'reflected in the state or nature of the asset at the time of disposal'.</sentence>
+<sentence id="s53">Accordingly, on this view, the capital expenditure of [sterling]42.912 million did not form part of the taxpayer's reduced cost base of the shares.</sentence>
+<sentence id="s54">26 The Commissioner submitted that, on the proper construction of s 160ZH(3)(c), what is required for amount of capital expenditure to be included in the reduced cost base is a change in the asset, attributable to the expenditure, other than by way of an increase in value.</sentence>
+<sentence id="s55">It was contended that the language of the section distinguishes the concept of 'value', related to the purpose of the expenditure, from the concept of 'state or nature', in which the expenditure must be reflected.</sentence>
+<sentence id="s56">For the Commissioner, the criterion is not whether the expenditure has actually enhanced the value of the asset, but whether there is some identifiable change to that asset, that is, to the qualities or attributes that make up the asset distinct from its worth or enhancement in value, which has resulted from the expenditure.</sentence>
+<sentence id="s57">27 The Commissioner contended that the language of s 160ZH(3)(c) makes it clear that Parliament did not intend that all capital expenditure incurred for the purpose of enhancing the value of an asset should be included in the reduced cost base of the asset.</sentence>
+<sentence id="s58">It was contended that s 160ZH(3)(c) does not look to value as the determiner: it is not whether the value of the expenditure is maintained at the time of disposal.</sentence>
+<sentence id="s59">The question is whether the expenditure incurred was reflected in a part of the asset disposed of, that is to say in those features or attributes of the asset that may be described as its 'state' or 'nature'.</sentence>
+<sentence id="s60">28 It was contended by the Commissioner that, in the case of expenditure incurred in relation to shares in a company, it is the bundle of rights attaching to the shares in which the expenditure must be reflected.</sentence>
+<sentence id="s61">Here, the making of the expenditure did not alter the rights attaching to the taxpayer's shares in NMUK.</sentence>
+<sentence id="s62">It did not alter the rights attaching to the shares issued by NMSLAL.</sentence>
+<sentence id="s63">The Commissioner pointed out that the [sterling]42.912 million was not credited to NMSLAL's share capital account, no issue of scrip accompanied the expenditure, and the expenditure did not effect any change to the memorandum or the articles of association of NMSLAL or NMUK.</sentence>
+<sentence id="s64">29 It was contended that the making of the capital expenditure may have increased the value of the taxpayer's shares in NMUK (because the making of the capital expenditure may have increased the value of NMUK's (indirect and later direct) shareholding in NMSLAL), but the taxpayer's shares always carried the right to participate in dividends, the right to share in a distribution of assets and the right to receive capital.</sentence>
+<sentence id="s65">Therefore, it was contended by the Commissioner, that the making of the capital expenditure did not create rights additional to, or different from, those existing rights, and all that varied was the value of the shares.</sentence>
+<sentence id="s66">Therefore, neither the 'state' nor 'nature' of the shares changed as a result of the capital expenditure.</sentence>
+<sentence id="s67">30 The taxpayer rejected this approach taken by the Commissioner, and focused upon the ordinary meaning to be given to the words in the Act of 'state' or 'nature', the purpose of the capital gains tax provisions in the Act, and the nature and state of a share, to urge upon the Court the construction it contend for in this proceeding.</sentence>
+<sentence id="s68">More particularly, the taxpayer submitted that on the facts the condition of the shares had been improved or enhanced by the expenditure, in that the value of the taxpayer's rights in NMUK had been improved or enhanced, and the benefit of that expenditure remained reflected in the state or nature of the share at the time of its disposal.</sentence>
+<sentence id="s69">31 The taxpayer did not just rely upon the fact of an increase in the embedded value of the shares.</sentence>
+<sentence id="s70">It was contended that it was important to determine the reason for an increase in the embedded value.</sentence>
+<sentence id="s71">The taxpayer contended that there had been an increase in the embedded value of the shares because the assets available for distribution had been increased arising from the capital expenditure.</sentence>
+<sentence id="s72">32 The purpose of s 160ZH(3)(c) is to allow a taxpayer to take into account in calculating the cost base of an asset, the capital cost incurred for the purpose of enhancing the value of the asset where the expenditure is later reflected in the state or nature of the asset at the time of its disposal.</sentence>
+<sentence id="s73">33 It is clear that s 160ZH(3)(c) extends to tangible and intangible property, including shares.</sentence>
+<sentence id="s74">Section 160A of the Act defines 'asset' to mean 'any form of property' and includes a 'chose in action'.</sentence>
+<sentence id="s75">The phrase 'state or nature' must therefore be capable of applying to both tangible and intangible forms of property.</sentence>
+<sentence id="s76">In the case of both tangible and intangible assets the requirements of s 160ZH(3)(c) remain the same: the capital expenditure must be made for the purpose of enhancing the value of the asset and at the time of the disposal of the asset the expenditure must still be reflected in the state or nature of the asset.</sentence>
+<sentence id="s77">34 The taxpayer argued that the language of the first limb of s 160ZH(3)(c), that the capital expenditure be for the purpose of enhancing the value of the asset, informs the meaning and operation of the second limb, that the expenditure be reflected in the state or nature of the asset at the time of its disposal.</sentence>
+<sentence id="s78">Therefore, according to the taxpayer, what must be 'reflected' in the 'state or nature' of the asset was the benefit of the expenditure made to enhance its value.</sentence>
+<sentence id="s79">35 The first limb of s 160ZH(3)(c) refers to the expenditure being incurred for the purpose of enhancing the value of the asset.</sentence>
+<sentence id="s80">The second limb refers to the expenditure being reflected in the state or nature of the asset at the time of disposal.</sentence>
+<sentence id="s81">In my view, the legislature has deliberately identified two main concepts, 'value' on the one hand, and 'state or nature' on the other.</sentence>
+<sentence id="s82">Each concept has significance for each limb to be considered in the application of s 160ZH(3)(c).</sentence>
+<sentence id="s83">36 It seems to me that the structure of the provision indicates that what must be reflected in the state or nature of the asset is not the value of the asset, but the expenditure of a capital nature.</sentence>
+<sentence id="s84">It is immaterial whether or not the expenditure in fact enhances the value of the asset.</sentence>
+<sentence id="s85">It may be that the expenditure incurred may not have increased the value of the asset at the time of its being incurred.</sentence>
+<sentence id="s86">For that matter, the expenditure may never increase the value of the asset, but may nevertheless be incurred for the relevant purpose (ie.</sentence>
+<sentence id="s87">enhancing the value of the asset), and be reflected in the state and nature of the asset at the time of disposal.</sentence>
+<sentence id="s88">37 The legislature has not focused on the actual value of the asset in either of the two limbs of s 160ZH(3)(c).</sentence>
+<sentence id="s89">The only focus on value is as to the purpose of the expenditure.</sentence>
+<sentence id="s90">It may be difficult in any given case to determine whether expenditure has enhanced the value of an asset, whether at the time of its being incurred, or at the time of its disposal.</sentence>
+<sentence id="s91">This may be particularly so with shares, where the value may depend on the extent of a holding, rather than just looking at each individual share.</sentence>
+<sentence id="s92">This would be a good reason for the legislature not to focus on value other than in determining the relevant purpose of the expenditure.</sentence>
+<sentence id="s93">38 I accept that the market value is basic to many of the assessments which are made under Pt IIIA of the Act.</sentence>
+<sentence id="s94">There also may be support for defining some assets as a going beyond a bundle of physical characteristics and legal relationships.</sentence>
+<sentence id="s95">However, in the context of determining the reduced cost base and construing s 160ZH(3)(c), the legislature seems to have eschewed the concept of 'value' in the operation of the second limb, and used it only to a limited extent in the first limb.</sentence>
+<sentence id="s96">39 It is necessary to turn to the notion of a share and to address the meaning to be given to the words 'state' and 'nature', and to consider them in the context of the operation of s 160ZH(3)(c).</sentence>
+<sentence id="s97">40 However, before doing, I make mention of extrinsic material placed before the Court said to assist in the interpretation of s 160ZH(3)(c).</sentence>
+<sentence id="s98">41 Both parties, in support of their own constructions, referred to the Explanatory Memorandum to the Income Tax Assessment Amendment (Capital Gains) Bill 1986 (Cth) which inserted s 160ZH(3)(c) into the Act.</sentence>
+<sentence id="s99">I note that care must be taken in the use of an explanatory memorandum: see, eg, Re Australian Federation of Construction Contractors; Ex parte Billing [1986] HCA 74 ; (1986) 68 ALR 416 , 420.</sentence>
+<sentence id="s100">42 The Explanatory Memorandum stated (although in this text referring to 160ZH(1)(c) which is in the same terms as s 160ZH(3)(c)):
+ An example of the type of expenditure which may be included in the cost base to a taxpayer of an asset under paragraph (c) would be expenditure incurred on the extension of a building.</sentence>
+<sentence id="s101">Generally, expenditure on rates, interest and repairs will not fall within the cost base of the asset as these items of expenditure may be classed as expenses of a revenue nature and not of a capital nature.</sentence>
+<sentence id="s102">Note that expenditure incurred in enhancing the value of the asset must be reflected in the state or nature of the asset at the time of disposal.</sentence>
+<sentence id="s103">For example, if a carport is erected adjacent to an income-producing property but at a later stage is dismantled and a garage erected, the expenditure incurred in erecting the carport would be disregarded in calculating the cost base of the property as it is no longer reflected in the state or nature of the asset.</sentence>
+<sentence id="s104">Similarly, paragraph (c) is designed to exclude from the cost base any expenditure incurred for the purpose of enhancing the value of the asset by way of improvements which have wasted away prior to disposal.</sentence>
+<sentence id="s105">43 In considering the competing submissions on the construction of s 160ZH(3)(c), the Explanatory Memorandum provides little assistance, although it does indicate an approach to the intended operation of the provision in relation to tangible assets.</sentence>
+<sentence id="s106">The example given of the type of capital expenditure covered by s 160ZH(3)(c) is that of expenditure incurred to erect a carport adjacent to an income-producing building.</sentence>
+<sentence id="s107">The example continues that if the carport were to be subsequently dismantled prior to sale, the expenditure would be disregarded as it would not be reflected in the state or nature of the asset at the time of the sale.</sentence>
+<sentence id="s108">Such an example is not easily translatable to intangible property such as shares as the example assigns physical characteristics to 'state or nature'.</sentence>
+<sentence id="s109">The example does indicate, however, that any physical changes brought about by the expenditure must continue and must not have dissipated prior to disposal of the asset, for a taxpayer to take advantage of the provision.</sentence>
+<sentence id="s110">44 It is then convenient at this point to consider the notion of a share.</sentence>
+<sentence id="s111">A share was described by Williams J in Archibald Howie Pty Ltd v Commissioner of Stamp Duties (NSW) [1948] HCA 28 ; (1948) 77 CLR 143 at 156:
+ In Borland's Trustee v. Steel Bros. &amp; Co. Ltd. (1901) 1 Ch. 279, at p 288, Farwell J., in a passage which Lord Russell of Killowen in Inland Revenue Commissioners v. Crossman (1937) A.C. 26 , at p 66 described as an accurate exposition of the nature of a share, stated that a share is the interest of a shareholder in the company measured by a sum of money for the purpose of liability in the first place and of interest in the second, but also consisting of a series of mutual covenants entered into by all the shareholders inter se in accordance with ... the Companies Act ... a share is an interest measured by a sum of money and made up of various rights contained in the contract, including the right to a sum of money of a more or less amount.</sentence>
+<sentence id="s112">(emphasis in original) 
+More recently, the joint judgment of McHugh, Gummow, Hayne and Callinan JJ in Pilmer v Duke Group Limited (in Liquidation) [2001] HCA 31 ; (2001) 207 CLR 165 , 179 cited the statement of Farwell J as the classic description of a share.</sentence>
+<sentence id="s113">However, their Honours went on to say that 'the reference to measuring the interest of a shareholder in a company by a sum of money is no longer apt under present corporations law in Australia following the abolition of the concept of par value and of authorised capital' (at [19]).</sentence>
+<sentence id="s114">45 Of course, there may be a specific class of share where the interest of the shareholder is measured by a sum of money as where a company issues a class of preference shares carrying a right to dividends related to a certain sum of money and a right to payment of a certain sum of money if the company goes into liquidation in priority to ordinary shareholders if there is a surplus of company assets over debts and liabilities.</sentence>
+<sentence id="s115">46 More specifically, a share comprises 'a congeries of rights in personam ' ( Archibald Howie [1948] HCA 28 ; 77 CLR 143 at 154 per Dixon J) which includes the right to participate in dividends, the right to participate in a distribution of assets upon a winding up, and the right to receive capital upon a reduction of capital by the company: Sydney Futures Exchange Ltd v Australian Stock Exchange Ltd [1995] FCA 1106 ; (1995) 56 FCR 236 at 255.</sentence>
+<sentence id="s116">47 It may be said that these aspects contribute to the economic content of a share.</sentence>
+<sentence id="s117">Some commentators make mention of the 'economic' character of a share.</sentence>
+<sentence id="s118">For example, Professor R Pennington in (1989) 10 Company Lawyer 140 concluded that 'they are a species of intangible movable property which comprise a collection of rights and obligations relating to an interest in a company of an economic and proprietary character, but not constituting a debt'.</sentence>
+<sentence id="s119">After all, a share is a fractional part of the capital, and thus confers upon the shareholder a certain 'interest' to a proportionate part of the assets of the corporation whether by way of dividend or of distribution of assets in winding up (see Bradbury v English Sewing Cotton Company Ltd [1923] AC 744 , 767 per Lord Wrenbury), and that that 'interest' might come to represent in value far more than the original capital which had been contributed (see Ord Forrest Pty Ltd v Federal Commissioner of Taxation [1974] HCA 57 ; (1974) 130 CLR 124 , 132 and 133 per Stephen J).</sentence>
+<sentence id="s120">48 It was on the basis of these bundle of rights in personam , the taxpayer submitted that capital expenditure in relation to shares will be 'reflected' in the 'state or nature' of the shares where the amount of the contribution increases shareholders' equity thereby increasing their value, and the amount of the contribution remains available for return to the shareholders pursuant to the rights attaching to the shares.</sentence>
+<sentence id="s121">49 In the present case, the payment of the capital contribution to shareholders' funds of NMSLAL was made for the purpose of, and to the extent of [sterling]42.912 million had the effect of, increasing the embedded value of NMSLAL and the embedded value of NMUK, and thus, the value of the shares in NMUK.</sentence>
+<sentence id="s122">The benefit of the contribution to the extent of [sterling]42.912 million remained reflected in the value of shares in NMUK at the time of their disposal.</sentence>
+<sentence id="s123">Moreover, after April 1993 and until the date of sale, the amount of the contribution to the extent of [sterling]42.912 million remained in existence and was available to be returned to the shareholders' funds of NMSLAL, and distributed as capital to NMUK and by NMUK to the taxpayer pursuant to the rights attaching to the shares.</sentence>
+<sentence id="s124">This is how, as it was argued by the taxpayer, the capital contribution was reflected in the 'state or nature' of the shares in the context of s 160ZH(3)(c).</sentence>
+<sentence id="s125">50 I was taken to a number of dictionary definitions of the words 'state', 'nature' and 'value'.</sentence>
+<sentence id="s126">Relevantly, the first definition given by the Macquarie Dictionary (4 th ed) for 'state' is 'the condition of a person or thing, as with respect to circumstances or attributes'.</sentence>
+<sentence id="s127">The definition of 'nature' relevantly refers to 'the particular combination of qualities belonging to a person or thing by birth or constitution', referring to the inherent qualities of a person or thing.</sentence>
+<sentence id="s128">'Value' is relevantly defined as 'material or monetary worth, as in traffic or sale' and 'the worth of a thing as measured by the amount of other things for which it can be exchanged, or as estimated in terms of a medium of exchange'.</sentence>
+<sentence id="s129">51 Whilst a useful reference, one should be careful not to be restricted by dictionary definitions and one should look at the context in which each word appears in s 160ZH(3)(c) and the context in which s 160ZH(3)(c) itself appears: see, eg, Falconer v Pederson [1974] VR 185 , 187.</sentence>
+<sentence id="s130">52 I have already attempted to explain that context.</sentence>
+<sentence id="s131">Looking at the context in which the concept 'state or nature' is used in s 160ZH(3)(c) referable to a share, I do not consider that concept includes a share's value.</sentence>
+<sentence id="s132">As I have said, s 160ZH(3)(c) in my view, clearly distinguishes the concept of 'value', with 'state' or 'nature'.</sentence>
+<sentence id="s133">I do not mean by this to treat the term 'state or nature' as a composite phrase, but I do consider it appropriate to view both words in the context in which they appear alongside 'value' as found in the first limb of s 160ZH(3)(c).</sentence>
+<sentence id="s134">Undoubtedly, a share as an item of property differs from property such as land in that a share's characteristics are fixed primarily by the obligations and rights in the contract between company and shareholder.</sentence>
+<sentence id="s135">In the case of land, as the example in the Explanatory Memorandum would indicate, 'value' would not be included within the concepts of 'state' or 'nature'.</sentence>
+<sentence id="s136">Similarly, in the case of a share 'value' is not included within the concepts of 'state' or 'nature'.</sentence>
+<sentence id="s137">53 Even by just considering the words 'state' or 'nature' themselves, I am also of the view that it cannot be said in relation to a share as an item of property, which may be bought and sold, that 'value' forms any part of the nature or state of that form of asset.</sentence>
+<sentence id="s138">The 'nature' of a share refers to the bundle of rights (and obligations) attaching to a share, as described previously, being the inherent qualities of a share.</sentence>
+<sentence id="s139">Those rights exist, and may be exercised, irrespective of their value.</sentence>
+<sentence id="s140">The 'state' of a share does not refer to its 'value', but refers to other matters, such as whether a share is fully paid up or not.</sentence>
+<sentence id="s141">The value of a share does not affect the 'state' of a share, if one focuses on the particular condition of a share as an item of property.</sentence>
+<sentence id="s142">54 The colloquial use of the phrase "state of one's shares" may refer to their "market value" at any given time, but this is more a reference to the state of one's portfolio globally, rather than to the condition of a particular share in itself and as an identifiable piece of property.</sentence>
+<sentence id="s143">Equally, as I have indicated, a reference to state of a share could be a reference to whether a share is fully paid up or not.</sentence>
+<sentence id="s144">In any event, the colloquial usage, even if treated as the ordinary meaning, cannot override the meaning I consider the terms 'nature' and 'state' have in the context of s 160ZH(3)(c).</sentence>
+<sentence id="s145">55 I have considered the issue for determination without reference to any direct authority on s 160ZH(1)(c).</sentence>
+<sentence id="s146">The phrase 'reflected in the state or nature of the asset' has not been authoritatively considered by Australian courts.</sentence>
+<sentence id="s147">The only consideration of the phrase, appears in Re Taxpayer and Federal Commissioner of Taxation [2004] AATA 1304 ; (2004) 58 ATR 1172 , in which Member G A Barton considered the identical phrase as found in ss 160ZH(1)(c) and (2)(c) of the Act.</sentence>
+<sentence id="s148">Member Barton found that the taxpayer was not entitled to include capital expenditure by way of incentive payments in the cost base of the shares in calculating the capital gain on the sale of those shares, as they were not reflected in the 'state or nature' of the shares at the time of disposal.</sentence>
+<sentence id="s149">There was no dispute that the incentive payments constituted expenditure of a capital nature.</sentence>
+<sentence id="s150">Member Barton concluded, however, that (at [43]):
+ The Tribunal finds that none of the rights that constituted the applicant's shares in the proprietary company and, subsequently, in the new company, was reflective of the incentive payments.</sentence>
+<sentence id="s151">There was no evidence before the Tribunal on which it could find that the applicant's shares in the proprietary company or in the new company, constituted a class of shares reflecting the amount of the incentive payments because they included a special or additional right attributable to such payments.</sentence>
+<sentence id="s152">The fact that the issued shares in the new company were listed on the boards of the London and Australian stock markets did not make the state or nature of the applicant's shares reflective of the amount of the incentive payments.</sentence>
+<sentence id="s153">The state or nature of the applicant's shares in the new company was indistinguishable from that of other issued shares in the new company.</sentence>
+<sentence id="s154">The Tribunal rejects the proposition that any causal link between the incentive payments and the listing of the issued shares in the new company makes the state or nature of the applicant's shares in that company reflective of the amount of the incentive payments for the purposes of ss 160 ZH(1)(c) and (2)(c) of the ITAA 1936.</sentence>
+<sentence id="s155">So the Tribunal finds that the state or nature of the applicant's shares in the proprietary company did not reflect the amount of the incentive payment when they were exchanged for shares in the new company, and the state or nature of the shares in the new company did not reflect that amount when the applicant disposed of them.</sentence>
+<sentence id="s156">In the light of this finding it is unnecessary for the Tribunal to consider whether the incentive payment was incurred for the purpose of enhancing the value of the applicant's shares in the proprietary company and in the new company and whether the indexed cost base of the trustee's shares in the new company included any part of the incentive payment.</sentence>
+<sentence id="s157">56 In the United Kingdom, the distinction between the 'value' of an asset and its 'state' or 'nature' was drawn in Aberdeen Construction Group Ltd v Commissioners of Inland Revenue (1978) 52 TC 281 which was concerned, in part, with para 4(1)(b) of Sch 6 to the Finance Act 1965 (UK).</sentence>
+<sentence id="s158">57 Section 160ZH(3)(c), which was introduced into the Act later in time is in similar, but not identical, terms to this UK provision.</sentence>
+<sentence id="s159">The taxpayer did point out that the first limb of the UK provision requires that expenditure be incurred on the asset, but I do not regard that a difference determinative of the issue before me and the way I consider the s 160ZH(3)(c) should be interpreted.</sentence>
+<sentence id="s160">58 Under paragraph 4(1)(b) of Sch 6 of the UK provision, one of the sums allowable as a deduction in the computation of the gain accruing to a person on the disposal of an asset was:
+ (b) the amount of any expenditure wholly and exclusively incurred on the asset by him or on his behalf for the purpose of enhancing the value of the asset, being expenditure reflected in the state or nature of the asset at the time of the disposal ... 
+59 In construing paragraph 4(1)(b), UK courts have indicated that the state or nature of a share does not include its value.</sentence>
+<sentence id="s161">In Aberdeen Construction 52 TC 281, Lord President Emslie found that expenditure by the taxpayer in the form of loans to a company that were later waived was not the kind of expenditure to which paragraph 4(1)(b) was directed and the paragraph was therefore not applicable.</sentence>
+<sentence id="s162">However, the Lord President went on to state (at 290):
+ In any event, by no reasonable stretch of the imagination is it possible to classify the making of the loans or their waiver as expenditure wholly and exclusively incurred "on" the shares and I find it impossible to say that either were reflected in the state or nature of the shares which were sold.</sentence>
+<sentence id="s163">The waiver of the loans may well have enhanced their value but what para 4(1)(b) is looking for is, as the result of relevant expenditure, an identifiable change for the better in the state or nature of the asset, and this must be a change distinct from the enhancement of value.</sentence>
+<sentence id="s164">60 Lord Avonside said that the loan 'may have enhanced [the share's] value in so far as it might give [the company] working capital helpful to its trading.</sentence>
+<sentence id="s165">When the loan was waived the shares remained in their state and nature unchanged' (at 294).</sentence>
+<sentence id="s166">61 This issue was not considered by the House of Lords when the matter went on appeal, although the appeal was successful.</sentence>
+<sentence id="s167">62 In The Trustees of the FD Fenston Will Trusts v The Commissioners of Her Majesty's Revenue and Customs (unreported, Special Commissioners, 7 February 2007), the Special Commissioners considered s 38(1)(b) of the Taxation of Chargeable Gains Act 1992 (UK) which likewise contains the phrase 'reflected in the state or nature of the asset'.</sentence>
+<sentence id="s168">The expenditure in this case was made by the trustees as capital contributions to a company in which they held shares.</sentence>
+<sentence id="s169">Those shares were the relevant assets.</sentence>
+<sentence id="s170">The appellants submitted that the shares increased in value following the expenditure and the expenditure was therefore reflected in the state or nature of the shares at that time, continuing through to the time of disposal.</sentence>
+<sentence id="s171">However, the Special Commissioners found at [23] that state or nature could not be equated with value:
+ It is clear from the provision that Parliament did not intend that all expenditure incurred for the purpose of enhancing the value of an asset should be deductible in computing capital gains.</sentence>
+<sentence id="s172">Only such expenditure as would be reflected in the "state and nature of the asset at the time of the disposal" was to be allowed.</sentence>
+<sentence id="s173">Further, "state and nature" for these purposes must be something other than merely the value of the asset --- otherwise this phrase would add nothing to the immediately preceding words.</sentence>
+<sentence id="s174">In this case the Capital Contributions did not result in any increase in the number of shares in issue, or result in any change in the rights or restrictions attaching to the shares.</sentence>
+<sentence id="s175">The only effect of the Capital Contributions was to increase the surplus of the company --- which would increase the amount available for distribution to shareholders, and therefore presumably the value of the shares.</sentence>
+<sentence id="s176">We do not consider this sufficient for the expenditure on the Capital Contributions to be reflected in the state and nature of the shares, either at the time the expenditure was incurred or at any time subsequently.</sentence>
+<sentence id="s177">(emphasis added) 
+63 The Commissioner before me relied upon above passages in the UK authorities, and particularly the last sentence in Fenston's case.</sentence>
+<sentence id="s178">On the other hand, the taxpayer submitted that the UK authorities have no precedential value, either because in the case of Aberdeen the actual decision relied on was overturned by the House of Lords, and in the case of Fenston , the comments relied upon were clearly dicta.</sentence>
+<sentence id="s179">The taxpayer also contended that the dicta relied upon by the Commissioner before me in the above passages was wrong.</sentence>
+<sentence id="s180">64 At the outset, I reject the Commissioner's submission that I should elevate the UK decisions or the dicta contained therein to decisions or dicta which I should presume the Commonwealth Legislature treated as correct and adopted in relation to the meaning of the words now under consideration in s 160ZH(3)(c): see, eg, Airservices Australia v Canadian Airlines International Ltd [1999] HCA 62 ; (2000) 202 CLR 133 , at [282]-[283]; and PT Ltd v Maradona Pty Ltd (No 2) (1992) 27 NSWLR 241, 251.</sentence>
+<sentence id="s181">65 However, I consider that some assistance can be gained from the approach of the UK authorities.</sentence>
+<sentence id="s182">66 The comments therein relied upon by the Commissioner do support the approach to the concepts of 'value', and 'state or nature' included within similar legislation which accord with my own view of the operation of s 160ZH(3)(c).</sentence>
+<sentence id="s183">It may not have been strictly correct to refer (as was done by the Lord President in Aberdeen ) to 'an identifiable change', or a 'change distinct from the enhancement of value'.</sentence>
+<sentence id="s184">The UK provision, like s 160ZH(3)(c) does not specifically talk in terms of 'change', only the need for the expenditure being reflected in the state or nature of the asset.</sentence>
+<sentence id="s185">However, the clear approach taken by the UK authorities is to treat 'value' as a concept falling outside the concept of 'state or nature' in similarly worded legislation dealing with the same subject matter.</sentence>
+<sentence id="s186">67 Finally, in the taxpayer's submission, excluding the capital contribution from the cost base of the NMUK shares would give rise to an anomalous result.</sentence>
+<sentence id="s187">Payments into shareholders' funds may take a variety of forms, including the purchase of shares, the payment of calls on shares, and as here, by the making of capital contributions.</sentence>
+<sentence id="s188">It was contended that to allow some of these payments to be taken into account in determining cost base, but not others (being the capital contribution), is not capable of rational explanation.</sentence>
+<sentence id="s189">68 The Commissioner responded to this submission by contending that the exclusion of the capital expenditure of &#8356;42.912 million from the reduced cost base of the shares does not give rise to an anomalous result.</sentence>
+<sentence id="s190">It may be that the amount would have been part of the cost base if it had taken some other form.</sentence>
+<sentence id="s191">However, the way in which a company raises capital can take many forms, each with different taxing consequences.</sentence>
+<sentence id="s192">Moreover, it was submitted that the provision is not specific to cost base in respect of shares, but to assets generally.</sentence>
+<sentence id="s193">The way in which the taxpayer here determined to contribute capital to NMSLAL should not dictate the proper construction of the section because the taxpayer may have been able to secure the expenditure as part of the cost base if it had been done differently.</sentence>
+<sentence id="s194">69 One is reminded by these submissions of the comments of Black CJ and Sundberg J in Esso Australia Resources Ltd v Commissioner of Taxation [1998] FCA 1655 ; (1998) 83 FCR 511 , 518-19:
+ In our opinion the plain language of the sections is confirmed by the only directly relevant extrinsic material, which shows that parliament intended the consequence that is said by the appellant to be anomalous.</sentence>
+<sentence id="s195">Especially when different views can be held about whether the consequence is anomalous on the one hand or acceptable or understandable on the other, the Court should be particularly careful that arguments based on anomaly or incongruity are not allowed to obscure the real intention, and choice, of the Parliament.</sentence>
+<sentence id="s196">... [w]e are unable to conclude that the operation of ss 118 and 119 on a literal reading does not conform to the legislative purpose.</sentence>
+<sentence id="s197">70 I do not accept that any anomaly arises from the construction pressed by the Commissioner in this case.</sentence>
+<sentence id="s198">I accept the submissions of the Commissioner that the taxpayer, having chosen a particular way in which to organise its affairs, must then be bound by any fiscal consequences that follow, and this does not lead to an anomaly, but arises because of the application of the legislative provision to the facts.</sentence>
+<sentence id="s199">CONCLUSION 
+ 
+71 In light of the above reasons, the application should be dismissed with costs.</sentence>
+<sentence id="s200">I certify that the preceding seventy-one (71) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Middleton.</sentence>
+<sentence id="s201">Associate:
+
+Dated: 10 December 2008
+
+ Counsel for the Applicant: G J Davies QC, S H P Steward 
+ 
+ Solicitor for the Applicant: Mallesons Stephen Jaques 
+ 
+ Counsel for the Respondent: J Davies SC, P Nicholas 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+
+ Date of Hearing: 20 October 2008 
+ 
+ Date of Judgment: 10 December 2008 
+
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1871.html 
+ 
+ </sentence>
+</sentences>
+</case>

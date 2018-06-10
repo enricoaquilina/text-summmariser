@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<case>
+<name>Australian Securities &amp; Investments Commission, in thematter of GDK Financial Solutions Pty Ltd v GDK Financial Solutions Pty Ltd [2006] FCA 1415 (2 November 2006)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2006/1415.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">managed investment schemes</catchphrase>
+<catchphrase "id=c1">unregistered scheme</catchphrase>
+<catchphrase "id=c2">winding up</catchphrase>
+<catchphrase "id=c3">court ordered</catchphrase>
+<catchphrase "id=c4">effect of "winding up"</catchphrase>
+<catchphrase "id=c5">procedure for winding up</catchphrase>
+<catchphrase "id=c6">receiver appointed</catchphrase>
+<catchphrase "id=c7">powers of receiver</catchphrase>
+<catchphrase "id=c8">whether powers should be the same as those of a company liquidator</catchphrase>
+<catchphrase "id=c9">order for accounts</catchphrase>
+<catchphrase "id=c10">managers and trustees of managed investment scheme</catchphrase>
+<catchphrase "id=c11">whether accounting parties</catchphrase>
+<catchphrase "id=c12">accounts and inquiries</catchphrase>
+<catchphrase "id=c13">when ordered</catchphrase>
+<catchphrase "id=c14">whether inquiry can be delegated by court to a receiver</catchphrase>
+<catchphrase "id=c15">nature of inquiry</catchphrase>
+<catchphrase "id=c16">receivers and managers</catchphrase>
+<catchphrase "id=c17">security</catchphrase>
+<catchphrase "id=c18">obligation to provide</catchphrase>
+<catchphrase "id=c19">when obligation may be dispensed with</catchphrase>
+<catchphrase "id=c20">courts</catchphrase>
+<catchphrase "id=c21">concurrent jurisdiction</catchphrase>
+<catchphrase "id=c22">whether federal court has power to discharge receiver appointed by a supreme court</catchphrase>
+<catchphrase "id=c23">corporations</catchphrase>
+<catchphrase "id=c24">equity</catchphrase>
+<catchphrase "id=c25">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 Chapter 5C of the Corporations Act 2001 (Cth) makes provision for the regulation of what are described as managed investment schemes.</sentence>
+<sentence id="s1">The provisions are protective in nature.</sentence>
+<sentence id="s2">Their principal objects are to ensure that potential investors are given sufficient information to enable them to determine whether they should invest in a scheme, that following an investment the investors are given periodic reports about the scheme's financial performance and that those who control the scheme will act honestly, with due diligence and in accordance with the scheme's constitution.</sentence>
+<sentence id="s3">One aspect of this regulation is the requirement that schemes be registered.</sentence>
+<sentence id="s4">If things go wrong, there is provision for a scheme to be wound up.</sentence>
+<sentence id="s5">Even an unregistered scheme may be wound up.</sentence>
+<sentence id="s6">The power to make that order is found in s 601EE(1).</sentence>
+<sentence id="s7">The consequences of a winding up order are not described.</sentence>
+<sentence id="s8">Nor does the legislation provide guidance regarding the manner by which the winding up should take place.</sentence>
+<sentence id="s9">By s 601EE(2) parliament has left it to the court to "make any order it considers appropriate for the winding up of the scheme.</sentence>
+<sentence id="s10">" This case raises for consideration, and not for the first time, the ambit of the court's power under this subsection.</sentence>
+<sentence id="s11">2 There are two kinds of managed investment scheme: see the definition in s 9.</sentence>
+<sentence id="s12">Only one is relevant in this case.</sentence>
+<sentence id="s13">It is a scheme which, according to the definition, has three "features" viz: (1) People contribute money or money's worth to acquire rights (the rights are referred to as "interests") to benefits produced by the scheme; (2) The contributions are to be pooled or used in a common enterprise to produce financial benefits or benefits arising from interests in property for the contributors or those claiming through them (all of whom are called "members"); and (3) Members do not have day to day control over the operation of the scheme.</sentence>
+<sentence id="s14">A scheme, then, is the combination of these things necessarily connected by design.</sentence>
+<sentence id="s15">The scheme may also include those things or attributes that "contribute to the coherence and completeness" of the three essential elements: Australian Securities and Investments Commission v Takaran Pty Ltd [2002] NSWSC 834 ; (2002) 43 ACSR 46, 51.</sentence>
+<sentence id="s16">The definition goes on to exclude various arrangements, but none of them are of present relevance.</sentence>
+<sentence id="s17">3 This suit is brought by ASIC to wind up two allegedly unregistered managed investment schemes established by the same promoters.</sentence>
+<sentence id="s18">Each involves an investment in a retirement village; in one case an actual village and in the other a prospective village.</sentence>
+<sentence id="s19">In most important respects each arrangement (to use a neutral expression) follows the same format.</sentence>
+<sentence id="s20">It will be sufficient, therefore, to describe one in detail and then to point to the essential differences between that arrangement and the other.</sentence>
+<sentence id="s21">The scheme I will describe is referred to in many of the documents as The Mews Village or The Mews Retirement Village.</sentence>
+<sentence id="s22">The other is called The Rosedale Retirement Village.</sentence>
+<sentence id="s23">4 By way of background, the promoters of the schemes described their purpose as being to establish and operate a top-quality resort style retirement village with facilities for respite care.</sentence>
+<sentence id="s24">The idea was to develop and sell self-contained and fully serviced units and townhouses to people over the age of 55 years.</sentence>
+<sentence id="s25">The village was to be located on land purchased from another company associated with the promoters.</sentence>
+<sentence id="s26">Investors would put up the deposit with the balance to be raised by loans from the vendor.</sentence>
+<sentence id="s27">A management company controlled by the promoters would operate the village.</sentence>
+<sentence id="s28">After payment of a management fee, the profit would go to the investors.</sentence>
+<sentence id="s29">The key attraction to investors was the expectation that they would be entitled to deduct from their assessable income not only the amount of their investment but also their proportionate share of the loan taken to pay the balance of the purchase price.</sentence>
+<sentence id="s30">5 The Mews Village was to be established on a 28 hectare parcel of land at Lot 4, Railway Parade, Upper Swan, a semi-rural area on the outskirts of Perth.</sentence>
+<sentence id="s31">The land was registered in the name of the third defendant, Western Retirement Village Management Pty Ltd. By a contract dated 18 April 2000 WRVM agreed to sell the land to the fourth defendant, The Mews Village Nominees Pty Limited, for $93,425,000.</sentence>
+<sentence id="s32">Other agreements to which Mews Village Nominees is a party show that it entered into the contract as "bare nominee" for a group of investors described as "Investor Partners".</sentence>
+<sentence id="s33">The contract of sale provided for the payment of a deposit of $18,048,000 with the balance to be paid by a loan from the vendor secured by a mortgage over the land.</sentence>
+<sentence id="s34">The purchase price was not the exchange value of the land.</sentence>
+<sentence id="s35">The price far exceeded that value.</sentence>
+<sentence id="s36">This came about because under the contract the vendor was required to construct the village.</sentence>
+<sentence id="s37">The building work was to take place in two stages over several years.</sentence>
+<sentence id="s38">Most of the deposit was raised from the investors who were grouped into several partnerships.</sentence>
+<sentence id="s39">The balance was provided by the vendor under a non-recourse loan agreement.</sentence>
+<sentence id="s40">The agreement required the loan to be repaid out of the fees payable by residents of the village.</sentence>
+<sentence id="s41">In the event of default the vendor could only look to the land for payment.</sentence>
+<sentence id="s42">6 I indicated that the investors were grouped into several partnerships.</sentence>
+<sentence id="s43">The principal partnership is styled The Mews Village Partnership and has 14 "Investor Partners".</sentence>
+<sentence id="s44">It was established by a partnership agreement dated 18 April 2000.</sentence>
+<sentence id="s45">The parties to this agreement appear to be the Investor Partners (although no provision is made for them to execute the agreement) and two companies associated with the promoters, Mews Retirement Nominees Pty Ltd and the first defendant, GDK Financial Solutions Pty Ltd.</sentence>
+<sentence id="s46">The partnership business is described as "the development and operation of retirement village facilities [at Lot 4, Railway Parade, Upper Swan]".</sentence>
+<sentence id="s47">GDK was appointed to manage the partnership's business.</sentence>
+<sentence id="s48">Mews Retirement Nominees was appointed to hold the partnership property as "bare trustee for the partnership".</sentence>
+<sentence id="s49">7 Several Investor Partners acquired their interest in and held their share of the partnership capital for other investors who had also come together as partners.</sentence>
+<sentence id="s50">The parties have referred to them as sub-partnerships.</sentence>
+<sentence id="s51">By way of example, one of the Investor Partners, Village Mews Nominees Pty Ltd, which holds a 2.73 per cent interest in The Mews Village Partnership, acquired its interest for The Village Mews Partnership, which is a partnership of 5 investors.</sentence>
+<sentence id="s52">Each sub-partnership has a manager, yet again a company controlled by the promoters.</sentence>
+<sentence id="s53">8 The Mews Retirement Village was to be managed by WRVM.</sentence>
+<sentence id="s54">To this end a Marketing Management and Profit Share Agreement was entered into between Mews Village Nominees (the purchaser of the Upper Swan land) and WRVM.</sentence>
+<sentence id="s55">Only an unsigned copy of the agreement is in evidence.</sentence>
+<sentence id="s56">The copy does not indicate clearly the identity of the contracting parties.</sentence>
+<sentence id="s57">The front page suggests that the agreement is between WRVM and The Mews Retirement Nominees Pty Ltd which, it will be remembered, is the "bare nominee" of The Mews Village Partnership.</sentence>
+<sentence id="s58">A schedule records that the agreement is between WRVM and The Mews Retirement Village Nominees Pty Ltd.</sentence>
+<sentence id="s59">Notwithstanding those references, the body of the agreement shows that the agreement was between WRVM and Mews Village Nominees.</sentence>
+<sentence id="s60">The sealing clause is the latter company's name.</sentence>
+<sentence id="s61">A recital describes it as the purchaser of the Upper Swan land.</sentence>
+<sentence id="s62">Moving on, the only substantive provision of the agreement to which reference should be made is the management fee which is set at 40 per cent of the profit derived by the village plus a commission of 1 per cent of the fees received from residents.</sentence>
+<sentence id="s63">This suggests that not much was to go to the investors, although one should not lose sight of the substantial tax advantage they derived from entering into the scheme.</sentence>
+<sentence id="s64">9 Notwithstanding the complex series of agreements, and the subscription by investors of capital in the order of $8 million, The Mews Retirement Village did not get off the ground.</sentence>
+<sentence id="s65">All that has happened is that The Mews Retirement Nominees paid the purchase price for the Upper Swan land using the investors' capital and loan funds obtained from the vendor.</sentence>
+<sentence id="s66">Despite receiving the purchase price, WRVM has not transferred the land to the purchaser: It remains registered as the proprietor of the land.</sentence>
+<sentence id="s67">Nor has WRVM carried out the building works which by the contract of sale it had promised to do.</sentence>
+<sentence id="s68">I assume it did not have the funds to undertake the work.</sentence>
+<sentence id="s69">There has been no accounting to investors for any of the money they contributed, despite many requests for information.</sentence>
+<sentence id="s70">The investors have simply been left in the dark.</sentence>
+<sentence id="s71">10 There is no hope of the development going ahead, at least while it remains in the hands of its present controllers.</sentence>
+<sentence id="s72">GDK has been wound up.</sentence>
+<sentence id="s73">There is an unresolved dispute over the control of Mews Village Nominees.</sentence>
+<sentence id="s74">Attempts have been made (I cannot say whether they were successful) to remove Mews Village Nominees as trustee and replace it with Equitable Overseers Pty Ltd.</sentence>
+<sentence id="s75">It is possible that the partnership manager, WRVM, has also been replaced as manager by Equitable Overseers.</sentence>
+<sentence id="s76">To be blunt, things are in a mess and it will take a good deal of time and great expense to sort them out.</sentence>
+<sentence id="s77">11 Turning to The Rosedale Retirement Village, this comprises an existing aged care facility village operating at Deaves Road, Cooranbong, New South Wales.</sentence>
+<sentence id="s78">The property was owned by Peridon Group Pty Ltd, another promoter company.</sentence>
+<sentence id="s79">An adjoining parcel of land was owned by the fifth defendant, Peridon Management Pty Ltd (in liq).</sentence>
+<sentence id="s80">By contracts made on 18 April 2000 both properties were sold to the sixth defendant, Rosedale Village Nominees Pty Ltd (rec and mgr apptd), for $40,113,191.</sentence>
+<sentence id="s81">The deposit of $7,926,558 was raised from investors and the balance funded by loans from the vendors.</sentence>
+<sentence id="s82">Rosedale Village Nominees has taken a transfer only of the land purchased from Peridon Group.</sentence>
+<sentence id="s83">Peridon Management is still registered as the proprietor of the land it sold to Rosedale Village Nominees.</sentence>
+<sentence id="s84">Both parcels of land are burdened by mortgages to secure the loans from the vendors.</sentence>
+<sentence id="s85">The mortgages are subject to challenge in the New South Wales Supreme Court.</sentence>
+<sentence id="s86">I know nothing about the litigation.</sentence>
+<sentence id="s87">12 The Deaves Road property and the existing operation were purchased on behalf of a partnership called The Rosedale Village Partnership which had been established by a partnership agreement dated 18 April 2000.</sentence>
+<sentence id="s88">The two Investor Partners are Talisker Skye Pty Ltd, with a 95.37 per cent interest in the partnership, and Allturn Pty Ltd, which holds the balance.</sentence>
+<sentence id="s89">The sixth defendant, Rosedale Village Nominees, a party to the partnership agreement, was appointed to hold the partnership property on trust for the Investor Partners.</sentence>
+<sentence id="s90">GDK was appointed to manage the partnership.</sentence>
+<sentence id="s91">The manager of the Rosedale Retirement Village is Peridon Management.</sentence>
+<sentence id="s92">The remuneration payable for its services is substantially the same as that payable to WRVM for the management of The Mews Retirement Village.</sentence>
+<sentence id="s93">13 Each Investor Partner holds its interest in the partnership on trust for a partnership of investors.</sentence>
+<sentence id="s94">In the case of Talisker Skye, the partnership was established by an agreement dated 18 April 2000 and is styled the Talisker Skye Partnership.</sentence>
+<sentence id="s95">Allturn holds its interest for the Allturn Partnership.</sentence>
+<sentence id="s96">Some members of the Talisker Skye Partnership are trustees for other investors, who have formed several sub-partnerships.</sentence>
+<sentence id="s97">The second defendant, Windsor Village Management Pty Ltd, is the manager of each sub-partnership.</sentence>
+<sentence id="s98">14 The contract with Rosedale Village Nominees required the vendors to carry out building works to create a village that would comprise 215 two-bedroom apartments, 184 three-bedroom apartments and 90 assisted care facilities.</sentence>
+<sentence id="s99">None of that work has been done.</sentence>
+<sentence id="s100">The investors have not been given any explanation.</sentence>
+<sentence id="s101">They are unable to get any information from the manager of The Rosedale Retirement Village or from the managers of their respective partnerships.</sentence>
+<sentence id="s102">Perhaps one reason --- I am sure not the only reason --- is that the managers have been removed and replaced by incorporated associations.</sentence>
+<sentence id="s103">I have also been told that Rosedale Village Nominees may have been replaced by Rosedale Action Incorporated as the trustee of the Deaves Road land.</sentence>
+<sentence id="s104">In any event, Rosedale Village Nominees is in receivership, although the appointment of receivers is being challenged.</sentence>
+<sentence id="s105">Peridon Management is in liquidation.</sentence>
+<sentence id="s106">15 It is not in dispute that each of the arrangements I have described is a managed investment scheme for the purpose of the Corporations Act .</sentence>
+<sentence id="s107">This conclusion could hardly be in dispute.</sentence>
+<sentence id="s108">Each element of the definition has been satisfied.</sentence>
+<sentence id="s109">Taking those elements in turn, by each arrangement: (1) investors contributed money to acquire a right to a proportion of the profits from the operation of the retirement village; (2) the contributions were pooled to make up the deposit for the purchase of the property on which each village was to be constructed or operated; and (3) none of the investors had (or was to have) control over the day to day operations of either the construction or operation of the village; all control was ceded to managers.</sentence>
+<sentence id="s110">That is more than sufficient to bring the arrangements within the definition.</sentence>
+<sentence id="s111">16 Contrary to the Corporations Act , neither scheme was registered.</sentence>
+<sentence id="s112">Nor did they comply with many of the other requirements for managed investment schemes.</sentence>
+<sentence id="s113">Thus it was accepted on all sides that each scheme had to be wound up.</sentence>
+<sentence id="s114">ASIC seeks orders to that effect under s 601EE(1).</sentence>
+<sentence id="s115">But despite the apparent consensus there are several objections to the orders being made.</sentence>
+<sentence id="s116">The principal objection, which if correct would render the application unnecessary, is that the schemes have already been wound up.</sentence>
+<sentence id="s117">For reasons I will come to, none of the objections can be sustained and winding up orders will be made.</sentence>
+<sentence id="s118">It will be necessary therefore to consider what orders, if any, should be made under s 601EE(2) for carrying out the winding up.</sentence>
+<sentence id="s119">To that end it is appropriate to say something about the nature of a winding up of a managed investment scheme.</sentence>
+<sentence id="s120">17 When a winding up order is made in respect of a company the statutory regime that is brought into operation has been succinctly described by McPherson SPJ in Re Crust 'N' Crumb Bakers (Wholesale) Pty Ltd [1992] 2 Qd R 76, 78.</sentence>
+<sentence id="s121">He said that "[w]inding up is a process that consists of collecting the assets [of the company], realising and reducing them to money, dealing with proofs of creditors [of the company] by admitting or rejecting them, and distributing the net proceeds, after providing for costs and expenses, to the persons entitled.</sentence>
+<sentence id="s122">" Obviously this is a description, albeit brief, of what flows by reason of statute from a winding up order.</sentence>
+<sentence id="s123">18 An order for the winding up of an unregistered managed investment scheme does not bring about the same consequences.</sentence>
+<sentence id="s124">At least the order will not automatically produce those consequences.</sentence>
+<sentence id="s125">The reason is simple.</sentence>
+<sentence id="s126">No statutory procedure for the winding up is brought into play when the order is made.</sentence>
+<sentence id="s127">What then, one might ask, is the effect of a winding up order?</sentence>
+<sentence id="s128">It is, I think, appropriate when answering this question to act on the premise which I hope is uncontroversial that a winding up order must produce some consequence.</sentence>
+<sentence id="s129">Every order of a court settles some party's rights or obligations, duties or liabilities.</sentence>
+<sentence id="s130">When a winding up order is made it must affect the rights or obligations of, at least, the investors.</sentence>
+<sentence id="s131">In the kind of scheme with which we are dealing, the order may also affect the rights and obligations of other persons, for example the trustee and managers.</sentence>
+<sentence id="s132">19 In my view the effect of the order is that each investor is immediately entitled to insist that steps be taken to wind up the scheme.</sentence>
+<sentence id="s133">I will put to one side for a moment what those steps should be.</sentence>
+<sentence id="s134">The order also means that save for the purposes of its winding up, the scheme should not continue in operation.</sentence>
+<sentence id="s135">Accordingly, to the extent that any agreement requires the scheme to continue, that agreement is overridden by the order.</sentence>
+<sentence id="s136">Whether or not the order is an event that frustrates the agreement so that the rights and obligations of the parties come to an end, is a difficult question that I need not resolve.</sentence>
+<sentence id="s137">Further, in my view the winding up order also prevents any person involved in the scheme from imposing new obligations on the investors or affecting their interest in the scheme property, save to the extent this will occur in the course of the winding up.</sentence>
+<sentence id="s138">20 Although the winding up order permits investors to insist that steps be taken for the scheme to be brought to an end, if all the investors are in agreement the winding up need not follow the same steps as the winding up of a company.</sentence>
+<sentence id="s139">If the scheme has failed, the company model is likely to be the only appropriate method for the winding up.</sentence>
+<sentence id="s140">I think that is what Keane JA must have had in mind when he said in Mier v F N Management Pty Ltd (2005) 56 ACSR 93, 97-98 that the winding up of a managed investment scheme should follow the same path as the winding up of a company.</sentence>
+<sentence id="s141">But this will not always be appropriate, especially when the scheme is a successful commercial venture.</sentence>
+<sentence id="s142">In that event all that might be required is a reorganisation or reconstruction that will alter the relationship between the parties to ensure that their continued association is lawful.</sentence>
+<sentence id="s143">This was recognised in Warne v GDK Financial Solutions Pty Ltd; Billingham v Parbery [2006] NSWSC 259.</sentence>
+<sentence id="s144">See also Australian Securities and Investments Commission v Atlantic 3 Financial (Aust) Pty Ltd (2003) 47 ACSR 52.</sentence>
+<sentence id="s145">21 Whenever it is necessary to work out how to effect the winding up of an unregistered managed investment scheme, several questions will arise, viz: Precisely what is being wound up?</sentence>
+<sentence id="s146">What assets are to be collected and dealt with, whether by realisation or otherwise?</sentence>
+<sentence id="s147">Which creditors (if any) are to be paid out?</sentence>
+<sentence id="s148">How are the persons entitled to share in the scheme assets to be identified?</sentence>
+<sentence id="s149">22 In this case the first question - What is being wound up?</sentence>
+<sentence id="s150">- can be answered by reference to the elements of the scheme, most of which have already been identified.</sentence>
+<sentence id="s151">In each case investors formed partnerships, subscribed money which was pooled and, together with borrowed money, applied on their behalf by managers toward the purchase by a trustee of an asset --- in one case land and in the other land and an operating business.</sentence>
+<sentence id="s152">In a broad sense the scheme comprises the relationships established by the various agreements that gave rise to those transactions.</sentence>
+<sentence id="s153">However, the only part of the overall scheme that I intend to wind up at this point is that part of the arrangement by which scheme property is held on trust by a trustee and managed by a manager.</sentence>
+<sentence id="s154">It is not my intention to bring to an end all the agreements that make up the scheme.</sentence>
+<sentence id="s155">Once the scheme property is disposed of or dealt with in some way that takes it out of the hands of the trustee and away from the control of a manager, the unregistered scheme should be at an end.</sentence>
+<sentence id="s156">23 As regards the other agreements, it is not necessary for them immediately to be discharged.</sentence>
+<sentence id="s157">The position is that none of them were illegal when made: Karl Suleman Enterprizes Pty Ltd (in liq) v Babanour (2004) 49 ACSR 612.</sentence>
+<sentence id="s158">Of course, the destruction of the scheme by a winding up order will affect those obligations under the agreements that require the scheme to, or assume that it will, continue.</sentence>
+<sentence id="s159">Those obligations will not survive the winding up order.</sentence>
+<sentence id="s160">On the other hand all other obligations should remain in place, at least for the time being.</sentence>
+<sentence id="s161">24 On this aspect I have in mind in particular the partnership agreements.</sentence>
+<sentence id="s162">The scheme can be wound up leaving those agreements in place.</sentence>
+<sentence id="s163">But in due course each partnership will have to be dissolved.</sentence>
+<sentence id="s164">Viewed in isolation the partnerships themselves may constitute an unregistered managed investment scheme.</sentence>
+<sentence id="s165">However that may be, at present it is not possible to dissolve the partnerships for none of the partners are parties and in their absence it is not appropriate to order a dissolution: Waters v Taylor (1807) 15 Ves 10; 33 ER 658; Ex parte Ford (1801) 7 Ves 617; 32 ER 248.</sentence>
+<sentence id="s166">The proper thing to do is to stand over that issue.</sentence>
+<sentence id="s167">If ASIC or any investor intends to move for a dissolution that should be done either on notice to the partners or by joining them as parties: Victoria v Sutton [1998] HCA 56 ; (1998) 195 CLR 291, 316-8.</sentence>
+<sentence id="s168">When the partnerships are dissolved it will be necessary to rule upon the partners' respective entitlements.</sentence>
+<sentence id="s169">Some of the partners, in particular those associated with the promoters, appear not to have put up any capital and for that reason may not following dissolution be entitled to share in the proceeds.</sentence>
+<sentence id="s170">25 It will also be necessary to consider what should be done with the contracts of sale, loan agreements and mortgages.</sentence>
+<sentence id="s171">I do not know enough of the facts to have formed any view, but it is possible that some of these transactions are vulnerable to attack.</sentence>
+<sentence id="s172">I note for example that the amount of the loans may need to be reduced on account of the failure of the vendors to carry out the promised building works.</sentence>
+<sentence id="s173">As presently advised I cannot see how the vendors can avoid some kind of set-off against their respective loans.</sentence>
+<sentence id="s174">But that is a matter for another day.</sentence>
+<sentence id="s175">All I need do is to reserve liberty to any party to make an application in relation to those agreements.</sentence>
+<sentence id="s176">26 The next issue to consider is what procedure should be adopted for the winding up.</sentence>
+<sentence id="s177">This is not a case where the appropriate mechanisms, whatever they may be, can be worked out by the parties themselves, or by their representatives: Compare Lyon v Haynes (1843) 5 Man &amp; G 504; 134 ER 661 where a banking company governed by 7 Geo 4 c 46, was voluntarily dissolved.</sentence>
+<sentence id="s178">The winding up of these schemes must be administered by the court.</sentence>
+<sentence id="s179">In a practical sense this can only be achieved by the appointment of an officer of the court to implement the winding up.</sentence>
+<sentence id="s180">The appropriate officer is a receiver.</sentence>
+<sentence id="s181">27 Although the origins of receivership are obscure, the appointment of sequestrators, receivers of rents and profits and committees dates back to at least the mid 1600s: G Spence , 'The equitable jurisdiction of the Court of Chancery' vol 1, 673.</sentence>
+<sentence id="s182">Originally receivers were appointed to protect and preserve property for the benefit of those interested in it.</sentence>
+<sentence id="s183">Later they were also appointed to collect property for sale and to distribute the proceeds to all claimants who proved their claim.</sentence>
+<sentence id="s184">Disputed claims were adjudicated by the court.</sentence>
+<sentence id="s185">By the 1800s receivers were also appointed to manage property under their control, especially if the property was a business to be sold as a going concern: In Re Manchester and Mitford Railway Company; ex parte Cambrian Railway Company (1880) 14 Ch D 645; Taylor v Neate (1888) 39 Ch D 538.</sentence>
+<sentence id="s186">28 The order appointing a receiver must identify the property which the receiver is to take into his possession or else refer to the pleadings or some other document that describes the property: Crow v Wood (1850) 13 Beav 271, 273; 51 ER 104, 105; Hawkes v Holland [1881] WN 128; Seton on Decrees, vol 1, p 738.</sentence>
+<sentence id="s187">There also needs to be a direction that the person in possession give up possession to the receiver.</sentence>
+<sentence id="s188">In the absence of that direction, the person in possession may not be required to give over possession to the receiver ( Freeman v Trimble (1906) 6 SR (NSW) 133) or at least might not be cited for contempt for his refusal to do so.</sentence>
+<sentence id="s189">It is also usual for the order to require any person who has them to deliver up those books and records relating to the property that the receiver may need: Fripp v The Chard Railway Co (1867) 11 Hare 241; 68 ER 1264.</sentence>
+<sentence id="s190">29 On his appointment, the receiver is an officer of the court, not of the party at whose instance he is appointed: In Re Flowers &amp; Co [1897] 1 QB 14.</sentence>
+<sentence id="s191">His authority is to act in the manner directed by the court.</sentence>
+<sentence id="s192">Thus, for example, in the absence of an order, the receiver has no right to sell any property in his possession.</sentence>
+<sentence id="s193">That is, a power of sale will not be implied from the mere appointment: Australian Industry Development Corp v Co-operative Farmers &amp; Graziers Direct Meat Supply Ltd (1978) 3 ACLR 543.</sentence>
+<sentence id="s194">But it is not necessary for every act to be authorised by a prior order.</sentence>
+<sentence id="s195">For instance the old rule was that a receiver could not pay any expenses in the absence of an order: Fletcher v Dodd (1789) 1 Ves 85; 30 ER 242.</sentence>
+<sentence id="s196">Since the 1880s, however, it has been accepted that a receiver can meet all expenses incurred by him in the absence of any order and the reasonableness of those expenses will be determined when the receiver passes his accounts: Tempest v Ord (1816) Mer 55; 35 ER 861.</sentence>
+<sentence id="s197">Still, it is prudent for the order to specify what payments the receiver can make and what contracts he can enter into.</sentence>
+<sentence id="s198">In a case where the receiver is appointed to run a business there should be an order that he can employ staff and maintain a bank account.</sentence>
+<sentence id="s199">He should also be ordered to keep strict accounts and immediately report to the court if the business is operating at a loss.</sentence>
+<sentence id="s200">30 It is important to appreciate that the property which the receiver is directed to take into his possession does not vest in him by virtue of his appointment: Re Satoris's Estate [1892] 1 Ch 11.</sentence>
+<sentence id="s201">For that reason the receiver is not entitled to sue in his own name for a debt due to the person whose property is the subject of the receiving order: Re Sacker (1888) 22 QBD 179.</sentence>
+<sentence id="s202">If an action is to be brought it must be in the name of the person entitled to the property.</sentence>
+<sentence id="s203">31 I will appoint a receiver to take possession of the scheme assets in so far as they are presently known; in the case of the Mews scheme, the land at Lot 4, Railway Parade, Upper Swan and in relation to the Rosedale scheme, the land and business at Deaves Road, Cooranbong as well as the adjacent land.</sentence>
+<sentence id="s204">The order will describe the land by reference to its title particulars.</sentence>
+<sentence id="s205">The receiver will be given power to manage the existing Rosedale Retirement Village business.</sentence>
+<sentence id="s206">If the receiver encounters any difficulty in taking possession of either property or the business, I will direct that he make any necessary application to the court.</sentence>
+<sentence id="s207">The usual position is that the application should be made by a party ( Parker v Dunn (1848) 8 Beav 497; 50 ER 195) but that is often too time consuming.</sentence>
+<sentence id="s208">Of course, any application which the receiver may make should be on notice to the parties.</sentence>
+<sentence id="s209">32 The receiver will be directed to find a buyer for the properties of which he takes possession.</sentence>
+<sentence id="s210">He will not, however, be authorised to sell the properties, save under a contract that is conditional upon court approval.</sentence>
+<sentence id="s211">For one thing the beneficial owners of the properties are not before the court and I do not know whether they have notice of this proceeding.</sentence>
+<sentence id="s212">I suspect most do not.</sentence>
+<sentence id="s213">In their absence a sale order probably could not be made.</sentence>
+<sentence id="s214">Even were I to have the power, I would not make an order unless the beneficial owners were on notice that a sale was sought.</sentence>
+<sentence id="s215">33 For another thing, before the properties are capable of being sold it will be necessary to determine the rights of prior encumbrancers, and there appear to be several claimants.</sentence>
+<sentence id="s216">The winding up order is not intended to affect the rights, interests and remedies of any person who has a prior interest over any of the properties.</sentence>
+<sentence id="s217">Certainly the appointment of a receiver will not affect those rights ( Waters v Taylor (1807) 15 Ves 10; 33 ER 658) except, of course, where the right concerns possession.</sentence>
+<sentence id="s218">The claims of prior encumbrancers will have to be adjudicated before there is a sale.</sentence>
+<sentence id="s219">Indeed, dependent upon the outcome of the adjudication, there may be no sale.</sentence>
+<sentence id="s220">34 Lastly, the investors may not want the properties sold.</sentence>
+<sentence id="s221">The parties have informed me that attempts are being made to put together a "rescue package" of a kind that will allow the investors to take direct control over the assets.</sentence>
+<sentence id="s222">The investors will be given the opportunity to pursue that course but they will need to act quickly, for I will not allow the winding up to be delayed for any significant period.</sentence>
+<sentence id="s223">35 In addition to being appointed receiver over the Mews scheme assets and receiver and manager of the Rosedale scheme assets and given the powers I have mentioned, the question arises whether the receiver should be given any additional powers.</sentence>
+<sentence id="s224">ASIC has referred me to several cases where a receiver of a managed investment scheme has been given all the powers that a liquidator of a company has under s 477 of the Corporations Act as if the scheme were a company.</sentence>
+<sentence id="s225">It submits that s 601EE(2) is the source of power to make such an order.</sentence>
+<sentence id="s226">36 In my view, there are three reasons why the order should not be made.</sentence>
+<sentence id="s227">In summary they are, first, that the receiver already has most of the powers he needs and does not need many of the s 477 powers to carry out his task; second, that several of the s 477 powers are not appropriately given to the receiver; and, finally, that the order, mistakenly in my view, assumes that the receiver can be given all the powers of a liquidator.</sentence>
+<sentence id="s228">37 As to the first point, I have already referred to some powers of a receiver that exist by virtue of his appointment.</sentence>
+<sentence id="s229">The appointment will allow him to take possession of the property identified in the order.</sentence>
+<sentence id="s230">He will be able to insure the property and keep it under repair: In Re Graham [1895] 1 Ch 66.</sentence>
+<sentence id="s231">If the receiver recovers any cash it may be invested, although it might be prudent to first obtain an order.</sentence>
+<sentence id="s232">If the receiver is required to sell property he can employ a solicitor, agent or auctioneer for that purpose without further order.</sentence>
+<sentence id="s233">Where a receiver is appointed to manage a concern, he needs no special power to operate the business.</sentence>
+<sentence id="s234">On the other hand, a prudent receiver may want some orders along the lines I have mentioned, for example the power to employ staff, engage agents, operate a bank account and the like.</sentence>
+<sentence id="s235">38 As to the second point, s 477 confers a power of sale on a liquidator.</sentence>
+<sentence id="s236">I have indicated that the receiver should not be given that power.</sentence>
+<sentence id="s237">Any sale should be under the court's control.</sentence>
+<sentence id="s238">Section 477 also permits a liquidator to distribute property to the persons entitled to it.</sentence>
+<sentence id="s239">That is not an appropriate power to confer on a receiver.</sentence>
+<sentence id="s240">It is another matter over which the court should retain control.</sentence>
+<sentence id="s241">The section gives a liquidator power to compromise claims made by creditors.</sentence>
+<sentence id="s242">Except for very small claims, it is not appropriate for the receiver to compromise claims.</sentence>
+<sentence id="s243">This is not to suggest that the receiver will have no role in relation to claims against property in his possession.</sentence>
+<sentence id="s244">There will be an order that any claim by a person asserting an interest in the property should be presented to the receiver.</sentence>
+<sentence id="s245">The claim should be made in a like manner to a proof of debt in a bankruptcy or liquidation.</sentence>
+<sentence id="s246">The receiver must accept or reject the claim, after assessing its validity.</sentence>
+<sentence id="s247">It is appropriate that a time be placed both on presenting claims and dealing with them.</sentence>
+<sentence id="s248">If it turns out that any claim is disputed by the receiver, it will be adjudicated by the court.</sentence>
+<sentence id="s249">Any claim allowed by the receiver must be approved by the court before it is discharged out of the property in the receiver's control.</sentence>
+<sentence id="s250">The approval will take place when the court makes an order for the distribution of the proceeds.</sentence>
+<sentence id="s251">If there are small claims the receiver can apply for permission to compromise them.</sentence>
+<sentence id="s252">In all likelihood that permission will be granted.</sentence>
+<sentence id="s253">39 The last point is the most difficult.</sentence>
+<sentence id="s254">Among the powers given to a liquidator by s 477 is the power to inspect the books of the company in liquidation: see s 477(3).</sentence>
+<sentence id="s255">A person who refuses to allow the liquidator to inspect the books is guilty of an offence.</sentence>
+<sentence id="s256">In my opinion, this power cannot be conferred on the receiver.</sentence>
+<sentence id="s257">The first difficulty is that having regard to the way these schemes are structured there probably is no person on whom the obligation would attach.</sentence>
+<sentence id="s258">Even if "the scheme" is to be substituted for "the company" in the relevant provisions that will not spell out whose books the receiver is entitled to inspect - the former trustee, one of the old managers, any of the new managers?</sentence>
+<sentence id="s259">For the relevant sections to work in respect of these schemes they would need to be redrafted, and parliament is the institution that drafts statutes.</sentence>
+<sentence id="s260">40 There is, in any event, a more substantial difficulty.</sentence>
+<sentence id="s261">It is that, in my view, s 601EE(2) does not permit the court to impose new duties or obligations on any person.</sentence>
+<sentence id="s262">This issue is brought into sharp focus when consideration is given to ASIC's request that the receiver be directed to carry out an investigation into various aspects of the schemes, with power to compel not only the parties to the suit but also third parties to provide whatever information the receiver needs to further that investigation.</sentence>
+<sentence id="s263">What ASIC wants is for the receiver to carry out an investigation that will identify all scheme assets, all debts incurred during the operation of each scheme and all contributions in cash or in kind made by the investors.</sentence>
+<sentence id="s264">In addition, in relation to the Rosedale scheme, ASIC wants the receiver to prepare for the investors a report that will contain not only that information but also details of all borrowings secured against the scheme land, how the borrowed money was applied, what claims there are against the scheme assets and whether the scheme is solvent.</sentence>
+<sentence id="s265">The object of this report is to enable the investors to decide how the scheme should be wound up.</sentence>
+<sentence id="s266">41 The problem with ASIC's proposal is that a receiver has no power of inquiry, in the sense that he cannot require any person to provide him with any information or any documents, save those documents which he is required to take into his possession: In Re Manchester and Milford Railway Company; ex parte Cambrian Railway Company (1880) 14 Ch D 645, 655.</sentence>
+<sentence id="s267">Perhaps for this reason courts have made orders conferring upon the receiver of a managed investment scheme the power to compulsorily acquire information from third parties.</sentence>
+<sentence id="s268">There are instances for example where a receiver has been directed to conduct an investigation into specific topics and the promoter, manager or trustee of scheme property has been ordered to make all relevant books and records available to the receiver.</sentence>
+<sentence id="s269">On occasion it has been ordered that the directors, officers, servants and agents of the promoter, manager or trustee (as the case may be) provide on oath any information requested of them.</sentence>
+<sentence id="s270">There are even examples of an order that a receiver may apply for a summons under s 596A to examine any person about the affairs of the scheme.</sentence>
+<sentence id="s271">That section permits a person to be examined about the affairs of a company in administration or to a company that is being wound up.</sentence>
+<sentence id="s272">The order is fashioned so that the section applies to a managed investment scheme.</sentence>
+<sentence id="s273">42 The courts making those orders have assumed that the requisite power is found in s 601EE(2).</sentence>
+<sentence id="s274">I accept that this section gives the court a very broad power.</sentence>
+<sentence id="s275">In Australian Securities and Investments Commission v Commercial Nominees of Australia Limited (2002) 42 ACSR 240, 243 Barratt J said that under s 601EE(2): "[T]he court has jurisdiction to settle or prescribe any aspect or element of the basis for winding up or the winding up process which it is necessary to supply because that element cannot be obtained from any other source.</sentence>
+<sentence id="s276">" In Australian Securities and Investments Commission v Takaran Pty Ltd (No 2) (2002) 43 ACSR 334, 338 he said that: "[T]he power [under s 601EE(2)] extends ... not only to the imposition of an appropriate winding up regime at inception but also to the making, as and when needed after inception, of such further orders as are needed in connection with the due conduct and completion of the winding up.</sentence>
+<sentence id="s277">" Indeed, in Australian Securities and Investments Commission v Atlantic 3 Financial (Aust) Pty Ltd (No 3) [2004] 1 Qd R 591, Mullins J said that the power conferred by the section is almost without restriction.</sentence>
+<sentence id="s278">43 For my own part, however, I do not accept that the power conferred by s 601EE(2) is without restriction.</sentence>
+<sentence id="s279">In particular, I do not accept that the section permits the court to impose an otherwise nonexistent obligation on a person to provide information to a receiver appointed to wind up a managed investment scheme.</sentence>
+<sentence id="s280">It is a well established principle of statutory construction that, in the absence of clearly expressed language to the contrary, courts will presume that legislation is intended to leave individual rights intact.</sentence>
+<sentence id="s281">This principle has been described by Lord Steyn as "the principle of legality" ( R v Secretary of State to the Home Department; Ex parte Pierson [1997] UKHL 37 ; [1998] AC 539, 587).</sentence>
+<sentence id="s282">It can be traced as far back as the sixteenth century ( Stradling v Morgan (1560) 1 Plowd 199, 204-205; 75 ER 305, 312-315) and has been regularly affirmed by the High Court from as early as 1908 ( Potter v Minahan [1908] HCA 63 ; (1908) 7 CLR 277, 304 per O'Connor J) to very recently.</sentence>
+<sentence id="s283">44 For example, in Plaintiff S157/2002 v Commonwealth [2003] HCA 2 ; (2003) 211 CLR 476, 492 Gleeson CJ said: "[C]ourts do not impute to the legislature an intention to abrogate or curtail fundamental rights or freedoms unless such an intention is clearly manifested by unmistakable and unambiguous language.</sentence>
+<sentence id="s284">General words will rarely be sufficient for that purpose.</sentence>
+<sentence id="s285">What courts will look for is a clear indication that the legislature has directed its attention to the rights or freedoms in question, and has consciously decided upon abrogation or curtailment.</sentence>
+<sentence id="s286">" Similarly, in Al-Kateb v Godwin [2004] HCA 37 ; (2004) 219 CLR 562, 577 the Chief Justice said: "Courts do not impute to the legislature an intention to abrogate or curtail certain human rights or freedoms ... unless such an intention is clearly manifested by unambiguous language, which indicates that the legislature has directed its attention to the rights or freedoms in question, and has consciously decided upon abrogation or curtailment.</sentence>
+<sentence id="s287">" In these cases, the High Court was construing provisions that, respectively, purported to have the effect of restricting the subject's access to the courts and authorising the subject's indefinite detention as an "unlawful non-citizen.</sentence>
+<sentence id="s288">" The principle applies to other rights: see, for example, Ex parte Yerger 8 Wall 85 (1869) at 102-3, recently affirmed by the United States Supreme Court in Hamdan v Rumsfeld 126 S Ct 2749, 2764 (2006) (right to appeal); Melbourne Corp v Barry [1922] HCA 56 ; (1922) 31 CLR 174 (right to take part in processions); Pyneboard Pty Ltd v Trade Practices Commission [1983] HCA 9 ; (1983) 152 CLR 328 (privilege against self-incrimination); Clunies Ross v Commonwealth [1984] HCA 65 ; (1984) 155 CLR 193, 201 (property rights); Brown v Classification Review Board (1998) 154 ALR 67, 83 (freedom of expression); Daniels Corp International Pty Ltd v Australian Competition and Consumer Commission [2002] HCA 49 ; (2002) 213 CLR 543, 560 (right to legal professional privilege).</sentence>
+<sentence id="s289">It also applies to legislation which purports to impose previously nonexistent obligations: Amalgamated Television Services Pty Ltd v Australian Broadcasting Tribunal (1989) 88 ALR 287, 304 ff and Grech v Bird [1936] HCA 59 ; (1936) 56 CLR 228 (obligation to provide a statutory declaration); O'Brien v Gillies (1990) 69 NTR 1, 4 (obligation to provide a blood test).</sentence>
+<sentence id="s290">See also: J J Spigelman, 'Principle of Legality and the Clear Statement Principle' (2005) 79(12) ALJ 769; P D Finn, 'Statutes and the Common Law' (1992) 22 UWALR 7.</sentence>
+<sentence id="s291">45 It is simply not possible to read into s 601EE(2) the power to do what the courts have done.</sentence>
+<sentence id="s292">Obligations cannot be imposed by the court unless its power to do so is expressed "with irresistible clearness" ( Potter v Minahan [1908] HCA 63 ; (1908) 7 CLR 277, 304, approved in Bropho v State of Western Australia [1990] HCA 24 ; (1990) 171 CLR 1, 17).</sentence>
+<sentence id="s293">46 A further reason, if one is needed, is provided by consideration of the consequences of a failure to comply with the court-imposed obligation.</sentence>
+<sentence id="s294">In a winding up of a company, the statute imposes the duties of disclosure and prescribes the punishment for their breach.</sentence>
+<sentence id="s295">But if the duty is to be created by the court, a failure to comply would amount to contempt.</sentence>
+<sentence id="s296">A regulatory offence would be turned into criminal conduct.</sentence>
+<sentence id="s297">47 Moreover, in almost all cases a scheme can be wound up without any need to compulsorily acquire information.</sentence>
+<sentence id="s298">The assets of the scheme will almost always be easily identified.</sentence>
+<sentence id="s299">Creditors who wish to be paid out of scheme assets must prove their claim by providing appropriate evidence.</sentence>
+<sentence id="s300">In any event, in most cases there will not be 'creditors' of the scheme.</sentence>
+<sentence id="s301">There may be potential claimants on the scheme property as an asset out of which certain debts must be discharged.</sentence>
+<sentence id="s302">For instance, in this case the scheme property is trust property.</sentence>
+<sentence id="s303">The trustee has incurred expenses in the course of carrying out its duties and has a right to be indemnified out of the trust property in respect of any personal liability incurred in the performance of its duties.</sentence>
+<sentence id="s304">It is also entitled to be reimbursed for expenses it has paid out.</sentence>
+<sentence id="s305">Those rights are a first charge on the trust property.</sentence>
+<sentence id="s306">To make good any claim for indemnity or reimbursement the trustee will be required to provide the appropriate details.</sentence>
+<sentence id="s307">If there are any surplus assets to be divided between the investors they will have to substantiate their claims.</sentence>
+<sentence id="s308">In these circumstances it could not be said that if the power to require a third party to provide information is not implied, the purpose of the division will be defeated.</sentence>
+<sentence id="s309">48 The only case in which the power of the court has been discussed is Australian Securities and Investments Commission v Mercorella (No 2) [2006] FCA 763.</sentence>
+<sentence id="s310">There, in an ex tempore judgment, Mansfield J decided that s 601EE(2) authorised the court to require a person to attend for oral examination under Part 5.9 of the Corporations Act .</sentence>
+<sentence id="s311">Mansfield J said that this had been decided by Mier v F N Management Pty Ltd (2005) 56 ACSR 93.</sentence>
+<sentence id="s312">He referred to the judgment of Keane JA, with whom the other judges agreed.</sentence>
+<sentence id="s313">In his judgment Keane JA pointed out that in Re Stacks Managed Investments Ltd (2005) 54 ACSR 466 White J reviewed the authorities in which a receiver of a managed investment scheme had been given the same powers as a liquidator of a company.</sentence>
+<sentence id="s314">In the course of so doing, White J raised the prospect that there was no power for such an order, but declined to express an opinion on the matter.</sentence>
+<sentence id="s315">On my reading of his judgment, Keane JA did not take the matter any further.</sentence>
+<sentence id="s316">That is, he did not express his own opinion on the correctness or otherwise of the cases to which White J had referred.</sentence>
+<sentence id="s317">He did suggest, however, that s 601EE(2) was confined to making orders of a procedural kind.</sentence>
+<sentence id="s318">With great respect, I think that Mansfield J misstated the ratio of Mier .</sentence>
+<sentence id="s319">In this state of affairs, there is no considered opinion of a court which I am required to follow.</sentence>
+<sentence id="s320">49 I mention in passing that on one view the decision in Australian Securities and Investments Commission v Commercial Nominees of Australia Ltd (2002) 42 ACSR 240 supports the contention that s 601EE(2) can be used to create new rights.</sentence>
+<sentence id="s321">In that case Barrett J said (at 244) that the subsection ought be regarded as "the source of jurisdiction to prescribe, by order, the appropriate basis of distribution of surplus and for the completion of the winding up".</sentence>
+<sentence id="s322">It is the statement that the court has power to deal with the surplus that caught my attention.</sentence>
+<sentence id="s323">It is not clear precisely what Barrett J had in mind but his statement might be taken to mean that the court could order that the net proceeds of the realisation of scheme assets be distributed in a way that is inconsistent with the legal or equitable rights in respect of that property.</sentence>
+<sentence id="s324">I do not think that this is what Barrett J intended, but if it is then, regrettably, I would disagree.</sentence>
+<sentence id="s325">I prefer the view of Justice Holmes in William Filene's Sons Company v Weed, Receivers of William S Butler &amp; Company, Inc. 245 US 597, 602 (1917) that "when the courts without statute take possession of all the assets of a corporation under a bill like the present and so make it impossible to collect debts except from the court's hands, they have no warrant for excluding creditors, or for introducing supposed equities other than those determined by the contracts that the debtor was content to make and the creditors to accept.</sentence>
+<sentence id="s326">" 
+ 
+50 Notwithstanding the lack of a statutory source of power, the court nevertheless has jurisdiction to order some kind of investigation, though not as broad as is sought by ASIC.</sentence>
+<sentence id="s327">Each manager and each trustee is an accounting party.</sentence>
+<sentence id="s328">The action for an account is one of the oldest actions known to the law.</sentence>
+<sentence id="s329">It appears to have developed, at common law, as early as the twelfth century as a method to force manorial bailiffs to account to their landowners for money received or income derived from the management of the land.</sentence>
+<sentence id="s330">The modern equitable action of account, which has all but superseded the common law action, imposes the duty to account more broadly than the common law.</sentence>
+<sentence id="s331">Accounts can be required for purely equitable demands or of legal demands that are ancillary to other equitable relief.</sentence>
+<sentence id="s332">Thus all fiduciaries are accounting parties: Makepeace v Rogers (1865) 34 LJCh 396; Le Mesurier v Connor (1926) 29 WALR 66.</sentence>
+<sentence id="s333">Accounts can be ordered also when the transactions between the parties are too complex to be resolved in legal demands ( O'Connor v Spaight (1804) 1 Sch &amp; Lef 305).</sentence>
+<sentence id="s334">That the remedy is available in a broad category of cases was made plain in North-Eastern Railway Company v Martin (1848) 2 Ph 758, 762; 41 ER 1136, 1138 where Lord Cottenham said: "It is ... impossible with precision to lay down rules or establish definitions as to the cases in which it may be proper for this court to exercise this jurisdiction.</sentence>
+<sentence id="s335">The infinitely varied transactions of mankind would be found continually to baffle such rules, and to escape from such definitions.</sentence>
+<sentence id="s336">It is, therefore, necessary for this Court to reserve to itself a large discretion, in the exercise of which due regard must be had, not only to the nature of the case, but to the conduct of the parties.</sentence>
+<sentence id="s337">"
+ 
+51 When accounts are ordered it is often appropriate to also order that there be an inquiry into matters that need to be investigated to complete the accounts.</sentence>
+<sentence id="s338">In the past the inquiries were undertaken by the Master.</sentence>
+<sentence id="s339">The cases in which the Master was directed to make inquiries were so numerous and various in their nature that they are impossible to categorise: Daniell's Chancery Practice (1871) vol 2, 1215.</sentence>
+<sentence id="s340">Examples of the kinds of inquiries that have been ordered are to be found in Seton on Decrees .</sentence>
+<sentence id="s341">For the purposes of both the taking of accounts and the inquiry the plaintiff can obtain discovery from the defendant: Wormsley v Sturt (1856) 22 Beav 398; 52 ER 1161; S J Stoljar, 'The Transformations of Account' (1964) 80 LQR 203, 222.</sentence>
+<sentence id="s342">The discovery can include the delivery of interrogatories: Saunders v Jones (1877) 7 Ch D 435.</sentence>
+<sentence id="s343">To obtain the information required of him, the accounting party is obliged to make due and proper inquiries of its servants, agents, bankers or solicitors: Bank of Russian Trade Ltd v British Screen Productions Ltd [1930] 2 KB 90; Alliott v Smith [1895] 2 Ch 111.</sentence>
+<sentence id="s344">In some cases the plaintiff is able to compel the accounting party to testify under oath on any disputed matter relating to the accounts as they appear in the verified accounts: Wormsley v Sturt (1856) 22 Beav 398; 52 ER 1161; Re Lord's Estate (1866) 2 Eq Rep 605.</sentence>
+<sentence id="s345">There is also authority for the proposition that the accounting party's employees can be cross-examined as well: Story , Commentaries on Equity Jurisprudence (14th ed, 1918) SS 1262 n 3.</sentence>
+<sentence id="s346">On this basis it might also be possible to examine former employees.</sentence>
+<sentence id="s347">52 Interestingly, in Fry v Oddy [1998] VSCA 26 ; [1999] 1 VR 557, 578 Ormiston J noted that the "inquisitorial" nature of the jurisdiction entitles a judge to direct that a third party make the inquiries that will produce the information necessary to complete the accounts.</sentence>
+<sentence id="s348">The combination of this rule and s 601EE(2) would permit me to delegate the task to a receiver.</sentence>
+<sentence id="s349">53 I will invite ASIC to propose the form of accounts and inquiries that should be ordered and what directions should be given for them to be undertaken.</sentence>
+<sentence id="s350">There will, however, be a stay on those orders.</sentence>
+<sentence id="s351">The usual rule is that accounts are ordered only when all necessary parties (that is all parties who will be bound by the accounts) have been joined or have been given notice of the order.</sentence>
+<sentence id="s352">A stay will enable steps to be taken to join the relevant persons or put them on notice.</sentence>
+<sentence id="s353">54 Before leaving the topic of receivers there are two further observations I wish to make.</sentence>
+<sentence id="s354">The first concerns the receiver obtaining the views of investors in the Rosedale scheme how they wish the winding up of their scheme to proceed.</sentence>
+<sentence id="s355">ASIC suggests that the receiver be directed to convene a meeting of investors to take their views.</sentence>
+<sentence id="s356">I agree.</sentence>
+<sentence id="s357">In a case such as this the meeting need not be structured as formally as ASIC proposes.</sentence>
+<sentence id="s358">The investors' views could be taken on a show of hands with some calculation of the value of their contributions.</sentence>
+<sentence id="s359">But the receiver need not go to much trouble in that regard.</sentence>
+<sentence id="s360">What each investor considers is due to him will suffice for my purposes.</sentence>
+<sentence id="s361">After all, nothing that the investors decide will be binding.</sentence>
+<sentence id="s362">55 The second observation relates to the provision of security by the receiver.</sentence>
+<sentence id="s363">It has not been suggested that the receivers should provide security.</sentence>
+<sentence id="s364">This is somewhat surprising because in the ordinary case the court will not dispense with the requirement.</sentence>
+<sentence id="s365">That is so even when the parties consent to the dispensation: Manners v Fuze (1847) 11 Beav 30; 50 ER 727.</sentence>
+<sentence id="s366">The cases in which courts have dispensed with the requirement seem generally to be restricted to those where: (a) the receiver has been appointed without remuneration ( Gardner v Blane (1842) 1 Hare 381; 66 ER 1080); (b) an official liquidator is appointed as receiver (eg Joseph v Joseph (unreported, QSC, de Jersey CJ, 22 April 1998) --- a discretionary factor which has been elevated to a rule of law; (c) the scope of the receivership is so limited that security is not required ( Hyde v Warden (1876) 1 Ex D 309); and (d) the receiver shows that he has sufficient assets to cover his potential liability as receiver: Kerr &amp; Hunter on Receivers and Administrators (18th ed, 2005), 124.</sentence>
+<sentence id="s367">For reasons I have not been able to ascertain, no court appointing a receiver to wind up a managed investment scheme has required the provision of security.</sentence>
+<sentence id="s368">The issue has not even been discussed.</sentence>
+<sentence id="s369">Perhaps all the managed investment scheme cases fall within category (b), but that is not clear.</sentence>
+<sentence id="s370">Even if this is so the dispensation should not be automatic.</sentence>
+<sentence id="s371">Investors in unregistered managed investment schemes have as much need for protection from the risks of receivership as any other person whose property is taken into custody by court order.</sentence>
+<sentence id="s372">However that may be, I do not think it appropriate for me to follow a different course.</sentence>
+<sentence id="s373">I will dispense with security and as required by the rules, the order will record that fact.</sentence>
+<sentence id="s374">One day the proprietary of this approach will be sorted out by an appeal court.</sentence>
+<sentence id="s375">56 Now I can deal with the grounds upon which the winding up orders were opposed.</sentence>
+<sentence id="s376">Mr Levet, who appears for Rosedale Village Nominees and also purports to appear on behalf of Mews Village Nominees, submitted there is no power to wind up the schemes or to appoint a receiver to their assets.</sentence>
+<sentence id="s377">There are two planks upon which his argument is constructed.</sentence>
+<sentence id="s378">The first is that each scheme had already been wound up by order of the Supreme Court of the Australian Capital Territory.</sentence>
+<sentence id="s379">The second argument is that the conditions for the exercise of the statutory power to wind up had not been triggered.</sentence>
+<sentence id="s380">57 By way of background, the person currently behind both Rosedale Village Nominees and Mews Village Nominees is Mr Shiels QC.</sentence>
+<sentence id="s381">Through a company, E O Finance Pty Ltd, Mr Shiels is also an investor in the Rosedale Retirement Village.</sentence>
+<sentence id="s382">Mr Shiels may or may not have an interest in Swan Western Incorporated, which is an investor in the Mews Retirement Village.</sentence>
+<sentence id="s383">At any rate, in mid-2005, E O Finance Pty Ltd purporting to represent all Investor Partners in the Talisker Skye Partnership brought an action in the ACT Supreme Court to wind up the Talisker Syke Partnership on the ground that it was an unregistered managed investment scheme.</sentence>
+<sentence id="s384">According to the affidavit filed in support of the application, the Talisker Skye Partnership was established by an agreement of 18 April 2000; the first defendant, Rosedale Action Incorporated, was appointed manager of the partnership; and, the second defendant, Rosedale Talisker Incorporated, held the partnership assets on trust for the partners.</sentence>
+<sentence id="s385">58 The action did not come on for trial.</sentence>
+<sentence id="s386">Instead on 12 August 2005 it was disposed of by consent orders.</sentence>
+<sentence id="s387">The orders which the court made were: 
+ 
+ 
+ 1.</sentence>
+<sentence id="s388">The activities carried on by the first and second defendants known as the Talisker Skye Partnership ("the Talisker scheme") be wound up as an unregistered managed investment scheme pursuant to s 601EE of the Corporations Act 2001 (Cth).</sentence>
+<sentence id="s389">
+ 
+ 
+ 
+ 
+ 
+ 2.</sentence>
+<sentence id="s390">Mr William Rangott of Rangott and Slavin be appointed to wind up the Talisker scheme.</sentence>
+<sentence id="s391">
+ 
+ 
+ 
+ 
+ 
+ 3.</sentence>
+<sentence id="s392">Mr William Rangott have all the powers outlined in section 477 of the Corporations Act 2001 (Cth) as are necessary to fulfil his role and as if the winding up was a liquidation of a solvent company ordered by the Court.</sentence>
+<sentence id="s393">
+ 
+ 
+ 
+ 
+ 
+ 4.</sentence>
+<sentence id="s394">Mr William Rangott distribute, whether in specie or otherwise, the assets of the Talisker Skye Partnership to the persons ultimately entitled thereto in his proper opinion.</sentence>
+<sentence id="s395">
+ 
+ 5.</sentence>
+<sentence id="s396">The parties pay their own costs in relation to this action.</sentence>
+<sentence id="s397">" 
+ 
+ 
+ 
+
+59 I make the following observations about the orders.</sentence>
+<sentence id="s398">First, the precise "activity" ordered to be wound up is not described.</sentence>
+<sentence id="s399">One is not much better informed upon reading the affidavit.</sentence>
+<sentence id="s400">Paragraph 4 states that the plaintiff is an investor in the Talisker Skye Partnership which is thereafter referred to as the Talisker Skye Scheme.</sentence>
+<sentence id="s401">Paragraph 36 states that the Talisker Skye Scheme "was organised as a partnership, pursuant to an agreement dated 18 April 2000, to buy and develop aged care accommodation.</sentence>
+<sentence id="s402">" Paragraph 37 states that the scheme has, among others, the following features: the partners contributed money as consideration to acquire rights and benefits to be produced by the scheme; those moneys were pooled to buy the aged care accommodation at Rosedale; and, the partners do not have day to day control over the operation of the aged care accommodation.</sentence>
+<sentence id="s403">Little else is explained.</sentence>
+<sentence id="s404">60 Second, because of the brevity of its language it is nearly impossible to determine the effect of the order.</sentence>
+<sentence id="s405">Doing the best I can, I am of the view that the order operates only to wind up the Talisker Skye Partnership established by the partnership agreement of 18 April 2000.</sentence>
+<sentence id="s406">That is what the order in terms purports to do, though not by reference to the agreement.</sentence>
+<sentence id="s407">My preferred construction is confirmed when regard is had to the affidavit, although I am by no means persuaded that it is permissible to go to the affidavit for that purpose.</sentence>
+<sentence id="s408">I say this because the order was made by consent and it is unlikely that the judge read the affidavit.</sentence>
+<sentence id="s409">If the order does not wind up the partnership it has no operative effect.</sentence>
+<sentence id="s410">Importantly for present purposes, in my view the order does not wind up the Rosedale scheme that I have described.</sentence>
+<sentence id="s411">61 On 12 October 2005, the Supreme Court of the Australian Capital Territory wound up the Mews Village Partnership.</sentence>
+<sentence id="s412">The action in which that order was made was brought by Swan Western Incorporated.</sentence>
+<sentence id="s413">The affidavit filed in the proceeding states that Swan Western acquired its interest in the partnership from the second plaintiff, Lionheart Management Pty Ltd.</sentence>
+<sentence id="s414">The defendants to the action were Mews Village Nominees, Equitable Overseers, GDK Partnership Management, Villager Mews Nominees, E O Finance Pty Ltd and Rosedale Action Incorporated.</sentence>
+<sentence id="s415">The second to sixth defendants were sued as investor partners.</sentence>
+<sentence id="s416">The winding up order which was also made by consent is as follows: 
+ 
+ 
+ "1.</sentence>
+<sentence id="s417">The activities carried on by the first and second defendants known as The Mews Village Partnership ("The Mews Village Scheme") be wound up as an unregistered managed investment scheme pursuant to s 601EE of the Corporations Act 2001 (Cth).</sentence>
+<sentence id="s418">" 
+ 
+ 
+ 
+
+ Orders 2 to 5 (inclusive) are in the same terms as the corresponding orders in the Rosedale action.</sentence>
+<sentence id="s419">For like reasons in my opinion the winding up order did not wind up the Mews scheme as I have described it.</sentence>
+<sentence id="s420">If the order has any effect it is to wind up the Mews Village partnership, though I accept that winding up that partnership would bring the Mews scheme to an end.</sentence>
+<sentence id="s421">62 Be that as it may, the ACT orders do not prevent me from winding up the Mews scheme and the Rosedale scheme, even though there may be some overlap in the case of the former scheme.</sentence>
+<sentence id="s422">It is, nevertheless, important that I do not in any way cut across the ACT orders.</sentence>
+<sentence id="s423">To guarantee this will not occur I intend to exclude from the operation of the orders I make so much of each scheme (if any) as has been wound up by the ACT Supreme Court.</sentence>
+<sentence id="s424">That will avoid any undermining of the ACT orders.</sentence>
+<sentence id="s425">63 To make sure no confusion is caused by the subsistence of two sets of orders relating at least nominally to the same scheme, as well as to assist in the implementation of the ACT orders, two steps should be taken.</sentence>
+<sentence id="s426">The first is to have the same person responsible for each winding up.</sentence>
+<sentence id="s427">The second is to give this person the same powers and duties to implement each order.</sentence>
+<sentence id="s428">Once that is done each scheme will be wound up, under one or other or both orders.</sentence>
+<sentence id="s429">64 The first step is to discharge Mr Rangott from his appointment to wind up the partnerships the subject of the ACT orders and replace him with the receiver to be appointed to wind up the two schemes.</sentence>
+<sentence id="s430">ASIC has applied for his discharge and Mr Rangott says that he does not wish to retain the position.</sentence>
+<sentence id="s431">This is not surprising as he has taken no step toward carrying out his task.</sentence>
+<sentence id="s432">I suspect that part of his difficulty results from the form of the ACT orders.</sentence>
+<sentence id="s433">It would be almost impossible for Mr Rangott to know what to do.</sentence>
+<sentence id="s434">65 In the ordinary case, the application for discharge should be made to the ACT Supreme Court: Acehill Investments Pty Ltd v Incitec Ltd [2002] SASC 344.</sentence>
+<sentence id="s435">But it is clear that I have power to discharge Mr Rangott.</sentence>
+<sentence id="s436">The power derives from the combined effect of ss 581 and 1337G of the Corporations Act .</sentence>
+<sentence id="s437">By s 581 the Supreme Court of each State as well as the Federal Court has concurrent jurisdiction in civil matters arising under the Corporations Act .</sentence>
+<sentence id="s438">By s 1337G those courts are required to "act in aid of, and be auxiliary to, each other".</sentence>
+<sentence id="s439">In Acton Engineering Pty Ltd v Campbell (1991) 31 FCR 1 the Full Court held that as a consequence of these provisions each court having jurisdiction under the Corporations Act can exercise that jurisdiction notwithstanding that some part of the matter has been, or is being, litigated in another court.</sentence>
+<sentence id="s440">See also Sydlow Pty Ltd (in liq) v T G Kotselas Pty Ltd (1996) 144 ALR 159; Dewina Trading Sdn Bhd v Ion International Pty Ltd (1996) 141 ALR 317; Sihota v Pacific Sands Motel Pty Ltd [2003] NSWSC 119 ; (2003) 56 NSWLR 721; Dwyer v Hindal Corporate Pty Ltd (2005) 52 ACSR 335; Maamari v Ringwood &amp; Ply Pty Ltd [2005] NSWSC 40 ; (2005) 52 ACSR 370.</sentence>
+<sentence id="s441">66 Mr Levet referred me to several authorities from the United States which he said supported the proposition that once the ACT Supreme Court had the two schemes before it no other court had jurisdiction to deal with them.</sentence>
+<sentence id="s442">The cases to which he referred, and others to which he did not refer, hold that when a court has taken property into its possession, for example by appointing a receiver or issuing mesne process, the property is withdrawn from the jurisdiction of all other courts.</sentence>
+<sentence id="s443">The leading cases are: Covell v Heyman 111 US 176 (1884); Farmers' Loan and Trust Company v Lake Street Elevated Railroad Company 177 US 51 (1900); Penn General Casualty Co v Pennsylvania; ex rel Schnader 294 US 189 (1935); Propper v Clark 337 US 472 (1949); Wabash Railroad Company v Adelbert College of the Western Reserve University 208 US 38 (1908); Railroad Commission of Texas v Pullman Co 312 US 496 (1941).</sentence>
+<sentence id="s444">In United States v Bank of New York &amp; Trust Co 296 US 463 (1936) Hughes CJ summarised the principle in these terms: "[I]n proceedings in rem or quasi in rem ] the court first assuming jurisdiction over property may maintain and exercise that jurisdiction to the exclusion of ... other [courts].</sentence>
+<sentence id="s445">" It is the court which first acquired jurisdiction that has power to hear all controversies relating to that property or to determine to what extent some other court can interfere with its jurisdiction: Lion Bonding &amp; Surety Co v Karatz 262 US 77 (1923).</sentence>
+<sentence id="s446">67 In England there is a related principle which, at least according to Taylor v Carryl 61 US 583 (1857), may be the foundation of the United States jurisprudence.</sentence>
+<sentence id="s447">In Payne v Drewe (1804) 4 East 523, 545; 102 ER 931, 939 Lord Ellenborough said: "It appears to me, therefore, not to be contradictory to any cases nor any principles of law, and to be mainly conducive to public convenience and to the prevention of fraud and vexatious delay in these matters, to hold that where there are several authorities equally competent to bind the goods of a party, when executed by the proper officer, that they shall be considered as effectually and for all purposes bound by the authority which first actually attaches upon them in point of execution, and under which an execution shall have been first executed.</sentence>
+<sentence id="s448">" Campbell J, delivering the opinion of the court in Taylor , said that "this rule ... regulates the relations and maintains harmony among the various superior courts of law and of chancery in Great Britain.</sentence>
+<sentence id="s449">" Put simply, the rule is that a court will not interfere with the possession of property by another court.</sentence>
+<sentence id="s450">For this reason, in 13 Coromandel Place Pty Ltd v CL Custodians Pty Ltd (in liq) (1999) 30 ACSR 377 I held that once a receiver had been appointed by a court (in that case the Supreme Court of Victoria) it was not appropriate for another court to appoint a receiver in respect of the same property.</sentence>
+<sentence id="s451">It is worth noting that in Salt v Cooper (1880) 16 Ch D 544, 554 Jessell MR said that if it were necessary to do so, a second receiver could be appointed but with a direction that he not act until the first receiver had been discharged.</sentence>
+<sentence id="s452">See also: Aston v Heron (1834) 2 My &amp; K 290; 39 ER 993 and In Re Hutton [1969] 2 Ch 201 in relation to a claim in one court against a receiver appointed by another court.</sentence>
+<sentence id="s453">68 These cases show that the position in Australia and England is not the same as in the United States.</sentence>
+<sentence id="s454">We do not subscribe to the view that the court first assuming jurisdiction over property has exclusive jurisdiction in respect of any issue that might arise with respect to that property.</sentence>
+<sentence id="s455">Here and in England each court with concurrent jurisdiction in respect of any property may proceed with any claim brought before it, taking care as a matter of courtesy not to interfere with the processes of another court.</sentence>
+<sentence id="s456">A party's rights with respect to that property may be affected by a judgment obtained in one court as a result of the principles of issue estoppel and res judicata.</sentence>
+<sentence id="s457">69 In any event, there are several reasons why the United States rule can have no application to the instant proceeding.</sentence>
+<sentence id="s458">The first is that the rule is a judge-made rule and must give way to any statutory provision to a contrary effect.</sentence>
+<sentence id="s459">The combined effect of ss 581 and 1337G would override the rule in company cases.</sentence>
+<sentence id="s460">Second, the rule only applies if the first proceeding is in rem or quasi rem , a reference to a proceeding by way of attachment or garnishment: Penn General Casualty Co v Pennsylvania; ex rel Schnader 294 US 189 (1935).</sentence>
+<sentence id="s461">A proceeding for the winding up of a company is a proceeding in rem : Topfelt Pty Ltd v State Bank of New South Wales (1993) 120 ALR 155, 171.</sentence>
+<sentence id="s462">But an action for the winding up of a partnership is not: Kirkpatrick v Christensen 206 P 2d 577 (1949).</sentence>
+<sentence id="s463">Nor by analogy is a proceeding for winding up under s 601EE , provided the plaintiff does not seek to deal with scheme property.</sentence>
+<sentence id="s464">70 The second objection to the winding up orders depends upon the wording of s 601EE(1).</sentence>
+<sentence id="s465">That subsection provides that "[i]f a person operates a managed investment scheme in contravention" of the Act, one of several identified persons may apply for the scheme to be wound up.</sentence>
+<sentence id="s466">Mr Levet says that on the facts as I have described them there is not a person "operat[ing]" either scheme and so none can be wound up.</sentence>
+<sentence id="s467">As is apparent, the premise for the argument is that each scheme is dormant.</sentence>
+<sentence id="s468">In this circumstance, so it is said, the scheme cannot be wound up.</sentence>
+<sentence id="s469">Presumably, so far as interested parties are concerned, the scheme is to remain in its dormant state until some action outside the Corporations Act is taken to bring it to an end.</sentence>
+<sentence id="s470">71 As regards the Rosedale scheme the premise is, of course, false.</sentence>
+<sentence id="s471">There is an operating retirement village.</sentence>
+<sentence id="s472">It has residents.</sentence>
+<sentence id="s473">They are being cared for and paying for the service.</sentence>
+<sentence id="s474">Whatever meaning is to be given to the word "operate" the Rosedale Village is in "opera[tion]".</sentence>
+<sentence id="s475">As regards the Mews Village, the position is not as straightforward but, in my opinion, it is also relevantly in operation.</sentence>
+<sentence id="s476">There are investors who have an interest in the scheme property.</sentence>
+<sentence id="s477">There is scheme property which is held by a trustee.</sentence>
+<sentence id="s478">The trustee has duties and obligations as regards the trust property.</sentence>
+<sentence id="s479">The scheme has a manager with duties and obligations.</sentence>
+<sentence id="s480">The existence of scheme property, investors with a beneficial interest in the property and trustees and managers with obligations with regard to the property means, in my view, that for the purposes of the subsection there is a scheme in operation.</sentence>
+<sentence id="s481">72 This brings me to the last contested issue, which is whether Mews Village Nominees and Rosedale should be wound up.</sentence>
+<sentence id="s482">ASIC seeks the winding up of these companies under s 461(1)(j) --- that it is just and equitable that they be wound up.</sentence>
+<sentence id="s483">73 It is, I think, imperative that the companies be wound up.</sentence>
+<sentence id="s484">My reasons, not in order of importance, are as follows.</sentence>
+<sentence id="s485">Each company is under the control of Mr Shiels --- he is or claims to be the sole director of each --- and he is quite ill.</sentence>
+<sentence id="s486">He is so ill that he could not swear an affidavit in this action, leaving that job to his son, Benjamin, one of the secretaries.</sentence>
+<sentence id="s487">This suggests that he is unable properly to perform his duties as director.</sentence>
+<sentence id="s488">Neither company has any assets --- at least Benjamin Shiels has not deposed to there being any.</sentence>
+<sentence id="s489">There is therefore no practical reason why they should remain in existence.</sentence>
+<sentence id="s490">It would certainly aid the winding up of the schemes if each company were wound up.</sentence>
+<sentence id="s491">If a winding up order is made, a liquidator would have statutory powers of investigation which could be employed to assist in the winding up of each scheme but in particular the Rosedale scheme.</sentence>
+<sentence id="s492">74 I also think that the observations of Owen J in Australian Securities and Investments Commission v Chase Capital Management Pty Ltd (2001) 36 ACSR 778, 796 are apposite.</sentence>
+<sentence id="s493">There, in somewhat similar circumstances, Owen J said that "having decided that the schemes should be wound up, the case for the companies to be placed in liquidation becomes compelling.</sentence>
+<sentence id="s494">It would inject an air of unreality if the schemes were wound up without the corporate entities that had been part of the operation not also being made the subject of a formal administration.</sentence>
+<sentence id="s495">[The failure to do so] would increase the overall costs of the finalisation [of the winding up of the schemes] and would not be in the interests of the creditors.</sentence>
+<sentence id="s496">" This passage has been approved in Australian Securities and Investments Commission v Pegasus Leveraged Options Group (2002) 41 ACSR 561; Australian Securities and Investments Commission v Edwards (2004) 22 ACLC 1469; Australian Securities and Investments Commission v McDougall (2006) 229 ALR 158.</sentence>
+<sentence id="s497">75 In opposing the winding up orders Mr Levet submitted, without referring to any facts, that if made, the windings up would likely injure the rights of innocent third parties, dissipate money and would not achieve anything.</sentence>
+<sentence id="s498">There is no basis for this submission.</sentence>
+<sentence id="s499">No person's rights will be affected and, at the least, the windings up will assist in the process of ascertaining material facts needed for the windings up.</sentence>
+<sentence id="s500">76 Finally on this aspect, Mr Levet argued that a winding up order would amount to an acquisition of property other than on just terms and he sought an order for compensation under s 1350.</sentence>
+<sentence id="s501">This argument has no substance and I decline to make any compensation order.</sentence>
+<sentence id="s502">77 ASIC should bring in short minutes of order to give effect to these reasons.</sentence>
+<sentence id="s503">I certify that the preceding seventy-seven (77) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.</sentence>
+<sentence id="s504">Associate:
+
+Dated: 2 November 2006
+
+
+ Counsel for the Plaintiff: Ms F McLeod SC
+Mr R Wilson
+Mr D Bennett 
+ 
+ Solicitor for the Plaintiff: Australian Securities &amp; Investments
+Commission 
+ 
+ Counsel for the 3 rd Defendant: Mr P Hayes QC
+Mr E Power
+Mr S Palmer 
+ 
+ Solicitor for the 3 rd Defendant: Miranda Ball &amp; Co 
+ 
+ Counsel for the 4 th &amp; 6 th Defendants: Mr B Levet 
+ 
+ Solicitor for the 4 th &amp; 6 th Defendants: Ann Kinghan &amp; Associates 
+ 
+ Counsel for the intervenor 
+(Mr John Montgomerie): Mr P Willis 
+ 
+ Solicitor for the intervenor 
+(Mr John Montgomerie): Bartier Perry 
+ 
+ Date of Hearing: 22 &amp; 23 August 2006
+15 September 2006 
+ 
+ Date of Judgment: 2 November 2006 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2006/1415.html 
+ 
+ </sentence>
+</sentences>
+</case>

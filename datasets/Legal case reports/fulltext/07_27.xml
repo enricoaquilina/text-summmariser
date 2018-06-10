@@ -1,0 +1,832 @@
+<?xml version="1.0"?>
+<case>
+<name>Oke v Commissioner of the Australian Federal Police [2007] FCA 27 (25 January 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/27.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">powers of search and seizure</catchphrase>
+<catchphrase "id=c1">crimes act 1914 (cth)</catchphrase>
+<catchphrase "id=c2">s 3e search warrant</catchphrase>
+<catchphrase "id=c3">copy of search warrant made available to occupier pursuant to s 3h(1) incomplete</catchphrase>
+<catchphrase "id=c4">whether execution of warrant unlawful because the copy provided to the occupier did not contain the name of the issuing officer and the time at which the warrant expired</catchphrase>
+<catchphrase "id=c5">whether execution of search warrant unlawful because the copy provided to the occupier did not have attached the guidelines for claiming legal professional privilege</catchphrase>
+<catchphrase "id=c6">powers of search and seizure</catchphrase>
+<catchphrase "id=c7">crimes act 1914 (cth)</catchphrase>
+<catchphrase "id=c8">s 3e search warrant</catchphrase>
+<catchphrase "id=c9">seizure of laptop computer</catchphrase>
+<catchphrase "id=c10">whether executing officer had reasonable grounds for suspecting laptop contained evidential material</catchphrase>
+<catchphrase "id=c11">where contents of laptop computer not inspected prior to seizure</catchphrase>
+<catchphrase "id=c12">powers of search and seizure</catchphrase>
+<catchphrase "id=c13">crimes act 1914 (cth)</catchphrase>
+<catchphrase "id=c14">s 3e search warrant</catchphrase>
+<catchphrase "id=c15">validity of execution of search warrant</catchphrase>
+<catchphrase "id=c16">guidelines for treatment of claims of legal professional privilege</catchphrase>
+<catchphrase "id=c17">whether possible to lawfully seize an item the subject of a disputed claim of legal professional privilege</catchphrase>
+<catchphrase "id=c18">where documents the subject of a claim of legal professional privilege inspected by australian federal police during execution of search warrant</catchphrase>
+<catchphrase "id=c19">administrative law</catchphrase>
+<catchphrase "id=c20">administrative law</catchphrase>
+<catchphrase "id=c21">legal professional privilege</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 On 23 June 2004 a search warrant was issued under s 3E of the Crimes Act 1914 (Cth) (the Act) authorising Federal Agent Capaldo of the Australian Federal Police (AFP) to enter and search certain premises of Mr Oke in Birchgrove, New South Wales and to seize certain "evidential material" from those premises, subject to certain conditions specified in the warrant (the Birchgrove warrant).</sentence>
+<sentence id="s1">2 On 24 June 2004, the AFP executed the Birchgrove warrant at Mr Oke's home in Birchgrove.</sentence>
+<sentence id="s2">In the course of the execution of the Birchgrove warrant, the AFP uplifted certain documents and items which were thought to fall within the terms of the search warrant, including Mr Oke's laptop computer.</sentence>
+<sentence id="s3">In essence, the proceeding now raises the legality of the seizure of the laptop computer.</sentence>
+<sentence id="s4">The nature of the attacks upon the legality of the execution of the warrant means that, incidentally, on some grounds the seizure of the other documents under the warrant is also attacked, but that was not the main focus of the contentions.</sentence>
+<sentence id="s5">3 
+ 
+At the commencement of the execution of the Birchgrove warrant, the AFP provided Mr Oke with an incomplete copy of it.</sentence>
+<sentence id="s6">Unlike the original warrant, that copy did not contain the name of the issuing officer on the first page, or a completed attestation clause on the final page.</sentence>
+<sentence id="s7">Mr Oke claims that the copy provided to him was also missing an attachment, referred to in the body of the warrant, containing the Law Council of Australia guidelines for the treatment of claims for legal professional privilege made in respect of documents covered by the warrant (the privilege notice).</sentence>
+<sentence id="s8">4 Mr Oke contacted his solicitor, Mr Rydon, who subsequently attended at the Birchgrove premises.</sentence>
+<sentence id="s9">Mr Rydon claimed on Mr Oke's behalf that many of the uplifted documents, and in particular many of the files on the laptop computer, were subject to legal professional privilege.</sentence>
+<sentence id="s10">A series of discussions took place between the officers of the AFP and Mr Rydon as to how the search should progress in light of that claim.</sentence>
+<sentence id="s11">Ultimately, the laptop computer was removed from the premises by the AFP without having been opened and without any of its files having been inspected by the executing officer.</sentence>
+<sentence id="s12">The laptop computer was subsequently returned to Mr Oke, although the AFP has retained a copy of its hard drive.</sentence>
+<sentence id="s13">THE ISSUES 
+ 
+5 Mr Oke submits that the execution of the Birchgrove warrant was illegal and that the AFP should be ordered to return, or destroy, the hard drive image.</sentence>
+<sentence id="s14">His application raises various issues regarding the provisions of Part IAA of the Act, and the interaction of those provisions with the common law of legal professional privilege, including the principle enunciated by the High Court in Baker v Campbell [1983] HCA 39 ; (1983) 153 CLR 52, that a document recording a privileged communication cannot be made the subject of a search warrant issued under s 10 (now s 3E) of the Act.</sentence>
+<sentence id="s15">6 The validity of the Birchgrove warrant itself is not challenged.</sentence>
+<sentence id="s16">What is challenged is the validity of its execution.</sentence>
+<sentence id="s17">There are three issues to be determined on the application concerning the validity of the execution of the Birchgrove warrant:
+ 
+ 1.</sentence>
+<sentence id="s18">Whether the execution of the search was invalid because it did not comply with s 3H of the Act, in that the copy of the warrant provided to Mr Oke at the commencement of the search did not contain the name of the issuing officer and the handwritten portion of the attestation clause;
+ 2.</sentence>
+<sentence id="s19">Whether the execution of the search was invalid because the copy of the warrant provided to Mr Oke at the commencement of the search did not have attached a copy of the privilege notice;
+ 3.</sentence>
+<sentence id="s20">Whether the seizure of the laptop computer was invalid because the executing officer did not have the requisite state of mind specified in s 3F of the Act or because it was the subject of a claim of legal professional privilege; 
+
+Submissions were also directed to the appropriate forms of relief if any of those claims were made out.</sentence>
+<sentence id="s21">7 A further issue arose on the amended application, but no longer arises.</sentence>
+<sentence id="s22">It concerned the purported return of the laptop computer, and then its re-seizure from Mr Oke, on 2 July 2004, apparently invoking s 3K of the Act.</sentence>
+<sentence id="s23">Senior counsel for the AFP during the hearing of the application acknowledged that the AFP's entitlement to retain the laptop computer or a copy of its hard drive was not enhanced by what occurred on 2 July 2004 or by s 3K of the Act.</sentence>
+<sentence id="s24">It is not therefore necessary to further address that issue.</sentence>
+<sentence id="s25">THE CRIMES ACT 1914 (CTH) 
+ 
+8 The issue and execution of search warrants under the Act is dealt with in Division 2 of Part IAA of the Act.</sentence>
+<sentence id="s26">Section 3E(1) provides:
+ 
+ "An issuing officer may issue a warrant to search premises if the officer is satisfied by information on oath that there are reasonable grounds for suspecting that there is, or there will be within the next 72 hours, any evidential material at the premises.</sentence>
+<sentence id="s27">" 
+
+9 Subsection 3E(5) of the Act prescribes certain information that must be included on the face of a search warrant by the issuing officer.</sentence>
+<sentence id="s28">In particular, it must be specified in the warrant the offence to which it relates; the premises to which it relates; the kinds of evidential material that are to be searched for under the warrant; the name of the constable responsible for its execution; and whether the warrant may be executed at any time or only during particular hours.</sentence>
+<sentence id="s29">Section 3E(5)(e) requires the issuing officer also to state the time at which the warrant expires (which must be within seven days of its issue: s 3E(5A)).</sentence>
+<sentence id="s30">Subsection 3E(6)(a) further prescribes that a warrant in relation to premises must include certain information regarding the things that may be seized under the warrant, and the basis upon which that seizure is authorised.</sentence>
+<sentence id="s31">10 Section 3H of the Act imposes certain disclosure obligations on the executing officer of a search warrant in relation to premises.</sentence>
+<sentence id="s32">Relevantly, it provides:
+ 
+ 
+ "(1) If a warrant in relation to premises is being executed and the occupier of the premises or another person who apparently represents the occupier is present at the premises, the executing officer or a constable assisting must make available to that person a copy of the warrant.</sentence>
+<sentence id="s33">
+ 
+ 
+ 
+ 
+ 
+ (2) ... 
+ 
+ 
+ 
+ 
+ 
+ (3) If a person is searched under a warrant in relation to premises, the executing officer or a constable assisting must show the person a copy of the warrant.</sentence>
+<sentence id="s34">
+ 
+ 
+ 
+ 
+ 
+ (4) The executing officer must identify himself or herself to the person at the premises or the person being searched, as the case may be.</sentence>
+<sentence id="s35">
+ 
+ 
+ 
+ 
+ 
+ (5) The copy of the warrant referred to in subsections (1) and (2) need not include the signature of the issuing officer or the seal of the relevant court.</sentence>
+<sentence id="s36">" 
+ 
+
+11 The things that are authorised by a search warrant that is in force in relation to premises are set out in s 3F of the Act.</sentence>
+<sentence id="s37">Relevantly for the purposes of this application, subs 3F(1)(c) --- (e) authorise the executing officer:
+
+ 
+ 
+ "(c) to search the premises for the kinds of evidential material specified in the warrant, and to seize things of that kind found at the premises; and 
+ 
+ 
+ 
+ 
+ 
+ (d) to seize other things found at the premises in the course of the search that the executing officer or a constable assisting believes on reasonable grounds to be:
+ 
+ 
+ 
+ 
+ 
+ (i) evidential material in relation to an offence to which the warrant relates; or
+ (ii) evidential material in relation to another offence that is an indictable offence; or
+ (iii) evidential material (within the meaning of the Proceeds of Crime Act 2002 ) or tainted property (within the meaning of that Act); 
+ 
+ 
+ 
+ 
+ 
+ if the executing officer or a constable assisting believes on reasonable grounds that seizure of the things is necessary to prevent their concealment, loss or destruction or their use in committing an offence; and 
+ 
+ 
+ 
+ 
+ 
+ (e) to seize other things found at the premises in the course of the search that the executing officer or a constable assisting believes on reasonable grounds to be seizable items..." 
+ 
+
+
+ 
+12 "Evidential material" means "a thing relevant to an indictable offence or a thing relevant to a summary offence, including such a thing in electronic form": s 3C.</sentence>
+<sentence id="s38">A "thing relevant to an indictable offence" and a "thing relevant to a summary offence" are respectively defined in s 3(1) as:
+ 
+ 
+ "(a) anything with respect to which an [indictable/summary] offence against any law of the Commonwealth or of a Territory has been committed or is suspected, on reasonable grounds, to have been committed; or 
+ 
+ 
+ 
+ 
+ 
+ (b) anything as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of any such offence; or 
+ 
+ 
+ 
+ 
+ 
+ (c) anything as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing any such offence.</sentence>
+<sentence id="s39">" 
+ 
+
+13 An alternative source of power to remove documents and things from premises in relation to which a warrant is in force is provided by s 3K(2), which reads:
+ 
+ "A thing found at the premises may be moved to another place for examination or processing in order to determine whether it may be seized under a warrant if:
+ 
+ (a) both of the following apply:
+ 
+ 
+ 
+ 
+ (i) it is significantly more practicable to do so having regard to the timeliness and cost of examining or processing the thing at another place and the availability of expert assistance; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (ii) there are reasonable grounds to believe that the thing contains or constitutes evidential material; or 
+ 
+ 
+ 
+ 
+ 
+ (b) the occupier of the premises consents in writing.</sentence>
+<sentence id="s40">" 
+ 
+
+
+ 
+14 Section 3ZX of the Act expressly acknowledges that the provisions of Part 1AA do not affect the law relating to legal professional privilege.</sentence>
+<sentence id="s41">BACKGROUND 
+ 
+15 Mr Oke is the chief executive officer and sole director of Ozone Manufacturing Pty Ltd (Ozone).</sentence>
+<sentence id="s42">During 2004, Mr Oke was the subject of a criminal investigation by the AFP regarding the alleged misappropriation of funds received by Ozone from the Department of Industry Tourism and Resources between 1998 and 2001.</sentence>
+<sentence id="s43">16 In the course of the investigation, the AFP under s 3E of the Act obtained the issue of the Birchgrove warrant and another search warrant in respect of Ozone's business premises (the Silverwater warrant).</sentence>
+<sentence id="s44">The AFP executed, or at least purported to execute, both warrants the following day.</sentence>
+<sentence id="s45">17 The Birchgrove warrant recited the issuing officer's satisfaction that there were reasonable grounds for suspecting that there was evidential material (within the meaning of the Act) at the Birchgrove premises.</sentence>
+<sentence id="s46">It authorised the executing officer or a constable assisting to search the Birchgrove premises for evidential material that satisfied all of the three conditions specified in the warrant, and to seize such evidential material in accordance with s 3F.</sentence>
+<sentence id="s47">18 The first condition specified in the Birchgrove warrant concerned the physical form of the items to be seized (for example, files, papers, reports etc).</sentence>
+<sentence id="s48">The list of potential physical forms of the items was extensive and specifically included a laptop computer.</sentence>
+<sentence id="s49">The second condition was that the items relate to either Mr Oke, or to Ozone.</sentence>
+<sentence id="s50">The third condition was that there were reasonable grounds for suspecting that the item to be seized would afford evidence as to the commission of certain specified offences against the Act or against the Criminal Code Act 1995 (Cth).</sentence>
+<sentence id="s51">19 The Birchgrove warrant in draft form was presented to the issuing officer.</sentence>
+<sentence id="s52">It left blank on page 1 the name of the issuing officer and on page 6 the details of its attestation, although the draft indicated that the issuing officer was "A Magistrate in and for the State of ...".</sentence>
+<sentence id="s53">The issuing officer inserted his name on page 1, and completed the attestation clause by inserting that it was issued in Sydney, New South Wales, on 23 June 2004, by adding "NSW" as the State of the issuing Magistrate, and by signing it and adding "JP" after the signature.</sentence>
+<sentence id="s54">Each page of the Birchgrove warrant was also stamped at the bottom with the stamp of the Local Court, The Downing Centre, Sydney.</sentence>
+<sentence id="s55">20 The Birchgrove warrant also contained, on p 5, the following note under the heading "Legal Professional Privilege"':
+ 
+ "NOTE: This warrant is issued in recognition that a claim for legal professional privilege may be made in respect of documents covered by this warrant and on the understanding that, if that occurs, the executing officer will, as far as is reasonably practicable, follow the course of action set out in the document entitled "Claims for Legal Professional Privilege: Premises other than those of a Lawyer, Law Society or Like Institution" a copy of which is attached to this warrant.</sentence>
+<sentence id="s56">" 
+
+The privilege notice was attached.</sentence>
+<sentence id="s57">21 Federal Agent Capaldo and several other members of the AFP arrived at the Birchgrove premises at approximately 7:00 am on 24 June 2004.</sentence>
+<sentence id="s58">Mr Oke was provided with a copy of the Birchgrove warrant.</sentence>
+<sentence id="s59">It was in its draft form, that is without the entries made by the issuing officer or the Local Court stamp.</sentence>
+<sentence id="s60">There is an issue whether it included the privilege notice.</sentence>
+<sentence id="s61">Several minutes after the AFP officers arrived at the premises, a tape recorder was activated which recorded most, but not all, of the events which followed.</sentence>
+<sentence id="s62">22 The transcript of that tape recording, which was received in evidence and adopted by the parties as an accurate record, records a discussion between Federal Agent Capaldo and Mr Oke as to the contents of the Birchgrove warrant.</sentence>
+<sentence id="s63">Mr Oke immediately, and repeatedly, requested that he be permitted to call his lawyer before the search commenced.</sentence>
+<sentence id="s64">He complained that the Birchgrove warrant was "written in legalese" and suggested that it had been unlawfully issued.</sentence>
+<sentence id="s65">Federal Agent Capaldo did not initially permit Mr Oke to make a phone call but did, at approximately 7:10 am, leave a message with Mr Oke's solicitors in Adelaide on his behalf.</sentence>
+<sentence id="s66">Some time later, Mr Oke spoke briefly to a solicitor and subsequently, at around 8:00 am, faxed the copy of the Birchgrove warrant made available to him to that solicitor.</sentence>
+<sentence id="s67">23 It was about 8.30 am when the search of the Birchgrove premises physically commenced.</sentence>
+<sentence id="s68">Mr Oke had by then been informed by his solicitor that arrangements had been made for a solicitor from the Sydney office of the firm (who turned out to be Mr Rydon) to attend.</sentence>
+<sentence id="s69">The search commenced, although Mr Oke requested that it be delayed until Mr Rydon arrived.</sentence>
+<sentence id="s70">He was informed by Federal Agent Capaldo that the Birchgrove warrant was lawfully issued, and that the search would therefore commence.</sentence>
+<sentence id="s71">24 At 9:00 am, after attempting to make a telephone call without the approval of Federal Agent Capaldo, Mr Oke was arrested.</sentence>
+<sentence id="s72">He was taken to the AFP Headquarters several hours later and charged with defrauding the Commonwealth between December 1998 and June 2001, under the now repealed s 29D of the Act.</sentence>
+<sentence id="s73">That charge was withdrawn some weeks later.</sentence>
+<sentence id="s74">A little later Federal Agent Capaldo said she arrested Mr Oke because he was trying to telephone someone other than his solicitor, and later she said it was because "he has committed all these offences, and ... he was also attempting to contact someone which would hinder our investigation".</sentence>
+<sentence id="s75">And later she added that one purpose of his arrest was to ensure Mr Oke's appearance in Adelaide.</sentence>
+<sentence id="s76">25 Mr Oke's solicitor, Mr Rydon, arrived at the Birchgrove premises about 9:10 am.</sentence>
+<sentence id="s77">He informed Federal Agent Capaldo that the privilege notice was missing from Mr Oke's copy of the Birchgrove warrant.</sentence>
+<sentence id="s78">Federal Agent Capaldo said the privilege notice was attached to the copy of the Birchgrove warrant when it was provided to Mr Oke, and that the Birchgrove warrant had been taken to pieces by Mr Oke.</sentence>
+<sentence id="s79">She produced another copy of the privilege notice to Mr Rydon.</sentence>
+<sentence id="s80">26 Mr Rydon was informed that the search had commenced, and that the AFP officers were in the process of inspecting Mr Oke's documents.</sentence>
+<sentence id="s81">Mr Rydon, concerned to protect his client's rights in respect of those documents to which legal professional privilege may attach, attempted to make a "blanket" claim of privilege over all documents on the Birchgrove premises, until such time as he had inspected them ahead of the AFP.</sentence>
+<sentence id="s82">He was informed by one of the AFP officers that he could look at the documents as they (the AFP) did, but not before.</sentence>
+<sentence id="s83">27 At this point, Mr Rydon stated:
+ 
+ "I want to put on the record, for the purposes of this warrant, two objections.</sentence>
+<sentence id="s84">You're entitled to deal with them as you see fit, and no doubt you will.</sentence>
+<sentence id="s85">The first objection is to the way in which you intend to deal with the claim for legal professional privilege that I've made on behalf of my client.</sentence>
+<sentence id="s86">We object to you looking at any documents.</sentence>
+<sentence id="s87">We object to the fact that you have looked at documents.</sentence>
+<sentence id="s88">And we object that you continue to look at documents without our right to prior --- prior inspection of those documents and assert or assess whether or not there is any claim for legal professional privilege.</sentence>
+<sentence id="s89">" 
+
+28 Federal Agent Capaldo subsequently sought advice from an officer of the Commonwealth Director of Public Prosecutions regarding the claim of legal professional privilege.</sentence>
+<sentence id="s90">In the mean time, the search of the Birchgrove premises continued.</sentence>
+<sentence id="s91">She requested that Mr Rydon provide a written list of the documents over which legal professional privilege may be claimed.</sentence>
+<sentence id="s92">Not surprisingly, Mr Rydon responded that it would not be possible to produce such a list unless he was given a chance to inspect the large volume of paper files stored at the Birchgrove premises.</sentence>
+<sentence id="s93">In the mean time, the AFP officers continued to inspect various documents and electronic files held on Mr Oke's desktop computer.</sentence>
+<sentence id="s94">The AFP officers indicated they intended to continue to inspect documents, being conscious that if they saw clearly privileged documents they would somehow recognise and give effect to the privilege.</sentence>
+<sentence id="s95">29 An issue arose in the process as to how the AFP would identify relevant evidentiary material, particularly that on computer, and whether, if some relevant evidentiary material were located stored on a computer, that would entitle the AFP to seize and inspect the computer and its stored data.</sentence>
+<sentence id="s96">Another issue arose as to whether, if relevant evidentiary material were stored on a computer and part of it was or may be subject to legal professional privilege or subject to a claim that part of it was or may be subject to legal professional privilege, the AFP could then take possession of the computer and inspect its stored contents at all or whether some other procedure had to be followed.</sentence>
+<sentence id="s97">The AFP planned to bring up on the screen the stored data (using an expert) and so that Federal Agent Capaldo could then inspect the displayed data to determine whether it might fall within the evidentiary material which the warrant permitted to be seized.</sentence>
+<sentence id="s98">Any material privileged from inspection on the ground of legal professional privilege would then be seen by the AFP before a specific claim to privilege would be made, and in the face of the "blanket" claim to privilege.</sentence>
+<sentence id="s99">After further discussion, it was proposed by the AFP that Mr Rydon could inspect the on-screen data at the same time as Federal Agent Capaldo.</sentence>
+<sentence id="s100">30 At around 11:15 am, Mr Rydon recorded the following "understanding" as to how the search of the Birchgrove premises would be conducted:
+ 
+ "I have asserted on the basis of my instructions that there are likely to be, in the house, documents which could be the subject of a legal professional privilege claim, and to date we have not reached an agreement as to how to deal with that claim in an appropriate and sensible manner.</sentence>
+<sentence id="s101">I understand now that you are prepared to deal with that claim with respect to all documents in this premises, and with respect to the computer hard drive on the basis of the guidelines which ought to have been attached to the warrant that was given to my client at the time the search commenced.</sentence>
+<sentence id="s102">On the basis that that's going to be the procedure followed I understand that what will now occur is that all relevant files that are going to be removed from the premises will be moved to a place you call [the exhibits registry].</sentence>
+<sentence id="s103">And they will be retained there for the four day period that's referred to in the guidelines, during which time my client and others or myself will carry out an inspection of those and extract from those files those in respect to which we maintain a claim for privilege, and will probably also identify those which are completely irrelevant to the search warrant on its current terms.</sentence>
+<sentence id="s104">We will then go through the process of commencing proceedings in respect to which those have been identified...claim of privilege will be made...For the reasons which I've identified before, I am instructed that there could well be, and are likely to be, documents which could be properly the subject of a claim for professional privilege.</sentence>
+<sentence id="s105">I have not had a chance to go through the files to assess...whether those documents exist and whether they are located here.</sentence>
+<sentence id="s106">You've not allowed me the opportunity to do that in the manner that I suggested beforehand.</sentence>
+<sentence id="s107">The only way in which I can deal with it sensibly is to make a blanket claim, and having made a blanket claim you've now said that you're prepared to follow the guidelines in respect of that blanket claim.</sentence>
+<sentence id="s108">" 
+
+
+ 
+31 The AFP agreed to follow that procedure.</sentence>
+<sentence id="s109">The process of collecting and describing the material then to be taken from the Birchgrove premises, without apparently any further inspection of it, except sufficiently to describe it for identification purposes for the AFP Property Seizure Records, took place.</sentence>
+<sentence id="s110">The laptop computer was one of the removed items.</sentence>
+<sentence id="s111">The process was completed shortly after 1.00 pm that day.</sentence>
+<sentence id="s112">The "seized" items, including the laptop computer, were subsequently moved to Adelaide and apparently preserved in the "exhibits registry".</sentence>
+<sentence id="s113">32 The items taken from the Birchgrove premises were recorded on a "Property Seizure Record" which was prepared by the AFP's Property Seizure Officer and verified by Mrs Oke and another of Mr Oke's legal representatives.</sentence>
+<sentence id="s114">During that process, Mrs Oke was informed by the Property Seizure Officer that the files on the laptop computer had not been inspected because of the "blanket" claim of legal professional privilege.</sentence>
+<sentence id="s115">The Property Seizure Record lists the laptop computer as having been seized from Mr Oke's kitchen bench at 11:00 am.</sentence>
+<sentence id="s116">33 In the latter part of that morning, Mr Rydon was given a document which Federal Agent Capaldo described as the original search warrant for the business premises of Ozone, that is, the Silverwater warrant.</sentence>
+<sentence id="s117">He immediately pointed out that it also did not have the privilege notice attached.</sentence>
+<sentence id="s118">He was given that separately.</sentence>
+<sentence id="s119">34 On 26 June 2004, the AFP applied in the Adelaide Magistrates Court for an extension of the 72 hour period for which possession of the laptop computer might be retained, under s 3K(3B) of the Act.</sentence>
+<sentence id="s120">The hearing took place by telephone.</sentence>
+<sentence id="s121">Federal Agent Capaldo gave evidence that the laptop computer had been "seized pursuant to the [Birchgrove] warrant", and that there had been insufficient time to have it opened by an appropriate expert, and so she did not know if it had relevant evidence on it.</sentence>
+<sentence id="s122">The AFP Property Seizure Record confirmed that the laptop computer had been "seized".</sentence>
+<sentence id="s123">The magistrate dismissed the application, in essence because s 3K of the Act did not apply as, on the evidence, the laptop computer had already been seized pursuant to the Birchgrove warrant.</sentence>
+<sentence id="s124">As noted above, s 3K(2) permits the removal of a thing found at premises the subject of a search warrant for examination or processing in order to determine whether it may be seized under a search warrant, if two conditions are satisfied.</sentence>
+<sentence id="s125">As the seizure under the Birchgrove warrant had already taken place, on the evidence before the Magistrate, the laptop computer could not have been removed to determine whether it may be seized under the Birchgrove warrant.</sentence>
+<sentence id="s126">35 Federal Agent Capaldo's evidence before the Magistrate also confirmed that the laptop computer had been seized without it having been examined, and without her having discerned that it was or contained any evidential material as specified in the Birchgrove warrant.</sentence>
+<sentence id="s127">She acknowledged that she did not know whether it contained such evidential material.</sentence>
+<sentence id="s128">36 Subsequently, on 30 June 2004, the AFP asserted through its solicitors that the laptop computer had not been seized under the Birchgrove warrant but had been removed from the Birchgrove premises on 24 June 2004 under s 3K(2) of the Act.</sentence>
+<sentence id="s129">As the 72 hours possession then permitted by s 3K(3A) had then expired, the AFP indicated that it intended to return the laptop computer to Mr Oke, to immediately execute another search warrant in respect of it, and to again remove it for examination under s 3K(2).</sentence>
+<sentence id="s130">37 On 2 July 2004, officers of the AFP attempted to return the laptop computer to Mr Oke in the street.</sentence>
+<sentence id="s131">It was placed at or near his feet.</sentence>
+<sentence id="s132">He did not handle it in any way.</sentence>
+<sentence id="s133">He claims he did not then take possession of it.</sentence>
+<sentence id="s134">A further search warrant was produced, issued on 2 July 2004, in respect of Mr Oke, and specifying (inter alia) his possession of the laptop computer, together with a letter of that date to Mr Oke asserting that the laptop computer was being removed from his possession under s 3K of the Act.</sentence>
+<sentence id="s135">It gave him a little under three hours to agree to a reasonable procedure for his claim to privilege to be agreed upon, after which the AFP proposed to proceed to examine the laptop computer.</sentence>
+<sentence id="s136">38 As noted above, no reliance is placed by the AFP upon the purported retaking of possession of the laptop computer on 2 July 2004.</sentence>
+<sentence id="s137">However, that transaction led to these proceedings.</sentence>
+<sentence id="s138">A lengthy time was then devoted to an attempt to implement a mutually acceptable regime for the identification of the materials "seized" or "removed" from the Birchgrove premises which were the subject of legal professional privilege, including the contents of the laptop computer.</sentence>
+<sentence id="s139">These processes eventually stalled and the issues raised in the proceedings re-invigorated.</sentence>
+<sentence id="s140">39 The laptop computer was subsequently returned to Mr Oke, after the AFP had created and retained an image of its hard drive.</sentence>
+<sentence id="s141">THE APPLICATION 
+ 
+40 Mr Oke seeks various declarations from this Court that the purported seizure of the laptop computer, or in the alternative the entire search and seizure of items at the Birchgrove premises by the AFP purportedly under the authority of the Birchgrove warrant, was illegal.</sentence>
+<sentence id="s142">He also seeks an injunction requiring the respondent to deliver up, or destroy, all copies of the hard drive of the laptop computer, all electronic records obtained by the AFP from the laptop computer, and all documents containing information with respect to the contents of the laptop computer.</sentence>
+<sentence id="s143">41 The respondent maintains that the Birchgrove warrant, and its execution, were valid, and that the laptop computer was legally seized pursuant to s 3F of the Act.</sentence>
+<sentence id="s144">In the alternative, the respondent relies upon an independent acquiescence to the uplifting of the laptop computer from the Birchgrove premises by Mr Rydon on Mr Oke's behalf.</sentence>
+<sentence id="s145">THE FORM OF THE BIRCHGROVE WARRANT (s 3H ISSUES) 
+ Absence of the name of the issuing officer and completed attestation clause 
+ 
+42 The Act does not, in express terms, require the warrant to state the name of the issuing officer.</sentence>
+<sentence id="s146">The name of the issuing officer is, however, included in the original Birchgrove warrant, a copy of which was required to be provided to the occupier of the premises pursuant to s 3H(1).</sentence>
+<sentence id="s147">Sub-section 3H(5) of the Act provides only for two items to be excluded from a copy of a search warrant made available to the occupier or the representative of the occupier.</sentence>
+<sentence id="s148">They are the signature of the issuing officer and the seal of the relevant court.</sentence>
+<sentence id="s149">Senior counsel for Mr Oke therefore submitted that the omission of the name of the issuing officer and the completed attestation clause from the copy of the Birchgrove warrant provided to Mr Oke meant that s 3H(1) was not complied with, and that as a consequence the execution of the Birchgrove warrant was unlawful and all seized items should be returned.</sentence>
+<sentence id="s150">43 Spender J considered the validity of a series of s 3E search warrants which failed to name the issuing officer in Seeter Pty Ltd v Commonwealth (2004) 210 ALR 437.</sentence>
+<sentence id="s151">In that case, the attack was upon the validity of the warrants, rather than upon the validity of their execution.</sentence>
+<sentence id="s152">His Honour concluded at 453-454, [60]-[63] that the omission of the issuing officer's name did not invalidate the warrants.</sentence>
+<sentence id="s153">He noted at 453, [60] that each page of the search warrants under consideration bore the registration number and signature of the issuing officer, and the official stamp of the issuing authority.</sentence>
+<sentence id="s154">In those circumstances, Spender J was satisfied that the issuing officer had "adequately identified her capacity to issue the warrants": at 454, [63].</sentence>
+<sentence id="s155">Although I was referred to that case by counsel, on reflection I do not think it assists in resolving the present issue.</sentence>
+<sentence id="s156">The Birchgrove warrant itself is not under attack, and it contains the name of the issuing officer as well as a completed attestation clause.</sentence>
+<sentence id="s157">44 Part IAA of the Act was introduced by the Crimes (Search Warrants and Powers of Arrest) Amendment Act 1994 (Cth).</sentence>
+<sentence id="s158">It clearly prescribes specific powers and safeguards in relation to warrants and other matters in the investigation of Commonwealth offences, including safeguards of the rights of individuals in relation to whom the coercive investigatory powers of the Commonwealth are invoked.</sentence>
+<sentence id="s159">Of particular significance to the present issue is that the Explanatory Memorandum to the Crimes (Search Warrants and Powers of Arrest) Amendment Bill 1994 (Cth) stated, in relation to s 3H(5):
+ 
+ "In order to prevent forgery or other wrongful use of the warrant copy, subsection 3H(5) provides that the copy need not include the signature of the issuing officer or the seal of the Court.</sentence>
+<sentence id="s160">This provision has been included at the specific request of the ACT Chief Magistrate.</sentence>
+<sentence id="s161">"
+ 
+
+45 There is no prescribed form for a search warrant issued under s 3E.</sentence>
+<sentence id="s162">Subsections 3E(5), (6) and (7) specify information which an issuing officer must state in a search warrant issued under that section.</sentence>
+<sentence id="s163">That information includes the time at which the search warrant expires: s 3E(5)(e).</sentence>
+<sentence id="s164">Section 3E(5A) directs that the time so specified must be not later than the end of the seventh day after the day on which the search warrant is issued.</sentence>
+<sentence id="s165">Those subsections do not expressly require the issuing officer to be described in, or to sign, the search warrant.</sentence>
+<sentence id="s166">46 However, in my view, it is implicit that a search warrant will also bear on its face sufficient information to identify that it has in fact been issued by an issuing officer, so that any person entitled to see a copy of the search warrant under s 3H(1) can be satisfied as to its authenticity.</sentence>
+<sentence id="s167">That was the point made by Spender J in Seeter 210 ALR at 254, [63].</sentence>
+<sentence id="s168">Section 3H(5) also supports the inference that a search warrant issued under s 3E should bear the signature of the issuing officer or some means of identifying that the issuing officer is in fact a person falling within the definition of "issuing officer" in s 3C(1) of the Act.</sentence>
+<sentence id="s169">That is because it expressly permits the copy of a search warrant made available under s 3H(1) not to include the signature of the issuing officer.</sentence>
+<sentence id="s170">The use of the seal of a court as part of that identification would not necessarily be expected, as the issue of a search warrant under the Act is an administrative or executive act rather than a judicial one.</sentence>
+<sentence id="s171">47 On the Birchgrove warrant, the attestation clause was immediately preceded by words addressing the requirement of s 3E(5)(e) in the following terms:
+ 
+ "THIS WARRANT MAY BE EXECUTED BETWEEN THE HOURS OF 6.00 AM AND 8.00 PM.</sentence>
+<sentence id="s172">THE TIME AT WHICH THIS WARRANT EXPIRES IS MIDNIGHT AT THE END OF THE SEVENTH DAY AFTER THE DAY ON WHICH THE WARRANT IS ISSUED"
+ 
+
+In its unexecuted form, it then continued:
+ 
+ "GIVEN under my hand at .........
+ in the State of ..................... this
+ ......... day of .....................
+ 
+ 
+ 
+ ..........................................
+ A Magistrate in and for the
+ State of ........................"
+ 
+
+48 The way in which the original Birchgrove warrant was completed by the issuing officer is described in [19] above.</sentence>
+<sentence id="s173">49 As the only parts of the original Birchgrove warrant which s 3H(5) permitted to be excluded from the copy made available to Mr Oke were the signature of the issuing officer, and the seal of the Court, in my view, the copy of the Birchgrove warrant provided to Mr Oke did not, in the circumstances, satisfy the requirement of s 3H(1).</sentence>
+<sentence id="s174">It was not a copy of the Birchgrove warrant in at least two respects.</sentence>
+<sentence id="s175">One was that it did not have the name of the issuing officer on it.</sentence>
+<sentence id="s176">By reason of s 3H(5) that in itself may not be critical.</sentence>
+<sentence id="s177">Nor is the absence of the Court stamp.</sentence>
+<sentence id="s178">But because it did not have the attestation clause completed, it did not contain the information that it was issued in Sydney on 23 June 2004, apparently by a New South Wales magistrate.</sentence>
+<sentence id="s179">It was in the draft form presented to the issuing officer.</sentence>
+<sentence id="s180">It did not contain any marking to signify its authenticity or that it was issued by a person who had the capacity to issue search warrants.</sentence>
+<sentence id="s181">50 The omission of the date on the attestation clause has the additional significance that the copy of the Birchgrove warrant provided to Mr Oke did not contain information by which Mr Oke could see that s 3E(5) was satisfied.</sentence>
+<sentence id="s182">It did not enable Mr Oke to know when it had been issued.</sentence>
+<sentence id="s183">And it did not therefore enable him to know the time at which the Birchgrove warrant expired or indeed whether it had already expired.</sentence>
+<sentence id="s184">51 I shall address the question whether that non-compliance with s 3H(1) rendered the execution of the Birchgrove warrant invalid, after considering the further (and disputed) claim that the copy of the Birchgrove warrant given to Mr Oke also did not have attached to it the privilege notice.</sentence>
+<sentence id="s185">The privilege notice 
+ 
+52 The AFP attended the Birchgrove premises from about 7.04 am on 24 June 2004.</sentence>
+<sentence id="s186">The transcript of the recording then made indicates that Mr Oke was given a copy of the Birchgrove warrant by Federal Agent Capaldo at about 7:10 am.</sentence>
+<sentence id="s187">He asked for permission to telephone his solicitor who was located in Adelaide.</sentence>
+<sentence id="s188">Federal Agent Capaldo was concerned that Mr Oke might contact some other person and warn that other person of the Birchgrove warrant.</sentence>
+<sentence id="s189">She therefore telephoned Mr Oke's solicitor on his behalf, but the solicitor was not available and a message was left for him.</sentence>
+<sentence id="s190">The solicitor returned the call at about 7:50 am and spoke to Mr Oke for about five minutes.</sentence>
+<sentence id="s191">53 Shortly afterwards Mr Oke by facsimile sent to his solicitor in Adelaide the copy of the Birchgrove warrant he had been provided with.</sentence>
+<sentence id="s192">For that purpose he unstapled or unpinned the copy of the document he had been provided with.</sentence>
+<sentence id="s193">There were 13 faxed pages, including a cover sheet.</sentence>
+<sentence id="s194">The copy of the Birchgrove warrant comprised six pages.</sentence>
+<sentence id="s195">The remaining pages comprised the attachment to the Birchgrove warrant entitled " Crimes Act 1914 : Search of Premises: Rights of the Occupier" (five pages) and the attachment entitled "Claims for Public Interest Immunity" (one page).</sentence>
+<sentence id="s196">54 I accept that the facsimile to Mr Oke's solicitor in Adelaide was then sent by facsimile to Mr Rydon in Sydney.</sentence>
+<sentence id="s197">He received the same document.</sentence>
+<sentence id="s198">55 I am satisfied that the facsimile to Adelaide, and then to Mr Rydon in Sydney, did not include the privilege notice.</sentence>
+<sentence id="s199">Mr Rydon confirmed that he did not receive a copy of the privilege notice in that facsimile.</sentence>
+<sentence id="s200">His evidence on what he did receive from Adelaide was not challenged.</sentence>
+<sentence id="s201">The fact that Mr Rydon promptly raised its absence with Federal Agent Capaldo also tends to confirm his evidence.</sentence>
+<sentence id="s202">There is no reason why the solicitor in Adelaide would not have forwarded to Mr Rydon all that he had received.</sentence>
+<sentence id="s203">And the correspondence of the number of pages faxed (as recorded in the cover sheet) with the copy of the Birchgrove warrant without the privilege notice fits that conclusion.</sentence>
+<sentence id="s204">56 There remain, as the submissions acknowledged, only two options: that the copy of the Birchgrove warrant given to Mr Oke did not have attached the privilege notice, or that Mr Oke somehow misplaced that particular page of it when unpinning the copy of the Birchgrove warrant, so that it was not sent by facsimile and was not later located by him when he gave that bundle of papers to Mr Rydon at about 9.10 am or later during the execution of that warrant.</sentence>
+<sentence id="s205">I discount the possibility that he deliberately did not send it by facsimile and otherwise secreted it for two reasons.</sentence>
+<sentence id="s206">There was no especial reason why he would elect not to properly inform his solicitor of the terms of the Birchgrove warrant, which was imminently to lead to a search of the premises, so that he could get advice about his rights.</sentence>
+<sentence id="s207">Secondly, it was not suggested to him in cross-examination, nor in submissions, that he had engaged in that subterfuge.</sentence>
+<sentence id="s208">57 Federal Agent Capaldo disputed that the privilege notice was not attached to the copy of the Birchgrove warrant which was made available to Mr Oke on 24 June 2004.</sentence>
+<sentence id="s209">She thought it was attached.</sentence>
+<sentence id="s210">She described her usual practice in preparing for the execution of a search warrant.</sentence>
+<sentence id="s211">She would photocopy the original warrant and its attachments, and check that the copy to be made available matched the original.</sentence>
+<sentence id="s212">I accept that evidence.</sentence>
+<sentence id="s213">It is a sensible practice to adopt, and there is no apparent reason why the copy of the warrant should not match the original.</sentence>
+<sentence id="s214">58 However, in my judgment, Federal Agent Capaldo did not fully follow that practice in this instance.</sentence>
+<sentence id="s215">It is not simply a matter of the privilege notice somehow being omitted in the copying.</sentence>
+<sentence id="s216">The copy of the Birchgrove warrant which was made available was not in fact a photocopy of the original Birchgrove warrant.</sentence>
+<sentence id="s217">There are undisputed differences, noted above.</sentence>
+<sentence id="s218">It was probably the proposed or draft warrant before it was issued, and as presented to the issuing officer.</sentence>
+<sentence id="s219">59 On the whole of the evidence, I find that the copy of the Birchgrove warrant made available to Mr Oke on 24 June 2004 did not have the privilege notice attached to it, or provided with it.</sentence>
+<sentence id="s220">There is direct evidence to that effect from Mr Oke, because he said he forwarded by facsimile to his Adelaide solicitors the copy of the Birchgrove warrant which he had been given.</sentence>
+<sentence id="s221">I have found that the material sent by facsimile did not contain the privilege notice.</sentence>
+<sentence id="s222">In my view, the contemporaneous evidence points quite firmly to the privilege notice not having been part of the papers of the Birchgrove warrant made available to Mr Oke.</sentence>
+<sentence id="s223">The fact that the copy of the Silverwater warrant, when made available to Mr Rydon, also did not contain the privilege notice also tends to support that conclusion.</sentence>
+<sentence id="s224">The evidence of Federal Agent Capaldo to the contrary was, I assessed, based more upon her general practice than upon any precise recollection.</sentence>
+<sentence id="s225">Her memory of the specific format of the copy of the Birchgrove warrant which was provided to Mr Oke, not surprisingly, was a little vague: she did not recall if the pages of the copy were stapled, or fastened in some other way, or were loose.</sentence>
+<sentence id="s226">Moreover, the copy provided was not a copy of the Birchgrove warrant as issued, because of the missing information.</sentence>
+<sentence id="s227">I suspect that Federal Agent Capaldo, in this instance, copied the proposed warrant before it was issued and that either it did not then have the privilege notice as part of it or that the privilege notice through oversight was not then copied.</sentence>
+<sentence id="s228">60 It is unclear whether the failure to attach the privilege notice constituted a breach of the Act.</sentence>
+<sentence id="s229">There is no requirement under the Act that a s 3E warrant contain a notice regarding an occupier's right to claim privilege over documents the subject of the warrant.</sentence>
+<sentence id="s230">In Saunders v Commissioner, Australian Federal Police (1998) 86 FCR 51, French J held that a search warrant issued pursuant to the Act was not invalid for failing to expressly limit its scope to documents the subject of legal professional privilege.</sentence>
+<sentence id="s231">The applicant nevertheless maintains that if the AFP chooses to include the privilege notice in the original warrant it must, pursuant to s 3H(1), be included in the occupier's copy.</sentence>
+<sentence id="s232">61 I am not persuaded, in the circumstances, that the privilege notice was not "made available" to Mr Oke as part of the copy of the warrant.</sentence>
+<sentence id="s233">Section 5H(1) does not prescribe how or when the copy of a search warrant is to be made available.</sentence>
+<sentence id="s234">Whether it has been made available is a question of fact.</sentence>
+<sentence id="s235">Ideally, the copy should be made available at one time, and as early as possible.</sentence>
+<sentence id="s236">But having regard to the purpose of s 5H(1), if there were some delay in the commencement or progress of the search authorised by a search warrant, the copy might be made available at a later point in time if the purpose were not thereby frustrated.</sentence>
+<sentence id="s237">And, one can readily imagine, a page or pages of a copy might accidentally become removed from the copy prepared for presentation.</sentence>
+<sentence id="s238">In such a case, assuming the page or pages were otherwise significant (in the way identified above), the delay in providing them might not mean that they were not provided as part of the copy made available.</sentence>
+<sentence id="s239">If, upon inspecting the copy made available, the occupier noticed and drew attention to the fact that pages were missing, and they were then provided, I think s 5H(1) would have been satisfied.</sentence>
+<sentence id="s240">There are obviously many other possible circumstances.</sentence>
+<sentence id="s241">Having regard to the observations of Kirby J in Ousley v The Queen [1997] HCA 49 ; (1997) 192 CLR 69 ( Ousley ) at 144, whether there has been compliance is a matter of fact and degree.</sentence>
+<sentence id="s242">On the evidence in this matter, I find that the privilege notice was provided to Mr Rydon at a sufficiently early point in the process of the execution of the Birchgrove warrant that its earlier absence had not affected adversely any claim for legal professional privilege Mr Oke made or the way in which his claim for legal professional privilege was treated.</sentence>
+<sentence id="s243">I therefore find that the provision of the privilege notice in the circumstances completed (in that respect) the making available of the Birchgrove warrant.</sentence>
+<sentence id="s244">62 It was submitted alternatively on behalf of Mr Oke that the later provision of the privilege notice meant that the Birchgrove warrant was not executed reasonably, and so was invalid, relying on Arno v Forsyth (1986) 9 FCR 576.</sentence>
+<sentence id="s245">The same findings lead me to conclude that there was not such unreasonableness in the execution of the Birchgrove warrant as to lead to its invalidity.</sentence>
+<sentence id="s246">The consequences of the failure to comply with s 3H(1) 
+ 
+63 The failure to provide a complete copy of the original Birchgrove warrant (subject to s 3H(5)) amounted to a breach s 3H(1).</sentence>
+<sentence id="s247">There is nothing in the Act to suggest that the AFP can selectively determine which parts of a search warrant it will make available to the occupier, and which parts it will not.</sentence>
+<sentence id="s248">However, it does not necessarily follow that the effect of that breach is to invalidate the entire search.</sentence>
+<sentence id="s249">64 The majority of the High Court in Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 194 CLR 355 (McHugh, Gummow, Kirby and Hayne JJ) said at 388-9, [91]:
+ 
+ "An act done in breach of a condition regulating the exercise of a statutory power is not necessarily invalid and of no effect.</sentence>
+<sentence id="s250">Whether it is depends upon whether there can be discerned a legislative purpose to invalidate any act that fails to comply with the condition.</sentence>
+<sentence id="s251">The existence of the purpose is ascertained by reference to the language of the statute, its subject matter and objects, and the consequences for the parties of holding void every act done in breach of the condition.</sentence>
+<sentence id="s252">" 
+
+65 The construction of the Act, and particularly of s 3H, was considered (in a different context) by the Full Court of this Court in Hart v Commissioner of Australian Federal Police [2002] FCAFC 392 ; (2002) 124 FCR 384.</sentence>
+<sentence id="s253">Relevantly, the Court said:
+ 
+ "[64] The construction of statutes authorising the search of premises and the seizure of things from them begins with the ordinary meaning of the words considered according to their context and the legislative purpose...
+ 
+ [65] The purpose of search and seizure provisions is to provide for the gathering of information to determine whether offences have been committed and to facilitate proof of them: Rogers v Moore (1992) 39 FCR 201 at 217 per French J.</sentence>
+<sentence id="s254">Recognition of that purpose may yield a construction of the legislative words that is not necessarily narrowly defined.</sentence>
+<sentence id="s255">Remaining ambiguity or doubt whether of meaning or application will, in accordance with authority, be resolved in favour of the rights and freedoms of the subject...
+ 
+ [68]...[E]ffect must be given to the importance attached by the legislature to the use of search warrants as an important and legitimate tool in the detection and prosecution of criminal offences.</sentence>
+<sentence id="s256">Where the language of the statute authorising their use offers choices between one construction requiring fine legal judgments in the issue and/or execution of warrants and another which is more likely to be consistent with operational realities then the latter construction is generally to be preferred ..." 
+
+66 In their analysis of the competing policy considerations underpinning the Act, their Honours relied upon the following passage from the judgment of Lord Cooper in Lawrie v Muir [1950] SLT 37 (at 39-40):
+ 
+ "From the standpoint of principle it seems to me that the law must strive to reconcile two highly important interests which are liable to come into conflict --- (a) the interest of the citizen to be protected from illegal or irregular invasions of his liberties by the authorities, and (b) the interests of the State to secure that evidence bearing upon the commission of crime and necessary to enable justice to be done shall not be withheld from Courts of law on any merely formal or technical ground.</sentence>
+<sentence id="s257">Neither of these objects can be insisted upon to the uttermost.</sentence>
+<sentence id="s258">The protection of the citizen is primarily protection for the innocent citizen against unwarranted, wrongful and perhaps high-handed interference, and the common sanction is an action of damages.</sentence>
+<sentence id="s259">The protection is not intended as a protection for the guilty citizen against the efforts of the public prosecutor to vindicate the law.</sentence>
+<sentence id="s260">On the other hand the interest of the State cannot be magnified to the point of causing all the safeguards for the protection of the citizen to vanish, and of offering a positive inducement to the authorities to proceed by irregular methods.</sentence>
+<sentence id="s261">" 
+
+
+ 
+67 The invasion of premises without the consent of the occupier is authorised by a warrant issued under s 3E of the Act.</sentence>
+<sentence id="s262">The validity of such a warrant necessarily depends upon the fulfilment of the conditions governing its issue.</sentence>
+<sentence id="s263">The legislative imposition of those conditions reflects the balance struck between the desirability of an effective and efficient investigation of suspected criminal offences and the need to protect the right of an individual to enjoy that person's privacy and property.</sentence>
+<sentence id="s264">68 The High Court in George v Rockett [1990] HCA 26 ; (1990) 170 CLR 104 said at 111:
+ 
+ "... the enactment of conditions which must be fulfilled before a search warrant can be lawfully issued and executed is to be seen as a reflection of the legislature's concern to give a measure of protection to these interests.</sentence>
+<sentence id="s265">To insist on strict compliance with the statutory conditions governing the issue of search warrants is simply to give effect to the purpose of the legislation.</sentence>
+<sentence id="s266">" (my emphasis) 
+
+It must be recognised that that case concerned the validity of the issue of a search warrant, and not the validity of the execution of a validly issued search warrant, although the underlying principles referred to by the High Court would appear to me to apply equally in the case of the execution of a warrant.</sentence>
+<sentence id="s267">69 The consequence of the failure to comply with such statutory conditions may lead to the invalidity of the search warrant itself.</sentence>
+<sentence id="s268">George v Rockett is an example.</sentence>
+<sentence id="s269">Counsel for Mr Oke also relied upon certain observations in Woodroffe v National Crime Authority [1999] FCA 591 at [14] - [15] , but I do not consider that case advances Mr Oke's position simply because it concerned an application by the National Crime Authority to summarily dismiss a challenge to the validity of a search warrant and to the manner of its execution.</sentence>
+<sentence id="s270">Consequently, the Court was called upon only to determine whether the grounds of the challenge were arguable.</sentence>
+<sentence id="s271">The copy of the search warrant made available to the person challenging the validity of the execution of the search warrant was assumed not to have included the privilege notice.</sentence>
+<sentence id="s272">70 It is necessary separately to address the omissions from the copy of the Birchgrove warrant made available to Mr Oke to determine whether any of them affect the validity of the execution of the warrant.</sentence>
+<sentence id="s273">I propose also to address the significance of the privilege notice on the assumption (contrary to my conclusion) that the privilege notice was not made available to Mr Oke as part of the copy of the Birchgrove warrant.</sentence>
+<sentence id="s274">71 A preliminary observation, however, is that it would not have been intended that any omission from the copy of a warrant made available under s 3H(1) to the occupier of premises being searched would invalidate the execution of the search warrant.</sentence>
+<sentence id="s275">A photocopying error may have led to an insignificant corner of a page, or the numbering of a page, being left out.</sentence>
+<sentence id="s276">The process of photocopying may have blurred a small section of the text, but a section which did not in the circumstances have any particular significance.</sentence>
+<sentence id="s277">There may be other illustrations.</sentence>
+<sentence id="s278">72 Moreover, subs 3E(5), (6) and (7) specify what the legislature considers must appear in a warrant.</sentence>
+<sentence id="s279">Those provisions appear to exhaustively state the matters the warrant must disclose to make it valid (see e.g.</sentence>
+<sentence id="s280">Ousley 192 CLR at 111).</sentence>
+<sentence id="s281">In general terms, they also define the extent of the authority conferred (see e.g.</sentence>
+<sentence id="s282">per Gaudron J in Ousley 192 CLR at 94), although s 3F then enlarges upon the extent of that authority.</sentence>
+<sentence id="s283">73 Section 3E does not expressly require the name of the issuing officer to be included in the warrant.</sentence>
+<sentence id="s284">However, s 3H(5) indicates that the issuing officer will have signed the search warrant and by implication that the name of the issuing officer will appear on it.</sentence>
+<sentence id="s285">74 The purpose of s 3H(1) has not been the subject of much judicial discussion.</sentence>
+<sentence id="s286">Nor was its purpose explored in the Review of Commonwealth Criminal Law: Fourth Interim Report , Canberra, November 1990 (the Gibbs Committee Report) which presaged the introduction of Part 1AA into the Act by the Crimes (Search Warrants and Powers of Arrest) Amendment Act 1994 (Cth).</sentence>
+<sentence id="s287">(The history of Part 1AA is discussed by the Full Court in Harts Australia Ltd v Commissioner, Australia Federal Police (1997) 75 FCR 145 at 147-148.</sentence>
+<sentence id="s288">) In Wright v Queensland Police Service [2002] 2 Qd R 667, Holmes J at [30] referred to the ability of an occupier to whom a copy of a search warrant is made available being able "to ascertain the scope of the authority conferred by [the warrant] or the jurisdiction by which it was issued".</sentence>
+<sentence id="s289">That approach also is consistent with the approach of Spender J in Seeter 210 ALR 47.</sentence>
+<sentence id="s290">75 In my view, that is the purpose of s 3H(1).</sentence>
+<sentence id="s291">The occupier of premises about to be searched is to have made available a copy of the search warrant so as to be able to see the nature and scope of the authority it gives.</sentence>
+<sentence id="s292">It must have the appearance of authenticity.</sentence>
+<sentence id="s293">Section 3H(5) was inserted, consistently with that purpose, to prevent the subsequent misuse of the copy of the warrant: see the Explanatory Memorandum to the Crimes (Search Warrants and Powers of Arrest) Amendment Bill 1994 (Cth), House of Representatives, p 8.</sentence>
+<sentence id="s294">76 The copy of the Birchgrove warrant made available to Mr Oke was apparently unexecuted.</sentence>
+<sentence id="s295">It had nothing on it to indicate it had been issued by any person.</sentence>
+<sentence id="s296">Objectively, it may equally have been a draft of a proposed search warrant for which there may not yet have been any application, or for which an application may have been made and refused.</sentence>
+<sentence id="s297">Unless s 3H(1) is not intended to ensure that the occupier is satisfied of its apparently authorised issue so as to permit the search of the premises, in my view the copy of the search warrant made available to Mr Oke, omitting the name and description of the issuing officer and the details as to the date or place of its grant did not satisfy s 3H(1).</sentence>
+<sentence id="s298">It was not a copy of the Birchgrove warrant.</sentence>
+<sentence id="s299">77 In Wright [2002] 2 Qd R 667, Holmes J concluded that providing a copy of a search warrant (secured by urgent telephone application) which did not contain the name of the issuer or the date and time of issue did not invalidate the warrant, because in the circumstances the absence of that information could not have affected the ability of its recipient to ascertain the scope of the authority it conferred or the jurisdiction by which it was issued (at [30]).</sentence>
+<sentence id="s300">It appears at [22] however that, in the circumstances, such information was required in a "prescribed authority form" prepared by the applicant for the warrant and that the search warrant itself contained all the information prescribed by s 73 of the Police Powers and Responsibilities Act 2000 (Qld).</sentence>
+<sentence id="s301">In other respects, the copy of the search warrant provided apparently had some indication as to its authenticity: see at [17].</sentence>
+<sentence id="s302">78 There is a further significance in the omission of the information about the execution of the Birchgrove warrant from the copy.</sentence>
+<sentence id="s303">Because the Birchgrove warrant expressed the time by which that warrant expired (so as to satisfy s 3E(5)(e) and s 3E(5A)) by reference to the date of issue, the copy made available to Mr Oke did not enable him to know that the Birchgrove warrant had not expired.</sentence>
+<sentence id="s304">The requirement that the issuing officer of a search warrant state in the warrant the time at which it expires reflects the seriousness of the intrusion which the search warrant permits.</sentence>
+<sentence id="s305">The issuing officer must be satisfied under s 3E(1) that there are reasonable grounds for suspecting that there is, or there will be within the next 72 hours, evidential material at the premises.</sentence>
+<sentence id="s306">The need to express an expiry time results from that legislative condition upon the issue of the warrant.</sentence>
+<sentence id="s307">Moreover, the warrant during its life, also authorises in circumstances the seizure of evidential material relating to other offences than those the subject of the issuing officer's satisfaction, and also authorises in certain circumstances the physical search of a person at or near the premises: s 3F(1)(d)(ii) and s 3F(1)(f).</sentence>
+<sentence id="s308">79 In my view, because the omissions from the copy of the Birchgrove warrant made available to Mr Oke did not give him as the occupier any capacity to be satisfied that the Birchgrove warrant had in fact been issued, or that it was current, the purpose of s 3H(1) has not been met.</sentence>
+<sentence id="s309">The omissions from the copy of any detail of the issuing officer or the status of the issuing officer or of the date and place of its issue, therefore, in the particular circumstances, lead me to the conclusion that the execution of the Birchgrove warrant did not proceed lawfully.</sentence>
+<sentence id="s310">The consequence is that the "seizure" of the laptop computer was not lawful and it should be returned to Mr Oke.</sentence>
+<sentence id="s311">That is so although Federal Agent Capaldo told Mr Oke the date the Birchgrove warrant was issued.</sentence>
+<sentence id="s312">Section 5H does not reduce the consequences of non-compliance by allowing the oral supplementation of the document.</sentence>
+<sentence id="s313">I do not accept that orally telling Mr Oke the date of issue of the Birchgrove warrant means that the breach of s 3H(1) in the very respects which it is intended to secure means its breach should have no consequences.</sentence>
+<sentence id="s314">Moreover, the "operational realities" in which search warrants are executed do not suggest any reason why the copy of a search warrant made available under s 3H(1) should not fulfil the purpose of that provision.</sentence>
+<sentence id="s315">80 In reaching that view, I am mindful that if the Birchgrove premises were unattended, the execution of the Birchgrove warrant may have proceeded lawfully even though the copy intended to be provided was incomplete.</sentence>
+<sentence id="s316">I do not think that consideration affects my conclusion.</sentence>
+<sentence id="s317">Kirby J in Ousley 192 CLR at 144 observed that "Courts properly tend to take a practical rather than an unduly technical view of challenges to warrants permitting intrusion into the property and privacy of those subject to them".</sentence>
+<sentence id="s318">The fact that, in different circumstances, the Birchgrove warrant might have been lawfully executed, or indeed the fact that the Birchgrove warrant itself was available to be provided to Mr Oke (but was not made available to him), does not diminish the significance of the non-compliance with s 5H(1) in the particular circumstances.</sentence>
+<sentence id="s319">81 I am mindful that Federal Agent Capaldo had in her possession the Birchgrove warrant and could have made it available to Mr Oke.</sentence>
+<sentence id="s320">She did not however do so, but only provided a copy of the Birchgrove warrant in the form referred to above.</sentence>
+<sentence id="s321">82 The omission of the privilege notice (assuming contrary to my view that, in this respect also, s 5H(1) was not complied with), does not have the same consequence.</sentence>
+<sentence id="s322">Its absence does not affect the capacity of Mr Oke to be satisfied of the nature of the authority being exercised or its extent.</sentence>
+<sentence id="s323">The copy of the Birchgrove warrant initially made available included the note quoted in [20] above.</sentence>
+<sentence id="s324">The fact that Mr Oke may have claimed legal professional privilege was therefore identified.</sentence>
+<sentence id="s325">83 What was missing, initially, was the description in the privilege notice of the detailed means by which such a claim might be made.</sentence>
+<sentence id="s326">The privilege notice was also made available by Federal Agent Capaldo not long after Mr Rydon's arrival at the premises.</sentence>
+<sentence id="s327">84 Even if it be accepted that the privilege notice was not made available to Mr Oke as part of the copy of the Birchgrove warrant, its absence does not in any substantive way detract from the purpose which underlies s 5H(1) in the circumstances.</sentence>
+<sentence id="s328">I do not consider, therefore, that the consequence of its absence, in the circumstances, was to invalidate the execution of the Birchgrove warrant.</sentence>
+<sentence id="s329">WAS THE LAPTOP COMPUTER VALIDLY SEIZED UNDER S 3F?</sentence>
+<sentence id="s330">
+ 
+85 It is, strictly speaking, unnecessary to consider this issue.</sentence>
+<sentence id="s331">However, in case I am wrong about the consequences of the non-compliance with s 3H(1), I think it is preferable that I should do so.</sentence>
+<sentence id="s332">86 Subject to the applicant's contentions regarding "seizure" of documents to which legal professional privilege may attach, Federal Agent Capaldo was authorised to seize the laptop computer pursuant to s 3F(1)(c) if all of the three conditions set out in the Birchgrove warrant were satisfied in respect of that item.</sentence>
+<sentence id="s333">The first condition was satisfied: the warrant specifically listed a laptop computer as an item that might be seized subject to the other conditions of the warrant being satisfied.</sentence>
+<sentence id="s334">The second condition was satisfied: Mrs Oke informed Federal Agent Capaldo that the laptop computer belonged to Mr Oke.</sentence>
+<sentence id="s335">The remaining condition was that there were reasonable grounds for suspecting that the laptop computer would afford evidence as to the commission of the specified offences.</sentence>
+<sentence id="s336">The wording of the third condition of the Birchgrove warrant expressly picked up the language of the definition of "evidential material" in the Act, so as to authorise the seizure of an item pursuant to s 3F(1)(c) of the Act.</sentence>
+<sentence id="s337">87 Essentially, therefore, what was required for valid seizure of the laptop computer (subject to issues of legal professional privilege) was that Federal Agent Capaldo had reasonable grounds for suspecting that the information on the laptop computer would afford evidence as to the commission of the alleged offences.</sentence>
+<sentence id="s338">The distinction drawn by Mr Oke's counsel in submissions between a "suspicion" and a "belief" is not helpful in resolving that question of fact.</sentence>
+<sentence id="s339">The question is whether Federal Agent Capaldo had reasonable grounds for that suspicion.</sentence>
+<sentence id="s340">88 Mr Oke contended that Federal Agent Capaldo did not, at any time, hold the requisite state of mind which would have entitled her to legally seize the laptop computer pursuant to s 3F of the Act.</sentence>
+<sentence id="s341">It is common ground between the parties that the laptop computer was never switched on, and its files were never inspected by the AFP officers, during the execution of the Birchgrove warrant.</sentence>
+<sentence id="s342">89 Federal Agent Capaldo gave evidence, which I accept, that she did not inspect the files on the laptop computer during the execution of the Birchgrove warrant firstly because of Mr Rydon's blanket claim of legal professional privilege; and secondly because she was advised by an AFP officer assisting that attempting to access the files may cause damage to the laptop computer.</sentence>
+<sentence id="s343">90 The cross-examination of Federal Agent Capaldo exposed that there was some difference of opinion between her and certain other AFP officers as to whether the laptop computer had been "seized" pursuant to the Birchgrove warrant, requiring her as the executing officer to have had the belief on reasonable grounds that it contained evidential material relating to the offences to which the Birchgrove warrant related.</sentence>
+<sentence id="s344">Some officers considered that, in the events which happened, the taking of the laptop computer was a removal under s 3K(2) for processing or examining it to see if it could be seized under the Birchgrove warrant.</sentence>
+<sentence id="s345">Hence the application on 26 June 2004 under s 3K(3B) referred to above.</sentence>
+<sentence id="s346">As noted, that application was unsuccessful in essence because Federal Agent Capaldo's evidence then, as now, was that the laptop computer had been seized under the Birchgrove warrant.</sentence>
+<sentence id="s347">It also led to the application for the further search warrant on 2 July 2004, in the circumstances referred to above.</sentence>
+<sentence id="s348">91 Federal Agent Capaldo's credit was challenged in part because of her being party to those events themselves, and in part because she used variously the words "seized" and "removed" in respect of the documents associated with those subsequent processes.</sentence>
+<sentence id="s349">The terms clearly have significantly different connotations under s 3E and s 3K.</sentence>
+<sentence id="s350">She acknowledged that, in June 2004, she did not appreciate fully the legal significance of those different terms, and to an extent used those terms in the materials referred to somewhat loosely and on the advice of others.</sentence>
+<sentence id="s351">I was impressed by her frankness in that regard, and rather than use that material to reject her evidence I think it tends to support the impression I formed of her as a witness of truth.</sentence>
+<sentence id="s352">I must add, however, that I also formed the view that she held a firm view as to the direction the general investigation was going, and that Mr Oke's attitude in the circumstances was an impediment to the process of the investigation, so that her dealings with him on 24 June 2004 were not amicable.</sentence>
+<sentence id="s353">My acceptance of her evidence generally leads to the finding that, at the time of the seizure of the laptop computer on 24 June 2004, Federal Agent Capaldo did believe that it contained evidential material in relation to the offences being investigated.</sentence>
+<sentence id="s354">92 It does not necessarily follow that that belief was held on reasonable grounds.</sentence>
+<sentence id="s355">93 Federal Agent Capaldo's evidence was that between February and June 2004, in the course of an investigation concerning Mr Oke and Ozone, she obtained information from various entities and persons regarding the alleged commission of the offences, including evidence as to the contents of the files stored on Mr Oke's laptop computer.</sentence>
+<sentence id="s356">She considered that those contents (or some of them) were likely to constitute evidential material for the purposes of the Act.</sentence>
+<sentence id="s357">94 The material to support that belief, as identified by the respondent, includes the application for the Birchgrove warrant sworn by Federal Agent Capaldo (of which a redacted version only was received into evidence), and her affidavit of 18 January 2006 (of which also a redacted version only was received into evidence) as well as her oral evidence.</sentence>
+<sentence id="s358">The redacted version of the application for the search warrant gives background information only.</sentence>
+<sentence id="s359">In a general way, the affidavit of 18 January 2006 identifies sources of information which pointed to the laptop computer holding relevant evidential material.</sentence>
+<sentence id="s360">The sources are not revealed in that version of the affidavit.</sentence>
+<sentence id="s361">The cross-examination exposed that certain information elsewhere referred to in the affidavit, obtained in the course of the investigation, may not have been directly relevant to it.</sentence>
+<sentence id="s362">However, Federal Agent Capaldo did not rely on that part of the affidavit to support the belief referred to, and in context I think those other references were merely general descriptions of processes so as generally to be comprehensive.</sentence>
+<sentence id="s363">95 As I accept Federal Agent Capaldo as a witness of truth, I accept that she did obtain information procured in the course of the investigation which pointed to the prospect of the laptop computer holding relevant evidential material.</sentence>
+<sentence id="s364">On that basis, I am satisfied that her belief that the laptop computer held such evidential material was held on reasonable grounds.</sentence>
+<sentence id="s365">I do not consider it was necessary for the contents of the laptop computer to have been accessed in any way on 24 June 2004 for such a belief to have been based on reasonable grounds.</sentence>
+<sentence id="s366">96 Accordingly, subject to considering the contentions regarding the significance of the claim of legal professional privilege, in my judgment --- had the Birchgrove warrant been validly executed, contrary to my earlier conclusion --- the laptop computer would have been properly seized under that warrant.</sentence>
+<sentence id="s367">97 The respondent contended alternatively that the AFP had at all relevant times been in lawful possession of the laptop computer by Mr Oke's acquiescence.</sentence>
+<sentence id="s368">That acquiescence is said to be the arrangement entered into at about 11.15 am on 24 June 2004 as recorded in [30] above.</sentence>
+<sentence id="s369">98 I do not accept that contention.</sentence>
+<sentence id="s370">The arrangement was made in the face of officers of the AFP being in the process of executing the Birchgrove warrant, and doing so in a way which involved them asserting the entitlement to inspect any documents, whether the subject of legal professional privilege or not.</sentence>
+<sentence id="s371">Those officers assumed to themselves the entitlement to determine if a document might be privileged by their inspection of it, and only then would put it aside.</sentence>
+<sentence id="s372">They were not entitled to seize or inspect privileged documents, as discussed below.</sentence>
+<sentence id="s373">The offer of permitting Mr Rydon contemporaneous inspection did not entitle them to seize or inspect privileged documents.</sentence>
+<sentence id="s374">In any event, as the search was taking place by several officers in more than one room, the offer was a hollow one.</sentence>
+<sentence id="s375">99 In those circumstances, the arrangement was no more than one as to the more appropriate management of documents seized under the warrant, there being no removal under s 3K(2).</sentence>
+<sentence id="s376">I do not accept that Mr Oke consented in any real way to the AFP taking and holding the seized documents, including the laptop computer.</sentence>
+<sentence id="s377">THE CLAIM OF LEGAL PROFESSIONAL PRIVILEGE 
+ 
+100 Again, it is appropriate to preface my consideration of this issue by remarking that it is strictly speaking unnecessary to decide it in view of my conclusion about the consequences of the breach of s 3H(1).</sentence>
+<sentence id="s378">101 In Baker v Campbell [1983] HCA 39 ; 153 CLR 52 , the High Court by majority concluded that, in the event that legal professional privilege attaches to and is maintained in respect of documents held by a legal firm, those documents cannot properly be made the subject of a search warrant issued under s 10 of the Act.</sentence>
+<sentence id="s379">Section 10 of the Act has since been repealed but it is similar, for present purposes, to the relevant parts of ss 3E and 3F.</sentence>
+<sentence id="s380">In Baker v Campbell it was assumed that the documents in issue were privileged, as the matter was heard on a case stated.</sentence>
+<sentence id="s381">102 The practical difficulties which may arise in circumstances where legal professional privilege is claimed in respect of documents which would otherwise fall within the terms of a search warrant were recognised by Wilson J, who said (at 97):
+ 
+ "It is asserted that a claim of privilege in circumstances where the proceedings in respect of which it is made have not begun immediately raises procedural difficulties if the claim is contested.</sentence>
+<sentence id="s382">There is no judge already seized of jurisdiction in the matter to determine the disputed claim.</sentence>
+<sentence id="s383">The interests of all parties must be protected pending a determination of the dispute.</sentence>
+<sentence id="s384">In my experience the procedural difficulties can be overcome consistently with that objective if the members respectively of the police force and the legal profession co-operate in a reasonable and responsible way.</sentence>
+<sentence id="s385">I do not think that it is necessary for the purposes of the stated case to explore the problem.</sentence>
+<sentence id="s386">" 
+
+103 Following the decision in Baker v Campbell, the Law Council of Australia and the AFP entered into an agreement as to the manner in which such claims should be treated.</sentence>
+<sentence id="s387">The terms of that agreement form the guidelines contained in the privilege notice and which were attached to the original Birchgrove warrant.</sentence>
+<sentence id="s388">104 The privilege notice reads as follows:
+ 
+ "If a claim is made for legal professional privilege in respect of any document covered by the warrant, and if the person claiming privilege is prepared to co-operate with the executing officer, the following procedure will be followed to the extent to which it is possible to do so:
+ 
+ 
+ 
+ 1.</sentence>
+<sentence id="s389">The executing officer or a constable assisting will prepare a list of the relevant documents in cooperation with the person claiming privilege.</sentence>
+<sentence id="s390">The list will show the general nature of each document, the ground on which privilege is claimed, and the name of the person claiming privilege; 
+ 
+ 
+ 
+ 
+ 
+ 2.</sentence>
+<sentence id="s391">The documents will be placed in an envelope or other container which will be sealed; 
+ 
+ 
+ 
+ 
+ 
+ 3.</sentence>
+<sentence id="s392">The list and the container will be endorsed with a note to the effect that, having regard to the claim for privilege, the warrant has not been executed in respect of the documents set out in the list and that those documents have been sealed in the container pending resolution of the claim; 
+ 
+ 
+ 
+ 
+ 
+ 4.</sentence>
+<sentence id="s393">The list and the container will be signed by the executing officer or constable assisting and the person claiming privilege; 
+ 
+ 
+ 
+ 
+ 
+ 5.</sentence>
+<sentence id="s394">The sealed container and a copy of the list will be delivered to a third party agreed between the executing officer or constable assisting and the person claiming privilege; 
+ 
+ 
+ 
+ 
+ 
+ 6.</sentence>
+<sentence id="s395">The third party shall hold the container and the copy of the list pending resolution of the claim for privilege; 
+ 
+ 
+ 
+ 
+ 
+ 7.</sentence>
+<sentence id="s396">Subject to any agreement to the contrary, the person claiming privilege will have four working days after delivery to the third party in which to commence proceedings to establish the privilege claimed.</sentence>
+<sentence id="s397">If proceedings are commenced within that time the sealed container and the copy of the list will be delivered to the registrar of the court in which the proceedings have been brought.</sentence>
+<sentence id="s398">The documents will then be held by the registrar pending the order of the court; 
+ 
+ 
+ 
+ 
+ 
+ 8.</sentence>
+<sentence id="s399">Subject to paragraph 9, if proceedings are not commenced within four working days, or such other period as may be agreed, the third party will deliver the documents, or such of them as the executing officer still wishes to examine, to the executing officer; 
+ 
+ 
+ 
+ 
+ 
+ 9.</sentence>
+<sentence id="s400">Nothing in this document prevents the executing officer from discussing a claim for privilege with the person raising the claim.</sentence>
+<sentence id="s401">If agreement can be reached on which documents are covered by legal professional privilege, and which are not, the third party will be asked to act in accordance with that agreement.</sentence>
+<sentence id="s402">
+ 
+ 
+ 
+ If the person claiming legal professional privilege is not prepared to cooperate with the executing officer, it will normally be necessary for the executing officer or a constable assisting to examine each relevant document to determine whether there is a proper basis for seizure.</sentence>
+<sentence id="s403">" 
+
+
+ 
+105 Mr Oke contended that, as a matter of law, it is not possible to "seize" an item under the Act which is subject to a claim of legal professional privilege.</sentence>
+<sentence id="s404">106 The respondent submitted that the effect of the decision in Baker v Campbell is only that a search warrant cannot be executed in a manner which abrogates or nullifies the claim of privilege.</sentence>
+<sentence id="s405">It was said that to "seize" a document or thing means to take it into lawful possession subject to the claim of privilege being determined, so that seizure under the Act was still possible even if the seized item may ultimately be recognised as privileged.</sentence>
+<sentence id="s406">107 I do not accept either contention.</sentence>
+<sentence id="s407">In my view, Baker v Campbell decides that a search warrant cannot authorise the seizure of privileged documents.</sentence>
+<sentence id="s408">The Birchgrove warrant must therefore be read as authorising seizure of the documents that satisfy the conditions specified, provided that they are not documents subject to legal professional privilege.</sentence>
+<sentence id="s409">Nor does it decide that a search warrant cannot authorise the seizure of documents in respect of which there is merely a claim to legal professional privilege.</sentence>
+<sentence id="s410">That question did not arise.</sentence>
+<sentence id="s411">Nor, upon my reading of the judgments in Baker v Campbell , is there anything said in that case to support such a contention.</sentence>
+<sentence id="s412">108 The "blanket" claim to legal professional privilege was made for the reasons discussed above.</sentence>
+<sentence id="s413">But whether the laptop computer contains only legal privileged documents, or any legal privileged documents, is not yet resolved.</sentence>
+<sentence id="s414">If it contains only legally privileged documents (a position I did not understand senior counsel for Mr Oke to contend on his behalf), then it has not been validly seized under the Birchgrove warrant.</sentence>
+<sentence id="s415">If it contains some legally privileged documents, then it has been validly seized but only to the extent that it contains documents not legally privileged.</sentence>
+<sentence id="s416">I am using the term "documents" as explained in ss 25 and 25A of the Acts Interpretation Act 1901 (Cth), and as discussed in Australian Federation of Air Pilots v Australian Airlines Ltd (1991) 28 FCR 360.</sentence>
+<sentence id="s417">109 It is apparent that the privilege notice does not readily address documents stored electronically.</sentence>
+<sentence id="s418">Section 3K(2) is one means of dealing with such material, but that power was not exercised in this instance.</sentence>
+<sentence id="s419">It is also clear that the guidelines in the privilege notice are not mandatory; they are expressed as providing a procedure "to the extent to which it is possible" to follow it.</sentence>
+<sentence id="s420">The note about legal professional privilege in the Birchgrove warrant itself also stipulates that the guidelines in the privilege notice be followed as far as is reasonably practicable.</sentence>
+<sentence id="s421">Indeed, attempts to agree upon and implement an efficient and effective procedure to identify which, if any, contents of the laptop computer are in fact the subject of legal professional privilege, and so are not capable of being seized under the Birchgrove warrant, have to date been unsuccessful.</sentence>
+<sentence id="s422">See also the discussion of Spender, Madgwick and Finkelstein JJ in JMA Accounting Pty Ltd v Commissioner of Taxation [2004] FCAFC 274 ; (2004) 139 FCR 537 at [6] - [12] concerning the power of search and seizure under s 263 of the Income Tax Assessment Act 1936 (Cth).</sentence>
+<sentence id="s423">110 In JMA Accounting the seizure of materials was so indiscriminate, in some instances, as to lead the Court to conclude that no reasonable effort was made to distinguish between the relevant and the irrelevant.</sentence>
+<sentence id="s424">That is not the submission presently being considered.</sentence>
+<sentence id="s425">Mr Oke's submission is that the laptop computer could not have been lawfully seized under the Birchgrove warrant because there was a blanket claim for legal professional privilege with respect to it.</sentence>
+<sentence id="s426">I have separately found that Federal Agent Capaldo did have the belief required to entitle her (subject to claims of legal professional privilege) to seize the laptop computer.</sentence>
+<sentence id="s427">111 As to the present contention, the Full Court in JMA Accounting said at [13]-[14]:
+ 
+ "This does not mean that an officer is prevented from conducting his s 263 search until all claims for privilege have been resolved.</sentence>
+<sentence id="s428">The resolution of such claims might take weeks or even months; it is inappropriate for the search to be delayed for that amount of time.</sentence>
+<sentence id="s429">To put the matter in its proper perspective it is necessary to recall the purpose for legal professional privilege.</sentence>
+<sentence id="s430">It is to keep secret communications between a lawyer and his client, and where the communication is written, it is to prevent the document containing the communication from being read.</sentence>
+<sentence id="s431">Accordingly, the mere seizure of a document without it being read will not infringe the privilege: Allitt v Sullivan [1988] VR 621 at 640; Solosky v The Queen (1979) 105 DLR (3d) 745 at 758.</sentence>
+<sentence id="s432">A good deal of JMA's argument on this aspect of the appeal depended upon acceptance of the proposition that legal professional privilege will be infringed if a copy of a privileged document is taken, whether or not the original or the copy is read.</sentence>
+<sentence id="s433">That proposition is simply wrong.</sentence>
+<sentence id="s434">"
+ 
+
+112 I consider their Honours' conclusion is consistent with the decision in Baker v Campbell [1983] HCA 39 ; 153 CLR 52.</sentence>
+<sentence id="s435">In Baker v Campbell the documents the subject of the search warrant were assumed to be privileged from disclosure or production on the ground of legal professional privilege.</sentence>
+<sentence id="s436">In that event, they could not be the subject of a search warrant under the Act.</sentence>
+<sentence id="s437">So, here, if the laptop computer and all its contents were to be so protected, it could not have been the subject of the Birchgrove warrant and its seizure would not have been authorised.</sentence>
+<sentence id="s438">The approach of the Full Court in JMA Accounting addresses the circumstances where there is a contested claim to such privilege and the practicality that it cannot be immediately resolved (and where s 3K(2) has not been availed of).</sentence>
+<sentence id="s439">113 In my judgment, the seizure of the laptop computer is not presently shown to be the seizure of a document which is privileged, and so at present it is not shown to have been unauthorised by the Birchgrove warrant for that reason.</sentence>
+<sentence id="s440">114 In my view, it is not possible, without determining whether all the files on the laptop are privileged, to decide whether the laptop was lawfully "seized".</sentence>
+<sentence id="s441">As noted above, the more likely prospect, based on Mr Oke's submissions, is that only some (if any) of its files are privileged.</sentence>
+<sentence id="s442">The respondent recognised that possibility by the arrangement about the terms under which it was seized.</sentence>
+<sentence id="s443">115 The Court has not presently been asked by Mr Oke to determine whether all or any of the files on the laptop computer (or indeed any other documents purportedly seized from the Birchgrove premises) are in fact privileged.</sentence>
+<sentence id="s444">116 Mr Oke's amended application filed 24 January 2006 sought a declaration that the documents listed in Schedule A to the application are subject to legal professional privilege and were unable to be seized by the respondent.</sentence>
+<sentence id="s445">The documents listed in Schedule A included the laptop computer.</sentence>
+<sentence id="s446">The Court was informed during closing submissions that Mr Oke's and the respondent's legal representatives were close to reaching agreement as to the characterisation of those documents (other than the laptop computer or its contents) as either privileged or not privileged.</sentence>
+<sentence id="s447">No declaration as to the status of those other documents is presently pursued.</sentence>
+<sentence id="s448">Also, no submissions were made as to whether the files on the laptop computer are actually privileged.</sentence>
+<sentence id="s449">117 No determination that the files or any of the files on the laptop computer are privileged (which would necessarily mean that any attempt to seize those files would be unlawful) was sought.</sentence>
+<sentence id="s450">I do not consider that I should declare that its purported seizure was illegal simply because some of those files may be privileged.</sentence>
+<sentence id="s451">The evidence was that the laptop computer contains thousands of files, and that the process of isolating those files that are allegedly privileged, and the process of articulating that claim, would be an onerous one.</sentence>
+<sentence id="s452">But I do not think that takes Mr Oke's position any further.</sentence>
+<sentence id="s453">I have rejected the proposition that an occupier of premises the subject of an s 3E search warrant can prevent law enforcement officers from validly executing a search warrant simply by claiming that documents which, on their face, fall within the terms of the warrant, are privileged.</sentence>
+<sentence id="s454">The claim of privilege must ultimately be substantiated.</sentence>
+<sentence id="s455">That process requires co-operation between the occupier and the law enforcement agency.</sentence>
+<sentence id="s456">118 During the course of execution of the Birchgrove warrant, Mr Oke through Mr Rydon and Federal Agent Capaldo (after a time) generally agreed to follow the procedures set out in the guidelines in the privilege document (although those procedures were not actually precisely followed by the AFP).</sentence>
+<sentence id="s457">They accepted that there was a conflict between Federal Agent Capaldo's apparent authority to take the laptop computer, and Mr Oke's claim to retain it on privilege grounds.</sentence>
+<sentence id="s458">They further accepted that, in order to preserve the parties' respective positions, it was necessary for the laptop computer to be taken into the possession of the AFP, but not inspected by the AFP, pending determination of the claim of privilege either by negotiation or by the usual judicial procedures.</sentence>
+<sentence id="s459">That is still the position.</sentence>
+<sentence id="s460">Until it is resolved, and subject to my earlier conclusion, I would not declare the seizure of the laptop computer to be unlawful merely because it or some of its contents are the subject of a claim to legal professional privilege.</sentence>
+<sentence id="s461">119 There has been some judicial and academic comment to the effect that the guidelines, contrary to their objective, do not preserve legal professional privilege: see Commissioner of Australian Federal Police v Propend Finance Pty Ltd [1997] HCA 3 ; (1997) 188 CLR 501 at 537 (Gaudron J); Suzanne McNicol, "Unresolved Issues Arising From the General Guidelines Between the AFP and the Law Council of Australia" (1998) 72 Australian Law Journal 137.</sentence>
+<sentence id="s462">I note, however, that the law with respect to waiver of legal professional privilege has since been further refined by the High Court.</sentence>
+<sentence id="s463">It is now accepted that "it is inconsistency between the conduct of the client and the maintenance of the confidentiality which effects a waiver of the privilege": Mann v Carnell [1999] HCA 66 ; (1999) 201 CLR 1 at [28] .</sentence>
+<sentence id="s464">Mr Oke's conduct in objecting to the seizure of documents at his house was wholly consistent with the maintenance of their confidentiality.</sentence>
+<sentence id="s465">It seems unlikely that any waiver of privilege should be imputed in such circumstances.</sentence>
+<sentence id="s466">Furthermore, French J held in Saunders v Commissioner, Australian Federal Police (1998) 160 ALR 469 that legal professional privilege is not necessarily waived even where the occupier fails to claim privilege at the time of execution of the warrant.</sentence>
+<sentence id="s467">His Honour said, at 473:
+ 
+ "As in the present case circumstances can arise in which the question whether legal professional privilege exists is not able to be answered by simple inspection of the documents or within a timeframe consistent with the exigencies of the investigative process.</sentence>
+<sentence id="s468">" 
+
+See also the comments of the Full Court of this Court in JMA Accounting [2004] FCAFC 274 ; 139 FCR 537, quoted above at [111].</sentence>
+<sentence id="s469">120 On the material before me, I do not conclude that the purported seizure of the laptop computer was unauthorised by the Birchgrove warrant otherwise than because of the AFP's non-compliance with s 3H(1), because the claim of privilege has not been determined or accepted.</sentence>
+<sentence id="s470">Ultimately, the validity of its purported seizure under the Birchgrove warrant cannot be finally determined whilst the claim of privilege is unresolved.</sentence>
+<sentence id="s471">121 It was not contended in final submissions that the search and seizure of items pursuant to the Birchgrove warrant was illegal because of the disregard, on the part of the AFP officers, of Mr Oke's claims of privilege in respect of the documents being inspected and searched until Mr Rydon's arrival, and indeed for some time thereafter.</sentence>
+<sentence id="s472">It is clear from the evidence that the search was carried out in several rooms before Mr Oke's legal representatives arrived and in spite of Mr Oke's assertions that there were documents in the house which were privileged.</sentence>
+<sentence id="s473">I have also referred above to the fact that Mr Rydon was not permitted to inspect the documents sought to be seized before the AFP officers inspected them, in order to determine whether a claim of privilege could legitimately be made in respect of those documents.</sentence>
+<sentence id="s474">122 In my view, the conduct of the officers of the AFP in this regard was inappropriate.</sentence>
+<sentence id="s475">No particular reason was put forward at the hearing as to why it was necessary to conduct the search in a manner which made it almost impossible for Mr Rydon to make a coherent claim of privilege over the items at the Birchgrove premises.</sentence>
+<sentence id="s476">No doubt his "blanket" claim was a direct result of such conduct.</sentence>
+<sentence id="s477">The transcript recording the execution of the Birchgrove warrant reveals that, although the AFP officers were aware of an occupier's right to claim privilege over documents which may prima facie appear to fall within the warrant's terms, they had a limited understanding of what was required to give meaning to that right.</sentence>
+<sentence id="s478">As noted, the final submissions for Mr Oke did not seek to make such conduct the separate foundation for any relief, no doubt because subsequent events have enabled any claims to privilege on Mr Oke's behalf to be maintained.</sentence>
+<sentence id="s479">RELIEF 
+ 
+123 I have determined that the execution of the Birchgrove warrant was invalid because s 3H(1) of the Act was not complied with.</sentence>
+<sentence id="s480">124 I will make a declaration accordingly.</sentence>
+<sentence id="s481">125 The consequence is that the documents, including the laptop computer (or the copy of the hard drive), seized on 24 June 2004 should be returned to Mr Oke.</sentence>
+<sentence id="s482">I will so order.</sentence>
+<sentence id="s483">I will also order that the respondent cause to be destroyed any records of the contents of any documents seized and inspected under the Birchgrove warrant, but that he may retain a sufficient description of the documents to record the documents which were in fact seized.</sentence>
+<sentence id="s484">126 It is therefore unnecessary to put in place any procedures to determine whether all or any of the files held on the laptop computer are in fact privileged from inspection on the ground of legal professional privilege.</sentence>
+<sentence id="s485">But for my conclusion about the effect of non-compliance with s 5H(1), that would have been necessary to determine the lawfulness of the seizure of the laptop computer.</sentence>
+<sentence id="s486">No determination about the privileged status of other seized documents was sought.</sentence>
+<sentence id="s487">127 Mr Oke seeks in addition declarations that the respondent did not execute a search warrant on Mr Oke on 2 July 2004 so as to take possession of the laptop computer from him, and that the respondent did not lawfully seize the laptop computer from Mr Oke on 2 July 2004 pursuant to a search warrant issued on that day.</sentence>
+<sentence id="s488">128 He seeks those declarations because the respondent does not on this application rely on the purported return of the laptop computer to Mr Oke on 2 July 2004 and the immediate execution of a further search warrant in respect of it.</sentence>
+<sentence id="s489">The acknowledgment of the respondent to that effect is referred to above.</sentence>
+<sentence id="s490">129 I do not propose to make declarations in those terms simply because I regard it as unnecessary to do so.</sentence>
+<sentence id="s491">The respondent has accepted that he cannot rely upon those events to support the status of the holding of the laptop computer.</sentence>
+<sentence id="s492">130 I will also give the parties liberty to apply, in the event that that becomes desirable.</sentence>
+<sentence id="s493">I certify that the preceding one hundred and thirty (130) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Mansfield.</sentence>
+<sentence id="s494">Associate:
+
+Dated: 25 January 2007
+
+
+ Counsel for the Applicant: M Abbott QC 
+ 
+ Solicitor for the Applicant: Thomson Playford 
+ 
+ Counsel for the Respondent: S Maharaj QC and R Prince 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+ 
+ Date of Hearing: 19, 20, 30 January 2006; 1, 24 February 2006 
+ 
+ Date of Judgment: 25 January 2007 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/27.html 
+ 
+ </sentence>
+</sentences>
+</case>

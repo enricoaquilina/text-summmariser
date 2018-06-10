@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<case>
+<name>Fowler v Commissioner of Taxation [2008] FCA 528 (21 April 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/528.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">part 2</catchphrase>
+<catchphrase "id=c1">42 of the income tax assessment act 1997 (cth)</catchphrase>
+<catchphrase "id=c2">"personal services income"</catchphrase>
+<catchphrase "id=c3">taxpayer, a computer consultant</catchphrase>
+<catchphrase "id=c4">taxpayer's services were made available to labour hire firms by a company of which taxpayer was sole shareholder, director and employee</catchphrase>
+<catchphrase "id=c5">whether amounts paid by labour hire firms to taxpayer's company were made part of taxpayer's "statutory income" by pt 2</catchphrase>
+<catchphrase "id=c6">42 of act</catchphrase>
+<catchphrase "id=c7">whether overriding principle that there must be derivation by an entity beneficially, so that entity becomes the beneficial owner of the income, in order for income tax to be imposed</catchphrase>
+<catchphrase "id=c8">held : there is no such overriding principle to which the statutory income provisions were subject, and the act made the amounts received by the company from the labour hire firm "statutory income" and therefore "assessable income" of the taxpayer.</catchphrase>
+<catchphrase "id=c9">income tax</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ INTRODUCTION 
+ 
+1 The applicant (Mr Fowler) appeals to the Court against a decision of the Administrative Appeals Tribunal (the Tribunal).</sentence>
+<sentence id="s1">2 At all material times Mr Fowler owned all of the issued shares in DK Consulting Pty Limited (the Company) and was its only director and employee.</sentence>
+<sentence id="s2">The Company's core business was that of supplying Mr Fowler's computer consultancy services to third parties.</sentence>
+<sentence id="s3">The Company paid Mr Fowler a salary.</sentence>
+<sentence id="s4">3 During the period in question, the Company supplied Mr Fowler's services to three labour hire firms.</sentence>
+<sentence id="s5">Of the contracts between them and the Company, only one was in evidence before the Tribunal.</sentence>
+<sentence id="s6">However, it was not in dispute that under all of the contracts the Company charged the labour hire firms fees expressed as an hourly rate, and that the labour hire firms paid those fees to the Company.</sentence>
+<sentence id="s7">4 The respondent (Commissioner) assessed Mr Fowler on the basis that the amounts paid to the Company were assessable income of Mr Fowler.</sentence>
+<sentence id="s8">The assessments were for the years ended 30 June 2001, 2002 and 2003.</sentence>
+<sentence id="s9">5 Mr Fowler objected to the assessments.</sentence>
+<sentence id="s10">The Commissioner was taken under s 14ZYA of the Taxation Administration Act 1953 (Cth) to have made decisions disallowing his objections.</sentence>
+<sentence id="s11">6 Mr Fowler applied to the Tribunal for review of the objection decisions, which were affirmed by the Tribunal on 21 September 2006: Re Fowler and Commissioner of Taxation [2006] AATA 808 ; (2006) 64 ATR 1113.</sentence>
+<sentence id="s12">7 Mr Fowler applied in this Court for an extension of time in which to appeal against the Tribunal's decision.</sentence>
+<sentence id="s13">On 3 April 2007 that application was granted and Mr Fowler filed his notice of appeal on 12 April 2007.</sentence>
+<sentence id="s14">8 In general terms, Mr Fowler submits that the various provisions in Pt 2 - 42 of the Income Tax Assessment Act 1997 (Cth) (the Act), under which the Commissioner treated the assessable income of Mr Fowler as including the amounts paid to the Company, are not independent provisions but are subject to constraints that are to be found by implication in Pt 1 - 3 of the Act.</sentence>
+<sentence id="s15">In particular, Mr Fowler submits that the use of the concept of derivation of income in Pt 1 - 3 signifies that it is only income of which a person becomes the beneficial owner that is assessable income, and that in the present case it was the Company, not Mr Fowler, that derived and became the beneficial owner of the amounts paid by the labour hire firms to the Company (the amounts in question).</sentence>
+<sentence id="s16">9 The Commissioner, on the other hand, submits that the Act's special provisions dealing with alienation of personal services income had the effect of making the amounts in question part of Mr Fowler's "statutory income", and therefore part of his "assessable income", even though, according to ordinary concepts, they were income derived by the Company.</sentence>
+<sentence id="s17">THE LEGISLATION 
+ 
+10 In the following discussion, references to Parts and to sections are references to the Act, as it existed at the relevant time.</sentence>
+<sentence id="s18">11 Part 1 - 3 is headed "Core provisions".</sentence>
+<sentence id="s19">Within that Part, s 4-1 provides that "[i]ncome tax is payable by each individual and company, and by some other entities".</sentence>
+<sentence id="s20">Division 9, starting at s 9-1, lists the entities that must pay income tax.</sentence>
+<sentence id="s21">Section 960-100 of the Act defines "entity".</sentence>
+<sentence id="s22">It suffices to say that "entity" means, inter alia , an individual such as Mr Fowler and a body corporate such as the Company.</sentence>
+<sentence id="s23">12 Section 4-5 provides that where a provision of the Act uses the expression "you", "it applies to entities generally, unless its application is expressly limited".</sentence>
+<sentence id="s24">Note 1 to s 4-5 states that the expression "you" is in fact not used in provisions that apply only to entities that are not individuals.</sentence>
+<sentence id="s25">Accordingly, the note foreshadows that the word "you" will be found to refer to an individual either alone or with others.</sentence>
+<sentence id="s26">13 Section 4-10(2) provides that income tax is worked out by reference to a person's "taxable income" for the "income year".</sentence>
+<sentence id="s27">Section 4-10 also provides that an "income year", generally speaking, refers to each year ending on 30 June, called the "financial year".</sentence>
+<sentence id="s28">Section 4-15 provides that "taxable income" is "assessable income" minus deductions.</sentence>
+<sentence id="s29">The present case is concerned with "assessable income".</sentence>
+<sentence id="s30">14 Division 6 within Pt 1 - 3 is headed "Assessable income and exempt income".</sentence>
+<sentence id="s31">Section 6-5(1) provides: "Your assessable income includes income according to ordinary concepts, which is called ordinary income " .</sentence>
+<sentence id="s32">Section 6-5 also includes in subss (2) and (3) respectively, provisions covering the situations in which an entity is and is not an Australian resident.</sentence>
+<sentence id="s33">Those two subsections used the word "derived".</sentence>
+<sentence id="s34">Section 6-5(4) provides that in working out whether and when ordinary income is derived, "you are taken to have received the amount as soon as it is applied or dealt with in any way on your behalf or as you direct".</sentence>
+<sentence id="s35">15 In the present case, the Company received the amounts in question, which were its ordinary income, so there is no issue as to whether and when the Company derived it.</sentence>
+<sentence id="s36">16 Section 6-10(1) provides that an entity's assessable income also includes some amounts that are not ordinary income.</sentence>
+<sentence id="s37">Section 6-10(2) states: 
+ Amounts that are not ordinary income but are included in your assessable income by provisions about assessable income, are called statutory income.</sentence>
+<sentence id="s38">(Footnote omitted.</sentence>
+<sentence id="s39">) 
+ 
+ 
+ 
+
+If the amounts in question are indeed included in Mr Fowler's assessable income by operation of the Act, they must be so included as statutory income, because they are not his ordinary income.</sentence>
+<sentence id="s40">17 Section 6-10(3) provides:
+ If an amount would be statutory income apart from the fact that you have not received it, it becomes statutory income as soon as it is applied or dealt with in any way on your behalf or as you direct.</sentence>
+<sentence id="s41">(Footnote omitted.</sentence>
+<sentence id="s42">) 
+ 
+ 
+ 
+
+Subsections (4) and (5) of s 6-10 deal, respectively, with the situations in which the assessable income of an entity that is, and is not, an Australian resident includes statutory income.</sentence>
+<sentence id="s43">18 The word "derived" is absent from s 6-10.</sentence>
+<sentence id="s44">Mr Fowler relies on s 6-10(3) to suggest that in the present case, in order for the amounts in question to be part of his statutory income, since they were not received by him, they would have had to be applied or dealt with on his behalf or as he directed.</sentence>
+<sentence id="s45">I reject this submission below.</sentence>
+<sentence id="s46">19 Part 1 - 4 is headed "Checklists of what is covered by concepts used in the core provisions".</sentence>
+<sentence id="s47">Only one provision within that Part need be noted, namely s 10-5.</sentence>
+<sentence id="s48">Relevantly, that section sets out in a table, as a guide, provisions of the Act that include in assessable income amounts that are not ordinary income.</sentence>
+<sentence id="s49">The table includes the following:
+ alienated personal services income 86-15 
+Section 10-5 tells us that we can expect to find that s 86-15 will include "alienated personal services income" that is not an entity's ordinary income into the entity's assessable income.</sentence>
+<sentence id="s50">As will be seen below, in my opinion s 86-15 does have that effect, and did so in the case of Mr Fowler.</sentence>
+<sentence id="s51">20 I turn now to Pt 2 - 42 of the Act which is headed "Personal services income".</sentence>
+<sentence id="s52">Section 84-1 provides a guide to Pt 2 - 42 .</sentence>
+<sentence id="s53">The section states:
+ This Part is about 2 issues relating to personal services income.</sentence>
+<sentence id="s54">Division 85 limits the entitlements of individuals to deductions relating to their personal services income.</sentence>
+<sentence id="s55">Division 86 sets out the tax consequences of individuals' personal services income being diverted to other entities (often called alienation of the income).</sentence>
+<sentence id="s56">These Divisions do not affect individuals or other entities that conduct personal services businesses.</sentence>
+<sentence id="s57">Division 87 defines personal services businesses.</sentence>
+<sentence id="s58">21 I will not need to discuss in detail the definition of a "personal services business" in Div 87, but s 87-10, which states the object of Div 87, is illuminating in this respect.</sentence>
+<sentence id="s59">That section refers to "genuine business but not situations that are merely arrangements for dealing with the personal services income of individuals" (footnote omitted).</sentence>
+<sentence id="s60">Section 87-15 sets down the circumstances in which a "personal services entity" conducts a "personal services business".</sentence>
+<sentence id="s61">Although the Company was a personal services entity (see s 86-15(2) set out below), it is common ground that it was not conducting a personal services business because the criteria of s 87-15 were not met.</sentence>
+<sentence id="s62">22 I turn now to Divs 84 and 86.</sentence>
+<sentence id="s63">23 Section 84-5 provides:
+ 
+ 
+ (1) Your ordinary income or statutory income, or the ordinary income or statutory income of any other entity, is your personal services income if the income is mainly a reward for your personal efforts or skills (or would mainly be such a reward if it was your income).</sentence>
+<sentence id="s64">
+ 
+.... (2) Only individuals can have personal services income.</sentence>
+<sentence id="s65">
+ 
+ (3) This section applies whether the income is for doing work or is for producing a result.</sentence>
+<sentence id="s66">
+ (4) The fact that the income is payable under a contract does not stop the income being mainly a reward for your personal efforts or skills.</sentence>
+<sentence id="s67">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The amounts in question that were received by the Company, were the personal services income of Mr Fowler, even though, according to ordinary concepts, they were the income of the Company.</sentence>
+<sentence id="s68">24 Three examples appear below subs (1) in s 84-5, of which the first is as follows:
+ 
+ 
+ Example 1: NewIT Pty.</sentence>
+<sentence id="s69">Ltd. provides computer programming services, but Ron does all the work involved in providing those services.</sentence>
+<sentence id="s70">Ron uses the clients' equipment and software to do the work.</sentence>
+<sentence id="s71">NewIT's ordinary income from providing the services is Ron's personal services income because it is a reward for his personal efforts or skills.</sentence>
+<sentence id="s72">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+The similarity of this example to the facts of the present case is obvious.</sentence>
+<sentence id="s73">25 Division 86 is headed "Alienation of personal services income".</sentence>
+<sentence id="s74">Section 86-1 provides:
+ 
+ 
+ Income from the rendering of your personal services is treated as your assessable income if it is the income of another entity and is not promptly paid to you as salary.</sentence>
+<sentence id="s75">
+ 
+ However, this does not apply if the other entity is conducting a personal services business.</sentence>
+<sentence id="s76">
+ 
+ There are limits to the other entity's entitlement to deductions to offset against the amount treated as your income.</sentence>
+<sentence id="s77">
+ 
+ 
+This provision presupposes that the income from the rendering of the individual's services is "the income of another entity", and not of the individual.</sentence>
+<sentence id="s78">Section 84-5(1) (set out above) contemplates the same possibility.</sentence>
+<sentence id="s79">26 Section 86-10 provides that the object of Div 86 is "to ensure that individuals cannot reduce or defer their income tax (and other liabilities) by alienating their personal services income through companies, partnerships or trusts that are not conducting personal services businesses" (footnotes omitted).</sentence>
+<sentence id="s80">27 Section 86-15, which is central in the present case, provides in subss (1)-(3) as follows:
+ 
+ 
+ (1) Your assessable income includes an amount of ordinary income or statutory income of a personal services entity that is your personal services income.</sentence>
+<sentence id="s81">
+ ... 
+ (2) A personal services entity is a company, partnership or trust whose ordinary income or statutory income includes the personal services income of one or more individuals.</sentence>
+<sentence id="s82">
+ ... 
+ (3) This section does not apply if that amount is income from the personal services entity conducting a personal services business.</sentence>
+<sentence id="s83">
+ (Footnotes omitted.</sentence>
+<sentence id="s84">)
+ 
+ 
+
+The Company was a personal services entity because its ordinary income included the personal services income of Mr Fowler.</sentence>
+<sentence id="s85">28 Subsection (4) of s 86-15 has the effect that s 86-15 does not apply to the extent that the personal services entity promptly pays the amount to the individual as an employee, as salary or wages.</sentence>
+<sentence id="s86">In the present case the Company did not promptly pay the amounts in question to Mr Fowler as salary or wages.</sentence>
+<sentence id="s87">It did not pay them to him at all.</sentence>
+<sentence id="s88">29 Section 86-30 prevents double taxation.</sentence>
+<sentence id="s89">It provides that ordinary income or statutory income of the personal services entity is neither assessable income nor exempt income of that entity, to the extent that it is personal services income included in the individual's assessable income under s 86-15.</sentence>
+<sentence id="s90">Accordingly, if, as the Commissioner contends, s 86-15 operated to include the amounts in question in Mr Fowler's assessable income, they are not assessable income of the Company.</sentence>
+<sentence id="s91">THE QUESTIONS OF LAW RAISED BY THE NOTICE OF APPEAL 
+ 
+30 The Notice of Appeal raises the following questions of law:
+ 
+ 
+ (a) Whether section 86-15 and section 84-5 of the Income Tax Assessment Act 1997 (Cth) are capable of including an amount in the assessable income of an individual if the amount is not "your income", or "income", or beneficially owned or derived by, or income on ordinary concepts of the individual, under Division 6?</sentence>
+<sentence id="s92">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) Whether section 86-15 of the Income Tax Assessment Act 1997 (Cth) operates by its own force to include an amount in the assessable income of an individual or whether section 86-15 needs to be read in conjunction with the jurisdiction, source, derivation and timing rules contained in section [sic] 6-10(3) and 6-10(4) of the Act?</sentence>
+<sentence id="s93">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) Whether under section 6-10(4) of the Income Tax Assessment Act 1997 (Cth) the statutory income to be included in the assessable income of a year of income of an individual can include an amount that is deemed personal services income under section 86-15 but which is not from a source or any source other than the statutory construct in section 86-15?</sentence>
+<sentence id="s94">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (d) Whether under section 6-10(3) of the Income Tax Assessment Act 1997 (Cth) the statutory income to be included in the assessable income for a year of income can include amounts that are not received or applied or dealt with on the Applicants[sic] behalf or as directed in that year of income?</sentence>
+<sentence id="s95">
+ 
+ 
+
+The following grounds of the appeal were pressed:
+ 
+ 
+ (a) The Tribunal erred in law by treating section 86-15 of the Income Tax Assessment Act 1977 (Cth) as an assessing provision divorced from Division 6 of the Income Tax Assessment Act 1977 (Cth).</sentence>
+<sentence id="s96">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) The Tribunal erred in law by accepting that there was no doctrine of law which would require that the taxation of income depends on ownership of that income.</sentence>
+<sentence id="s97">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) The Tribunal erred in law by failing to consider whether the Applicant derived ordinary income as prescribed in section 6-5 of the Income Tax Assessment Act 1997 (Cth).</sentence>
+<sentence id="s98">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (d) The Tribunal erred in law by treating an amount deemed under section 86-15 of the Income Tax Assessment Act 1997 (Cth) as the source of statutory income of the Applicant under section 6-10(4) of the Income Tax Assessment Act 1997 (Cth).</sentence>
+<sentence id="s99">
+ 
+ 
+ THE PARTIES' SUBMISSIONS 
+ 
+31 In his counsel's written submissions, Mr Fowler concedes (para 5):
+ 
+ 
+ ... that the factual circumstances are within the intended ambit of the recently enacted personal services income rules... in Part 2.42 [sic] of the Income Tax Assessment Act 1997 ....</sentence>
+<sentence id="s100">The question is, of course, whether that intended scope has manifested itself properly within the words of section 86-15 read in the context of section [sic] 84-5 and 86-30 of that Act.</sentence>
+<sentence id="s101">
+ 
+ 
+This concession was correctly made.</sentence>
+<sentence id="s102">It is difficult to conceive of circumstances that fall more clearly within Div 86 in Pt 2-42.</sentence>
+<sentence id="s103">Mr Fowler's submission is that the provisions fail to achieve the object that the legislature intended them to achieve.</sentence>
+<sentence id="s104">32 Mr Fowler submits, firstly, that the Tribunal erred in its unqualified acceptance of para 32 of the Commissioner's submission that there is no doctrine of law which would suggest that the taxation of income depends on ownership: see Re Fowler and Commissioner of Taxation [2006] AATA 808 ; (2006) 64 ATR 1113 at [32] .</sentence>
+<sentence id="s105">Mr Fowler elaborates on this submission by referring to the following cases in support of the proposition that income that is derived by a taxpayer beneficially is included in the taxpayer's assessable income: Countess of Bective v Federal Commissioner of Taxation (1932) 47 CLR 417 at 424; MacFarlane v Commissioner of Taxation (1986) 13 FCR 356 at 367; Windshuttle v Commissioner of Taxation [1993] FCA 553 ; (1993) 46 FCR 235 ; 93 ATC 4992 at 5000; Zobory v Commissioner of Taxation [1995] FCA 1226 ; (1995) 64 FCR 86 at 89; Reiter v Commissioner of Taxation [2001] FCA 1068 ; (2001) 113 FCR 492 at [24] ; Service v Commissioner of Taxation [2000] FCA 188 ; (2000) 97 FCR 265 at [73] ; Case 1/2006 [2005] AATA 1251 ; 2006 ATC 101 ; ABB Australia Pty Ltd v Federal Commissioner of Taxation (2007) 162 FCR 189 at [64].</sentence>
+<sentence id="s106">In the present case, it was the Company, not Mr Fowler, that derived and became the beneficial owner of the amounts in question.</sentence>
+<sentence id="s107">33 Secondly, Mr Fowler submits that s 84-5(1) is to be construed as referring to income that is beneficially derived by the individual.</sentence>
+<sentence id="s108">Similarly, he submits that the opening words of s 86-15(1), "Your assessable income", refer to income derived by the individual beneficially.</sentence>
+<sentence id="s109">34 Mr Fowler contends that the drafting of ss 84-5 and 86-15 "has fundamentally miscarried" because the drafter, like the Tribunal, has overlooked the import of the authorities, which insist that assessable income be income derived by a taxpayer beneficially --- that is to say, be income of which the taxpayer becomes the beneficial owner.</sentence>
+<sentence id="s110">Mr Fowler submits that "the defect in the drafting of sections 84-5 and 86-15 is so fundamental that it is not open to a Court to cure by, as it were creative construction" .</sentence>
+<sentence id="s111">35 Thirdly, Mr Fowler submits that there are fundamental problems concerned with the source and timing of the derivation of the income, if the construction supported by the Commissioner and accepted by the Tribunal is correct.</sentence>
+<sentence id="s112">Mr Fowler submits that the question of timing is dealt with in s 6-10(3) and that of source in subss 6-10(4) and (5) (both set out above).</sentence>
+<sentence id="s113">In substance, he submits that these provisions cannot work if there is an automatic attribution of income of the kind that the Tribunal accepted Pt 2-42 brings about.</sentence>
+<sentence id="s114">36 For his part, the Commissioner submits that, subject to any constitutional constraints, it is open to the legislature to tax as a person's assessable income any amounts it may choose to identify, and that it has unambiguously specified the amounts in question in the present case as included in the statutory income of Mr Fowler.</sentence>
+<sentence id="s115">37 The Commissioner relies on R v Barger [1908] HCA 43 ; (1908) 6 CLR 41 at 114, adopted in Fairfax v Federal Commissioner of Taxation [1965] HCA 64 ; (1965) 114 CLR 1 at 12-13, for the proposition that subject only to the limitations expressed in the Constitution , the Parliament's power to levy taxation:
+ was plenary and absolute; unlimited as to amount, as to subjects, as to objects, as to conditions, as to machinery... 
+with the result that:
+ the Parliament has, prima facie, power to tax whom it chooses, power to exempt whom it chooses, [and] power to impose such conditions as to liability or as to exemption as it chooses.</sentence>
+<sentence id="s116">The Commissioner submits that on the assumption that there was a general principle contended for by Mr Fowler, it has been overtaken by the introduction of the Act, which evinces a clear intention to include in a person's assessable income, in the circumstances identified in the Act, amounts of income that the individual did not beneficially derive.</sentence>
+<sentence id="s117">38 The Commissioner submits that ss 84-5 and 86-15 work satisfactorily together, and, in response to Mr Fowler's submissions concerning timing and source, that there is no difficulty in these respects.</sentence>
+<sentence id="s118">CONSIDERATION 
+ 
+39 In my opinion, Mr Fowler has not exposed any error of law in the Tribunal's Reasons for Decision.</sentence>
+<sentence id="s119">40 The terms of the Act are clear and leave no scope for a reading down of the kind for which Mr Fowler contends.</sentence>
+<sentence id="s120">41 All of the integers of Mr Fowler's liability to tax are clear.</sentence>
+<sentence id="s121">It is not, and could not be, disputed:
+ 
+ 
+ &#8226; that the amounts in question were personal services income of Mr Fowler;
+ &#8226; that the amounts were ordinary income of the Company;
+ &#8226; that the Company was a personal services entity; or
+ &#8226; that the amounts were not income from the Company's conducting a personal services business.</sentence>
+<sentence id="s122">
+ 
+
+42 I accept that the notion of derivation of income was important in the Income Tax Assessment Act 1936 (Cth): see, for example, ss 17, 19, 20, 21A , 25, 26.</sentence>
+<sentence id="s123">43 I need not discuss the extent to which, under the Income Tax Assessment Act 1936 (Cth), there was any "doctrine of law" or "interpretative presumption" that that Act brought to account as assessable income only amounts of income that the taxpayer derived as "beneficial owner".</sentence>
+<sentence id="s124">I note, however, that with the exception of Case 1/2006 [2005] AATA 1251 , which is not presently relevant, all of the authorities cited by Mr Fowler (see [32] above) relate to income according to ordinary concepts (called "ordinary income" in the Act).</sentence>
+<sentence id="s125">44 Section 86-15 does not include in the individual's assessable income, income according to ordinary concepts that he or she derives.</sentence>
+<sentence id="s126">Income of that kind is the subject of s 6-5, noted earlier.</sentence>
+<sentence id="s127">If the amounts in question were income according to ordinary concepts derived by Mr Fowler, s 86-15 would be irrelevant to his circumstances.</sentence>
+<sentence id="s128">Part 2-42 must be construed in the light of its purpose.</sentence>
+<sentence id="s129">It would frustrate that purpose to insist that s 86-15 failed to reach income that was derived by the "alienee" (the Company in the present case) and of which the alienee became the beneficial owner
+ 
+45 Mr Fowler's contention must be that there is a derivation/beneficial ownership principle that Pt 2-42 of the Act cannot be allowed to contradict.</sentence>
+<sentence id="s130">There is not.</sentence>
+<sentence id="s131">46 I do not see any difficulty in the inter-relationship of ss 84-5 and 86-15.</sentence>
+<sentence id="s132">Section 84-5 had the effect that these items of the ordinary income of the Company were Mr Fowler's personal services income, because they would have been mainly a reward for his personal efforts or skills if in fact they had been his income rather than that of the Company.</sentence>
+<sentence id="s133">Subsection 86-15(1) then had the effect that Mr Fowler's assessable income included so much of the ordinary income of the Company as was Mr Fowler's personal services income, being, in fact, the whole of the amounts in question.</sentence>
+<sentence id="s134">47 As noted earlier, within Div 6, s 6-10 had the effect that Mr Fowler's assessable income included amounts that were included in his assessable income "by provisions [of the Act] about assessable income", the latter being called statutory income.</sentence>
+<sentence id="s135">Section 10-5 correctly identifies s 86-15, dealing with "alienated personal services income", as one of those provisions about assessable income, because, as I have just held, that section is a provision that includes in an individual's assessable income certain income that is not his or her ordinary income.</sentence>
+<sentence id="s136">48 Mr Fowler points out that, contrary to what was foreshadowed in the Explanatory Memorandum for the Bill for the Act, s 84-5(1) uses the word "income" alone and without a qualifier in two places.</sentence>
+<sentence id="s137">However, both of those instances clearly refer back to earlier uses of the word with qualifiers.</sentence>
+<sentence id="s138">49 Mr Fowler's reliance on s 6-10(3) is misplaced.</sentence>
+<sentence id="s139">That provision applies only where receipt is a necessary element of an amount becoming statutory income of an entity.</sentence>
+<sentence id="s140">Examples are to be found in ss 15-3, 15-5, 15-10, 15-20, 15-25 and 15-30 of the Act, in all of which the word "receive" appears.</sentence>
+<sentence id="s141">However, receipt may be made such a necessary element without the use of that word or its derivatives.</sentence>
+<sentence id="s142">Section 86-15 does not require that Mr Fowler receive or derive the personal services income in question in order for that income to be included in his statutory income.</sentence>
+<sentence id="s143">Indeed, the section assumes that it will be received or derived by the alienee.</sentence>
+<sentence id="s144">Section 86-15 operates to include the amounts to which it refers in the statutory income of an individual without the necessity of his or her receiving them, and s 6-10(3) has no scope for operation.</sentence>
+<sentence id="s145">50 I am also not persuaded to accept Mr Fowler's timing and source submissions.</sentence>
+<sentence id="s146">His submission seems to be that because there is an artificial attribution to the individual of amounts that constituted income of the personal services entity according to ordinary concepts, there is some complexity that would not otherwise exist in terms of identifying the time when the income becomes part of the individual's income and the source of the income.</sentence>
+<sentence id="s147">51 In relation to timing, as noted above, s 6-10(3) has no application.</sentence>
+<sentence id="s148">By the operation of s 86-15(1), the individual's (Mr Fowler's in this case) personal services income becomes part of the individual's assessable income when it becomes part of the ordinary or statutory income of the personal services entity (the Company in this case).</sentence>
+<sentence id="s149">52 Similarly, there is no difficulty as to the source of the items of statutory income in the present case.</sentence>
+<sentence id="s150">Mr Fowler was an Australian resident (see s 6-10(4)).</sentence>
+<sentence id="s151">Although it therefore does not matter, Mr Fowler's statutory income came from an Australian source, and the Company was incorporated in Australia, carried on business in Australia and supplied Mr Fowler's services to the labour hire firms within Australia.</sentence>
+<sentence id="s152">53 Mr Fowler posed several hypothetical examples designed to show that Pt 2-42 might be thought to operate unjustly in particular sets of circumstances if the construction supported by the Commissioner were to find favour.</sentence>
+<sentence id="s153">I do not propose to say anything about them because, in my view, the statutory provisions in question clearly bear the construction that I have outlined above, and I do not find in the examples any reason to doubt the correctness of that construction.</sentence>
+<sentence id="s154">Certainly the circumstances of the present case provide a straightforward example of circumstances to which the legislature intended Pt 2-42 to apply, as Mr Fowler accepts.</sentence>
+<sentence id="s155">54 The fact that Pt 2-42 would operate unjustly in circumstances that can be hypothesised may be a case for amendment, but it is no reason to defeat the legislative intention in the circumstances of the present case.</sentence>
+<sentence id="s156">If there has been any oversight by the drafter, it has been an oversight of the effect that the provisions might have in certain sets of circumstances, not of a fundamental principle that frustrates the drafter's intention (see [34] above).</sentence>
+<sentence id="s157">CONCLUSION 
+ 
+55 For the above reasons, the appeal will be dismissed with costs.</sentence>
+<sentence id="s158">I certify that the preceding fifty-five (55) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Lindgren.</sentence>
+<sentence id="s159">Associate:
+
+Dated: 21 April 2008
+
+
+ Counsel for the Applicant: Mr D B McGovern SC and Mr I S Young 
+ 
+ Solicitor for the Applicant: Robert Richards &amp; Associates 
+ 
+ Counsel for the Respondent: Mr N J Williams SC and Mr D F C Thomas 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+
+ Date of Hearing: 9 April 2008 
+ 
+ Date of Last Submission Received 11 April 2008 
+ 
+ Date of Judgment: 21 April 2008 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/528.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,223 @@
+<?xml version="1.0"?>
+<case>
+<name>QPSX Limited v Ericsson Australia Ltd (No 6) [2007] FCA 1801 (22 November 2007)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2007/1801.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">separate trial as to liability</catchphrase>
+<catchphrase "id=c1">definition of issues</catchphrase>
+<catchphrase "id=c2">particular discovery</catchphrase>
+<catchphrase "id=c3">interrogatories</catchphrase>
+<catchphrase "id=c4">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+ Introduction 
+ 
+1 QPSX Limited (QPSX) and its subsidiaries, QPSX Communications Pty Ltd (QPSX Communications) and QPSX Europe GmbH (QPSX Europe) sue Ericsson Australia Pty Ltd (Ericsson Australia) and its parent company, Telefonaktiebolaget LM Ericsson (LME).</sentence>
+<sentence id="s1">They also sue Longreach Group Limited (Longreach Group) and Longreach Networks Pty Ltd.</sentence>
+<sentence id="s2">The QPSX parties allege breach of a licensing agreement concerning patent rights in technology used in telecommunications.</sentence>
+<sentence id="s3">Causes of action for misleading or deceptive conduct are also raised.</sentence>
+<sentence id="s4">These proceedings were commenced on 4 May 2004.</sentence>
+<sentence id="s5">The matter is complex and the interlocutory processes have been lengthy.</sentence>
+<sentence id="s6">Both parties now seek orders, differently framed, for a separate trial of liability issues.</sentence>
+<sentence id="s7">The applicants also seek orders for further discovery and for the provision of answers to interrogatories.</sentence>
+<sentence id="s8">For the reasons that follow, I will make orders for the separate trial of liability issues.</sentence>
+<sentence id="s9">I will also order limited further discovery and give leave to the applicants to administer specified interrogatories.</sentence>
+<sentence id="s10">The applicants' case as pleaded 
+ 
+2 According to the further amended statement of claim filed on 9 March 2007 QPSX Communications is the registered patentee of patents in the United States, Australia, Canada and the United Kingdom which relate to a method and apparatus for segmentation and reassembly technology.</sentence>
+<sentence id="s11">QPSX Europe is the registered patentee of like patents in Germany.</sentence>
+<sentence id="s12">They concern a method of transmitting variable length messages on a network from a source to a destination in fixed length slots which include a header field and a message segment.</sentence>
+<sentence id="s13">They are referred to by the acronym "SAR Patents".</sentence>
+<sentence id="s14">3 QPSX Communications is also the registered patentee of patents in the United States, Australia, Canada, the United Kingdom and Germany for a queuing protocol for a communications network for queued transmission of information in packets.</sentence>
+<sentence id="s15">They are referred to as "QP Patents".</sentence>
+<sentence id="s16">4 It is alleged that the method which is the subject of the SAR Patents and the protocol which is the subject of the QP Patents are parts of a Distributed Queue Dual Bus technology, also known as "Queued Packet and Synchronous Exchange technology".</sentence>
+<sentence id="s17">It is said that, since 1988, the Distributed Queue Dual Bus technology has been a part of the international telecommunication standard approved by the Institute of Electrical and Electronics Engineers for metropolitan area networks known as "IEEE 802.6" ([10]).</sentence>
+<sentence id="s18">5 A protocol known as "Asynchronous Transfer Mode" (ATM) has been developed as the networking standard for high-speed, high-capacity, voice, data, video and graphics transmission.</sentence>
+<sentence id="s19">The method the subject of the SAR Patents is said to be an element of the ATM protocol incorporated into the international ATM standard set by the International Telecommunication Union and known as ITU specification I.363.5.</sentence>
+<sentence id="s20">It is also known as AAL5.</sentence>
+<sentence id="s21">6 According to the further amended statement of claim, QPSX Communications and Jtec Pty Ltd (Jtec) executed an agreement for the sale of certain intellectual property, a licence for the use of other intellectual property and the formation of a strategic alliance between them.</sentence>
+<sentence id="s22">This was done on 18 August 1994.</sentence>
+<sentence id="s23">The contract was amended on 5 December 1997 by agreement.</sentence>
+<sentence id="s24">7 On or about 12 July 2001, QPSX Communications and Jtec executed a deed of assignment and variation with Ericsson Australia.</sentence>
+<sentence id="s25">By that deed Jtec assigned and transferred to Ericsson Australia, with the agreement and consent of QPSX Communications, the Jtec contract and associated covenants, representations, warranties and acknowledgements given by Jtec to QPSX Communications and vice versa.</sentence>
+<sentence id="s26">8 It is alleged that in or about May 2003, Ericsson Australia purported to sell and the Longreach Group purported to purchase, among other things, Ericsson Australia's rights under the Jtec contract as assigned.</sentence>
+<sentence id="s27">This, it is said, enabled Longreach Group to exploit in Australia the method the subject of the SAR Patents and the protocol the subject of the QP Patents.</sentence>
+<sentence id="s28">The QPSX parties say that Ericsson Australia did not seek or obtain the prior consent of QPSX Communications to the sale as required by cl 17.1 of the Jtec contract ([29]).</sentence>
+<sentence id="s29">9 According to [30A] of the further amended statement of claim, prior to the sale and purchase, Ericsson Australia and LME well knew that the AAL5 Standard was an international standard which supported the carriage of data in telecommunications networks and which was notorious in the telecommunications industry.</sentence>
+<sentence id="s30">They are also said to have known that QPSX Europe and QPSX Communications contended that the SAR Patents were essential patents for the purposes of components, products and systems implementing the AAL5 Standard and that there were features of the QPSX Europe SAR Patent which corresponded to the features of the AAL5 Standard.</sentence>
+<sentence id="s31">Ericsson Australia and LME are also said to have known that QPSX Europe had commenced patent infringement proceedings in Germany against Deutsche Telekom AG and Siemens AG alleging infringement by them of the QPSX Europe SAR Patent and that those proceedings included an allegation by QPSX Europe that compliance with the AAL5 Standard infringed the QPSX Europe SAR Patent.</sentence>
+<sentence id="s32">10 The QPSX parties say that on 20 August 2003, they agreed with Ericsson Australia, through Grant Darling who was at the time its company secretary and legal counsel, that in lieu of pursuing negotiations for their consent to the assignment which was necessary for the sale and purchase to the Longreach Group, there would be negotiations for new licences.</sentence>
+<sentence id="s33">These would be with Ericsson Australia, LME and the Longreach Group.</sentence>
+<sentence id="s34">They would relate to manufacturing and sales inside and outside Australia for goods using the method the subject of the SAR Patents or the protocol the subject of the QP Patents.</sentence>
+<sentence id="s35">The Longreach Group is said to have joined in the agreements to negotiate on or about 25 or 26 August 2003.</sentence>
+<sentence id="s36">11 The QPSX parties say that on or about 27 August 2003, Mr Darling, together with Graham Griffiths, who was at the time the chief executive officer of QPSX, and Morris Symonds, who was then the chief executive officer of the Longreach Group, executed a memorandum between the QPSX parties, the Ericsson parties and the Longreach parties ([42]).</sentence>
+<sentence id="s37">The memorandum related to the acquisition by the Longreach Group of the assets sold to it by Ericsson Australia, the replacement of patent licensing arrangements between QPSX Communications and Ericsson Australia under the Jtec contract and the further and expanded global licensing of Ericsson Australia, LME and related bodies corporate and the Longreach Group to make broad and unfettered use of the QPSX technology and patents ([43]).</sentence>
+<sentence id="s38">12 It is alleged that Mr Darling was duly authorised to execute the memorandum on behalf of Ericsson Australia ([44]).</sentence>
+<sentence id="s39">He was also duly authorised to execute it on behalf of LME ([45]).</sentence>
+<sentence id="s40">Mr Symonds is said to have been duly authorised to execute the memorandum on behalf of that Group ([46]).</sentence>
+<sentence id="s41">13 The QPSX parties say that the memorandum formed a legally binding agreement between themselves, Ericsson Australia, LME and Longreach Group and Longreach Networks ([49]).</sentence>
+<sentence id="s42">In the alternative, it is alleged that if Mr Darling was not authorised to execute the memorandum on behalf of LME, it formed a legally binding agreement between the QPSX parties, Ericsson Australia and the Longreach parties.</sentence>
+<sentence id="s43">14 Material terms of the memorandum are pleaded at [51] of the further amended statement of claim.</sentence>
+<sentence id="s44">The "Defined Terms" used in the Jtec contract (as amended by the Jtec amendment contract and the assignment deed) had the same meaning in the memorandum.</sentence>
+<sentence id="s45">The term "ATM Products" was defined to mean products that: 
+ 
+ 
+ (i) incorporate the QPSX Designs or the QPSX Chipset (in whole or in part); and/or
+ 
+ (ii) comply with the AAL5 Standard (it being agreed for the purposes of the Memorandum that compliance with the AAL5 Standard requires use of the QPSX Patents).</sentence>
+<sentence id="s46">
+ 
+
+This was a reference to [7] of the memorandum which was exhibited to the further amended statement of claim and which provided: 
+ 
+ 
+ From 1 July 2003 (or the completion of the acquisition by HarTec of the Ericsson ATM business, whichever is earlier), QPSX hereby agrees to grant a non-exclusive licence to HarTec and Ericsson ("the Licensees") to use the QPSX Designs, QPSX Chipset ("the QPSX Technology") and the QPSX Patents to manufacture all ATM Products and sell or use those products globally.</sentence>
+<sentence id="s47">The term "ATM Products" means products that incorporate the QPSX Technology, in whole or in part and/or comply with AAL5 (compliance with which ATM Standard requires the use of the QPSX Patents).</sentence>
+<sentence id="s48">
+
+It is further pleaded that the term "Sales Value" was defined in the memorandum thus: 
+ 
+ 
+ ... the aggregate of all amounts, net of credits or returns and excluding taxes or duties, received by the Licensees (as defined in paragraph 51(d) herein) in connection with the global sale of ATM Products, including any payments by Ericsson Australia or Kongsberg Defence Communications AS to Longreach Group under take or pay provisions in the distribution agreements forming part of the sale of assets from Ericsson Australia to Longreach Group ( Sales Value ).</sentence>
+<sentence id="s49">
+ 
+
+15 The pleaded substantive terms included provision for Ericsson Australia and LME jointly, and alternatively, Ericsson Australia, to provide quarterly reports to the QPSX parties setting out forecast sales and estimates for the quarter to follow and an estimate of the actual Sales Value for the previous quarter.</sentence>
+<sentence id="s50">The reports would also include a calculation showing the amount of royalty payable to the QPSX parties and an estimate of sales in respect of different categories of ATM Products made in the previous quarter.</sentence>
+<sentence id="s51">16 Ericsson Australia and LME jointly, and alternatively, Ericsson Australia, were also said to have agreed to pay royalties to the QPSX parties on global sales of ATM Products by Ericsson Australia, LME and its related bodies corporate on specified percentages of the Sales Value for each quarter.</sentence>
+<sentence id="s52">17 According to the further amended statement of claim, Ericsson Australia has breached the terms of the memorandum in failing to provide reports as required and failing to make any royalty payments on the sales which it has made of ATM Products inside and outside Australia by LME, Ericsson Australia or related bodies corporate ([53]).</sentence>
+<sentence id="s53">LME is said to have similarly breached the terms of the memorandum ([54]).</sentence>
+<sentence id="s54">18 The QPSX parties also allege that Ericsson Australia represented to them that LME had authorised Ericsson Australia and Mr Darling to negotiate and execute the memorandum on its behalf and that if he were not authorised to do so, the representation was misleading or deceptive conduct on the part of Ericsson Australia ([59]).</sentence>
+<sentence id="s55">19 The remedies claimed include an account and payment of royalties due upon all sales covered by the memorandum ([67]).</sentence>
+<sentence id="s56">Damages are also sought in respect of the misleading or deceptive conduct.</sentence>
+<sentence id="s57">They are said to flow from the loss by the QPSX parties of an opportunity to negotiate a contract to be paid royalties by Ericsson Australia and LME.</sentence>
+<sentence id="s58">The memorandum of agreement is annexed to the further amended statement of claim.</sentence>
+<sentence id="s59">The motion for determination of separate questions 
+ 
+20 Ericsson Australia and LME, by a motion filed 28 September 2007, sought orders that the following questions be separately determined pursuant to O 29, r 2 of the Federal Court of Australia Rules 1979 (Cth) (the Rules):
+ 
+ 
+ A.</sentence>
+<sentence id="s60">Did the first respondent, Ericsson Australia Pty Ltd ( "Ericsson" ) and the second respondent, QPSX Communications Pty Ltd ( "QPSX" ) form an agreement on 26 August 2003 being the agreement evidenced in the document entitled "Ericsson/QPSX/Hartec Limited Relationship Memorandum of Agreement" upon Ericsson signing the counterpart of that document which it received by facsimile transmission from QPSX at approximately 18:50 (EST) on 26 August 2003, and sending a copy of that signed counterpart to QPSX by facsimile transmission at approximately 19:10 (EST) on 26 August 2003 (the " 26 August agreement " )?</sentence>
+<sentence id="s61">B.</sentence>
+<sentence id="s62">If the answer to question A is yes, does the clause defining Sales Value mean the aggregate of all payments (after deducting credits or returns and excluding taxes or duties) derived and received by Ericsson as a consequence of selling ATM products?</sentence>
+<sentence id="s63">C. Does the term "ATM products" in the clause defining Sales Value mean:-
+ 
+ 
+ 
+ 
+ 
+ i. products which utilise in whole or in part "QPSX Design"; and/or
+ ii.</sentence>
+<sentence id="s64">products which utilise in whole or in part "QPSX Chipset" and/or
+ iii.</sentence>
+<sentence id="s65">products which utilise in whole or in part "QPSX Patents" to enable them to comply with ATM standard AAL5 [ NB for the purposes of determining this question the court is not required to determine the meaning of the expression "QPSX Design"; "QPSX Chipset"; or "QPSX Patents".</sentence>
+<sentence id="s66">] 
+ 
+ 
+ 
+
+The QPSX parties, on the other hand, propose that there be a trial of all issues in the proceeding save for the question of the extent of any royalties, compensation or damages as alleged in [67], [68] and [69(b)] of the further amended statement of claim.</sentence>
+<sentence id="s67">They would also exclude breach issues relating to royalty payments.</sentence>
+<sentence id="s68">21 There is no doubt that the trial of all issues extending to breach and damages would give rise to a very lengthy and expensive hearing.</sentence>
+<sentence id="s69">The QPSX parties accept that there would be significant costs associated with preparing evidence concerning the amount of royalties due from the Ericsson parties if they are shown to be liable to pay them.</sentence>
+<sentence id="s70">It is also accepted that the nature of the evidence may vary according to the basis of that liability, if any.</sentence>
+<sentence id="s71">The QPSX parties accept that the assessment of any royalties due from the Ericsson parties should be deferred pending a trial on liability issues.</sentence>
+<sentence id="s72">They submit that it will be necessary for the Court to be informed about the range of products potentially covered by the memorandum.</sentence>
+<sentence id="s73">The Court will be asked to construe, inter alia, the terms "ATM Products" and "Sales Value".</sentence>
+<sentence id="s74">22 The questions proposed by the Ericsson parties for determination have already been set out.</sentence>
+<sentence id="s75">I accept, however, as put by counsel for the QPSX parties, that the formulation of discrete questions of the kind proposed in the motion would leave the risk that there may be issues critical to liability which slip between the cracks of those questions.</sentence>
+<sentence id="s76">I also accept that the constructional questions to which the memorandum of agreement and the pleadings give rise, may be better defined and understood against the background of an understanding of the nature of the products the subject of the alleged agreement.</sentence>
+<sentence id="s77">To some extent that understanding may be able to be achieved through an agreed "primer" setting out uncontentious technical background.</sentence>
+<sentence id="s78">23 In my opinion the preferable course is to have a trial of liability excluding questions of breach in relation to the payment of royalties.</sentence>
+<sentence id="s79">This would leave in questions of breach relating to the alleged failure to provide quarterly reports.</sentence>
+<sentence id="s80">24 I propose to order, pursuant to O 29 of the Rules, that: 
+ 
+ There be a trial of all issues in this proceeding save for:
+ 
+ 
+ 
+ (i) the alleged failure of Ericsson Australia and LME to make royalty payments pleaded in paragraphs 53(b) and 54(b) of the further amended statement of claim; 
+ 
+ (ii) the question of any royalties, compensation or damages payable as alleged in paragraphs 67, 68 and 69(b) of the further amended statement of claim.</sentence>
+<sentence id="s81">
+ 
+
+I propose also to order that the trial of these issues be set down for a period not exceeding 15 days commencing in April 2008.</sentence>
+<sentence id="s82">Proposed orders for further discovery and for leave to interrogate 
+ 
+25 The QPSX parties filed a motion on 2 October 2007 seeking orders under O 15 of the Rules that the Ericsson parties give particular discovery in relation to some 16 categories of documents.</sentence>
+<sentence id="s83">They also sought orders that the Ericsson parties answer interrogatories in relation to a number of documents and matters pleaded in the defence.</sentence>
+<sentence id="s84">The categories of documents for which discovery is sought were reduced, as set out in amended Schedule A, to the notice of motion dated 8 November 2007.</sentence>
+<sentence id="s85">26 The QPSX parties responsive outline of submissions in relation to further and better discovery describe the remaining classes of documents as falling into two categories: 
+ 
+ (a) documents relating to the authority of Mr Darling to execute the memorandum of agreement on behalf of the second respondent ("LME").</sentence>
+<sentence id="s86">This category covered classes C, D, O and P in the schedule; 
+ (b) internal documents of the Ericsson parties analysing whether the method which is the subject of the SAR Patents is an element of the AAL5 Standard.</sentence>
+<sentence id="s87">This covered classes E, F, G and J in the schedule.</sentence>
+<sentence id="s88">
+
+
+Counsel for the Ericsson parties stated that they would be prepared to agree to giving discovery of documents defined in terms of category (a) in the applicant's responsive submissions.</sentence>
+<sentence id="s89">I am prepared to make an order for particular discovery in those terms.</sentence>
+<sentence id="s90">27 The second category sought by the QPSX parties is justified, in their submission, by the plea in [51(b)] of the Ericsson substituted defence that, on a proper construction of the term "ATM Products" appearing in the memorandum of agreement, it means: 
+ 
+ 
+ (a) products that incorporate the QPSX Designs or the QPSX Chipset (in whole or in part); and 
+ 
+ (b) products that require the use of the QPSX Patents to enable those products to comply with ATM Standard AAL5.</sentence>
+<sentence id="s91">
+ 
+
+They do not accept that construction.</sentence>
+<sentence id="s92">They submit however that if they are wrong about this there is a further matter concerning the true meaning and effect of "use" in the second limb.</sentence>
+<sentence id="s93">The QPSX parties say that the concept of how products may "use" a patented method for the purpose of complying with an external standard rather than for the purpose of assessing whether a patent has been infringed, is not particularised.</sentence>
+<sentence id="s94">The QPSX parties submit that the sense in which products "use" a patented method for the purpose of complying with an external standard "... may well mean that the product embodies the substantial idea described in the patent".</sentence>
+<sentence id="s95">They seek discovery of further documents to assist them in demonstrating the extent to which the Ericsson parties regarded products which they manufactured or sold as embodying the substantial idea described in the patent.</sentence>
+<sentence id="s96">This covers any internal analysis as to whether the method the subject of the SAR Patents is an element of the AAL5 Standard.</sentence>
+<sentence id="s97">28 The question raised by the QPSX parties goes to the construction of the term "use" in cl 7 of the memorandum of agreement.</sentence>
+<sentence id="s98">It may be that the Ericsson parties could be asked, at some point, to make clear what construction they will be placing upon the term "use" in cl 7.</sentence>
+<sentence id="s99">It is not however, in my opinion, a question, the resolution of which will be assisted one way or the other, by internal memoranda of the kind sought in [(b)] of the broad category of documents referred to in the QPSX parties' responsive outline of submissions.</sentence>
+<sentence id="s100">Interrogatories 
+ 
+29 The QPSX parties seek orders requiring the Ericsson parties to give answers to interrogatories relating to particular documents and relating to Mr Darling's authority to execute the memorandum of agreement on behalf of Ericsson.</sentence>
+<sentence id="s101">Those of the interrogatories which I will allow are regarded as posed for the legitimate purpose of enabling the QPSX parties to put in certain documents as part of their case coupled with specific admissions, if they be elicited under the interrogatories.</sentence>
+<sentence id="s102">Certain of the interrogatories I will disallow as, in effect, requesting particulars which can better be pursued through that mechanism.</sentence>
+<sentence id="s103">30 The interrogatories which I propose to allow out of those set out in the amended Schedule B to the QPSX parties' motion are: 
+ 
+ (i) Interrogatory 2 which relates to an internal Ericsson document, which includes a statement that "AAL5 could be included in our QPSX ownership".</sentence>
+<sentence id="s104">The document purports to be a survey of "Jtec technology elements and how we think they apply to the various standards and patents.</sentence>
+<sentence id="s105">"
+ (ii) Interrogatories 5.1, 5.3 and 5.4.</sentence>
+<sentence id="s106">These relate to an internal memorandum entitled "QPSX/Ericsson Licence Proposal".</sentence>
+<sentence id="s107">(iii) Interrogatory 6.1.</sentence>
+<sentence id="s108">
+ I certify that the preceding thirty (30) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice French.</sentence>
+<sentence id="s109">Associate:
+Dated: 22 November 2007
+
+ Counsel for the Applicants: Mr CL Zelestis QC with Mr JA Thomson 
+ 
+ Solicitor for the Applicants: Mallesons Stephen Jaques 
+ 
+ Counsel for the First and Second Respondents: Mr MD Wyles with Mr B Murphy 
+ 
+ Solicitor for the First and Second Respondents: Carrick Kellow Smyth 
+ 
+ Date of Hearing: 12 November 2007 
+ 
+ Date of Orders:
+Date of Judgment: 21 November 2007
+22 November 2007 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2007/1801.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<case>
+<name>Westpac Banking Corporation v Australian Securities &amp; Investments Commission [2009] FCA 1506 (15 December 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1506.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">australian securities and investments commission act 2001 (cth) s 12dl</catchphrase>
+<catchphrase "id=c1">debit cards and credit cards</catchphrase>
+<catchphrase "id=c2">statutory prohibition on a person sending out a card to a current cardholder unless it was a "card of the same kind" and certain other conditions were met</catchphrase>
+<catchphrase "id=c3">westpac sent "westpac debit mastercard" cards to holders of "westpac handycards"</catchphrase>
+<catchphrase "id=c4">customer could only use handycard to withdraw money from atm or eftpos or to make purchases by entering personal identification number (pin)</catchphrase>
+<catchphrase "id=c5">debit mastercard card differed from handycard because it (1) allowed customers to make purchases without entering pin number (over internet, post or telephone) and (2) it was able to be used more widely</catchphrase>
+<catchphrase "id=c6">australian securities and investments commission alleged that the ability to make purchases without entering a pin increased the likelihood of fraud, thus conflicting with the consumer protection purpose of the section</catchphrase>
+<catchphrase "id=c7">instances of fraud trivial compared to overall use</catchphrase>
+<catchphrase "id=c8">other suggested differences did not change essential nature of cards as debit cards</catchphrase>
+<catchphrase "id=c9">provision imposing criminal and civil liability</catchphrase>
+<catchphrase "id=c10">purposive construction</catchphrase>
+<catchphrase "id=c11">consumer protection provisions</catchphrase>
+<catchphrase "id=c12">caution in imposing wider construction that expands meaning of criminal provision</catchphrase>
+<catchphrase "id=c13">relevance of headings in an act</catchphrase>
+<catchphrase "id=c14">heading should be taken into account, but must not impose an unnaturally constricted or expanded meaning</catchphrase>
+<catchphrase "id=c15">relevance of earlier, now repealed, legislation</catchphrase>
+<catchphrase "id=c16">where earlier legislation was differently worded, and current legislation is clear, past legislation should not guide meaning</catchphrase>
+<catchphrase "id=c17">banking and finance</catchphrase>
+<catchphrase "id=c18">statutes</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ The question posed by these proceedings is whether a debit card with additional functions is "... a card of the same kind" when it is provided by a bank to an existing customer in substitution for his or her existing debit card with less functions.</sentence>
+<sentence id="s1">This involves the proper construction of s 12DL of the Australian Securities and Investments Commission Act 2001 (Cth) .</sentence>
+<sentence id="s2">THE FACTUAL CONTEXT 
+ (a) Handycards
+ Westpac Banking Corporation is one of the larger banks in Australia.</sentence>
+<sentence id="s3">In early 2009 it had on issue to its customers and their nominees over 2,500,000 debit cards, called Westpac Handycards.</sentence>
+<sentence id="s4">Westpac first issued Handycards in the early 1980s as a proprietary debit card.</sentence>
+<sentence id="s5">These were used to access funds in a customer's account with Westpac.</sentence>
+<sentence id="s6">Handycards are always used by the cardholder entering a personal identification number, known as a "PIN", into either an Australian electronic funds transfer point of sale (known as "EFTPOS") machine or terminal or into an automatic teller machine (known as an "ATM") both domestically and internationally.</sentence>
+<sentence id="s7">Ordinarily, when a customer uses his or her Handycard in an EFTPOS or ATM transaction, he or she is linked, through computer networks, into his or her account at Westpac.</sentence>
+<sentence id="s8">The customer then uses his or her PIN and draws on funds within, either, a credit balance or an approved overdraft limit to pay a supplier at its premises using EFTPOS, for goods or services or to obtain cash using either EFTPOS or an ATM.</sentence>
+<sentence id="s9">The Handycards work in ATMs internationally because they function on the Cirrus system.</sentence>
+<sentence id="s10">This is a global ATM system operated by the MasterCard group.</sentence>
+<sentence id="s11">Cirrus links more than 20,000 financial institutions through 1.5 million ATMs in over 210 countries.</sentence>
+<sentence id="s12">(b) Debit MasterCards
+ Westpac identified about 900,000 of its Handycard customers who had a higher propensity to use their card in EFTPOS transactions.</sentence>
+<sentence id="s13">It decided to substitute a new card for those customers' Handycards.</sentence>
+<sentence id="s14">This was to be a Westpac Debit MasterCard.</sentence>
+<sentence id="s15">Westpac began sending the new card to its existing customers in early February 2009.</sentence>
+<sentence id="s16">It wrote telling them that the Handycard would expire and would be replaced with the new card that was enclosed.</sentence>
+<sentence id="s17">The letters differed depending on whether the Handycard was close to expiring in the ordinary course.</sentence>
+<sentence id="s18">Each letter enclosed a product disclosure statement for the new card dated 1 December 2008.</sentence>
+<sentence id="s19">The new card allows the customer to do what he or she did with their Handycard.</sentence>
+<sentence id="s20">However, the new card also has additional functions and can be used to access the customer's account in different ways to those with a Handycard.</sentence>
+<sentence id="s21">The Commission asserts that these differences mean that the new card is not "a card of the same kind" as the Handycard.</sentence>
+<sentence id="s22">The consequence of this argument is that Westpac will have committed criminal offences by sending debit cards to the over 424,000 Handycard holders who had received the new card by late May 2009.</sentence>
+<sentence id="s23">The Commission had first raised a concern of a possible contravention of s 12DL in a letter it sent to Westpac on 12 May 2009.</sentence>
+<sentence id="s24">After this the parties engaged in correspondence and meetings.</sentence>
+<sentence id="s25">Ultimately, on 6 August 2009, the Commission wrote to Westpac with the accusation that distribution of the new card to Westpac's Handybank customers "... is a clear breach of s 12DL ...".</sentence>
+<sentence id="s26">Westpac brought these proceedings seeking declarations that, in effect, what it had done was not a contravention of s 12DL.</sentence>
+<sentence id="s27">Following a number of directions hearings in which the Commission sought to identify the precise contravention of s 12DL that it alleged, it filed a cross-claim that pleaded the matters on which it relied.</sentence>
+<sentence id="s28">Westpac's defence to the cross claim narrowed the substance of the factual dispute which I will summarise below.</sentence>
+<sentence id="s29">THE DIFFERENCES BETWEEN A HANDYCARD AND A DEBIT MASTERCARD 
+ Two detailed affidavits were made by Scott Southall, Westpac's general manager, deposits, cards and merchants.</sentence>
+<sentence id="s30">These explained the operation of the two types of card and the individual and commercial contexts in which they are used.</sentence>
+<sentence id="s31">Mr Southall also set out the evolutionary development of functionality and applications for the two types of card that has occurred in response to developments in technology, regulation, financial and banking systems.</sentence>
+<sentence id="s32">He explained, for example, that in 1980 when ATMs were first used, a cardholder could only gain access to his or her account by using an ATM of the card issuer.</sentence>
+<sentence id="s33">This is a constraint on usage unrecognisable in today's world.</sentence>
+<sentence id="s34">Now, banks and other financial networks, including MasterCard, have established linkages and networks that give cardholders of one issuing financial institution access to their accounts on ATMs and EFTPOS machines including those of many other financial institutions throughout Australia, and to many ATMs internationally.</sentence>
+<sentence id="s35">Mr Southall said that payment systems are continually evolving.</sentence>
+<sentence id="s36">There is no factual dispute about the differences between the functions of the Handycard and those of the new card.</sentence>
+<sentence id="s37">The real issue is the proper construction of s 12DL in light of these differences.</sentence>
+<sentence id="s38">The differences are: 
+ (1) the standards prescribed for each of the EFTPOS and the ATM networks differed from the standards to which the MasterCard network was subject;
+ 
+ (2) if the customer uses a Handycard, Westpac must pay the merchant an interchange fee of up to about 5&#162; per transaction for accessing the EFTPOS network.</sentence>
+<sentence id="s39">In contrast, if the customer uses the new card for the same purpose, the merchant, through its financial institution, must pay Westpac 12&#162; per transaction;
+ 
+ (3) the new card can be used by the holder in the following additional ways that the Handycard cannot:
+ 
+ (a) to access the MasterCard network in Australia and internationally;
+ 
+ (b) to access his or her account without the cardholder being personally present with, or having the card with him or her, while entering his or her PIN into an EFTPOS or ATM machine.</sentence>
+<sentence id="s40">In particular the new card can be used by the customer in postal communications, by telephone and online;
+ 
+ (c) to exceed an upper daily transaction limit when it is used on an EFTPOS terminal linked to the MasterCard network, when a MasterCard merchant processes a transaction manually, and for certain interest fees and charges.</sentence>
+<sentence id="s41">However, the Handycard can also be used to exceed that limit at an EFTPOS terminal if a terminal or communications system is not working.</sentence>
+<sentence id="s42">Difference (1) --- Standards
+ While there is a difference in standards governing the two cards, the Commission did not contend that this was of any present significance.</sentence>
+<sentence id="s43">The Australian ATM system comprises a series of bilateral communications links between financial institutions.</sentence>
+<sentence id="s44">The Australian Payments Clearing Association Ltd, known as "APCA" administers the regulatory and standards framework for both the EFTPOS network and the Australian ATM system.</sentence>
+<sentence id="s45">The EFTPOS debit card system, like a number of other financial systems that affect the operation of both cards, is regulated by the Reserve Bank of Australia.</sentence>
+<sentence id="s46">It is designated as a payment system under the Payment Systems (Regulation) Act 1998 (Cth).</sentence>
+<sentence id="s47">In June 2008 Philip Low, the Assistant Governor (Financial Systems) of the Reserve Bank flagged the need for the financial system industry to consider changes to the EFTPOS system, including developing alternative payment methods for use in online payments so as to create "... an effective competitor to the international card schemes".</sentence>
+<sentence id="s48">The Reserve Bank has determined an access scheme and standards to set interchange fees for that system.</sentence>
+<sentence id="s49">The MasterCard debit card system is not directly subject to the Reserve Bank's EFTPOS access scheme and standards.</sentence>
+<sentence id="s50">However, MasterCard has provided the Reserve Bank with an undertaking governing the use of a debit MasterCard card, on terms that the Commission has not suggested creates any substantive difference.</sentence>
+<sentence id="s51">Westpac customers can use the new card in the same way as they did with their Handycards to access the EFTPOS system, ATMs and their existing Westpac accounts.</sentence>
+<sentence id="s52">However, they can also access additional outlets with the new card and can do so in different ways.</sentence>
+<sentence id="s53">And the Handycards can be used at any overseas ATM that is linked to MasterCard's global network.</sentence>
+<sentence id="s54">Difference (2) --- Interchange fees
+ The Commission does not assert that the difference in incidence of interchange fees caused any change of merchant behaviour (such as passing on the fee).</sentence>
+<sentence id="s55">But, it claims that this cost transfer creates a future potential to increase the cost of the new card to the cardholder (XC par 6b).</sentence>
+<sentence id="s56">In late November 2009, the Reserve Bank announced that it had decided to amend the EFTPOS interchange fees standard.</sentence>
+<sentence id="s57">The Reserve Bank stated that this would introduce a standard cap on the weighted average of any multilateral interchange fees (such as apply to the new card) in the EFTPOS system at the same level of 12 cents per transaction as applied to the scheme governing debit card payment systems such as MasterCard's.</sentence>
+<sentence id="s58">The Reserve Bank left the bilateral interchange fee payable to the acquirer (ie merchant) unchanged at 4 to 5 cents per transaction.</sentence>
+<sentence id="s59">The Reserve Bank said that those charges were "... intended to facilitate and stimulate competition between EFTPOS and the scheme debit systems".</sentence>
+<sentence id="s60">Difference (3) --- Greater Access
+ There is no question that the new card offers the customer a significantly increased number of circumstances in which he or she can use a debit card to gain access to his or her account.</sentence>
+<sentence id="s61">Additionally, the new card is accepted by more merchants and in more locations than the Handycard, and overseas merchants do not accept Handycards.</sentence>
+<sentence id="s62">Difference (4) --- Card not present transactions
+ The Commission argues that because the new card can be used to access the cardholder's account without him or her being present, and without using the PIN, the cardholder is more vulnerable to a third party, such as a member of a family or household, misusing the card and committing a fraud on the cardholder.</sentence>
+<sentence id="s63">The Commission asserted that because someone other than the cardholder could use the new card over the telephone, in a letter or on the internet, a key feature of, and protection offered by, the Handycard was not available with the new card.</sentence>
+<sentence id="s64">It claimed that the need for a Handycard holder to use the card at an EFTPOS machine or ATM with a PIN was a safeguard.</sentence>
+<sentence id="s65">In contrast, the new card can also be used without the cardholder being present (e.g.</sentence>
+<sentence id="s66">by writing its details in a letter, giving them over the telephone or entering them in an online transaction).</sentence>
+<sentence id="s67">The Commission said the new card thus increased the risk of fraud to which the cardholder could be exposed.</sentence>
+<sentence id="s68">It argued that the purpose of s 12DL was to prevent a cardholder, who had not made a prior request for it in writing, being given such a card because it was not "of the same kind".</sentence>
+<sentence id="s69">Westpac's product disclosure statements set out the terms and conditions governing its and its personal customer's rights and liabilities for deposit accounts.</sentence>
+<sentence id="s70">These have applied in the past and continue to apply to the use of means of access such as both Handycards and, now, the new card.</sentence>
+<sentence id="s71">The product disclosure statements stated that Westpac had the right to change the terms and conditions that applied to the customer's accounts and "your account access channels (e.g.</sentence>
+<sentence id="s72">Telephone Banking, Internet Banking, Handycard access etc)".</sentence>
+<sentence id="s73">These also required the cardholder to notify Westpac immediately if their card or PIN record were lost or stolen or they suspected that unauthorised transactions had been made on any account.</sentence>
+<sentence id="s74">Importantly, the terms and conditions applicable to both a Handycard and a Debit MasterCard card provided that the cardholder would not be liable for losses resulting from unauthorised transactions where it was clear that the cardholder had not contributed to the loss.</sentence>
+<sentence id="s75">As Mr Southall explained, the effect of all the terms and conditions allocating contractual liability for unauthorised transactions involving use of a Handycard and a Debit MasterCard is substantively the same.</sentence>
+<sentence id="s76">THE STATUTORY SCHEME 
+ The provisions of s 12DL are critical to the resolution of these proceedings.</sentence>
+<sentence id="s77">It is contained in Pt 2 Div 2 of the Act within subdivision D which is headed "Consumer protection".</sentence>
+<sentence id="s78">The section provides: 
+ 
+ "12DL Unsolicited credit cards and debit cards 
+ 
+
+ 
+ 
+ (1) A person must not send another person (the targeted person ) a credit card or a debit card except in accordance with subsection (2).</sentence>
+<sentence id="s79">
+ 
+
+ 
+ 
+ Note: Failure to comply with this subsection is an offence (see section 12GB).</sentence>
+<sentence id="s80">
+ 
+
+ 
+ 
+ (2) A person may send the targeted person the card: 
+ 
+
+ 
+ 
+ (a) in pursuance of a request in writing by the person (the liable person ) who will be under a liability to the issuer of the card in respect of the use of the card; or
+ (b) in renewal or replacement of, or in substitution for:
+ (i) a card of the same kind previously sent to the targeted person in pursuance of a request in writing by the liable person to the issuer of the previous card; or
+ (ii) a card of the same kind previously sent to the targeted person and used for a purpose for which it was intended to be used.</sentence>
+<sentence id="s81">
+ 
+
+ 
+ 
+ Note: A defendant bears an evidential burden in relation to the matter in this subsection, see subsection 13.3(3) of the Criminal Code .</sentence>
+<sentence id="s82">
+ 
+
+ 
+ 
+ (3) Subsection (1) applies only in relation to the sending of a card by or on behalf of the issuer of the card.</sentence>
+<sentence id="s83">
+ 
+
+ 
+ 
+ (4) A person must not take any action that enables:
+ (a) another person who has a credit card to use the card as a debit card; or
+ (b) another person who has a debit card to use the card as a credit card; 
+ 
+
+ 
+ 
+ except in accordance with a request in writing by the other person.</sentence>
+<sentence id="s84">
+ 
+
+ 
+ 
+ Note: Failure to comply with this subsection is an offence (see section 12GB).</sentence>
+<sentence id="s85">
+ 
+
+ 
+ 
+ (4A) An offence under subsection 12GB(1) relating to subsection (1) or (4) of this section is an offence of strict liability.</sentence>
+<sentence id="s86">
+ 
+
+ 
+ 
+ Note: For strict liability , see section 6.1 of the Criminal Code .</sentence>
+<sentence id="s87">
+ 
+
+ 
+ 
+ (5) In this section: 
+ 
+
+ 
+ 
+ article includes a token, card or document.</sentence>
+<sentence id="s88">
+ 
+
+ 
+ 
+ credit card means an article that: 
+ 
+
+ 
+ 
+ (a) is of a kind described in one or more of the following subparagraphs:
+ (i) an article of a kind commonly known as a credit card;
+ (ii) a similar article intended for use in obtaining cash, goods or services on credit;
+ (iii) an article of a kind that persons carrying on business commonly issue to their customers or prospective customers for use in obtaining goods or services from those persons on credit; and 
+ 
+
+ 
+ 
+ (b) is part of, or provides access to, a credit facility that is a financial product; 
+ 
+
+ 
+ 
+ or an article that may be used as an article referred to in paragraphs (a) and (b).</sentence>
+<sentence id="s89">
+ 
+
+ 
+ 
+ debit card means: 
+ 
+
+ 
+ 
+ (a) an article intended for use by a person in obtaining access to an account that is:
+ (i) held by the person for the purpose of withdrawing or depositing cash or obtaining goods or services; and
+ (ii) a financial product; or 
+ 
+
+ 
+ 
+ (b) an article that may be used as an article referred to in paragraph (a).</sentence>
+<sentence id="s90">" 
+ 
+
+ THE COMMISSION'S CASE 
+ The Commission argued that because s 12DL is in a subdivision of the Act headed "Consumer protection" it should be construed purposively from that perspective.</sentence>
+<sentence id="s91">It argued that the section afforded protection to consumers by prohibiting persons sending them credit or debit cards that had not been requested by the consumer in writing.</sentence>
+<sentence id="s92">The Commission contended that s 12DL(2)(b)(ii) should be construed narrowly because it permitted a person to send renewed, replaced or substitute cards without that safeguard of a request in writing.</sentence>
+<sentence id="s93">It contended that this view also was supported by earlier, repealed predecessors of s 12DL.</sentence>
+<sentence id="s94">The Commission accepted that because a card could be sent in substitution for another of the same kind, the substitute did not have to be identical with the original card.</sentence>
+<sentence id="s95">But, it argued that the words "of the same kind" in s 12DL(2) should be construed as meaning "substantially of the same nature or type" following the view of Young J on that expression as used in s 4(1) of the Futures Industry (NSW) Code in Corporate Affairs Commission (NSW) v Lombard Nash International Pty Ltd (1986) 11 ACLR 566 at 569-570.</sentence>
+<sentence id="s96">The Commission argued that the word "kind" in s 12DL(2) did not relate back to just whether the card was a credit card or a debit card.</sentence>
+<sentence id="s97">This was because, it said, the definitions in s 12DL(5) did not create a bright line distinction between the two terms; indeed each card could have features of the other within their defined meanings.</sentence>
+<sentence id="s98">Thus, the Commission contended, one had to consider the functionality of each card in order to ascertain whether the cards were "of the same kind".</sentence>
+<sentence id="s99">This was a question of fact and degree.</sentence>
+<sentence id="s100">The Commission argued that the functionality of a Handycard was more limited than the new card.</sentence>
+<sentence id="s101">It said that the Handycard was used in a straightforward, simple manner requiring personal presence of the card holder and the use of his or her PIN to access the person's account at only two types of entry points, namely on EFTPOS or ATM machines.</sentence>
+<sentence id="s102">The Commission argued that this functionality was substantively different in kind to the broader range offered by the new card.</sentence>
+<sentence id="s103">It argued that because the new card could access different payment systems and be used by mail, over the telephone or on the internet, the risk of its unauthorised use was greater than that for a Handycard.</sentence>
+<sentence id="s104">It contended that these features amounted to a difference in kind.</sentence>
+<sentence id="s105">CONSIDERATION 
+ The construction of s 12DL must be approached having regard to its dual operation as a section that imposes both criminal and civil liability for a contravention of either s 12DL(1) or (4).</sentence>
+<sentence id="s106">The heading to the subdivision in the Act of which s 12DL forms part is headed "Consumer protection".</sentence>
+<sentence id="s107">That heading provides part of the context in which the substantive provisions of Subdiv D of Div 2 of Pt 2 of the Act must be construed: s 13 of the Acts Interpretation Act 1901 (Cth).</sentence>
+<sentence id="s108">The heading should be taken into consideration in determining the meaning of those sections in cases of ambiguity.</sentence>
+<sentence id="s109">However, as Mason CJ, Deane, Dawson and Gaudron JJ cautioned in Concrete Constructions (NSW) Pty Ltd v Nelson [1990] HCA 17 ; (1990) 169 CLR 594 at 601, the heading does not control the permissible scope of the substantive provisions within the subdivision in the Act.</sentence>
+<sentence id="s110">The heading cannot properly be used to impose an unnaturally constricted or expanded meaning upon the words of those substantive provisions: cf Concrete Constructions 169 CLR at 601-602, 603-604.</sentence>
+<sentence id="s111">Another important contextual feature that must be considered in construing s 12DL is its imposition of strict criminal liability for a contravention of each of s 12DL(1) or (4).</sentence>
+<sentence id="s112">This feature cautions against (but does not always exclude) the adoption of an expansive construction of narrower, but clear words.</sentence>
+<sentence id="s113">However, as Gleeson CJ, Gummow, Hayne and Heydon JJ said in Stevens v Kabushiki Kaisha Sony Computer Entertainment [2005] HCA 58 ; (2005) 224 CLR 193 at 210-211 [45] : 
+ 
+ "... in choosing between a relatively broad and a relatively narrow construction of legislation, it is desirable to take into account its penal character.</sentence>
+<sentence id="s114">The present litigation does not arise from the institution of criminal proceedings under the offence provisions now contained particularly in s 132 of the Act.</sentence>
+<sentence id="s115">However, a person who makes or sells a circumvention device (s 132(5B)) is liable to imprisonment for not more than five years (s 132(6A)).</sentence>
+<sentence id="s116">An appreciation of the heavy hand that may be brought down by the criminal law suggests the need for caution in accepting any loose, albeit "practical", construction of Div 2A itself.</sentence>
+<sentence id="s117">" (emphasis added) 
+ 
+
+ The initial prohibition in s 12DL(1) applies to an issuer of a card (by dint of s 12DL(3)) sending one or other of the two cards defined in s 12DL(5), unless the person sends the card in accordance with s 12DL(2).</sentence>
+<sentence id="s118">When the chapeau to s 12DL(2) refers to "the card", it identifies the particular card sent to which s 12DL(1) applies.</sentence>
+<sentence id="s119">That is, "the card" in the chapeau to s 12DL(2) is either one or other of a credit card or a debit card as defined in s 12DL(5).</sentence>
+<sentence id="s120">A significant feature of s 12DL(2)(b)(ii) is that the card sent may be in renewal, or replacement of, or in substitution for, "a card of the same kind" that has two other characteristics; first, that "a card of the same kind" had been sent previously to the person concerned and, secondly, it (the last mentioned card) had been used for "a purpose for which it was intended to be used".</sentence>
+<sentence id="s121">The three purposes specified at the commencement of para (b) in s 12DL(2) must each be given a distinct meaning and operation.</sentence>
+<sentence id="s122">This is because the Court must strive to give meaning to every word of the provision and construe it, if possible, so as to give effect to harmonious goals: Project Blue Sky Inc v Australian Broadcasting Authority (1998) 194 CLR 355 at 381-382 [69]-[71] per McHugh, Gummow, Kirby and Hayne JJ.</sentence>
+<sentence id="s123">A renewal of a card ordinarily will occur close to the expiry date of the credit or debit card.</sentence>
+<sentence id="s124">By renewing the card, the issuer creates a new expiry date for the card.</sentence>
+<sentence id="s125">A replacement card ordinarily would be one sent to take the place of a card that had been lost by or stolen from the cardholder.</sentence>
+<sentence id="s126">A card in substitution for an existing card is different, again, from a renewed or replacement card.</sentence>
+<sentence id="s127">A substitute is not normally an exact replica.</sentence>
+<sentence id="s128">Often a substitute will have different characteristics, even though it will be able to take the place of the original.</sentence>
+<sentence id="s129">The Oxford English Dictionary defines "substitution" as including "the putting of one ... thing in place of another" and "replacement (of one thing) by another".</sentence>
+<sentence id="s130">Suppose that on renewal, a renewed debit card has a significant new security feature offering the cardholder extra protection that the expired debit card did not have.</sentence>
+<sentence id="s131">Or suppose that because of improvements in technology a completely new payment system allowed the renewed card to be used in many more locations, but with the same security features as the expiring card.</sentence>
+<sentence id="s132">If the Commission's contentions were correct, the presence of the new security feature or the functionality with the new payment system would mean that the card was not "of the same kind" as the expiring card.</sentence>
+<sentence id="s133">I reject that argument.</sentence>
+<sentence id="s134">The expression "of the same kind" does not require that the previous and later cards are absolutely identical.</sentence>
+<sentence id="s135">A retail business will replace or substitute new goods for those it has sold.</sentence>
+<sentence id="s136">Sometimes suppliers of such goods discontinue production of a particular good or go out of business.</sentence>
+<sentence id="s137">The trader will often seek a replacement or substitute good that has some identity or characteristic in common with the unavailable product.</sentence>
+<sentence id="s138">The new good may be an improved version of the old with more functions or features, perhaps having shed others: cf the discussion in the dissenting judgments of Stephen J and Aickin J in Federal Commissioner of Taxation v St Hubert's Island Pty Ltd (In Liq) [1978] HCA 10 ; (1978) 138 CLR 210 at 218 and 242-243.</sentence>
+<sentence id="s139">The context and the characteristics or properties of the original and the substitute can assist in ascertaining whether what is put forward is truly a substitution for what was originally there.</sentence>
+<sentence id="s140">Usually, it will be a question of fact whether a substitution or something more radical has occurred in a given case.</sentence>
+<sentence id="s141">In competition law, s 4E of the Trade Practices Act 1974 (Cth) provides a definition of a market as including a market for the particular goods or services under consideration "and other goods or services that are substitutable for ..." the former.</sentence>
+<sentence id="s142">Yet, the mere fact that a consumer will on occasion purchase tea instead of coffee does not necessarily mean that because of that substitution tea and coffee cannot be distinct goods with their own separate markets.</sentence>
+<sentence id="s143">On the other hand, it maybe that, if the relevant market is the hot beverage market, they will be substitutes; hence the importance of the context in which substitution is assessed: cp Arnotts Ltd v Trade Practices Commission (1990) 24 FCR 313 at 332 per Lockhart, Wilcox and Gummow JJ; Queensland Wire Industries Pty Ltd v Broken Hill Proprietary Co Ltd [1989] HCA 6 ; (1989) 167 CLR 177 at 188 per Mason CJ and Wilson J.</sentence>
+<sentence id="s144">The three purposes for which a new card may be sent under s 12DL(2)(b) are qualified by the requirements in subparagraphs (i) and (ii) that it be "a card of the same kind previously sent to the targeted person", with one of the two further qualifications given in each provision.</sentence>
+<sentence id="s145">Those two further qualifications operate in two different scenarios.</sentence>
+<sentence id="s146">In s 12DL(2)(b)(i) the person liable to the issuer of the previous card (e.g.</sentence>
+<sentence id="s147">Westpac's customer) must have made a request in writing to the issuer to send the person that (previous) card.</sentence>
+<sentence id="s148">The recipient of the previous card could be both the customer or a cardholder nominated by the customer (such as a spouse, partner or child).</sentence>
+<sentence id="s149">This qualification requires that the customer and other recipient have a pre-existing relationship established by an earlier request in writing from the customer for the previous card.</sentence>
+<sentence id="s150">These relationships may have existed for many years, and may have originated before s 12DL and its statutory predecessors applied to it so it may be that no such written request exists.</sentence>
+<sentence id="s151">One evident purpose of s 12DL(2)(b)(ii) is to cater for an existing consensual relationship.</sentence>
+<sentence id="s152">It provides that the previous card actually must have been used for a purpose for which it was intended to be used.</sentence>
+<sentence id="s153">So, if a cardholder nominated by a customer has used the previous card appropriately, that use will create a sufficient relationship with the issuer to justify the sending of the later card.</sentence>
+<sentence id="s154">Importantly, the use made of the previous card does not have to exhaust or cover the range of functions or features of the card; one use or one method of use for the permitted purpose is all that s 12DL(2)(b)(ii) requires.</sentence>
+<sentence id="s155">The concept of use of a card also relates to the definitions of credit and debit cards in s 12DL(5).</sentence>
+<sentence id="s156">Those definitions are very broad and, partly, draw upon the ordinary English meaning of a credit card and a debit card.</sentence>
+<sentence id="s157">A credit card is used to borrow from or create a debt to the issuer for which the customer is liable.</sentence>
+<sentence id="s158">When a use of a credit card creates a liability of the customer, he or she will also become liable to the issuer for interest on the funds that the customer has obtained on credit.</sentence>
+<sentence id="s159">In contrast, a debit card is used to obtain access to the customer's own money held or owed by the issuer.</sentence>
+<sentence id="s160">The definitions of each type of card also include a card "that may be used as [a card] referred to" in the prior parts of the definition.</sentence>
+<sentence id="s161">This is a significant indication in s 12DL that individual uses within the range of uses to which a particular card may be put are different from the "kind" of card that is referred to in s 12DL(2)(b)(i) and (ii).</sentence>
+<sentence id="s162">However, as s 12DL(4) recognises, it is possible to use a credit card as a debit card and vice versa.</sentence>
+<sentence id="s163">That subsection prohibits any person, (not just the issuer of the card affected by the operation of s 12DL(1), (2) and (3)), from transforming the capacity of the particular card to be used into, or so as to include use as, a card of the other kind unless the cardholder (not just the customer or person liable) makes a request to the person in writing.</sentence>
+<sentence id="s164">This protective function, prevents a significant addition of a very different use that would change the defining characteristic of the operation of the card without the cardholder making a written request for that change.</sentence>
+<sentence id="s165">Of course, if such a change has been authorised, a card that can be used dually as a credit and debit card, will be able to be renewed, replaced or substituted by sending the cardholder "a card of the same kind" as referred to in s 12DL(2)(b).</sentence>
+<sentence id="s166">The Commission also relied in support of its narrow construction of "a card of the same kind" on earlier and significantly different versions of s 12DL in which that expression appeared in a subsection similar to the present s 12DL(2).</sentence>
+<sentence id="s167">The earlier versions created an offence in s 12DL(1) only in respect of debit cards and "an article that may be used as a debit card of that kind ".</sentence>
+<sentence id="s168">The emphasised words have no counterpart in the present s 12DL.</sentence>
+<sentence id="s169">I reject this argument.</sentence>
+<sentence id="s170">First, the predecessor versions of s 12DL had significantly different wording and operated differently.</sentence>
+<sentence id="s171">Secondly, because s 12DL in its present form is different to the previous versions, the relevant task of statutory construction is to construe the section as it now is.</sentence>
+<sentence id="s172">The previous wordings were in respect of differently expressed provisions, including the repealed offence created in the former version of s 12DL(1): cf McNamara v Consumer Trader and Tenancy Tribunal [2005] HCA 55 ; (2005) 221 CLR 646 at 661 [40] per McHugh, Gummow and Heydon JJ, Gleeson CJ agreeing at 650 [1].</sentence>
+<sentence id="s173">Thirdly, I am of opinion that the language of the present s 12DL is clear and the earlier versions do not elucidate its meaning.</sentence>
+<sentence id="s174">Fourthly, the earlier version of s 12DL(1) expressly referred to two separate types of debit card including one being "a debit card of the same kind" which may have had a relationship to the expression "card of the same kind" as then used in s 12DL(2).</sentence>
+<sentence id="s175">In addition, there was also a definition of "debit card".</sentence>
+<sentence id="s176">The absence in the present s 12DL of the expression "a debit card of that kind" demonstrates the irrelevance of the earlier legislation to the construction of the Act in its present form.</sentence>
+<sentence id="s177">The Commission also relied on complaint logs to argue that the new card was not regarded by Westpac's customers as a card of the same kind as their Handycard.</sentence>
+<sentence id="s178">A total of 740 complaints was recorded although it is not clear whether one complainant could have had more than one complaint recorded.</sentence>
+<sentence id="s179">In any event, the total number of complaints is inconsequential having regard to the fact that over 420,000 new cards were issued, the last over six months ago.</sentence>
+<sentence id="s180">Next the Commission relied on what it asserted were differences in reported fraudulent use of all Westpac debit cards in relation to the category "card not present" in the 12 quarters to September 2009.</sentence>
+<sentence id="s181">The Commission did not put forward any analysis to make good its assertion that this material was probative of the new card not being a card of the same kind as the Handycard.</sentence>
+<sentence id="s182">As a percentage of the total amount spent on the cards, the incidence of this fraudulent use varied quarter by quarter within a range, while the overall spending has been significantly increasing.</sentence>
+<sentence id="s183">The first three quarters in 2008 and 2009 show broadly similar percentages although they are all slightly less for 2009.</sentence>
+<sentence id="s184">In contrast the incidence of fraudulent use of a PIN is very much smaller.</sentence>
+<sentence id="s185">More importantly, in the "card not present" figures, the highest recorded total of fraudulent transactions was about $250,000 in the March 2009 quarter in respect of over $250 million worth of "card not present" transactions.</sentence>
+<sentence id="s186">In the succeeding two quarters the total corresponding figures for fraudulent transactions declined to about $180,000 of a total spend of over $410 million in the third quarter.</sentence>
+<sentence id="s187">I am unable to understand how these figures demonstrate that the new cards are not cards of the same kind as the Handycards the customers formerly held.</sentence>
+<sentence id="s188">The incidence of fraudulent use when a card was not present appears to be trivial in relation to the overall use of debit cards in this type of transaction.</sentence>
+<sentence id="s189">CONCLUSION 
+ I am of opinion that the defining characteristic of each "kind" of card in s 12DL(2) is the ability to use it for one particular purpose, whatever other functions or purposes it may have.</sentence>
+<sentence id="s190">That defining characteristic is either to obtain credit from the issuer for which the customer will be liable or to obtain access to the customer's funds from the issuer.</sentence>
+<sentence id="s191">The former characteristic means that the card is a credit card, the latter that it is a debit card.</sentence>
+<sentence id="s192">Additionally, the construction of s 12DL(2) favoured by the Commission would broaden the scope of the strict liability offence created by s 12DL(1) in a manner that strains the natural and ordinary meaning of "a card of the same kind" as referring to one or other of the two cards referred to in s 12DL(1).</sentence>
+<sentence id="s193">This invites a more cautious approach to the looser construction of this criminal provision than the Commission's contention: Stevens 224 CLR at 210-211 [45]; Australian Securities and Investments Commission v DB Management Pty Ltd [2000] HCA 7 ; (2000) 199 CLR 321 at 338 [34] - [35] per Gleeson CJ, Gaudron, Gummow, Hayne and Callinan JJ; and see too R v Adams [1935] HCA 62 ; (1935) 53 CLR 563 at 567-568 where Rich, Dixon, Evatt and McTiernan JJ said: 
+ 
+ "No doubt, in determining whether an offence has been created or enlarged, the Court must be guided, as in other questions of interpretation, by the fair meaning of the language of the enactment, but when that language is capable of more than one meaning, or is vague or cloudy so that its denotation is uncertain and no sure conclusion can be reached by a consideration of the provisions and subject matter of the legislation, then it ought not to be construed as extending any penal category .</sentence>
+<sentence id="s194">" (emphasis added) 
+ 
+
+ Here, each of the Handycard and the new card (the debit MasterCard card) is a debit card within the meaning of s 12DL(5).</sentence>
+<sentence id="s195">Each card is intended for use by a person to obtain access to an account he or she (or the person who nominated him or her to receive the card) holds for the purpose of withdrawing cash or obtaining goods or services.</sentence>
+<sentence id="s196">A person who has received a new card from Westpac will be able to use it at least for all the purposes he or she used the earlier Handycard.</sentence>
+<sentence id="s197">I am of opinion that the extra functionality permitting use by mail, telephone and on the internet and the wider range of places at which the new card may be used, whether considered individually or together, do not change or deny the nature of the new card as a debit card.</sentence>
+<sentence id="s198">The new card is, in the natural and ordinary meaning of s 12DL(2)(b), a card of the same kind as the Handycard.</sentence>
+<sentence id="s199">And, it offers contractual protection of the customer from misuse of the card by others of the same kind as the Handycard.</sentence>
+<sentence id="s200">This is because the terms of the product disclosure statements so provide.</sentence>
+<sentence id="s201">There is no lessening of the protection of consumers intended by the Parliament provided by this construction.</sentence>
+<sentence id="s202">The Parliament sought to guard against them being sent a credit card or a debit that they had never sought.</sentence>
+<sentence id="s203">But, it was not the intention of the Act to constrain the relationship between an issuer of a card and its customer by preventing the issuer updating the particular kind of card (i.e.</sentence>
+<sentence id="s204">a credit or debit card) with the latest version of that kind of card.</sentence>
+<sentence id="s205">The more is this likely given the context in which s 12DL has taken its present form of a period of rapid technological growth and the continuing evolution of financial systems.</sentence>
+<sentence id="s206">For these reasons, I am of opinion that Westpac is entitled to relief and that the Commission's cross-claim fails.</sentence>
+<sentence id="s207">I have in mind making a declaration and orders to the following effect: 
+ (a) Declare that:
+ 
+ 1.</sentence>
+<sentence id="s208">By sending a Westpac Debit MasterCard card to its existing Handycard holders who had used their Handycard for a purpose for which it was intended to be used, the applicant sent each such cardholder the Debit MasterCard card in renewal or replacement of, or in substitution for, a card of the same kind previously sent to him or her, being the person's Handycard, for the purposes, and within the meaning, of s 12DL of the Australian Securities and Investments Commission Act 2001 (Cth).</sentence>
+<sentence id="s209">(b) Order that:
+ 
+ 2.</sentence>
+<sentence id="s210">The cross-claim be dismissed.</sentence>
+<sentence id="s211">However, I will give the parties the opportunity to consider whether these are appropriate and sufficient having regard to my reasons.</sentence>
+<sentence id="s212">The parties should bring in short minutes of order so that I can grant final relief in the most appropriate form.</sentence>
+<sentence id="s213">I certify that the preceding forty-nine (49) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Rares.</sentence>
+<sentence id="s214">Associate:
+ 
+ 
+Dated: 15 December 2009
+ 
+ Counsel for the Applicant: B Walker SC with P Kulevski 
+ 
+ Solicitor for the Applicant: Mallesons Stephen Jacques 
+ 
+ Counsel for the Respondent: M Walton SC with D Hogan-Doran and J Shepard 
+ Date of Hearing: 8 December 2009 
+ 
+ Date of Judgment: 15 December 2009 
+ 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1506.html 
+ 
+ </sentence>
+</sentences>
+</case>

@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<case>
+<name>Beconwood Securities Pty Ltd v Australia and New Zealand Banking Group Limited (includes corrigendum dated 14 May 2008) [2008] FCA 594 (2 May 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/594.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">securities lending agreement</catchphrase>
+<catchphrase "id=c1">contract to lend shares</catchphrase>
+<catchphrase "id=c2">ownership of shares</catchphrase>
+<catchphrase "id=c3">whether securities lending agreement constitutes secured loan or purchase-and-sale</catchphrase>
+<catchphrase "id=c4">whether reference may be had to economic effect of transaction in determining legal character</catchphrase>
+<catchphrase "id=c5">whether contract is to be construed with reference to its purpose, background, context, and market</catchphrase>
+<catchphrase "id=c6">whether same contract may be construed differently if entered into in different market or by different participants</catchphrase>
+<catchphrase "id=c7">implied term</catchphrase>
+<catchphrase "id=c8">whether it is reasonable and equitable to imply a term requiring shares acquired to be held and retained</catchphrase>
+<catchphrase "id=c9">whether administrator or receiver is analogous to liquidator</catchphrase>
+<catchphrase "id=c10">claim for equitable interest in shares transferred on documents purporting to give full title to broker</catchphrase>
+<catchphrase "id=c11">whether equity of redemption can exist after outright transfer of title</catchphrase>
+<catchphrase "id=c12">whether equitable charge over undefined shares may exist absent appropriation</catchphrase>
+<catchphrase "id=c13">charge</catchphrase>
+<catchphrase "id=c14">credit risk</catchphrase>
+<catchphrase "id=c15">margin</catchphrase>
+<catchphrase "id=c16">mortgage</catchphrase>
+<catchphrase "id=c17">repo</catchphrase>
+<catchphrase "id=c18">securities lending</catchphrase>
+<catchphrase "id=c19">contract</catchphrase>
+<catchphrase "id=c20">corporations</catchphrase>
+<catchphrase "id=c21">equity</catchphrase>
+<catchphrase "id=c22">words and phrases</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ The Dispute
+ The importance of this case is evident from the number of claims dependent upon its resolution.</sentence>
+<sentence id="s1">However, the question in issue in this hearing is only one of several that arise in the dispute between the plaintiffs, Beconwood Securities Pty Ltd and Beconwood Ltd (collectively Beconwood), their broker, the second defendant, Opes Prime Stockbroking Ltd (Receivers and Managers appointed) (Administrators appointed) (OPS) and one of its bankers, the first defendant, Australia and New Zealand Banking Group Ltd (ANZ).</sentence>
+<sentence id="s2">The question involves the construction of an agreement, entitled "Securities Lending and Borrowing Agreement" (SLA), that was entered into between Beconwood and OPS.</sentence>
+<sentence id="s3">Under that agreement Beconwood transferred shares to Green Frog Nominees Pty Ltd, a company related to OPS, in return for funds.</sentence>
+<sentence id="s4">The funds advanced to Beconwood were obtained from ANZ.</sentence>
+<sentence id="s5">In due course the shares held by Green Frog were transferred to the fifth defendant, ANZ Nominees Ltd, and held for ANZ.</sentence>
+<sentence id="s6">Beconwood contends that it has a security interest in the shares still held by ANZ Nominees.</sentence>
+<sentence id="s7">It founds this contention on a number of bases, only two of which are presently relevant.</sentence>
+<sentence id="s8">First Beconwood says that, on its true construction, the legal effect of the SLA is to create a mortgage of its shares in favour of OPS with the consequence that the shares can be redeemed on repayment of the money received from OPS.</sentence>
+<sentence id="s9">The second basis is that Beconwood has an equitable charge over the shares.</sentence>
+<sentence id="s10">If it is successful on either count Beconwood says that its interest as mortgagor or chargee (as the case may be) has priority over ANZ's legal title.</sentence>
+<sentence id="s11">(For purposes of determining priority ANZ is to be treated as holding the legal estate: Macmillan Inc v Bishopsgate Investment Trust Plc (No 3) [1995] 1 WLR 978, 1001.</sentence>
+<sentence id="s12">) Whether Beconwood's claimed equitable estate has priority over ANZ's legal estate will, if necessary, be decided on another day.</sentence>
+<sentence id="s13">Securities Lending
+ By way of background, it is appropriate to say something about the business of securities lending.</sentence>
+<sentence id="s14">The description that follows is derived from a variety of sources, including: C Benjamin, Interests in Securities: A Proprietary Law Analysis of the International Securities Markets (2000); K Tyson-Quah (ed), Cross-Border Securities: Repo, Lending and Collateralisation (1997); F J Fabozzi (ed), Securities Lending &amp; Repurchase Agreements (1997); F J Fabozzi &amp; S V Mann (eds), Securities Finance: Securities Lending and Repurchase Agreements (2005); P Ali, The Law of Secured Finance: An International Survey of Security Interests over Personal Property (2002); M C Faulkner, "An Introduction to Securities Lending" (Spitalfields Advisors report, 3rd ed, 2006); M J Fleming &amp; K D Garbade, "The Specials Market for US Treasury Securities and the Federal Reserve's Securities Lending Program" (Federal Reserve Bank of New York draft working paper, 28 August 2003); Technical Committee of The International Organization of Securities Commissions, "Securities Lending Transactions: Market Development and Implications" (International Organization of Securities Commissions and Bank for International Settlements report, July 1999); G M D'Avolio, "Essays in Financial Economics" (PhD thesis, Harvard University, September 4 2003); affidavit of Natalie Floate, Chairman of the Australian Securities Lending Association (ASLA).</sentence>
+<sentence id="s15">Securities lending refers to the practice by which securities are transferred from one party (the lender) to another party (the borrower), with the borrower contractually obliged to redeliver to the lender at a later time securities which are equivalent in number and type.</sentence>
+<sentence id="s16">Securities lending is an important element of modern financial markets, playing a substantial role in promoting market liquidity and providing stability to securities settlement systems.</sentence>
+<sentence id="s17">Although the practice can be traced back to the 19th century, an active market for securities lending did not emerge until the 1960s.</sentence>
+<sentence id="s18">The market developed principally to accommodate two growing needs: first, to avoid settlement failure (stock market transactions had to be settled within a short period) and, secondly, to accommodate short selling (the practice of selling shares that the seller does not currently own in the hope of buying them in at a lower price and in the meantime acquiring shares to complete the sale).</sentence>
+<sentence id="s19">Securities lending was also spurred by more sophisticated forms of trading strategies, often involving derivatives, which require borrowed stock.</sentence>
+<sentence id="s20">For example, traders in equity options, indexed futures, equity return swaps and convertible bonds began selling short to either hedge their positions or exploit arbitrage opportunities.</sentence>
+<sentence id="s21">The modern securities lending market can, broadly speaking, be divided into two markets, one that is defined by the motive of the borrower (the "securities driven" market) and the other by the motive of the lender (the "cash driven" market).</sentence>
+<sentence id="s22">In the first category, which is the more common type of transaction, a borrower seeks access to specific securities, usually to cover exposure to a short position.</sentence>
+<sentence id="s23">In the second category, a lender of securities seeks access to cash, often for purposes of equity financing at interest rates which are better than the uncollateralised borrowing rate.</sentence>
+<sentence id="s24">Securities lending is typically structured in one of three ways: securities loan transactions, repurchase agreements and sell-buyback arrangements.</sentence>
+<sentence id="s25">While the legal forms of the transactions differ, the commercial purposes are the same.</sentence>
+<sentence id="s26">In a securities loan transaction in the securities driven market the lender transfers specific securities to the borrower who must return "equivalent securities" to the lender either on demand, on the occurrence of a defined event or at the end of an agreed term.</sentence>
+<sentence id="s27">The borrower: (1) obtains an outright transfer of title to the securities, which may then be sold or on-lent; (2) pays a fee for the use of the securities, calculated by reference to the value of the lent securities; and (3) provides collateral to the lender in the form of cash, other securities or other assets (eg government bonds, certificates of deposit, bank letters of credit), title to which passes to the lender.</sentence>
+<sentence id="s28">The value of the collateral exceeds the value of the borrowed securities, the difference in percentage terms being referred to as the "margin".</sentence>
+<sentence id="s29">At the conclusion of the transaction there is an exchange of "equivalent securities" for "equivalent collateral".</sentence>
+<sentence id="s30">In the event of default provision is made for placing a money value on each party's obligations, setting one off against the other, and, if there is a net balance, for payment of the balance.</sentence>
+<sentence id="s31">A securities loan in the cash driven market follows the same structure but with important differences.</sentence>
+<sentence id="s32">First, the collateral is always provided in the form of cash.</sentence>
+<sentence id="s33">Secondly, the amount of cash collateral is less than the value of the lent securities.</sentence>
+<sentence id="s34">And thirdly, the lender pays a fee, much like interest, calculated by using a discounted interest rate.</sentence>
+<sentence id="s35">By reason of these differences commentators and securities lending participants colloquially refer to the securities rather than the cash as the collateral.</sentence>
+<sentence id="s36">In a repurchase agreement (called a "repo"), the seller agrees to transfer securities to the buyer in exchange for a transfer of cash and the buyer of the securities agrees to sell back the same or equivalent securities at a different price on a future date.</sentence>
+<sentence id="s37">There are two kinds of repos: a general collateral repo and a special collateral repo.</sentence>
+<sentence id="s38">A general collateral repo, in which the seller is after cash and the buyer seeks securities of sufficient value as collateral, is a transaction in the cash driven market.</sentence>
+<sentence id="s39">The seller compensates the buyer for the use of the cash during the term of the repo by the differential (which essentially reflects a rate of interest) as well as by the securities being priced at below market.</sentence>
+<sentence id="s40">A special collateral repo, in which the buyer is after specific securities, is a transaction in the securities driven market.</sentence>
+<sentence id="s41">The buyer pays compensation by the securities being priced at above market.</sentence>
+<sentence id="s42">In a sell-buy back transaction, the sale and buy trades are entered into at the same time but the buy back settlement date is fixed at some future point.</sentence>
+<sentence id="s43">Risk
+ It should come as no surprise to the reader to learn that there are risks for those who participate in securities lending.</sentence>
+<sentence id="s44">The risks include: liquidity risk (counterparty not settling an obligation on time, often due to the inability to obtain securities for redelivery), market risk (adverse movements in the market price of assets), legal risk (unexpected application of a law or the inability to enforce a contract), operational risk (deficiencies in information systems or internal controls), settlement risk (completion or settlement of transactions failing), credit risk (counterparty not settling an obligation in full, either when due or at any time thereafter, often as a consequence of insolvency), principal risk (the primary form of credit risk that arises where either the securities or collateral are not delivered) and replacement cost risk (the secondary form of credit risk that arises where the non-defaulting party incurs costs in realising the value of assets).</sentence>
+<sentence id="s45">In this case credit risk is all important.</sentence>
+<sentence id="s46">Boiled down to its essence, a party's exposure to loss in the event of default is equal to the margin.</sentence>
+<sentence id="s47">That is to say, if the non-defaulting party is on the short side of the margin (ie the value of the assets delivered to him is less than the value of the assets provided) he will suffer a loss and, in the case of insolvency, be required to prove for the difference in the insolvency of the defaulting party.</sentence>
+<sentence id="s48">It is worthwhile pointing out that in other jurisdictions there is a regulatory and statutory framework that provides a measure of protection to investors that is lacking in Australia.</sentence>
+<sentence id="s49">In the United States, for example, the credit risk faced by parties is mitigated by a variety of provisions.</sentence>
+<sentence id="s50">First, the Securities and Exchange Commission (SEC) "strictly regulates the solvency and practices of registered broker-dealers pursuant to the Securities Exchange Act [SEA] of 1934": J Schroeder, "Repo Madness: The Characterization of Repurchase Agreements under the Bankruptcy Code and the UCC" (1996) 46 Syracuse Law Review 999 , 1041.</sentence>
+<sentence id="s51">Second, the conduct of brokers and, more specifically, the claims of investors in the event of a broker's insolvency, are governed by the Securities Investor Protection Act 1970 (US) (SIPA): see generally R Hakes, "UCC Article 8: Will the Indirect Holding of Securities Survive the Light of Day?</sentence>
+<sentence id="s52">" (2003) 35 Loyola of Los Angeles Law Review 661, 734-741; Schroeder at 1037-47; D Morse, "When a Securities Brokerage Firm Goes Broke: A Primer on the Securities Investment Protection Act of 1970" (2006) 25(2) American Bankruptcy Institute Journal 34.</sentence>
+<sentence id="s53">SIPA established a quasi-governmental organisation known as the Securities Investor Protection Corporation (SIPC).</sentence>
+<sentence id="s54">The SIPC has power to liquidate insolvent broker-dealers under SIPA (rather than under the Bankruptcy Code) and effectively insures certain investor claims for up to $500,000 per account: Schroeder at 1040.</sentence>
+<sentence id="s55">Although the SIPC has taken the position that creditors of insolvent brokers under securities lending agreements are not covered by its bail-out scheme, some courts have held otherwise: Schroeder at 1043-1046.</sentence>
+<sentence id="s56">The case law on this point is somewhat sparse, however, in part because of the success of the regulatory oversight scheme: Schroeder at 1041 (noting that out of 20,344 broker failures between 1970 and 1992, only 228 required the SIPC to step in to cover investor claims and that "[a]s a result, there is remarkably little reported case law" interpreting the relevant provisions).</sentence>
+<sentence id="s57">Although a SIPA liquidation is generally similar to a liquidation under the Bankruptcy Code, one interesting difference is that, unlike in a liquidation under the Bankruptcy Code, under SIPA the SIPC has the power to stay the set-off provisions of a securities lending agreement that would otherwise liquidate to a single sum the obligation of a broker in insolvency to redeliver equivalent securities.</sentence>
+<sentence id="s58">Instead, SIPA gives the SIPC the option, where feasible, to direct the trustee in liquidation to redeliver the equivalent securities, whether by purchasing them on the market or otherwise: Morse at 71.</sentence>
+<sentence id="s59">The net effect of the regulatory framework is that although a US securities lender may still be unsecured as to any difference in value between the cash obtained from the broker and the value of the securities provided, the risk is much less.</sentence>
+<sentence id="s60">Due to strict regulatory oversight of the broker, the lender can have some confidence that the broker will not suddenly fail (or, alternatively, that the SEC and SIPC will have notice before failure occurs and be able to address the situation before matters reach the stage they have in this case): Schroeder at 1041 ("The stringent reporting and auditing requirements of [the SEA] have been a successful early warning system which has allowed the SEC and SIPC to step in quickly and sell troubled broker-dealers' customer business to solvent broker-dealers before it is too late").</sentence>
+<sentence id="s61">The lender might also not unreasonably expect that he will be at least partially bailed out by the government even if the broker does fail.</sentence>
+<sentence id="s62">In other words, part of the answer to the credit risk problem may be that it is in fact not as much of a problem in other jurisdictions.</sentence>
+<sentence id="s63">Standard Agreements
+ By virtue of the significant increase in securities lending in the last several decades, standard documentation has been developed by leading trade associations.</sentence>
+<sentence id="s64">Of importance to this case is the Overseas Securities Lending Agreement (OSLA) which was superseded by the Global Masters Securities Lending Agency (GMSLA), both prepared by the International Stock Lenders Association, based in London.</sentence>
+<sentence id="s65">OSLA was (and GMSLA is) intended to govern all securities loan transactions, that is, the transaction structure is used interchangeably for a borrower who is after specific securities and a lender who is seeking cash.</sentence>
+<sentence id="s66">In 1996 ASLA commissioned Messrs Mallesons Stephen Jacques to adapt OSLA for the Australian market.</sentence>
+<sentence id="s67">The resultant agreement, released in April 1997, is known as the Australian Masters Securities Lending Agreement and is often referred to as "AMSLA".</sentence>
+<sentence id="s68">The term "securities lending" under these agreements is factually incorrect.</sentence>
+<sentence id="s69">The transaction that is referred to as "lending" is in terms an outright disposal of the securities lent, linked to a subsequent acquisition of equivalent securities.</sentence>
+<sentence id="s70">In other words the agreements provide that title to the securities on loan, as well as to any collateral that is received by the lender, passes from one party to the other.</sentence>
+<sentence id="s71">On the other hand, the economic benefits of ownership are "manufactured" back to the lender by the terms of the securities loan agreements.</sentence>
+<sentence id="s72">Background of Dispute
+ For purposes of the issue presently to be determined, Beconwood came into the picture in the following circumstances.</sentence>
+<sentence id="s73">In October 2006, Beconwood's director, Mr Choiselat, instructed Ms Chan, the office manager, to investigate "margin lending facilities on small market cap stocks.</sentence>
+<sentence id="s74">" Ms Chan then met with an OPS employee in late October to discuss the possibility of Beconwood establishing a facility with OPS in order to leverage its holdings in Destra Corp Ltd, Q Ltd, and Jumbuck Entertainment Ltd, each a publicly listed company.</sentence>
+<sentence id="s75">No agreement was reached but Ms Chan revisited the issue of a lending facility with OPS at another meeting on 17 July 2007.</sentence>
+<sentence id="s76">In addition to the meetings, the parties also exchanged email correspondence regarding the proposed facility.</sentence>
+<sentence id="s77">I emphasise that for present purposes it is neither necessary nor proper to consider (and I expressly have not considered) precisely what representations were or were not made in the meetings and correspondence between Beconwood and OPS, or what Beconwood may or may not have understood regarding the meaning of the terms of the proposed securities facility.</sentence>
+<sentence id="s78">At present, it necessary only to note that Beconwood entered into the SLA, the construction of whose written terms is now at issue, shortly after the 17 July meeting, with Beconwood Securities entering the SLA on 31 July 2007 and Beconwood Ltd entering on 16 August 2007.</sentence>
+<sentence id="s79">Pursuant to the SLA, Beconwood Securities transferred to Green Frog at the direction of OPS 1,116,355 shares in Q on 31 July 2007 and 1,559,447 shares in Jumbuck on 13 November 2007.</sentence>
+<sentence id="s80">Beconwood Ltd transferred to Green Frog at the direction of OPS 10,962,104 shares in Destra on 16 August 2007, a total of 114,463,651 shares in Q on four dates between 16 August 2007 and 8 January 2008, and 2,000,000 shares in Jumbuck on 4 December 2007.</sentence>
+<sentence id="s81">The total market value of the shares transferred by Beconwood was said by counsel for Beconwood to be approximately $7 million, presumably calculated just prior to the appointment of receivers to, and administrators over, OPS.</sentence>
+<sentence id="s82">An examination of the share price tables on the ASX website bears this out.</sentence>
+<sentence id="s83">In return for the shares Beconwood received from OPS cash in the amount of $1,353,830.02.</sentence>
+<sentence id="s84">On or shortly after the day of each transfer to Green Frog, the shares were transferred to ANZ Nominees.</sentence>
+<sentence id="s85">Mr Cahill, the head of the financial institution products division of ANZ, stated that ANZ Nominees acquired the shares as "custodian and nominee" for ANZ.</sentence>
+<sentence id="s86">The transfers were effected pursuant to a modified AMSLA between OPS and ANZ dated 26 July 2006.</sentence>
+<sentence id="s87">It is the shares still held by ANZ Nominees that are the subject of Beconwood's claim.</sentence>
+<sentence id="s88">The Securities Lending Agreement
+ The SLA is based largely on AMSLA.</sentence>
+<sentence id="s89">The following provisions are important.</sentence>
+<sentence id="s90">In the description of the parties Beconwood is identified as the "Client".</sentence>
+<sentence id="s91">Clause 1.1 provides that "[t]he lender will lend Securities to the Borrower, and the Borrower will borrow Securities from the Lender, in accordance with the terms of this Agreement.</sentence>
+<sentence id="s92">" The definitions of "Lender" and "Borrower" in cl 22 indicate that Beconwood and OPS may be either a "Borrower" or a "Lender".</sentence>
+<sentence id="s93">In all cases, cl 1.1 requires that OPS has received from the Client a "Borrowing Request".</sentence>
+<sentence id="s94">The definition of the "Borrowing Request" in cl 22 states that the request (which may be oral or in writing) must, among other things, describe the Securities to be lent, and the amount of any collateral.</sentence>
+<sentence id="s95">Clause 1.1 also provides that if OPS is the Borrower, Beconwood must pay a Fee which "initially will be interest on the Cash Collateral".</sentence>
+<sentence id="s96">Cash Collateral is defined in cl 22 as "Collateral that takes the form of a payment of currency".</sentence>
+<sentence id="s97">Clause 3.1 provides: "The Parties must execute and deliver all necessary documents and give all necessary instructions to procure that all right, title and interest in [any Securities, Equivalent Securities, Collateral or Equivalent Collateral] will pass absolutely from one Party to the other, free from all liens, charges, equities and encumbrances, on delivery or redelivery of the same in accordance with this Agreement.</sentence>
+<sentence id="s98">" Clauses 3.2 and 3.3: These clauses may be summarised as giving the Lender the right to dividends, and other benefits which it would be entitled to were a securities lending transaction not to have taken place.</sentence>
+<sentence id="s99">As applied to the facts of this case, the clauses attempt to "manufacture" for Beconwood a contractual equivalent to the beneficial interest it would have retained had it not transferred shares to Green Frog.</sentence>
+<sentence id="s100">Clause 3.4 provides: "Notwithstanding the use of expressions such as "borrow", "lend", "Collateral", "Margin", "redeliver", etc., which are used to reflect terminology used in the market for transactions of the kind provided for in this Agreement, all right title and interest in and to Securities "borrowed" or "lent" and "Collateral" which one Party transfers to the other in accordance with this Agreement will pass absolutely from one Party to the other free and clear of any liens, claims, charges or encumbrances or any other interest of the Transferring Party or of any third party (other than a lien routinely imposed on all securities in a relevant clearance system) without the transferor retaining any interest or right to the transferred property, the Party obtaining such title being obliged only to redeliver Equivalent Securities or Equivalent Collateral, as the case may be.</sentence>
+<sentence id="s101">Each Transfer under this Agreement must be made so as to constitute or result in a valid and legally effective transfer of the Transferring Party's legal and beneficial title to the recipient.</sentence>
+<sentence id="s102">" Clause 3.4 is buttressed by the warranty of the Lender (ie Beconwood) in cl 9(c) that it is "absolutely entitled to pass full legal and beneficial ownership of all Securities" to the Borrower (ie OPS) free from "all liens, charges, equities and encumbrances.</sentence>
+<sentence id="s103">" Clause 4.1 also picks up the obligation to pay a fee.</sentence>
+<sentence id="s104">It provides that if in respect of a loan of securities the Collateral is cash, the Collateral Taker must pay "a fee ... in respect of the amount of that Collateral, calculated at the rate initially as agreed" and "the Client must pay a fee to Opes Prime for each loan of Securities" in an amount agreed.</sentence>
+<sentence id="s105">Clause 5 deals with Collateral and top-up Collateral.</sentence>
+<sentence id="s106">The heading to cl 5.1 reads: "Borrower's Obligation to Provide Collateral".</sentence>
+<sentence id="s107">According to its terms, however, the clause only imposes the obligations to provide Collateral and top-up Collateral on "[t]he Client as Borrower or Lender".</sentence>
+<sentence id="s108">Clause 5.2(a)(i) states that the "aggregate value of the Collateral delivered to or deposited with Opes Prime ... [must] be at least the aggregate of the Required Collateral Value".</sentence>
+<sentence id="s109">Clause 5.2(a)(ii) states that the "[i]f the aggregate value of the Posted Collateral ... exceeds the aggregate of the Required Collateral Value ... Opes Prime must (on demand) repay such Cash Collateral or redeliver to the Client Equivalent Collateral".</sentence>
+<sentence id="s110">These subclauses operate so that if the value of the securities transferred by the Client relative to the amount of cash transferred by OPS drops below a certain predetermined ratio (variously called the Required Collateral Value, Loan-to-Value ratio or LVR), the Client will be required to transfer additional securities.</sentence>
+<sentence id="s111">If the converse occurs and the value of the securities increases OPS must redeliver equivalent securities to eliminate the excess.</sentence>
+<sentence id="s112">Clauses 6.1 and 6.2: These clauses require the Borrower "to redeliver Equivalent Securities in accordance with this Agreement and the terms of the relevant Borrowing Request" and specifically at the call of the Lender.</sentence>
+<sentence id="s113">Equivalent Securities are defined in cl 22 to be "securities of an identical type, nominal value, description and amount to particular Securities borrowed and such term will include the certificate and other documents of or evidencing title and transfer".</sentence>
+<sentence id="s114">The definition goes on to provide that in redelivering Equivalent Securities, one must also factor in the value, in cash or kind, of corporate events affecting the value of the Securities, such as splits, dividends, takeovers, redemptions and so forth.</sentence>
+<sentence id="s115">Clause 6.3 permits the Lender to terminate the loan of Securities upon written notice if the Borrower fails to redeliver Equivalent Securities as requested, in which case the netting provisions of clause 7 are triggered.</sentence>
+<sentence id="s116">Clause 7: This clause provides for netting (ie acceleration and reduction to a single sum certain) as well as set-off of the parties' obligations against each other in an Event of Default and also in a case where the Borrower has failed to redeliver Equivalent Securities under cl 6.3.</sentence>
+<sentence id="s117">Clause 11.1 defines Events of Default to include (in cl 11.1(d)) an "Act of Insolvency" by either party.</sentence>
+<sentence id="s118">Clause 22 in turn relevantly defines an Act of Insolvency to include appointment (or attempt, consent, or acquiescence to appointment) "of any trustee, administrator, receiver or liquidator or analogous officer," or the presentation of a petition or other attempt to wind up or liquidate.</sentence>
+<sentence id="s119">Most Events of Default require a notice to be given to trigger netting.</sentence>
+<sentence id="s120">In the event of "the appointment of a liquidator or analogous officer" netting is automatic: cl 11.1(d).</sentence>
+<sentence id="s121">Clause 16 provides: "Each Party agrees that, in relation to legal proceedings, it will not seek specific performance of the other Party's obligation to deliver or redeliver Securities, Equivalent Securities, Collateral or Equivalent Collateral, but without prejudice for any other rights it may have.</sentence>
+<sentence id="s122">" The assumption that lies behind cls 1.1 and 4.1, as well as other provisions, is that Beconwood will lend securities to OPS and, in return, will receive cash collateral.</sentence>
+<sentence id="s123">It is also assumed that Beconwood may be required to top up the value of the lent shares (by lending more shares) to maintain the margin.</sentence>
+<sentence id="s124">There is, however, no provision in the SLA that imposes an obligation on OPS to provide collateral.</sentence>
+<sentence id="s125">Nor is there a provision that requires Beconwood to provide additional shares.</sentence>
+<sentence id="s126">Perhaps the draftsman assumed that cl 5 would satisfy both functions.</sentence>
+<sentence id="s127">But when read literally it does neither.</sentence>
+<sentence id="s128">This is a serious gap.</sentence>
+<sentence id="s129">Interestingly, this defect does not appear in cl 6 of AMSLA from which cl 5 has been adapted.</sentence>
+<sentence id="s130">Be that as it may, the SLA does contemplate that the parties will (indeed they must) reach independent agreement on a number of matters including the type of securities Beconwood is to lend to OPS, the value of the cash collateral that will be delivered to Beconwood and the margin that is to apply.</sentence>
+<sentence id="s131">That is precisely what happened.</sentence>
+<sentence id="s132">Although not all the evidence is before the court, it is sufficiently clear that, in correspondence and conversations between Beconwood and OPS, they agreed on the identity of the shares to be lent, on the amount of cash collateral and on the margin.</sentence>
+<sentence id="s133">To the extent that it is necessary to give cl 5 any operation, it will be to require Beconwood to deliver top-up securities.</sentence>
+<sentence id="s134">This can be achieved by treating the expressions Cash Collateral and Collateral as references to the lent shares.</sentence>
+<sentence id="s135">Even if this is not how cl 5 operates the problem with the clause will not affect the outcome of this application.</sentence>
+<sentence id="s136">One reason is the severance provision in cl 15, which provides that the balance of the SLA should remain effective even if one clause is void or unenforceable.</sentence>
+<sentence id="s137">Another reason is that the question in issue does not involve any matters that might even arguably turn on cl 5, such as a dispute as to the provision of collateral or the maintenance of the loan to value ratio.</sentence>
+<sentence id="s138">Rather, the question here involves only the ownership of the lent securities.</sentence>
+<sentence id="s139">The Claim
+ Beconwood claims that the true character of the SLA is that of a mortgage pursuant to which it borrowed money from OPS and put up its shares by way of security.</sentence>
+<sentence id="s140">It follows, so the argument goes, that Beconwood has an equity of redemption in respect of those shares.</sentence>
+<sentence id="s141">Its alternative argument is that by reason of the SLA Beconwood has a charge over the shares which is enforceable in equity.</sentence>
+<sentence id="s142">The corollary of each argument is that under the arrangement OPS did not become the absolute owner of the shares.</sentence>
+<sentence id="s143">Security Interests
+ Under Australian law there are only four kinds of proprietary interest by way of consensual security, namely a pledge, contractual lien, equitable charge and mortgage: Re Cosslett (Contractors) Ltd [1998] Ch D 495 , 508; see also R M Goode, Legal Problems of Credit and Security (3rd ed, 2003) at 1-42.</sentence>
+<sentence id="s144">In the way this case was argued, we are only concerned with a mortgage and a charge.</sentence>
+<sentence id="s145">A mortgage is "a security created by contract for the payment of a debt already due or to become due, or of a present or future advance, effected by means of an actual or executory conveyance of real or personal property, charging the mortgaged property with the payment of the money secured": Coote on Mortgages (9th ed, 1927) vol 1 at 6.</sentence>
+<sentence id="s146">A mortgage may be legal or equitable.</sentence>
+<sentence id="s147">A legal mortgage involves an assignment or transfer of property to the mortgagee: Santley v Wilde [1899] 2 Ch 474.</sentence>
+<sentence id="s148">There will be a mortgage in equity if there is an agreement to grant a legal mortgage.</sentence>
+<sentence id="s149">The right of the mortgagee in equity is to have his security perfected, usually by the execution of a legal mortgage: Matthews v Gooday (1861) 31 LJ Ch 282.</sentence>
+<sentence id="s150">By way of example, the delivery of share certificates with blank transfers will create an equitable mortgage of the shares: Harrold v Plenty [1901] 2 Ch D 314 , 316.</sentence>
+<sentence id="s151">The mortgage will become a legal mortgage when the transfers are registered: Rose v Inland Revenue Commissioner [1952] 1 Ch D 499 , 510-511.</sentence>
+<sentence id="s152">A charge differs from a mortgage because it does not depend upon a transfer of the ownership of the charged property.</sentence>
+<sentence id="s153">It is of the essence of a charge that a particular asset or class of assets is appropriated to the satisfaction of a debt or other obligation of the chargor, or a third party, so that the chargee is entitled to look to the asset and its proceeds for the discharge of the liability: Re Cosslett [1998] Ch D at 508.</sentence>
+<sentence id="s154">A charge can arise by operation of law or by agreement.</sentence>
+<sentence id="s155">A charge may be fixed, that is, attached to particular assets which are identified or ascertainable.</sentence>
+<sentence id="s156">Or a charge may relate to a changing class of present and future assets and not attach to any particular asset unless it is converted to a fixed charge.</sentence>
+<sentence id="s157">In the case of a fixed charge, the chargor cannot dispose of the assets without the chargee's consent, but the chargor can in the case of a floating charge.</sentence>
+<sentence id="s158">Principles of Construction
+ For purposes of deciding whether the SLA created either a mortgage over Beconwood's shares in favour of OPS or a charge over those shares in favour of Beconwood, I propose to state, briefly, the principles of construction that I intend to apply.</sentence>
+<sentence id="s159">The task is to discover the true substance of the transaction.</sentence>
+<sentence id="s160">On this aspect I will proceed, so far as this trial is concerned, on the basis that the SLA is a true record of the arrangement between Beconwood and OPS and that it is no sham or artifice to disguise their true intention.</sentence>
+<sentence id="s161">It must be remembered, however, that Beconwood contends that if it has not made out its case on the SLA alone, it will still be able to do so when account is taken of representations allegedly made by OPS and which form part of the arrangement, or inform that arrangement.</sentence>
+<sentence id="s162">At this point I am only concerned with the effect of the SLA without regard to any wider aspects of the arrangement.</sentence>
+<sentence id="s163">In particular, I need not consider whether Beconwood could lead extrinsic evidence regarding the effect of the SLA absent some ambiguity in its terms or in support of an attack that the SLA is a sham.</sentence>
+<sentence id="s164">On this basis the character of the SLA must be determined from its language, particularly of its operative parts.</sentence>
+<sentence id="s165">If those provisions are clear, they must be given effect, unless there are provisions which alter that effect.</sentence>
+<sentence id="s166">In McEntire v Crossley Brothers Ltd [1895] AC 457 (described by the High Court in Associated Alloys Pty Ltd v ACN 001 452 106 Pty Ltd (in liq) [2000] HCA 25 ; (2000) 202 CLR 588 , 606 as one of the "basic authorities in commercial law"), Lord Herschell said (at 463): 
+ [T]here is no such thing, as seems to have been argued here, as looking at the substance [of the agreement], apart from looking at the language which the parties have used.</sentence>
+<sentence id="s167">It is only by a study of the whole of the language that the substance can be ascertained.</sentence>
+<sentence id="s168">
+
+ 
+Similarly Lord Watson said (at 467):
+ 
+ [T]he substance of the agreement must ultimately be found in the language of the contract itself.</sentence>
+<sentence id="s169">The duty of a Court is to examine every part of the agreement, every stipulation which it contains, and to consider their mutual bearing upon each other; but it is entirely beyond the function of a Court to discard the plain meaning of any term in the agreement unless there can be found within its four corners other language and other stipulations which necessarily deprive such term of its primary significance.</sentence>
+<sentence id="s170">
+
+ 
+Much the same was said in Helby v Matthews [1895] AC 471 , 475 and Inland Revenue Commissioners v Duke of Westminster [1936] AC 1 , 20.</sentence>
+<sentence id="s171">What this means is that the character of a transaction is to be determined by reference to its legal nature, not to its economic effect.</sentence>
+<sentence id="s172">The leading authority on this point is the advice of Lord Devlin in Chow Yoong Hong v Choong Fah Rubber Manufactory [1962] AC 209.</sentence>
+<sentence id="s173">He said (at 216-217): "There are many ways of raising cash besides borrowing.</sentence>
+<sentence id="s174">...</sentence>
+<sentence id="s175">If in form it is not a loan, it is not to the point to say that its object was to raise money for one of them or that the parties could have produced the same result more conveniently by borrowing and lending money.</sentence>
+<sentence id="s176">" I propose also to apply the rule that a commercial contract should be construed having regard to its purpose, which requires an understanding of the genesis of the transaction, its background, its context, and the market in which the parties are operating: Codelfa Construction Pty Ltd v State Railway Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 , 350 applying Reardon Smith Line Ltd v Hansen-Tangen [1976] 1 WLR 989 , 995-996.</sentence>
+<sentence id="s177">See also Pacific Carriers Ltd v BNP Paribas [2004] HCA 35 ; (2004) 218 CLR 451.</sentence>
+<sentence id="s178">The controversy here is in identifying what is the appropriate context and what is the relevant market.</sentence>
+<sentence id="s179">The SLA is derived from AMSLA which in turn is derived from OSLA.</sentence>
+<sentence id="s180">Both OSLA's successor GMSLA and AMSLA are in widespread use in markets (both cash driven and securities driven) in which the participants give or take an outright transfer of securities in exchange for a promise that the borrower will deliver equivalent securities or that the redelivery obligation will be set off against the duty to return collateral in the event of default.</sentence>
+<sentence id="s181">The principal objects of securities driven share lending (to enable the borrower to satisfy a short sale or to complete the settlement of a sale within the time) can only be achieved by transferring title to the borrowed securities to the borrower.</sentence>
+<sentence id="s182">This is the very essence of the transaction; without the ability to pass title there is no utility in the borrowing.</sentence>
+<sentence id="s183">This may not be true in the cash driven market, but it is still important to pass title to the securities.</sentence>
+<sentence id="s184">Without title the borrower cannot, as OPS did here, dispose of the shares for commercial purposes.</sentence>
+<sentence id="s185">Moreover, the provision for netting following default would not operate effectively unless title to the securities lent and to the collateral given has passed to the opposite party.</sentence>
+<sentence id="s186">Application of Principles
+ It is convenient to consider first whether the SLA is a mortgage.</sentence>
+<sentence id="s187">One of the essential features of a mortgage is that the mortgagor is entitled to get back the subject matter of the mortgage on returning to the mortgagee the money that he has received.</sentence>
+<sentence id="s188">The right is either contractual or exists in equity, and is referred to (sometimes loosely) as an equity of redemption.</sentence>
+<sentence id="s189">At law, if a mortgagor defaulted in payment of the secured debt the right of the mortgagee to the mortgaged property became absolute.</sentence>
+<sentence id="s190">In equity, however, the mortgagee could still redeem the mortgaged property, or recover the surplus if the mortgagee had sold the mortgaged property.</sentence>
+<sentence id="s191">The rule applied as much to real as to personal property: Sewell v Burdick (1884) 10 AC 74 , 95; Johnson v Diprose [1893] 1 QB 512.</sentence>
+<sentence id="s192">The problem that confronts Beconwood in its argument for a mortgage is that there can be no right to redeem in the case of an outright transfer of property, such as occurs in an absolute sale.</sentence>
+<sentence id="s193">In Re George Inglefield Ltd [1933] 1 Ch D 1 , 27-28 Romer LJ analysed the difference between a transfer by way of sale on the one hand and a mortgage or charge on the other.</sentence>
+<sentence id="s194">He said (at 27): 
+ It appears to me that the matter admits of a very short answer, if one bears in mind the essential differences that exist between a transaction of sale and a transaction of mortgage or charge.</sentence>
+<sentence id="s195">In a transaction of sale the vendor is not entitled to get back the subject-matter of the sale by returning to the purchaser the money that has passed between them.</sentence>
+<sentence id="s196">In the case of a mortgage or charge, the mortgagor is entitled, until he has been foreclosed, to get back the subject-matter of the mortgage or charge by returning to the mortgagee the money that has passed between them.</sentence>
+<sentence id="s197">
+
+ There is also the following passage in Coote (at 28-29): 
+ It is not always easy to discriminate between a mortgage and a sale qualified by a power to repurchase.</sentence>
+<sentence id="s198">In determining questions of this nature, it must be borne in mind that a mortgage cannot be a mortgage on one side only; it must be mutual; that is, if it be a mortgage with one party, it must be a mortgage with both.</sentence>
+<sentence id="s199">But the rule only requires that it shall not be competent to one party alone to consider it a mortgage.</sentence>
+<sentence id="s200">In other respects the rights of the parties may be different, for it happens not unfrequently, that one party may not be able to foreclose at a time when the other party may redeem.</sentence>
+<sentence id="s201">...</sentence>
+<sentence id="s202">The rule is that prime facie an absolute conveyance, containing nothing to show the relation of debtor and creditor, does not cease to be an absolute conveyance and become a mortgage merely because the vendor stipulates that he shall have a right to repurchase.</sentence>
+<sentence id="s203">In every case the question is what, upon a fair construction, is the meaning of the instruments, and the absolute conveyance will be turned into a mortgage if the real intention was that the estate should be held as a security for the money.</sentence>
+<sentence id="s204">...</sentence>
+<sentence id="s205">The deed may be absolute in form but still a mortgage, and the absence of a proviso for redemption will not prevent its being a mortgage.</sentence>
+<sentence id="s206">
+
+ Most of this passage was taken from Alderson v White [1858] EngR 189 ; (1858) 2 De G &amp; J 97 , 105 [1858] EngR 189 ; [44 ER 924 , 927-928], a case that was cited with approval by Windeyer J in Gurfinkel v Bentley Pty Ltd [1966] HCA 75 ; (1966) 116 CLR 98 , 113.</sentence>
+<sentence id="s207">The question that arose in the latter case was whether a transaction by which the defendant became the proprietor of land previously owned by the plaintiff was entered into for the purpose of securing the payment of a debt lent by the defendant to the plaintiff --- that is, whether the land was held as security with the plaintiff having an equity of redemption.</sentence>
+<sentence id="s208">The alternative was that the plaintiff had sold the land to the defendant upon terms that he should have an option to purchase it upon certain conditions: Gurfinkel 116 CLR at 115-116.</sentence>
+<sentence id="s209">The court found that the transaction was, in fact and in law, what it purported to be according to the terms of the agreement between the parties.</sentence>
+<sentence id="s210">After referring to Alderson v White , Windeyer J went on to point out (at 114) that the court is reluctant to hold that "a bargain is not as the parties expressed it.</sentence>
+<sentence id="s211">A court will ... ordinarily take at their word persons who execute a [particular agreement unless] it can be shewn by parol evidence that both parties to a document adopted the form they did as a disguise.</sentence>
+<sentence id="s212">" In light of the foregoing, the argument that the SLA can be characterised as a mortgage is simply unsustainable.</sentence>
+<sentence id="s213">It breaks down at many points.</sentence>
+<sentence id="s214">First of all, by the express terms of the SLA, unencumbered title in both lent securities and collateral passes on delivery.</sentence>
+<sentence id="s215">Secondly, when the transaction comes to an end there is no obligation to hand back in specie the securities initially lent.</sentence>
+<sentence id="s216">Nor is there an obligation to return the collateral actually provided.</sentence>
+<sentence id="s217">The obligation falling on the borrower is to deliver the same number and type of securities.</sentence>
+<sentence id="s218">The same is true as regards the collateral.</sentence>
+<sentence id="s219">Third, there are the netting and set off provisions that come into effect on default.</sentence>
+<sentence id="s220">This is the means by which the parties mitigate credit risk, converting redelivery obligations into payment obligations.</sentence>
+<sentence id="s221">The provisions are particularly important because they confirm that the parties did not intend there to be any equitable property rights retained over lent securities or collateral following their delivery, for if such rights existed, they could not simply be converted by contract to monetary obligations.</sentence>
+<sentence id="s222">Equity does not allow the redemption to be "clogged": Kreglinger v New Patagonia Meat and Cold Storage Co Ltd [1913] UKHL 1 ; [1914] AC 25 , 61; E I Sykes and S Walker, The Law of Securities (5th ed, 1993) at 70.</sentence>
+<sentence id="s223">I also want to put to rest Beconwood's argument that the SLA should be characterised differently from any other share lending agreements because the SLA was made in a different market (ie the retail market as opposed to the institutional market) and between different participants.</sentence>
+<sentence id="s224">First of all, I disagree with one fundamental premise of this argument, namely that the transactions which are given effect by the SLA and other securities lending agreements take place in different markets.</sentence>
+<sentence id="s225">The view I take is that as each agreement may be used for financing purposes they are made in the same market, namely the market for providing funding to intending share purchasers.</sentence>
+<sentence id="s226">In any event, even if they be different markets, that would not, in my view, be good reason for giving a different meaning to the same agreement.</sentence>
+<sentence id="s227">This is because I do not accept that a share lending agreement (indeed any agreement) can have a meaning that is dependent upon (and changes with) the subjective motivations for which it is entered into.</sentence>
+<sentence id="s228">What Beconwood's argument comes down to is this.</sentence>
+<sentence id="s229">Being an unsophisticated investor, it did not know what it was getting into when it signed the SLA and its lack of sophistication is a sufficient reason to give the SLA a construction it would not bear if entered into by skilled market players such as investments banks, hedge funds or arbitrageurs.</sentence>
+<sentence id="s230">I do not accept this argument either.</sentence>
+<sentence id="s231">Beconwood borrows for, and invests millions of dollars in, share trading.</sentence>
+<sentence id="s232">It does not qualify as an unsophisticated investor.</sentence>
+<sentence id="s233">It certainly is not a candidate for the special protection courts give to the weak and vulnerable.</sentence>
+<sentence id="s234">Beconwood's attempt to characterise the SLA as a mortgage might be attractive if one were permitted to have regard to the economic substance of the arrangement.</sentence>
+<sentence id="s235">In the cash driven market, securities lending is a means of obtaining finance and for that reason has features similar to a mortgage.</sentence>
+<sentence id="s236">In each case a person (the lender of securities and the mortgagor) receives cash.</sentence>
+<sentence id="s237">In each case the person who receives the cash pays a fee for its use.</sentence>
+<sentence id="s238">In one case (securities lending) the lent securities are a proxy for collateral.</sentence>
+<sentence id="s239">In the other (a mortgage) they constitute the security.</sentence>
+<sentence id="s240">Further, in many share funding arrangements it is common to find provisions for topping up the value of the shares lent or put up as security (as the case requires) if there is a fall in their price.</sentence>
+<sentence id="s241">Despite these similarities, however, the arrangements are not of the same legal character.</sentence>
+<sentence id="s242">They are different means of achieving a similar result.</sentence>
+<sentence id="s243">Put another way, while the economic substance of the transactions (mortgage and securities lending) may be similar, the legal mechanism by which they are effected is fundamentally different.</sentence>
+<sentence id="s244">Beconwood seeks to overcome these difficulties (and in so doing should concede the weakness of its mortgage case) by arguing that there is a charge in its favour over the Equivalent Securities.</sentence>
+<sentence id="s245">The way the argument proceeds is as follows.</sentence>
+<sentence id="s246">Upon delivery to it of the lent shares, title passes to OPS.</sentence>
+<sentence id="s247">At that point the shares, because they are identical in number and type to the lent shares (Securities), immediately fall within the definition (and thus assume the character) of Equivalent Securities which, in due course, must be delivered to Beconwood.</sentence>
+<sentence id="s248">The crux of the argument is that under the SLA OPS has an implied obligation to hold or retain an interest in any shares that meet the definition of Equivalent Securities as soon as it receives or obtains such securities.</sentence>
+<sentence id="s249">In those circumstances, Beconwood contends that it has a charge, or some kind of equitable interest, over the shares until it obtains legal title on the transfer back.</sentence>
+<sentence id="s250">There are several problems with this argument.</sentence>
+<sentence id="s251">The first and most obvious is that the putative implied obligation upon which the whole argument is founded does not satisfy the requirements for an implied term.</sentence>
+<sentence id="s252">The principles on which a term may be implied are well established.</sentence>
+<sentence id="s253">For a term to be implied in fact, the term must be "so obvious that it goes without saying": Codelfa 149 CLR at 346-347, 354-356, 404-405 citing Shirlaw v Southern Foundries (1926) Ltd [1939] 2 KB 206 , 227.</sentence>
+<sentence id="s254">Moreover, the supposed implied term must be reasonable and equitable: BP Refinery (Westernport) Pty Ltd v Shire of Hastings (1977) 180 CLR 226, 283.</sentence>
+<sentence id="s255">Looking at the SLA, I can see no necessity for the implication of the term.</sentence>
+<sentence id="s256">Nor are the criteria set out in BP Refinery satisfied.</sentence>
+<sentence id="s257">The term is sought not so much to make the SLA work, but to help convert it into a mortgage or charge.</sentence>
+<sentence id="s258">That is not a proper foundation for the implication of a term.</sentence>
+<sentence id="s259">The second problem is equally fundamental.</sentence>
+<sentence id="s260">Having regard to the definition of "Equivalent Securities", the fact that OPS immediately holds, or may at some future point come to hold, shares that are the same as those it has borrowed does not convert those shares into "Equivalent Securities".</sentence>
+<sentence id="s261">It is true that, according to the definition, "Equivalent Securities" are securities "of an identical type, nominal value, description and amount" to the lent securities.</sentence>
+<sentence id="s262">But it is equally true that the definition does not require the lent securities (or even any particular batch of securities identical in number and type to the lent securities that happen to be received by OPS prior to its obligation to deliver Equivalent Securities falling due) to be Equivalent Securities.</sentence>
+<sentence id="s263">Rather, the SLA contemplates that OPS will deal with the lent securities as it sees fit and that, in order to meet its obligation to return "Equivalent Securities" in accordance with cl 6.1, it may have to get them in.</sentence>
+<sentence id="s264">This it can do from its own holdings or in the open market.</sentence>
+<sentence id="s265">Put another way, OPS has the freedom to decide how and from whom it will obtain securities that answer the description of "Equivalent Securities".</sentence>
+<sentence id="s266">Crucially, there is no provision in the SLA restricting OPS from disposing of the lent shares or requiring OPS to keep on hand at any time specific securities for delivery to Beconwood as Equivalent Securities.</sentence>
+<sentence id="s267">In these circumstances, Beconwood cannot obtain a legal or equitable interest in any shares, even if they meet the description of Equivalent Securities, before shares that satisfy the description are appropriated to the agreement: Re Goldcorp Exchange Ltd [1994] UKPC 3 ; [1995] 1 AC 74.</sentence>
+<sentence id="s268">This is no more than an application of the rule that until property which is previously unidentified is appropriated to an agreement, neither a legal nor an equitable interest in that property can be created by that agreement: Hoare v Dresser [1859] EngR 430 ; (1859) 7 HLC 290 [11 ER 116] ; Citizens' Bank of Louisiana v First National Bank of New Orleans (1873) LR 6 HL 352.</sentence>
+<sentence id="s269">It merits mention, however, that under the SLA even appropriation may not be sufficient.</sentence>
+<sentence id="s270">This is because cl 3.1 provides that title in Equivalent Securities will pass on redelivery.</sentence>
+<sentence id="s271">Until that point OPS may be free to deal with its shares in whatever way it sees fit.</sentence>
+<sentence id="s272">Automatic Netting
+ Although it does not affect the determination of the question presented, I should briefly address the argument that the netting provision in cl 7.4 has come into effect automatically because an Event of Default has occurred.</sentence>
+<sentence id="s273">The issue here is whether either the appointment by a debenture holder of a receiver to take control of OPS' assets or the appointment of an administrator under Pt 5.3A of the Corporations Act 2001 (Cth) to take control of the company's affairs amounts to the appointment of an officer "analogous" to a liquidator: see cl 11.1(d).</sentence>
+<sentence id="s274">Beconwood conceded that whatever interest it had in the shares would be lost if the appointment of receivers or administrators falls within the clause.</sentence>
+<sentence id="s275">In my view the role and function of, on the one hand, a party-appointed receiver or an administrator and, on the other hand, a liquidator, are not analogous.</sentence>
+<sentence id="s276">The role of a liquidator is to get in the assets of the company that is being wound up, dispose of those assets and out of the proceeds discharge the debts due to creditors (pro rata if there is a deficiency) and pay the balance (if there be a balance) to the contributories.</sentence>
+<sentence id="s277">When this task is complete the company is finished.</sentence>
+<sentence id="s278">This is in marked contrast to the role of a party-appointed receiver or an administrator.</sentence>
+<sentence id="s279">A party-appointed receiver takes control of the company's assets (and sometimes manages its business), but for the single purpose of discharging the debt due to his appointer, the secured creditor.</sentence>
+<sentence id="s280">The receiver holds any surplus he has secured for the benefit of the company.</sentence>
+<sentence id="s281">On his retirement the company continues in existence.</sentence>
+<sentence id="s282">An administrator does little more than take over the running of the company, and then only for a relatively short period.</sentence>
+<sentence id="s283">This enables the creditors to decide the company's fate.</sentence>
+<sentence id="s284">In reaching the conclusion that a party-appointed receiver or an administrator is not "analogous" to a liquidator, I have derived no assistance from the definition of "Act of Insolvency" which provides (in cl 22(e)) that one such act is "the appointment of a receiver, administrator, liquidator or trustee or analogous officer of such Party over all or any material part of such Party's property.</sentence>
+<sentence id="s285">" The question in cl 22(e) whether an officer is "analogous" to a class of receivers, administrators, etc is not the same as whether as in cl 11.1(d) an officer is "analogous" to a liquidator only.</sentence>
+<sentence id="s286">If one is to look for some common thread that binds the larger class, it may be found in the control each of them has over the assets or operations of the Party's property.</sentence>
+<sentence id="s287">But the wording of cl 11.1(d), where the class is narrower, requires a different construction.</sentence>
+<sentence id="s288">In my view, therefore, there has been no automatic trigger of the netting provision, and Beconwood's concession does not bear on its claimed entitlement.</sentence>
+<sentence id="s289">US Cases
+ The conclusion I have reached on the effect of the SLA is in line with the authorities in the United States.</sentence>
+<sentence id="s290">The US position on securities lending has been settled for more than 80 years.</sentence>
+<sentence id="s291">In holding that such agreements mean what they say (ie they are purchase-and-sale rather than secured loan agreements) and rejecting an equitable interest claim of the kind pursued here, the US Supreme Court in Provost v United States [1926] USSC 10 ; (1926) 269 US 443 succinctly stated the basic principle behind securities lending (at 456): 
+ For the incidents of ownership, the lender [of securities pursuant to a securities lending agreement] has substituted the personal obligation, wholly contractual, of the borrower to restore him, on demand, to the economic position in which he would have been, as owner of the stock, had the loan transaction not been entered into.</sentence>
+<sentence id="s292">
+
+ The Supreme Court also made clear what necessarily follows from that holding; namely, in "redelivering" stock to the lender, there is no obligation on the borrower to give back the original stock, or even any particular stock (at 456): 
+ When the borrower returns the borrowed stock, he acquires it by purchase or by borrowing again and in the process acquires and transfers to the lender all the incidents of legal ownership in securities which neither possessed before.</sentence>
+<sentence id="s293">
+ Lower courts have reaffirmed and applied these principles in a variety of contexts: Granite Partners LP v Bear, Stearns &amp; Co Inc (SDNY 1998) 17 FSupp2d 275 ; Re County of Orange (CD Cal 1998) 31 FSupp2d 768 ; SEC v Drysdale Security Corp (2d Cir [1986] USCA2 172 ; 1986) 785 F2d 38 ; In re Bevill, Bresler &amp; Schulman Asset Management Corp (DNJ 1986) 67 BR 557 , aff'd sub nom Bevill, Bresler &amp; Schulman Asset Management Corp v Spencer Savings &amp; Loan Association (3d Cir [1989] USCA3 791 ; 1989) 878 F2d 742.</sentence>
+<sentence id="s294">If there is one constant theme across the cases, it is that agreements made using industry-standard documentation should be honoured according to the practices and expectations of the securities industry; to do otherwise would be to risk impairing the efficient functioning of national and international capital markets: Granite Partners 17 FSupp2d at 302-303; Re County of Orange 31 FSupp2d at 778; Bevill 67 BR at 597-598.</sentence>
+<sentence id="s295">To refuse to give effect to securities lending agreements in this context would be to revisit upon the market all of the difficulties involved with rehypothecation and the illiquidity of encumbered securities, in respect of which see R Elias, "Legal Aspects of Swaps and Collateral" (2001) 3(6) Journal of International Financial Markets 232, 239-240.</sentence>
+<sentence id="s296">With respect to the legal rationale, as distinct from the foregoing policy rationale, given for reaching this result, the US courts have, in large measure, relied on the same principles of construction that I have applied.</sentence>
+<sentence id="s297">First and foremost is the rule that effect must be given to the plain language of the contract construed as a whole and the objective intentions of the parties as can be gathered therefrom: see eg Modern Securities Transfers (3rd ed, 2007) s 6a:17 nn 14-15 and surrounding text.</sentence>
+<sentence id="s298">For example, in Provost 269 US at 455, one of the reasons that the Supreme Court rejected the equitable interest theory was that the agreement contained no provision restricting the broker from disposing of the shares or requiring the broker to "at all times have on hand specific securities for delivery to the customer on payment of the amount of the broker's advances for the customer's account".</sentence>
+<sentence id="s299">Similarly, in Bevill 67 BR at 597, the court concluded that the "unequivocal language of purchase and sale ... is strong prima facie evidence that the parties intended the transactions to be treated accordingly".</sentence>
+<sentence id="s300">See also Granite Partners 17 FSupp2d at 302 (stating that the unequivocal intention of the parties as evinced in the language of the agreement must be honoured).</sentence>
+<sentence id="s301">It is true that US courts will (as Australian courts also will) look to extrinsic evidence in construing securities lending agreements if the plain language is ambiguous.</sentence>
+<sentence id="s302">For example in Bevill 67 BR at 590 the court stated that consideration of extrinsic evidence was appropriate because the agreements there also had "terms customarily found in secured loan transactions".</sentence>
+<sentence id="s303">However, the court went on to say (at 598) that "[t]he mere presence of secured loan characteristics in [securities lending] agreements is not enough to negate the parties' voluntary decision to structure the transactions as purchases and sales" (quoted with approval in Granite Partners 17 FSupp2d at 302).</sentence>
+<sentence id="s304">Second, the US cases also adhere to the view that a commercial contract should be construed with a view to the background, context, and market in which the parties are operating: Bevill 67 BR at 597, quoted with approval in Granite Partners 17 FSupp2d at 301; see also Modern Securities Transfers s 6a:17 n 17 and surrounding text.</sentence>
+<sentence id="s305">Third, the US authorities appear to adopt the same view of Lord Devlin in Chow Yoong Hong [1962] AC 209 that the economic substance of a transaction does not and should not affect the legal characterisation of the contract between the parties to the transaction.</sentence>
+<sentence id="s306">In Bevill 67 BR, the court expressed the point as follows (at 597, also quoted with approval in Granite Partners 17 FSupp2d at 301): 
+ [W]hile the risk of market fluctuations in the value of the underlying securities rests with the original seller, this truism is of no legal consequence.</sentence>
+<sentence id="s307">The seller's interest in the market value of the securities is no greater in a secured loan transaction where he retains beneficial ownership of the securities than in a purchase and sale transaction where he is contractually bound to reacquire ownership of them.</sentence>
+<sentence id="s308">Clearly, any attempt to determine whether a repo or reverse repo transaction is more like a secured loan than a purchase and sale by weighing economic factors on a finely tuned balance scale would be an essentially formalistic and ultimately unproductive exercise.</sentence>
+<sentence id="s309">
+
+ There is one area in which it may appear at first glance that the US authorities diverge.</sentence>
+<sentence id="s310">While it is accepted in the US that, as between the parties to the transactions, securities lending agreements are to be honoured as purchase-and-sales rather than loans, the courts have also stated that such agreements may be characterised differently in other contexts: see Nebraska Department of Revenue v Loewenstein [1994] USSC 56 ; (1994) 513 US 123 (treating a repo as a collateralised loan under a certain provision of the tax code); Resolution Trust Corp v Aetna Casualty &amp; Surety Corp of Illinois (7 th Cir [1994] USCA7 614 ; 1994) 25 F3d 570 (treating a repo as a collateralised loan for purposes of a loan-loss exclusion in an insurance agreement).</sentence>
+<sentence id="s311">Without descending too far into the details of these cases, the important point for present purposes is to clarify that they do not represent a contrary line of authority; rather, they simply stand for the proposition that although the court should, on general freedom of contract grounds, honour the structure of a transaction adopted by the parties as between those parties , that says nothing about how those agreements should be viewed with respect to the operation of legislative acts or third party obligations external to the securities lending contract and unrelated to the question of ownership.</sentence>
+<sentence id="s312">The Supreme Court in Loewenstein put the point this way (513 US at 133-34): 
+ We do not believe it matters for purposes of &#167; 3124(a) [the provision of the tax legislation at issue] whether the repo is characterized as a sale and subsequent repurchase [or as a loan].</sentence>
+<sentence id="s313">A sale-repurchase characterization presumably would make the [securities borrowers] the "owners" of the federal securities during the term of the repo.</sentence>
+<sentence id="s314">But the dispositive question is whether the [securities borrowers] earned interest on "obligations of the United States Government," not whether the [securities borrowers] "owned" such obligations.</sentence>
+<sentence id="s315">As [the securities lender] himself concedes, "[t]he concept of 'ownership' is simply not an issue under 31 U.S.C.</sentence>
+<sentence id="s316">&#167; 3124.</sentence>
+<sentence id="s317">" 
+
+ In other words, Loewenstein simply stands for the unobjectionable proposition that the operation of a legislative act with respect to a given commercial transaction is not necessarily determined by the structure given to that transaction in the contract of the parties.</sentence>
+<sentence id="s318">Moreover, the Supreme Court (at 134) cautioned that characterisation in one context does determine characterisation of securities lending agreements in all other contexts: 
+ [The securities lender] does not specifically dispute [that in economic reality, the securities borrower receives interest on cash it has lent to the securities lender] but argues that repos are characterized as ordinary sales and repurchases for purposes of federal securities, bankruptcy, and banking law as well as commercial and local government law.</sentence>
+<sentence id="s319">We need not examine the accuracy of these assertions, for we are not called upon in this case to interpret any of those bodies of law.</sentence>
+<sentence id="s320">Our decision today is an interpretation only of 31 U.S.C.</sentence>
+<sentence id="s321">&#167; 3124(a)---not the Securities Exchange Act of 1934, the Bankruptcy Code, or any other body of law.</sentence>
+<sentence id="s322">
+
+ The decision in Resolution Trust Corp [1994] USCA7 614 ; 25 F3d 570 rests on similar reasoning.</sentence>
+<sentence id="s323">There the question was whether a loss incurred by a party to a repo transaction gone bad was excluded from coverage under a policy insuring against theft or loss of securities because of an exclusion for "loss resulting directly or indirectly from complete or partial non-payment of, or default upon, any loan or transaction in the nature of a loan or extension of credit": at 576.</sentence>
+<sentence id="s324">In response to the insured's argument that the purchase-sale form of the transaction expressed in the contract between the parties to the securities lending agreement should govern the operation of the insurance agreement as well, the court stated (at 578): 
+ This [argument] misses the mark, however, for the issue here is not whether the parties to the repurchase transactions ... intended them to be loans or purchases, but rather is whether the parties to the insuring agreements ... intended that losses stemming from repurchase transactions be covered under [the insurance agreement].</sentence>
+<sentence id="s325">The language of the Loan-Loss Exclusion, which broadly excludes from coverage losses resulting from default upon any transaction "in the nature of a loan," clearly indicates that whether a particular transaction falls within the exclusion is determined by its economic substance, not by the labels attached to it by the insured and third parties dehors the insuring agreement.</sentence>
+<sentence id="s326">
+
+ That is to say, although the parties to a securities lending transaction may properly structure it as a purchase-and-sale as between themselves, there is nothing to prevent one of those parties from then entering into a separate contract with a third party to the effect that, for purposes of that agreement, the transaction is to be characterised other than as provided for in the first agreement.</sentence>
+<sentence id="s327">Conclusion
+ I will answer the question raised for determination under O 29 (with some minor amendments) as follows: 
+ Question: "Does a Lender of Securities 'loaned' to a Borrower under the Securities Lending and Borrowing Agreement (SLA) have an equity of redemption or other equitable estate or equitable interest in those Securities or in Equivalent Securities immediately upon or after the 'loan' of those Securities by the Lender to the Borrower?</sentence>
+<sentence id="s328">" (For purposes of this question, the expressions "Borrower", "Equivalent Securities", "Lender" and "Securities" have the meaning given to them in cl 22 of the SLA.</sentence>
+<sentence id="s329">)
+ 
+ Answer: "No".</sentence>
+<sentence id="s330">I certify that the preceding seventy-five (75) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein.</sentence>
+<sentence id="s331">Associate:
+ 
+ 
+Dated: 2 May 2008
+ 
+ Counsel for the Plaintiffs: Mr M Garner 
+ 
+ Solicitor for the Plaintiffs: Holding Redlich 
+ 
+ Counsel for the First and Fifth Defendants: Mr A Archibald QC 
+Mr P Crutchfield
+Mr C Moller 
+ 
+ Solicitor for the First and Fifth Defendants: Minter Ellison 
+ 
+ Counsel for the Administrators: Mr R Strong 
+ 
+ Solicitors for the Administrators: Mallesons Stephen Jaques 
+ Date of Hearing: 21 April 2008 
+ 
+ Date of Judgment: 2 May 2008 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/594.html 
+ 
+ </sentence>
+</sentences>
+</case>

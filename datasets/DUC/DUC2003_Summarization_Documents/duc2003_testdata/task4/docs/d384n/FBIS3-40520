@@ -1,0 +1,326 @@
+
+<DOC>
+<DOCNO> FBIS3-40520 </DOCNO>
+<HT>    "jpjst007__l94014" </HT>
+
+
+<HEADER>
+<AU>   JPRS-JST-94-007L </AU>
+Document Type:JPRS 
+Document Title:Science &amp; Technology 
+
+</HEADER>
+
+<ABS>  Japan </ABS>
+<DATE1>   17 February 1994 </DATE1>
+<F P=100> Aerospace </F>
+<H3> <TI>   Mitsubishi Electric Corp. Developing Space Docking, Robot Technology </TI></H3>
+<F P=102>  93FE0879A Tokyo SENSA GIJUTSU in Japanese Jul 93 pp 65-69 -- 
+FOR OFFICIAL USE ONLY </F>
+
+<F P=103> 93FE0879A </F>
+<F P=104>  Tokyo SENSA GIJUTSU </F>
+
+
+<TEXT>
+Language: <F P=105> Japanese </F>
+Article Type:CSO 
+
+<F P=106> [Article by T. Yoshida and H. Koyama, Mitsubishi Electric </F>
+Corp.] 
+  [Text] In discussing future space developments, experts are 
+predicting a shift away from satellites that merely make use of 
+their position in space such as communication and broadcasting 
+satellites, weather satellites, earth observation satellites, 
+astronomical observation satellites, and navigation satellites 
+toward satellite/base stations (material testing satellites, 
+space factories, solar-powered satellites, and plants for 
+recovering lunar and planetary resources) that use the unique 
+zero-gravity high-vacuum environment of space to recover 
+resources and energy from space. They also are predicting a 
+shift from single-shot launches to a systematic utilization of 
+the entire space environment. In order for space to be a place 
+of industrial activity that complements the work being done on 
+earth. What is needed first is a comprehensive system called a 
+space infrastructure. 
+  What this entails specifically is building, maintaining, and 
+supporting permanent bases in space such as space stations, 
+space platforms, and lunar bases. A good example of that is the 
+ISS (international space station) project being conducted 
+jointly between the United States, Europe, Japan, and Canada, 
+but it is the space shuttle (STS) that has given new meaning to 
+the STS for the first time. 
+  The space shuttle, in addition to being reusable and being 
+manned by astronauts, has two other notable features that make 
+it different from conventional satellites in terms of orbital 
+functions. The first of these has to do with the fact that the 
+space shuttle has a rendezvous-docking function (RVD) that 
+enables it to move freely in space and rendezvous with and link 
+up with a given target. The second difference is a space 
+manipulator arm called the Canada arm. These RVD and space robot 
+technologies have made it possible for the first time to build, 
+maintain, and support the ISS. 
+  In this paper, we provide an overview of the RVD and space 
+robot technologies and describe the technical problems 
+encountered in each, and then outline where we at Mitsubishi 
+Electric are at in terms of R&amp;D being done in these areas. 
+<H5>  1. Rendezvous-Docking Technology </H5>
+  (1) Overview of Rendezvous-Docking Technology 
+  Rendezvous-docking (RVD) technology is a general term used 
+to 
+describe the overall technology for launching a spacecraft 
+called a ``chaser'' from the earth or a holding orbit toward 
+another orbiting satellite or spacecraft called a ``target,'' 
+and having the chaser spacecraft rendezvous with and link up 
+with that target spacecraft. The process in which the chaser 
+approaches the target is called the ``rendezvous,'' and the 
+process of linking up is called ``docking.'' 
+  RVD technology also includes a series of processes in which 
+after separating from the target the chaser either leaves the 
+target and returns to earth or to a fixed orbital position, or 
+is jettisoned, that is, allowed to enter the earth's atmosphere 
+and burn up. Hence, RVD technology could be called a type of 
+complex technology or system technology that spans a wide range 
+of activities. 
+  (2) Trends in Rendezvous-Docking Technology 
+  There are only two countries in the world today, the United 
+States and Russia, that have made practical use of RVD 
+technology. However, since RVD is one of the basic technologies 
+for future space activities, there is vigorous research being 
+done by other countries as well including Japan, France, and 
+Germany. 
+  Since the late 1970s, Japan has been doing research on RVD 
+technology at the National Aerospace Laboratory run by the 
+Science and Technology Agency, the National Space Development 
+Agency, and the Institute of Space and Aeronautical Science 
+operated by the Ministry of Education. In the fall of 1992, the 
+National Space Development Agency installed a computer graphics 
+driven simulator at the Tsukuba Space Center to do research and 
+testing on RVD systems. 
+  The Ministry of International Trade and Industry (Institute 
+for Unmanned Space Experiment Free Flyer), the Ministry of 
+Education (Institute of Space and Aeronautical Science), and the 
+Science and Technology Agency (National Space Development 
+Agency) are also jointly involved in developing a space 
+experiment and observation free flyer called the Space Flyer 
+Unit (SFU) which is targeted for launch a year and a half from 
+now. The Space Flyer Unit will be Japan's first reusable 
+satellite. After being launched by a Japanese H-II rocket, the 
+satellite will be recovered by a U.S. space shuttle and sent 
+back to Japan to be reused (cf. Figure 1).[.sup](1)[/] The 
+SFU will be equipped with a navigational guidance and control 
+system that can control the spacecraft for up to 44 hours, and 
+will be used to take it from an operational orbit to the space 
+shuttle recovery point under its own power. In that sense, the 
+SFU is expected to be the first Japanese satellite to perform a 
+rendezvous. 
+
+
+
+  Another project being planned is the ETS-VII (8th 
+engineering 
+test satellite). The National Space Development Agency is 
+currently working on the preliminary design and schedule for 
+launching the ETS-VII in 1997. It will be the first time that 
+Japan will perform a major RVD experiment in orbit which 
+includes docking. As far as future projects, we are looking into 
+other uses for RVD technology in the HOPE space shuttle that 
+will be launched by an H-II rocket, and will be used to supply 
+the international space station (ISS). In Figure 2 [figure not 
+reproduced], we show a conceptual drawing of the HOPE rendezvous 
+with the ISS.[.sup](1)[/] 
+  In conventional rendezvous-docking as performed by the 
+United 
+States, a pilot from a manned spacecraft performs the rendezvous 
+and docking while maneuvering the spacecraft. The former Soviet 
+Union used to use a similar technology but later switched to an 
+automated RVD system. The type of docking done by both the 
+United States and former Soviet Union is called impact docking 
+because of the fast relative speeds during docking (about 
+0.2-0.5 m/s). Compared with that, Japan is considering an 
+automated type RVD technology in an unmanned spacecraft 
+(remotely controlled from the ground). It will be a low-impact 
+type (2-3 cm/s) so that docking speed will have little effect on 
+the equipment carried aboard the spacecraft. This new type of 
+RVD technology has proven to be quite a challenge so far in the 
+R&amp;D being done by the United States and Europe, but Japan 
+hopes 
+that with the ETS-VII that it will become the first country in 
+the world to test this new technology. 
+  (3) Work Done by Mitsubishi Electric on Rendezvous-Docking 
+Technology 
+  At Mitsubishi Electric, we first began to realize the 
+importance of RVD technology in the late 1970s right after Japan 
+
+<FIG ID=JPRS-JST-007LC-14A>  Figure 1.  Conceptual Drawing of SFU Operational Sequence </FIG>
+
+had become the third country in the world to launch a 
+geostationary satellite, and subsequently built up a lot of 
+R&amp;D 
+over the next 10 years. In recent years, the activities with 
+which we have been involved include supporting the joint 
+research between the National Aerospace Laboratory and the 
+National Space Development Agency, taking part in joint research 
+with the Institute of Space and Aeronautical Science, 
+supervising research commissioned by the National Space 
+Development Agency, organizing the SFU system, and designing a 
+navigational guidance and control system. While being receptive 
+to guidance from many quarters, we have concurrently pushed 
+ahead with in-house developments.[.sup](1)[/] 
+  The R&amp;D spans many diverse fields including sensors 
+(imaging 
+sensors, laser sensors, etc.), equipment such as docking 
+facilities, on-board computers, navigational guidance and 
+control systems, flight management systems, S/W AND H/W 
+simulators, and design and analysis programs. An example of this 
+is the docking dynamic simulator (DDS) shown in Figure 3 which 
+we developed in-house in 1990. The DDS is a unit that has the 
+capability to precisely reproduce the six degrees of relative 
+rotational and translational motion in a zero-gravity 
+environment for two spacecraft as they dock and separate. France 
+is the only other country in the world with a zero-gravity 
+motion simulator based on a similar principle of operation. This 
+piece of equipment has been attracting a lot of attention both 
+inside and outside Japan. 
+
+
+
+<H5>  2. Space Robot Technology </H5>
+  (1) Overview of Space Robot Technology 
+  The space robot, a kind of robot carried aboard a spacecraft 
+and used to perform work in space, is becoming more important in 
+terms of future space activities, and so a lot more R&amp;D is 
+going 
+
+<FIG ID=JPRS-JST-007LC-14B>           Figure 3.  Docking Dynamic Simulator </FIG>
+
+into the space robot here in Japan and elsewhere. The R&amp;D on 
+space robot technology in Japan started in the mid-1980s. From 
+1990, the National Space Development Agency has been developing 
+plans to do orbital experiments on space robot technology using 
+the ETS-VII. 
+  In 1991, the National Space Development Agency installed a 
+space robot test bed at the Tsukuba Space Center that provided 
+an environment approximating actual operating conditions in 
+space for the purpose of doing research and testing on the 
+element technologies needed for such a space robot. 
+  (2) Work Done by Space Robot 
+  The space robot has two different configurations depending 
+on 
+the type of work it is doing. There is the remote-controlled 
+space robot and the autonomous space robot. 
+  After a chaser spacecraft has rendezvoused and linked up 
+with 
+the target spacecraft it is to service using the rendezvous 
+technology described in the foregoing sections of this report, 
+the remote-controlled space robot is used to perform tasks such 
+as replacing orbital replacement units (ORU), assembling 
+structural elements such as trusses, assisting with other 
+structural work, assisting with space experiments, and making 
+repairs, all done by remote-control instructions received from 
+the ground. What we mean here by the ORU is a module that is 
+loaded with replacement batteries and supplemental propellant. 
+  The autonomous-type space robot is a space robot having 
+sophisticated autonomous features that do not require human 
+intervention at all. The autonomous space robot was designed for 
+doing busing work by an unmanned spacecraft which is almost 
+impossible to do by remote control from earth, and for 
+performing activities in deep space where human intervention is 
+basically impossible. An example of the busing work done by an 
+autonomous space robot is illustrated in the conceptual drawing 
+of ASREX (automatic satellite retrieval experiment) shown in 
+Figure 4 that was part of a joint research project conducted 
+with the Education Ministry's Institute of Space and 
+Aeronautical Science in 1987.[.sup](1)[/] 
+
+
+
+  (3) Work Done by Mitsubishi Electric on Space Robot 
+Technology 
+  Mitsubishi Electric has been working non-stop to develop the 
+technologies for the two types of space robots mentioned 
+above.[.sup](1,2)[/] A major problem that we have encountered 
+in developing the remote-controlled space robot has been finding 
+a way to resolve the time delays in the data communication 
+pathways that connect the operator on the ground with the space 
+
+<FIG ID=JPRS-JST-007LC-15A>  Figure 4. Conceptual Drawing of Automated Busing Work of Satellite </FIG>
+
+robot, and also the limitations on the amount of information 
+that can be transmitted. For the reason, we will have to come up 
+with several ways to compensate for the addition of partial 
+autonomy in the orbital system, and for the deterioration in 
+maneuverability. 
+  In specific terms, we recognized the effectiveness of 
+introducing a force control system in the orbital system for 
+permitting alignment and maneuvering errors due to remote 
+control, and the effectiveness of introducing a prediction 
+display screen in the ground system to enable the operating 
+status of the space robot to be predicted in real time with the 
+help of a computer. We also confirmed the effectiveness of 
+shaping the robot fingers, the objects to be worked on, and the 
+work sequence itself so as to make the work done by the space 
+robot that much more easier (robot-friendly). In Figure 5, we 
+show a schematic drawing of a ground-based experiment involving 
+a remote-controlled space robot developed by Mitsubishi 
+Electric.[.sup](1)[/] 
+
+
+<FIG ID=JPRS-JST-007LC-15B>  Figure 5. Ground Based Experiment on Remote-Controlled Space Robot </FIG>
+
+
+
+  In the meantime, one of the main goals in developing the 
+autonomous space robot is to perfect the busing work involved in 
+capturing and releasing a target satellite. In order to develop 
+a space robot that will be able to perform the required busing 
+work on its own, one of the major things that must be done is to 
+develop test apparatus that enable us to do simulations on the 
+ground that take into account the bi-directional movement of the 
+target satellite captured with the satellite vehicle in a 
+zero-gravity environment so that we might develop the necessary 
+control algorithms, busing sensors, and confirm these functions 
+and operations. 
+  Therefore, Mitsubishi Electric has been working on a 
+ground-based test apparatus called the ``busing simulator'' 
+equipped with an arm that will enable the motion of the 
+satellite vehicle and the target satellite to be simulated 
+during capture and release of the target satellite by the arm. 
+In Figure 6 [figure not reproduced], we show the busing work 
+done by the busing simulator. 
+  The busing simulator enables simulation of the six degrees 
+of 
+relative motion between the satellite main unit and target. The 
+right side of the photo shows the satellite vehicle with robot 
+arm, and the left side of the photo shows the target satellite. 
+The satellite vehicle has been provided with visual sensors to 
+measure the relative position and relative attitude against that 
+of the target satellite. 
+<H5>  3. Future Prospects </H5>
+  Rendezvous-docking and space robot technologies will be as 
+important to future space developments as the wheel was to the 
+automobile. 
+  A report issued by the long-term policy committee in the 
+Space Activities Commission (PM Office), commenting on plans 
+beyond the 21st century, said that Japan will continue taking 
+part in international joint ventures in areas such as the space 
+station, and that it will build its own space station and turn 
+this into a base for building large space factories and 
+maintaining and operating low-cost space shuttles. The report 
+also talked about Japan expanding its space probe activities 
+including on-going observations of space from a large facility 
+in space, and making direct probes to other bodies in the solar 
+system and taking back samples from those places. 
+  Rendezvous-docking technology and space robot technology are 
+expected to form a solid technological base for achieving the 
+large-scale space activities that we have mentioned above. 
+Bibliography 
+  1. Kawauchi, Yoshida, Inoue: ``Space Robot and 
+Rendezvous-Docking Technologies,'' Mitsubishi Denki Giho, Vol 
+65, No 10, pp 61-65, (1991) 
+  2. Koyama, et al.: ``Control Technology Used in Space 
+Robot,'' Mitsubishi Denki Giho, Vol 66, No 7, pp 11-15, (1991) 
+
+</TEXT>
+
+</DOC>

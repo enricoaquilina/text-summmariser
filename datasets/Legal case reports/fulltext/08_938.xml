@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<case>
+<name>Centrestage Management Pty Ltd v Riedle [2008] FCA 938 (20 June 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/938.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">computer programs</catchphrase>
+<catchphrase "id=c1">contract for supply</catchphrase>
+<catchphrase "id=c2">implied licence in purchaser to use program without thereby infringing vendor's copyright</catchphrase>
+<catchphrase "id=c3">whether implied term that purchaser have access to source code.</catchphrase>
+<catchphrase "id=c4">implied terms</catchphrase>
+<catchphrase "id=c5">terms implied by law in contracts of a particular type independently of parties' actual or presumed intention</catchphrase>
+<catchphrase "id=c6">terms implied to give business efficacy to a particular contract</catchphrase>
+<catchphrase "id=c7">contract for supply of computer program</catchphrase>
+<catchphrase "id=c8">implied licence in purchaser to use program without thereby infringing vendor's copyright</catchphrase>
+<catchphrase "id=c9">whether implied term that purchaser have access to source code</catchphrase>
+<catchphrase "id=c10">copyright</catchphrase>
+<catchphrase "id=c11">contract</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ BACKGROUND 
+ 
+1 The appellant was incorporated on 18 November 2003.</sentence>
+<sentence id="s1">It provides administration and computer consultancy services.</sentence>
+<sentence id="s2">Its directors are David Roberts and Conni Paglianiti.</sentence>
+<sentence id="s3">In 2000 Mr Roberts, as an employee of Advanced Administration Services Pty Ltd (AAS), wrote a computer program for the Salvation Army for its home collection services.</sentence>
+<sentence id="s4">The program was written in Visual Basic.</sentence>
+<sentence id="s5">In 2002 Mr Roberts upgraded the program, again in Visual Basic and still as an employee of AAS.</sentence>
+<sentence id="s6">AAS went into administration on 21 November 2003 and was later wound up.</sentence>
+<sentence id="s7">2 In late 2003 the Salvation Army told Mr Roberts it was contemplating a further upgrade of its home collection program.</sentence>
+<sentence id="s8">Mr Roberts was unable to do the upgrade himself, partly because at that time he was in full time employment with Eastern Ocean Pty Ltd. Mr Roberts discussed the upgrade with the respondent, a computer programmer.</sentence>
+<sentence id="s9">It was agreed that the respondent would prepare a proposal for the project to be given by the appellant to the Salvation Army.</sentence>
+<sentence id="s10">It was later agreed that the respondent would provide the updated program in three stages.</sentence>
+<sentence id="s11">The program would be written by the respondent in the .NET language.</sentence>
+<sentence id="s12">He would be paid by the appellant $19,800 for the first stage, a sum to be determined later for the second stage, and $13,200 for the third stage.</sentence>
+<sentence id="s13">The appellant's contract with the Salvation Army provided for payment to the appellant of a sum greater than that payable by the appellant to the respondent.</sentence>
+<sentence id="s14">The appellant gave the respondent a copy of the 2002 version of the program to enable him to update it.</sentence>
+<sentence id="s15">3 The respondent provided the first stage of the upgrade and was paid for it.</sentence>
+<sentence id="s16">The second stage did not proceed, as it was deferred pending the Salvation Army buying GPS equipment for its collection trucks.</sentence>
+<sentence id="s17">The third stage was not completed.</sentence>
+<sentence id="s18">4 On 7 November 2005 Mr Roberts told the respondent by email that he had to "look at the home collections database for the Salvos", and asked the respondent to send him "the project files".</sentence>
+<sentence id="s19">The respondent did not reply to the request, and on 22 November Ms Paglianiti asked him whether she could pick up the "home collections database" from his home.</sentence>
+<sentence id="s20">He replied on the same day that "we need to resolve payment for IP and Report Design work already undertaken first".</sentence>
+<sentence id="s21">5 On 7 December 2005 the respondent received a letter from the appellant's solicitors requesting a copy of the source code for the program.</sentence>
+<sentence id="s22">The solicitors claimed that the respondent had no intellectual property rights in the source code.</sentence>
+<sentence id="s23">The respondent did not supply the source code, and in February 2006 the appellant brought proceedings in the Federal Magistrates Court claiming, inter alia, that the respondent's refusal to hand over the source code was a breach of his contract of employment with the appellant.</sentence>
+<sentence id="s24">The appellant sought
+ 
+&#8226; an injunction restraining the respondent from copying, using or disclosing the updated home collection program and its source code (the materials)
+ 
+&#8226; an order that the respondent deliver up the materials to the appellant
+ 
+&#8226; a declaration that the appellant is the proprietor of the copyright in the materials
+ 
+&#8226; damages for breach of contract.</sentence>
+<sentence id="s25">6 The respondent cross claimed for
+ 
+&#8226; a declaration that he owned the copyright in the updated program
+ 
+&#8226; an injunction restraining the appellant from reproducing the source code in the program
+ 
+&#8226; an order that the appellant pay him $6,600 for work done on the third stage of the project.</sentence>
+<sentence id="s26">7 The Magistrate dismissed the application, and on the cross claim granted the injunction and ordered the payment of $275 for work done on the third stage of the project.</sentence>
+<sentence id="s27">8 The Magistrate rejected the appellant's claim that the respondent was its employee, dismissed its claim that it was an implied term of their contract that the appellant was entitled to delivery up of the source code, and its claim that it was the proprietor of the copyright in the updated program.</sentence>
+<sentence id="s28">ISSUES ON APPEAL 
+ 
+9 Three issues call for decision.</sentence>
+<sentence id="s29">The parties are agreed as to the formulation of two of the issues.</sentence>
+<sentence id="s30">The first is whether the Magistrate erred in holding that the respondent was an independent contractor rather than an employee of the appellant.</sentence>
+<sentence id="s31">The second is whether, on the basis that the respondent owned the copyright in the updated program, her Honour erred in concluding that while it was an implied term of the relationship between the parties that the appellant had a licence to use the "application", the licence did not extend to the right to access and use the source code.</sentence>
+<sentence id="s32">The parties did not agree upon the formulation of the third issue.</sentence>
+<sentence id="s33">The appellant contended that it was whether the Magistrate had failed to deal with the question whether, if "version 3" of the program was an adaptation of "version 2", so that the respondent was not the owner of the copyright in "version 3", he was obliged to deliver up the source code regardless of who was the owner.</sentence>
+<sentence id="s34">The respondent said the question was whether, having found that the appellant was not the owner of the copyright in "version 2", the Magistrate was correct in concluding that the respondent was not obliged to deliver up the source code.</sentence>
+<sentence id="s35">It will be necessary later to identify the true issue that was before the Magistrate.</sentence>
+<sentence id="s36">The expressions "version 1", "version 2" and "version 3" are respectively references to Mr Roberts' initial program (2002), his update (2002) and the respondent's update.</sentence>
+<sentence id="s37">EMPLOYEE OR INDEPENDENT CONTRACTOR 
+ 
+10 A computer program is a literary work for the purposes of the Copyright Act 1968 (Cth) (the Act).</sentence>
+<sentence id="s38">Section 35(2) provides:
+ Subject to this section, the author of a literary ... work is the owner of any copyright subsisting in the work by virtue of this Part.</sentence>
+<sentence id="s39">Sub-section (6) provides:
+ Where a literary ... work ... is made by the author in pursuance of the terms of his or her employment by another person under a contract of service ..., that other person is the owner of any copyright subsisting in the work by virtue of this Part.</sentence>
+<sentence id="s40">It was that sub-section which gave rise to the first issue: whether the respondent was an employee of the appellant or an independent contractor when he wrote the program.</sentence>
+<sentence id="s41">11 The parties were basically in agreement as to the law to be applied in answering this question.</sentence>
+<sentence id="s42">In Stevens v Brodribb Sawmilling Co Pty Ltd [1986] HCA 1 ; (1986) 160 CLR 16 at 24 Mason J said:
+ A prominent factor in determining the nature of the relationship between a person who engages another to perform work and the person so engaged is the degree of control which the former can exercise over the latter ....</sentence>
+<sentence id="s43">But the existence of control, whilst significant, is not the sole criterion by which to gauge whether a relationship is one of employment.</sentence>
+<sentence id="s44">The approach of this Court has been to regard it merely as one of a number of indicia which must be considered in the determination of that question .... Other relevant matters include, but are not limited to, the mode of remuneration, the provision and maintenance of equipment, the obligation to work, the hours of work and provision for holidays, the deduction of income tax and the delegation of work by the putative employee.</sentence>
+<sentence id="s45">12 In Roy Morgan Research Centre Pty Ltd v Commissioner of State Revenue (Victoria) (1997) 37 ATR 528 at 533 the Victorian Court of Appeal said that the determination of the employee/independent contractor question involves identifying factors or indicia that are capable of pointing in one direction or another, none of which is conclusive, and weighing or balancing them in order to reach a conclusion.</sentence>
+<sentence id="s46">13 The cases have identified many indicia, in addition to those to which Mason J referred, that are relevant to the inquiry.</sentence>
+<sentence id="s47">See, for example, Vabu Pty Ltd v Commissioner of Taxation (1996) 33 ATR 537 at 538 and D &amp; D Tolhurst Pty Ltd v Commissioner of State Revenue (1997) 38 ATR 1001 at 1013-1014.</sentence>
+<sentence id="s48">14 The Magistrate first instructed herself in accordance with the relevant authorities, including those referred to above.</sentence>
+<sentence id="s49">She then noted various indicia relevant to the characterisation process.</sentence>
+<sentence id="s50">They included that the respondent was a sole operator, had an ABN, sent invoices which included GST, used his own motor vehicle and secretarial facilities without expenses or allowances from the appellant, was at liberty to take other work, worked at home without supervision, and attended meetings with the appellant's clients without the appellant being present.</sentence>
+<sentence id="s51">Her Honour also recorded that the appellant did not advise the Tax Office that the respondent was its employee and did not deduct PAYE.</sentence>
+<sentence id="s52">Nor was the respondent provided with sick leave, annual leave or superannuation.</sentence>
+<sentence id="s53">The Magistrate referred to other indicia, pointing one way or the other.</sentence>
+<sentence id="s54">See [16] to [54].</sentence>
+<sentence id="s55">15 The appellant summarised its complaints about the Magistrate's characterisation of the respondent's work status in three propositions:
+ 
+(a) her Honour was incorrect in deciding that the indicia she relied upon were the correct set of indicia and were exhaustive of the determination of that issue;
+ 
+(b) her Honour ignored or gave little or no regard to concrete written expressions by the respondent of his intentions as to the nature and terms of "the employment";
+ 
+(c) her Honour gave no weight or no sufficient weight to
+ 
+(i) the nature of the relationship between the parties, including industry practice, and
+ 
+(ii) "implications that should arise as a consequence of the need to give business efficacy to the agreement".</sentence>
+<sentence id="s56">16 In a comprehensive and detailed set of reasons on this issue, covering sixteen pages, the Magistrate dealt with many matters other than those to which she ultimately accorded particular weight, including those the subject of particular complaint in pars (b) and (c) at [15].</sentence>
+<sentence id="s57">Having done so, her Honour announced her conclusion as follows:
+ Taking into account all of the matters mentioned above and considering the matter as a whole, it is clear to me that the respondent worked for the applicant as an independent contractor.</sentence>
+<sentence id="s58">The respondent had his own ABN.</sentence>
+<sentence id="s59">He charged the applicant GST.</sentence>
+<sentence id="s60">The applicant claimed an input tax credit for the GST.</sentence>
+<sentence id="s61">The applicant did not [deduct] pay as you go income-tax instalment deductions from the amounts paid to the respondent.</sentence>
+<sentence id="s62">The respondent charged the applicant a fixed price for the work.</sentence>
+<sentence id="s63">The respondent was given no holiday pay, sick pay, superannuation or workers compensation insurance.</sentence>
+<sentence id="s64">The respondent was free to take other work and did including other work from the Salvation Army.</sentence>
+<sentence id="s65">The respondent, in my view, was clearly in business on his own account.</sentence>
+<sentence id="s66">Notwithstanding that Mr Roberts exercised some control over the overall direction of the project, and the respondent was doing a major job for the applicant, the respondent was not an employee.</sentence>
+<sentence id="s67">17 The Magistrate did not treat the matters recorded in the second to seventh sentences of that passage as a "correct set of indicia".</sentence>
+<sentence id="s68">They were the matters that appealed to her as determinative after weighing and balancing a much larger range of indicia, including those relied on by the appellant.</sentence>
+<sentence id="s69">On a fair reading of the Magistrate's reasons, it cannot be said that the list of specific matters recorded in the passage quoted at [16] was propounded as "exhaustive of the determination of that question".</sentence>
+<sentence id="s70">18 For the same reason I do not accept Counsel's oral variation of the "correct set of indicia" submission.</sentence>
+<sentence id="s71">This was that the Magistrate ticked off the matters on her check list and thus reached the wrong result because the list was incomplete.</sentence>
+<sentence id="s72">19 For the foregoing reasons there is in my view no substance in complaint (a) at [15].</sentence>
+<sentence id="s73">20 The "concrete written expressions" of the respondent's intentions as to the "nature and terms of his employment" in complaint (b) at [15] were twofold.</sentence>
+<sentence id="s74">The first was that in his "Proposal to Develop a Call Centre Application" sent to Mr Roberts on 20 May 2004, he described himself as "Centre Stage Management Development Manager (Tony Riedle)".</sentence>
+<sentence id="s75">As to the significance of this title, the Magistrate said:
+ The applicant says that this means that the respondent acknowledged that he was not an independent contractor but that he occupied a position as a designated employee of the applicant.</sentence>
+<sentence id="s76">In my view, that reads too much into the title the respondent gave himself.</sentence>
+<sentence id="s77">The proposal was to be provided to the Salvation Army.</sentence>
+<sentence id="s78">As between the applicant and the Salvation Army, the respondent was on the applicant's team.</sentence>
+<sentence id="s79">That was sufficient to explain the respondent's description of his position.</sentence>
+<sentence id="s80">The description does not seem to me to indicate that the respondent was holding himself out as an employee.</sentence>
+<sentence id="s81">In any event, it would only be evidence of his view at the time.</sentence>
+<sentence id="s82">As previously stated, I do not consider the views of the parties, or even their solicitors, to be of significant weight in the context of this case.</sentence>
+<sentence id="s83">21 It is thus wrong for the appellant to say that the Magistrate ignored or "gave no regard" to the title the respondent had bestowed on himself.</sentence>
+<sentence id="s84">The alternative, namely that she "gave little ... regard" to it is a fair rendering of her reasons if "regard" means "weight".</sentence>
+<sentence id="s85">However, in a balancing and weighing context such as that in question here, the very process is evaluative and involves matters of impression, perception and degree.</sentence>
+<sentence id="s86">That task is for the Magistrate.</sentence>
+<sentence id="s87">On an appeal, the Court does not proceed as if trying the case at first instance.</sentence>
+<sentence id="s88">It must accord proper weight to the Magistrate's views.</sentence>
+<sentence id="s89">The appellant must demonstrate error on the part of the Magistrate.</sentence>
+<sentence id="s90">That another view may have been open in relation to the significance of the respondent's title does not show error.</sentence>
+<sentence id="s91">In contexts such as the present, different minds might assess the significance of a particular indicium in different ways, and therefore might not reach the same ultimate conclusion after the weighing and balancing process.</sentence>
+<sentence id="s92">See generally Branir Pty Ltd v Owston Nominees (No 2) Pty Ltd (2001) 117 FCR 425 at [28] to [30].</sentence>
+<sentence id="s93">22 No error has been shown in the passage set out at [20].</sentence>
+<sentence id="s94">In particular, it seems to me to have been entirely appropriate for the Magistrate to have treated the respondent's use of the title, in a proposal to the Salvation Army, as a way of indicating that he was part of the appellant's team, and that it was not his intention thereby to indicate that he was the appellant's employee.</sentence>
+<sentence id="s95">23 Another indicator that the respondent saw himself as an employee is said to lie in the words used on the front of the proposal to the Salvation Army: "The information in this proposal is [proprietary] and is for the sole use of Centre Stage Management in conjunction with the Salvation Army Family Stores".</sentence>
+<sentence id="s96">This was said to demonstrate "his view of the terms of the agreement and it was not that he owned the copyright".</sentence>
+<sentence id="s97">The Magistrate said this did not greatly assist in determining the employee/independent contractor issue.</sentence>
+<sentence id="s98">She said that at most, it might indicate what one of the parties might have thought the relationship was, and that in this case that was not a matter of significant weight.</sentence>
+<sentence id="s99">24 There was no error in the Magistrate's observation that in any event no significant weight attaches to a party's view that he is an employee.</sentence>
+<sentence id="s100">As with other indicia, it would be no more than a consideration to be taken into account, and susceptible of being submerged or overwhelmed by other considerations.</sentence>
+<sentence id="s101">The authorities support the Magistrate's approach.</sentence>
+<sentence id="s102">Thus Chitty says:
+ While the expression of the parties' intention may be a relevant factor, it is not a conclusive factor in deciding what is the true nature of the contract, and where there is no written contract, the court is entitled to find contractual terms by implication.</sentence>
+<sentence id="s103">See Chitty on Contracts --- Specific Contracts 29 th ed (2004) 39-025.</sentence>
+<sentence id="s104">Chitty then quotes a passage from the reasons of Ackner LJ in Young &amp; Woods Ltd v West [1980] EWCA Civ 6 ; [1980] IRLR 201 at 208:
+ It is by now well settled that the label which the parties choose to use to describe their relationship cannot alter or decide their true relationship; but in deciding what their relationship is, the expression by them of their true intention is relevant but not conclusive.</sentence>
+<sentence id="s105">Its importance may vary according to the facts of the case.</sentence>
+<sentence id="s106">25 See also Australian Mutual Provident Society v Chaplin (1978) 18 ALR 385 at 389 (Privy Council), Narich Pty Ltd v Commissioner of Pay-roll Tax (1983) 50 ALR 417 (Privy Council) and Buildings Workers' Industrial Union v Odco Pty Ltd (1991) 99 ALR 735 at 755-756 (Full Court of this Court).</sentence>
+<sentence id="s107">26 The Magistrate accorded both the so called indications of intention in [20] and [23] some, but not significant, weight.</sentence>
+<sentence id="s108">As Ackner LJ said in the passage quoted at [24], the importance of an expression of a common intention will vary according to the facts.</sentence>
+<sentence id="s109">In the present case, not only are the matters relied on directed to the intention of the respondent alone; they struggle, in my view, to be accounted indications of his intention at all.</sentence>
+<sentence id="s110">However, I need not pursue this particular line, because the Magistrate did take both indications into account.</sentence>
+<sentence id="s111">Her Honour doubtless thought they were not entitled to significant weight because they were so indefinite and uncertain as indicators of relevant intention, and in any event indicated the intention of one party alone.</sentence>
+<sentence id="s112">27 Accordingly I reject complaint (b) at [15].</sentence>
+<sentence id="s113">28 The first part of complaint (c) at [15] is that the Magistrate gave no or insufficient weight to "the nature of the relationship between the parties including industry practice".</sentence>
+<sentence id="s114">The Magistrate recorded the appellant's argument that the nature of the programming industry in boutique operations is that the programmers are taken on for specific jobs, they work agreed hours and they work from their homes "as employees".</sentence>
+<sentence id="s115">Her Honour rejected the evidence on which this contention was based.</sentence>
+<sentence id="s116">She said at [42]:
+ I do not accept Mr Roberts' evidence on this issue because I do not accept that he appreciates the difference between an employee and independent contractor.</sentence>
+<sentence id="s117">Similarly, I do not give any significant weight to Mr Boyle's evidence that the respondent was an employee.</sentence>
+<sentence id="s118">He said, for example, that the respondent at all times took instructions from the applicant and worked under the immediate direction and scrutiny of Mr Roberts.</sentence>
+<sentence id="s119">That is, at best, a gross overstatement.</sentence>
+<sentence id="s120">The respondent generally worked at home alone or at the Salvation Army premises at times when Mr Roberts was at work some kilometres away at Eastern Ocean.</sentence>
+<sentence id="s121">29 The Magistrate had earlier (at [41]), in another connection, said that Mr Roberts displayed a very loose understanding of the notion of being an employee.</sentence>
+<sentence id="s122">She gave the example of a photographer who was paid for producing a series of photographs.</sentence>
+<sentence id="s123">Mr Roberts said the photographer would be an employee of the person who commissioned the photographs.</sentence>
+<sentence id="s124">That forms a sufficient basis for the Magistrate's rejection of his evidence on the present issue.</sentence>
+<sentence id="s125">Her Honour had the advantage, which this Court does not have, of hearing and seeing Mr Roberts give evidence, and thus of forming a view of the utility of his evidence.</sentence>
+<sentence id="s126">No error has been shown in her treatment of this issue.</sentence>
+<sentence id="s127">Mr Roberts' characterisation of the photographer, almost a paradigm of an independent contractor, illustrates the lack of worth of his evidence on this point.</sentence>
+<sentence id="s128">A further indication of Mr Roberts' failure to understand the difference between an employee and an independent contractor appears in his affidavit.</sentence>
+<sentence id="s129">He says that "IT employees ... are employed as employees on limited and often job specific tasks.</sentence>
+<sentence id="s130">They are not employed as independent contractors specialising in some specific field".</sentence>
+<sentence id="s131">30 The appellant also complains that her Honour ignored the evidence about industry practice.</sentence>
+<sentence id="s132">That is not correct.</sentence>
+<sentence id="s133">At [43] her Honour said:
+ ... general evidence that the industry practice is that computer programmers are generally employees, where the actual terms of the arrangements between the programmers and the alleged employers are not in evidence, is not particularly useful.</sentence>
+<sentence id="s134">The question of whether a particular person is an employee often involves a consideration of a large number of factors and a careful balancing exercise.</sentence>
+<sentence id="s135">The opinions of people in the industry about whether programmers in general are employees do not significantly assist with the question of whether the respondent is an employee.</sentence>
+<sentence id="s136">31 The appellant drew attention to the evidence of Adam Dennis, an IT consultant.</sentence>
+<sentence id="s137">Mr Dennis said that while some companies that employ IT employees, especially large companies, have a standard employment agreement which includes a clause stating that the employer retains copyright in any IT work undertaken by the employee, "that is not the norm in this industry".</sentence>
+<sentence id="s138">That evidence is of no present relevance.</sentence>
+<sentence id="s139">Mr Dennis also said that in his dealings with clients of every size, unless it is otherwise clearly stated, the intellectual property arising from the project belongs to "the client".</sentence>
+<sentence id="s140">That is the industry norm and reflects the "master-servant relationship between the client and the consultant".</sentence>
+<sentence id="s141">That evidence is unhelpful.</sentence>
+<sentence id="s142">The relationship Mr Dennis posits is one where he, as a consultant, does work for a client.</sentence>
+<sentence id="s143">His claim is that that relationship is one of servant and master.</sentence>
+<sentence id="s144">That says nothing about the facts of the present case, where the relationship in question is not between the appellant and its client, the Salvation Army, or between the respondent and the Salvation Army, but between the appellant and the respondent.</sentence>
+<sentence id="s145">32 The second part of complaint (c) at [15] - that the Magistrate gave no weight or no sufficient weight to "implications that should arise as a consequence of the need to give business efficacy to the agreement" - was explained by Dr Dean, who appeared for the appellant.</sentence>
+<sentence id="s146">He said that
+ to allow Riedle to control the copyright and therefore --- and the source code, should I say and all those things that go from it, would have such catastrophic consequences on the relationship between CSM and the Salvation Army that no officious bystander, looking at the common sense business relationship could possibly say that, yes, it was intended that Mr Riedle would have that control.</sentence>
+<sentence id="s147">33 The catastrophe argument was dealt with by the Magistrate at [20] to [21] of her reasons.</sentence>
+<sentence id="s148">At [20] she said:
+ The first argument put by the applicant is that the respondent must have been an employee because the consequences of the respondent owning the copyright in the program to the exclusion of the applicant and the Salvation Army were so great as to negate any suggestion that the parties intended the respondent to be an independent contractor.</sentence>
+<sentence id="s149">The applicant argues that, '[B]usiness efficacy dictates that the parties could not have intended for the relationship to be such that it divested CSM and the Salvation Army of control over the very program they were creating'.</sentence>
+<sentence id="s150">The applicant relies on the officious bystander test and says that, if it had been suggested that the respondent would own the copyright in The Program, the parties would have said, "of course not" and therefore the respondent must be an employee.</sentence>
+<sentence id="s151">34 Her Honour rejected this argument at [21].</sentence>
+<sentence id="s152">After noting that the location of ownership of the copyright in the program depended on whether the respondent was an employee or an independent contractor, and that whether he is one or the other depends on various indicia, including control, integration and whether he is in business on his own account, she concluded:
+ The copyright consequences of a person being an employee or an independent contractor are not one of the established indicia for determining whether a person is an employee or an independent contractor.</sentence>
+<sentence id="s153">35 Her Honour returned to the catastrophe argument at [48] to [50].</sentence>
+<sentence id="s154">She referred to the Copyright Law Review Committee's 1995 Report on Computer Software Protection (the 1995 Report), and noted that, despite the Committee's earlier view to the contrary, it now recommended against any change to s 35(6) of the Act in its application to computer programs.</sentence>
+<sentence id="s155">Her Honour then said:
+ even if there were unsatisfactory consequences for at least some parts of an industry if the authors of computer programs were not employees, that would not mean that the respondent was an employee.</sentence>
+<sentence id="s156">It would simply mean that thought should have been given at the outset of the project to the ownership of the copyright in The Program and an appropriate agreement should have been negotiated.</sentence>
+<sentence id="s157">36 The catastrophic consequences asserted by counsel, if they exist, are a result of the application of s 35(6) of the Act to the facts of the case.</sentence>
+<sentence id="s158">Those consequences cannot themselves produce a different result.</sentence>
+<sentence id="s159">37 Later in these reasons (at [53] to [62]) the provisions of Division 4A of the Act are examined.</sentence>
+<sentence id="s160">It is apparent from those provisions, especially ss 47D and 47E , that whatever plausibility the characterisation of the consequences of the Magistrate's decision as catastrophic may have had before the enactment of Division 4A, it has since evaporated.</sentence>
+<sentence id="s161">38 No error has been shown in the Magistrate's reasons.</sentence>
+<sentence id="s162">Although I need not go this far, in my view a finding that the respondent was an employee would have been perverse.</sentence>
+<sentence id="s163">IMPLIED LICENCE 
+ Background 
+ 
+39 The Magistrate accepted that the appellant and the Salvation Army have an implied licence to use the program.</sentence>
+<sentence id="s164">However, her Honour was of the view that the licence does not extend
+ to a right to ownership of the copyright in The Program or the delivery up of the source code of The Program.</sentence>
+<sentence id="s165">Having the source code of The Program would enable the applicant or the Salvation Army to modify the program and adapt it for the future needs of the Salvation Army.</sentence>
+<sentence id="s166">However, it can be used for its original purpose in the form that the respondent provided, subject to the alleged defects in The Program.</sentence>
+<sentence id="s167">I do not consider that an implied licence to use a computer program extends to the licensee being put in a position to amend it for possible future uses, or to correct any alleged defects in it.</sentence>
+<sentence id="s168">The cases referred to by the applicant, except the New Zealand case, do not go as far as the applicant suggests.</sentence>
+<sentence id="s169">40 The cases to which the Magistrate referred in the last sentence are De Garis v Neville Jeffress Pidler Pty Ltd (1990) 18 IPR 292 at 302-303, Beck v Montana Constructions Pty Ltd [1964-5] NSWLR 229 at 235 and Pacific Software Technology Ltd v Perry Group Ltd [2004] 1 NZLR 164.</sentence>
+<sentence id="s170">Her Honour put the New Zealand case aside because it turned on legislation providing that a person who commissions the making of a computer program is the first owner of the copyright in the program ( Copyright Act 1994 (NZ) s 21).</sentence>
+<sentence id="s171">Some terminology 
+ 
+41 An understanding of some basic concepts involved in the construction of a computer program assists in understanding the appellant's implied term argument.</sentence>
+<sentence id="s172">The following description of the general nature of a computer program is taken from the judgment of Gibbs CJ in Computer Edge Pty Ltd v Apple Computer Inc [1986] HCA 19 ; (1986) 161 CLR 171 at 178-179.</sentence>
+<sentence id="s173">A computer program is a set of instructions designed to cause a computer to perform a particular function or to produce a particular result.</sentence>
+<sentence id="s174">A program is usually developed in a number of stages.</sentence>
+<sentence id="s175">First, the sequence of operations the computer will be required to perform is commonly written out in ordinary language.</sentence>
+<sentence id="s176">Next a source program is prepared, usually in a source code which is human-readable.</sentence>
+<sentence id="s177">The source code cannot be used directly in the computer, and must first be converted into an object code, which is machine-readable.</sentence>
+<sentence id="s178">The program is executed by the computer's central processing unit.</sentence>
+<sentence id="s179">See Data Access Corporation v Powerflex Services Pty Ltd [1999] HCA 49 ; (1999) 202 CLR 1 at [4] .</sentence>
+<sentence id="s180">42 Computer programs in object code form cannot be rendered in source code form without making a copy.</sentence>
+<sentence id="s181">Making a copy of a copyright work without the copyright owner's permission is an infringement of copyright.</sentence>
+<sentence id="s182">In order to learn how a computer program in object code form works without access to the version in source code form, it is necessary to employ a process called 'decompilation', which involves the production of a copy of the program.</sentence>
+<sentence id="s183">This process is essentially 'reverse engineering'.</sentence>
+<sentence id="s184">See the Second Reading Speech to the Bill that became the Copyright Amendment (Computer Programs) Act 1999 .</sentence>
+<sentence id="s185">Implication of terms 
+ 
+43 The appellant contended that, as a matter of law, in the absence of a provision to the contrary, a contract for the manufacture of a computer program has as one of its terms an implied licence to the purchaser not only to use the program but as well to have access to its source code.</sentence>
+<sentence id="s186">Frequent reference by the appellant to the need to give business efficacy to the contract in question here leads me to understand that it was put, in the alternative, that a term is to be implied to the above effect in order to provide that efficacy.</sentence>
+<sentence id="s187">44 Chitty says of terms implied by law:
+ The implication of a term is a matter of law for the court, and whether or not a term is to be implied is usually said to depend upon the intention of the parties as collected from the words of the agreement and the surrounding circumstances.</sentence>
+<sentence id="s188">In many cases of contract, however, implied terms have become standardised, and it is somewhat artificial to attribute such terms to the unexpressed intention of the parties.</sentence>
+<sentence id="s189">The court is, in fact, laying down a general rule that in all contracts of a defined type --- for example, sale of goods, landlord and tenant, employment, the carriage of goods by land or sea --- certain terms will be implied, unless the implication of such a term would be contrary to the express words of the agreement.</sentence>
+<sentence id="s190">Such implications do not depend on the intention of the parties, actual or presumed, but on more general considerations.</sentence>
+<sentence id="s191">Of the terms implied in particular contracts, Chitty says:
+ In many cases, however, one or both of the parties will seek to imply a term from the wording of a particular contract and the facts and circumstances surrounding it.</sentence>
+<sentence id="s192">The court will be prepared to imply a term if there arises from the language of the contract itself, and the circumstances under which it is entered into, an inference that the parties must have intended the stipulation in question.</sentence>
+<sentence id="s193">An implication of this nature may be made in two situations: first, where it is necessary to give business efficacy to the transaction, and, secondly, where the term implied represents the obvious, but unexpressed, intention of the parties.</sentence>
+<sentence id="s194">These two criteria often overlap and, in many cases, have been applied cumulatively, although it is submitted that they are, in fact, alternative grounds.</sentence>
+<sentence id="s195">Both, however, depend on the presumed intention of the parties.</sentence>
+<sentence id="s196">See Chitty on Contracts, General Principles 29 th ed (2004) at 13-003 --- 13-004.</sentence>
+<sentence id="s197">45 In Codelfa Constructions Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 at 345-346 Mason J adverted to the difference between these two categories of implied terms:
+ Of course, I am speaking of an implied term necessary to give business efficacy to a particular contract, not of the implied term which is a legal incident of a particular class of contract, of which Liverpool City Council v. Irwin [1976] UKHL 1 ; [1977] AC 239 is an example.</sentence>
+<sentence id="s198">The difference between the two categories of implied term was mentioned by Viscount Simonds in Lister v. Romford Ice and Cold Storage Co Ltd [1956] UKHL 6 ; [1957] AC 555 at 576, where he referred to the search for the second category of implied term as being based 'upon more general considerations', a comment endorsed by Lord Wilberforce in Irwin at 255.</sentence>
+<sentence id="s199">46 Liverpool City Council v Irwin [1976] UKHL 1 ; [1977] AC 239 ( Liverpool ) concerned multi-story council owned dwellings.</sentence>
+<sentence id="s200">The landlord retained control over common parts of the building.</sentence>
+<sentence id="s201">There had been a problem with vandalisation of the common parts.</sentence>
+<sentence id="s202">The question was whether the landlord was obliged to keep the common parts in repair.</sentence>
+<sentence id="s203">There was no express obligation to that effect in the leases.</sentence>
+<sentence id="s204">The House of Lords implied an obligation to take reasonable care to keep the common parts in reasonable repair and useability.</sentence>
+<sentence id="s205">After identifying instances of implication, including where there is an established usage in the relevant trade or activity and where without a term the contract will not work, Lord Wilberforce said at 254:
+ The present case, in my opinion, represents a fourth category, or I would rather say a fourth shade on a continuous spectrum.</sentence>
+<sentence id="s206">The court here is simply concerned to establish what the contract is, the parties not having themselves fully stated the terms.</sentence>
+<sentence id="s207">In this sense the court is searching for what must be implied.</sentence>
+<sentence id="s208">After considering various possible implications, his Lordship went on at 254:
+ In order to be able to choose between these, it is necessary to define what test is to be applied, and I do not find this difficult.</sentence>
+<sentence id="s209">In my opinion such obligation should be read into the contract as the nature of the contract itself implicitly requires, no more, no less: a test, in other words, of necessity.</sentence>
+<sentence id="s210">He then explained, by reference to the relationship between the parties (landlord and tenant) and the nature of the buildings (multi-occupation high rise dependent on stairs, lifts and chutes for access and liveability), that it was necessary that the landlord have some obligation to keep the common areas in repair.</sentence>
+<sentence id="s211">His Lordship concluded that since the test of the existence of the term was "necessity", the standard of repair required should not exceed what was necessary having regard to the circumstances.</sentence>
+<sentence id="s212">47 The "necessity" test was adopted by the Privy Council in Tai Hing Cotton Mill Ltd v Liu Chong Hing Bank Ltd [1986] AC 80 at 104-105.</sentence>
+<sentence id="s213">The Board referred to Lord Salmon's explication of "necessity" in Liverpool --that the term sought to be implied must be one without which the whole transaction would become "inefficacious, futile and absurd".</sentence>
+<sentence id="s214">48 The implication of terms "independent of intention" was considered in some detail in the judgment of McHugh and Gummow JJ in Byrne v Australian Airlines Ltd [1995] HCA 24 ; (1995) 185 CLR 410 ( Byrne ).</sentence>
+<sentence id="s215">At 447-448 their Honours said:
+ What, then, is involved in the proposition that a contractual term is implied as a matter of law rather than as the assumed intention of the parties?</sentence>
+<sentence id="s216">There is at least one basic distinction.</sentence>
+<sentence id="s217">It is that ... terms implied by the application of what one might call the business efficacy test are terms unique to the particular contract in question, depending upon the form of the contract, the express terms and the surrounding circumstances.</sentence>
+<sentence id="s218">By contrast, terms implied by law are, in general, implied in all contracts of a particular class or which answer a given description.</sentence>
+<sentence id="s219">49 Later at 450 their Honours said:
+ Many of the terms now said to be implied by law in various categories of case reflect the concern of the courts that, unless such a term be implied, the enjoyment of the rights conferred by the contract would or could be rendered nugatory, worthless, or, perhaps, be seriously undermined.</sentence>
+<sentence id="s220">Hence, the reference in the decisions to "necessity".</sentence>
+<sentence id="s221">This notion of "necessity" has been crucial in the modern cases in which the courts have implied for the first time a new term as a matter of law.</sentence>
+<sentence id="s222">50 Their Honours then quoted with approval the passage from Lord Wilberforce's speech in Liverpool set out at [46], and observations to the same effect by the House of Lords in Scally v Southern Health and Social Services Board [1992] 1 AC 294 at 307.</sentence>
+<sentence id="s223">51 At 452-453, in applying the necessity test to the suggested implication of a term in contracts of employment, their Honours said there was no "necessity" for such a step because the contracts were not, from the viewpoint of the employee, rendered nugatory in the absence of such a term.</sentence>
+<sentence id="s224">Nor was there anything to suggest that they were not "workable and effective" without it.</sentence>
+<sentence id="s225">And this was not a case where the provision was necessary "lest the contract be deprived of its substance, seriously undermined or drastically devalued in an important respect".</sentence>
+<sentence id="s226">Obligation to provide source code implied by law?</sentence>
+<sentence id="s227">
+ 
+52 The appellant's contention that a contract for the supply of a computer program carries with it an implied licence to use the program and call for the source code is a claim for Chitty's "standardised" implied term that is not dependent on the intentions of the parties, actual or presumed.</sentence>
+<sentence id="s228">In order to determine whether the "necessity" test in Liverpool and the later cases is satisfied in relation to contracts for the supply of computer programs, it is necessary to consider the provisions of Division 4A of Part III of the Act.</sentence>
+<sentence id="s229">Division 4A 
+ 
+53 This Division was inserted by the Copyright Amendment (Computer Programs) Act 1999 .</sentence>
+<sentence id="s230">It is headed Acts not constituting infringements of copyright in computer programs .</sentence>
+<sentence id="s231">Section 47AB provides that in Division 4A
+ computer program includes any literary work that is: (i) incorporated in, or associated with, a computer program; and (ii) essential to the effective operation of a function of that computer program.</sentence>
+<sentence id="s232">That section builds on the definition of "computer program" in s 10, which is in Part II --- Interpretation :
+ a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.</sentence>
+<sentence id="s233">54 Section 47D, which is headed Reproducing computer programs to make interoperable products , provides:
+ 
+ 
+ (1) Subject to this Division, the copyright in a literary work that is a computer program is not infringed by the making of a reproduction or adaptation of the work if: 
+ 
+ 
+ 
+ (a) the reproduction or adaptation is made by, or on behalf of, the owner or licensee of the copy of the program (the original program) used for making the reproduction or adaptation; and
+ (b) the reproduction or adaptation is made for the purpose of obtaining information necessary to enable the owner or licensee, or a person acting on behalf of the owner or licensee, to make independently another program (the new program), or an article, to connect to and be used together with, or otherwise to interoperate with, the original program or any other program; and
+ (c) the reproduction or adaptation is made only to the extent reasonably necessary to obtain the information referred to in paragraph (b); and
+ (d) to the extent that the new program reproduces or adapts the original program, it does so only to the extent necessary to enable the new program to connect to and be used together with, or otherwise to interoperate with, the original program or the other program; and
+ (e) the information referred to in paragraph (b) is not readily available to the owner or licensee from another source when the reproduction or adaptation is made.</sentence>
+<sentence id="s234">
+ 
+ 
+ 
+ (2) Subsection (1) does not apply to the making of a reproduction or adaptation of a computer program from an infringing copy of the computer program.</sentence>
+<sentence id="s235">
+ 
+ 
+55 The legislative purpose behind s 47D is explained in the Second Reading Speech:
+ Since 1984, the Copyright Act has explicitly protected computer programs as literary works whether they be in a human-readable language, called 'source code' or in machine-readable language, called 'object code', which is the usual form in which they are sold or supplied to users.</sentence>
+<sentence id="s236">The Minister then explained 'decompilation' to the effect summarised at [42], and continued:
+ By refusing to make available information about a computer program's interfaces with other programs with which it interoperates, the owner of copyright in a successful program can control the market in products that are interoperable with the program.</sentence>
+<sentence id="s237">Only if the maker of a new product were permitted to find out the interface information by decompilation can that maker achieve interoperability of the new program with the existing program.</sentence>
+<sentence id="s238">The Minister then observed that United States and European Union law allows makers of new programs to use decompilation for achieving interoperability, and that the purpose behind what would become s 47D was to bring Australian software copyright law more into line with the law of those countries.</sentence>
+<sentence id="s239">He went on:
+ Accordingly, as an exception to the copyright reproduction right, where interface information about other programs is not readily available to a software producer, the producer will now be able to decompile another program to the extent necessary to get the required interface information for making an interoperable product.</sentence>
+<sentence id="s240">The government recognises that commercially successful computer programs can involve very extensive expenditure on research and development and accepts that appropriate protection via the copyright law should be afforded this investment.</sentence>
+<sentence id="s241">Accordingly, the change to allow decompilation in the circumstances I have described will ensure that only interface information may be discovered and that this information may be used only for the purpose of making an interoperable product.</sentence>
+<sentence id="s242">This limited sanctioning of decompilation will not weaken the existing proscription of software piracy.</sentence>
+<sentence id="s243">The Minister said that the amendments to be introduced by Division 4A were based on recommendations contained in the 1995 Report.</sentence>
+<sentence id="s244">56 Section 47E is headed Reproducing computer programs to correct errors , and provides:
+ 
+ 
+ (1) Subject to this Division, the copyright in a literary work that is a computer program is not infringed by the making, on or after 23 February 1999, of a reproduction or adaptation of the work if: 
+ 
+ 
+ 
+ (a) the reproduction or adaptation is made by, or on behalf of, the owner or licensee of the copy of the program (the original copy) used for making the reproduction or adaptation; and
+ (b) the reproduction or adaptation is made for the purpose of correcting an error in the original copy that prevents it from operating (including in conjunction with other programs or with hardware): 
+ 
+ 
+ 
+ 
+ (i) as intended by its author; or
+ (ii) in accordance with any specifications or other documentation supplied with the original copy; and 
+ 
+ 
+ 
+ 
+ (c) the reproduction or adaptation is made only to the extent reasonably necessary to correct the error referred to in paragraph (b); and
+ (d) when the reproduction or adaptation is made, another copy of the program that does operate as mentioned in paragraph (b) is not available to the owner or licensee within a reasonable time at an ordinary commercial price.</sentence>
+<sentence id="s245">
+ 
+ (2) Subsection (1) does not apply to the making of a reproduction or adaptation of a computer program from an infringing copy of the computer program.</sentence>
+<sentence id="s246">In the Second Reading Speech the Minister said this amendment
+ will allow the use of the decompilation process for the corrections of errors in a program where an error-free copy of the program is not reasonably available at a commercial price.</sentence>
+<sentence id="s247">57 As indicated at [55], many of the recommendations from the 1995 Report were adopted in Division 4A.</sentence>
+<sentence id="s248">The following paragraphs from the 1995 Report are relevant to source code and the correction of errors:
+ 
+ 
+ 10.70 The ways in which such bugs or errors are rectified are many and varied.</sentence>
+<sentence id="s249">Ideally the error is reported to the manufacturer, who often has exclusive access to the source code and hence is better equipped than most to isolate and rectify the error.</sentence>
+<sentence id="s250">The source code is then appropriately modified and a number of consequential changes are included in the next release of the object code.</sentence>
+<sentence id="s251">
+ 
+ 
+ 
+ 10.71 Where the computer program is on a complex network or multi-user system with many other interacting programs, the manufacturer may not be able to eliminate the error.</sentence>
+<sentence id="s252">Usually the users in such cases will have sufficient expertise to isolate and correct the errors themselves.</sentence>
+<sentence id="s253">The necessary action may comprise any combination of direct modification of the source code, if the user has access to it, direct modification of the object code or the creation of an extra program or programs which are used in conjunction with the original program to avoid the situation which causes the behaviour.</sentence>
+<sentence id="s254">The modifications and additional programs are often brought together in a program which can be applied to the original code to produce a modified version without the error.</sentence>
+<sentence id="s255">Such programs are appropriately labelled "patches".</sentence>
+<sentence id="s256">
+ 
+ 
+ 
+ 10.72 In most cases, application of the patches or the modification of source code will amount to an adaptation or reproduction of the program, which is an exclusive right of the copyright owner.</sentence>
+<sentence id="s257">If these patches are supplied by the owner, there will be an express or implied licence to modify the program.</sentence>
+<sentence id="s258">Where such patches are created by the user or supplied by a third party, some problems arise.</sentence>
+<sentence id="s259">Licences which expressly grant a right to correct errors in programs are usually limited to a small number of clients (usually universities or research institutions).</sentence>
+<sentence id="s260">Users of computer programs require them to operate on an ongoing basis and where an error is located, a solution is often required in a very tight time frame.</sentence>
+<sentence id="s261">This means that it is often impractical to wait for the manufacturer to correct the error, either in their own patch or in a new release, or to negotiate a licence to modify the program at the time the error becomes apparent.</sentence>
+<sentence id="s262">
+ 
+... 
+ 
+ 10.74 Having regard to the functional nature of computer programs, the Committee considers it essential that users should have the right to correct errors in programs where a corrected version of the program is unavailable.</sentence>
+<sentence id="s263">It notes that in order to fix any errors in a program it may be necessary for the user to modify the source code or object code of the program.</sentence>
+<sentence id="s264">Such acts will involve either reproducing or adapting the computer program and, if not fully within the terms of the licensed use of the program, will infringe copyright.</sentence>
+<sentence id="s265">However, users of computer programs require them to operate on an ongoing basis.</sentence>
+<sentence id="s266">Given the impracticability of fixing errors in object code without making use of decompilation, the Committee recommended in the Draft Report that reverse engineering including decompilation be permitted for the purpose of fixing errors in computer programs.</sentence>
+<sentence id="s267">
+ 
+ 
+ 
+ 10.75 Accordingly, the making by a lawful user of a Computer program of a reproduction or adaptation of the program to restore its intended functionality should not infringe copyright where a correctly functioning version of the program is not available within a reasonable time at a normal commercial price.</sentence>
+<sentence id="s268">
+ 
+ 
+58 It is important to note that the review committee considered submissions from industry stakeholders, many of them summarised in the 1995 Report.</sentence>
+<sentence id="s269">The passages above reveal that
+ 
+&#8226; the manufacturer of a program will often have exclusive access to the source code
+ 
+&#8226; users of a program on a complex network or multi-user system will have sufficient expertise to correct errors by direct modification of the source code, if they have access to it
+ 
+&#8226; licences expressly granting a right to correct errors are usually limited to a small number of clients (usually universities or research institutions)
+ 
+&#8226; modification of the source code or object code will infringe copyright if not fully within the terms of the licensed use of the program.</sentence>
+<sentence id="s270">To the same effect is the statement of the Minister in the Second Reading Speech that the usual form in which computer programs are sold or supplied to users is "in machine-readable language, called 'object code'" and not in source code.</sentence>
+<sentence id="s271">See [55].</sentence>
+<sentence id="s272">59 It is apparent from the Report and the Speech that Division 4A was constructed on the legislative assumption that the purchaser of a computer program will generally not have a licence conferring a right of access to the source code.</sentence>
+<sentence id="s273">60 However, what is important for present purposes (namely the implication of a right to obtain access to the source code), is that since the introduction of Division 4A in 1999, any purchaser in the position of the appellant has been able, subject to the conditions therein, to obtain access to the source code for the purposes contemplated by the legislation.</sentence>
+<sentence id="s274">The appellant says it requires access to the source code in order to make changes, variations or corrections to the program, to enable other stages to be created and scrutinised, and to remedy any defects in the program.</sentence>
+<sentence id="s275">61 Counsel's summation on this point was:
+ Taking all these factors into account, it does not make any kind of business or common sense that CSM would hand over all its control to Mr Riedle.</sentence>
+<sentence id="s276">How could they operate like that?</sentence>
+<sentence id="s277">How could it be implied that any future problems, defects, changes, testing, the sole responsibility of CSM, would be under the control and whim of Mr Riedle who could keep the source code to himself?</sentence>
+<sentence id="s278">What sort of precedent would this set up in the world of computer programming?</sentence>
+<sentence id="s279">62 The implication of a term of a "standardised" variety independent of the parties' actual or presumed intention depends on whether the implication is necessary in the circumstances.</sentence>
+<sentence id="s280">Having regard to the provisions of Division 4A, it is not necessary to imply a term in computer program contracts that the purchaser is entitled to access to the source code.</sentence>
+<sentence id="s281">Those provisions enable a purchaser, on compliance with the conditions contained in ss 47D and 47E, to resolve interoperability problems and correct errors.</sentence>
+<sentence id="s282">However, instead of taking steps under s 47D(1)(e) and s 47E(1)(d) to secure the respondent's assistance in accordance with the statutory scheme, the appellant caused a letter of demand to be written and commenced the present proceeding.</sentence>
+<sentence id="s283">63 The appellant relied heavily on the decision of Jacobs J in Beck v Montana Construction Pty Ltd [1964-5] NSWLR 229.</sentence>
+<sentence id="s284">That case concerned copyright architectural plans.</sentence>
+<sentence id="s285">The question was whether the owner of land who had paid for the plans to be used in the construction of houses on the land had an implied licence to use the plans.</sentence>
+<sentence id="s286">It was held that he did.</sentence>
+<sentence id="s287">Jacobs J said at 235:
+ the engagement for reward of a person to produce material of a nature which is capable of being the subject of copyright implies a permission, or consent, or licence in the person giving the engagement to use the material in the manner and for the purpose in which and for which it was contemplated between the parties that it would be used at the time of the engagement.</sentence>
+<sentence id="s288">That of itself would not assist the appellant.</sentence>
+<sentence id="s289">It is common ground that the appellant is entitled to use the computer program without infringing copyright.</sentence>
+<sentence id="s290">64 The appellant also relied on the observations of Kirby and Crennan JJ in Concrete Pty Ltd v Parramatta Design &amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 229 CLR 577 at [59] and [69] to [73].</sentence>
+<sentence id="s291">However, those passages go no further than to recognise, as in Beck , the existence of an implied right of a property owner or a successor in title to use architectural plans.</sentence>
+<sentence id="s292">It is true that at [60] their Honours referred to a line of patent cases where an implied licence to use and repair a patented item has been upheld as an implied licence that runs with the patented item itself.</sentence>
+<sentence id="s293">But they pointed out that the licence arises because of the rights conferred by letters patent to "make, use, exercise and vend" which can be reflected in the terms of a patent specification.</sentence>
+<sentence id="s294">Nothing in that case assists the appellant.</sentence>
+<sentence id="s295">65 No standardised term, applicable to computer sales generally, is to be implied.</sentence>
+<sentence id="s296">Business efficacy implied term 
+ 
+66 In Byrne at 422 Brennan CJ, Dawson and Toohey JJ approved the following passage from the reasons of Deane J in Hawkins v Clayton [1988] HCA 15 ; (1988) 164 CLR 539 at 573:
+ The most that can be said consistently with the need for some degree of flexibility is that, in a case where it is apparent that the parties have not attempted to spell out the full terms of their contract, a court should imply a term by reference to the imputed intention of the parties if, but only if, it can be seen that the implication of the particular term is necessary for the reasonable or effective operation of a contract of that nature in the circumstances of the case.</sentence>
+<sentence id="s297">
+ 
+ 
+ 
+
+67 No term such as that sought by the appellant can be supported on the business efficacy basis.</sentence>
+<sentence id="s298">The existence of ss 47D and 47E show that the implication of the term is not necessary for the reasonable or effective operation of the particular contract in the circumstances of the case.</sentence>
+<sentence id="s299">Another implied term?</sentence>
+<sentence id="s300">
+ 
+68 As part of its implied term case the appellant submitted that regardless of whether the respondent was its employee or an independent contractor, the purchase of a computer program includes, ipso facto, the source code.</sentence>
+<sentence id="s301">This was said to be so because of what counsel described as the "definition of " a computer program in s 21(5) of the Act:
+ For the purposes of this Act, a computer program is taken to have been reproduced if: (a) an object code version of the program is derived from the program in source code by any process including compilation; or (b) a source code version of the program is derived from the program in object code by any process, including decompilation; and any such version is taken to be a reproduction of the program.</sentence>
+<sentence id="s302">69 Section 21 is in Part II of the Act --- Interpretation (ss 10 to 30A).</sentence>
+<sentence id="s303">Section 13 provides that reference in the Act to an act comprised in the copyright in a work or other subject matter is to be read as a reference to any act that the owner of the copyright has the exclusive right to do.</sentence>
+<sentence id="s304">Those acts are listed in s 31, and include the right to reproduce the work in a material form.</sentence>
+<sentence id="s305">Section 21 is concerned with what amounts to a reproduction of a work in material form.</sentence>
+<sentence id="s306">It deems various acts to be a reproduction.</sentence>
+<sentence id="s307">Sub-section (5) is the deeming provision applicable to computer programs.</sentence>
+<sentence id="s308">70 Although this argument was put under the heading Implied terms , it does not appear to me to invoke such a term.</sentence>
+<sentence id="s309">Rather it seeks to use s 21(5) to show that in a contract for the supply of a computer program, the subject-matter of the transaction includes the source code.</sentence>
+<sentence id="s310">This submission does not appear to have been put to the Magistrate.</sentence>
+<sentence id="s311">At least it is not mentioned in her reasons for decision.</sentence>
+<sentence id="s312">In any event, I do not accept it.</sentence>
+<sentence id="s313">The interpretation sections of the Act are for its internal purposes.</sentence>
+<sentence id="s314">The deemed reproduction provisions in s 21, including in particular that in sub-s (5), disclose no intention to interfere with contractual arrangements in relation to the manufacture and sale of computer programs.</sentence>
+<sentence id="s315">What is the subject matter of a particular contract is governed by the general law.</sentence>
+<sentence id="s316">71 The passages from the Second Reading Speech summarised at [42] and quoted at [55] and those from the Report sent out at [57] show that an entitlement to source code is not typically carried by an agreement to make and deliver a computer program.</sentence>
+<sentence id="s317">See also [58] and [59].</sentence>
+<sentence id="s318">Those passages are quite inconsistent with the argument that the "definition" of computer program contained in s 21(5) of the Act somehow causes the source code to pass with the program.</sentence>
+<sentence id="s319">Conclusion on implied term 
+ 
+72 Although the Magistrate did not rely on the provisions of Division 4A in refusing to imply the term sought by the appellant, no error has been shown in that refusal.</sentence>
+<sentence id="s320">ADAPTATION 
+ 
+73 In its notice of appeal the appellant asserts that the Magistrate erred
+ in failing to consider ... the applicant's argument that if neither the applicant nor the respondent owned the copyright in the 2002 Program (because the Salvation Army owned it) then the applicant should succeed in its claim for damages because the respondent was contractually bound to provide the source code to the applicant when requested.</sentence>
+<sentence id="s321">Framed in that way, the ground has to fail.</sentence>
+<sentence id="s322">The appellant has not established that the respondent was contractually bound to provide the source code on demand.</sentence>
+<sentence id="s323">74 As formulated in its written submissions handed up at the commencement of the hearing, the ground was put in the form of this question:
+ Did her Honour fail to take into account the fact that, whether or not the [appellant proved it was] the owner of version 2 of the ... program was irrelevant because the only matter of importance was that Riedle did not own version 3 if it was an adaptation, and if he did not own it then he was in breach of his employment not to provide the source code to the appellant when requested?</sentence>
+<sentence id="s324">In order to succeed in this claim the appellant has to establish a breach by the respondent of his contract of employment.</sentence>
+<sentence id="s325">The Magistrate held he was not an employee and the appellant's appeal on this point has been unsuccessful.</sentence>
+<sentence id="s326">75 In the body of the written submissions, however, reliance on the respondent as an employee appears to have been dropped.</sentence>
+<sentence id="s327">The argument was put in this somewhat open ended, inconclusive fashion:
+ Her Honour does not address the question --- If version 3 was an adaptation of version 2, and thus Riedle was not the owner of the copyright in version 3, regardless of who was the copyright owner, should Riedle have rendered up the source code upon request?</sentence>
+<sentence id="s328">If her Honour had addressed this question, she would have needed to determine whether the program was an adaptation or not and would have concluded that there was ample evidence before her by way of two experts ... to determine whether or not the program was an adaptation regardless of who owned it.</sentence>
+<sentence id="s329">76 The Magistrate first found that AAS was the owner of the copyright in version 2 of the program, and that if the copyright had not passed from AAS to the Salvation Army, it remained with the defunct AAS.</sentence>
+<sentence id="s330">Her Honour said:
+ The applicant then argues that the case is actually about the respondent not having copyright in The Program.</sentence>
+<sentence id="s331">However, there can be no doubt that the respondent wrote The Program.</sentence>
+<sentence id="s332">As I have found that he did not do so as an employee, he would have copyright in The Program unless it were substantially the same as the 2002 version.</sentence>
+<sentence id="s333">Even in that case, the respondent argues, the applicant cannot bring the claim because it is not the owner of the copyright in the 2002 version.</sentence>
+<sentence id="s334">Therefore, only the Salvation Army or AAS could bring the claims predicated on ownership of copyright that are made in this proceeding.</sentence>
+<sentence id="s335">Clearly, the Salvation Army and AAS are not parties to the proceeding.</sentence>
+<sentence id="s336">In these circumstances, I consider that the applicant's copyright claims are unsustainable.</sentence>
+<sentence id="s337">77 There is no substance in the appellant's complaint that the Magistrate failed to consider its adaptation argument, concentrating instead on whether the appellant was the owner of version 2 and dismissing the copyright claim on the basis that it was not.</sentence>
+<sentence id="s338">The Magistrate's disposition of this aspect of the case was based on the appellant's lack of standing to make a copyright claim, including an adaptation claim.</sentence>
+<sentence id="s339">The appellant's assertion that what mattered was not who owned the copyright but that the respondent did not own it, misses the point.</sentence>
+<sentence id="s340">It ignores the fact that the Magistrate's decision was based on the appellant's lack of standing to advance its adaptation argument.</sentence>
+<sentence id="s341">That is plain from the passage set out at [38].</sentence>
+<sentence id="s342">If the Salvation Army owned version 2, it would have standing to contend that version 3 was an adaptation of version 2.</sentence>
+<sentence id="s343">If AAS was still the owner, it could, theoretically, make the same claim.</sentence>
+<sentence id="s344">But the appellant, not being the owner of version 2, cannot make that claim.</sentence>
+<sentence id="s345">It is fanciful to suppose that a third party in the position of the appellant can say to the respondent: "I know I don't own version 3.</sentence>
+<sentence id="s346">The Salvation Army, or perhaps AAS, does.</sentence>
+<sentence id="s347">Nevertheless, because you don't own it, you must give it to me".</sentence>
+<sentence id="s348">This ground of appeal is dismissed.</sentence>
+<sentence id="s349">OTHER MATTERS 
+ 
+78 The Magistrate awarded costs against the appellant on an indemnity basis in relation to the adaptation issue.</sentence>
+<sentence id="s350">The notice of appeal takes issue with this, but no argument was addressed on the point.</sentence>
+<sentence id="s351">79 The appellant complained that the Magistrate imposed on it the burden of establishing that it had a licence to use the source code, whereas the burden lay on the respondent to show that the appellant did not have such a licence.</sentence>
+<sentence id="s352">It relied on Avel v Multicoin Amusements Pty Ltd [1990] HCA 58 ; (1991) 171 CLR 88 at 94-95.</sentence>
+<sentence id="s353">However all that was there decided was that the onus of proving the absence of the licence of the owner of copyright in relation to an issue of infringement under s 37 or s 38 of the Act lies on the party asserting infringement.</sentence>
+<sentence id="s354">That is because the absence of such licence constitutes an element of the wrong of infringement under those sections.</sentence>
+<sentence id="s355">The present case is not for infringement of copyright, and the onus submission fails.</sentence>
+<sentence id="s356">80 The same onus submission was made in relation to defects the appellant submitted existed in the program.</sentence>
+<sentence id="s357">The respondent disputed their existence.</sentence>
+<sentence id="s358">The appellant contended that the burden was on the respondent to prove there were no defects.</sentence>
+<sentence id="s359">Reliance was placed on TSB Retail Systems Pty Ltd v 3Fold Resources Pty Ltd (No 3) (2007) 72 IPR 492 at [125].</sentence>
+<sentence id="s360">That was an infringement case.</sentence>
+<sentence id="s361">One of the defences was that the respondent was authorised to reproduce the drawings there in question.</sentence>
+<sentence id="s362">Finkelstein J said that the copyright owner had the onus of proving the absence of authorisation "for that is an element of the cause of action for copyright infringement".</sentence>
+<sentence id="s363">81 The burden of proving the existence of defects remained with the appellant.</sentence>
+<sentence id="s364">The Magistrate was not satisfied that there were defects.</sentence>
+<sentence id="s365">Her Honour considered this issue in detail at [61] to [66] of her reasons.</sentence>
+<sentence id="s366">No error has been shown in her treatment of it.</sentence>
+<sentence id="s367">CONCLUSION 
+ 
+82 The appeal must be dismissed with costs.</sentence>
+<sentence id="s368">I certify that the preceding eighty-two (82) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Sundberg.</sentence>
+<sentence id="s369">Associate:
+
+Dated: 20 June 2008
+
+ Counsel for the Appellant: R Dean 
+ 
+ Solicitor for the Appellant: R &amp; G Lawyers 
+ 
+ Counsel for the Respondent: M Rivette 
+ 
+ Solicitor for the Respondent: Middletons 
+
+ Date of Hearing: 2 June 2008 
+ 
+ Date of Judgment: 20 June 2008 
+
+ 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/938.html 
+ 
+ </sentence>
+</sentences>
+</case>

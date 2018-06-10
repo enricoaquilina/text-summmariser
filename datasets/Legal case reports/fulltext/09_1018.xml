@@ -1,0 +1,1038 @@
+<?xml version="1.0"?>
+<case>
+<name>Intelmail Explorenet Pty Limited v Vardanian (No 2) [2009] FCA 1018 (11 September 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/1018.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">ownership</catchphrase>
+<catchphrase "id=c1">equitable owner or licensee</catchphrase>
+<catchphrase "id=c2">terms of oral contract</catchphrase>
+<catchphrase "id=c3">implied terms</catchphrase>
+<catchphrase "id=c4">necessary for reasonable and effective operation of contract</catchphrase>
+<catchphrase "id=c5">unjustified threats</catchphrase>
+<catchphrase "id=c6">oral contract</catchphrase>
+<catchphrase "id=c7">terms</catchphrase>
+<catchphrase "id=c8">post contractual conduct</catchphrase>
+<catchphrase "id=c9">assignment</catchphrase>
+<catchphrase "id=c10">statutory requirement of writing</catchphrase>
+<catchphrase "id=c11">pleadings</catchphrase>
+<catchphrase "id=c12">departure from pleadings during trial</catchphrase>
+<catchphrase "id=c13">copyright</catchphrase>
+<catchphrase "id=c14">contract</catchphrase>
+<catchphrase "id=c15">equity</catchphrase>
+<catchphrase "id=c16">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ Introduction
+ Mr Heros Dilanchian, the second applicant, founded and has successfully conducted a business manufacturing, selling and maintaining intelligent mail sorting machines, presently conducted through the first applicant, Intelmail Explorenet Pty Ltd. At least certainly until recently, the business has prospered selling machines both domestically and internationally.</sentence>
+<sentence id="s1">A significant contribution to the business has been made by Mr Avo Vardanian, the second respondent.</sentence>
+<sentence id="s2">He wrote the software on which the machines run and continued to do so until 2008.</sentence>
+<sentence id="s3">For almost a decade he was an employee of the business as he wrote the software.</sentence>
+<sentence id="s4">For the past thirteen years he has not been an employee of the business but of a company he controls.</sentence>
+<sentence id="s5">That company is the second respondent, Controlmech Pty Ltd which has provided the software written by Mr Vardanian since 1996.</sentence>
+<sentence id="s6">Mr Vardanian is married to Mr Dilanchian's sister.</sentence>
+<sentence id="s7">Notwithstanding a formerly close working and family relationship between them, Mr Dilanchian and Mr Vardanian are unable to resolve a dispute about the ownership of the copyright in the software and its use.</sentence>
+<sentence id="s8">This judgment addresses that question.</sentence>
+<sentence id="s9">
+ The facts 
+ The following reflects findings of fact.</sentence>
+<sentence id="s10">With some exceptions, the facts were not in issue.</sentence>
+<sentence id="s11">To expedite the production of this judgment, I have adopted and adapted the accounts of the facts in the written submissions of counsel.</sentence>
+<sentence id="s12">I have done so to expedite the publication of this judgment as Mr Vardanian is gravely ill.</sentence>
+<sentence id="s13">I have not adopted this course uncritically and I have satisfied myself that the accounts adopted reflect what I view are the findings which should be made on the evidence.</sentence>
+<sentence id="s14">I have also addressed a number of areas where there was a controversy about what the facts were.</sentence>
+<sentence id="s15">If I repeat evidence given by a witness without critical comment, I am accepting that evidence.</sentence>
+<sentence id="s16">Evidence was given by four witnesses.</sentence>
+<sentence id="s17">One was Mr Dilanchian who is the controlling shareholder and managing director of Intelmail Explorenet which was incorporated on 30 July 1999.</sentence>
+<sentence id="s18">Another was Mr Vardanian who is the sole director and shareholder of Controlmech which was incorporated on 19 September 1996.</sentence>
+<sentence id="s19">Mr Dilanchian and Mr Vardanian share Armenian heritage.</sentence>
+<sentence id="s20">A third was Mr Joseph Malouf who is the deputy managing director of Intelmail Explorenet, and its accountant and that of Mr Dilanchian.</sentence>
+<sentence id="s21">The fourth was Mr Rafik Kocharians who is a senior software engineer employed by Intelmail Explorenet.</sentence>
+<sentence id="s22">Only two witnesses were cross-examined, Mr Dilanchian and Mr Vardanian.</sentence>
+<sentence id="s23">Mostly I thought both appeared to attempt to give an honest account of events.</sentence>
+<sentence id="s24">However on two occasions I was inclined to think Mr Vardanian gave evidence which he may have contrived to assist his case.</sentence>
+<sentence id="s25">This was his oral evidence concerning first, the reason why dongles were introduced (I explain what this means later) and secondly, his account of a conversation which took place in 2003 in which his interest in the business would be bought out.</sentence>
+<sentence id="s26">The Intelmail business was conducted through a number of corporate vehicles.</sentence>
+<sentence id="s27">They were the Mailmachine Pty Ltd (which remains registered), Intelmail Pty Ltd (which was deregistered on 8 December 1995), Mailmachine Australia Pty Ltd (which was deregistered on 1 May 2005) and Intelmail Australia Pty Ltd which was incorporated in September 1994 and was deregistered on 1 May 2005 and the current applicant, Intelmail Explorenet from 1999.</sentence>
+<sentence id="s28">As noted earlier, Intelmail Explorenet was incorporated on 30 July 1999.</sentence>
+<sentence id="s29">The computer programs in issue were written by Mr Vardanian in a period commencing in about 1988.</sentence>
+<sentence id="s30">It is convenient, at this point, to mention two critical dates.</sentence>
+<sentence id="s31">The first is August or September 1996 when Mr Vardanian ceased to be an employee of Intelmail Australia.</sentence>
+<sentence id="s32">In due course it will be necessary to address the terms of any agreement entered into at that time concerning the ownership of the copyright in the software and its use.</sentence>
+<sentence id="s33">The second is August 1999, or shortly after, when Intelmail Explorenet came into existence and began conducting the Intelmail business.</sentence>
+<sentence id="s34">It will be necessary to address the terms of any agreement between Intelmail Explorenet and Controlmech concerning the ongoing provision of software and the ownership of copyright in it.</sentence>
+<sentence id="s35">Before dealing with events as they unfolded, it is appropriate to describe the software.</sentence>
+<sentence id="s36">In the application and the statement of claim the software is defined as consisting of "pre-1996 works" and "post-1996 works".</sentence>
+<sentence id="s37">The software in question (the relevant copyright works) is identified in the evidence as: 
+(a) feeder (input channel) software; 
+ 
+(b) inserter (operating channel) software;
+ 
+(c) BB600/700 inserter software;
+ 
+(d) BB300 inserter software;
+ 
+(e) I-Mail 300 inserter software;
+ 
+(f) iTrack or (VDU) software; and
+ 
+(g) ILCom (or exploreneT) software.</sentence>
+<sentence id="s38">(h) As asserted by the respondents, dongle software.</sentence>
+<sentence id="s39">All of these programs are components of intelligent mailing systems manufactured and sold by the Intelmail business.</sentence>
+<sentence id="s40">In respect of the programs: 
+(a) the feeder and inserter software are both programs written initially by Mr Vardanian as an employee of the Intelmail business.</sentence>
+<sentence id="s41">Mr Vardanian deposed in his affidavit of 19 December 2008 that he had been developing these programs since 1988, and had updated them from time to time since then.</sentence>
+<sentence id="s42">They operate together to control the automated functions of particular models of intelligent mailing machines;
+ 
+(b) each of the BB600/700, BB300 and I-Mail 300 inserter software is a program which operates together with the feeder software in other intelligent mailing machines manufactured and sold by Intelmail business.</sentence>
+<sentence id="s43">They were all written by Mr Vardanian after August 1996 in the course of his employment by Controlmech;
+ 
+(c) which of the four inserter software programs is combined with the feeder software in a particular machines depends on the mechanical components incorporated in it.</sentence>
+<sentence id="s44">The latter three are used when a rotary mechanism manufactured by Buhrs is used in a machine;
+ 
+(d) the feeder software and each of the four inserter software programs is written to run in DOS;
+ 
+(e) all of the programs were changed over time by Mr Vardanian on a continuing basis.</sentence>
+<sentence id="s45">The changes were made by him in the following circumstances.</sentence>
+<sentence id="s46">(1) they were made to achieve a functionality of a machine which met the requirements of a purchaser;
+ 
+(2) they were made to change the functionality of a machine already made and supplied to a customer of the Intelmail business to change its functionality;
+ 
+(3) they were made to cure problems with a particular machine in the course of its servicing or maintenance;
+ 
+(4) they were made at the request of the Intelmail business as part of their ongoing general enhancement of the machines; or
+ 
+(5) they were made as simple optimisations of the software;
+ 
+(f) a list of changes made to all of the programs from 22 November 1999 was in evidence.</sentence>
+<sentence id="s47">It is apparent from the list that most changes were made to the feeder software and the inserter software.</sentence>
+<sentence id="s48">Changes to the remaining (Buhrs) inserter software programs are extremely limited.</sentence>
+<sentence id="s49">This is because very few machines with the Buhrs mechanism have been sold by the Intelmail business; 
+ 
+(g) the ILCom software interfaces with the feeder and inserter software.</sentence>
+<sentence id="s50">The listings of software modifications show that changes were made to the feeder and inserter software to enable the interaction of the three programs;
+ 
+(h) the iTrack software is a stand alone program incorporated in some of the machines made and sold by the Intelmail business.</sentence>
+<sentence id="s51">The VDU iTrack software is a Windows based software that operates to track and reconcile mail pieces.</sentence>
+<sentence id="s52">Mr Vardanian began writing the software in July 2000.</sentence>
+<sentence id="s53">It is probably important to identify the works created by Mr Vardanian after July 1999, that is, after the incorporation of Intelmail Explorenet and after it began to conduct the Intelmail business.</sentence>
+<sentence id="s54">Mr Vardanian said in an affidavit sworn 19 December 2008 that the VDU(iTrack) software began development in July 2000, the BB600/700 software began development in mid 2004, the BB300 software began development in mid to late 2004, and the I-Mail 300 inserter software was completed in December 2006.</sentence>
+<sentence id="s55">Mr Vardanian gave evidence that he began to write the ILCom software in mid 2000, though Mr Dilanchian thought it was earlier.</sentence>
+<sentence id="s56">I accept Mr Vardanian's account.</sentence>
+<sentence id="s57">He also said in the same affidavit that he began developing the feeder and inserter software in 1988.</sentence>
+<sentence id="s58">Since that time this software has been continuously developed.</sentence>
+<sentence id="s59">Both parties agreed that it is impossible to separate the software as it existed at various times in the past twenty years from the software as it exists at the present time.</sentence>
+<sentence id="s60">The question becomes what proportion of the software as it exists at the present time was developed after 1999?</sentence>
+<sentence id="s61">Mr Vardanian was cross-examined on this point, and gave evidence that he estimated the proportion of the existing feeder and inserter code that was developed before 1996 was "likely to be less than 30%".</sentence>
+<sentence id="s62">His cross-examination by reference to the year 1996 rather than 1999 reflected issues as they appeared at the beginning of the trial.</sentence>
+<sentence id="s63">I will explain this later in these reasons.</sentence>
+<sentence id="s64">I accept Mr Vardanian's evidence and I infer that a large proportion of the feeder and inserter software as it presently exists was written after 1999.</sentence>
+<sentence id="s65">All of the programs were written in source code by Mr Vardanian.</sentence>
+<sentence id="s66">The source code is compiled into object code which is executed by the computer.</sentence>
+<sentence id="s67">The parties were content to adopt the description of source code given by Gibbs CJ in Computer Edge Pty Ltd v Apple Computer Inc (1986) 161 CLR at 178-9, and applied by Sundberg J in Centrestage Management Pty Ltd v Riedle [2008] FCA 938 at [41] in the following terms.</sentence>
+<sentence id="s68">A computer program is a set of instructions designed to cause a computer to perform a particular function or to produce a particular result.</sentence>
+<sentence id="s69">A program is usually developed in a number of stages.</sentence>
+<sentence id="s70">First the sequence of operations the computer will be required to perform is commonly written out in ordinary language.</sentence>
+<sentence id="s71">Next a source program is prepared, usually in a source code which is human-readable.</sentence>
+<sentence id="s72">The source code cannot be used directly in the computer, and must first be converted into an object code, which is machine-readable.</sentence>
+<sentence id="s73">The program is executed by the computer's central processing unit.</sentence>
+<sentence id="s74">Mr Vardanian did not keep discrete copies of any of the source codes in the course of their progressive development.</sentence>
+<sentence id="s75">Rather he kept one file of source code and simply made progressive changes to it.</sentence>
+<sentence id="s76">This practice meant that it is not now possible to identify the inserter and feeder programs as they were in 1996 or indeed 1999.</sentence>
+<sentence id="s77">The software Mr. Vardanian commenced writing in about 1988 was DOS-based software.</sentence>
+<sentence id="s78">DOS, and the program which Mr Vardanian used to write the DOS source code (assembler) are antiquated.</sentence>
+<sentence id="s79">The advent of Windows means that the software programs, in particular the source code for them, is of no real utility other than in relation to the supply and maintenance of the intelligent mail systems supplied by the Intelmail business.</sentence>
+<sentence id="s80">For many years the Intelmail business and Mr Dilanchian in particular, was requesting Mr Vardanian to write new software in Windows.</sentence>
+<sentence id="s81">That never happened.</sentence>
+<sentence id="s82">Mr Dilanchian has worked in the bulk mailing industry from the late 1960s, for all of his working life.</sentence>
+<sentence id="s83">By 1982 he decided to establish his own mailing business and incorporated BPSM Pty Ltd, BPSM being an acronym for Bulk Pre Sorted Mail.</sentence>
+<sentence id="s84">As well as operating a mailing business, Mr Dilanchian began selling and maintaining mailing machines.</sentence>
+<sentence id="s85">As noted earlier, in 1984 he incorporated The Mailmachine to conduct this business, while continuing to also conduct the mailing business through BPSM.</sentence>
+<sentence id="s86">During the early 1980s Mr Dilanchian became interested in improving the way these machines operated, by integrating them into one continuous mailing process rather than a series of separate processes.</sentence>
+<sentence id="s87">He sought to integrate mailing machines into a continuous process from about 1984.</sentence>
+<sentence id="s88">Mr Vardanian immigrated to Australia in 1981.</sentence>
+<sentence id="s89">Before that he had been employed by KLM Airlines in Holland and through that employment, had gained considerable experience in computing and its application to technology.</sentence>
+<sentence id="s90">He was an electronics engineer by training.</sentence>
+<sentence id="s91">From 1981 to 1986 he worked as a quality assurance manager with Ainsworth Technologies Pty Ltd, a company which manufactured poker machines.</sentence>
+<sentence id="s92">In 1986 Mr Vardanian became an employee of BPSM, shortly before marrying Mr Dilanchian's sister in early 1987.</sentence>
+<sentence id="s93">Mr Vardanian's prior computing experience enabled him to recognise that the integration of mailing machines into one continuous process could be achieved by adding intelligence to the machines, through PC technology.</sentence>
+<sentence id="s94">The parties agree that this step transformed this process and that it was Mr Vardanian's idea.</sentence>
+<sentence id="s95">From about 1987 onwards Mr Dilanchian and Mr Vardanian worked together on the common enterprise of developing and manufacturing intelligent mailing machines which included PC technology.</sentence>
+<sentence id="s96">It is clear that the two men had a close working relationship over many years.</sentence>
+<sentence id="s97">Mr Dilanchian accepted that Mr Vardanian was a business confidante who had made a very significant contribution to the business.</sentence>
+<sentence id="s98">They had very regular discussions about the business.</sentence>
+<sentence id="s99">It is also clear that the business of developing and manufacturing intelligent mailing systems involved, on the one hand, the development of the software written by Mr Vardanian and, on the other, the mechanical systems developed by Mr Dilanchian.</sentence>
+<sentence id="s100">The intelligent mailing machines developed were single products incorporating both of those elements.</sentence>
+<sentence id="s101">As noted earlier, the Intelmail business was conducted through a number of corporate vehicles.</sentence>
+<sentence id="s102">Neither Mr Vardanian nor Mr Dilanchian attributed significance to these corporate changes, apparently because they saw themselves as working for the development of a single continuing business of developing, manufacturing, selling and maintaining intelligent mailing machines.</sentence>
+<sentence id="s103">Once the intelligent machines were successfully developed the whole of the Intelmail business was concerned with their manufacture, sale and support.</sentence>
+<sentence id="s104">Their intelligence was what gave the business such advantage as it enjoyed in the market for mailing machines.</sentence>
+<sentence id="s105">This business had initial success in the late 1980s when intelligent mailing machines were sold to the card company, John Sands Pty Ltd, and to Telecom (now Telstra).</sentence>
+<sentence id="s106">Some of the mailing machines sold to Telecom are still in use today by Telstra.</sentence>
+<sentence id="s107">They are machines with a long operating life but which require ongoing servicing.</sentence>
+<sentence id="s108">That ongoing servicing or maintenance includes changes to the incorporated software from time to time.</sentence>
+<sentence id="s109">Those changes can involve reinstalling the whole of the software to the machines.</sentence>
+<sentence id="s110">During the 1990s the business grew rapidly and achieved considerable success.</sentence>
+<sentence id="s111">It expanded within Australia and overseas, developing markets in Asia, Europe and North America.</sentence>
+<sentence id="s112">The business incorporated an American company in 1997 to separately conduct its North American operations.</sentence>
+<sentence id="s113">It also grew in size from around 10 employees in the mid 1980s to a much larger organisation.</sentence>
+<sentence id="s114">In June 1997 the company had 70 employees spread across at least 13 operational departments.</sentence>
+<sentence id="s115">Mr Vardanian began working from his home in Sydney in 1991 in order to devote himself to the development of the software that was an integral part of the intelligent mailing machines manufactured by the business.</sentence>
+<sentence id="s116">This move appears not to have caused concern to either party.</sentence>
+<sentence id="s117">They appear to have continued to enjoy a close and harmonious working relationship.</sentence>
+<sentence id="s118">A critical event in these proceedings is Mr Vardanian's decision to leave Sydney and relocate and live on the Gold Coast.</sentence>
+<sentence id="s119">Following a number of conversations between Mr Vardanian and Mr Dilanchian during 1996, Mr Vardanian relocated to the Gold Coast in August 1996.</sentence>
+<sentence id="s120">In July 1996, Mr Vardanian made the decision to move to the Gold Coast, and purchased a home there in September 1996, in which he still lives.</sentence>
+<sentence id="s121">As with Mr Vardanian's working from home from 1991, his relocation to the Gold Coast was not a matter of disagreement between them.</sentence>
+<sentence id="s122">It is tolerably clear that Mr Dilanchian was prepared to set Mr Vardanian up on the Gold Coast so that he would continue to work as he had when in employment in the Intelmail business at least from 1991.</sentence>
+<sentence id="s123">Mr Vardanian said in evidence that "[w]e did not ever have any discussion about the effect that my move to the Gold Coast would have on our working relationship".</sentence>
+<sentence id="s124">Mr Dilanchian agreed.</sentence>
+<sentence id="s125">Mr Vardanian took an Intelmail company computer and other equipment he had been using since 1991 to undertake programming work from his home, and, as he said, he "understood that this equipment was provided to me to enable me to develop the software needed to grow the business".</sentence>
+<sentence id="s126">Mr Dilanchian agreed, saying that they had had discussions that Mr Vardanian would move to the Gold Coast and "continue everything as it was and to create a bigger team".</sentence>
+<sentence id="s127">They both had in contemplation, at this time, engaging additional personnel drawn from Bond University to assist Mr Vardanian but that never eventuated.</sentence>
+<sentence id="s128">At the time of the move, the Intelmail business furnished Mr Vardanian with more than simply a computer and equipment.</sentence>
+<sentence id="s129">At Mr Vardanian's request, the Intelmail business also contributed $300,000 to the purchase of Mr Vardanian's home on the Gold Coast.</sentence>
+<sentence id="s130">Also the Intelmail business contributed $360,000, again at Mr Vardanian's request, for the subsequent purchase of another house in which he was to work, which came to be described as The Greenhouse.</sentence>
+<sentence id="s131">The total purchase price of the Greenhouse was around that figure.</sentence>
+<sentence id="s132">In the result, the computer equipment owned by the Intelmail business on which Mr Vardanian worked along with the only copy of the source code went with him to the Greenhouse and were thereafter used by him.</sentence>
+<sentence id="s133">Sample mechanical systems, also owned by the business, were sent to the Greenhouse so Mr Vardanian could test new versions of the software.</sentence>
+<sentence id="s134">Mr Dilanchian twice visited the Gold Coast at the time of the move to assist Mr Vardanian select the houses ultimately purchased.</sentence>
+<sentence id="s135">While there was a personal dimension to Mr Dilanchian assisting his sister and husband to relocate, there was equally a business dimension as well.</sentence>
+<sentence id="s136">Mr Dilanchian gave evidence, which I accept, that while Mr Vardanian was living on the Gold Coast, the nature of their business relationship was such that in "majority of cases, they were new application, new requirement, new modification, enhancements - I would have personally discussed with Mr Vardanian on the phone, and in cases I would have asked the timeframe that it would take that we could commit to it".</sentence>
+<sentence id="s137">Mr Dilanchian accepted in cross-examination that he would "specify the mechanical outcome that [he] required... and left it entirely up to Mr Vardanian as to how the software would achieve what [he] wanted".</sentence>
+<sentence id="s138">Mr Vardanian developed software for the mailing machines and sent it to Sydney to be tested by Mr Vartanian, the only other employee of Controlmech, working in Intelmail's Lane Cove factory.</sentence>
+<sentence id="s139">Mr Vardanian relocated to the Gold Coast without any disruption to the working practice between himself and Mr Dilanchian.</sentence>
+<sentence id="s140">Mr Vardanian continued to write software which was incorporated into the intelligent mailing machines that were manufactured and sold to customers.</sentence>
+<sentence id="s141">Immediately after August 1996 the business continued to expand.</sentence>
+<sentence id="s142">The only change in the working arrangement between the parties was that Mr Vardanian was now paid through Controlmech.</sentence>
+<sentence id="s143">Mr Dilanchian gave evidence that Mr Vardanian explained to him that change was for tax reasons.</sentence>
+<sentence id="s144">This was disputed by Mr Vardanian.</sentence>
+<sentence id="s145">I accept Mr Dilanchian's evidence.</sentence>
+<sentence id="s146">It is inherently likely.</sentence>
+<sentence id="s147">Thereafter Controlmech was paid on a regular basis without Mr Vardanian necessarily requesting that a payment be made.</sentence>
+<sentence id="s148">His evidence was that he did not greatly concern himself with these payment arrangements.</sentence>
+<sentence id="s149">His evidence also was that Mr Malouf would arrange for these payments, which were sometimes made following a request by him to Mr Malouf but on other occasions simply made by Mr Malouf without any communication between them.</sentence>
+<sentence id="s150">Mr Vardanian's evidence was that he was happy with these payments which were able to support his "daily necessities".</sentence>
+<sentence id="s151">Obviously they did at least that having regard to the sums involved.</sentence>
+<sentence id="s152">These payments, as from July 2000 (the only records in evidence), are as follows:- CONTROLMECH PTY.LTD
+ANNUAL SOFTWARE DEVELOPMENT FEES PAID
+ Date Invoice # Amount Comments Annual 
+ Fees 17/07/2000 0700-01 47,300 
+ 
+ 16/08/2000 0800-01 53,870 
+ 
+ 15/09/2000 0900-01 56,375 
+ 
+ 13/10/2000 1000-01 58,850 
+ 
+ 16/11/2000 1100-01 54,725 
+ 
+ 11/12/2000 1200-01 61,930 
+ 
+ 18/01/2001 0101-01 53,735 
+ 
+ 02/02/2001 0201-01 20,350 
+ 
+ 16/02/2001 0201-02 47,663 
+ 
+ 16/03/2001 0301-01 64,647 
+ 
+ 24/04/2001 0401-01 57,365 
+ 
+ 25/05/2001 0501-01 47,850 
+ 
+ 19/06/2001 0601-01 45,925 
+ 
+ 2000/2001 
+ 
+ 
+ $670,585 
+ Date Invoice 
+ # Amount Comments Annual Fees 10/07/2001 0707-01 63,525 
+ 
+ 31/07/2001 0701-02 69,850 
+ 
+ 19/09/2001 0901-01 67,100 
+ 
+ 18/10/2001 1001-01 66,750 
+ 
+ 23/11/2001 1101-01 70,565 
+ 
+ 18/12/2001 1201-01 74,250 
+ 
+ 18/01/2002 0102-01 79,640 
+ 
+ 21/02/2002 0202-01 75,020 
+ 
+ 19/03/2002 0302-01 80,663 
+ 
+ 20/05/2002 0502-01 76,450 
+ 
+ 2001/2002 
+ 
+ 
+ $723,813 
+ Date Invoice # Amount Comments Annual 
+ Fees 30/12/2002 
+ 55,000 No invoice 
+ 21/02/2003 
+ 79,750 No invoice 
+ 21/03/2003 
+ 45,980 No invoice 
+ 17/04/2003 
+ 80,960 No invoice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2002/2003 
+ 
+ 
+ $261,690 
+ Date Invoice 
+ # Amount Comments Annual Fees 8/07/2003 
+ 73,975 No invoice 
+ 3/10/2003 
+ 52,800 No invoice 
+ 28/11/2003 
+ 55,000 No invoice 
+ 16/01/2004 
+ 55,000 No invoice 
+ 25/03/2004 
+ 57,200 No invoice 
+ 7/06/2004 
+ 11,000 No records 
+ 2003/2004 
+ 
+ 
+ $304,975 
+ 
+ Date Invoice # Amount Comments Annual 
+ Fees 31/08/2004 
+ 16,500 ?</sentence>
+<sentence id="s153">9/09/2004 
+ 11,000 ?</sentence>
+<sentence id="s154">11/10/2004 
+ 11,000 ?</sentence>
+<sentence id="s155">26/10/2004 
+ 24,200 ?</sentence>
+<sentence id="s156">15/11/2004 
+ 16,000 ?</sentence>
+<sentence id="s157">7/12/2004 
+ 25,850 ?</sentence>
+<sentence id="s158">20/12/2004 
+ 20,350 ?</sentence>
+<sentence id="s159">27/01/2005 
+ 11,000 ?</sentence>
+<sentence id="s160">14/02/2005 
+ 11,000 ?</sentence>
+<sentence id="s161">1/03/2005 
+ 11,000 ?</sentence>
+<sentence id="s162">7/04/2005 
+ 11,000 ?</sentence>
+<sentence id="s163">22/04/2005 
+ 11,000 ?</sentence>
+<sentence id="s164">5/05/2005 
+ 11,000 ?</sentence>
+<sentence id="s165">19/05/2005 
+ 11,000 ?</sentence>
+<sentence id="s166">26/05/2005 
+ 22,000 ?</sentence>
+<sentence id="s167">15/06/2005 
+ 11,000 ?</sentence>
+<sentence id="s168">23/06/2005 
+ 11,000 ?</sentence>
+<sentence id="s169">2004/2005 
+ 
+ 
+ $245,900 
+ 
+ Date Invoice 
+ # Amount Comments Annual Fees 18/07/2005 
+ 11,000 ?</sentence>
+<sentence id="s170">4/08/2005 
+ 11,000 ?</sentence>
+<sentence id="s171">11/08/2005 
+ 11,000 ?</sentence>
+<sentence id="s172">24/08/2005 
+ 11,000 ?</sentence>
+<sentence id="s173">1/09/2005 
+ 11,000 ?</sentence>
+<sentence id="s174">21/09/2005 
+ 22,000 ?</sentence>
+<sentence id="s175">26/09/2005 
+ 11,000 ?</sentence>
+<sentence id="s176">11/10/2005 
+ 11,000 ?</sentence>
+<sentence id="s177">25/10/2005 
+ 11,000 ?</sentence>
+<sentence id="s178">3/11/2005 
+ 11,000 ?</sentence>
+<sentence id="s179">17/11/2005 
+ 11,000 ?</sentence>
+<sentence id="s180">1/12/2005 
+ 11,000 ?</sentence>
+<sentence id="s181">15/12/2005 
+ 27,500 ?</sentence>
+<sentence id="s182">9/01/2006 
+ 11,000 ?</sentence>
+<sentence id="s183">16/01/2006 
+ 15,400 ?</sentence>
+<sentence id="s184">2/02/2006 
+ 11,000 ?</sentence>
+<sentence id="s185">15/02/2006 
+ 11,000 ?</sentence>
+<sentence id="s186">2/03/2006 
+ 14,300 ?</sentence>
+<sentence id="s187">23/03/2006 
+ 11,000 No invoice 
+ 10/04/2006 
+ 13,200 Brief invoice 
+ 27/04/2006 
+ 11,000 Brief invoice 
+ 16/05/2006 
+ 12,100 Brief invoice 
+ 1/06/2006 
+ 11,000 No invoice 
+ 22/06/2006 
+ 11,000 Brief invoice 
+ 2005/2006 
+ 
+ 
+ $302,500 
+ 
+ Date Invoice # Amount Comments Annual 
+ Fees 14/07/2006 
+ 16,500 Brief Invoice 
+ 3/08/2006 
+ 14,300 Brief Invoice 
+ 24/08/2006 
+ 15,400 Brief Invoice 
+ 6/09/2006 
+ 13,200 Brief Invoice 
+ 21/09/2006 
+ 12,100 Brief Invoice 
+ 12/10/2006 
+ 15,400 Brief Invoice 
+ 2/11/2006 
+ 17,600 Brief Invoice 
+ 23/11/2006 
+ 16,500 Brief Invoice 
+ 8/12/2006 
+ 15,950 Brief Invoice 
+ 29/12/2006 
+ 11,550 Brief Invoice 
+ 18/01/2007 
+ 11,000 Brief Invoice 
+ 2/02/2007 
+ 15,400 Brief Invoice 
+ 28/02/2007 
+ 18,700 Brief Invoice 
+ 29/03/2007 
+ 19,800 Brief Invoice 
+ 1/05/2007 
+ 13,750 Brief Invoice 
+ 31/05/2007 
+ 11,000 No Invoice 
+ 14/06/2007 
+ 13,200 No Invoice 
+ 2006/2007 
+ 
+ 
+ $251,350 
+ Date Invoice 
+ # Amount Comments Annual Fees 10/08/2007 
+ 22,000 No invoice 
+ 5/10/2007 
+ 11,000 No invoice 
+ 27/11/2007 
+ 11,000 No invoice 
+ 10/12/2007 
+ 11,000 No Records 
+ 20/12/2007 
+ 11,000 No invoice 
+ 24/01/2008 
+ 11,000 No invoice 
+ 11/02/2008 
+ 11,000 No invoice 
+ 2007/2008 
+ 
+ 
+ $88,000 
+ TOTAL $2,848,813 
+ 
+ 
+ As can be seen, these payments amounted mostly to several hundred thousand dollars per year, although they varied over time.</sentence>
+<sentence id="s188">These variations reflected the business's capacity to pay.</sentence>
+<sentence id="s189">When Mr Vardanian was paid lower amounts from the 2003 financial year, he accepted the explanation given to him by Mr Malouf, namely that the business had a reduced capacity to pay him.</sentence>
+<sentence id="s190">When Intelmail Explorenet commenced to conduct the Intelmail business can not be identified with precision.</sentence>
+<sentence id="s191">Having regard to evidence given by Mr Delanchian (see [70] post) it was probably about the beginning of 2000.</sentence>
+<sentence id="s192">The first invoice in evidence in July 2000 from Controlmech to Intelmail Explorenet would, I infer, have related to work done by Mr Varandian for Intelmail Explorenet before July 2000.</sentence>
+<sentence id="s193">Mr Vardanian said in oral evidence dongles were introduced in 1997 into the intelligent mailing machines because he (or more precisely his company) owned the copyright in the software.</sentence>
+<sentence id="s194">That is, they were introduced by him to protect his (and his company's) intellectual property rights in the software.</sentence>
+<sentence id="s195">Dongles are devices with a function which was described by Mr Vardanian in his evidence.</sentence>
+<sentence id="s196">I accept this description.</sentence>
+<sentence id="s197">A dongle is a small device that has an integrated circuit within it, which can retain a small amount of code.</sentence>
+<sentence id="s198">The device is inserted into the printer port of the computer that is used to operate a mailing machine.</sentence>
+<sentence id="s199">The software that is loaded onto the computer will only run if a dongle that is compatible with the software is connected to the computer.</sentence>
+<sentence id="s200">Mr Vardanian said that resetting or renewing a dongle for a particular system did not involve any changes to the source code.</sentence>
+<sentence id="s201">The dongle software created perhaps during the period 1997 to 2005 did not have any use limits (the evidence about when dongles of this type were first introduced was generally imprecise).</sentence>
+<sentence id="s202">Accordingly, if a machine was fitted with a compatible dongle, it would continue to operate indefinitely.</sentence>
+<sentence id="s203">However, sometime around November 2005 Mr Vardanian created cycle-based dongles.</sentence>
+<sentence id="s204">As noted earlier, he contends that he did so to protect his copyright.</sentence>
+<sentence id="s205">The applicants put this proposition in issue.</sentence>
+<sentence id="s206">In his oral evidence, Mr Vardanian said that he began buying dongles in 1996, as "it was my decision, when I moved to the Gold Coast, to protect the software exactly for these cases".</sentence>
+<sentence id="s207">However, while Mr Vardanian's affidavit of 19 December 2008 contains a discussion about the implementation of dongle functionality, there is no suggestion in that affidavit that the dongle functionality was implemented in order to protect his copyright in the software.</sentence>
+<sentence id="s208">This is extremely surprising having regard to the subject matter of the litigation.</sentence>
+<sentence id="s209">Indeed this affidavit evidence was responsive to the initial affidavit of Mr Dilanchian in which, as a matter of fact, Mr Dilanchian asserted that dongle functionality was created by Mr Vardanian at his direction.</sentence>
+<sentence id="s210">While the words "at my direction" were objected to and not admitted, it is nonetheless the fact that Mr Vardanian did not join issue with that specific asserted fact (though objectionable) in his responsive affidavit though he did reject a more general contention by Mr Dilanchian that he developed the operating software under Mr Dilanchian's direction.</sentence>
+<sentence id="s211">Indeed, in relation to cycle-based dongles, Mr Vardanian accepted in his responsive affidavit they were developed at Mr Dilanchian's request.</sentence>
+<sentence id="s212">These matters suggest, in my opinion, that the explanation in the oral evidence was given simply to bolster the respondents' case.</sentence>
+<sentence id="s213">While I accept it is not a matter on which I should place undue weight, at the time Mr Vardanian gave this evidence concerning the introduction of dongles, he did not appear to me to be particularly credible.</sentence>
+<sentence id="s214">Additionally I accept other reasons advanced by the applicants' counsel that Mr Vardanian's explanation in oral evidence ought to be rejected.</sentence>
+<sentence id="s215">Those submissions were, in part, to the following effect.</sentence>
+<sentence id="s216">Mr Vardanian's stated purpose of introducing the dongles (to protect what he then perceived to be his copyright in the software) is inconsistent with the fact that he did not care whether dongles were retrofitted to existing machines.</sentence>
+<sentence id="s217">Moreover, Mr Vardanian did not have any conversation with Mr Dilanchian in or around 1996 about the introduction of a dongle functionality for this purpose.</sentence>
+<sentence id="s218">Given the close working relationship that existed between the two men around that time, the introduction of an important feature such as a dongle for this purpose without any conversation between them concerning the purpose would be surprising.</sentence>
+<sentence id="s219">Mr Vardanian's counsel made a submission, as I understood it, that he then (in 1996) believed that he owned the copyright in the software he had by then written.</sentence>
+<sentence id="s220">However this submission was based on a passing and ambiguous reference in a paragraph of his affidavit which was responsive to paragraphs in an affidavit of Mr Dilanchian which concerned ownership of copyright in the software in the years following 1996.</sentence>
+<sentence id="s221">I do not accept that when Mr Vardanian moved to the Gold Coast he believed he owned the copyright in the software he had, by that point, already written.</sentence>
+<sentence id="s222">There is documentary and oral evidence that Mr Vardanian referred to the software as Intelmail software in communications with customers after 1996.</sentence>
+<sentence id="s223">He explained in oral evidence that he did so in order to present a united front for marketing purposes.</sentence>
+<sentence id="s224">However, Mr Vardanian also described the software in the same way to employees of Intelmail also after 1996.</sentence>
+<sentence id="s225">In that context, marketing would not be relevant.</sentence>
+<sentence id="s226">On one view, the net effect of this evidence is that in communications with any relevant person in relation to the software (given that Mr Vardanian alone worked on the software assisted by one other), he described the software as Intelmail software.</sentence>
+<sentence id="s227">If so, it is a reflection of the way the individuals regarded the business they were building together.</sentence>
+<sentence id="s228">It was a business which was the sale and support of unitary products of which the software and mechanical systems were integral parts.</sentence>
+<sentence id="s229">Mr Vardanian's attempt to characterise his references to the software as Intelmail software as a marketing device was challenged by counsel for the applicants.</sentence>
+<sentence id="s230">But there was some evidence from Mr Dilanchian which supported this contention of Mr Vardanian.</sentence>
+<sentence id="s231">Mr Dilanchian gave evidence that in about 2000 he noticed that software which had been provided to him by Mr Vardanian was labelled 'Controlmech'.</sentence>
+<sentence id="s232">Mr Dilanchian says that he had a conversation with Mr Vardanian as follows:- 
+ 
+ How could you possibly do that?</sentence>
+<sentence id="s233">Do you realise what you are doing?</sentence>
+<sentence id="s234">We are so far behind with the delivery of software.</sentence>
+<sentence id="s235">We are not in a position to send the wrong message to our customers and give additional ammunition to our competitors.</sentence>
+<sentence id="s236">As it is, we are very late... 
+ 
+
+ 
+However this single piece of evidence is, in my opinion, inconclusive on the question of whether Mr Vardanian was then asserting ownership of copyright in the software or that Mr Dilanchian then appreciated this was so.</sentence>
+<sentence id="s237">The evidence discloses that the position changed in 2003 when both Mr Vardanian and Mr Dilanchian had to focus on questions of copyright.</sentence>
+<sentence id="s238">In that year it came to the attention of the applicants that some ex-employees appeared to be copying the software for the purpose of conducting a business of maintaining Intelmail machines in competition with Intelmail Explorenet.</sentence>
+<sentence id="s239">The company (through Mr Malouf) sought legal advice concerning the steps that needed to be taken to enforce its rights.</sentence>
+<sentence id="s240">On 18 July 2003 Blake Dawson Waldron provided a short advice on these steps.</sentence>
+<sentence id="s241">It can be fairly said, as counsel for the applicants submitted, the advice did not address the question of whether Mr Vardanian owned copyright in the software, but rather the question of what steps the applicants needed to take in order to prove what they regarded as their rights, as against third parties.</sentence>
+<sentence id="s242">Thus the covering email containing the advice stated "Once we can clearly establish copyright ownership, we will need to discuss evidence of breach".</sentence>
+<sentence id="s243">Mr Malouf reported to Mr Dilanchian that "we needed to get an acknowledgement from Avo that Intelmail owned the copyright".</sentence>
+<sentence id="s244">Mr Malouf then visited Mr Vardanian on the Gold Coast.</sentence>
+<sentence id="s245">They met twice.</sentence>
+<sentence id="s246">Mr Vardanian has no clear recollection of these meetings, while Mr Malouf's evidence is specific and was not the subject of cross-examination.</sentence>
+<sentence id="s247">I accept his evidence.</sentence>
+<sentence id="s248">It was that Mr Vardanian initially agreed to assist Intelmail in prosecuting its claim against former employees, but in the second meeting decided not to cooperate.</sentence>
+<sentence id="s249">Mr Malouf's uncontradicted evidence is that during their second meeting Mr Vardanian said words to the following effect: 
+ I don't want that , I don't want to go through this, I'm not interested.</sentence>
+<sentence id="s250">
+ 
+Mr Malouf has also given evidence that as he was leaving he and Mr Vardanian had the following exchange:
+ 
+ Mr Malouf: Avo, but those former employees are copying the Intelmail Group software and jeopardising Intelmail Group by poaching its customers.</sentence>
+<sentence id="s251">
+ 
+ Mr Vardanian: Let them do it...</sentence>
+<sentence id="s252">It does not matter....</sentence>
+<sentence id="s253">It is nothing.... 
+ I accept the submission of the applicants' counsel that the steps taken to protect what was believed to be Intelmail Explorenet's rights were consistent with the agreement between Controlmech and Intelmail Explorenet, under which the parties conducted themselves on the basis that ownership in the copyright resided with the company conducting the business.</sentence>
+<sentence id="s254">However there is one qualification to this observation which I discuss in the following paragraph.</sentence>
+<sentence id="s255">On the accounts of both Mr Vardanian and Mr Malouf, Mr Vardanian did not assert ownership of the copyright in the software during their two meetings in 2003.</sentence>
+<sentence id="s256">If he believed that he owned the copyright, one would have expected that he would have stated this to be the case, given that the purpose of the two meetings was to discuss what action should be taken in relation to a third party infringer.</sentence>
+<sentence id="s257">However I recognise there is the real possibility that at this time Mr Vardanian was taking a more cautious approach to the question of ownership of the copyright because he did not want to commit to a position in which he acknowledged he was not the owner in the face of the question having arisen about ownership.</sentence>
+<sentence id="s258">Mr Malouf gave evidence that was neither objected to nor the subject of cross-examination that he took with him at least to his second meeting with Mr Vardanian a pro forma draft "Software Developer Agreement" which he had obtained from a legal database.</sentence>
+<sentence id="s259">Before leaving for the Gold Coast Mr Malouf, on his evidence, had explained to Mr Dilanchian that he proposed to draft such an agreement.</sentence>
+<sentence id="s260">Indeed Mr Dilanchian accepted in cross-examination that he understood that the Software Development Agreement provided for the fact Mr Vardanian "agreed the software belongs to Intelmail and that he will authorise that it belongs to Intelmail".</sentence>
+<sentence id="s261">However apart from this, there is no evidence about the terms of the agreement nor is the draft in evidence.</sentence>
+<sentence id="s262">But it is difficult to escape the inference that it was an agreement in which Mr Vardanian would in some way agree to deal with copyright in the software in a way favourable to Intelmail Explorenet having regard to the draft's description, Mr Dilanchian's evidence, the use to which Mr Malouf proposed to put the agreement and Mr Vardanian's response.</sentence>
+<sentence id="s263">It is also difficult to escape the inference, for the same reasons, that it was an agreement which, in relation to copyright, would purport to modify, diminish or extinguish the rights of Controlmech or at least make them subservient to the interests of Intelmail Explorenet.</sentence>
+<sentence id="s264">If these inferences are drawn, and I think they should be, then probably Mr Dilanchian and certainly Mr Malouf then had some real reservations about the legal position of Intelmail Explorenet in relation to ownership of the copyright in the software and Mr Vardanian was, at that time, beginning to focus on the question of ownership as well.</sentence>
+<sentence id="s265">I should, at this stage, refer to a letter Mr Dilanchian sent to Mr Vardanian in August 2003.</sentence>
+<sentence id="s266">It is a contemporaneous record, admitted without objection, which records Mr Dilanchian's perception of circumstances as they then existed.</sentence>
+<sentence id="s267">Its contents were not challenged in Mr Dilanchian's cross examination by counsel for the respondents.</sentence>
+<sentence id="s268">In the letter, Mr Dilanchian noted that he had perceived that Mr Vardanian had been drifting away from the business in the preceding three to four years.</sentence>
+<sentence id="s269">Indeed he said it was obvious to him.</sentence>
+<sentence id="s270">His stated understanding of the reason was that Mr Vardanian did not agree with or approve of Mr Dilanchian's management skills.</sentence>
+<sentence id="s271">Mr Dilanchian referred to 1999 - 2000 as a tough year for Mr Vardanian but an even tougher year for him.</sentence>
+<sentence id="s272">This is probably a reference, at least in part, to what Mr Vardanian said in his affidavit evidence, namely that in mid 1999 "[he was] working around and against the clock to get the Intelmail Explorenet Job Tracking and Data Reconciliation software out by next month... [he was] averaging something like 10 to 12 hours each day for the last two months, 6 to 7 days every week.</sentence>
+<sentence id="s273">Only the last 3 weeks [has he] forced myself to do nothing on Sundays".</sentence>
+<sentence id="s274">Mr Dilanchian also referred in the letter to Mr Malouf's trip to the Gold Coast to deal with "software copyright issues" and the failure of Mr Vardanian "to contribute to the necessary documentary evidence of the software copyright".</sentence>
+<sentence id="s275">Mr Dilanchian concluded by inviting Mr Vardanian to Sydney "to sort things out and discuss what could we do to protect the Intelmail Software".</sentence>
+<sentence id="s276">There was a discussion in 2003 about Mr Dilanchian buying Mr Vardanian out of the business.</sentence>
+<sentence id="s277">Mr Vardanian said in cross-examination that he thought the discussion took place after Mr Dilanchian sent his letter in August.</sentence>
+<sentence id="s278">Probably if the discussion had taken place before Mr Dilanchian sent the letter, it would have been referred to in the letter having regard to its contents more generally.</sentence>
+<sentence id="s279">I accept the conversation was probably in the latter part of 2003.</sentence>
+<sentence id="s280">There was no dispute that the discussion took place, nor about the essence of what was said.</sentence>
+<sentence id="s281">Mr Dilanchian gave evidence, which I accept, of a conversation in which Mr Vardanian said: 
+ 
+ You need to buy me out.</sentence>
+<sentence id="s282">You need to give me $3 - 3.5 million.</sentence>
+<sentence id="s283">I am looking for about $3.5 million.</sentence>
+<sentence id="s284">I will invest that money and that will see me through to my retirement.</sentence>
+<sentence id="s285">
+ 
+
+ 
+Mr Dilanchian gave evidence, which I accept, that he responded by saying:
+ 
+ 
+ OK, I don't have all of the money now.</sentence>
+<sentence id="s286">I can pay you around $1 million now, and pay you the remaining balance over two years.</sentence>
+<sentence id="s287">But I don't want the burden of the software... You need to put the right people in place, and oversee them to make sure they are doing the work.</sentence>
+<sentence id="s288">I don't have the time and the patience to deal with that part of the business.</sentence>
+<sentence id="s289">I've got enough on my plate to deal with.</sentence>
+<sentence id="s290">
+ 
+
+ 
+Mr Dilanchian had a subsequent conversation with Mr Malouf and was advised that funds were not available to even make a payment of $1 million.</sentence>
+<sentence id="s291">I accept, as counsel for the applicants submitted, this discussion focused on the proposition that Mr Vardanian would be bought out of the business, rather than seeking to place a value on the software which would be delivered up to Intelmail Explorenet.</sentence>
+<sentence id="s292">That is so even though, by then, both had recently had occasion to consider who might own the copyright.</sentence>
+<sentence id="s293">I also accept that the conversation is consistent with the manner in which the parties had conducted themselves, namely that the business in which they both had a stake owned the output of their work.</sentence>
+<sentence id="s294">Mr Dilanchian gave evidence, which I accept, that he saw a payment to Mr Vardanian as appropriate because of the contribution that Mr Vardanian had made to the business and also because of a prior understanding he believed had been reached by them, that if the United States business became profitable, Mr Vardanian would be given a share in it.</sentence>
+<sentence id="s295">I also accept, as counsel for the applicants submitted, that Mr Vardanian's attempts in oral evidence to suggest he said in the buy out exchange that he wanted the business to purchase his software should be rejected.</sentence>
+<sentence id="s296">My impression was, as counsel submitted, that he may well have been attempting to put a position he thought suited his case.</sentence>
+<sentence id="s297">This conclusion is fortified by the fact, as counsel for the applicants pointed out, that Mr Vardanian failed to give evidence in the affidavit filed before the hearing that the discussion was about the sale of the software.</sentence>
+<sentence id="s298">However in rejecting his evidence that the sale of the intellectual property in the software was discussed directly, I have little doubt that by the time the discussion took place Mr Vardanian either knew, or at least suspected, that his company may well have been the legal owner of the copyright in the software which could be traded.</sentence>
+<sentence id="s299">It is not difficult to imagine, though I accept this was not put directly to Mr Vardanian in cross-examination, that the conversation with Mr Malouf which had taken place probably no more than a few months earlier, revealed a way in which he could leave the business, obtain what he perceived to be a share of the business to which it is entitled and do other things.</sentence>
+<sentence id="s300">It is true that in a letter dated 18 July 2008 from Mr Dilanchian to Mr Vardanian, Mr Dilanchian said "in mid to late 2003, you suggested that 'I buy you out of the software' ".</sentence>
+<sentence id="s301">By early 2008, the relationship between Mr Vardanian and Mr Dilanchian had deteriorated to the point where they were unable to communicate directly and Mr Dilanchian's attempts to communicate through other parties were unsuccessful.</sentence>
+<sentence id="s302">Mr Dilanchian then sought the assistance of professional mediators through to June 2008, but these attempts to resolve the matter were unsuccessful.</sentence>
+<sentence id="s303">His letter dated 18 July 2008 to Mr Vardanian was written by the second of the mediators for with his input and must be seen in the light that it was written for Mr Dilanchian by the mediator for the purpose of facilitating discussion between the parties, rather than attempting to "stake out" a legal claim.</sentence>
+<sentence id="s304">Mr Dilanchian's oral evidence, at one point, as to the content of this 18 July 2008 was to the effect that the letter was cast in the terms it was as a mechanism to induce Mr Vardanian to negotiate.</sentence>
+<sentence id="s305">I accept this evidence.</sentence>
+<sentence id="s306">By 2008 Mr Dilanchian knew that Mr Vardanian was asserting ownership of the software and he was trying to establish a minimum common position from which discussions could ensue.</sentence>
+<sentence id="s307">What was written in 2008 about events in 2003 was coloured by intervening events.</sentence>
+<sentence id="s308">There are other passages in Mr Dilanchian's cross examination which might be viewed as him accepting that the letter did record what had been said in 2003.</sentence>
+<sentence id="s309">But, viewed in context, he was not accepting, in my opinion, the propositions that were being put to him.</sentence>
+<sentence id="s310">Mr Dilanchian also gave evidence that sometime after the events in 2003 just described, when he was in the United States, he visited Mr Vardanian's son whom Mr Vardanian had lost contact with.</sentence>
+<sentence id="s311">Mr Dilanchian telephoned Mr Vardanian to inform him that his son was fine.</sentence>
+<sentence id="s312">According to Mr Dilanchian, Mr Vardanian said to him upon his return from the United States: "I really appreciate what you did for me.</sentence>
+<sentence id="s313">I will give the software to you" .</sentence>
+<sentence id="s314">Mr Dilanchian gave evidence in cross-examination that he understood this to mean that Mr Vardanian was going to co-operate and give the software to the people that he, Mr Dilanchian, employed, and assist them examining the software.</sentence>
+<sentence id="s315">I accept this evidence.</sentence>
+<sentence id="s316">The deteriorating relationship in 2008 ultimately culminated in a solicitor's letter on behalf of the respondents to the applicants dated 13 October 2008.</sentence>
+<sentence id="s317">I refer to this letter in more detail later in these reasons.</sentence>
+<sentence id="s318">As noted earlier, these proceedings were commenced on 11 December 2008.</sentence>
+<sentence id="s319">The law
+ The dispute as it has evolved is narrowly focused on the question whether the Intelmail Explorenet has a right to the copyright in the programs either as owner or licensee.</sentence>
+<sentence id="s320">Wider issues raised in the proceedings including a contractual claim in the respondents' cross claim were not pursued at the trial.</sentence>
+<sentence id="s321">If Intelmail Explorenet's rights are as licensee, there is a subsidiary question as to the terms of that licence.</sentence>
+<sentence id="s322">The applicants contend that Intelmail Explorenet owns, beneficially, the copyright in the software or, in the alternative, it has an implied licence which is irrevocable, royalty-free, capable of being assigned or sub-licensed, is exclusive to the licensees and sub-licensees and entitles the licensee and any sublicensee to use, reproduce and adapt the works the subject of copyright for the purpose of the ongoing conduct of the applicants' business.</sentence>
+<sentence id="s323">The respondents accept that Intelmail Explorenet has been a licensee but dispute the terms of the licence propounded by the applicants.</sentence>
+<sentence id="s324">The resolution of these questions turns on the terms of the agreement made between the Controlmech and Intelmail Australia in 1996 and the later agreement between Controlmech and Intelmail Explorenet.</sentence>
+<sentence id="s325">During the course of the trial, the issues raised by the pleadings were not the issues pressed by the parties and, in particular, did not reflect the case as finally advanced by the applicants.</sentence>
+<sentence id="s326">However, the respondent consented to this departure from the pleadings.</sentence>
+<sentence id="s327">Generally, it is preferable that particulars be amended, "particularly is this so when the action finally determines the rights of the parties in the cause of action", as in the instant case: Leotta v Public Transport Commission (NSW) (1976) 9 ALR 437 at 446 per Stephen, Mason, Jacobs JJ; Australian Medic-Care Co Ltd v Hamilton Pharmaceutical Pty Ltd (No 5 ) [2008] FCA 1979 at [15] per Finn J.</sentence>
+<sentence id="s328">However, judgment can be given on the facts as they have emerged during the trial, despite a failure to amend pleadings, where the new issue or new way of particularising the existing issue emerges at the trial and is litigated: Water Board v Moustakas (1988) [1988] HCA 12 ; 180 CLR 491 at 497 per Mason CJ, Wilson, Brennan and Dawson JJ; Dare v Pulham [1982] HCA 70 ; (1982) 148 CLR 658 at 664 per Murphy, Wilson, Brennan, Deane and Dawson JJ; North East Equity Pty Ltd v Proud Nominees Pty Ltd (No 3) [2008] FCA 1430 at [4] per Rares J .</sentence>
+<sentence id="s329">It is common ground between the parties that the computer programs in question are copyright works in which copyright subsists under the Copyright Act 1968 (Cth) (the Act).</sentence>
+<sentence id="s330">It is also common ground that as the programs were written by Mr Vardanian, he is the author of them.</sentence>
+<sentence id="s331">Before considering the specific facts of this case, I should refer to some basic principles.</sentence>
+<sentence id="s332">In 1996 and later in 2000 neither Mr Vardanian (on behalf of Controlmech) nor Mr Dilanchian (on behalf of Intelmail Australia in 1996 and on behalf of Intelmail Explorenet in 2000) made any express agreement about who would own the copyright in software Mr Vardanian would, in the future, write for the Intelmail business nor did they make any express agreement about the legal basis on which the Intelmail business would use the software and authorise others to use it.</sentence>
+<sentence id="s333">A not dissimilar issue arose in a case determined by Crennan J in 2005: Gold Peg International Pty Ltd v Kovan Engineering (Aust) Pty Ltd [2005] FCA 1521 , 225 ALR 57 , though, in this matter unlike the present, aspects of some of the contractual arrangements were express.</sentence>
+<sentence id="s334">At [77] and following, her Honour set out the applicable principles: 
+ 
+ Applicable principles 
+ 
+
+ 
+ 
+ Where, as here, applicant asserts the existence of an implied term regulating the parties rights in the drawings in relation to copyright then the precise definition of that implied term involves a question of construction of the alleged agreement.</sentence>
+<sentence id="s335">In Parramatta Design &amp; Developments Pty Ltd v Concrete Pty Ltd [2005] FCAFC 138 ; [2005] 219 ALR 373 at [10] ('Parramatta') a Full Court of the Federal Court said of such an exercise: 
+ 
+
+ 
+ 
+ 'True, it is not an 'orthodox exercise in the interpretation of the language of a contract, that is, assigning a meaning to a particular provision': Codelfa Construction Pty Ltd v State Rail Authority (NSW) [1982] HCA 24 ; (1982) 149 CLR 337 at 345 per Mason J.</sentence>
+<sentence id="s336">Nevertheless the process involved is of interpreting the meaning of the contract as a whole : South Australia Asset Management Corp v Montague Ltd [1997] AC 191 at 212 per Lord Hoffmann.</sentence>
+<sentence id="s337">' 
+ 
+ 
+ 
+ 
+ In Codelfa , Mason J noted (at 346) that the implication of a term was appropriate to address a 'deficiency in the expression of the consensual agreement'.</sentence>
+<sentence id="s338">As his Honour noted, such implication might arise to address the failure of parties 'to direct their minds to a particular eventuality and to make explicit provision for it'.</sentence>
+<sentence id="s339">It is, of course, necessary to clarify that it is not appropriate to imply a term because it may be reasonable to do so, but rather to give business efficacy to contracts.</sentence>
+<sentence id="s340">The circumstances for implying a term were identified by the Judicial Committee of the Privy Council in BP Refinery (Westernport) Pty Ltd v Hastings Shire Council (1977) 180 CLR 266 at 283 ('BP Refinery') , as follows: 
+ 
+
+ 
+ 
+ '(1) it must be reasonable and equitable; (2) it must be necessary to business efficacy to the contract so that no term will be implied if the contract is effective without it; (3) it must be so obvious that 'it goes without saying'; (4) it must be capable of clear expression; (5) it must not contradict any express term of the contract.</sentence>
+<sentence id="s341">' 
+ 
+
+ 
+ 
+ Where, as in the present case, there is no formal contract concluded between the parties a more flexible approach to the question of implying terms is warranted than that laid down in BP Refinery at 283: see Hospital Products Ltd v United States Surgical Corporation (1984) 156 CLR 41 at 121; Hawkins v Clayton (1988) 164 CLR 539 at 573; Byrne &amp; Frew v Australian Airlines Limited [1995] HCA 24 ; (1995) 185 CLR 410 at 422-423.</sentence>
+<sentence id="s342">In this kind of case all that is necessary is to show that the term to be implied is necessary for the reasonable or effective operation of the contract in all the circumstances.</sentence>
+<sentence id="s343">
+ 
+
+ 
+The parties did not challenge her Honour's account of the principles.</sentence>
+<sentence id="s344">It is orthodox and I will apply them.</sentence>
+<sentence id="s345">Justice Crennan also discussed the application of these principles in a specific area of copyright between [81] and [85].</sentence>
+<sentence id="s346">It is sufficient to notice three things which emerge from this discussion: 
+(i) There are numerous instances when, in the circumstances, the courts have been prepared to imply a condition into an agreement between the parties that the author of a copyright work will assign legal title to it when called upon to do so because equitable ownership of the copyright in the work does not belong to the author.</sentence>
+<sentence id="s347">This can arise when there is a commissioning arrangement for the preparation of copyright material.</sentence>
+<sentence id="s348">(ii) If there is a lacuna in the contract and it is necessary to imply the grant of some right to fill the lacuna involving a choice between possible alternative rights, the choice should be of that right which does not exceed what is necessary in the circumstances.</sentence>
+<sentence id="s349">This principle is one of a number identified by Lightman J in Robin Ray v Classic FM Plc (1998) 41 IPR 235 in a lengthy passage quoted by Crennan J.</sentence>
+<sentence id="s350">In particular, if the need can be satisfied by the grant of licence or an assignment of the copyright, the implication will be of the grant of licence only.</sentence>
+<sentence id="s351">(iii) The circumstances may require the implication of a right for the assignment of the copyright, for example when the party commissioning the creation of the work should be able to exclude the author from using the work and also to enforce copyright against third parties.</sentence>
+<sentence id="s352">Again this emerges from the judgment of Lightman J.</sentence>
+<sentence id="s353">One matter that received limited attention in the submissions of the parties was the relevance, if any, of post-contractual conduct in determining what the terms of the contract are when they are not in writing.</sentence>
+<sentence id="s354">If they are in writing the common law of Australia is comparatively clear: see the observations of Heydon JA in Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61 ; (2001) 53 NSWLR 153 at [26] and more recently the judgment of the High Court in Agricultural and Rural Finance Pty Ltd v Gardiner [2008] HCA 57 ; (2008) 251 ALR 322 per Gummow, Hayne &amp; Kiefel JJ at [36] and [163].</sentence>
+<sentence id="s355">The post-contractual conduct is irrelevant.</sentence>
+<sentence id="s356">However the position is less clear in relation to contracts which are not in writing.</sentence>
+<sentence id="s357">This question was comparatively recently addressed by Finkelstein J as a member of a Full Court in Seven Network (Operations) Ltd v TCN Channel 9 Pty Ltd [2005] FCAFC 144 ; (2005) 146 FCR 183 at [83] .</sentence>
+<sentence id="s358">His Honour said: 
+ 
+ As things presently stand Anglo-Australian law does not allow reference to what the parties to a contract said and did before or after the contract as an aid to construction: James Miller &amp; Partners Ltd v Whitworth Street Estates (Manchester) Ltd [1970] AC 583 ; L Schuler AG v Wickman Machine Tool Sales Ltd [1973] UKHL 2 ; [1974] AC 235 ; Secured Income Real Estate (Australia) Limited v St Martins Investments Proprietary Limited (1979) 144 CLR 597 ; FAI Traders Insurance Company Ltd v Savoy Plaza Pty Ltd [1993] 2 VR 343.</sentence>
+<sentence id="s359">The fear is that this approach could result in a contract having different meanings on different days.</sentence>
+<sentence id="s360">The rule does not, however, prevent the reception of pre-contract conduct (White v Australian and New Zealand Theatres Limited [1943] HCA 6 ; (1943) 67 CLR 266 ) or post-contract conduct (Australian Estates Ltd v Palmer (unreported, New South Wales Court of Appeal, Kirby P, Samuels and Meagher JJA, 22 December 1989 )) to identify the things with which the contract does deal.</sentence>
+<sentence id="s361">
+ 
+
+ Why Australian Estates Ltd v Palmer is not reported, I do not know.</sentence>
+<sentence id="s362">However in a passage from the judgment of Samuels JA (with whom Kirby P. and Meagher JA agreed) the following is said: 
+ 
+ ..... it is true that a court cannot have regard to the subsequent conduct of the parties as an aid in the interpretation of a term in a written contract (see James Miller and Partners Ltd v Whitworth Street Estates (Manchester) Ltd [1970] AC 583 , Wickman Machine Tool Sales Ltd v L Schuler AG [1973] UKHL 2 ; [1974] AC 235) , this is merely an application of the parol evidence rule.</sentence>
+<sentence id="s363">Thus, as Stephenson LJ (with whom O'Connor LJ and Sir Stanley Rees agreed) said in Meares v Safecar Security Ltd [1983] QB 54 at 77, dealing with an oral contract: 
+ 
+
+ 
+ 
+ There is nothing in those authorities which prevents the court from looking at the way the parties acted for the purpose of ascertaining what that term was.</sentence>
+<sentence id="s364">Commonsense suggests that their subsequent conduct is the best evidence of what they had agreed orally but not reduced to writing, though it is not evidence of what any written terms mean; 
+ 
+
+ 
+ 
+ And see generally the Law of Contract , Greig and Davies at 436-438.</sentence>
+<sentence id="s365">
+ 
+
+ 
+Observations to similar effect were made by Spigelman CJ and McColl JD in County Securities v Challenger Group Holdings Pty Ltd [2008] NSWCA 193.</sentence>
+<sentence id="s366">However the rationale for having regard to post-contractual conduct when the contract is not in writing seems of limited relevance in circumstances where a term is to be implied in the way discussed in some of the authorities referred to by Crennan J in Gold Peg , namely Hospital Products Ltd v United States Surgical Corporation , Hawkins v Clayton and Byrne &amp; Frew v Australian Airlines Limited being cases where it is necessary is to show that the term to be implied is necessary for the reasonable or effective operation of the contract in all the circumstances.</sentence>
+<sentence id="s367">The implication of the term arises because the parties have not addressed the subject matter to which the term relates.</sentence>
+<sentence id="s368">It is difficult to see how subsequent conduct can, as a matter of common sense, be taken to be a manifestation of the parties acting conformably with the term.</sentence>
+<sentence id="s369">They had not earlier turned their minds to the way the contract would operate at the time it was made.</sentence>
+<sentence id="s370">That is not to say that evidence of conduct surrounding the formation of the contract would be irrelevant in determining what term might be implied.</sentence>
+<sentence id="s371">Context, including the manifestation of subjective intention, can be important in determining what objectively may have been agreed or what might be implied: see Kovan Engineering (Aust) Pty Ltd v Gold Peg International Pty Ltd [2006] FCAFC 117 per Heerey and Weinberg JJ at [105] and per Allsop J at [118].</sentence>
+<sentence id="s372">Consideration
+ It is perhaps appropriate, at this point, to take a step back from the minutiae of the evidence.</sentence>
+<sentence id="s373">What the evidence discloses, at a high level of generality, is that two individuals developed, collaboratively, a business which was dependent on the significant contribution of both but which has always been owned and substantially controlled by only one of them.</sentence>
+<sentence id="s374">The individual who has owned the business is now resisting attempts by the other to assert a right which is very narrowly focused on a statutory right said to arise from authorship of computer software.</sentence>
+<sentence id="s375">It is difficult to avoid the conclusion that the legal controversy this judgment addresses may not explore and resolve all bases on which the rights of the parties might be determined.</sentence>
+<sentence id="s376">However forensic decisions have been made for what probably is a mix of legitimate reasons including the personal and financial circumstances of the parties, to invite adjudication only on the copyright issue.</sentence>
+<sentence id="s377">As noted at the beginning of this judgment, the second respondent is gravely ill and having regard to matters raised in interlocutory proceedings, it appears the first applicant which is the present manifestation of the business, is in comparatively straightened financial times.</sentence>
+<sentence id="s378">One possible consequence of the narrow focus of the litigation on the copyright issue is that it has created a prism through which the parties have sought to establish the facts but which has led to distortions of what in truth happened.</sentence>
+<sentence id="s379">Broadly described, the evidence at this high level of generality points to one of at least three possibilities.</sentence>
+<sentence id="s380">The first is that Mr Vardanian was generally aware that copyright attached to the programs he was writing and always and genuinely believed that he owned it both before and after August 1996.</sentence>
+<sentence id="s381">Perhaps that was because he did not view himself as an employee at least after his initial years working in the business.</sentence>
+<sentence id="s382">If so, it is difficult to understand why he never discussed ownership of the copyright with Mr Dilanchian during the many years they worked closely and collaboratively together to develop the business in circumstances where they had close family ties.</sentence>
+<sentence id="s383">I have no doubt at all, having regard to the evidence, Mr Dilanchian never turned his mind to the question of ownership of the copyright before probably 2003.</sentence>
+<sentence id="s384">The second possibility is that Mr Vardanian was generally aware that copyright attached to the programs but understood, perhaps in a vague and imperfect way, that while an employee of the Intelmail business it was owned by his employer but that his move to the Gold Coast and the new arrangements associated with it would alter that position to his benefit.</sentence>
+<sentence id="s385">If so, moving and not discussing the consequences with Mr Dilanchian would suggest some measure of deception on his part, which would have been curious given the way they had worked together and their family ties.</sentence>
+<sentence id="s386">The third possibility is that Mr Vardanian never really considered the question of ownership of the copyright in the software until 2003 when it came into comparatively sharp focus because of the activities of the former employees of the Intelmail business.</sentence>
+<sentence id="s387">It was then that he began to appreciate that he (or his company) might own a valuable intellectual property asset which he could retain or endeavour to sell.</sentence>
+<sentence id="s388">Selling the asset to the Intelmail business would provide him with what he considered was an appropriate capital return for the time, energy and skill he had invested in the business.</sentence>
+<sentence id="s389">On the facts, as I view them, this third possibility most closely aligns with what happened.</sentence>
+<sentence id="s390">What then is the answer to the question concerning ownership of copyright?</sentence>
+<sentence id="s391">Mr Vardanian conceded that, at the time he moved to the Gold Coast in 1996, he was employed by Intelmail Australia and had been an employee of the various companies running the Intelmail business since 1986.</sentence>
+<sentence id="s392">This led to the apparent concession that each of those various companies owned the copyright in the software written by him when an employee of the company.</sentence>
+<sentence id="s393">In particular, Intelmail Australia would have been the owner of the copyright in at least some of the software then being deployed to operate machines being sold by Intelmail Australia at that time, namely such software which may have been developed in the short period that company had been running the business since its incorporation in September 1994.</sentence>
+<sentence id="s394">It was not asserted by the respondents that in 1996 Mr Vardanian held, or Controlmech acquired, any interest in the copyright of the then subsisting software.</sentence>
+<sentence id="s395">However the respondents disputed that Intelmail Australia owned the copyright in software developed by the other companies which had earlier run the Intelmail business.</sentence>
+<sentence id="s396">The legal foundation for this submission was that there was no evidence of any assignment of the copyright as required by the Act.</sentence>
+<sentence id="s397">But I doubt that this matters.</sentence>
+<sentence id="s398">The declarations sought by both parties concern, in the main, software written after 1996.</sentence>
+<sentence id="s399">I will return to questions of detail later.</sentence>
+<sentence id="s400">The critical question is what term, if any, is to be implied in the contract between Intelmail Australia and Controlmech in 1996 in relation to the ownership of the copyright in the software to be developed by Mr Vardanian in the ensuing years and later, when Controlmech contracted with Intelmail Explorenet to continue to provide the software.</sentence>
+<sentence id="s401">There was plainly a strong and positive personal relationship between Mr Vardanian and Mr Dilanchian rooted in the family connection, cultural ties (they were both Armenian) and the fact that Mr Vardanian had contributed significantly to the growth of Mr Dilanchian's business.</sentence>
+<sentence id="s402">In those circumstances it is unlikely that either Mr Dilanchian or Mr Vardanian would have agreed to an arrangement that imperilled the rights of either or would have put at risk the continued growth or at least prosperity of the business.</sentence>
+<sentence id="s403">At this time, Mr Vardanian had no interest (in any relevant legal sense) in the copyright in the software.</sentence>
+<sentence id="s404">It is improbable they would have agreed to an arrangement which would, over time, invest in Controlmech copyright in the software over which Mr Dilanchian would have no control other than as a licensee and deny it the opportunity to control the source software.</sentence>
+<sentence id="s405">It is true that, at the time, there would have been no apprehension that, in the future, Mr Vardanian might behave in a way that might damage the interests of the business of Intelmail Australia.</sentence>
+<sentence id="s406">But the copyright would survive Mr Vardanian as the author: see s 33 of the Act, and his personal commitment to the business of Intelmail Australia could not be assured by anyone who succeeded to any interests he may have had in the copyright including anyone who might come to control Controlmech.</sentence>
+<sentence id="s407">I accept that from Mr Vardanian's perspective he would not have been intending to relinquish any rights he then had.</sentence>
+<sentence id="s408">But in relation to the copyright of the then existing software, he had none.</sentence>
+<sentence id="s409">Mr Vardanian's interests were to be protected into the future, both in a practical and commercial sense, by his personal relationship with Mr Dilanchian and the symbiotic relationship between him and his company and Intelmail Australia's business arising from him writing the software essential to the successful operation of the intelligent machines which were at the heart of the business and on which it was very substantially dependent.</sentence>
+<sentence id="s410">Those two circumstances dictated, as a practical matter, that Mr Vardanian's position would continue to be protected and he would continue to be retained to write the software and be remunerated appropriately for doing so.</sentence>
+<sentence id="s411">In addition, the 1996 contract may well have contained other implied terms relating to Intelmail Australia continuing to procure software from Mr Vardanian through his company Controlmech as the sole supplier and to pay Controlmech a reasonable amount for doing so having regard to the profitability, from time to time, of the Intelmail business.</sentence>
+<sentence id="s412">The pleadings (both the statement of claim and the cross claim) touched upon other aspects of the contract (beyond the ownership of the copyright) but they were not the subject of submissions by the parties or otherwise pursued.</sentence>
+<sentence id="s413">It is unnecessary, and probably inappropriate, to express a view about what those terms may have been.</sentence>
+<sentence id="s414">It is against this background that it is necessary to determine what, if any, term should be implied in the 1996 agreement about ownership of the copyright in the software to be written thereafter.</sentence>
+<sentence id="s415">There is little room to doubt that there was at least a licence agreement to be implied in all circumstances.</sentence>
+<sentence id="s416">That proposition was not seriously resisted by the respondents.</sentence>
+<sentence id="s417">But was it a licence terminable on reasonable notice or was it something more?</sentence>
+<sentence id="s418">It seems to me that it must be something more in the circumstances just discussed for the reasonable and effective operation of the contract between Controlmech and Intelmail Australia.</sentence>
+<sentence id="s419">Was it a licence of the type advanced by the applicants as their subsidiary position or was it equitable ownership as advanced as their primary position?</sentence>
+<sentence id="s420">I am conscious of the observations of Lightfoot J referred to in (ii) in [52] above.</sentence>
+<sentence id="s421">However it seems to me that the parties would have, as a matter of imputed intention, agreed that Intelmail Australia would retain equitable ownership of the copyright in the software notwithstanding that legal ownership would, by operation of the Act, vest in Controlmech because of the new arrangements associated with Mr Vardanian's move to the Gold Coast.</sentence>
+<sentence id="s422">With Intelmail Australia armed with an equitable interest Controlmech could be required, if circumstances ever rendered it necessary, to transfer legal ownership to Intelmail Australia so that Intelmail Australia could protect the interests of the Intelmail business in the face of third-party infringement: see Acorn Computers Ltd v MCS Micro-Computer Systems Pty Ltd [1984] FCA 339 ; (1984) 6 FCR 277.</sentence>
+<sentence id="s423">Also, if circumstances ever rendered it necessary, Controlmech could be required to hand up the source code which would be essential to the capacity of Intelmail Australia to modify or rewrite programs in the event that Mr Vardanian no longer could do so through death, disability or other circumstances.</sentence>
+<sentence id="s424">In my opinion, a term should be implied into the 1996 agreement that Intelmail Australia would retain the equitable ownership of the copyright in any programs written by Mr Vardanian from that time on.</sentence>
+<sentence id="s425">Such a term, in my view, was necessary for the reasonable and effective operation of the contract in all the circumstances.</sentence>
+<sentence id="s426">This leads to a consideration of the contract arising between Intelmail Explorenet and Controlmech when the former commenced to conduct the Intelmail business.</sentence>
+<sentence id="s427">Firstly, and fundamentally, there is no reason, in my opinion, to proceed on the basis that the term in the 1996 agreement would not also have been a term in the later agreement.</sentence>
+<sentence id="s428">Nothing had materially changed.</sentence>
+<sentence id="s429">While, at that time, Mr Vardanian's company would have become the legal owner of such software as had been written in the preceding three years or so, that ownership would have been subject to the equitable ownership of Intelmail Australia.</sentence>
+<sentence id="s430">One issue, which is convenient to address here, concerns the question of assignment.</sentence>
+<sentence id="s431">The respondents point to the absence of evidence of any assignment in writing of either the legal (pre 1996) or equitable (post 1996) ownership in the copyright from one to the other of a succession of companies which have, from time to time, conducted the Intelmail business.</sentence>
+<sentence id="s432">The applicants conceded that there was no transfer of the legal interest under s 196 of the Act from The Mailmachine to Intelmail Australia in the copyright in the software created before September 1994 or, as I apprehend it, the subsequent transfer of any legal interest of the pre 1996 works from Intelmail Australia to Intelmail Explorenet works or any equitable interest in the work created in the period 1996 to 1999 ('the 1996 to 1999 works') from the former to the latter.</sentence>
+<sentence id="s433">Mr Dilanchian gave evidence, which I accept, that on incorporating Intelmail Australia in 1994, he arranged "the transfer of all staff and assets from The Mailmachine to Intelmail Australia... on a book entry basis, without any other documentation recording the transfer".</sentence>
+<sentence id="s434">He proceeded to give evidence, which was admitted over objection, that shortly after incorporating Intelmail Explorenet in 1999, "[i]n around 1999 to 2000, I... transferred the assets of Intelmail Australia to Intelmail Explorenet... on a book entry basis, without any other documentation recording the transfer".</sentence>
+<sentence id="s435">These book entries are not in evidence.</sentence>
+<sentence id="s436">At common law, the voluntary assignment of an equitable interest merely requires a clear expression of intention: Comptroller of Stamps (Vic) v Howard-Smith [1936] HCA 12 ; (1936) 54 CLR 614 , and requires no consideration: Norman v FCT [1963] HCA 21 ; (1963) 109 CLR 9 at 30 .</sentence>
+<sentence id="s437">It seems clear to me that there was a clear intention on behalf of Mr Dilanchian, the sole owner of both companies, to transfer the equitable ownership of the copyright held by Intelmail Australia to Intelmail Explorenet.</sentence>
+<sentence id="s438">However "where an interest to be transferred is, as here, a creature of equity, equity requires a clear expression of intention to make an immediate disposition; that, in the absence of an applicable statutory requirement, suffices": Halloran v Minister Administering National Parks and Wildlife Act 1974 [2006] HCA 3 ; (2006) 229 CLR 545 at 569 per Gleeson CJ, Gummow, Kirby and Hayne JJ.</sentence>
+<sentence id="s439">In this matter, the respondents contend that the book entries, without any other documentation recording the transfer, fail to comply with s 23C(1)(c) of the Conveyancing Act 1919 (NSW), which provides:- 
+ 
+ A disposition of an equitable interest or trust subsisting at the time of the disposition, must be in writing and signed by the person disposing of the same or by the person's will, or by the person's agent thereunto lawfully authorised in writing.</sentence>
+<sentence id="s440">
+ 
+
+ 
+However, in my opinion, it is unnecessary to consider this issue having regard to the findings I earlier made at [9].</sentence>
+<sentence id="s441">That is because the software that presently exists including the source code which underlies it was mostly written after 1999.</sentence>
+<sentence id="s442">It is true that the feeder and inserter software contains remnants of the software written before 1999 including software written before 1996.</sentence>
+<sentence id="s443">However having regard to the evidence of Mr Vardanian the relevant works for the purposes of the Act came into existence after 1999.</sentence>
+<sentence id="s444">I act on the basis that a declaration can be made, as I have concluded it should, that Intelmail Explorenet is the beneficial owner of the software in its most recent iteration (its 2008 form) and an order made requiring the respondents to deliver up to the applicants the associated source code.</sentence>
+<sentence id="s445">The final issue concerns the letter that was sent to the applicants by the respondents' solicitors on 13 October 2008.</sentence>
+<sentence id="s446">The applicants contend that the letter contained an unjustifiable threat within the meaning of s 202(1) of the Act and seek damages under that section.</sentence>
+<sentence id="s447">The letter from Shelston IP Lawyers, addressed to Intelmail Explorenet Pty Ltd and Mr Heros Dilanchian, said: 
+ 
+ 
+ Infringement of Intellectual Property Rights 
+ We act for Controlmech Pty Ltd and Avo Vardanian (our clients).</sentence>
+<sentence id="s448">
+ 
+ 
+
+ 
+ 
+ 
+ Factual matters 
+ As you know, our clients are the creators and owners of control and processing software used in mailing machines such as Inserters.</sentence>
+<sentence id="s449">Feeders, Dual-Accumulator Feeders (DAF-s), Vertication Divert Units (also known as iTrack) (VDU Software) and the ILCom system that is used in conjunction with the machines (jointly referred to as "our clients' software" ).</sentence>
+<sentence id="s450">
+ 
+ 
+
+ 
+ 
+ 
+ Intelmail Explorenet Pty Ltd ( Intelmail ) was incorporated on 30 July 1999 and Heros Dilanchian is the sole director of that company.</sentence>
+<sentence id="s451">
+ 
+ 
+
+ 
+ 
+ 
+ It has recently come to our clients' attention that Intelmail and/or Heros Dilanchian have filed numerous patent applicants around for an invention entitled "Object Verification Method and System" ( VDU Patents ).</sentence>
+<sentence id="s452">We are instructed, by our clients, that the subject matter of the patents is the same as the VDU software.</sentence>
+<sentence id="s453">
+ 
+ 
+
+ 
+ 
+ 
+ Further, Intelmail has been entering into contracts with Third Parties for the supply of mailing machines which incorporate our clients' software.</sentence>
+<sentence id="s454">The contracts purport to grant a licence of our clients' software to the Third Parties without any authorisation from our clients.</sentence>
+<sentence id="s455">
+ 
+ 
+
+ 
+ 
+ 
+ Finally, our clients' have also recently become aware that Intelmail has been attempting to decipher the serial communication protocol between the feeder and inserting machines with the intent to reproduce the software and make mailing machines run without our clients' knowledge or authorisation.</sentence>
+<sentence id="s456">Additionally, we are instructed that you are also attempting to break the code in the "dongle" that facilitates use of the software on the mailing machines.</sentence>
+<sentence id="s457">
+ 
+ 
+
+ 
+ 
+ 
+ Copyright infringement 
+ Our clients own copyright in all the software and code that runs the Inserters, Feeders, DAF-s, and also in the ILCom and VDU-s.</sentence>
+<sentence id="s458">These softwares and codes are literally works for the purposes of the Copyright Act 1968 (Cth).</sentence>
+<sentence id="s459">Section 44 of the Copyright Act provides that it is an infringement of copyright in a work to reproduce, or authorise the reproduction of, a substantial part of the work, without the authority of the copyright owner.</sentence>
+<sentence id="s460">
+ 
+ 
+
+ 
+ 
+ 
+ As you know, our clients have not authorised or licensed you to use this software, nor has the copyright been assigned.</sentence>
+<sentence id="s461">Accordingly, it is clear that Intelmail has infringed copyright in that software.</sentence>
+<sentence id="s462">
+ 
+ 
+
+ 
+ 
+ 
+ In the present circumstances, our clients are therefore entitled to commence legal proceedings against Intelmail in the Federal Court of Australia seeking, among other things: 
+ An injunction preventing the further use of our clients' copyright material; and 
+ Damages, or (at our client's option) the payment to our clients of all profits made as a result of the infringement of our clients' copyright.</sentence>
+<sentence id="s463">
+ Payment of all software license [sic] fees received that have not been passed on to our clients, by way of an account of profits or assessment of damages.</sentence>
+<sentence id="s464">
+ 
+ 
+
+ 
+ 
+ 
+ Required undertakings 
+ It is difficult to imagine a more blatant example of infringement of our clients' rights.</sentence>
+<sentence id="s465">Our clients view this conduct very seriously and will not hesitate to enforce their legal rights against Intelmail and its director.</sentence>
+<sentence id="s466">To that end, we have received instructions to commence legal proceedings against Intelmail and its director if this matter is not resolved to our clients' satisfaction.</sentence>
+<sentence id="s467">
+ 
+ 
+
+ 
+ 
+ 
+ In order to resolve this matter without recourse to litigation, Intelmail, and its director, are required to immediately provide the following undertakings.</sentence>
+<sentence id="s468">
+ 
+ 
+
+ 
+ 
+ 
+ Intelmail Explorenet Pty Ltd (CAN 088 887 889) of Level 66 MLC Centre Martin Place Sydney, NSW 2000, by its servants and agents, and Heros Dilanchian, sole director of Intelmail Explorenet Pty Ltd, by himself, his servants and agents, undetake to: 
+ Immediately cease, and forever refrain from using the VDU software created by our clients; 
+ Immediately cease, and forever refrain from using any of our clients software, including the ILCom, on mailing machines or at all; 
+ Immediately assign all rights in the VDU Patents to our clients; 
+ Notify all Third Parties who have entered into contracts with Intelmail of our clients ownership of all relevant software; 
+ Immediately cease and forever refrain from all hacking activities on dongles and software programs created by our clients.</sentence>
+<sentence id="s469">
+ 
+ 
+
+ 
+ 
+ 
+ The above undertakings can be given by signing and returning a copy of this letter to our offices by no later than 5.00pm on Monday 27 October 2008.</sentence>
+<sentence id="s470">
+ 
+ 
+
+ 
+ 
+ 
+ Should the undertakings not be provided within the stipulated timeframe, we are instructed to commence proceedings against Intelmail and Heros Dilanchian in the Federal Court of Australia raising allegations, inter alia, of copyright infringement.</sentence>
+<sentence id="s471">
+ 
+ 
+
+ 
+ 
+ 
+ Please ensure that all correspondence in this matter are directed to the writer.</sentence>
+<sentence id="s472">No contact should be made direct to our clients.</sentence>
+<sentence id="s473">
+ 
+ 
+
+ 
+ 
+ 
+ Yours sincerely 
+ Shelston IP Lawyers 
+ Linda King 
+ Partner 
+ 
+ 
+
+ Section 202(1) provides, in relation to groundless threats of legal proceedings in relation to copyright infringement:- 
+ 
+ Where a person, by means of circulars, advertisements or otherwise, threatens a person with an action or proceeding in respect of an infringement of copyright, then, whether the person making the threats is or is not the owner of the copyright or an exclusive licensee, a person aggrieved may bring an action against the first-mentioned person and may obtain a declaration to the effect that the threats are unjustifiable, and an injunction against the continuance of the threats, and may recover such damages (if any) as he or she has sustained, unless the first-mentioned person satisfies the court that the acts in respect of which the action or proceeding was threatened constituted, or, if done, would constitute, an infringement of copyright.</sentence>
+<sentence id="s474">
+ 
+
+ 
+ The principles concerning whether a letter contravenes this section were discussed by Conti J in Concrete Pty Ltd v Parramatta Design &amp; Developments Pty Ltd [2004] FCA 1312.</sentence>
+<sentence id="s475">It was not suggested in the judgment in the High Court in Concrete Pty Ltd v Parramatta Design &amp; Developments Pty Ltd [2006] HCA 55 ; (2006) 231 ALR 663 was wrong.</sentence>
+<sentence id="s476">Indeed it must have been approved having regard to the orders the High Court made.</sentence>
+<sentence id="s477">At [43] Conti J said: 
+ ... the authoritative dictum of Mansfield J in Australian Consulting &amp; Training Pty Ltd v Tiltform Pty Ltd [2001] FCA 1072 , made in the context of the analogous provisions of the Australian patents legislation, and also of Cooper J in U &amp; I Global Trading (Australia) Pty Ltd v Tasman-Warajay Pty Ltd (1995) 32 IPR 494 , albeit again in the context of the same analogous provisions.</sentence>
+<sentence id="s478">In Australian Consulting &amp; Training , his Honour said at [9]: 
+ 
+ 
+ 
+ 'That decision [whether conduct constituted a threat] must be made in the light of the circumstances in which the impugned conduct took place... and from the perspective of a reasonable recipient of the communication in those circumstances...</sentence>
+<sentence id="s479">It may not be necessary for there to be an explicit reference to enforcement proceedings.</sentence>
+<sentence id="s480">' 
+ 
+ 
+
+ Further, in I &amp; U Global , his Honour said at 500-501: 
+ 
+ 'The test is whether the language would convey to any reasonable person that the author of the letter in the present case intended to bring proceedings for infringement against the person said to be threatened.</sentence>
+<sentence id="s481">It is not necessary that there be direct words that action would be taken...</sentence>
+<sentence id="s482">It is a threat to sue for infringement if the Respondent is so minded on a future occasion.</sentence>
+<sentence id="s483">It is no less a threat that the Respondent may not be so minded...' 
+ Mr Vardanian, who admitted he had seen the letter prior to authorising its dispatch from his solicitors, gave evidence in his affidavit of 19 December 2008 that "[i]n about September 2008, I became aware that customers of Intelmail (and previously The Mailmachine] were being asked to sign a licence agreement and were being charged a substantial software licensing fee.</sentence>
+<sentence id="s484">I have never discussed these arrangements with Mr Dilanchian or Mr Malouf".</sentence>
+<sentence id="s485">Mr Vardanian later gave oral evidence that he intended for the letter to be a catalyst to "start negotiations".</sentence>
+<sentence id="s486">In his cross-examination, he said that his position in the negotiations he envisaged was that he had "no problem" with the fact the machines were being sold with the installed software: He simply wanted royalties from the licensing fee income that the applicants were charging customers.</sentence>
+<sentence id="s487">However, counsel for the applicants correctly, in my opinion, submitted that neither the letter nor any of the subsequent correspondence from the respondents' solicitors said that.</sentence>
+<sentence id="s488">Indeed, far from wishing to negotiate, during the course of the subsequent correspondence, Mr Vardanian's solicitors sent a letter on 8 December 2008 which actually said "[p]oints one to three are not open for negotiation".</sentence>
+<sentence id="s489">It was the applicants who volunteered to amicably resolve the matter in the letter sent on 10 November 2008 by their representatives Blake Dawson.</sentence>
+<sentence id="s490">The letter relevantly stated: "[f]inally, we are instructed to note that Mr Dilanchian continues to have respect and affection for Mr Vardanian and therefore wishes for this matter to be amicably resolved".</sentence>
+<sentence id="s491">I am presently dealing only with the question of liability.</sentence>
+<sentence id="s492">Some of the submissions of the parties concerning the circumstances in which this letter was sent and, in particular, the financial circumstances of Intelmail Explorenet appear to me to be relevant to what damages might be ordered if they are.</sentence>
+<sentence id="s493">I am satisfied that the letter contained unjustifiable threats for purposes of s 202.</sentence>
+<sentence id="s494">I propose to order that the parties bring in short minutes of order to reflect these reasons.</sentence>
+<sentence id="s495">The matter will be listed for directions at 9:30 on Thursday 24 September 2009 for that purpose.</sentence>
+<sentence id="s496">I certify that the preceding seventy-eight (79) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Moore.</sentence>
+<sentence id="s497">Associate:
+ 
+ 
+Dated: 11 September 2009
+ 
+ Counsel for the Applicants: R Webb SC 
+ 
+ Solicitor for the Applicants: P Mallam 
+ 
+ Counsel for the Respondents: R Cobden SC and C Bova 
+ 
+ Solicitor for the Respondents: L King 
+ Date of Hearing: 27, 28, 29, 30 July 2009 
+ 
+ Date of Judgment: 11 September 2009 
+ 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1018.html 
+ 
+ </sentence>
+</sentences>
+</case>

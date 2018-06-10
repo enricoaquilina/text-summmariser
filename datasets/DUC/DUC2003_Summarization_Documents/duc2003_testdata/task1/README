@@ -1,0 +1,10 @@
+Since the baseline for task 1 is the existing headline element from
+each document, the documents are provided here WITHOUT the headline
+element.
+
+In 8 or so cases, the headline element didn't exist and was created
+from some other headline-like material from the document. In 20 or so
+cases, the headline element existed, but the headline material was on
+the following line. In those cases the headline element AND the
+following line with the headline material have been removed in the
+documents provided here.

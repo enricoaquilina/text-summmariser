@@ -1,0 +1,651 @@
+<?xml version="1.0"?>
+<case>
+<name>In the matter of Opes Prime Stockbroking Limited [2009] FCA 813 (3 August 2009)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2009/813.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">extinguishment of claims in scheme of arrangement</catchphrase>
+<catchphrase "id=c1">whether scheme amounts to an acquisition on unjust terms</catchphrase>
+<catchphrase "id=c2">scheme of arrangement</catchphrase>
+<catchphrase "id=c3">compromise with creditors</catchphrase>
+<catchphrase "id=c4">scheme to bar claims against third parties</catchphrase>
+<catchphrase "id=c5">whether scheme effective as an arrangement</catchphrase>
+<catchphrase "id=c6">classes</catchphrase>
+<catchphrase "id=c7">whether creditors whose claims are barred constitute a separate class</catchphrase>
+<catchphrase "id=c8">procedure</catchphrase>
+<catchphrase "id=c9">determination of jurisdictional issues at convening hearing</catchphrase>
+<catchphrase "id=c10">amalgamation</catchphrase>
+<catchphrase "id=c11">whether creditors must approve</catchphrase>
+<catchphrase "id=c12">panel established to assess claims by creditors</catchphrase>
+<catchphrase "id=c13">whether right to appeal under s 1321</catchphrase>
+<catchphrase "id=c14">whether liquidators are disqualified from acting as scheme administrators</catchphrase>
+<catchphrase "id=c15">arrangement</catchphrase>
+<catchphrase "id=c16">compromise</catchphrase>
+<catchphrase "id=c17">amalgamation</catchphrase>
+<catchphrase "id=c18">reconstruction</catchphrase>
+<catchphrase "id=c19">constitutional law</catchphrase>
+<catchphrase "id=c20">corporations</catchphrase>
+<catchphrase "id=c21">words and phrases</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 1.</sentence>
+<sentence id="s1">Introduction
+ The liquidators of Opes Prime Stockbroking Limited (Receivers and Managers Appointed) (In Liquidation) (OPSL) and three related companies, Leveraged Capital Pty Ltd (Receivers and Managers Appointed) (In Liquidation) (Leveraged Capital), Hawkswood Investments Pty Ltd (Receivers and Managers Appointed) (In Liquidation) (Hawkswood) and Opes Prime Group Limited (Receivers and Managers Appointed) (In Liquidation) (OPGL) propound a scheme of arrangement between each company and its creditors.</sentence>
+<sentence id="s2">They seek leave under s 411(1) of the Corporations Act 2001 (Cth) to convene meetings of creditors to consider the proposed schemes.</sentence>
+<sentence id="s3">The hearing is usually ex parte.</sentence>
+<sentence id="s4">But this application raised several important issues of principle that were dealt with at a hearing at which a number of creditors, as well as Australian Securities and Investments Commission (ASIC), appeared.</sentence>
+<sentence id="s5">What follows are my reasons for permitting the meetings to be held.</sentence>
+<sentence id="s6">OPSL, a stockbroking firm, was a member of the Australian Securities Exchange.</sentence>
+<sentence id="s7">It provided institutional and private clients with a range of stockbroking services, predominately in the form of securities lending and equity financing.</sentence>
+<sentence id="s8">Leveraged Capital also provided securities lending and equity financing services to its clients.</sentence>
+<sentence id="s9">Mostly, they were its employees and employees of OPSL.</sentence>
+<sentence id="s10">A broad outline of securities lending is given in Beconwood Securities Pty Ltd v Australia and New Zealand Banking Group Limited [2008] FCA 594 ; (2008) 66 ACSR 116.</sentence>
+<sentence id="s11">For present purposes a brief summary will suffice.</sentence>
+<sentence id="s12">Securities lending is the practice by which securities are transferred from one party (the lender) to another party (the borrower), with the borrower contractually obliged to redeliver to the lender at a later time securities which are equivalent in number and type.</sentence>
+<sentence id="s13">The modern securities lending market can be divided into two markets: one that is defined by the motive of the borrower (the "securities driven" market) and the other by the motive of the lender (the "cash driven" market).</sentence>
+<sentence id="s14">In the securities driven market the lender transfers securities to the borrower who must return "equivalent securities" to the lender either on demand or on the occurrence of a defined event.</sentence>
+<sentence id="s15">The borrower: (a) obtains an outright transfer of title to the securities, which may then be sold or on-lent; (b) pays a fee for the use of the securities, calculated by reference to the value of the lent securities; and (c) provides collateral to the lender in the form of cash, other securities or other assets, title to which passes to the lender.</sentence>
+<sentence id="s16">The value of the collateral exceeds the value of the borrowed securities, the difference in percentage terms being referred to as the "margin" (which may need to be "topped up").</sentence>
+<sentence id="s17">At the conclusion of the transaction there is an exchange of "equivalent securities" for "equivalent collateral".</sentence>
+<sentence id="s18">In the event of default, provision is made for placing a money value on each party's obligations, setting one off against the other, and, if there is a net balance, for payment of the balance.</sentence>
+<sentence id="s19">A securities loan in the cash driven market follows the same structure, but there are some important differences.</sentence>
+<sentence id="s20">First, the collateral is always provided in the form of cash.</sentence>
+<sentence id="s21">Second, the amount of cash collateral is less than the value of the lent securities.</sentence>
+<sentence id="s22">Third, the lender pays a fee, much like interest, calculated by using a discounted interest rate.</sentence>
+<sentence id="s23">OPSL and Leveraged Capital entered into "back-to-back" securities lending arrangements with various financiers to obtain the funds needed to finance their clients' share trading.</sentence>
+<sentence id="s24">Under the arrangement, OPSL and Leveraged Capital transferred the securities they had received from their clients to financiers.</sentence>
+<sentence id="s25">The principal financiers were Australia and New Zealand Banking Group Limited (ANZ) and Merrill Lynch International and Merrill Lynch International (Australia) Limited (collectively Merrill Lynch).</sentence>
+<sentence id="s26">Hawkswood's main function was to act as the investment vehicle for directors of OPSL and OPGL.</sentence>
+<sentence id="s27">The investments included shares in public and private companies, motor vehicles, real estate, and loans to OPSL directors and their related entities.</sentence>
+<sentence id="s28">The remaining corporate plaintiff need be mentioned only briefly.</sentence>
+<sentence id="s29">OPGL is the holding company of the group.</sentence>
+<sentence id="s30">The stock market crashed in late 2007 both in Australia and around the world.</sentence>
+<sentence id="s31">Clients who had lent shares to OPSL and Leveraged Capital were required to "top up" the securities they had lent or return some of the cash they had received.</sentence>
+<sentence id="s32">Most did not do so.</sentence>
+<sentence id="s33">Many wanted to get back their securities and return the cash they had obtained from OPSL or Leveraged Capital.</sentence>
+<sentence id="s34">But, apart from isolated instances, neither OPSL nor Leveraged Capital held the securities they were required to redeliver to their client.</sentence>
+<sentence id="s35">Nor did they have the funds to buy the securities on the open market.</sentence>
+<sentence id="s36">By March 2008 it was clear that the companies in the Opes group were hopelessly insolvent.</sentence>
+<sentence id="s37">So, on 27 March 2008, Messrs Lindholm, Brown and McCluskey of Ferrier Hodgson were appointed joint and several administrators of the companies.</sentence>
+<sentence id="s38">On the same day ANZ appointed Messrs Algeri and Campbell of Deloitte Tohmatsu receivers and managers over the assets and undertakings of the companies pursuant to several debenture charges which were said to secure debts totalling around $650 million.</sentence>
+<sentence id="s39">In due course the creditors of the companies in administration resolved that each company should be wound up.</sentence>
+<sentence id="s40">By virtue of s 499 of the Corporations Act Messrs Lindholm, Brown and McCluskey became the companies' liquidators.</sentence>
+<sentence id="s41">The collapse of the Opes group led to a spate of litigation in the Federal Court, in several State Supreme Courts and in the High Court of Hong Kong.</sentence>
+<sentence id="s42">In most instances the action was brought against an Opes company (usually OPSL, Leveraged Capital or Green Frog Nominees Pty Ltd (in liq) (Green Frog) - the group's nominee company) as well as ANZ or Merrill Lynch.</sentence>
+<sentence id="s43">In each proceeding the plaintiff relies on several causes of action.</sentence>
+<sentence id="s44">At the heart of the claim against the Opes company is the allegation that the client was misled when it "lent" its securities.</sentence>
+<sentence id="s45">Most clients allege they thought they were providing securities under a mortgage arrangement or a margin lending facility.</sentence>
+<sentence id="s46">There are also allegations of breach of trust, breach of fiduciary duty, breach of contract and mistake.</sentence>
+<sentence id="s47">The liquidators have estimated that the aggregate amount of client claims is approximately $630 million.</sentence>
+<sentence id="s48">As against ANZ and Merrill Lynch, the Opes group's former clients allege the banks received from an Opes company property (the securities) knowing that the transfer was in breach of trust or breach of fiduciary duty or constituted a wrongful disposal of the clients' securities.</sentence>
+<sentence id="s49">There are also claims alleging knowing involvement in Opes' misleading conduct.</sentence>
+<sentence id="s50">It is not only the Opes group's former clients that have claims against ANZ and Merrill Lynch.</sentence>
+<sentence id="s51">The liquidators have foreshadowed a claim relating to a transaction that took place a few days before the Opes group was placed into administration.</sentence>
+<sentence id="s52">Pursuant to a "Co-operation Deed" (a) ANZ loaned $95 million to OPGL, OPSL and Leveraged Capital; (b) ANZ released certain securities to OPSL in order for those securities to be re-delivered to a client of Leveraged Capital; (c) an amount of $95 million was retained by ANZ to, in effect, meet a margin call on OPSL; (d) ANZ obtained a fixed and floating charge over all of the assets and undertakings of OPGL, OPSL, Leveraged Capital and Hawkswood; (e) various amendments were made to the terms of the securities lending agreements in place between ANZ on the one hand and OPSL and Leveraged Capital on the other hand; (f) ANZ obtained a cross-guarantee and indemnity from OPGL, OPSL and Leveraged Capital and a guarantee and indemnity from Hawkswood and from the directors of OPSL in respect of the $95 million loan; and (g) ANZ obtained a share mortgage from the directors of OPSL.</sentence>
+<sentence id="s53">According to the liquidators this transaction may be an unfair loan under s 588FD , an uncommercial transaction under s 588FB and the floating charges may be void as against the liquidator under s 588FJ.</sentence>
+<sentence id="s54">The liquidators estimate that, if established, the claims would bring in somewhere between $210 million and $275 million.</sentence>
+<sentence id="s55">However, the liquidators have no funds with which to fund an action against ANZ.</sentence>
+<sentence id="s56">They have discussed obtaining funding from a litigation funder, but to date nothing has been agreed.</sentence>
+<sentence id="s57">The liquidators have also foreshadowed a claim against Merrill Lynch arising out of an international prime brokerage agreement made on 26 September 2006 pursuant to which Merrill Lynch was granted a charge over OPSL's assets.</sentence>
+<sentence id="s58">The charge was not registered until 5 October 2007.</sentence>
+<sentence id="s59">On 18 March 2008 the arrangement was "re-papered" and a second charge granted and registered the day following the appointment of administrators.</sentence>
+<sentence id="s60">The charge might be void as against the liquidators under s 588FJ , an unfair preference under s 588FA or an uncommercial transaction under s 588FB and thus liable to be set aside.</sentence>
+<sentence id="s61">If the charge is set aside the liquidators could recover approximately $500 million.</sentence>
+<sentence id="s62">But the claim is not regarded as very strong.</sentence>
+<sentence id="s63">ASIC is also concerned about actions that have been taken by the banks.</sentence>
+<sentence id="s64">In a press release published on 6 March 2009 ASIC announced it had commenced an investigation into whether the arrangements between OPSL and its clients amounted to an unregistered (and therefore illegal) managed investment scheme in which the banks were knowing participants.</sentence>
+<sentence id="s65">The press release also indicated that ASIC was considering the possibility of civil penalty and compensation claims against the directors of OPSL and ANZ respectively for breach of directors' duties.</sentence>
+<sentence id="s66">In the light of the existing and potential claims the liquidators entered into mediation with the banks.</sentence>
+<sentence id="s67">The mediation was protracted but resulted in settlement being reached on 6 March 2009.</sentence>
+<sentence id="s68">The terms of settlement were given effect in an implementation agreement dated 1 May 2009.</sentence>
+<sentence id="s69">The key elements of the implementation agreement follow.</sentence>
+<sentence id="s70">The liquidators agreed to promote schemes of arrangement for each company along the lines of the presently proposed schemes (more of which later).</sentence>
+<sentence id="s71">The banks (ie ANZ and Merrill Lynch) are to contribute $226 million toward a scheme fund, which, together with other money, will under the proposed schemes be distributed between creditors.</sentence>
+<sentence id="s72">Certain assets (to the value of approximately $27 million) presently in the possession of the banks' receivers will be returned to the liquidators.</sentence>
+<sentence id="s73">The banks, receivers, Green Frog and Green Frog's liquidators (and their related parties) will be released from all claims by the Opes companies, their liquidators and Opes clients.</sentence>
+<sentence id="s74">ASIC is to indicate it will not take action against the banks or their officers.</sentence>
+<sentence id="s75">2.</sentence>
+<sentence id="s76">Procedure
+ In addition to the usual considerations that arise for determination on an application to convene scheme meetings, there are several other issues concerning the proposed schemes I will consider at this the first of the three-stage process for sanctioning a scheme under s 411.</sentence>
+<sentence id="s77">The three stages are, the application for meetings, the holding of the meetings and, if agreed by the requisite majority, the application for approval.</sentence>
+<sentence id="s78">The issues to be considered are: (a) Do the proposed schemes contain provisions which the court has no jurisdiction to approve; (b) Is more than one meeting of creditors required for each proposed scheme; (c) Is it also necessary to convene a meeting of members; (d) Does a right of appeal exist under s 1321 from a decision concerning a creditor's proof of debt; (e) Are the proposed schemes so unfair they would not be approved even if agreed by the creditors?</sentence>
+<sentence id="s79">; and (f) Should the liquidators be granted leave to act as the scheme administrators?</sentence>
+<sentence id="s80">The traditional practice has been for the court not to address most of these issues at the first stage.</sentence>
+<sentence id="s81">For example, in England the practice note reported in [1934] WN 142 affirmed that it was for the company to decide whether creditors should be divided into classes for voting purposes, taking the risk that the correct decision was made, which would only be discovered at the approval hearing.</sentence>
+<sentence id="s82">In UDL Argos Engineering &amp; Heavy Industries Co Ltd v Li Oi Lin [2001] HKCFA 54 ; [2001] 3 HKLRD 634 Lord Millett, sitting as a non-permanent judge of the Court of Final Appeal in Hong Kong, said this practice was a sound one.</sentence>
+<sentence id="s83">It has been applied to other issues relating to jurisdiction.</sentence>
+<sentence id="s84">In England, however, this view has been overtaken.</sentence>
+<sentence id="s85">The change followed comments by Chadwick LJ in Re Hawk Insurance Co Ltd [2001] EWCA Civ 241 ; [2001] 2 BCLC 480.</sentence>
+<sentence id="s86">Chadwick LJ pointed out that the effect of the practice was to require the court when deciding whether to approve a scheme to review the utility of the order it had made convening the scheme meetings.</sentence>
+<sentence id="s87">He went on to say that those propounding the scheme were entitled to feel aggrieved if the court then found its first order to have been pointless.</sentence>
+<sentence id="s88">A new practice statement was published in [2002] 1 WLR 1345.</sentence>
+<sentence id="s89">Under the new practice the applicant for a scheme meeting must draw to the attention of the court as soon as possible any issue that may arise about the constitution of the meetings or which might otherwise affect the conduct of the meetings.</sentence>
+<sentence id="s90">If appropriate, notice must be given to any person affected by the proposed scheme so they may apply to be heard at the convening application.</sentence>
+<sentence id="s91">I adopted this practice in In the Application of United Medical Protection Limited [2007] FCA 631.</sentence>
+<sentence id="s92">The purpose of the new practice is to avoid the waste of costs and court time which would result if it were not until the approval hearing that it was determined that classes were wrongly constituted.</sentence>
+<sentence id="s93">In England it has been said that this underlying purpose means that if other issues which go to the jurisdiction of the court to approve a scheme (as in Re Savoy Hotel Ltd [1981] 1 Ch 351) , or issues which would lead the court unquestionably to refuse the scheme, should also be dealt with at the convening application: Re T &amp; N Ltd (No 3) [2006] EWHC 1447 ; [2007] 1 All ER 851 , 862.</sentence>
+<sentence id="s94">The liquidators appreciated the proposed schemes raised controversial issues.</sentence>
+<sentence id="s95">They brought on a preliminary application asking for directions.</sentence>
+<sentence id="s96">Orders were made for the publication on Ferrier Hodgson's website of the proposed schemes, the draft explanatory statement, the affidavits in support of the applications and the liquidators' outline of argument.</sentence>
+<sentence id="s97">Creditors wishing to make submissions at the convening application were advised to appear on an earlier date which had been set aside to deal with any application for leave to appear.</sentence>
+<sentence id="s98">In the event, several parties sought, and were granted, leave (if leave was necessary) to appear.</sentence>
+<sentence id="s99">They included persons who supported the proposed schemes such as ANZ (for whom Mr Archibald QC with Mr Crutchfield and Ms Neskovcin appeared), Merrill Lynch (for whom Mr Hutley SC with Mr O'Bryan appeared), Green Frog (for whom Mr Elliott SC appeared) and an unsecured creditor, Cedarange Pty Ltd (for whom Mr Zwier appeared).</sentence>
+<sentence id="s100">There were creditors who opposed the proposed schemes or aspects of them.</sentence>
+<sentence id="s101">They were a group of former clients, referred to as the Lavan objectors, who had commenced an action against Opes companies and ANZ (Mr Gleeson SC with Mr Douglas appeared on their behalf); Imobilari Pty Ltd, the plaintiff in a class action (Mr Armstrong appeared on its behalf); a group of more than 80 former clients (for whom Mr Sweeney SC appeared); and a number of other small creditors namely Panopus PLC (represented by Mr Bigmore QC), Danpen Pty Ltd (represented by Mr Wallis) and Mr Mitsius (who appeared unrepresented).</sentence>
+<sentence id="s102">The receivers appeared and were represented by Mr Galvin.</sentence>
+<sentence id="s103">Mr Sifris SC with Mr Boston and Mr Horan appeared for ASIC.</sentence>
+<sentence id="s104">Each party including the plaintiffs, for whom Mr Scerri QC and Mr Strong appeared, was given a fixed time within which to make submissions so as to ensure the hearing would not exceed two days.</sentence>
+<sentence id="s105">Everyone kept to their allotted time.</sentence>
+<sentence id="s106">Special mention should be made of the role played by the liquidators.</sentence>
+<sentence id="s107">The liquidators' obligation is to remain neutral and, usually, the liquidators would not be permitted to appear on this type of application: see the discussion between Lindley LJ and counsel recorded in Re Alabama, New Orleans, Texas and Pacific Junction Railway Company [1891] 1 Ch 213 , 233 - 234.</sentence>
+<sentence id="s108">Here however the liquidators' central role in bringing about the implementation agreement which led to the schemes being propounded meant they were best suited to assist the court.</sentence>
+<sentence id="s109">In any event, what would otherwise have been an undesirable position was made good by there being other proponents and opponents of the opposed schemes.</sentence>
+<sentence id="s110">3.</sentence>
+<sentence id="s111">The Proposed Schemes 
+ An outline of the proposed schemes is necessary.</sentence>
+<sentence id="s112">The liquidators will become the scheme administrators to realise and distribute assets in accordance with the provisions of the schemes.</sentence>
+<sentence id="s113">This is not to occur on a company by company basis.</sentence>
+<sentence id="s114">Instead, the undertaking, assets and liabilities of each scheme company, other than OPGL, are to be transferred to OPGL, in effect "pooling" the assets and liabilities of the companies (with all inter-company debts and claims to be extinguished).</sentence>
+<sentence id="s115">Included among the assets to be pooled is the $226 million the banks will pay to the liquidators as well as the property that it has been agreed should be returned by the receivers.</sentence>
+<sentence id="s116">The pooled assets (less $11.5 million) will, after payment of the usual costs and expenses, be distributed between the unsecured creditors.</sentence>
+<sentence id="s117">The $11.5 million is to be distributed as follows: (a) $1 million to CLF, a litigation funder who is funding the class action commenced by Imobilari Pty Ltd; (b) $2.5 million to IMF, a litigation funder who is funding several proceedings which have been brought against an Opes company or the banks; and (c) $8 million to be placed in a plaintiffs' costs fund to cover, at least proportionately, the legal costs incurred by Opes clients in other actions brought against Opes companies or the banks.</sentence>
+<sentence id="s118">The unsecured creditors of the Opes companies comprise, loosely speaking, trade creditors and clients or former clients.</sentence>
+<sentence id="s119">A panel of three experts (constituted by one former superior court judge, a senior counsel and a well-known accountant) will rule on any dispute between a creditor and the scheme administrators concerning the existence and value of a creditor's claim.</sentence>
+<sentence id="s120">The schemes will also bind creditors who assert a beneficial interest in certain securities still held by a scheme company.</sentence>
+<sentence id="s121">As nothing turns on their status, when referring to unsecured creditors this group is included.</sentence>
+<sentence id="s122">An essential feature of each scheme is that all unsecured creditors, each scheme company and the liquidators are to release their claims against the banks, Green Frog, the liquidators of Green Frog and the receivers (the released parties).</sentence>
+<sentence id="s123">So far as the creditors are concerned this will be achieved by the execution of a formal deed of release and indemnity by the scheme administrators acting on behalf of each scheme creditor.</sentence>
+<sentence id="s124">The deed contains a covenant that the creditor will not bring or pursue claims against the released parties.</sentence>
+<sentence id="s125">Authority is given to the scheme administrators to take all necessary steps (eg by consenting to orders) to bring to an end any existing action against the banks.</sentence>
+<sentence id="s126">4.</sentence>
+<sentence id="s127">The Third Party Release
+ There is a real issue whether a scheme of arrangement can bar a claim against a third party.</sentence>
+<sentence id="s128">The answer depends upon whether a scheme containing such a provision is, within the words of s 411(1) , "a compromise or arrangement .... between a ... [company] and its creditors or any class of them".</sentence>
+<sentence id="s129">Putting the matter this way raises two distinct points: (a) What is meant by a compromise or arrangement (neither being a defined term); and (b) If barring a claim amounts to, or may be an aspect of, either a compromise or an arrangement is it a compromise or arrangement between the company and its creditors?</sentence>
+<sentence id="s130">When considering these points it is necessary to keep in mind that the words "compromise" or "arrangement" must be construed liberally: Australian Securities Commission v Marlborough Gold Mines Limited [1993] HCA 15 ; (1993) 177 CLR 485 , 501 citing Re International Harvester Co of Australia Pty Ltd [1953] VLR 669.</sentence>
+<sentence id="s131">It is also necessary to recall that, however widely the expressions "compromise" or "arrangement" are to be construed, there are differences between them.</sentence>
+<sentence id="s132">A compromise involves the resolution of some dispute, for example as to the power to enforce rights or as to what those rights might be: Mercantile Investment &amp; General Trust Company v International Company of Mexico [1893] 1 Ch 491n.</sentence>
+<sentence id="s133">There is no such limitation to an arrangement.</sentence>
+<sentence id="s134">In other words, an arrangement is not something that is analogous to a compromise: Shaw v Royce Limited [1911] 1 Ch 138 , 148; Re Guardian Assurance Company [1917] 1 Ch 431.</sentence>
+<sentence id="s135">What is often said to suffice for an "arrangement" is a transaction that involves some "give and take" or the provision of some "benefit": Re NFU Development Trust Ltd [1972] 1 WLR 1548.</sentence>
+<sentence id="s136">In reality "almost any arrangement otherwise legal which touches and concerns the rights and obligations of the company or its members or creditors may be come to under [s 411]": Re International Harvester [1953] VLR at 672 per Lowe ACJ.</sentence>
+<sentence id="s137">Of course a scheme cannot authorise something which is contrary to law: Re St James' Court Estate Limited [1944] Ch 6.</sentence>
+<sentence id="s138">Nor can a scheme authorise a transaction which is beyond the power of the company ( Re Cooper, Cooper &amp; Johnson, Limited [1902] WN 199; Re Oceanic Steam Navigation Company Limited [1939] 1 Ch 41) , although, nowadays, few acts are ultra vires: see Corporations Act , Pt 2B.1.</sentence>
+<sentence id="s139">There are some limitations on the meaning of "arrangement".</sentence>
+<sentence id="s140">It would not cover a scheme where a creditor abandons all his claims without a compensating advantage, or a scheme which involves the confiscation of rights: Re Alabama at 243 per Bowen LJ (The court will not sanction "what would be a scheme of confiscation"); Re NFU Development Trust (at 1555) per Brightman J ("Confiscation is not my idea of an arrangement.</sentence>
+<sentence id="s141">A member whose rights are expropriated without any compensating advantage is not, in my view, having his rights rearranged in any legitimate sense of that expression"); Isles v The Daily Mail Newspaper Limited [1912] HCA 18 ; (1912) 14 CLR 193 , 197 per Griffith CJ ("Every compromise or arrangement is a bargain, but not every bargain can be fairly described as a compromise or arrangement with creditors --- for instance, a bargain by which creditors would become debtors to the Company instead of creditors").</sentence>
+<sentence id="s142">Mr Gleeson employed the reasoning behind these cases to attack the release clause.</sentence>
+<sentence id="s143">First he said the release amounted to a confiscation of creditors' property, at least as regards those creditors who had claims against the banks, and therefore was not an "arrangement" for the purposes of s 411.</sentence>
+<sentence id="s144">His second submission was that the release could not be binding because a scheme could not bind a creditor in his capacity as a creditor of a third party.</sentence>
+<sentence id="s145">The first submission cannot be accepted.</sentence>
+<sentence id="s146">It assumes that creditors will get nothing for the release.</sentence>
+<sentence id="s147">That is very far from the truth.</sentence>
+<sentence id="s148">When considered from a business point of view, the banks are putting a very large sum of money into the schemes to be rid of claims by the liquidators and the creditors.</sentence>
+<sentence id="s149">True it is the money has not been apportioned between the claims and any attempt to do so would face all sorts of difficulties.</sentence>
+<sentence id="s150">But what I know from the information before me is that a valuer could apportion a not insignificant proportion of the $226 million toward the present and potential claims against the banks.</sentence>
+<sentence id="s151">What is proposed, then, is not a confiscation of property (ie the release of the choses of action) but a true compromise of the claims against the banks.</sentence>
+<sentence id="s152">It is, I suppose, possible to view as a confiscation the manner in which it is proposed to distribute what could be attributed to the compromise of the claims against the banks.</sentence>
+<sentence id="s153">This is for the reason that the whole amount recovered from the banks is to be divided between all the unsecured creditors of the Opes companies whether or not they have claims against the banks.</sentence>
+<sentence id="s154">There is a group, loosely referred to as trade creditors, who do not have claims against the banks.</sentence>
+<sentence id="s155">They are recovering more than they should at the expense of those who do have claims against the banks.</sentence>
+<sentence id="s156">But their proportion of the total amount of unsecured claims is so small (i.e.</sentence>
+<sentence id="s157">0.80%) that it is a misnomer to speak of a confiscation.</sentence>
+<sentence id="s158">The second point raised by Mr Gleeson (whether a scheme under s 411 can release a third party) is a difficult one.</sentence>
+<sentence id="s159">It is made all the more difficult because there are conflicting decisions in point.</sentence>
+<sentence id="s160">It is, therefore, necessary to look at those decisions in some detail.</sentence>
+<sentence id="s161">The only Australian case directly in point is Re Buildmat (Australia) Pty Ltd and the Companies Act (1981) 5 ACLR 689 , an anti-release case.</sentence>
+<sentence id="s162">There the petitioning creditor sought to wind up a company on the ground of insolvency.</sentence>
+<sentence id="s163">The alleged debt was an amount (rent and outgoings) due under a lease.</sentence>
+<sentence id="s164">By the lease the company had covenanted to be jointly and severally liable with the lessee for the payment of money owing under the lease.</sentence>
+<sentence id="s165">The company denied it was liable to pay any rent or outgoings.</sentence>
+<sentence id="s166">It contended that its liability under the lease had been discharged.</sentence>
+<sentence id="s167">It relied upon a scheme of arrangement which the lessee company had entered into with its creditors.</sentence>
+<sentence id="s168">The scheme extinguished creditors' claims against the lessee.</sentence>
+<sentence id="s169">It also contained a provision that creditors who had the benefit of any guarantee or indemnity given to them by any person in respect of the lessee's indebtedness to them should release and discharge the guarantor or indemnifier.</sentence>
+<sentence id="s170">Needham J rejected the company's argument that the scheme released the guarantee.</sentence>
+<sentence id="s171">First of all he said (at 692) that, on the basis of authority (he referred to Hill v Anderson Meat Industries Ltd [1972] 2 NSWLR 704 but the cases go back to at least McGrath v Gray [1874] LR 9 CP 216 (a co-debtor case)) "where a creditor's debt has been discharge by the operation of a scheme of arrangement approved by the court, the approval of the scheme does not affect the right of a creditor bound by the scheme to take proceedings for recovery against the guarantor".</sentence>
+<sentence id="s172">Needham J then held that the release in the scheme did not discharge the guarantee.</sentence>
+<sentence id="s173">His reasoning on the subject is very brief.</sentence>
+<sentence id="s174">He said (at 692): "A scheme of arrangement between a company and its creditors affects those creditors only in the capacity as creditors of the company --- cf Bridges v Hershon [1968] 3 NSWR 47 at 55.</sentence>
+<sentence id="s175">The right of the petitioner against [the company] is not a right in that capacity and it follows that the provisions of the scheme cannot affect it".</sentence>
+<sentence id="s176">The case to which Needham J referred, Bridges v Hershon , should be mentioned because it seems to go against his conclusion.</sentence>
+<sentence id="s177">There a scheme was approved which had as an essential element that certain members of the company would sell their shares to other interested parties.</sentence>
+<sentence id="s178">The court held that the agreement became binding upon the approval of the scheme.</sentence>
+<sentence id="s179">It therefore bound members in their dealings with non-members.</sentence>
+<sentence id="s180">The approach in Re Buildmat has not been followed in other jurisdictions.</sentence>
+<sentence id="s181">Where the point has been considered, the courts have adopted a pro-release approach.</sentence>
+<sentence id="s182">I propose to refer to three cases to which Mr Scerri drew my attention.</sentence>
+<sentence id="s183">The first is Re T &amp; N Ltd (No 3) .</sentence>
+<sentence id="s184">T &amp; N and a number of its related companies (companies that were in administration) for many years engaged in the manufacture of asbestos-containing products.</sentence>
+<sentence id="s185">Many of their employees were exposed to asbestos dust which caused them to suffer certain diseases.</sentence>
+<sentence id="s186">Some had commenced action against the companies.</sentence>
+<sentence id="s187">Others were likely to do so when they suffered symptoms of the diseases, but that might not occur for some time.</sentence>
+<sentence id="s188">T &amp; N and a number of related companies held insurance which they said covered the claims.</sentence>
+<sentence id="s189">For their part, the insurers contended that the policies did not cover asbestos claims.</sentence>
+<sentence id="s190">If they did, the insurers said the policies could be avoided for non-disclosure or misrepresentation.</sentence>
+<sentence id="s191">The T &amp; N companies sued the insurers and were successful.</sentence>
+<sentence id="s192">The insurers then appealed.</sentence>
+<sentence id="s193">Before the hearing of the appeal the claims were settled.</sentence>
+<sentence id="s194">The insurers agreed to pay &#8356;36.74 million into a fund on the basis that the T &amp; N companies would propound schemes of arrangement to compromise the claims against the companies on the basis that the fund would meet all present and future claims.</sentence>
+<sentence id="s195">It was a term of the schemes that neither the T &amp; N companies nor any employee could bring a claim against the insurers.</sentence>
+<sentence id="s196">The insurers sought this term because the effect of the Third Parties (Rights Against Insurers) Act 1930 (UK) was that the T &amp; N companies rights against the insurers were transferred to the employees upon the T &amp; N companies entering into administration.</sentence>
+<sentence id="s197">When the schemes came before the court for approval one issue the court considered was whether the schemes, which had as a key element the discharge of claims against the insurers, could be characterised as a compromise or arrangement between T &amp; N and its employees.</sentence>
+<sentence id="s198">David Richards J held they were arrangements between the companies and their employees.</sentence>
+<sentence id="s199">His reasoning went along the following lines.</sentence>
+<sentence id="s200">First, he observed ([2007] 1 All Er at 871) that the rights of the employees against the insurers were in no sense unconnected with T &amp; N or the employees' rights against T &amp; N. Second, he noted (at 871) that the settlement of litigation was "in substance and form a tripartite matter" involving T &amp; N, the insurers and the employees.</sentence>
+<sentence id="s201">The judge put it this way (at 872): "The scheme of arrangement is an integral part of a single proposal affecting all the parties".</sentence>
+<sentence id="s202">Third, he held (at 872) that it was not a necessary element of an arrangement "that it should alter the rights existing between the company and the creditors ... with whom it is made".</sentence>
+<sentence id="s203">He said (at 872) that "in most cases it will alter those rights".</sentence>
+<sentence id="s204">But he went on (at 872): "[P]rovided that the context and content of the scheme are such as properly to constitute an arrangement between the company and the members or creditors concerned it will fall within s 425" (the equivalent of s 411).</sentence>
+<sentence id="s205">Then he said (at 872): "Nor is an arrangement necessarily outside the section, because its effect is to alter the rights of creditors against another party or because such alteration could be achieved by a scheme of arrangement with that other party.</sentence>
+<sentence id="s206">" The second pro-release case is Daewoo Singapore Pte Ltd v CEL Tractors Pte Ltd [2002] 2 LRC 66, a decision of the Court of Appeal of Singapore.</sentence>
+<sentence id="s207">CEL Tractors proposed a scheme of arrangement between itself and ten creditors, one of whom was Daewoo.</sentence>
+<sentence id="s208">All ten creditors held guarantees in respect of debts owed to them by CEL Tractors.</sentence>
+<sentence id="s209">Under the proposed scheme the creditors' claims would be satisfied, partly by a payment in cash, and partly by the grant of options to take up fully paid shares.</sentence>
+<sentence id="s210">The scheme contained a provision requiring the creditors to release the guarantees.</sentence>
+<sentence id="s211">The trial judge sanctioned the scheme and Daewoo appealed.</sentence>
+<sentence id="s212">The principal issue before the Court of Appeal was whether a scheme under s 210 of the Companies Act (Cap 50, 1994 Ed) (the equivalent of s 411) could contain a term which had the effect of releasing a third party.</sentence>
+<sentence id="s213">The judgment of the Court of Appeal was delivered by Yong Pung How CJ.</sentence>
+<sentence id="s214">First, like Needham J in Re Buildmat , he referred to cases which held that a scheme of arrangement which released the debt owed by a company did not affect the creditors rights against a guarantor.</sentence>
+<sentence id="s215">Then he considered whether it was permissible to release a guarantee by a provision in a scheme.</sentence>
+<sentence id="s216">He said there was no reason why a scheme could not incorporate such a term.</sentence>
+<sentence id="s217">He explained (at 78): "After all, a scheme of arrangement or compromise proposed by a company to be made with its creditors or a class of creditors under s 210 of the Companies Act is no more than a proposal to vary or modify its obligations in relation to its debts and liabilities owed to its creditors or a class of creditors on certain terms and conditions.</sentence>
+<sentence id="s218">In seeking so to vary or modify its obligations, there is nothing to prevent the company from proposing, as part of a wider scheme, inter alia, a term to the effect that, in consideration of what the company has provided under the scheme, the creditors will, upon implementation of the scheme, discharge not only the debts and liabilities of the company but also the liabilities of the guarantors for the same debts and liabilities of the company".</sentence>
+<sentence id="s219">The third pro-release case is Re Metcalfe &amp; Mansfield Alternative Investments II Corp (2008) ONCA 587 , a decision of the Court of Appeal for Ontario.</sentence>
+<sentence id="s220">By way of background, in Canada it has for some time been the practice to approve schemes of arrangement that contain a third party release.</sentence>
+<sentence id="s221">In only one case ( Re Canadian Airlines Corp (2000) 265 AR 201) has the scheme been opposed.</sentence>
+<sentence id="s222">The court approved the scheme but for reasons with which the Court of Appeal did not agree.</sentence>
+<sentence id="s223">Hence I will not discuss that decision.</sentence>
+<sentence id="s224">The facts in Metcalfe &amp; Mansfield are complex.</sentence>
+<sentence id="s225">A brief description will suffice.</sentence>
+<sentence id="s226">In August 2007, following defaults on US sub prime mortgages, a liquidity crisis threatened the Canadian market in asset backed commercial paper (ABCP).</sentence>
+<sentence id="s227">ABCP is a form of short-term investment that is "asset backed" because the cash used to purchase an ABCP note is converted into a portfolio of financial assets that provide security for the repayment of the notes.</sentence>
+<sentence id="s228">The notes, which generate a low interest yield, were sold as a safe investment.</sentence>
+<sentence id="s229">By agreement between the major market participants, trade in ABCP was halted pending an attempt to resolve the crisis through a restructuring of the market under the Companies' Creditors Arrangement Act , RSC 1985, c C-36 (CCAA).</sentence>
+<sentence id="s230">In essence the plan sought to convert the note holders' paper, which was basically worthless, into a new note that could freely be traded at a discount to its face value.</sentence>
+<sentence id="s231">The hope was that a secondary market for the notes would develop.</sentence>
+<sentence id="s232">The plan provided for the release of virtually all ABCP market participants from any liability associated with the notes, other than for claims in fraud.</sentence>
+<sentence id="s233">The Court of Appeal's focus was directed to the release.</sentence>
+<sentence id="s234">Most of the potential claims to be released were in tort: negligence, misrepresentation, failing to act as a prudent adviser and acting in conflict of interest.</sentence>
+<sentence id="s235">The released parties were to provide something for the release.</sentence>
+<sentence id="s236">Asset providers assumed an increased risk in their credit default swap contracts, sponsors gave up existing contracts and the banks provided below cost financing.</sentence>
+<sentence id="s237">Blair JA delivered the judgment of the court.</sentence>
+<sentence id="s238">He said (at [43]) that on its proper construction the CCAA "permits the inclusion of third party releases in a plan of compromise or arrangement to be sanctioned by the court where those releases are reasonably connected to the proposed restructuring.</sentence>
+<sentence id="s239">" He explained (at [43]) that he was led to this conclusion "by a combination of (a) the open-ended, flexible character of the CCAA itself, (b) the broad nature of the term 'compromise or arrangement' used in the Act, and (c) the express statutory effect of the 'double-majority' vote and the court sanction which render the plan binding on all creditors, including those unwilling to accept certain portions of it.</sentence>
+<sentence id="s240">The first of these signals a flexible approach to the application of the Act in new and evolving situations, an active judicial role in its application and interpretation, and a liberal approach to that interpretation.</sentence>
+<sentence id="s241">The second provides the entr&eacute;e to negotiations between the parties affected in the restructuring and furnishes them with the ability to apply the broad scope of their ingenuity in fashioning the proposal.</sentence>
+<sentence id="s242">The latter afford necessary protection to unwilling creditors who may be deprived of certain of their civil and property rights as a result of the process.</sentence>
+<sentence id="s243">" Blair JA acknowledged that not all third party releases could be provided for in a compromise or arrangement.</sentence>
+<sentence id="s244">There had to be some nexus between the release and the creditors' position.</sentence>
+<sentence id="s245">He defined the nexus (at [70]) in this way: "[T]here must be a reasonable connection between the third party claim being compromised in the plan and the restructuring achieved by the plan to warrant inclusion of the third party release in the plan".</sentence>
+<sentence id="s246">In the case at bar he said that there was a sufficiently close connection.</sentence>
+<sentence id="s247">He explained (at [72]): "The tort claims being released arose out of the sale and distribution of the ABCP Notes and their collapse in value, just as do the contractual claims of the creditors against the debtor companies.</sentence>
+<sentence id="s248">The purpose of the restructuring is to stabilize and shore up the value of those notes in the long run.</sentence>
+<sentence id="s249">The third parties being released are making separate contributions to enable those results to materialize.</sentence>
+<sentence id="s250">" The approach evident in the pro-release cases is that the scheme of arrangement provisions are intended to be a flexible instrument and it is that flexibility which gives the provisions their efficacy.</sentence>
+<sentence id="s251">When first enacted in England as ss 159 --- 161 of the Companies Act 1862, 25 &amp; 26 Vict, c 89, the provisions were intended to facilitate compromises and arrangements between insolvent companies and their members and creditors as an alternative to liquidation.</sentence>
+<sentence id="s252">Now they have a much wider purpose, including allowing businesses to restructure or reorganise their affairs to enable them to go forward in a better condition, or to amalgamate their business so as to reduce expenses and compete with greater effect.</sentence>
+<sentence id="s253">It is instructive to look at the position regarding third party releases in the United States.</sentence>
+<sentence id="s254">The issue has been considered in some depth under Chapter 11 of the Bankruptcy Code.</sentence>
+<sentence id="s255">A useful discussion is found in Joshua Silverstein, 'Hiding in Plain View: A Neglected Supreme Court Decision Resolves the Debate Over Non-Debtor Releases in Chapter 11 Reorganizations' (2006) 23 Emory Bankr Dev J 13.</sentence>
+<sentence id="s256">What follows is based substantially on what is said in that article.</sentence>
+<sentence id="s257">The policy behind Chapter 11 is to permit the successful reorganisation of a debtor.</sentence>
+<sentence id="s258">Section 105(a) provides that the bankruptcy court "may issue any order, process, or judgment that is necessary or appropriate to carry out the provisions of this title".</sentence>
+<sentence id="s259">Section 1123(b)(6) permits a Chapter 11 plan to "include any ... appropriate provision not inconsistent with the applicable provisions of this title".</sentence>
+<sentence id="s260">These provisions have given rise to a long-standing debate about the permissibility of including a third party release in a plan of reorganisation or of the issue of an injunction prohibiting the commencement of proceedings against a third party.</sentence>
+<sentence id="s261">The anti-release courts (the Ninth and Tenth Circuits) base their opposition on s 524(e) which provides, in effect, that the discharge of a debt of the debtor does not affect the liability of any other entity on such debt.</sentence>
+<sentence id="s262">From this the Ninth and Tenth Circuits reason that third party releases are not permissible: see eg Underhill v Royal [1985] USCA9 1518 ; 769 F2d 1426 , 1432 (9 th Cir 1985) ("The bankruptcy court 'has no power to discharge the liabilities of a bankrupt's guarantor'"); American Hardwoods Inc v Deutsche Credit Corporation (In re American Hardwoods) [1989] USCA9 842 ; 885 F2d 621 (9 th Cir 1989); Landsing Diversified Properties-II v The First National Bank and Trust Company of Tulsa (In re Western Real Estate Fund Inc) [1991] USCA10 26 ; 922 F2d 592 , 601-602 (10 th Cir 1990) (Section 524(e) does not permit a court to grant a "permanent injunction that effectively relieves the nondebtor from its own liability to the creditor").</sentence>
+<sentence id="s263">The first of the important pro-release cases is MacArthur Company v Johns-Manville Corp 837 F2d 89 (2d Cir 1988) (strictly a pro-injunction case).</sentence>
+<sentence id="s264">When Johns-Manville declared bankruptcy it faced the possibility of suits by tens of thousands asbestos victims, amounting to a potential liability exceeding $2 billion.</sentence>
+<sentence id="s265">The company alleged the claims were covered by insurance and the insurers denied liability.</sentence>
+<sentence id="s266">The bankruptcy court approved a settlement between the debtor and its insurers.</sentence>
+<sentence id="s267">Under the settlement the insurers paid Johns-Manville $770 million and were "relieved of all obligations related to the disputed policies".</sentence>
+<sentence id="s268">To effectuate the settlement the court "enjoined all suits against the insurers" concerning the policies.</sentence>
+<sentence id="s269">MacArthur, a distributor of Johns-Manville products, argued that the injunction improperly extinguished its rights under the insurance contracts.</sentence>
+<sentence id="s270">The Second Circuit found that s 105(a) authorised the injunction.</sentence>
+<sentence id="s271">It observed (837 F2d at 93) that the section "has been construed liberally to enjoin suits that might impede the reorganization process".</sentence>
+<sentence id="s272">It found (at 93) that direct actions against the insurers "would adversely affect property of the estate and would interfere with reorganization".</sentence>
+<sentence id="s273">The second case is Menard-Stanford v Mabey (In re A H Robins Company Incorporated) 880 F2d 694 (4 th Cir 1989).</sentence>
+<sentence id="s274">Robins was the manufacturer of the Dalkon Shield.</sentence>
+<sentence id="s275">Prior to its bankruptcy it faced over 195,000 tort claims.</sentence>
+<sentence id="s276">The proposed reorganisation contained a third party release permanently enjoining claimants from suing any party for their injuries.</sentence>
+<sentence id="s277">Robins' directors and attorneys, their insurers and their insurers' attorney were among those benefiting from the release.</sentence>
+<sentence id="s278">The court held that there was power to grant the release for two reasons.</sentence>
+<sentence id="s279">First, the release was essential to the reorganisation in that any suit against the released party would "affect the bankruptcy reorganization in one way or another such as by way of indemnity or contribution" and "the entire reorganization hinges on the debtor being free from indirect claims such as suits against parties who had indemnity or contribution claims against the debtor": 880 F2d at 701-702.</sentence>
+<sentence id="s280">The court went on to say (at 702) that s 524(e) "does not by its specific words preclude the discharge of a guaranty when it has been accepted and confirmed as an integral part of reorganization".</sentence>
+<sentence id="s281">Second, the plan provided the claimants with payment in full.</sentence>
+<sentence id="s282">In Re Master Mortgage Investment Fund Inc 168 BR 930 (Bkrtcy WDMo 1994) the court set out the criteria widely used in determining whether a third party release should be allowed.</sentence>
+<sentence id="s283">The criteria are (a) There must be an "identity of interest between the debtor and the third party, usually an indemnity relationship, such that a suit against the non-debtor is, in essence, a suit against the debtor or will deplete assets of the estate"; (b) The third party must contribute "substantial assets to the reorganization"; (c) The release must be "essential to the reorganization.</sentence>
+<sentence id="s284">Without the [release], there is little likelihood of success".</sentence>
+<sentence id="s285">(d) "A substantial majority of the creditors agree to [the release]"; and (e) The plan provides for "payment of all, or substantially all, of the claims of the class or classes affected" by the non-debtor release: 168 DR at 935.</sentence>
+<sentence id="s286">For a less stringent test see Securities and Exchange Commission v The Drexel Burnham Lambert Group Inc (Re the Drexel Burnham Group Inc) [1992] USCA2 326 ; 960 F2d 285 (2d Cir 1992), which holds that a court may enjoin a creditor from suing a third party provided that the release plays an "important part" in the reorganisation plan.</sentence>
+<sentence id="s287">I should make it clear that, at best, the US cases do no more for our purposes than point toward the utility of a broad construction of s 411.</sentence>
+<sentence id="s288">They do not throw any light on the proper construction of the section.</sentence>
+<sentence id="s289">Accepting that the approach to the construction of s 411 should ensure that the section has a flexible operation, I have no doubt (not with the benefit of the same experience and knowledge as claimed by Lord Romilly, as to which see Re Commercial Bank Corporation of India and the East (1869) 20 LT NS 839, 840) that I should follow the approach in the pro-release cases to which I have referred.</sentence>
+<sentence id="s290">In other words, provided there is a sufficient nexus between a release and the relationship between the creditor and the scheme company, the scheme can validly incorporate the release.</sentence>
+<sentence id="s291">There is a sufficient nexus here for any number of reasons, including, most importantly, that the creditors' claims against the Opes companies and their claims against the banks largely (and in many cases completely) overlap, the schemes are in settlement of interlocking claims and, in the absence of the release, none of the claims would be compromised.</sentence>
+<sentence id="s292">5 Acquisition on unjust terms 
+ The construction I have adopted makes it necessary to consider an argument that, so construed, s 411 permits the acquisition of property otherwise than on just terms and thereby contravenes s 51(xxxi) of the Constitution .</sentence>
+<sentence id="s293">It is interesting to observe how this argument arises.</sentence>
+<sentence id="s294">The Corporations Act was enacted using as a source of power s 51(xxxvii) (the reference power).</sentence>
+<sentence id="s295">In Re Wakim Ex parte McNally [1999] HCA 27 ; (1999) 198 CLR 511 the High Court had struck down certain provisions of the Corporations Act 1989 (Cth), rendering the whole legislation unworkable.</sentence>
+<sentence id="s296">Recognising that in a federation a single statute regulating companies was necessary to maintain a modern economy, the States referred to the Commonwealth the power to enact the Corporations Act .</sentence>
+<sentence id="s297">The argument which is now deployed against s 411 is an argument that could not have been maintained if the statute had been enacted by a State.</sentence>
+<sentence id="s298">That the argument is able to be maintained at all is the result of the High Court view that, absent a contrary intention, all the legislative powers of the Parliament, whatever their source, must be construed so that they do not authorise the making of a law which can properly be characterised as a law with respect to the acquisition of property for any relevant purpose otherwise than on just terms: Mutual Pools &amp; Staff Pty Limited v Commonwealth [1994] HCA 9 ; (1994) 179 CLR 155 , 169; see also Wurridjal v Commonwealth [2009] HCA 2 ; (2009) 252 ALR 232 The constitutional argument was put by Mr Gleeson.</sentence>
+<sentence id="s299">His submission rests on the proposition that a third party release, being the extinguishment of a common law right, is an acquisition of property for the purposes of s 51(xxxi).</sentence>
+<sentence id="s300">To bring an acquisition within s 51(xxxi) "there must be an acquisition whereby the Commonwealth or another acquires an interest in property, however slight or insubstantial it may be": Commonwealth v Tasmania [1983] HCA 21 ; (1983) 158 CLR 1 , 145 per Mason J.</sentence>
+<sentence id="s301">The term property is defined broadly and includes a chose in action: Georgiadis v Australian and Overseas Telecommunications Corporation [1994] HCA 6 ; (1994) 179 CLR 297 , 303-304.</sentence>
+<sentence id="s302">It follows that the phrase "acquisition of property" in s 51(xxxi) "extends to the extinguishment of a vested cause of action, at least where the extinguishment results in a direct benefit or financial gain (which, of course, includes liabilities being brought to an end without payment or other satisfaction) and the cause of action is one that arises under the general law": Georgiadis at 305.</sentence>
+<sentence id="s303">This is not, however, sufficient for Mr Gleeson to make good his point.</sentence>
+<sentence id="s304">Before s 51(xxxi) is attracted, the impugned law must properly be characterised as a law with respect to the acquisition of property.</sentence>
+<sentence id="s305">In Mutual Pools Brennan J explained (at 179) that s 51(xxxi) does not bring within its reach a provision which is "appropriate and adapted to the achievement of an objective falling within another head of power where the acquisition of property without just terms is a necessary or characteristic feature of the means proscribed".</sentence>
+<sentence id="s306">According to Brennan J (at 180): "What is critical to validity is whether the means selected, involving an acquisition of property without just terms, are appropriate and adapted to the achievement of the objective.</sentence>
+<sentence id="s307">The absence of just terms is relevant to that question, but not conclusive".</sentence>
+<sentence id="s308">Likewise in Nintendo Co Ltd v Centronics Systems Pty Ltd [1994] HCA 27 ; (1994) 181 CLR 134 , 161 the plurality said that: "[A] law which is not directed to the acquisition of property as such but which is concerned with the adjustment of the competing rights, claims or obligations of persons in a particular relationship or area or activity is unlikely to be susceptible of legitimate characterisation as a law with respect to the acquisition of property for the purposes of s 51 of the Constitution ... [Such a law would therefore be] beyond the reach of s 51(xxxi) 's guarantee of just terms".</sentence>
+<sentence id="s309">See also Wurridjal at 259.</sentence>
+<sentence id="s310">Section 411 and its predecessors play an important role in corporate life.</sentence>
+<sentence id="s311">Companies are frequently required to rearrange their capital structure, for example, by converting debentures into shares or for adjusting the rights of different classes of shareholders, or to reorganise their affairs, or to give those with a stake in the company the opportunity to salvage intangible assets.</sentence>
+<sentence id="s312">If in financial difficulty a company may wish to enter into arrangements with some or all of its creditors.</sentence>
+<sentence id="s313">To accomplish these arrangements members or creditors often have to give up some right in order to keep the company going or to remedy some deficiency in its structure.</sentence>
+<sentence id="s314">If under such an arrangement "property" is acquired, that acquisition is merely an incident of the regulation of conduct that is in the common interest.</sentence>
+<sentence id="s315">Neither the schemes, nor the statute which gives them effect, can be characterised as dealing with, or with respect to, the acquisition of property for purposes of s 51(xxxi).</sentence>
+<sentence id="s316">In any event to succeed the creditor must show that the relevant acquisition has been on unjust terms.</sentence>
+<sentence id="s317">In Nelungaloo Pty Ltd v Commonwealth (1952) 85 CLR 545, 600 Kitto J said: "The standard of justice postulated by the expression 'just terms' is one of fair dealing between the Australian nation and an Australian State or individual in relation to the acquisition of property for a purpose within the national legislative competence".</sentence>
+<sentence id="s318">In the present context the creditors who are required to give up claims against third parties will necessarily be treated fairly.</sentence>
+<sentence id="s319">That is the consequence of the scheme procedure which only permits the court to approve a scheme of arrangement, and thereby bind dissentients, if the scheme is "fair and reasonable": Re Alabama [1891] 1 Ch at 247.</sentence>
+<sentence id="s320">6.</sentence>
+<sentence id="s321">Classes of creditors
+ The order the liquidators seeks assumes that creditors form only one class for purposes of voting on the proposed schemes.</sentence>
+<sentence id="s322">On the other hand several of the opposing creditors argue that there should be separate meetings for what they say are separate classes.</sentence>
+<sentence id="s323">The approach to be adopted to the composition of classes has been considered in many cases.</sentence>
+<sentence id="s324">The leading English case is Sovereign Life Assurance Company v Dodd [1892] 2 QB 573.</sentence>
+<sentence id="s325">There Bowen LJ said (at 583), in a passage which has often been cited with approval: "It seems plain that we must give such a meaning to the term 'class' as will prevent the section being so worked as to result in confiscation and injustice, and that it must be confined to those persons whose rights are not so dissimilar as to make it impossible for them to consult together with a view to their common interest".</sentence>
+<sentence id="s326">What this passage makes clear, and what later cases confirm, is that there is a distinction between a creditor's interest and his rights.</sentence>
+<sentence id="s327">It is the difference in rights, not interests, that are relevant to determining whether or not separate classes exist, and it is the extent of the difference that will determine whether separate classes are required.</sentence>
+<sentence id="s328">Lord Millett in UDL [2001] 3 HKLRD at [27] analysed the relevant authorities across a range of jurisdictions, including Australian cases.</sentence>
+<sentence id="s329">He derived a number of principles from those authorities, including the following: 
+ (2) Persons whose rights are so dissimilar that they cannot sensibly consult together with a view to their common interest must be given separate meetings.</sentence>
+<sentence id="s330">Persons whose rights are sufficiently similar that they can consult together with a view to their common interest should be summoned to a single meeting.</sentence>
+<sentence id="s331">
+
+ 
+ (3) The test is based on similarity or dissimilarity of legal rights against the company, not on similarity or dissimilarity of interest not derived from such legal rights.</sentence>
+<sentence id="s332">The fact that individuals may hold divergent views based on their private interests not derived from their legal rights against the company is not a ground for calling separate meetings.</sentence>
+<sentence id="s333">
+
+ 
+ (4) The question is whether the rights which are to be released or varied under the Scheme or the new rights which the Scheme gives in their place are so different that the Scheme must be treated as a compromise or arrangement with more than one class.</sentence>
+<sentence id="s334">
+
+ The application of the relevant test involves a comparison of the rights creditors have in the absence of the scheme and any new rights that are established under the scheme: Re T &amp; N Ltd (No 3) [2007] 1 All ER at 882.</sentence>
+<sentence id="s335">Once those differences are identified the question whether they form separate classes must be assessed with the following factors in mind.</sentence>
+<sentence id="s336">First, when creditors are broken up into classes, each class is given power to veto the scheme and that is a process that undermines the basic approach of decision by majority: Nordic Bank Plc v International Harvester Australia Ltd [1983] 2 VR 298 , 301.</sentence>
+<sentence id="s337">Second, there is a built-in safeguard against majority oppression in that the court is not bound by the decision of the meeting.</sentence>
+<sentence id="s338">Thus, it is necessary to ensure that there is no oppression by the minority.</sentence>
+<sentence id="s339">Third, practical considerations are relevant.</sentence>
+<sentence id="s340">If a judge is too assiduous in identifying classes, it is possible to end up with any number of classes.</sentence>
+<sentence id="s341">In the end, schemes of arrangement are propounded in a business context.</sentence>
+<sentence id="s342">The judge should adopt a practical business-like approach to the issue, as would the creditors if they were to decide the matter.</sentence>
+<sentence id="s343">Here the proposed schemes, according to their terms, operate in the same way with respect to all creditors.</sentence>
+<sentence id="s344">But, in reality, creditors are affected differently.</sentence>
+<sentence id="s345">Some (for convenience I will refer to them as the client creditors) are deprived of the ability to pursue causes of action which, if successful, have the potential to provide them with full indemnity for the losses they have suffered as a result of their dealings with an Opes company.</sentence>
+<sentence id="s346">Instead of being allowed to pursue those claims, client creditors will receive, out of the fund which is to be established, approximately 37 cents in the dollar.</sentence>
+<sentence id="s347">Thus, when it comes to consider the schemes the client creditors will have to choose between chasing 100 cents in the dollar in risky litigation or giving up uncertain claims in exchange for a significant, but substantially lower, amount.</sentence>
+<sentence id="s348">The position of the trade creditors is very different.</sentence>
+<sentence id="s349">The proposed release will not deprive them of any right, potential or otherwise, against the banks because they have none.</sentence>
+<sentence id="s350">Indeed, so far as the proposed schemes are concerned, if the trade creditors act rationally they must vote in favour of the schemes.</sentence>
+<sentence id="s351">If the schemes do not go ahead they will probably get nothing.</sentence>
+<sentence id="s352">If the schemes are approved they will recover 37 cents in the dollar.</sentence>
+<sentence id="s353">When one compares the position of the client creditors with that of the trade creditors it is clear that the two groups could not consult together to reach a view on their common interest.</sentence>
+<sentence id="s354">They do not have sufficient rights in common.</sentence>
+<sentence id="s355">It was suggested by some counsel that the creditors should be broken down into more classes.</sentence>
+<sentence id="s356">For example, Mr Gleeson said that those who had issued proceedings against the banks should form a separate class.</sentence>
+<sentence id="s357">Mr Sweeney suggested a separate class for institutional clients who "must be taken to have been aware of the effect of the contractual arrangements" entered into with the Opes companies.</sentence>
+<sentence id="s358">Mr Wallis said his client, Danpen, is in a separate class for the reason that its dealings with OPSL are said to be akin to that of a traditional client/broker relationship.</sentence>
+<sentence id="s359">Mr Bigmore said that: "Panapous and other creditors who have similar claims have a dissimilarity of rights and interests from those unsecured creditors who have claims solely against Opes Prime, as well as those unsecured creditors who have claims against the ANZ Bank for loss and damage".</sentence>
+<sentence id="s360">I do not regard these groups as forming separate classes.</sentence>
+<sentence id="s361">If they did, I could probably find quite a few more.</sentence>
+<sentence id="s362">It is possible (but exceedingly unlikely) that these creditors have different economic interests from the others.</sentence>
+<sentence id="s363">But, even if they did, the existence of separate commercial or other interests is not relevant to the class issue.</sentence>
+<sentence id="s364">This is not to suggest that different interests are irrelevant.</sentence>
+<sentence id="s365">The existence of different interests may be a factor that can be taken into account if the court comes to decide whether it should approve the schemes.</sentence>
+<sentence id="s366">7.</sentence>
+<sentence id="s367">Amalgamation
+ The next issue is whether a scheme which provides for the pooling of assets and liabilities requires the approval of members.</sentence>
+<sentence id="s368">Having regard to the wide variety of possible schemes that may be implemented under s 411, it has been necessary to provide the court with wide powers to facilitate schemes.</sentence>
+<sentence id="s369">The powers are found in s 413.</sentence>
+<sentence id="s370">The heading to s 413 states the section contains "Provisions for facilitating reconstructions and amalgamations of [companies]".</sentence>
+<sentence id="s371">The section provides that where a compromise or arrangement has been proposed "for the purposes of, or in connection with, a scheme for the reconstruction of a [company] ... or the amalgamation of two or more [companies] ... the Court may, either by order approving the compromise or arrangement or by later order" provide for, among other things, "the transfer to the transferee company of the whole or a part of the undertaking and of the property or liabilities of the transferor body": s 413(1)(a).</sentence>
+<sentence id="s372">The words "amalgamation" and "reconstruction" are not defined.</sentence>
+<sentence id="s373">Neither is a term with a precise meaning.</sentence>
+<sentence id="s374">I have examined several old books (including Lindley on Companies (5 th ed, 1889); Buckley on Companies (9 th ed 1909); Hamilton's Manuel of Company Law (1891)) and cases (including Hooper v Western and Counties and South Wales Telephone Co (Limited) (1892) 41 WR 84; Re South African Supply and Cold Storage [1904] 2 Ch 268 and Simpson v Palace Theatre Limited (1893) 69 LTR 70) which contain commentary that cast some light on how those expressions were understood when the scheme provisions were first enacted.</sentence>
+<sentence id="s375">It appears that a reconstruction refers to a transfer by a company where the transfer comprises the undertaking, but not necessarily all the assets or liabilities, of the company and such transfer is made by one company to a new company which is formed for the purpose of taking such transfer and which is practically the same company as the transferring company with some alterations in its constitution, in consideration of the allotment of shares in the new company, to the members of the transferring company.</sentence>
+<sentence id="s376">The term "amalgamation" may be taken to mean a transfer by one or more than one company of substantially the whole of its or their undertaking or undertakings and assets to an already existing company or the transfer by two or more companies of substantially the whole of their undertakings and assets to a new company formed to take such a transfer, the consideration for such transfer in each case being the allotment of shares in the purchasing company to members of the transferring company.</sentence>
+<sentence id="s377">Based on the foregoing meanings, both an amalgamation and a reconstruction directly affect members and their rights in the company.</sentence>
+<sentence id="s378">Hence a scheme of arrangement which brings about an amalgamation or reconstruction of a company must be put to the members.</sentence>
+<sentence id="s379">That is the view that I took in Application of United Medical Protection Limited .</sentence>
+<sentence id="s380">What is proposed here is not, strictly, an amalgamation or reconstruction, in the sense that the members' rights are not being altered.</sentence>
+<sentence id="s381">What is proposed is the transfer of assets and liabilities of several companies to another without an issue of new shares.</sentence>
+<sentence id="s382">Such an arrangement may affect members if their financial stake in the transferring company is diminished.</sentence>
+<sentence id="s383">In that event their consent would be required.</sentence>
+<sentence id="s384">Here, however, the members have no interest in what is proposed because these companies are in the process of being wound up and their assets are insufficient to satisfy its creditors in full: Re Tea Corporation Ltd [1904] 1 Ch 12.</sentence>
+<sentence id="s385">Hence it is permissible to pool the assets and liabilities of the Opes group into OPGL without a meeting of members.</sentence>
+<sentence id="s386">8.</sentence>
+<sentence id="s387">Right of Appeal
+ The schemes the liquidators initially brought to court removed the ability of a creditor to appeal under s 1321 against an adverse decision by the panel.</sentence>
+<sentence id="s388">It will be recalled the panel's role is to resolve disputes about the existence and amount of a creditors' claim.</sentence>
+<sentence id="s389">In this connection, the panel is to act as a body of experts, in the hope that their decision can only be challenged on limited grounds: As to the ability to challenge a decision of an expert see Legal &amp; General Life of Australia Ltd v A Hudson Pty Ltd (1985) 1 NSWLR 314 , affirmed in A Hudson Pty Ltd v Legal &amp; General Life of Australia Ltd (1986) 66 ALR 70.</sentence>
+<sentence id="s390">There are good reasons for the liquidators' attempt to limit appeals from the panel.</sentence>
+<sentence id="s391">The panel is comprised of eminent people.</sentence>
+<sentence id="s392">Its procedures are streamlined.</sentence>
+<sentence id="s393">If disputes arise they will be dealt with quickly and cheaply.</sentence>
+<sentence id="s394">The panel will soon build up knowledge and experience that it will apply to other cases.</sentence>
+<sentence id="s395">The efficiency of the panel process may be contrasted with the resources (both in time and money) that would be expended should a dissatisfied creditor take his case to court.</sentence>
+<sentence id="s396">Still, what the liquidators propose is impermissible.</sentence>
+<sentence id="s397">First, it has been held that the right to appeal, if it exists, cannot be excluded by the provisions of a deed of company arrangement entered into under Pt 5.3A: Derwinto Pty Ltd (in liq) v Lewis [2002] NSWSC 731 ; (2002) 42 ACSR 645.</sentence>
+<sentence id="s398">For like reasons a right of appeal cannot be excluded by a scheme under s 411.</sentence>
+<sentence id="s399">Second, s 1321 provides for an appeal from, among others, "a person administering a compromise, arrangement or scheme referred to in Part 5.1 ".</sentence>
+<sentence id="s400">The panel, so it seems to me, is administering part of the schemes.</sentence>
+<sentence id="s401">On this aspect it is instructive to look at cl 2.2 of the proposed schemes where the schemes' purposes are found.</sentence>
+<sentence id="s402">The clause relevantly reads: 
+ The purpose of the Schemes is:
+ (a) ...;
+ (b) ...;
+ (c) ...;
+ (d) to enable the Liabilities to be established and ascertained;
+ (e) to provide a procedure for determining Scheme Claims; 
+ (f) to provide for a more cost-efficient and expeditious distribution to Scheme Creditors than would be available pursuant to the Winding Up of the Scheme Companies in the ordinary course; and
+ (g) to provide for distributions of Scheme Assets by [OPGL] to the Scheme Creditors who have Established Scheme Claims or Established Costs Amounts and a right for Scheme Creditors who have Established Proprietary Claims to elect for re-delivery of Scheme Securities.</sentence>
+<sentence id="s403">
+
+ This reflects the primary functions of an administrator who administers almost every compromise scheme viz, realising the available assets; determining to whom the fund should be distributed; and distributing the fund to those entitled to it.</sentence>
+<sentence id="s404">In Re HIH Casualty and General Insurance Ltd [2005] NSWSC 1180 ; (2005) 56 ACSR 295 Barrett J considered whether the decision of so called scheme adjudicators to assess and quantify claims of scheme creditors was subject to appeal under s 1321.</sentence>
+<sentence id="s405">He said (at 300): 
+ I had some concern whether these scheme adjudicators would properly be regarded as persons 'administering a compromise or arrangement', as that expression is used in the Act.</sentence>
+<sentence id="s406">However, I am persuaded that they will have that character, particularly in light of the provisions of the scheme which reads in part as follows: 'The Australian Scheme shall be administered by the Scheme Administrators and the Scheme Adjudicators according to the respective powers and functions assigned to them by the provisions of the Australian scheme...' This makes it clear that the functions of the adjudicators are regarded by the scheme itself as part of the overall functions of administering the scheme.</sentence>
+<sentence id="s407">The tasks the scheme adjudicators perform will form part of the overall administration of the scheme.</sentence>
+<sentence id="s408">
+
+ I do not intend to depart from that authority.</sentence>
+<sentence id="s409">I should indicate, however, that while, like Barrett J, I have drawn attention to how the schemes themselves characterise the function of the panel, I base my decision on a characterisation of the function of the panel, not just on how that function is described in the documents.</sentence>
+<sentence id="s410">9.</sentence>
+<sentence id="s411">Payment of fees
+ The provision by which it is proposed to pay out $11.5 million to litigation funders and for legal fees incurred by creditors who have commenced proceedings against the banks causes me some concern.</sentence>
+<sentence id="s412">The justification for establishing the fund is that the claims brought against the banks contributed to the banks' decision to put up $226 million and return to the liquidators the assets still in the possession of the receivers.</sentence>
+<sentence id="s413">It is also suggested that by paying the fees, the creditors who have commenced proceedings will be put into the same position as other creditors.</sentence>
+<sentence id="s414">There are difficulties with each proposition.</sentence>
+<sentence id="s415">Perhaps the existence of the claims contributed to the banks' decision to pay a large amount to compromise both existing and potential claims.</sentence>
+<sentence id="s416">So also might the litigation threatened by the liquidators and the threat by ASIC to take action.</sentence>
+<sentence id="s417">In any event the payment of fees incurred by some creditors will only bring them in line with creditors who have not paid any legal fees.</sentence>
+<sentence id="s418">It is not likely there are many creditors who have not consulted lawyers.</sentence>
+<sentence id="s419">Putting aside the justification for the payments, the effect of the proposal is that money in the possession of the scheme administrators will not be distributed pari passu .</sentence>
+<sentence id="s420">Some creditors will be advantaged at the expense of others.</sentence>
+<sentence id="s421">This is a departure from the method of distribution for an insolvent company established by s 556.</sentence>
+<sentence id="s422">This is troubling.</sentence>
+<sentence id="s423">An analogous issue was considered in Re Anglo American Insurance Ltd [2001] 1 BCLC 755.</sentence>
+<sentence id="s424">There the court was asked to sanction a scheme proposed for an insolvent company the terms of which excluded the insolvency provisions dealing with mutual credits and set-off.</sentence>
+<sentence id="s425">Neuberger J said there was power to sanction such a scheme but the power should be very rarely exercised.</sentence>
+<sentence id="s426">This is not the occasion upon which to consider this aspect of the merits of the schemes, in particular whether it is fair to divide assets unevenly.</sentence>
+<sentence id="s427">That will be considered at the approval hearing if the schemes are agreed by the statutory majority of creditors.</sentence>
+<sentence id="s428">10.</sentence>
+<sentence id="s429">Other issues relating to form
+ Several counsel made complaint about the form of drafting of aspects of the proposed schemes and the explanatory statement.</sentence>
+<sentence id="s430">They proffered many suggested changes.</sentence>
+<sentence id="s431">Some of the criticisms and suggested changes were adopted by the liquidators.</sentence>
+<sentence id="s432">Others were not.</sentence>
+<sentence id="s433">I do not propose to say anything about those issues.</sentence>
+<sentence id="s434">This is for the reason that I do not regard it as the role of the court to adjudicate upon the form of a proposed scheme and explanatory statement except to the extent that change is required to ensure the scheme is capable of being approved and the explanatory statement is not misleading.</sentence>
+<sentence id="s435">It is for the person who propounds the scheme to decide what form it should take.</sentence>
+<sentence id="s436">The scheme in that form may or may not be attractive to members or creditors.</sentence>
+<sentence id="s437">That is a matter for them.</sentence>
+<sentence id="s438">Save for the limited extent I have identified, it is not the business of the court to interfere.</sentence>
+<sentence id="s439">11.</sentence>
+<sentence id="s440">The Scheme Administrators
+ Section 411(7) provides that, except with the leave of the court or a direction from ASIC, a person must not be appointed to administer, and must not administer, a scheme of arrangement if the person has within the last 12 months been an officer of the company.</sentence>
+<sentence id="s441">"Officer" is defined in s 9 to include an administrator or a liquidator.</sentence>
+<sentence id="s442">The liquidators wish to be appointed scheme administrators and therefore require leave.</sentence>
+<sentence id="s443">Ordinarily, pragmatism and common sense would favour the appointment of the liquidators as scheme administrators.</sentence>
+<sentence id="s444">If one were to appoint as scheme administrators persons familiar with the company, its assets and its affairs there would be a considerable saving of costs.</sentence>
+<sentence id="s445">In the case of a large concern the saving would be correspondingly large.</sentence>
+<sentence id="s446">Mr Gleeson, however, raised two key objections to the appointment of the liquidators as the scheme administrators.</sentence>
+<sentence id="s447">The first is that the liquidators have a material interest in the schemes.</sentence>
+<sentence id="s448">The second is that the liquidators in the implementation agreement with the banks have contracted to assure themselves the office of scheme administrators and have offered to use their best endeavours to procure the extinguishment of the rights of client creditors, without first consulting them.</sentence>
+<sentence id="s449">Other objections were raised, but they were not substantial.</sentence>
+<sentence id="s450">The basis of the first objection is this.</sentence>
+<sentence id="s451">The liquidators are currently out of pocket by about $8.3 million and if the schemes are approved they will recover their money.</sentence>
+<sentence id="s452">This, so it was said, put them in a conflict of duty and interest.</sentence>
+<sentence id="s453">Mr Scerri, however, said, and I accept, the true position is that the liquidators believe they will recover their outstanding fees whether or not the schemes proceed.</sentence>
+<sentence id="s454">The second objection is based on two clauses in the implementation agreement.</sentence>
+<sentence id="s455">The first clause provides that it is a condition precedent to payment of the $226 million by the banks that the court or ASIC grant leave for the liquidators to be appointed as scheme administrators.</sentence>
+<sentence id="s456">The second clause gives the Liquidators the exclusive right to permit other persons to act in their place as scheme administrators.</sentence>
+<sentence id="s457">Mr Scerri said that the clauses were inserted as a result of the negotiations with the banks and that in any event they would be waived.</sentence>
+<sentence id="s458">It is regrettable that the liquidators agreed to a condition that they be appointed as scheme administrators.</sentence>
+<sentence id="s459">And it is quite proper that have procured the waiver of this condition.</sentence>
+<sentence id="s460">The creditors are entitled to choose the scheme administrator and should not have anyone foist upon them.</sentence>
+<sentence id="s461">Still, I do not accept that as a result of what might be bad judgment the liquidators should be disqualified from performing the role of scheme administrator.</sentence>
+<sentence id="s462">12.</sentence>
+<sentence id="s463">Explanatory statement 
+ Section 412(1) requires an explanatory statement to be sent to creditors explaining the effect of the arrangement and setting out prescribed and other information that is material to the making of a decision by a creditor.</sentence>
+<sentence id="s464">If the explanatory statement satisfies the statutory requirements, it is the practice in Victoria for the court to approve the statement.</sentence>
+<sentence id="s465">An explanatory statement was prepared by the liquidators.</sentence>
+<sentence id="s466">The statement is a substantial document, comprising some 336 pages.</sentence>
+<sentence id="s467">It contains a wealth of information.</sentence>
+<sentence id="s468">Some of the information is quite technical and difficult to understand.</sentence>
+<sentence id="s469">The cost of preparation is likely to have been many many tens of thousand of dollars, perhaps more than a hundred thousand dollars.</sentence>
+<sentence id="s470">The liquidators cannot be blamed for having spent so much money on the preparation of the explanatory statement.</sentence>
+<sentence id="s471">What they have spent is simply the cost of complying with the statute and the regulations.</sentence>
+<sentence id="s472">Although so much has been spent to satisfy the law, the result is a document which, I am certain, will not be read in full by any creditor and will probably not in all aspects, be fully understood by any creditor.</sentence>
+<sentence id="s473">I have on several occasions fought my way through the document and confess to having had difficulty with many of its paragraphs.</sentence>
+<sentence id="s474">It is time that consideration is given to whether all members and creditors need so much information regardless of the type of scheme being proposed.</sentence>
+<sentence id="s475">My own view is that they do not and that the provisions should be reformed.</sentence>
+<sentence id="s476">Be that as it may, in this case I told the liquidators that they should prepare and send to creditors a short summary (it turned out to 17 pages) of the key features of the schemes.</sentence>
+<sentence id="s477">I told the liquidators that I would make directions which relieved them from the obligation of sending to each creditor a copy of the explanatory statement, but that the statement should instead be published on Ferrier Hodgson's website and only given to a creditor on request.</sentence>
+<sentence id="s478">It would be interesting to know how many requests were made.</sentence>
+<sentence id="s479">The explanatory statement has been carefully examined by ASIC, and has been gone over by numerous counsel.</sentence>
+<sentence id="s480">I myself suggested changes.</sentence>
+<sentence id="s481">I am satisfied that the statement complies with s 412.</sentence>
+<sentence id="s482">13.</sentence>
+<sentence id="s483">Procedure at the meetings
+ While there are to be separate meetings of creditors for each of the four companies for whom a scheme is proposed I thought it appropriate that there be only one question and answer session which should take place prior to the separate meetings being held.</sentence>
+<sentence id="s484">There was a question whether all the creditors of all the companies could be present at each meeting.</sentence>
+<sentence id="s485">I thought it best to leave that issue to be resolved by the meetings themselves.</sentence>
+<sentence id="s486">Thus, while separate meetings must take place, the creditors at any one meeting may resolve whether anyone else, including other classes of creditors, could be present at their meeting.</sentence>
+<sentence id="s487">It may be important to know what takes place at the meetings for purposes of the approval hearing, if the requisite majorities approve the schemes.</sentence>
+<sentence id="s488">For that purpose, there should be an audio recording of the meetings.</sentence>
+<sentence id="s489">14.</sentence>
+<sentence id="s490">Discretion 
+ Leave to convene a meeting to approve a scheme will not be granted unless the court is satisfied that the scheme is of such a nature that if approved by the meeting a court is likely to approve it on an unopposed application.</sentence>
+<sentence id="s491">Thus it is necessary for a court to be alive to any difficulties that may arise if in due course it may be asked to approve the scheme: see Marlborough Gold Mines Limited at 504.</sentence>
+<sentence id="s492">I am satisfied that the schemes should be put for consideration by the proposed meetings.</sentence>
+<sentence id="s493">15.</sentence>
+<sentence id="s494">Costs
+ The last matter to consider is costs.</sentence>
+<sentence id="s495">The creditors who appeared to oppose the schemes or parts of the schemes seek to have their costs paid on an indemnity basis.</sentence>
+<sentence id="s496">In Re NRMA Insurance Ltd No 5132 of 1999 [2000] NSWSC 82 ; (2000) 33 ACSR 595 at [45] , Santow J examined many of the cases on the subject and set out the principles to be taken into account.</sentence>
+<sentence id="s497">Relevantly he said: 
+ (i) The ordinary rule is that the scheme companies pay the objector's costs and do not suffer cost orders against them.</sentence>
+<sentence id="s498">(ii) However, this is subject to the objections not being frivolous or without substance but rather such as to be properly and justifiably advanced, even if unsuccessfully.</sentence>
+<sentence id="s499">I would add that even sensible objections should be capable of being advanced with reasonable economy of time, consistent with the summary nature of a s 411(1) application.</sentence>
+<sentence id="s500">
+
+ It would, I think, be reasonable were the Lavan objectors and those represented by Mr Sweeny to have their costs, with the Lavan objectors' costs to be taxed on an indemnity basis.</sentence>
+<sentence id="s501">The remaining creditors, whose contribution was less, should have one half of their taxed costs.</sentence>
+<sentence id="s502">Each parties' costs shall be paid out of the assets of OPGL with the same priority as prescribed by s 556(1)(df).</sentence>
+<sentence id="s503">I certify that the preceding one hundred and four (104) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Finkelstein .</sentence>
+<sentence id="s504">Associate:
+ 
+ 
+Dated: 3 August 2009
+ 
+ Counsel for the Plaintiff: Mr C Scerri QC
+Mr R D Strong 
+ 
+ Solicitor for the Plaintiff Mallesons Stephen Jaques 
+ 
+ Counsel for Merrill Lynch Mr Hutley SC 
+Mr O'Bryan 
+ 
+ Solicitor for Merrill Lynch Blake Dawson 
+ 
+ Counsel for Cedarange Pty Ltd: Mr Zwier 
+ 
+ Solicitor for Cedarange Pty Ltd: Arnold Bloch Leibler 
+ 
+ Counsel for the Lavan objectors Mr Gleeson SC 
+Mr Douglas 
+ 
+ 
+ Solicitor for the Lavan objectors 
+ Lavan Legal 
+ 
+ Counsel for Imobilari Pty Ltd Mr Armstrong 
+ 
+ Solicitor for Imobilari Pty Ltd Slater &amp; Gordon Lawyers 
+ 
+ Counsel for the Dover Gardens objectors: Mr C A Sweeney SC
+Mr L W Maher 
+ 
+ Solicitor for the Dover Gardens objectors: Sweeney Commercial 
+ 
+ Counsel for ANZ Bank Mr Archibald QC 
+Mr Crutchfield 
+Ms Neskovcin 
+ 
+ Solicitor for ANZ Bank Allens Arthur Robinson 
+ 
+ Counsel for Panopus PLC: Mr Bigmore QC
+Mr Rubenstein 
+ 
+ Solicitor for Panopus PLC: Logie-Smith Lanyon 
+ 
+ Counsel for Danpen Pty Ltd Mr Wallis 
+ 
+ Solicitor for Danpen Pty Ltd Rockman &amp; Rockman 
+ 
+ Counsel for Green Frog Nominees Pty Ltd (in liq) (Green Frog): Mr Elliott SC 
+ 
+ Solicitor for Green Frog Nominees Pty Ltd (in liq) (Green Frog): Middeltons 
+ 
+ Counsel for the Receivers Mr Galvin 
+ 
+ Solicitor for the Receivers Deacons 
+ 
+ Counsel for Australian Securities and Investments Commission Mr Sifris SC 
+Mr Boston 
+Mr Horan 
+ 
+ 
+ Solicitor for Australian Securities and Investments Commission: 
+ Australian Securities and Investments Commission 
+ Date of Hearing: 11, 12 and 23 June 2009 
+ 
+ Date of Judgment: 3 August 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/813.html 
+ 
+ </sentence>
+</sentences>
+</case>

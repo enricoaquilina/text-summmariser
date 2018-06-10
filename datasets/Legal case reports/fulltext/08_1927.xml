@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<case>
+<name>Intel Corporation v Unwired Group Ltd [2008] FCA 1927 (11 December 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1927.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">federal court</catchphrase>
+<catchphrase "id=c1">original jurisdiction</catchphrase>
+<catchphrase "id=c2">summary judgment</catchphrase>
+<catchphrase "id=c3">motions filed seeking judgment under federal court of australia act 1976 (cth), s 31a</catchphrase>
+<catchphrase "id=c4">application to strike out parts of defence federal court rules , o 11 r 16</catchphrase>
+<catchphrase "id=c5">principles of construction</catchphrase>
+<catchphrase "id=c6">commercial transaction</catchphrase>
+<catchphrase "id=c7">deed poll</catchphrase>
+<catchphrase "id=c8">circumstances where a raised money by issuing convertible notes to b pursuant to deed poll, which required a to pay an additional amount equal to 50% of initial investment in notes to b in certain circumstances which occurred</catchphrase>
+<catchphrase "id=c9">ordinary principles of construction of contracts</catchphrase>
+<catchphrase "id=c10">whether reasonable prospects of successfully arguing that certain terms ought be implied into deed poll</catchphrase>
+<catchphrase "id=c11">good faith</catchphrase>
+<catchphrase "id=c12">implied term</catchphrase>
+<catchphrase "id=c13">whether reasonable prospects of successfully arguing implied obligation to act reasonably and in good faith in particular class of contract</catchphrase>
+<catchphrase "id=c14">convertible notes</catchphrase>
+<catchphrase "id=c15">transferable security</catchphrase>
+<catchphrase "id=c16">trade practices act 1974 (cth) misuse of market power</catchphrase>
+<catchphrase "id=c17">whether reasonable prospects of successfully arguing contravention of s 46(1)</catchphrase>
+<catchphrase "id=c18">definition of "market"</catchphrase>
+<catchphrase "id=c19">misleading and deceptive conduct</catchphrase>
+<catchphrase "id=c20">whether reasonable prospects of successfully arguing contravention of s 52</catchphrase>
+<catchphrase "id=c21">penalty</catchphrase>
+<catchphrase "id=c22">whether reasonable prospects of successfully arguing amount payable under deed poll was penalty</catchphrase>
+<catchphrase "id=c23">novel claim</catchphrase>
+<catchphrase "id=c24">circumstances where payment dependant on occurrence of event (change of control or delisting of issuing company) not breach of contract or covenant</catchphrase>
+<catchphrase "id=c25">circumstances where defence not articulated precisely or clearly enough to bring out novel claim</catchphrase>
+<catchphrase "id=c26">pleadings</catchphrase>
+<catchphrase "id=c27">need to articulate and bring forward clearly, precisely and definitively, the real issues to be litigated</catchphrase>
+<catchphrase "id=c28">costs of litigation</catchphrase>
+<catchphrase "id=c29">purpose of case management</catchphrase>
+<catchphrase "id=c30">efficient and proper conduct of civil litigation</catchphrase>
+<catchphrase "id=c31">practice and procedure</catchphrase>
+<catchphrase "id=c32">contracts &amp; deeds</catchphrase>
+<catchphrase "id=c33">contract</catchphrase>
+<catchphrase "id=c34">trade practices and related matters</catchphrase>
+<catchphrase "id=c35">contract</catchphrase>
+<catchphrase "id=c36">practice and procedure</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ (REVISED FROM THE TRANSCRIPT) 
+ 
+1 Both the applicant, Intel Corporation and the respondent, Unwired Group Limited filed motions seeking judgment, under s 31A of the Federal Court of Australia Act 1976 (Cth), against the other in respect of various claims each made in the proceedings.</sentence>
+<sentence id="s1">Intel also sought to strike out various parts of Unwired's amended defence under O 11 r 16 of the Federal Court Rules .</sentence>
+<sentence id="s2">Following the course of argument on the two motions yesterday and the day before, today I made an order for judgment on the principal sum of $37 million advanced by Intel to Unwired in respect of convertible notes issued by Unwired to Intel.</sentence>
+<sentence id="s3">This was on the basis that Unwired had no defence to that claim following the tender of material during the course of the hearing.</sentence>
+<sentence id="s4">2 Intel had claimed two primary sums in the proceedings.</sentence>
+<sentence id="s5">The first was the principal sum of $37 million, being the amount advanced by it in the course of an overall arrangement to provide funding to assist Unwired to roll out a wireless internet system using Intel products.</sentence>
+<sentence id="s6">The second was based on part of the convertible notes issue.</sentence>
+<sentence id="s7">It involved Unwired assuming an obligation to pay, in certain events, a further sum of $18.5 million, called the redemption premium amount.</sentence>
+<sentence id="s8">Intel also sought interest on both sums from 15 May 2008 under its contractual entitlements or, alternatively, pursuant to rates of interest payable on pre-judgment debts (originally under the Civil Procedure Act 2005 (NSW) , because it commenced the proceedings in the Supreme Court of New South Wales, or now under s 51A of the Federal Court of Australia Act ).</sentence>
+<sentence id="s9">THE DEED POLL FOR CONVERTIBLE NOTES ISSUED BY UNWIRED 
+ 
+3 The principal issues in the dispute arise under a deed poll made by Unwired on 25 August 2005.</sentence>
+<sentence id="s10">The deed poll provided that it had been executed for the benefit of note holders and that any note holder could enforce it, despite not being a party to it (cl 3.1).</sentence>
+<sentence id="s11">A note holder was deemed to have notice of the terms of the deed poll (cl 3.3).</sentence>
+<sentence id="s12">The schedule to the deed poll has been twice amended but, for present purposes, nothing turns on those amendments and the parties were content to argue the motions on the provisions in its latest version dated 2 February 2007.</sentence>
+<sentence id="s13">For convenience I will refer to the schedule as "the deed poll", as did the parties.</sentence>
+<sentence id="s14">4 In August 2005, Unwired issued 82,222,222 convertible notes at a face value of 45cents each in respect of Intel's $37 million investment.</sentence>
+<sentence id="s15">Relevantly, the critical events leading up to the present litigation concern cll 6 and 9 of the deed poll.</sentence>
+<sentence id="s16">Clause 6 provided that early redemption of the amount advanced on the convertible notes was possible in certain events including, importantly, a change in control of Unwired.</sentence>
+<sentence id="s17">A "Change in Control Event" was defined as meaning, among other things, where a bidder obtained a relevant interest in more than 50% of the ordinary shares on issue under a takeover bid made to acquire all or some of the ordinary shares in Unwired, and that offer was or became unconditional.</sentence>
+<sentence id="s18">Clauses 6.2 and 6.3 provided:
+ "6.2 Change in Control, Trade Sale or Liquidation Event The Issuer must: 
+ 
+ (a) give Tranche 1 Noteholders notice in writing if there is a Change in Control, a Trade Sale or a Liquidation Event; and 
+ 
+ 
+ 
+ 
+ 
+ (b) in that notice notify Tranche 1 Noteholders of the date on which the Convertible Notes will be redeemed (which date must be at least 20 Business Days after the date of the notice).</sentence>
+<sentence id="s19">
+ 
+ 
+ 6.3 Redemption on Change in Control, Trade Sale or Liquidation Event 
+ 
+ On the date specified by the Issuer for redemption of the Tranche 1 Convertible Notes under clause 6.2, the Issuer must redeem each Tranche 1 Convertible Note on issue on that date in respect of which the Issuer has not received a Conversion Notice and, to the extent permitted by law, pay to each Tranche 1 Noteholder the Redemption Amount plus the Redemption Premium Amount in respect of each Tranche 1 Convertible Note held by that Tranche 1 Noteholder in cash, by cheque or in any other form the Tranche 1 Noteholder agrees.</sentence>
+<sentence id="s20">" (emphasis added) 
+ 
+ 
+5 Thus, once a change of control occurred and was notified by Unwired to a noteholder, Unwired became liable to pay both the sum advanced and the redemption premium account on the date nominated by Unwired.</sentence>
+<sentence id="s21">6 Clause 9 dealt with the consequences of events of default.</sentence>
+<sentence id="s22">A non-remediable event of default was defined in cl 1.1 of the deed poll as including the occasion when the ordinary shares of Unwired ceased to be quoted on the Australian Stock Exchange or Unwired ceased to be listed on that exchange (see cl 9.1(i)).</sentence>
+<sentence id="s23">And cl 9.4 provided, relevantly, as follows: 
+ "9.4 Consequences of an Event of Default 
+ 
+ On the occurrence of a Non-Remediable Event of Default or a Remediable Event of Default, which is not remedied under clause 9.3(a) or in the process of being remedied to the satisfaction of the Representative under clause 9.3(b), each Tranche 1 Noteholder may : 
+ 
+ 
+ 
+ 
+ (a) declare all Principal, interest and other amounts owing under the Tranche 1 Convertible Notes or other Transaction Documents due and payable in full; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (b) seek payment of all amounts owed under the Tranche 1 Convertible Notes or other Transaction Documents; 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (c) advise the Security Trustee of the existence of the Event of Default; and 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (d) pursue any other remedies available to such Tranche 1 Noteholders under applicable law.</sentence>
+<sentence id="s24">" (emphasis added) 
+ 
+ 
+
+
+ 
+7 So, if a non-remediable event of default occurred, such as Unwired ceasing to be quoted on the stock exchange, Intel could declare all principal, interest and "other amounts owing under" the convertible notes (including the redemption premium amount) to be due and payable in full.</sentence>
+<sentence id="s25">8 The deed poll also provided that the convertible notes were transferable by a note holder when it executed a written transfer form.</sentence>
+<sentence id="s26">Unwired's board could only refuse to register such a transfer where it was not made in accordance with technical requirements of a mechanical nature or where the transfer would result in the contravention or failure to observe any applicable law.</sentence>
+<sentence id="s27">THE RELATED AGREEMENTS AFFECTING INTEL AND UNWIRED 
+ 
+9 In the period between 23 and 25 August 2005 Unwired executed a number of documents, including a security trust deed of which Permanent Trustee Company Limited was the trustee, a fixed and floating charge and a deed of guarantee and indemnity.</sentence>
+<sentence id="s28">Those three documents were designed to secure performance of Unwired's obligations under the deed poll in respect of the repayment of convertible notes.</sentence>
+<sentence id="s29">In addition, Unwired and Intel executed:
+ 
+&#8226; a subscription agreement; and
+ 
+&#8226; a collaboration agreement.</sentence>
+<sentence id="s30">10 The subscription agreement dealt with the arrangements for Intel to take up its interest under the proposed issue of convertible notes.</sentence>
+<sentence id="s31">It provided that execution of the deed poll, the security trust deed, the charge and the collaboration agreement were interdependent so that if any of those documents was not executed, none of them would be taken to be executed (cl 4).</sentence>
+<sentence id="s32">11 Unwired was obliged to use the amount subscribed by Intel to roll out a wireless internet access network and provide commercial wireless internet access services across five or more cities in Australia (including and not limited to Adelaide, Brisbane, Perth, Melbourne and Sydney).</sentence>
+<sentence id="s33">Unwired also had to make available commercial wireless internet access services to at least 45% of the Australian population by the third anniversary of completion of the transaction (or a postponed date in certain circumstances) (cl 8.1).</sentence>
+<sentence id="s34">Unwired was permitted to use some of the subscription amounts to repay existing debts (cl 8.2).</sentence>
+<sentence id="s35">12 The collaboration agreement, dated 25 August 2005, recited that:
+ 
+ 
+ &#8226; Intel had developed, manufactured and distributed a number of products including microprocessors, network processors and wireless networking chips;
+ &#8226; Intel was currently developing a broadband wireless access technology intended to comply with evolving standard described as "IEEE 802.16e";
+ &#8226; Intel was developing, manufacturing and distributing technology which was compliant with the evolving standard.</sentence>
+<sentence id="s36">This included WiMAX forum certified silicon components and related software products and reference designs.</sentence>
+<sentence id="s37">
+ 
+
+13 The collaboration agreement proposed that Intel and Unwired would seek to exploit the WiMAX technology.</sentence>
+<sentence id="s38">Other companies to which Intel distributed its products would also work with it and Unwired in providing what were called "base stations" and other means of communicating with wireless technology in city environments.</sentence>
+<sentence id="s39">Navini Networks Inc was named as one of those distributors.</sentence>
+<sentence id="s40">Unwired had acquired the ability to control or gain access to two particular bandwidths or spectrums of the broadband network in Australia.</sentence>
+<sentence id="s41">The agreement proposed that Unwired would collaborate with Intel and Navini in rolling out a broadband wireless network that was compliant with the evolving standard.</sentence>
+<sentence id="s42">That network would operate, together with desktop computers and base station equipment, once that equipment became commercially available in the bandwidths or spectrums to which Unwired was able to supply services.</sentence>
+<sentence id="s43">The collaboration agreement also recorded Unwired's and Intel's desire to work together on the deployment of broadband wireless technology and services in Australia with a goal of creating an infrastructure to carry the WiMAX technology.</sentence>
+<sentence id="s44">It noted that they intended to execute the subscription agreement.</sentence>
+<sentence id="s45">14 The collaboration agreement recorded that Unwired warranted that, as it had previously represented to Intel, it would work to fulfill the objective of the collaboration, namely to deploy the compliant network and associated equipment and services that I have described, and would execute a business agreement with Navini and other third party vendors of the equipment needed to roll out the network commercially (cl 1.1).</sentence>
+<sentence id="s46">15 Unwired undertook to direct its capital expenditure exclusively to rolling out the network in a number of identified activities and to support Intel at various venues.</sentence>
+<sentence id="s47">Intel agreed that it would support Unwired's top two vendors, one of which was named as Navini.</sentence>
+<sentence id="s48">Unwired also undertook to use all commercially reasonable efforts to include in its requirements to its suppliers, that any of the equipment necessary to make desktop or base station equipment work on the WiMAX network would be based on Intel products, including silicon chips (cl 1.5).</sentence>
+<sentence id="s49">The collaboration agreement was expressed to be for a term of four years, unless terminated, and cl 2.1 provided that:
+ "If the [subscription agreement] terminates during the term of this Agreement, either party may terminate this Agreement by giving the other six months' notice in writing.</sentence>
+<sentence id="s50">For the purposes of this clause, the [subscription agreement] will be deemed to have terminated when the number of outstanding Convertible Notes issued to Intel pursuant to that Agreement which have not been redeemed or converted have a Face Value of less than $5,000,000.</sentence>
+<sentence id="s51">" 
+16 There were certain other rights given to terminate the agreement for breach, but they are not relevant for present purposes (cl 2.1).</sentence>
+<sentence id="s52">Clause 3.2 recorded that the agreement was an entire agreement superseding all previous agreements, oral and other representations.</sentence>
+<sentence id="s53">THE TAKEOVER OF UNWIRED AND INTEL'S DEMAND FOR PAYMENT 
+ 
+17 In late 2007, Unwired became the subject of a takeover bid which enlivened the operation of cl 6.2 of the deed poll.</sentence>
+<sentence id="s54">On 3 December 2007, Unwired gave notice to Intel, in accordance with cl 6, that a change of control had occurred.</sentence>
+<sentence id="s55">Then on 7 May 2008, Unwired was de-listed from the Australian Stock Exchange.</sentence>
+<sentence id="s56">On 8 May 2008, Unwired gave notice of that event to Intel.</sentence>
+<sentence id="s57">The consequence was that Unwired's obligations under cl 9.4 could be triggered.</sentence>
+<sentence id="s58">18 On 15 May 2008, Unwired received a demand from Intel declaring all principal, interest and other amounts owing by Unwired to be due and payable in full pursuant to cl 9.4 of the deed poll.</sentence>
+<sentence id="s59">Intel claimed in the demand that $55,827,604.17 was due and payable in full.</sentence>
+<sentence id="s60">As I have noted, it is no longer in dispute that the principal of $37 million together with interest on it was payable in accordance with that demand.</sentence>
+<sentence id="s61">Intel asserts that the demand on 15 May 2008 also made the redemption premium amount due and payable.</sentence>
+<sentence id="s62">19 After Unwired failed to pay any of the sum claimed in the demand, Intel commenced proceedings seeking payment in the Commercial List of the Supreme Court of New South Wales.</sentence>
+<sentence id="s63">Those proceedings were transferred to this Court under s 6(1) of the Jurisdiction of Courts (Cross-Vesting) Act 1987 (Cth) once Unwired raised in its defence the special federal matter of a claim that Intel had misused its market power in contravention of s 46 of the Trade Practices Act 1974 (Cth).</sentence>
+<sentence id="s64">THE ISSUES 
+ 
+20 At the heart of Unwired's case is its desire to claim that the premium redemption amount is a penalty.</sentence>
+<sentence id="s65">Additionally, it also has sought to raise a number of other arguments that seek to deny Intel's entitlement to payment of that sum.</sentence>
+<sentence id="s66">Unwired asserted that:
+ 
+ 
+ (1) on the proper construction either of the schedule to the deed poll, or the overall effect of the transaction evidenced in documents executed in August 2005, Intel is not entitled to call for repayment of the redemption premium amount because, in essence, Unwired is still ready, willing and able and wishes to achieve the objective of implementing the construction of the new WiMAX network;
+ (2) the deed poll, or the transaction, contained implied terms which have the effect that that Intel is not entitled to call for payment;
+ (3) Intel made a number of representations prior to and at the time of contracting for the subscription of the convertible notes which were misleading or deceptive or likely to mislead or deceive, in contravention of s 52 of the Trade Practices Act .</sentence>
+<sentence id="s67">(4) Intel contravened s 46 of the Trade Practices Act .</sentence>
+<sentence id="s68">
+ 
+
+21 At the time the parties were negotiating the terms of the issue of the convertible notes, they notified the Stock Exchange of what was proposed.</sentence>
+<sentence id="s69">They negotiated, with the assistance of their respective experienced commercial solicitors, the terms of a letter which Unwired's solicitors (Clayton Utz) wrote to the Stock Exchange on 23 August 2005.</sentence>
+<sentence id="s70">Unwired alleged that the negotiations leading up to the sending of that letter formed part of Intel's misleading conduct.</sentence>
+<sentence id="s71">The letter of 23 August 2005 asserted that:
+ 
+ 
+ &#8226; Unwired was essentially a start-up company in the early stage of its business and had associated cash flow limitations;
+ &#8226; it was important that Unwired secure funding at a low rate of interest;
+ &#8226; other funding proposals that Unwired had considered included convertible notes and debt instruments, with interest rates ranging between 17% and 20% (grossed up by 10% for withholding tax if the securities were held by non-residents, unless an exemption applied);
+ &#8226; paying interest at rates in that range would delay Unwired achieving a positive cash flow position by between approximately 12 to 18 months compared to the Intel proposal;
+ &#8226; the interest rate offered under the proposed issue of convertible notes to Intel was 4.25% (which would be grossed up by 10% withholding tax).</sentence>
+<sentence id="s72">That rate of interest was low and advantageous for Unwired at its stage of development;
+ &#8226; Intel's decision to invest in Unwired was made with both strategic (i.e.</sentence>
+<sentence id="s73">to enable it to use Unwired's network as a test market for WiMAX) as well as financial reasons;
+ &#8226; a combination of Unwired's anticipated strong growth path and Intel's view of Unwired's value and associated strategic business benefits at the end of the four year term enabled Intel to agree to the low interest rate benefiting both Unwired's cash flow and its total funding costs;
+ &#8226; the advantage to Unwired from the proposed convertible note issue, taking into account the redemption premium amount, could be expressed in monetary terms by comparing the effect of the low interest rate, and the 50% redemption premium amount, to alternative funding proposals that Unwired was entertaining.</sentence>
+<sentence id="s74">The letter said that the annual interest payable by Unwired under the convertible notes, if issued to Intel, would be $1.57 million compared to about $6.3 million for other commercial funding.</sentence>
+<sentence id="s75">The latter would total about an extra $18.8 million over a four year term at a market interest rate of 17%.</sentence>
+<sentence id="s76">If the rate of interest were 20%, the difference would be an additional $23.2 million;
+ &#8226; if Unwired had to pay Intel total interest of $6.3 million (at 4.25% per annum over four years) and the redemption premium amount of $18.5 million, the total of about $24.8 million was comparable to what would be payable over that time at 17%, the lower of the alternative market interest rates;
+ &#8226; the redemption premium amount would be payable only if, at the time for repayment, Unwired's share price was below 67.5cents.</sentence>
+<sentence id="s77">This was based on the obvious economic step which Intel would take of converting its notes into shares if, for example, a takeover offer was made at a price higher than 67.5cents (being the sum needed to repay the principal of $37 million and the 50% uplift of the redemption premium amount);
+ &#8226; however, Intel was concerned about the possibility of an undesired early event resulting in a change of control, a trade sale or a liquidation of Unwired;
+ &#8226; if a change of control event occurred there might be a resultant change in the business plans of Unwired in which case Intel would not get the benefit of the roll out in Unwired's four year business plan;
+ &#8226; even when leaving aside the upfront shareholder approval to the Intel transaction, the Unwired shareholders had the benefit of a target statement or scheme booklet which would explain to them the advantages and disadvantages of the transaction, that is, the change of control will not be forced on them unless 50% or more of the Unwired shares were acquired by the bidder in a manner permitted under the Corporations Act 2001 (Cth);
+ &#8226; a similar scenario would occur in a trade sale or a liquidation;
+ &#8226; Intel would have the right, but not the obligation, to redeem the convertible notes if a relevant change occurred at the wrong point of Unwired's anticipated growth cycle and Intel's view was that the gain necessary to offset the low rate of 4.25% interest would be virtually impossible for Intel to achieve;
+ &#8226; if there were a change of control, trade, sale or liquidation event in addition to the possible loss of a strategic value to Intel, it would also lose not only its anticipated interest, but the underlying option value embedded in the convertible note, particularly in circumstances where it had assessed the value of Unwired and its corresponding investment decision based on a four year term of the convertible notes and the roll out of a business plan.</sentence>
+<sentence id="s78">
+ 
+ THE EXPLANATORY MEMORANDUM FOR THE ISSUE OF THE CONVERTIBLE NOTES 
+ 
+22 A similar rationale was given to Unwired's shareholders in its explanatory memorandum issued in September 2005 in order to obtain shareholder approval for the convertible notes issue to Intel.</sentence>
+<sentence id="s79">KPMG Corporate Finance gave an independent expert's opinion in accordance with s 611 of the Corporations Act that concluded that the issue was fair and reasonable, having regard to the interests of the non-associated shareholders.</sentence>
+<sentence id="s80">DID THE DEED POLL OR TRANSACTION HAVE A TERM THAT ANY CHANGE OF CONTROL OF UNWIRED HAD TO CAUSE IT NOT TO BE READY, WILLING AND ABLE TO IMPLEMENT THE WIMAX ROLL OUT?</sentence>
+<sentence id="s81">
+ 
+23 Unwired pleaded that the terms of the deed poll or the overall transaction contained the following implied terms.</sentence>
+<sentence id="s82">First, pursuant to cll 1.1, 6.2 and 6.3 the redemption premium amount would only be payable by Unwired in the event that a change in control caused Unwired not to be ready, willing and able to implement the WiMAX roll out.</sentence>
+<sentence id="s83">Unwired alleged that this term either was implied in the deed poll (Amended Defence par 50(e)), or was its proper construction.</sentence>
+<sentence id="s84">It alleged that such a term was implied in the deed poll or, alternatively, in the overall transaction between the parties as a matter of business efficacy (par 43).</sentence>
+<sentence id="s85">A similar plea was made in par 54, based on the proper construction of cll 6.2 and 6.3.</sentence>
+<sentence id="s86">It is difficult to understand what, if any, difference in substance there is in that plea to those made earlier.</sentence>
+<sentence id="s87">24 Secondly, Unwired alleged that each of the deed poll (par 50(f)) and the overall transaction (par 44) contained an implied term that Intel would act reasonably and in good faith when exercising its contractual rights and powers in relation to the redemption premium amount and not call for or enforce any rights to payment of that amount in the event of a change of control where Unwired remained ready, willing and able to implement the WiMAX roll out.</sentence>
+<sentence id="s88">Unwired argued that this term was implied as a legal incident to the deed poll or in the facts which had happened.</sentence>
+<sentence id="s89">25 Unwired tendered evidence, on information and belief, that at no time did its general counsel, Richard Bean, or another employee, Vicki Potts, who were involved in negotiating the terms of the overall transaction, have any discussion whether the redemption premium amount would be payable in circumstances of a change of control where Unwired remained ready, willing and able to proceed with the WiMAX roll out.</sentence>
+<sentence id="s90">26 In the first set of implied terms described above, Unwired seeks to import into the deed poll and overall transaction a condition that qualifies the apparently unqualified terms of the deed poll.</sentence>
+<sentence id="s91">The qualification is that Intel could only claim the redemption premium amount to be payable if the change of control caused Unwired not to be ready, willing and able to implement the WiMAX roll out.</sentence>
+<sentence id="s92">27 The structure of the deed poll followed a fairly conventional form for such securities.</sentence>
+<sentence id="s93">When an irremediable event of default occurred, Intel had the right to demand payment of an agreed amount.</sentence>
+<sentence id="s94">Unwired seeks to interpolate into the clear language of those terms a qualification restricting Intel's right to payment of a portion of the sum agreed (the redemption premium amount) under cll 6.2, 6.3 and 9.4.</sentence>
+<sentence id="s95">28 Unwired argued that it would be commercially absurd to allow Intel to obtain both repayment of the $37 million lent by it, together with the redemption premium amount if, despite the change of control of Unwired, Intel would still be able to achieve the potential benefits of Unwired carrying on with the WiMAX roll out, as apparently, it says it intends to do.</sentence>
+<sentence id="s96">29 In my opinion this argument is untenable.</sentence>
+<sentence id="s97">The attempt to imply such a term suffers from a number of problems.</sentence>
+<sentence id="s98">First, the terms of the deed poll contain no restriction limiting the right of Intel to transfer its interest in the convertible notes to third parties.</sentence>
+<sentence id="s99">That is, if Intel transferred the convertible notes, a third party would be entitled to rely upon the terms of the notes and deed poll.</sentence>
+<sentence id="s100">Those terms provide simply that the note holder, now a third party, would receive the low rate of interest of 4.25 % when, apparently, the market rate for such finance was significantly greater.</sentence>
+<sentence id="s101">The new note holder would not receive the same benefit that Intel would receive from the sales of its products in connection with Unwired's roll out of the WiMAX network.</sentence>
+<sentence id="s102">But, if a takeover occurred and Unwired still was ready, willing and able to continue with the roll out, the new note holder would be bound to accept 4.25% as the rate of interest even if the takeover was at a price less than 67.5cents per share.</sentence>
+<sentence id="s103">30 The implied terms, for which Unwired contended, would introduce an extra element of speculation for a third party transferee of the notes.</sentence>
+<sentence id="s104">The transferee would be required to speculate whether or not it would be entitled to convert at a better or worse rate than what was offered as the terms of repayment in the events of default, including where a takeover occurred.</sentence>
+<sentence id="s105">31 I am of opinion that a reasonable person in the position of the parties would not have understood, at the time they entered into these arrangements, that there was any qualification or implication of the kind alleged by Unwired in the deed poll or overall transaction.</sentence>
+<sentence id="s106">Its obligation to pay the redemption premium amount in consequence of a change of control would arise at the election of the note holder once an irremediable event of default had occurred, regardless of Unwired's intentions or abilities to implement the WiMAX roll out at any particular stage.</sentence>
+<sentence id="s107">32 The deed poll is not, in itself, a contract between legal persons.</sentence>
+<sentence id="s108">But it is a commercial document intended to be the foundation of a contractual relationship embodied in the notes when issued.</sentence>
+<sentence id="s109">The ordinary principles of construction of contracts should be applied to the provisions of the deed poll, as well as to the transaction overall.</sentence>
+<sentence id="s110">These principles require the rights of the parties to be determined objectively, without reference to their subjective beliefs or understandings about what rights or liabilities would govern their relationship.</sentence>
+<sentence id="s111">What matters is what each party, by words and conduct, would have led a reasonable person in the position of the other party to believe.</sentence>
+<sentence id="s112">In this context, the role of the Court is to ascertain the common intention of the parties in the commercial matrix in which they contracted.</sentence>
+<sentence id="s113">This process involves discerning, in context, what a reasonable person would understand from the language in which the parties expressed their agreement, having regard to the objective surrounding circumstances with the purpose and the object of a transaction: Toll (FGCT) Pty Limited v Alphapharm Pty Limited [2004] HCA 52 ; (2004) 219 CLR 165 at 179 [40] per Gleeson CJ, Gummow, Hayne, Callinan and Heydon JJ.</sentence>
+<sentence id="s114">The commercial purpose of a contract is, in essence, the purpose attributable to a reasonable person in the position of the parties who is aware of what was known at the time to both of them about the genesis of the transaction, its background, context and the market in which they were operating.</sentence>
+<sentence id="s115">33 But, in construing a deed poll, just as with any contract, it is important to avoid it making commercial nonsense or working commercial inconvenience.</sentence>
+<sentence id="s116">This approach enables the court to give a construction to the deed poll and other transaction documents which a reasonable person in the position of the parties would have understood them to have intended by the words they chose in the context in which they engaged: Zhu v Treasurer of New South Wales [2004] HCA 56 ; (2004) 218 CLR 530 at 559 [82] per Gleeson CJ, Gummow, Kirby, Callinan and Heydon JJ.</sentence>
+<sentence id="s117">The circumstances known to both Unwired and Intel at the time the deed poll was made and the overall transaction was entered into, included an awareness that each had conflicting aims and had made compromises which were expressed in the executed documents.</sentence>
+<sentence id="s118">34 As the letter of 23 August 2005 recognised, the final form of the documents involved counterbalancing the possibilities of the note holder earning the various potential rates of return in different circumstances, all of which were, at that time, uncertain future events.</sentence>
+<sentence id="s119">I am of opinion that it is not reasonable or necessary to imply any term of the kind asserted by Unwired to give business efficacy to the deed poll or transaction.</sentence>
+<sentence id="s120">35 It is not so obvious that it goes without saying, that the redemption premium amount would not be payable to Intel or a note holder if an irremediable event of default had occurred but Unwrited still remained ready, willing and able to continue the WiMAX roll out.</sentence>
+<sentence id="s121">And that term is capable of being construed as contradicting the express terms of the deed poll which express no qualification to Unwired's obligation to pay the redemption premium amount under cll 6.2, 6.3 and 9.4 if an irremediable event of default occurrs (such as the de-listing of Unwired as a consequence of a successful takeover offer): BP Refinery Westernport Pty Limited v Shire of Hastings [1977] HCA 40 ; (1977) 180 CLR 266 at 282-283.</sentence>
+<sentence id="s122">36 Accordingly, I am of opinion that Unwired's contentions in pars 43, 50(e) and 54 of its amended defence, that terms should be implied or construed qualifying Intel's entitlement to call for payment of the redemption premium amount, are untenable and have no reasonable prospect of success.</sentence>
+<sentence id="s123">DID THE DEED POLL OR THE TRANSACTION DOCUMENTS CONTAIN A TERM THAT INTEL HAD TO ACT REASONABLY AND IN GOOD FAITH IF UNWIRED REMAINED READY, WILLING AND ABLE TO PERFORM THE WIMAX ROLL OUT?</sentence>
+<sentence id="s124">
+ 
+37 Unwired's next group of implied terms or construction arguments sought to interpolate into the deed poll or overall transaction an obligation of Intel to act reasonably and in good faith when exercising its contractual rights to seek payment of the redemption premium amount, in the event of a change in control of Unwired, when Unwired remained ready, willing and able to implement the WiMAX roll out (Amended Defence pars 44, 50(f)).</sentence>
+<sentence id="s125">38 Unwired argued that, at this point in time, the common law of Australia was unsettled by any decision of the High Court of Australia, as to whether an obligation of good faith would be implied as a matter of law in any particular class of contracts and, alternatively, whether it could be implied, in fact, in certain circumstances.</sentence>
+<sentence id="s126">39 In GEC Marconi Systems Pty Ltd v BHP Information Technology Pty Ltd [2003] FCA 50 ; (2003) 128 FCR 1 at 208-209 [920] Finn J, himself an advocate of the implication or importation into all contracts of a duty of good faith and fair dealing, recognised that there was no consensus in Australian law as to whether such a term, or duty, should be included in all contracts.</sentence>
+<sentence id="s127">The High Court left that question open in Royal Botanic Gardens and Domain Trust v South Sydney City Council [2002] HCA 5 ; (2002) 186 ALR 289 at 301 [40] per Gleeson CJ, Gaudron, McHugh, Gummow and Hayne JJ.</sentence>
+<sentence id="s128">40 Whether a term will be implied, as a matter of law, as a legal incident of a particular class of contracts is a question of some difficulty.</sentence>
+<sentence id="s129">Such an implication will only be made if it is necessary to enable the class of contracts to operate effectively.</sentence>
+<sentence id="s130">41 Here, the particular species of contract concerns a class of transferable security which can be traded on the stock exchange.</sentence>
+<sentence id="s131">I am of opinion that Unwired has no reasonable prospect of success of establishing an implication here, as a matter of law, that the rights attaching to Intel's or a note holder's ability to convert its notes into shares, or to call for repayment in the events specified for default, are qualified by the compendious requirement that first, the note holder act only in good faith and reasonably, and secondly, that Unwired be ready, willing and able to implement the WiMAX roll out.</sentence>
+<sentence id="s132">42 In my opinion, for the reasons that I have given already, the implication of the latter part of the term (providing that the redemption premium amount would be repayable only where Unwired was not ready, willing and able to implement the WiMAX roll out), has no reasonable prospects of being implied into, or construed as part of, the terms of the deed poll or the wider transaction alleged.</sentence>
+<sentence id="s133">Accordingly, it is not strictly necessary for me to express a view about whether, or not, as a matter of construction or implication there is an additional feature of this class of term, namely, that Intel would only act reasonably and in good faith when exercising its power to call for the payment of the redemption premium amount.</sentence>
+<sentence id="s134">43 I appreciate the force of the argument which Unwired sought to put that such a term, taken by itself, may be arguable.</sentence>
+<sentence id="s135">But, in my opinion, what Unwired pleaded as the compendious implication or construction on which it relied under pars 44 and 50(f) can have no reasonable prospect of being found to be part of the deed poll or transactions.</sentence>
+<sentence id="s136">WAS THE REDEMPTION PREMIUM AMOUNT OTHERWISE PAYABLE AS A MATTER OF CONSTRUCTION?</sentence>
+<sentence id="s137">
+ 
+44 Next, Unwired argued that, as a matter of construction of the deed poll, the redemption premium amount had not fallen due.</sentence>
+<sentence id="s138">I think it fair to say that the argument Unwired sought to advance in par 52 of the amended defence is now unsustainable.</sentence>
+<sentence id="s139">It contended that the time for repayment had been fixed as 30 August 2009 pursuant to Unwired's notice of 3 December 2007 given under cl 6.2 and that Intel could not accelerate the time in a demand under cl 9.4 of the deed poll (Amended Defence par 37).</sentence>
+<sentence id="s140">45 The order I made today for payment of the principal sum established that it was due and payable by Unwired on 15 May 2008 in accordance with Intel's demand under cl 9.4.</sentence>
+<sentence id="s141">In my opinion, the redemption premium amount unarguably falls within the description in cl 9.4 of "any other amount owing".</sentence>
+<sentence id="s142">46 Therefore, par 52 of the amended defence cannot be maintained.</sentence>
+<sentence id="s143">Nor can par 53, which asserts that the proper construction of a change in control event, as defined in cl 1.1 of the deed poll, requires the addition of the qualification that the change of control causes Unwired not to be ready, willing and able to implement the WiMAX roll out.</sentence>
+<sentence id="s144">For the reasons I have given, there is no reasonable prospect of construing the deed poll or the transaction as containing any such qualification.</sentence>
+<sentence id="s145">Thus, pars 52 and 53 must fail.</sentence>
+<sentence id="s146">For the same reasons so much of par 63 as remains in the amended defence must also fail as unarguable.</sentence>
+<sentence id="s147">That paragraph alleged that, by reason of what is in pars 50(e), (f), 51 and 52, neither the principal nor the redemption premium amount is payable under cl 9.4 of the deed poll.</sentence>
+<sentence id="s148">47 Unwired also pleaded, in pars 68-71 and 73, that it suffered loss or damage by reason of Intel's alleged breaches of the terms pleaded in pars 51-54 and 63.</sentence>
+<sentence id="s149">The parties agreed that the consequence of my finding above is that pars 68-71 and 73 must also be struck out.</sentence>
+<sentence id="s150">UNWIRED'S ALLEGATIONS OF INTEL'S CONTRAVENTIONS OF S 52 OF THE TRADE PRACTICES ACT 
+ 
+48 Unwired pleaded that, during the course of the negotiations leading up to the entry into the various transaction documents (including the deed poll), Intel either had represented to it that the redemption premium amount would only be payable if there were a change of control of Unwired that caused Unwired not to be ready, willing and able to implement the WiMAX roll out or that Intel had engaged in conduct which, in effect, indicated that constraint on it.</sentence>
+<sentence id="s151">49 These arguments were based on the steps allegedly taken in the negotiations broadly described in pars 27-30 of the amended defence.</sentence>
+<sentence id="s152">These asserted that in the period from early 2005 to 25 August 2005, the parties undertook negotiations.</sentence>
+<sentence id="s153">During those negotiations Unwired alleged that Intel informed it of a number of matters concerning Intel's activities and aspirations.</sentence>
+<sentence id="s154">These included that:
+ 
+ 
+ &#8226; Intel invested in companies around the world to further its own strategic objectives and key business initiatives, in what was described by Intel as, its "ecosystem" (being "the internet economy in support of Intel's strategic interests") ;
+ &#8226; Intel invested in hardware, software and service companies in different market segments including computing, networking and wireless communications and that these investments were aimed at expanding Intel's market for its products and thus growing the "ecosystem" by supporting Intel's products and emerging technologies throughout the world;
+ &#8226; Intel informed Unwired that, over the previous 14 years, it had invested more than USD 4 billion in approximately 1,000 companies in more than 30 countries;
+ &#8226; Intel was a founding member of the WiMAX forum which was taking a leading role in the development of the new emerging WiMAX technology;
+ &#8226; during those negotiations Unwired informed Intel of its acquisitions of broadband spectrum with which it proposed to service the proposed venture they were discussing;
+ &#8226; during the negotiations, in effect, Intel insisted that, subject to law, it would require a provision entitling it to payment of the redemption premium amount over and above its entitlement to be repaid principal and interest under the convertible notes;
+ &#8226; Intel's rationale for that requirement was that it would not receive full value for its funding of Unwired if the WiMAX roll out were not implemented, or there were circumstances where it might not be implemented including a change of control, trade sale or liquidation of Unwired;
+ &#8226; Intel represented that the insertion of a requirement to pay the redemption premium amount would make it less likely that a change of control would occur through a third party takeover bid or scheme of arrangement resulting in the WiMAX roll out not being implemented.</sentence>
+<sentence id="s155">
+ 
+
+50 Intel argued that nothing in the prefatory pleadings suggested that it had made a representation or engaged in conduct in the terms alleged.</sentence>
+<sentence id="s156">In particular, it argued that Unwired had made no allegation that anything had been said by anyone in those negotiations to that effect.</sentence>
+<sentence id="s157">Moreover, Intel relied on Unwired's evidence that, during the negotiations, both Mr Bean and Ms Potts had said the parties never discussed whether the redemption premium amount would be payable in circumstances of a change of control and Unwired remained ready, willing and able to proceed with a WiMAX roll out.</sentence>
+<sentence id="s158">51 One construction of the latter assertion is that it never occurred to Mr Bean or Ms Potts that the redemption premium amount would be payable in those circumstances, and therefore it did not need to be discussed.</sentence>
+<sentence id="s159">There is no basis to consider that Unwired was misled or deceived by anything said or done by Intel in this respect.</sentence>
+<sentence id="s160">52 I am of opinion for the reasons I have given that there is nothing in the contractual documents to support any such limitation of Intel's rights to enforce its securities.</sentence>
+<sentence id="s161">The possibility that Intel could call on its right to be paid the redemption premium amount was obviously a very live and significant issue in the negotiations conducted by the parties leading up to their informing the stock exchange of its rationale.</sentence>
+<sentence id="s162">There is no suggestion that anyone raised the possibility that Intel would not be entitled to enforce a right to receive the redemption premium amount unless Unwired was not ready, willing and able to continue with the roll out if there were a change in control of Unwired resulting in the potential for Intel to lose its ability to convert the notes into shares which could be traded.</sentence>
+<sentence id="s163">I am satisfied that there is no reasonable prospect that this claim of Unwired could succeed.</sentence>
+<sentence id="s164">The parties agreed that this means that pars 33, 33A and 100-110 of the amended defence should be struck out as a result of this finding.</sentence>
+<sentence id="s165">53 Next, Unwired claimed that Intel had represented to it or had engaged in conduct indicating that it would work with Unwired on the promotion and deployment of wireless broadband technology and services compatible with Intel WiMAX enabled technology (Amended Defence pars 34 and 34A).</sentence>
+<sentence id="s166">In light of what is contained in the collaboration agreement and the other particulars given in the amended defence, I am satisfied that representations or conduct of this kind are arguable and may possibly succeed.</sentence>
+<sentence id="s167">I decline to strike them out notwithstanding Intel's argument that Unwired has not alleged that Intel was in breach of the collaboration agreement.</sentence>
+<sentence id="s168">The amended defence alleged that the representation, when made, and conduct, when engaged in, was untrue (par 78).</sentence>
+<sentence id="s169">No particulars were given to support that allegation.</sentence>
+<sentence id="s170">It is critical that Unwired fully and properly particularise that allegation so as to expose the true issues in dispute.</sentence>
+<sentence id="s171">54 Next, Unwired alleged that by at least 24 August 2005, Intel had represented to Unwired or had engaged in conduct indicating that Intel WiMAX enabled devices would be commercially available in Australia by no later than December 2007 (pars 35, 35A).</sentence>
+<sentence id="s172">Intel argued that the particulars Unwired relied on did not assert that Intel had suggested the commercial availability of the WiMAX enabled devices by December 2007.</sentence>
+<sentence id="s173">However, I am satisfied that the allegation is arguable and could be cured by the provision of proper particulars.</sentence>
+<sentence id="s174">In my opinion, again, such particulars are essential and must be given.</sentence>
+<sentence id="s175">EQUITABLE ESTOPPEL DEFENCE 
+ 
+55 Unwired pleaded that an equitable estoppel arose against Intel from the representations and conduct it had pleaded, in effect, in pars 33-35A inclusive, which I have just discussed, so that in entering in to the deed poll, or the transactions overall, Unwired assumed or expected that the redemption premium amount would only become payable on a change of control of Unwired, if the change of control caused Unwired not to be ready, willing and able to implement the WiMAX roll out.</sentence>
+<sentence id="s176">For the reasons I have already given, in my opinion Unwired could not have had that understanding.</sentence>
+<sentence id="s177">I do not consider that the allegation of equitable estoppel has any reasonable prospect of succeeding.</sentence>
+<sentence id="s178">I strike out pars 111-116.</sentence>
+<sentence id="s179">DID INTEL MISUSE ITS MARKET POWER AND CONTRAVENE S 46(1)(B) OR (C) OF THE TRADE PRACTICES ACT ?</sentence>
+<sentence id="s180">
+ 
+56 Unwired argued that Intel had contravened s 46(1)(b) and (c) of the Trade Practices Act by requiring Unwired to assume an obligation to pay the redemption premium amount.</sentence>
+<sentence id="s181">Relevantly, that Act provides that:
+ "46 Misuse of market power 
+ 
+ 
+ (1) A corporation that has a substantial degree of power in a market shall not take advantage of that power in that or any other market for the purpose of: 
+ 
+ 
+ ... 
+ 
+ 
+ 
+ 
+ 
+(b) preventing the entry of a person into that or any other market; or 
+ 
+ 
+ 
+ 
+ 
+(c) deterring or preventing a person from engaging in competitive conduct in that or any other market.</sentence>
+<sentence id="s182">4E Market 
+ 
+ For the purposes of this Act, unless the contrary intention appears, market means a market in Australia and, when used in relation to any goods or services, includes a market for those goods or services and other goods or services that are substitutable for, or otherwise competitive with, the first-mentioned goods or services.</sentence>
+<sentence id="s183">" 
+ 
+ 
+ 
+ 
+ 
+
+57 Unwired had pleaded that there were, relevantly, two markets in Australia in July 2005 for the supply of vendor-originated finance to businesses supplying or proposing to supply either, first, WiMAX services or, secondly, wireless communication services (pars 117, 118).</sentence>
+<sentence id="s184">These markets were based on information from Henry Ergas, an economist, contained in an affidavit Unwired had recently filed.</sentence>
+<sentence id="s185">58 Unwired alleged that, since at least 2005, Intel had a substantial degree of power in each of those markets.</sentence>
+<sentence id="s186">It provided a number of particulars.</sentence>
+<sentence id="s187">Unwired then alleged that Intel had taken advantage of that substantial degree of power in each market to insist on the insertion of cl 6.3 so as to require Unwired to pay the redemption premium amount.</sentence>
+<sentence id="s188">Unwired alleged that Intel had so acted for the, or a, purpose of preventing persons from entering into the market for the supply of wireless broadband services in Australia or of wireless broadband technology in Australia, or otherwise engaging in competitive conduct in each of those markets.</sentence>
+<sentence id="s189">59 Intel argued that it was necessary for Unwired to plead the geographical dimensions, the product dimensions and the functional dimensions of each market it alleged.</sentence>
+<sentence id="s190">Intel further argued in oral submissions that Mr Ergas' assertions did not supply those essential details necessary to support the claimed contravention of s 46(1).</sentence>
+<sentence id="s191">Unwired responded that the only issue that it had been required to address by Intel's notice of motion and written submissions were those the subject of Mr Ergas' evidence, not the more general issue of market definition.</sentence>
+<sentence id="s192">However, new complaints had been raised by Intel during the course of oral argument concerning the dimensions of the markets.</sentence>
+<sentence id="s193">60 I am not satisfied that Unwired's claim of a contravention of s 46(1) has no reasonable prospect of success or is otherwise so deficient as to require it to be struck out completely.</sentence>
+<sentence id="s194">I think that there is likely to be some real benefit, however, in striking out what is pleaded now and requiring a clearer and more precise re-pleading of all of the elements of the markets alleged and their dimensions.</sentence>
+<sentence id="s195">61 The purpose of pleadings, particularly in commercial cases such as these is to make clear to the parties and the Court the real issues which are to be joined at trial.</sentence>
+<sentence id="s196">There was discussion on a number of occasions during the course of argument about whether the pleadings adequately exposed what would be the real issues to be fought at the trial.</sentence>
+<sentence id="s197">It is an essential feature of the procedures offered by this Court (and, indeed, as I understand the position of the Commercial List and other lists in the Supreme Court of New South Wales) that the parties are required to articulate and bring forward, clearly, precisely and definitively, the real issues that they wish to have litigated.</sentence>
+<sentence id="s198">It is not proper or right for parties or their lawyers to leave buried within a myriad of particulars, or an ambiguity in the phrasing of a pleading, a real issue which a party intends to litigate.</sentence>
+<sentence id="s199">62 Litigation comes at a real cost to the community that must provide the resource of independent courts as the third branch of government for the resolution of disputes and quelling of controversies.</sentence>
+<sentence id="s200">Litigation also comes at a real cost in terms of financial outlays to the parties, as well, where individuals are affected, in terms of their emotions and their abilities to conduct their lives.</sentence>
+<sentence id="s201">The stress of a contested court case on individuals is a toll incapable of measurement.</sentence>
+<sentence id="s202">Litigation is not a game, or a point scoring exercise.</sentence>
+<sentence id="s203">It is the means by which our society allows disputes to be resolved authoritatively and impartially by judges and juries applying the law to the facts that each party brings forward as relevant to their dispute.</sentence>
+<sentence id="s204">That is why, even in the adversarial system of litigation which our nation's courts use, it is no longer acceptable for parties to hold their forensic cards up their sleeves.</sentence>
+<sentence id="s205">The function of the courts is to resolve a controversy, not to play a game or be the parties' vehicle for game playing.</sentence>
+<sentence id="s206">And, the parties, as well as their lawyers, owe a duty to the Court to bring forward clearly and precisely the real issues, and only those issues, which they need to have resolved by the Court.</sentence>
+<sentence id="s207">It is not appropriate for a party to leave a point buried away in a pleading or particular which, on a fair but close reading, may possibly be seen there, but which has not, as a matter of substance been fleshed out or exposed in a meaningful way.</sentence>
+<sentence id="s208">63 The purpose of case management and the docket system adopted by this Court is to enable both the parties and the Court to be informed, from the outset of the case each of the parties intends to advance and to identify the real issues in dispute.</sentence>
+<sentence id="s209">This is so that directions can be crafted to enable the efficient management of the litigation, with a view to focusing on and allowing those issues to be tried, and, at the same time, eliminating irrelevant matters quickly and efficiently: White v Overland [2001] FCA 1333 at [3] - [4] per Allsop J (applied by Heydon JA in Nowlan v Marson Transport Pty Ltd (2001) 53 NSWLR 116 at 128-129 [28]-[32], Mason P and Young CJ in Eq agreeing); Visible Results Properties Inc v Sushi Train (Australia) Pty Ltd [2005] FCA 1159 at [29] per Allsop J; Snowy Mountains Organic Dairy Products Pty Ltd v Wholefoods Pty [2006] FCA 1361 at [15] per myself; Baulderstone Hornibrook Engineering Pty Ltd v Gordian Runoff Ltd [2008] NSWCA 243 at [160] - [162] per Allsop P, with whom Beazley and Campbell JJA agreed.</sentence>
+<sentence id="s210">64 In Maniotis v JH Lever &amp; Co Pty Ltd [2006] FCAFC 7 at [72] , Finn, Emmett and Bennett JJ said:
+ "In the efficient and proper conduct of civil litigation, even civil litigation hard fought between parties, it should always be recognised that, in the propounding of issues for trial, the parties should take steps to ensure that all relevant parties to the dispute are cognisant of what the issues are.</sentence>
+<sentence id="s211">Quietly leaving footprints in correspondence or directions hearings to be uncovered some time later in an attempt to reveal that a matter was always in issue is a practice that must be firmly discouraged.</sentence>
+<sentence id="s212">Where it is evident, or indeed suspected, that the other side is proceeding on the basis of a misconception or has not appreciated something, common sense will, as a general rule, mandate that a party ensure that the other is not proceeding on a misconception or that the other does appreciate something that has been said.</sentence>
+<sentence id="s213">No one's interests are advanced by litigation proceeding on assumptions which are seen or suspected to be false.</sentence>
+<sentence id="s214">The only consequence of keeping issues hidden or not clearly identifying them is to disrupt the business of the court leading to the waste of valuable public resources and to lead to the incurring of unnecessary costs by the parties, costs which ultimately have to be borne by someone: see White v Overland [2001] FCA 1333 at [4] .</sentence>
+<sentence id="s215">" (emphasis in original) 
+65 I am of opinion that Unwired's allegations as to what the markets are, have been pleaded so as, at least, to reflect the economy of expression, with which the High Court was able to deal with allegations of market in NT Power Generation v Power Water Authority [2004] HCA 48 ; (2004) 219 CLR 90 at 112 [58] .</sentence>
+<sentence id="s216">The nature of a finance market and the width of possible markets which are raised by the letter of 23 August 2005 and Unwired's explanatory memorandum to its shareholders in explanation of this transaction will require close and careful attention, including in relation to issues of markets and market definition.</sentence>
+<sentence id="s217">It will be necessary to revisit carefully the further pleadings on these points.</sentence>
+<sentence id="s218">66 However, Unwired's allegations of a contravention of s 46 are arguable and I am not satisfied that they should be dismissed at this time.</sentence>
+<sentence id="s219">But, I have real concerns as to their long-term sustainability, having regard to what is written in the letter of 23 August 2005 and the explanatory memorandum.</sentence>
+<sentence id="s220">For the moment, I think that the best course is to strike out pars 117-129 with leave to re-plead, so that Unwired can give some clarity to the overall nature of the contravention on which it relies.</sentence>
+<sentence id="s221">This is even though, as I have said, it may be perfectly legitimate for it to have pleaded some of those allegations in the form currently expressed.</sentence>
+<sentence id="s222">However, the whole pleading of this part of the amended defence should receive attention in a cognate way.</sentence>
+<sentence id="s223">IS THE REDEMPTION PREMIUM AMOUNT A PENALTY?</sentence>
+<sentence id="s224">
+ 
+67 Lastly, the parties are at issue as to the plea in pars 74 and 75 of the amended defence, that Unwired's obligation to pay the redemption premium amount is a penalty.</sentence>
+<sentence id="s225">In argument, Unwired accepted that it was seeking to rely on a novel argument that the occurrence of an event, namely, the change of control or de-listing, although not a breach of contract for which it was responsible, could still operate as a penalty.</sentence>
+<sentence id="s226">It sought to rely upon a recent, but even more recently, reversed, decision of Brereton J in the Supreme Court of New South Wales in Integral Home Loans Pty Ltd v Interstar Wholesale Finance Pty Ltd [2007] NSWSC 406.</sentence>
+<sentence id="s227">That was reversed in Interstar Wholesale Finance Pty Ltd v Integral Home Loans Pty Ltd [2008] NSWCA 310.</sentence>
+<sentence id="s228">68 After an extensive examination of the authorities, Brereton J concluded that a penalty was a contractual obligation to pay, forfeit or suffer the retention of a sum of money or property, agreed in advance to be payable, forfeited or retainable by one party to the other upon or in default of the occurrence of an event, which could be seen as a matter of substance to have been treated by the parties as lying within the area of obligation of the first party (in the sense that it was the first party's responsibility to see to it that the event did not happen) and where the stipulated payment is out of proportion or unrelated to the damage which might be sustained by the other party by reason of a particular occurrence of default: Integral [2007] NSWSC 406 at [74] .</sentence>
+<sentence id="s229">69 Allsop P, with whom Giles and Ipp JJA agreed, apparently in obiter dicta, concluded that Brereton J's "thoughtful" reasons highlighted a potential tension between different approaches in the field, but that the weight of existing authority limited the doctrine of penalties within narrow and clear boundaries.</sentence>
+<sentence id="s230">Allsop P said that it was the function of the High Court, and not the Court of Appeal of the Supreme Court of New South Wales or a judge at first instance, to expand that field: Interstar [2008] NSWCA 310 at [159] - [160] .</sentence>
+<sentence id="s231">70 The redemption premium amount here is payable, if at all, because of an event which occurs without the fault of, or any breach of contract by, Unwired.</sentence>
+<sentence id="s232">The desire of Unwired to raise an argument that the obligation to pay the redemption premium amount is, or operates as, a penalty so as to preserve its position to litigate that issue in the High Court without the need for a new trial, may possibly be a matter that can be accommodated in a proper procedural context.</sentence>
+<sentence id="s233">Although both parties argued respectively that they should each have judgment on this point pursuant to s 31A of the Federal Court of Australia Act , the existence of such an argument on each side suggests that there may be something more to the point than a summary disposal application could or should indulge.</sentence>
+<sentence id="s234">71 My principal concern, however, is that whatever else it seeks to do, at the moment, Unwired's amended defence does not articulate precisely what the obligation is or the circumstance (or circumstances) in which it operates so as to create a penalty.</sentence>
+<sentence id="s235">That is, Unwired has not clearly identified the material fact that could be the subject of its proposed expansion of the law of penalties, were it allowed to rely on this novel point.</sentence>
+<sentence id="s236">Rather, Unwired made only a bald assertion (in par 74 of its amended defence) that the redemption premium amount is:
+ 
+&#8226; not a genuine pre-estimate of Intel's loss;
+ 
+&#8226; out of all proportion to any loss Intel might suffer, so that it is extravagant and unconscionable in amount;
+ 
+&#8226; a sum greater than that which ought, in any circumstances, be paid; and
+ 
+&#8226; a simple lump sum made payable by way of compensation on the occurrence of one or more or all of several events at different times; 
+ 
+and thus is void and unenforceable as a penalty.</sentence>
+<sentence id="s237">72 In Ringrow Pty Ltd v BP Australia Pty Ltd [2005] HCA 71 ; (2005) 224 CLR 656 at 666 [22] , Gleeson CJ, Gummow, Kirby, Hayne, Callinan and Heydon JJ said that in assessing extravagance and oppressiveness, it is necessary to be able to compare the price to be paid, and the value of what is to be transferred as a result of the claimed penalty having become payable.</sentence>
+<sentence id="s238">I do not think that Unwired's pleading does articulate, in that way, a clear basis for asserting that a penalty would be incurred by it.</sentence>
+<sentence id="s239">I am of opinion that it is necessary to plead more than the merely formulaic words contained in par 74 of Unwired's amended defence.</sentence>
+<sentence id="s240">73 If this point is to be articulated, even in circumstances where ultimately it might have to be struck out, it should be done in a pleading that clearly raises whatever is the triable issue which Unwired ultimately seeks to use to defend itself from liability to pay this amount as a penalty.</sentence>
+<sentence id="s241">For these reasons, pars 74 and 75 are not sufficient, in themselves, to bring out the novel claim that Unwired wishes to make and should be struck out.</sentence>
+<sentence id="s242">74 I am concerned that the caution expressed by Allsop P should not be ignored.</sentence>
+<sentence id="s243">On the other hand, courts have to be mindful that when a party wishes to raise a test case, at least the elements for the test should be stated clearly in the pleadings.</sentence>
+<sentence id="s244">In this way, ultimately, it will be possible to apply the test, as to whether the redemption premium amount is a penalty, assessed on the conventional basis which, as a judge at first instance, I would ordinarily be obliged to apply, or by using some other test to determine whether the proceedings should be dismissed under s 31A , or otherwise stuck out as untenable.</sentence>
+<sentence id="s245">The arguments which Intel has put are significant.</sentence>
+<sentence id="s246">They carry the weight not only of the previous understanding of the common law of contract but also the operation of the document penalties.</sentence>
+<sentence id="s247">75 But, before dismissing this aspect of the proceedings entirely, if I were otherwise minded to accede to Intel's arguments, I am of opinion that I should give Unwired one further opportunity to set out in its pleadings the necessary material facts.</sentence>
+<sentence id="s248">I do that because it seems to me that this area of the law is one which is undergoing development.</sentence>
+<sentence id="s249">As Allsop P observed, it is not the function of single judges or full or appellate courts to depart from decisions of the High Court.</sentence>
+<sentence id="s250">However, in O'Dea v Allstates Leasing Systems (WA) Pty Ltd [1983] HCA 3 ; (1983) 152 CLR 359 the High Court overruled its earlier decision in Lamson Store Service Co Ltd v Russell Wilkins &amp; Sons Ltd [1906] HCA 87 ; (1906) 4 CLR 672.</sentence>
+<sentence id="s251">That had been recently applied by the Court in IAC (Leasing) Ltd v Humphrey [1972] HCA 1 ; (1972) 126 CLR 131.</sentence>
+<sentence id="s252">The reformulation of the law as to penalties which commenced with O'Dea 152 CLR 349 and continued with AMEV-UDC Finance Ltd v Austin [1986] HCA 63 ; (1986) 162 CLR 170 may not yet be at an end, albeit it that, as Allsop P noted, it may not be at the stage that Brereton J had suggested.</sentence>
+<sentence id="s253">76 Recently, in Gumland Property Holdings Pty Ltd v Duffy Bros Fruit Market (Campbelltown) Pty Ltd [2008] HCA 10 ; (2008) 244 ALR 1 , Gleeson CJ, Kirby, Heydon, Crennan and Kiefel JJ discussed the issue of relief against penalties and forfeiture in a cognate way.</sentence>
+<sentence id="s254">They referred to AMEV [1986] HCA 63 ; 162 CLR 170 and discussed the interplay which that and subsequent decisions had identified as developing between penalties and forfeitures.</sentence>
+<sentence id="s255">77 In my opinion, the current pleading of the defence, that the redemption premium amount is a penalty, should be struck out because it does not disclose a defence known to law and does not plead adequately the elements of any such defence.</sentence>
+<sentence id="s256">It may well be that when it is repleaded by Unwired, it will clearly then articulate the material facts to ground the argument Unwired wishes to make, but nonetheless I may have to strike it out or dismiss it under s 31A because the law is as Intel submitted.</sentence>
+<sentence id="s257">I am satisfied, however, that I should give Unwired one further opportunity to replead this asserted defence.</sentence>
+<sentence id="s258">CONCLUSION 
+ 
+78 The parties should bring in short minutes to reflect the conclusions I have reached in these reasons.</sentence>
+<sentence id="s259">I certify that the preceding seventy-eight (78) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Rares.</sentence>
+<sentence id="s260">Associate:
+
+
+Dated: 19 December 2008
+
+ Counsel for the Applicant: Mr T Bathurst QC, Mr S Lawrance 
+ 
+ Solicitor for the Applicant: Allens Arthur Robinson 
+ 
+ Counsel for the Respondent: Mr M Walton SC, Ms K Barrett 
+ 
+ Solicitor for the Respondent: Clayton Utz 
+
+ Date of Hearing: 3, 4, 5, 11 December 2008 
+ 
+ Date of Judgment: 5 December 2008 
+
+ 
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1927.html 
+ 
+ </sentence>
+</sentences>
+</case>

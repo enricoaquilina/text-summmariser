@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<case>
+<name>Handbury Holdings Pty Ltd v Commissioner of Taxation [2008] FCA 1787 (28 November 2008)</name>
+<AustLII>http://www.austlii.edu.au/au/cases/cth/FCA/2008/1787.html</AustLII>
+<catchphrases>
+<catchphrase "id=c0">appeal under taxation administration act 1953 (cth) that the commissioner's assessment of income tax to the taxpayer was excessive</catchphrase>
+<catchphrase "id=c1">taxpayer was the head company under pt 3</catchphrase>
+<catchphrase "id=c2">90 of the income tax assessment act 1997 (cth), of which murdoch magazines pty ltd ("magazines") was its wholly-owned subsidiary</catchphrase>
+<catchphrase "id=c3">magazines was indebted to mr handbury and handbury nominees pty ltd ("nominees"), which debts were discharged by the issue of shares to them</catchphrase>
+<catchphrase "id=c4">taxpayer then sold shares in magazines to a third party</catchphrase>
+<catchphrase "id=c5">whether liabilities of magazines to mr handbury and nominees were liabilities of magazines "at the leaving time" and should be included in the calculation of the step 4 amount under s 711- 45 (1) and the allocable cost amount for magazines under s 711-20 of the 1997 tax act</catchphrase>
+<catchphrase "id=c6">construction that promotes the objects of pt 3-90 to be preferred</catchphrase>
+<catchphrase "id=c7">liability of the leaving entity "at the leaving time" under s 711-45(1) means a liability just before it ceases to be a subsidiary member of consolidated group</catchphrase>
+<catchphrase "id=c8">taxpayer failed to show assessment was excessive</catchphrase>
+<catchphrase "id=c9">tax appeal dismissed</catchphrase>
+<catchphrase "id=c10">when was magazines' "leaving time" of the consolidated group under pt 3-90 of the 1997 tax act</catchphrase>
+<catchphrase "id=c11">when were shares issued by magazines to mr handbury and nominees</catchphrase>
+<catchphrase "id=c12">payment of shares effected by set off in discharge of debt owing by company to intending member</catchphrase>
+<catchphrase "id=c13">allottee of shares becomes member when put in control of shares</catchphrase>
+<catchphrase "id=c14">shares were issued to mr handbury and nominees when their names were entered on magazines' share register</catchphrase>
+<catchphrase "id=c15">taxation</catchphrase>
+<catchphrase "id=c16">taxation</catchphrase>
+</catchphrases>
+<sentences>
+<sentence id="s0">
+ 
+1 This application raises a limited question as to the correct construction of the phrase "at the leaving time" in s 711- 45 (1) of the Income Tax Assessment Act 1997 (Cth) ("the 1997 Act ").</sentence>
+<sentence id="s1">The answer affects the calculation of capital gains made by the applicant on the sale of issued shares in Murdoch Magazines Pty Ltd ("Magazines").</sentence>
+<sentence id="s2">2 The application is brought by way of an appeal under s 14ZZ of the Taxation Administration Act 1953 (Cth) ("the TAA"), against the decision of the respondent, the Commissioner of Taxation, to disallow in full an objection by Handbury Holdings Pty Ltd ("the taxpayer") to an assessment to income tax in respect of the year ended 30 June 2005.</sentence>
+<sentence id="s3">3 The procedural background to the taxpayer's application to this Court is as follows.</sentence>
+<sentence id="s4">4 By an application dated 26 April 2006, the taxpayer sought a private ruling from the Commissioner as to whether certain liabilities owed by Magazines to Handbury Nominees Pty Ltd (as trustee for the Handbury Family Trust) ("Nominees") and Matthew Handbury should be included in the step 4 amount under s 711- 45 of the 1997 Act .</sentence>
+<sentence id="s5">On 7 August 2006, the Commissioner ruled that they should be so included.</sentence>
+<sentence id="s6">5 In its tax return lodged on 18 August 2006 for the year ended 30 June 2005, in accordance with the Commissioner's ruling, the taxpayer declared:
+ (1) a capital gain under CGT event L5 of $16,934,891; and
+ (2) a capital gain under CGT event A1 of $50,226,752.</sentence>
+<sentence id="s7">6 On 28 August 2006, the Commissioner issued a notice of assessment in accordance with the taxpayer's tax return, which included:
+ 
+ 
+ (1) a capital gain (the First Capital Gain) arising under CGT event L5, pursuant to s 104-520 of the 1997 Act , in the amount of $16,934,891; and
+ (2) a capital gain (the Second Capital Gain) arising under CGT event A1, pursuant to s 104-10 of the 1997 Act , in the amount of $50,226,752.</sentence>
+<sentence id="s8">
+ 
+
+7 The taxpayer and the Commissioner accepted that the First Capital Gain represented the negative amount remaining after step 4 of the calculation of the taxpayer's allocable cost amount for Magazines under s 711-20 of the 1997 Act , which was required when Magazines left the consolidated group, and the Second Capital Gain represented the amount made by the taxpayer on the disposal of its shares in Magazines.</sentence>
+<sentence id="s9">8 On 14 November 2006, the taxpayer objected against the assessment on the grounds that:
+ 
+ 
+ (1) the First Capital Gain does not arise under CGT event L5, pursuant to s 104-520 of the 1997 Act ; and 
+ 
+
+(2) the Second Capital Gain is overstated by an amount of $9,205,469.</sentence>
+<sentence id="s10">9 On 15 March 2007, the Commissioner disallowed the objection.</sentence>
+<sentence id="s11">This became an appealable objection decision.</sentence>
+<sentence id="s12">On 14 May 2007, the taxpayer appealed against the appealable objection decision, seeking to have the decision set aside by allowing the objection and reducing its assessable income by $26,140,360.</sentence>
+<sentence id="s13">10 It is virtually impossible to explain the appealable objection decision without referring first to the relevant legislation.</sentence>
+<sentence id="s14">This legislation is complex.</sentence>
+<sentence id="s15">To follow it, it is regrettably necessary to mention numerous provisions and to set some down in full.</sentence>
+<sentence id="s16">THE LEGISLATION 
+ 
+11 A taxpayer's assessable income includes any net capital gain for the relevant year of income: see s 102---5(1) of the 1997 Act .</sentence>
+<sentence id="s17">Capital gains arise on the occurrence of what are called CGT events.</sentence>
+<sentence id="s18">Division 104 describes CGT events, including in s 104---10, a CGT event A1 and, in s 104-520, a CGT event L5.</sentence>
+<sentence id="s19">12 Part 3 - 90 of the 1997 Act provides for the creation of consolidated groups for assessment purposes, and for the taxation of a head company and its wholly-owned subsidiaries as a consolidated group represented by the head company.</sentence>
+<sentence id="s20">The statutory regime incorporates rules that:
+ 
+ 
+ (1) set the cost for income tax purposes of assets that a subsidiary member brings into the group (via the tax cost setting rules);
+ (2) determine the income tax history that is taken into account when an entity becomes, or ceases to be, a subsidiary member of the group; and 
+ (3) deal with the transfer of tax attributes such as losses and franking credits to the head company when an entity becomes a subsidiary member of the group.</sentence>
+<sentence id="s21">
+ 
+
+13 Section 700-10 states that the objects of Pt 3 - 90 are as follows:
+ 
+ Objects of this Part 
+ The objects of this Part are:
+ (a) to prevent double taxation of the same economic gain realised by a consolidated group; and
+ (b) to prevent a double tax benefit being obtained from an economic loss realised by a consolidated group; and
+ (c) to provide a systematic solution to the prevention of such double taxation and double tax benefits that will:
+ (i) reduce the cost of complying with this Act; and 
+ 
+ 
+ 
+ (ii) improve business efficiency by removing complexities and promoting simplicity in the taxation of wholly-owned groups.</sentence>
+<sentence id="s22">
+ 
+ 
+
+14 Following a choice to consolidate, pursuant to s 701 -1, subsidiary members are treated as part of the head company of the group rather than as separate income tax entities in accordance with the single entity rule.</sentence>
+<sentence id="s23">Section 701 -1 relevantly states:
+ 
+ Single entity rule 
+ 
+ 
+ (1) If an entity is a subsidiary member of a consolidated group for any period, it and any other subsidiary member of the group are taken for the purposes covered by subsections (2) and (3) to be parts of the head company of the group, rather than separate entities, during that period.</sentence>
+<sentence id="s24">
+ 
+ 
+ 
+ Head company core purposes 
+ 
+ 
+ (2) The purposes covered by this subsection (the head company core purposes ) are: 
+ 
+ 
+ 
+ 
+ (a) working out the amount of the head company's liability (if any) for income tax calculated by reference to any income year in which any of the period occurs or any later income year; and
+ (b) working out the amount of the head company's loss (if any) of a particular sort for any such income year.</sentence>
+<sentence id="s25">
+ 
+ 
+ 
+ ...
+ 
+ Entity core purposes 
+ (3) The purposes covered by this subsection (the entity core purposes ) are: 
+ 
+ 
+ 
+ (a) working out the amount of the entity's liability (if any) for income tax calculated by reference to any income year in which any of the period occurs or any later income year; and
+ (b) working out the amount of the entity's loss (if any) of a particular sort for any such income year.</sentence>
+<sentence id="s26">
+ 
+ 
+ 
+ ... 
+
+(Note: The * that appears against terms in the 1997 Act is omitted from this quotation and other quotations from the 1997 Act that appear in these reasons for judgment.</sentence>
+<sentence id="s27">An * in the 1997 Act indicates merely that the term is defined in the Dictionary to the 1997 Act , starting at s 995-1.</sentence>
+<sentence id="s28">)
+ 
+15 Pursuant to s 701 -5, the head company inherits the income history of its subsidiary when it becomes a subsidiary member of the group.</sentence>
+<sentence id="s29">Section 701 -5 states that "[f]or the head company core purposes in relation to the period after the entity becomes a subsidiary member of the group, everything that happened in relation to it before it became a subsidiary member is taken to have happened in relation to the head company".</sentence>
+<sentence id="s30">The 1997 Act refers to this 'rule' as the entry history rule.</sentence>
+<sentence id="s31">16 Pursuant to s 701 -40, on ceasing to be a subsidiary member, a company takes with it an income tax history that recognises it is different from when it became a subsidiary member.</sentence>
+<sentence id="s32">Referring to this as the "exit history rule", s 701 -40 states:
+ 
+ Exit history rule 
+ 
+ 
+ (1) If the entity ceases to be a subsidiary member of the group, this section has effect for the entity core purposes, so far as they relate to any thing covered by subsection (2) (an eligible asset etc. ) after it becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity.</sentence>
+<sentence id="s33">
+ 
+ 
+ 
+ (2) This subsection covers the following: 
+ 
+ 
+ 
+ (a) any asset;
+ (b) any liability or other thing that, in accordance with accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability;
+ (c) any business;
+ (d) any registration under section 39J of the Industry Research and Development Act 1986 for particular research and development activities; 
+ 
+ 
+ 
+ 
+ that becomes that of the entity because subsection 701-1(1) (the single entity rule) ceases to apply to the entity when it ceases to be a subsidiary member of the group.</sentence>
+<sentence id="s34">
+ 
+ 
+ 
+ 
+ 
+ (3) Everything that happened in relation to any eligible asset etc. while it was that of the head company, including because of any application of section 701- 5 (the entry history rule), is taken to have happened in relation to it as if it had been an eligible asset etc. of the entity.</sentence>
+<sentence id="s35">
+ 
+ 
+ 
+
+17 The tax consequences of the head company's dealing with an asset deemed to be owned by it are determined by, amongst other things, the asset's "tax cost setting amount".</sentence>
+<sentence id="s36">Section 701-60 stipulates the general rules for ascertaining a tax cost setting amount, providing that:
+ 
+ Tax cost setting amount 
+ 
+ The asset's tax cost setting amount is worked out using this table.</sentence>
+<sentence id="s37">
+ 
+ Tax cost setting amount 
+ 
+ Item 
+ 
+ If the asset's tax costs is set by: 
+ 
+ The asset's tax cost setting amount is: 
+ 
+ 1 
+ 
+ section 701- 10 (Costs to head company of assets of joining entity) 
+ 
+ the amount worked out in accordance with Division 705 
+ 
+ 2 
+ 
+ section 701- 15 (Cost to head company of membership interests in entity that leaves group) 
+ 
+ the amount worked out in accordance with section 711- 15 or 711-55 
+ 
+ 3 
+ 
+ section 701- 20 (Cost to head company of assets consisting of certain liabilities owed by entity that leaves group) or section 701- 45 (Cost of assets consisting of liabilities owed to entity by members of the group) 
+ 
+ the market value of the asset 
+ 
+
+ 
+ 4 
+ 
+ section 701-50 (Cost of certain membership interests of which entity becomes holder on leaving group) 
+ 
+ the amount worked out in accordance with section 711-55 
+ 
+18 Division 705 contains detailed provisions governing the setting of the cost of the assets that are taken to be assets of the head company.</sentence>
+<sentence id="s38">The allocation of a tax cost of the underlying assets is done under Subdiv 705-A.</sentence>
+<sentence id="s39">It is unnecessary to refer to its provisions in any detail, save to note s 705- 10 , which sets out the objects of the subdivision.</sentence>
+<sentence id="s40">Section 705- 10 provides:
+ 
+ Application and object of this Subdivision 
+ Application 
+ (1) This Subdivision has effect, subject to section 705- 15 , for the head company core purposes set out in subsection 701-1(2) if an entity (the joining entity ) becomes a subsidiary member of a consolidated group (the joined group ) at a particular time (the joining time ).</sentence>
+<sentence id="s41">Object 
+ 
+ 
+ (2) The object of this Subdivision is to recognise the head company's cost of becoming the holder of the joining entity's assets as an amount reflecting the group's cost of acquiring the entity.</sentence>
+<sentence id="s42">That amount consists of the cost of the group's membership interests in the joining entity, increased by the joining entity's liabilities and adjusted to take account of the joining entity's retained profits, distribution of profits, deductions and losses.</sentence>
+<sentence id="s43">(3) The reason for recognising the head company's cost in this way is to align the costs of assets with the costs of membership interests, and to allow for the preservation of this alignment until the entity ceases to be a subsidiary member, in order to: 
+ 
+ 
+ (a) prevent double taxation of gains and duplication of losses; 
+ 
+ 
+ and 
+ 
+ 
+ 
+ 
+ (b) remove the need to adjust costs of membership interests in response to transactions that shift value between them, as the required adjustments occur automatically.</sentence>
+<sentence id="s44">
+ 
+ 
+ 
+ 
+ Note: Under Division 711, the alignment is preserved by recognising the head company's cost of membership interests in the entity if it ceases to be a subsidiary member of the group as the cost of its assets reduced by its liabilities.</sentence>
+<sentence id="s45">
+ 
+
+19 Section 701- 15 , which is relevant in this case, concerns the cost to the head company of membership interests in an entity leaving the consolidated group.</sentence>
+<sentence id="s46">Section 701- 15 provides:
+ 
+ Cost to head company of membership interests in entity that leaves group 
+ 
+ 
+ (1) If the entity ceases to be a subsidiary member of the group, this section has effect for the head company core purposes, so far as they relate to the income year in which the entity ceases to be a subsidiary member or any later income year.</sentence>
+<sentence id="s47">
+ 
+ 
+ Object 
+ 
+ 
+ (2) The object of this section is to preserve the alignment of the head company's costs for membership interests in each entity and its assets by recognising, when an entity ceases to be a subsidiary member of the group, the cost of those interests as an amount equal to the cost of the entity's assets at that time reduced by the amount of its liabilities.</sentence>
+<sentence id="s48">Note: The head company's costs for membership interests in entities was aligned with the costs of their assets when the entities became subsidiary members of the group.</sentence>
+<sentence id="s49">
+ 
+ 
+ 
+ Setting tax cost of membership interests 
+ 
+ 
+ (3) For each membership interest that the head company of the group holds in an entity that ceases to be a subsidiary member, the interest's tax cost is set just before the entity ceases to be a subsidiary member at the interest's tax cost setting amount.</sentence>
+<sentence id="s50">
+ 
+ 
+ 
+ Note 1: The membership interests would include those that are actually held by subsidiary members of the group, but which are treated as those of the head company under the single entity rule.</sentence>
+<sentence id="s51">
+ 
+ Note 2: If the entity is a partnership, Subdivision 713-E sets the tax cost of interests in partnership assets, rather than membership interests in the partnership.</sentence>
+<sentence id="s52">
+ (Emphasis added.</sentence>
+<sentence id="s53">) 
+
+20 A subsidiary will leave a group when a company ceases to be a wholly-owned subsidiary of the head company.</sentence>
+<sentence id="s54">Division 711 makes detailed provision for when a subsidiary leaves a group, including the manner of determining the interest's "tax cost setting amount": see s 711- 10 .</sentence>
+<sentence id="s55">Section 711- 5 provides some further guidance as to the object of Div 711 and the manner in which it is to be achieved.</sentence>
+<sentence id="s56">Section 711- 5 relevantly states:
+ 
+ Application and object of this Division 
+ Application 
+ (1) This Division has effect: 
+ 
+ 
+ 
+ (a) for the head company core purposes set out in subsection 701-1(2); and
+ (b) for the entity core purposes set out in subsection 701-1(3); 
+ if an entity (the leaving entity ) ceases to be a subsidiary member of a 
+ 
+ 
+ 
+ 
+ consolidated group (the old group ) at a particular time (the leaving time ).</sentence>
+<sentence id="s57">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Object 
+ 
+ 
+ (2) The object of this Division is, when entities cease to be subsidiary members, to preserve the alignment of the head company's costs for membership interests in entities and their assets that is established when entities become subsidiary members.</sentence>
+<sentence id="s58">
+ 
+ 
+ Note: The reasons for preserving this alignment are set out in subsection 705-10(3).</sentence>
+<sentence id="s59">
+ 
+ 
+ 
+ (3) This is achieved by recognising the head company's cost for those interests, just before the leaving time, as an amount equal to the cost of the leaving entity's assets at the leaving time reduced by the amount of its liabilities.</sentence>
+<sentence id="s60">(Emphasis added.</sentence>
+<sentence id="s61">) 
+ 
+
+21 When a subsidiary of a consolidated group leaves the group, the tax cost setting amount for each membership interest in the leaving entity that members of the old group held is worked out in accordance with s 711- 15 .</sentence>
+<sentence id="s62">The first step taken under s 711- 15 is to work out the old group's allocable cost amount for the leaving entity in accordance with s 711- 20 .</sentence>
+<sentence id="s63">22 Section 711- 20 reads as follows:
+ Working out the old group's allocable cost amount for the leaving entity Step What the step requires Purpose of the step 1 Start with the step 1 amount worked out under section 711- 25 , which is about the terminating values of assets that the leaving entity takes with it when it ceases to be a subsidiary member.</sentence>
+<sentence id="s64">To ensure that the allocable costs amount includes the cost of the assets.</sentence>
+<sentence id="s65">2 Add to the result of step 1 the step 2 amount worked out under section 711-35, which is about the value of deductions inherited by the leaving entity that are not reflected in the terminating value of the assets that the leaving entity takes with it.</sentence>
+<sentence id="s66">To ensure that the value of the deductions is reflected in the allocable cost amount.</sentence>
+<sentence id="s67">3 Add to the result of step 2 the step 3 amount worked out under section 711-40, which is about liabilities owed by members of the old group to the leaving entity at the leaving time.</sentence>
+<sentence id="s68">To ensure that the liabilities, which are not recognised while the leaving entity is taken to be part of the head company by subsection 701-1(1), are reflected in the allocable cost amount.</sentence>
+<sentence id="s69">4 Subtract from the result of step 3 the step 4 amount worked out under section 711- 45 , which is about: (a) the liabilities that the leaving entity takes with it when it ceases to be a subsidiary member; and (b) membership interests in the leaving entity that are not held by members of the old group.</sentence>
+<sentence id="s70">To ensure that the allocable cost amount is reduced to reflect the liabilities and the market value of the membership interests.</sentence>
+<sentence id="s71">5 If the amount remaining after step 4 is positive, it is the old group's allocable cost amount for the leaving entity.</sentence>
+<sentence id="s72">Otherwise the old group's allocable cost amount is nil.</sentence>
+<sentence id="s73">6 (Repealed by No 90 of 2002) 
+ 
+ Note: If the amount remaining after step 4 is negative, the head company is taken to have made a capital gain equal to the amount: see CGT event L5.</sentence>
+<sentence id="s74">
+23 The calculation of the allocable cost amount for the leaving entity thus involves 5 steps: see s 711- 20 (1) above.</sentence>
+<sentence id="s75">
+ 
+ (1) Step 1 --- add up the head company's terminating values of all the assets that the head company holds at the leaving time because the leaving entity is taken by s 701- 1 (1) (the single entity rule) to be a part of the head company (s 711- 25 (1)).</sentence>
+<sentence id="s76">The head company's terminating value for an asset is worked out by applying s 705-30 in a corresponding way to the way that section applies to work out the terminating value for an asset that a joining entity holds at the joining time (s 711-30(2));
+ (2) Step 2 --- add to the result of step 1 the step 2 amount, which is worked out under s 711-35;
+ (3) Step 3 --- add to the result of step 2 the step 3 amount, which is worked out under s 711-40.</sentence>
+<sentence id="s77">The step 3 amount is the total, for all liabilities owed by members of the old group to the leaving entity at the leaving time, of the market values of the corresponding assets of the leaving entity (s 711-40(1));
+ (4) Step 4 --- subtract from the result of step 3 the step 4 amount, which is worked out under s 711- 45 .</sentence>
+<sentence id="s78">The step 4 amount is calculated "by adding up the amounts of each thing (an accounting liability ) that, in accordance with accounting standards, or statements of accounting concepts made by the Australian Accounting Standards Board, is a liability of the leaving entity at the leaving time that can or must be identified in the entity's statement of financial position" (s 711- 45 (1); emphasis added); and
+ (5) Step 5 --- if the amount remaining after step 4 is positive, it is the old group's allocable cost amount for the leaving entity.</sentence>
+<sentence id="s79">Otherwise the old group's allocable cost amount is nil (s 711- 20 (1)).</sentence>
+<sentence id="s80">If there is a negative amount (i.e., if the liabilities that the leaving entity takes with it when it ceases to be a subsidiary member and the membership interests in the leaving entity that are not held by members of the old group exceed the ascertained value of its assets), a capital gain arises under CGT Event L5, as provided for in s 104-520.</sentence>
+<sentence id="s81">
+ 
+
+24 Section 104-520 provides as follows:
+ 
+ Where amount remaining after step 4 of leaving allocable cost amount is negative: CGT event L5 
+ (1) CGT event L5 happens if: 
+ 
+ 
+ 
+ (a) an entity ceases to be a subsidiary member of a consolidated group or a MEC group; and 
+ (b) in working out the group's allocable cost amount for the entity, the amount remaining after applying step 4 of the table in section 711- 20 is negative.</sentence>
+<sentence id="s82">
+ 
+ 
+ 
+ 
+ (2) The time of the event is when the entity ceases to be a subsidiary member of the group.</sentence>
+<sentence id="s83">(3) For the head company core purposes mentioned in subsection 701-1(2), the head company makes a capital gain equal to the amount remaining.</sentence>
+<sentence id="s84">
+ 
+ 
+ 
+
+25 This tax appeal is concerned with step 4 and, in particular, the construction of the words "a liability of the leaving entity at the leaving time" in s 711- 45 (1).</sentence>
+<sentence id="s85">THE FACTS THAT GIVE RISE TO THE ISSUE IN CONTEST 
+ 
+26 The taxpayer relied on the affidavit of Mr Handbury, with its exhibits, sworn on 18 September 2007 and the affidavit of Mr JWT Bourne sworn on 13 March 2008, with its exhibits.</sentence>
+<sentence id="s86">27 Pursuant to Pt 3 - 90 of the 1997 Act , the taxpayer has been the head company of a consolidated group of companies since 1 July 2003.</sentence>
+<sentence id="s87">Magazines was a subsidiary member of the consolidated group from 1 July 2003 to 30 July 2004.</sentence>
+<sentence id="s88">There was a contest between the parties as to whether this date was 29 July 2004 or 30 July 2004.</sentence>
+<sentence id="s89">For the reasons stated below, I consider the later to be the correct date.</sentence>
+<sentence id="s90">28 As at 9 July 2004, Magazines was indebted to Mr Handbury in the amount of $11,290,000.</sentence>
+<sentence id="s91">29 On 12 July 2004, the taxpayer, Magazines, Nominees, Mr Handbury, Pacific Publications Pty Ltd, Seven Network Limited and Citicorp Leasing Inc entered into an Implementation Deed and a Share Purchase Agreement.</sentence>
+<sentence id="s92">Pursuant to cl 3 of the Deed, the implementation of what were called "the implementation steps" in cl 4 was dependent on the parties to the Share Purchase Agreement confirming that they were able to complete that agreement.</sentence>
+<sentence id="s93">Clause 4 of the Deed provided that the implementation steps that the taxpayer, Mr Handbury and Nominees were to complete included to "procure that":
+ 
+ 
+ (A) [Magazines] and [the taxpayer] satisfy their obligations under clause 4.2 of the Share Purchase Agreement in the order specified in clause 4.2 of the Share Purchase Agreement; and 
+ (B) the Share Sellers provide the Share Buyer with evidence that [Magazines] has declared and paid to [the taxpayer] the dividend referred to in clause 4.2(a) of the Share Purchase Agreement and issued the shares referred to in clauses 4.2(e) and 4.2(f) of the Share Purchase Agreement to Nominees and [Mr] Handbury respectively.</sentence>
+<sentence id="s94">
+ 
+
+30 Clause 4.2 of the Share Purchase Agreement provided that:
+ 
+ 
+ (1) Magazines would declare and pay a dividend of $14,850,360 to the taxpayer;
+ (2) The taxpayer would make a loan of $14,850,360 to Magazines;
+ (3) The taxpayer would declare and pay a dividend of $14,850,360 to Nominees to be satisfied by an assignment of debt owed by Magazines (referred to in (2) above) to Nominees;
+ (4) Magazines would issue 244,491 fully paid shares in itself to Nominees in full satisfaction of the debt of $14,850,360 to Nominees; and 
+ (5) Magazines would issue 184,035 fully paid shares in itself to Mr Handbury in full satisfaction of the debt of $11,290,000 owed by Magazines to him.</sentence>
+<sentence id="s95">
+ 
+
+Further, under the Share Purchase Agreement, the taxpayer, Nominees and Mr Handbury were to sell all of the shares in Magazines to Pacific Publications.</sentence>
+<sentence id="s96">31 At 7.00 pm on 29 July 2004, the directors of Magazines declared an interim dividend of $14,850,360 to be paid (to the taxpayer) on 30 July 2004 by crediting the amount to "the appropriate loan account in the books of the company".</sentence>
+<sentence id="s97">32 A little earlier, at 5:30 pm on 29 July 2004, the directors of the taxpayer purported to declare an interim dividend of $14,850,360 in favour of Nominees.</sentence>
+<sentence id="s98">This dividend was also payable on 30 July 2004, "by way of assignment of the loan amount of $14,850,360 owed" by Magazines to the taxpayer.</sentence>
+<sentence id="s99">The relevant loan did not arise until an hour and a half later, but nothing ultimately turns on this.</sentence>
+<sentence id="s100">33 The taxpayer, Magazines and Nominees executed an Assignment Deed and Acknowledgement dated 29 July 2004 recording the taxpayer's agreement to assign to Nominees "all of its rights title and interest in the loan arrangement it has with [Magazines] pursuant to which [Magazines] owes [the taxpayer] the sum of $14,850,360".</sentence>
+<sentence id="s101">34 Also at 7.00 pm on 29 July 2004, the directors of Magazines resolved to issue 244,491 fully paid shares to Nominees and 184,035 fully paid ordinary shares to Mr Handbury, "both issues being in full satisfaction of loans owed to them by [Magazines]".</sentence>
+<sentence id="s102">The directors further resolved that "the shares be issued on the basis of the Net Assets of [Magazines] just prior to converting the loans to equity".</sentence>
+<sentence id="s103">35 On 30 July 2004, Nominees applied for an allotment of 244,491 shares in Magazines.</sentence>
+<sentence id="s104">On the same day, Mr Handbury applied for an allotment of 184,035 shares in Magazines.</sentence>
+<sentence id="s105">The Register recorded the allotments being made on 30 July 2004.</sentence>
+<sentence id="s106">Form 484 dated 26 August 2004 filed with the Australian Securities &amp; Investments Commission indicated that these allotments occurred the day before (that is, 29 July 2004), but, in the circumstances just mentioned, I accept that this was probably because the form was completed by reference to the minutes and not the register.</sentence>
+<sentence id="s107">Consistently with the facts set out here, and Mr Bourne's evidence (see below), the register recorded the shares as being issued to Nominees and Mr Handbury on 30 July 2004: see also Corporations Act 2001 (Cth), s 176.</sentence>
+<sentence id="s108">36 On 30 July 2004, Magazines issued 184,035 fully paid ordinary shares to Mr Handbury and 244,491 fully paid shares to Nominees.</sentence>
+<sentence id="s109">I return to the dispute between the parties about the dates of allotment and issue of the shares at the conclusion of these reasons for judgment.</sentence>
+<sentence id="s110">In this circumstance, Magazines ceased to be a member of the consolidated group on 30 July 2004.</sentence>
+<sentence id="s111">The Magazine's Completion Accounts did not disclose the liabilities that were purportedly discharged by the shares issue.</sentence>
+<sentence id="s112">37 On 30 July 2004, the taxpayer, Nominees and Mr Handbury sold and transferred all of the issued shares in Magazines to Pacific Publications.</sentence>
+<sentence id="s113">38 Further evidence concerning the transactions was given by Mr Bourne, a chartered accountant and adviser to Mr Handbury, the taxpayer and its related entities at the relevant time.</sentence>
+<sentence id="s114">Mr Bourne's tasks included ensuring that they carried out all the steps required to complete the relevant transactions.</sentence>
+<sentence id="s115">In his capacity as a director of the taxpayer and Nominees, he signed relevant documentation, including share transfer forms and share certificates.</sentence>
+<sentence id="s116">Mr Bourne's evidence was that he travelled to Sydney on 30 July 2004 "for the purpose of attending to preliminary steps required to complete the Transaction and to attend the settlement meeting", including the unexecuted share certificates and the share transfer forms.</sentence>
+<sentence id="s117">He said (and I accept) that he attended a number of board meetings in the morning of that day for various companies, including Magazines, at which the steps involved in the share sales were completed, including the issuing of the new shares in Magazines; the signing of the share certificates; and the execution of the share transfer forms.</sentence>
+<sentence id="s118">Mr Bourne said too (and I accept) that he later attended a meeting to settle the share sales, and that settlement occurred in the afternoon of 30 July 2004.</sentence>
+<sentence id="s119">39 The Commissioner assessed the taxpayer to capital gains in the amount of $16,934,891 on the issue of shares to Nominees and Mr Handbury, as an Event L5 gain, and in the amount of $9,205,469 on the sale of shares to Pacific Publications, as an Event A1 gain (on disposal).</sentence>
+<sentence id="s120">By its objection to the assessment and in this application, the taxpayer contended that the net capital gain derived by it should be reduced by the amount of $26,140,360.</sentence>
+<sentence id="s121">The taxpayer characterized this amount as "the amount discharged at the time [Magazines] ceased to be a subsidiary member of the consolidated group".</sentence>
+<sentence id="s122">40 Both the amounts of $16,934,891 and $9,205,469 were calculated after the liabilities of Magazines to Nominees and Mr Handbury, totalling $26,140,360, were included in step 4 of the calculation of allocable cost amount required by s 711 - 20 .</sentence>
+<sentence id="s123">Without including the liabilities of $26,140,360 in the calculation of allocable cost amount, these capital gains would not have arisen.</sentence>
+<sentence id="s124">ISSUES 
+ 
+41 The fundamental question is whether the Commissioner's assessment to the taxpayer for the year of income ended 30 June 2005 is excessive.</sentence>
+<sentence id="s125">The issues that fall for consideration are:
+ 
+ 
+ (1) whether, on a proper construction of s 711- 45 (1) of the 1997 Act , a liability of the leaving entity at the leaving time means a liability of the leaving entity just before it ceases to be a subsidiary member of the consolidated group; and 
+ 
+
+(2) whether the liabilities of Magazines to Nominees and Mr Handbury:
+ 
+(a) were liabilities of Magazines at the leaving time; and accordingly
+ 
+(b) should be included in the calculation of the step 4 amount under s 711- 45 (1) of the 1997 Act , and the calculation of the taxpayer's allocable cost amount for Magazines under s 711-20 of the 1997 Act .</sentence>
+<sentence id="s126">TAXPAYER'S SUBMISSIONS 
+ 
+42 The precise issue, as the taxpayer saw it, was whether the loan liabilities of Magazines to Nominees and Mr Handbury, which were discharged by set off against the consideration of the shares, whose issue caused the company to "leave" a consolidated group, were liabilities of Magazines "at the leaving time".</sentence>
+<sentence id="s127">The taxpayer submitted that, since the event causing the extinguishment of the liabilities was also the event constituting the "leaving time", the loans were not "liabilities that the leaving entity takes with it when it ceases to be a subsidiary member" of the consolidated group for the purpose of s 711-20 of the 1997 Act .</sentence>
+<sentence id="s128">43 The taxpayer submitted that "[t]he recurring theme in the objects provisions of [Pt 3-90] is that the object is 'the alignment of the head company's costs for membership interests in each entity and its assets,' when the subsidiary joins the group by allocating to its assets ... the 'cost of the group's membership interests in the joining entity, increased by the joining entity's liabilities' ... and when it leaves by allocating to the membership interests 'an amount equal to the cost of the entity's assets at that time reduced by the amount of its liabilities' to 'preserve the alignment ... established when entities become subsidiary members'".</sentence>
+<sentence id="s129">The taxpayer further submitted that "[t]he object is achieved by 'setting the tax cost' by taking into account 'the terminating values of assets that the leaving entity takes with it when it ceases to be a subsidiary member' ... and 'liabilities that the leaving entity takes with it when it ceases to be a subsidiary member'".</sentence>
+<sentence id="s130">(Emphasis original)
+ 
+44 The taxpayer noted that:
+ 
+(a) s 711-5(1)(b) defined the "leaving time" as the particular time when a leaving entity "ceases to be a subsidiary member of the consolidated group"; 
+ 
+(b) s 703-15(2) provided that a company is a subsidiary member of a consolidated group if it is a company taxed at the general company tax rate, an Australian resident and "a wholly-owned subsidiary of the head company of the group"; and
+ 
+(c) s 703-30 provided that a company is a wholly-owned subsidiary of the holding entity if, and only if "(a) it is a wholly-owned subsidiary of the holding entity; or (b) it is a wholly-owned subsidiary of a wholly-owned subsidiary of the holding entity".</sentence>
+<sentence id="s131">Thus, so the taxpayer said, the leaving time occurred when the taxpayer ceased to be the sole beneficial owner of the shares in the Magazines.</sentence>
+<sentence id="s132">This occurred, so the taxpayer said, when Nominees and Mr Handbury became the beneficial owners of the shares in Magazines instead of it.</sentence>
+<sentence id="s133">Further, so the taxpayer argued, Nominees and Mr Handbury could not become the owners of the shares in Magazines until the shares were issued to them.</sentence>
+<sentence id="s134">45 The taxpayer submitted that the shares were issued when Nominees and Mr Handbury "were entitled as against the company to be registered", citing Federal Commissioner of Taxation v Patcorp Investments Ltd (1973) 140 CLR 247 at 303.</sentence>
+<sentence id="s135">The taxpayer said that "[t]hat point was the point at which the allotment consideration was provided and the contract was executed on their part, that is, the point at which the debts owing by the company to them were set off against the debt owing by them to the company for the allotment moneys".</sentence>
+<sentence id="s136">According to the taxpayer, the consideration was the setting off of the allocation moneys owed by Nominees and Mr Handbury against the debts owed by Magazines.</sentence>
+<sentence id="s137">In consequence, the "leaving time" for the purposes of Div 711 and s 104-520 coincided with the extinguishment of the liabilities to Nominees and Mr Handbury.</sentence>
+<sentence id="s138">46 The taxpayer noted that step 4 in s 711-20 requires identification of "the liabilities that the leaving entity takes with it when it ceases to be a subsidiary member".</sentence>
+<sentence id="s139">The taxpayer submitted that, at the point when Magazines ceased to be a subsidiary member of the consolidated group, it also ceased to be indebted to Nominees and Mr Handbury and, therefore, those debts were not "a liability of the leaving entity at the leaving time that can or must be identified in the entity's statement of financial position".</sentence>
+<sentence id="s140">In consequence, the taxpayer submitted that Magazines did not "take with it" any relevant liabilities on ceasing to be a subsidiary member, and that liabilities to Nominees and Mr Handbury extinguished at the leaving time were excluded from the sum deducted under step 4 from the allocable cost amount for the leaving entity, as calculated under s 711-20.</sentence>
+<sentence id="s141">47 By excluding the extinguished debts from the step 4 deduction, the taxpayer argued that its net capital gain was reduced by $26,140,360.</sentence>
+<sentence id="s142">COMMISSIONER'S SUBMISSIONS 
+ 
+48 The Commissioner submitted that the taxpayer's construction of the phrase "at the leaving time" in s 711- 45 (1) of the 1997 Act would, if accepted, avoid the real gain on the sale being brought to tax.</sentence>
+<sentence id="s143">This construction was, so the Commissioner argued, "inconsistent with the principle upon which the relevant legislation is based and the terms by which it is expressed, and should be rejected as discordant with the policy and objective of the legislation".</sentence>
+<sentence id="s144">The Commissioner argued that the word "at" was "sufficiently flexible" to mean "just before" the leaving time; and that this interpretation would be consistent with the statutory policy and intent.</sentence>
+<sentence id="s145">Thus, so the Commissioner said, "the liabilities (if any) of [Magazines] to each of Nominees and Mr Handbury were liabilities of [Magazines] at the time it left the consolidated group, and should be included in the calculation of the step 4 amount under s 711- 45 (1), and the calculation of the [taxpayer's] allocable cost amount for [Magazines] under s 711-20".</sentence>
+<sentence id="s146">49 Further, the Commissioner noted that, in most cases, because the financial position of the leaving entity at the leaving time will not have changed, the tax cost setting amount worked out either "just before" or "just after" the leaving time would, in most cases, be the same.</sentence>
+<sentence id="s147">The Commissioner added that, where an entity ceases to be a member of the consolidated group because of a change in ownership linked to a change in the value of its liabilities by, for example, the conversion of debt to equity, the correct tax cost setting amount can be obtained only if the calculations are done "just before" the instant the leaving company ceases to be a member of the consolidated group.</sentence>
+<sentence id="s148">In the case of a debt/equity swap, the loan would be present in the leaving entity's balance sheet before the entity ceases to be a member.</sentence>
+<sentence id="s149">The Commissioner also relied on various contextual factors to support the contention that "at the leaving time" should refer to a time just before the shares are issued in order to preserve the alignment referred to in ss 701 -15(2) and 711-5(2).</sentence>
+<sentence id="s150">50 Accordingly, the Commission submitted that a purposive construction of the legislation requires that liabilities that are extinguished by the issue of shares should be included under s 711- 45 (1), and consequently at step 4 in the table in s 711-20.</sentence>
+<sentence id="s151">TAXPAYER'S SUBMISSIONS IN REPLY 
+ 
+51 The taxpayer responded to the propositions that: (1) the shares in Magazines were issued before the debts to the subscribers were extinguished; and (2) the taxpayer's construction of "at the leaving time" did not accord with the "economic result" that the 1997 Act intended to achieve.</sentence>
+<sentence id="s152">52 The taxpayer submitted that, "if an obligation recognisable as a liability arose, it was because of the declaration of the dividend pursuant to the course of conduct to which the parties had bound themselves by the implementation deed and share purchase agreement, to which each of [the taxpayer], [Magazines] and [Nominees] were party; discharge of any liability arising from the declaration of the dividend upon the issue of the shares was an outcome to which each of the parties agreed and by which each was bound".</sentence>
+<sentence id="s153">The taxpayer added that "if no obligation recognisable as a liability arose, there was no amount in respect of it to be deducted under s 711-20(1)".</sentence>
+<sentence id="s154">The taxpayer argued that:
+ 
+ 
+ (a) the earliest point at which the leaving time could occur was the issue of the shares;
+ (b) the leaving time was "[the] 'point in time' which succeeds discharge of the debts: because discharge is a precondition to the issue of new shares which is the event comprising the leaving time"; and
+ (c) alternatively to (b), "the liabilities were discharged at the moment of ... the leaving time" and "were not then a liability to be deducted under sec 711-20".</sentence>
+<sentence id="s155">
+ 
+
+53 Additionally, citing Hepples v Federal Commissioner of Taxation [1992] HCA 3 ; (1992) 173 CLR 492 at 510 and Anderson v Commissioner of Taxes (Vic) [1937] HCA 24 ; (1937) 57 CLR 233 at 243, the taxpayer submitted that, in the context of Pt 3 - 90 of the 1997 Act , "appeals to a legislative policy of matching 'appropriate economic outcomes' are of little assistance in interpreting the legislation", noting examples where the 1997 Act departed from "economic outcomes" and copies of press releases by the relevant government Ministers in relation to proposed amendments to reverse the legislative effect of tax provisions producing "unanticipated results".</sentence>
+<sentence id="s156">54 Further, after reviewing the statutory scheme, the taxpayer submitted that "the phrase 'just before the leaving time' serves only to link sec 711-5 to sec 701 -15 for the purposes of sec 701 -55, by which the amount of the capital gain in issue in these proceedings is fixed".</sentence>
+<sentence id="s157">The taxpayer argued that the phrase "at the leaving time" in ss 711-20, 711- 25 and 711- 45 was a separate concept.</sentence>
+<sentence id="s158">CONSIDERATION 
+ 
+55 I turn first to the question, whether, on the proper construction of Pt 3 - 90 , liabilities that are extinguished as the consideration for shares to persons outside the group fall within the words "a liability of the leaving entity at the leaving time" in s 711- 45 (1) of the 1997 Act .</sentence>
+<sentence id="s159">As we have seen, the taxpayer argued that they did not, whilst the Commissioner argued that they did.</sentence>
+<sentence id="s160">There is a further question, to which I turn below, as to whether the assumptions on which this question is based are correct.</sentence>
+<sentence id="s161">56 Under Pt 3 - 90 of the 1997 Act , the consolidated group is treated as a single taxpayer represented by the head company.</sentence>
+<sentence id="s162">The assets of a subsidiary member are treated as being held by the head company.</sentence>
+<sentence id="s163">As already noted, the head company inherits the tax history of the subsidiary member when it joins the group.</sentence>
+<sentence id="s164">Plainly enough, the regime established by Pt 3 - 90 is intended to reflect, within the tax framework, the commercial and economic realities of corporate group dealings: compare s 700-10.</sentence>
+<sentence id="s165">See generally Envestra Limited v Commissioner of Taxation [2008] FCA 249 at [6] - [9] per Mansfield J.</sentence>
+<sentence id="s166">As his Honour commented in Envestra at [6], "[t]hat process obviously required rules, including to set the cost for income tax purposes of the assets that a subsidiary member would bring into the group".</sentence>
+<sentence id="s167">Just as rules are needed for this purpose, so too rules are needed to govern the situation when a subsidiary member leaves the group.</sentence>
+<sentence id="s168">A subsidiary member leaves the group when it ceases to be a wholly-owned subsidiary of the head company.</sentence>
+<sentence id="s169">57 As the earlier discussion shows, the drafting style used in Pt 3 - 90 is a distinctive one: it specifically directs attention to the objects of the scheme as a whole and in respect of aspects of the scheme, and to the particular principles that are instrumental in achieving these objects: see e.g., ss 700-10, 701 -15(2) &amp; (3), 705 -10(2) &amp; (3) and 711-5(2) &amp; (3).</sentence>
+<sentence id="s170">The more detailed provisions, or 'rules', that are to be applied to give effect to these principles are to be construed in light of these principles and objects.</sentence>
+<sentence id="s171">58 This appeal is concerned with what happens when a subsidiary leaves the group.</sentence>
+<sentence id="s172">The object of Division 711, which governs this situation, is set out in s 711-5, namely, "to preserve the alignment of the head company's costs for membership interests ... established when entities become subsidiary members": s 711-5(2).</sentence>
+<sentence id="s173">The means by which this is to be achieved is "by recognising the head company's cost for those interests, just before the leaving time , as an amount equal to the cost of the leaving entity's assets at the leaving time reduced by the amount of its liabilities": s 711-5(3).</sentence>
+<sentence id="s174">The legislation is directed to quantifying the head company's cost for membership interests "just before the leaving time", to be done in the manner indicated.</sentence>
+<sentence id="s175">This is the principle that is intended to achieve the object of preserving the relevant alignment.</sentence>
+<sentence id="s176">59 As noted above, s 711-20 sets out the rules for calculating the allocable cost amount for the leaving member and involves five separate steps.</sentence>
+<sentence id="s177">Generally speaking, the statutory methodology gives a result that is tax neutral, irrespective of whether the group disposes of an asset directly or sells an entity that takes the asset with it: compare s 701 -15(3).</sentence>
+<sentence id="s178">60 This tax appeal is specifically concerned with the working out of step 4, in s 711-20: see [22] above.</sentence>
+<sentence id="s179">Step 4 is worked out in accordance with s 711- 45 --- i.e., "by adding up the amounts of each thing ... that, in accordance with accounting standards ... is a liability of the leaving entity at the leaving time that can or must be identified in the entity's statement of financial position": see s 711- 45 (1), emphasis added.</sentence>
+<sentence id="s180">61 When used in connection with time, for example in such phrases as "at the time of", the word "at" conveys no very precise meaning.</sentence>
+<sentence id="s181">As Casey J said, in Re Port Supermarket Ltd ( In liquidation ) [1978] NZLR 330 at 337, "[t]he ordinary meaning of 'at the time of' suggests some indefiniteness, 'at' having the meaning of 'near' for example, 'at Christmas time' doesn't mean on Christmas day --- a period a few days either side is also included", citing Re Columbian Fireproofing Co Ltd [1910] 1 Ch 758 at 765.</sentence>
+<sentence id="s182">See also Doe d Ellis v Owens (1843) 12 LJ Ex 53 at 56 per Lord Abinger and Sakhuja v Allen [1973] AC 152 at 175-76 per Viscount Dilhorne.</sentence>
+<sentence id="s183">What is intended by the word "at" in s 711- 45 (1) depends on the context in which it is used, including the subject matter and the legislative objects and principles.</sentence>
+<sentence id="s184">62 The broad subject matter is the tax treatment of consolidated groups and leaving members.</sentence>
+<sentence id="s185">Section 711-5(3) expressly states that the object in s 711-5(2) --- preserving the relevant alignment of head company's costs for membership interests --- is to be "achieved by recognising the head company's cost for those interests, just before the leaving time" as equalling "the cost of the leaving entity's assets at the leaving time" reduced by its liabilities.</sentence>
+<sentence id="s186">In this context, the phrases "just before the leaving time" and "at the leaving time" are intended to refer to essentially the same time.</sentence>
+<sentence id="s187">Whilst it might be thought that the use of different words was intended to refer to different points in time ("just before" as opposed to "at"), this interpretation would not, so it seems to me, make much sense in this context.</sentence>
+<sentence id="s188">It is to be borne in mind that the calculation under s 711- 45 (1) is for the purpose of determining the tax liability of the consolidated group be reference to the assets in the subsidiary company that is about to leave the group.</sentence>
+<sentence id="s189">Absent any contrary indication, it seems most reasonable to make this calculation done just before the company leaves the group.</sentence>
+<sentence id="s190">It therefore makes much better sense if the expression "at the leaving time" (a somewhat elastic phrase) is understood as synonymous with the phrase "just before the leaving time".</sentence>
+<sentence id="s191">The phrase "at the leaving time" has a different connotation from the phrase "at midnight", which was discussed by Stone J in Tio v Minister for Immigration and Multicultural and Indigenous Affairs [2003] FCAFC 53 ; (2003) 126 FCR 185 at [41] .</sentence>
+<sentence id="s192">63 If the phrase "at the leaving time" is properly to be understood as meaning "just before the leaving time" in s 711-5(3), then, in the absence of any contrary indication, the same phrase is to be understood in the same way elsewhere in Div 711 and Pt 3 - 90 and, in particular, in s 711- 45 (1).</sentence>
+<sentence id="s193">I reject the taxpayer's submission that the phrase "just before the leaving time" and "at the leaving time" refer to different and distinct concepts.</sentence>
+<sentence id="s194">64 There are a number of considerations that provide further support for this approach.</sentence>
+<sentence id="s195">First, as the analyses accompanying the Commissioner's written submissions showed, the taxpayer's construction would mean that the gain made on the sale of the shares was not brought to tax under Pt-3-90.</sentence>
+<sentence id="s196">That is, the taxpayer's construction would leave out of account under this regime the deduction of liabilities of about $25 million, which were said to be due to Mr Handbury and Nominees, although, as the taxpayer pointed out, part at least might be taxed on some other basis.</sentence>
+<sentence id="s197">The result would appear to be inconsistent with the principles on which Pt 3 - 90 is said to be based, especially s 711-5(3), and with its stated objects.</sentence>
+<sentence id="s198">It is worth emphasizing that the overarching object is to align the cost of the membership interests in a leaving entity with the cost of the net assets of the entity when the head company held all the membership interests in the leaving entity: see ss 701 -15(2) and 711-5(2).</sentence>
+<sentence id="s199">It is scarcely necessary to refer to s 15AA of the Acts Interpretation Act 1901 (Cth) to affirm the principle that a construction that promotes the objects of the statutory regime in Pt 3 - 90 , as a whole and in specific aspects, is to be preferred to a construction that does not promote these objects.</sentence>
+<sentence id="s200">Whilst I accept that, in the taxation context, a consideration of this kind is not necessarily determinative, nonetheless it seems to me an important one.</sentence>
+<sentence id="s201">I reject the taxpayer's argument that I should not place much weight on this consideration.</sentence>
+<sentence id="s202">65 A number of contextual factors also support the view that "at the leaving time" refers to a time just before the shares are issued in order to preserve the alignment referred to in ss 701- 15 (2) and 711- 5 (2).</sentence>
+<sentence id="s203">These factors are:
+ 
+ 
+ (a) The words "at the leaving time" in s 711- 25 (1) apparently refer to a period before any new shares are issued to a third party, when the single entity rule is still operating, otherwise no assets would be held by the head company at the leaving time to be counted at step 1 in the table in s 711- 20 (1);
+ (b) The adjustment under s 711- 25 (2) for goodwill at "the leaving time" is at a time when the head company still has ownership and control of the business of the leaving entity;
+ (c) The reference in s 711-45(6) to disregarding employee shares "at the leaving time" apparently refers to a time when the leaving entity is still "a wholly-owned subsidiary of the head company at the leaving time", that is, before the issue of new shares to a third party;
+ (d) Section 711-65 works out the pre-CGT proportion of the shares in the leaving entity on the basis of the pre-CGT factor assets held by the head company under the single entity rule.</sentence>
+<sentence id="s204">Accordingly, the phrase "at the leaving time" in s 711-65(1)(a) presumably signifies a time before any new shares are issued to a third party; and
+ (e) The use of the words "the interest's tax cost is set just before the entity ceases to be a subsidiary member" in s 701- 15 (3) apparently indicates the membership interests are recognised just before the leaving time.</sentence>
+<sentence id="s205">
+ 
+
+66 The taxpayer emphasized that, after it ceased to be a subsidiary member of the group, Magazines did not take with it the liabilities due to Mr Handbury and Nominees, as the description of step 4 (and other steps) in s 711- 20 apparently contemplated.</sentence>
+<sentence id="s206">Since liabilities extinguished at the leaving time did not fall within the description of step 4 in s 711- 20 , they were, so the taxpayer said, to be left out of account.</sentence>
+<sentence id="s207">Two things may be said about this point.</sentence>
+<sentence id="s208">First, s 711-45, not s 711- 20 , provides the rule for calculating step 4: this is clear from the terms of ss 711- 20 and 711-45.</sentence>
+<sentence id="s209">Secondly, the statement referred to by the taxpayer ("s 711-45 ... is about the liabilities that the leaving entity takes with it ... and membership interests in the leaving entity that are not held by members of the old group") is essentially a descriptive, as opposed to, an operative statement.</sentence>
+<sentence id="s210">In keeping with the distinctive drafting style of Pt 3 - 90 , it is a descriptive statement that is, presumably, intended to guide the reader.</sentence>
+<sentence id="s211">It operates neither as a 'rule' nor as a direction.</sentence>
+<sentence id="s212">It does not modify or qualify the terms of s 711-45(1).</sentence>
+<sentence id="s213">Further, taken as a whole, the broad thrust of the statement is to the effect that the calculation under s 711-45 is about the liabilities and membership interests that were formerly, but are no longer, within the old group.</sentence>
+<sentence id="s214">67 Accordingly, I would not regard the language used in connection with step 4 in s 711- 20 as determinative of the present question.</sentence>
+<sentence id="s215">Whilst the question before the Court does not admit of an easy answer, for the reasons stated, I consider the construction advanced by the Commissioner to be correct.</sentence>
+<sentence id="s216">68 I accept, therefore, that on a proper construction of s 711-45(1), a liability of the leaving entity at the leaving time means a liability of the leaving entity just before it ceases to be a subsidiary member of the consolidated group.</sentence>
+<sentence id="s217">The liabilities of Magazines to each of Nominees and Handbury were liabilities of Magazines just before it left the consolidated group, and should be included in the calculation of the step 4 amount under s 711-45(1) and the calculation of the taxpayer's allocable cost amount for Magazines under s 711- 20 .</sentence>
+<sentence id="s218">69 I turn briefly to another argument raised by the Commissioner, which was that, in the circumstances of the case, the "leaving time" for the purposes of Pt 3 - 90 was 29 July 2004, as opposed to 30 July 2004.</sentence>
+<sentence id="s219">If this were so, then the extinguishment of Magazines' liabilities to Nominees and Mr Handbury was not co-incident with Magazines leaving the consolidated group.</sentence>
+<sentence id="s220">The argument had essentially two stages.</sentence>
+<sentence id="s221">70 First, the Commissioner argued that Magazines incurred a liability to the taxpayer on 29 July 2004.</sentence>
+<sentence id="s222">This may be accepted.</sentence>
+<sentence id="s223">It was common ground that the directors of Magazines declared a dividend of $14,850,360 on 29 July 2004.</sentence>
+<sentence id="s224">Magazines incurred a debt to the taxpayer when the dividend was declared (see Corporations Act , s 254V(2)) , which was payable on 30 July 2004 "by way of crediting ... the appropriate loan account".</sentence>
+<sentence id="s225">For present purposes, it may be accepted that, as the Commissioner submitted, this liability had to be taken into account in accordance with the accounting standard made by the Australian Accounting Standards Board, which was in evidence.</sentence>
+<sentence id="s226">The only argument the taxpayer made against this proposition depended on acceptance of its principal argument, which I have rejected.</sentence>
+<sentence id="s227">I also interpolate here, though little was made of the point, that Magazines had been indebted to Mr Handbury since 9 July 2004.</sentence>
+<sentence id="s228">Further, by virtue of the deed of assignment of 29 July 2004, Nominees assumed the benefit of Magazines' liability to the taxpayer.</sentence>
+<sentence id="s229">71 Secondly, the Commissioner argued that the share allotment to Nominees and Mr Handbury was complete on 29 July 2004, referring to Mr Bourne's evidence in cross-examination that, after the meeting at 7 pm on 29 July 2004, there was nothing to do other than enter Nominee's and Mr Handbury's names on the register, issue the share certificates and notify the Australian Securities and Investments Commission.</sentence>
+<sentence id="s230">On this approach, so the Commissioner said, the "consideration was the promise that a liability in the future to Nominees ... be set off in the future ... the liability for the shares be set off against the amount of liability that was to become due to Nominees following the assignment coming into effect on the next day".</sentence>
+<sentence id="s231">Alternatively, the Commissioner argued that the nature of the contract pursuant to which Nominees and Mr Handbury became shareholders in Magazines had not been proven by the taxpayer.</sentence>
+<sentence id="s232">In this connection, counsel for the Commissioner drew attention to Mr Bourne's inability to identify the contractual consideration.</sentence>
+<sentence id="s233">On this approach, it might be said, presumably, that the taxpayer had failed to show that its assessment was excessive.</sentence>
+<sentence id="s234">I would reject both approaches.</sentence>
+<sentence id="s235">72 Payment for shares may, by agreement, be effected by a set off in discharge of a debt owing by the company to the intending member: see Whim Creek Consolidated (NL) v Federal Commissioner of Taxation (1977) 17 ALR 421 at 429.</sentence>
+<sentence id="s236">This was what happened in this case.</sentence>
+<sentence id="s237">There was no execution of the contract in respect of the shares until the set-off was effected, which was on 30 July 2004.</sentence>
+<sentence id="s238">An entitlement to be registered did not arise before this date.</sentence>
+<sentence id="s239">There was therefore no "leaving time" before 30 July 2004.</sentence>
+<sentence id="s240">73 There was some debate between the Commissioner and the taxpayer as to the significance of share allotment and issue.</sentence>
+<sentence id="s241">In the circumstances, it does not seem to me necessary to explore this issue in any detail.</sentence>
+<sentence id="s242">Speaking generally, there will be an allotment when there is a binding contract to issue and take shares and an appropriation of shares, usually by the directors, to the intending member: Commonwealth Homes and Investment Company Limited v Smith [1937] HCA 73 ; (1937) 59 CLR 443 at 461, Dixon J; Central Piggery Co Ltd v McNicoll and Hurst [1949] HCA 19 ; (1949) 78 CLR 594 at 599 per Dixon J, quoting Spitzel v Chinese Corporation (1899) 80 LT 347 at 351 per Stirling J; and Federal Commissioner of Taxation v St Helens Farm (ACT) Pty Ltd [1981] HCA 4 ; (1981) 146 CLR 336 at 371 per Mason J.</sentence>
+<sentence id="s243">Plainly enough, an allottee acquires rights against the company, depending in part on the nature of the contract between the intending member and the company.</sentence>
+<sentence id="s244">These rights do not, however, turn the allottee into a member holding the shares.</sentence>
+<sentence id="s245">This will happen only when the shares "issue", that is, when the shareholder is "put in control of the shares allotted": see Central Piggery 78 CLR at 599-600 per Dixon J.</sentence>
+<sentence id="s246">74 Nominees and Mr Handbury did not become members of Magazines (that is, the holders of the shares in the company) until their names were entered in the share register of the company on 30 July 2004: see St Helens Farm 146 CLR at 427 per Aickin J; and Patcorp Investments 140 CLR at 293, 295-96 per Gibbs J and 303 per Jacobs J.</sentence>
+<sentence id="s247">See generally HAJ Ford, RP Austin and IM Ramsay, Ford's Principles of Corporations Law (Butterworths, Australia, 2000), vol 2, at [17.170].</sentence>
+<sentence id="s248">When their names were entered in the register, the shares came into existence as separate items of property: see Pilmer v Duke Group Ltd (In Liq) [2001] HCA 31 ; (2001) 207 CLR 165 at [20] ; St Helens Farm 146 CLR at 427 per Aickin J; also Commonwealth Homes and Investment 59 CLR at 461 per Dixon J.</sentence>
+<sentence id="s249">It follows that Nominees and Mr Handbury did not acquire any beneficial interest in shares in Magazines until 30 July 2004, at which point Magazines ceased to be a member of the consolidated group.</sentence>
+<sentence id="s250">75 On 30 July 2004, Nominees and Mr Handbury gave consideration for the shares allotment and executed their part of the contract (by which they were to become members of Magazines) when the debts that Magazines owed them (by assignment or directly) were set off against the debt that each owed Magazines for the allotment.</sentence>
+<sentence id="s251">This was the precondition for the entitlement, which then arose, for them to be registered as members.</sentence>
+<sentence id="s252">The liabilities to Nominees and Mr Handbury are thus properly characterized as liabilities "of the leaving entity just before it cease[d] to be a subsidiary member of the consolidated group".</sentence>
+<sentence id="s253">I reject the Commissioner's argument to the contrary.</sentence>
+<sentence id="s254">76 For the reasons stated, I would dismiss the application, with costs.</sentence>
+<sentence id="s255">I certify that the preceding seventy-six (76) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Kenny.</sentence>
+<sentence id="s256">Associate:
+
+Dated: 28 November 2008
+
+ Counsel for the Applicant: Mr Slater QC with Mr O'Loughlin 
+ 
+ Solicitor for the Applicant: Hall &amp; Wilcox Lawyers 
+ 
+ Counsel for the Respondent: Mr de Wijn QC with Mr Nicholas 
+ 
+ Solicitor for the Respondent: Australian Government Solicitor 
+
+ Date of Hearing: 19 March 2008 
+ 
+ Date of Judgment: 28 November 2008 
+
+
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2008/1787.html 
+ 
+ </sentence>
+</sentences>
+</case>
