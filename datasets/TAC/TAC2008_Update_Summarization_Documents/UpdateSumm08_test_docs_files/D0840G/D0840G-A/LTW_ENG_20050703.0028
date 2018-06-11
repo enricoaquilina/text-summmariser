@@ -1,0 +1,221 @@
+<DOC id="LTW_ENG_20050703.0028" type="story" >
+<HEADLINE>
+Simulations Aim to Provide Options in Even of Attack
+</HEADLINE>
+<DATELINE>
+LOS ALAMOS, N.M.
+</DATELINE>
+<TEXT>
+<P>
+Deep inside the cave-like laboratories of the
+legendary research center that created the atomic bomb, scientists
+have begun work on a Manhattan Project of a different sort.
+</P>
+<P>
+In the wake of Sept. 11, 2001, they have been constructing the most
+elaborate computer models of the United States ever attempted. There
+are virtual cities inhabited by millions of virtual individuals who go
+to work, shopping centers, soccer games and anywhere else their real
+life counterparts go. And there are virtual power grids, oil and gas
+lines, water pipelines, airplane and train systems -- even a virtual
+Internet.
+</P>
+<P>
+The scientists build them. And then they destroy them.
+</P>
+<P>
+On a recent weekday at the Los Alamos National Laboratory,
+researcher Steve Fernandez took several power relay plants in the
+Pacific Northwest offline with a few clicks of his keyboard while
+Kristin Omberg and Brent Daniel were working up mathematical models
+that calculated the worst places to release biological agents in San
+Diego.
+</P>
+<P>
+``We're trying to be the best terrorists we can be,'' said James P.
+Smith, who is working on simulations of a smallpox virus released in
+Portland, Ore. ``Sometimes we finish and we're like, 'We're glad we're
+not terrorists.' ''
+</P>
+<P>
+The Los Alamos experiments are part of the Homeland Security
+Department's efforts to harness technology to aid the war on terror.
+Like government ``data mining'' projects that use flight itineraries,
+credit card reports and other data and try to find patterns to predict
+who might be a likely terrorist, the simulations are attempts to guess
+the bigger picture.
+</P>
+<P>
+The government is using the simulations to provide options in the
+event of a real terrorist attack. The information is so sensitive that
+most of the lab's work is classified, and the physical facility is
+secured with its own experimental technologies. If the simulations got
+into the wrong hands, the researchers say, they could be used as the
+ultimate weapon against Americans. ``It would be a terrorist recipe
+for doing something terrible,'' Smith said.
+</P>
+<P>
+Some urban planners have criticized the project for its cost -- each
+simulation can cost tens of millions of dollars -- and have argued that
+such modeling can never be precise. A book on public health threats by
+the Institute of Medicine of the National Academies, for example,
+notes that some critics say simulations ``cannot provide clear
+evidence for or against any option.'' But advocates say the exercise
+is providing crucial information for protecting the country.
+</P>
+<P>
+When planes crashed into the World Trade Center and Pentagon almost
+four years ago, the government had little understanding of the
+weaknesses and interdependencies of power, water, transportation and
+telecommunications networks. Richard Clarke, the former
+counter-terrorism czar under the Clinton and Bush administrations,
+warned that this opened the possibility of ``cascade'' failures --
+domino effects -- that authorities had little power to stop.
+</P>
+<P>
+In 2003, for instance, the Nuclear Regulatory Commission revealed a
+computer worm on the Internet penetrated the control systems of a
+nuclear power plant, disabling its safety mechanisms for about five
+hours. That same year, much of the East Coast and Midwest were hit
+with an electrical blackout that experts thought should have been
+limited to one area.
+</P>
+<P>
+Clarke created a ``critical infrastructure protection'' group made
+up of the top officials from the government and from industry. The Los
+Alamos simulations are the cornerstone of their work.
+</P>
+<P>
+The models have helped officials pinpoint and prioritize where
+changes need to be made. Fernandez's work has led to upgraded security
+at certain power plants. Omberg and Daniel have created biosensors --
+which can detect a wide variety of biological threats -- that have been
+placed in areas of major cities that the computer program calculated
+were vulnerable, such as near sports arenas or transportation hubs.
+</P>
+<P>
+Smith's findings have been a major component of the debate over
+whether it's necessary to synthesize enough smallpox vaccine for the
+entire country. He found that in the event of an outbreak, targeted
+vaccination would work almost as well as mass vaccination if officials
+moved quickly to establish quarantine zones for those infected.
+</P>
+<P>
+Traditionally, estimates of infection and deaths are made using a
+simple multiple that denotes how fast the disease spread. Smith's
+program is far more detailed and uses a mixture of mathematical data
+and basic psychology to simulate an area and the behavior of its
+population.
+</P>
+<P>
+It begins by modeling every city block using census data, then
+populates the city using information on household income and age of
+residents. Next the scientists simulate people's movements on a daily
+basis by using data from diaries kept by commuters; foot traffic
+patterns on streets, malls and other public places; and public
+transportation schedules. The hope is to see how different social
+interactions are in America in 2005 from other areas where the spread
+of disease has been studied -- such as in rural Africa, where
+communities are much more isolated, or in the United States in 1918
+when some cities like Portland saw much traffic from soldiers on
+boats.
+</P>
+<P>
+It turns out that the average person in Portland, population 1.6
+million, has about five ``activities'' per day. That is, they might
+get up and drop the children off at school, go to work, buy gas, buy
+groceries and then pick up the children. The average travel time for
+each person is 30 minutes.
+</P>
+<P>
+``The thing that makes it unique is the estimate of who comes into
+contact with whom in a large urban area and how long the contacts
+last,'' said Stephen Eubank, a researcher at the Bioinformatics
+Institute at Virginia Tech who worked with Smith on the smallpox
+simulation.
+</P>
+<P>
+The scientists continuously run the simulations, which operate
+about 100 times faster than real time, testing actions like closing
+the airport, quarantining a neighborhood or shutting down workplaces.
+</P>
+<P>
+``It's like the movie 'Groundhog Day.' You could reach in and say
+what I did yesterday didn't work so well and let's see how something
+else works,'' Eubank said.
+</P>
+<P>
+In one simulation, Smith unleashed the smallpox virus in a
+university building in downtown Portland, with several students
+becoming victims. Soon after the 10-day incubation period passed,
+hospitals throughout Portland began to report cases. Smith's computer
+chronicled the devastation. Day 1: 1,281 infected, zero dead. Day 35:
+23,919 infected, 551 dead. Day 70: 380,582 infected, 12,499 dead.
+</P>
+<P>
+Smith wondered: How would the results change if local officials
+closed the schools? If they started mass vaccination? If they locked
+down the whole city?
+</P>
+<P>
+Smith programmed a cluster of computers to run through these
+scenarios and hundreds of others, trying to determine which response
+would save the most lives.
+</P>
+<P>
+Each time the model is run, it produces more data than the contents
+of the Library of Congress. Some findings are obvious: the invention
+of air transportation may be the biggest factor in the spread of
+disease. Others aren't as easy to guess: shutting down schools might
+not help as much as expected because parents are likely to take their
+children to malls and playgrounds where they can come in contact with
+others who have been infected. It also turned out the speed of
+intervention is much more important than the type of intervention.
+</P>
+<P>
+If officials waited 10 days or more, Smith found, ``We didn't get
+to enough people so a lot of people died. It was almost as bad as a
+'do nothing' strategy, which was depressing.''
+</P>
+<P>
+Eubank said that when he runs simulations for governors or mayors,
+they inevitably ask him to quarantine the whole city, to make sure
+residents stay in their houses.
+</P>
+<P>
+``But if I had to do that I would basically be shooting anybody who
+walks out on their doorstep. That's not acceptable,'' Eubank said.
+``We are trying to understand the 'cost-benefit' trade-off -- if you
+implement a quarantine it may give you the benefit you're looking for
+but it may be too costly socially.''
+</P>
+<P>
+The biggest challenge simulation researchers face is that it's
+unlikely they'll ever know how accurate they were until a real attack
+occurs. The only system that's been tested against a real life event
+is Fernandez's program for how hurricanes will affect the electricity
+grid.
+</P>
+<P>
+In September 2004, his team used the system to predict the route of
+Hurricane Frances based on historical information about similar
+hurricanes as well as its wind profile, intensity and other data 40
+hours before landfall. He advised Florida officials to position
+emergency repair teams in certain parts of the state he thought would
+receive the most damage -- and he turned out to be correct. His
+computer was also right about the 11 days it would require to get
+power back up for 90 percent of the state, and about the estimate of
+damage: $28 billion; the final damage total was $27 billion.
+</P>
+<P>
+Fernandez said the pinpoint accuracy of the Hurricane Frances
+simulation was just plain luck. The world is too complex, he said, to
+be captured that specifically in a computer program.
+</P>
+<P>
+No matter how much money is spent, he said, or how long scientists
+work on the task, ``we'll never understand all the interdependencies
+of life.'' 
+</P>
+</TEXT>
+</DOC>

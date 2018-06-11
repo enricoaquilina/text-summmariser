@@ -1,0 +1,204 @@
+<DOC id="LTW_ENG_20050311.0029" type="story" >
+<HEADLINE>
+Hackers Target U.S. Power Grid
+</HEADLINE>
+<DATELINE>
+WASHINGTON
+</DATELINE>
+<TEXT>
+<P>
+Hundreds of times a day, hackers try to slip past
+cyber-security into the computer network of Constellation Energy Group
+Inc., a Baltimore power company with customers around the country.
+</P>
+<P>
+``We have no discernable way of knowing who is trying to hit our
+system,'' said John Collins, chief risk officer for Constellation,
+which operates Baltimore Gas and Electric. ``We just know it's being
+hit.''
+</P>
+<P>
+Hackers have caused no serious damage to systems that feed the
+nation's power grid, but their untiring efforts have heightened
+concerns that electric companies have failed to adequately fortify
+defenses against a potential catastrophic strike. The fear: In a
+worst-case scenario, terrorists or others could engineer an attack
+that sets off a widespread blackout and damages power plants,
+prolonging an outage.
+</P>
+<P>
+Patrick H. Wood III, the chairman of the Federal Energy Regulatory
+Commission, warned top electric company officials in a private meeting
+in January that they need to focus more heavily on cyber-security.
+Wood also has raised the issue at several public appearances.
+Officials will not say whether new intelligence points to a potential
+terrorist strike, but Wood stepped up his campaign after officials at
+the Energy Department's Idaho National Laboratory showed him how a
+skilled hacker could cause serious problems.
+</P>
+<P>
+Wood declined to comment on specifics of what he saw. But an
+official at the lab, Ken Watts, said the simulation showed how someone
+could hack into a utility's Internet-based business management system,
+then into a system that controls utility operations. Once inside, lab
+workers simulated cutting off the supply of oil to a turbine
+generating electricity and destroying the equipment.
+</P>
+<P>
+Describing his reaction to the demonstration, Wood said: ``I wished
+I'd had a diaper on.''
+</P>
+<P>
+Many electric industry representatives have said they are concerned
+about cyber-security and have been taking steps to make sure their
+systems are protected. But Wood and others in the industry said the
+companies' computer security is uneven.
+</P>
+<P>
+``A sophisticated hacker, which is probably a group of hackers ...
+could probably get into each of the three U.S. North American power
+(networks) and could probably bring sections of it down if they knew
+how to do it,'' said Richard Clarke, a former counterterrorism chief
+in the Clinton and Bush administrations.
+</P>
+<P>
+Clarke said government simulations show that electric companies
+have not done enough to prevent hacking. ``Every time they test, they
+get in,'' Clarke said. ``It's nice that the power companies think that
+they've done things, and some of them have. But as long as there's a
+way to get into the grid, the grid is as weak as its weakest
+company.''
+</P>
+<P>
+Some industry analysts play down the threat of a massive
+cyber-attack, saying it's more likely that terrorists would target the
+physical infrastructure such as power plants and transmission lines.
+James Andrew Lewis, director of technology policy at the Center for
+Strategic and International Studies in Washington D.C., said a
+coordinated attack on the grid would be technically difficult and
+would not provide as much ``bang for the buck'' as high-profile
+physical attacks. Lewis said the bigger vulnerability may be posed not
+by outside hackers but by insiders who are familiar with their
+company's computer networks.
+</P>
+<P>
+But in recent years, terrorists have expressed interest in a range
+of computer targets. Al-Qaida documents from 2002 suggest
+cyber-attacks on various targets, including the electrical grid and
+financial institutions, according to a translation by the IntelCenter,
+an Alexandria, Va., firm that studies terrorist groups.
+</P>
+<P>
+A government advisory panel has concluded that a foreign
+intelligence service or a well-supported terrorist group ``could
+conduct a structured attack on the electric power grid electronically,
+with a high degree of anonymity, and without having to set foot in the
+target nation,'' according to a report last year by the Government
+Accountability Office, the investigative arm of Congress.
+</P>
+<P>
+Cyber-security specialists and government officials said that
+cyber-attacks are a concern across many industries but that the threat
+to the country's power supply is among their top fears.
+</P>
+<P>
+Hackers have gained access to U.S. utilities' electronic control
+systems and in a few cases have ``caused an impact,'' said Joseph
+Weiss, a Cupertino, Calif.-based computer security specialist with
+Kema Inc., a consulting firm focused on the energy industry. He said
+computer viruses and worms also have caused problems.
+</P>
+<P>
+Weiss, a leading expert in control system security, said officials
+of the affected companies have described the instances at private
+conferences that he hosts and in confidential conversations but have
+not reported the intrusions publicly or to federal authorities. He
+said he agreed not to publicly disclose additional details and that
+the companies are fearful that releasing the information would hurt
+them financially and encourage more hacking.
+</P>
+<P>
+Weiss said that ``many utilities have not addressed control system
+cyber-security as comprehensively as physical security or
+cyber-security of business networks.''
+</P>
+<P>
+The vulnerability of the nation's electrical grid to computer
+attack has grown as power companies have transferred control of their
+electrical generation and distribution equipment from private,
+internal networks to supervisory control and data acquisition, or
+SCADA, systems that can be accessed through the Internet or by phone
+lines, according to consultants and government reports. That
+technology has led to greater efficiency because it allows workers to
+operate equipment remotely.
+</P>
+<P>
+Other systems that feed information into SCADA or that operate
+utility equipment are vulnerable and have been largely overlooked by
+utilities, security consultants said.
+</P>
+<P>
+Some utilities have made hacking into their SCADA systems
+relatively easy by continuing to use factory-set passwords that can be
+found in standard documentation available on the Internet, computer
+security consultants said.
+</P>
+<P>
+The North American Electric Reliability Council, an industry-backed
+organization that sets voluntary standards for power companies, is
+drafting wide-ranging guidelines to replace more narrow, temporary
+precautions already on the books for guarding against a cyber-attack.
+But computer security specialists question whether those standards go
+far enough.
+</P>
+<P>
+Officials at several power companies said they had invested heavily
+in new equipment and software to protect their computers. Many would
+speak only in general terms, saying divulging specifics could assist
+hackers.
+</P>
+<P>
+``We're very concerned about it,'' said Margaret E. ``Lyn''
+McDermid, senior vice president and chief information officer for
+Dominion Resources Inc., a Richmond-based company that operates
+Dominion Virginia Power and supplies electricity and natural gas in
+other states. ``We spend a significant amount of time and effort in
+making sure we are doing what we ought to do.''
+</P>
+<P>
+Executives at Constellation Energy view the constant hacking
+attempts -- which have been unsuccessful -- as a threat and monitor
+their systems closely. They said they assume many of the hackers are
+the same type seen in other businesses: people who view penetrating
+corporate systems as fun or a challenge.
+</P>
+<P>
+``We feel we are in pretty good shape when it comes to this,''
+Collins said. ``That doesn't mean we're bulletproof.''
+</P>
+<P>
+The biggest threat to the grid, analysts said, may come from power
+companies using older equipment that is more susceptible to attack.
+Those companies many not want to invest large amounts of money in new
+computer equipment when the machines they are using are adequately
+performing all their other functions.
+</P>
+<P>
+O. Sami Saydjari, chief executive of the Wisconsin Rapids,
+Wis.-based consulting firm Cyber Defense Agency LLC, said hackers
+could cause the type of blackout that knocked out electricity to about
+50 million people in the Northeast, Midwest and Canada in 2003, an
+event attributed in part to trees interfering with power lines in
+Ohio. He said that if hackers destroyed generating equipment in the
+process, the amount of time to restore electricity could be prolonged.
+</P>
+<P>
+``I am absolutely confident that by design, someone could do at
+least as (much damage), if not worse'' than what was experienced in
+2003, said Saydjari, who was one of 54 prominent scientists and others
+who warned the Bush administration of the risk of computer attacks
+following Sept. 11, 2001. ``It's just a matter of time before we have
+a serious event.''
+</P>
+</TEXT>
+</DOC>
