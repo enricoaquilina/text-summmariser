@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Predicting changes in systolic blood pressure using longitudinal patient records
+
+@&#HIGHLIGHTS@&#
+We present a model for predicting changes in systolic blood pressure (SBP).The model is trained and tested using longitudinal clinical records.Some features that inform the model account for the time of observation.The model’s estimates have a correlation coefficient of 0.47 with actual SBP change.
+
+@&#KEYPHRASES@&#
+Prediction,Clinical,NLP,Informatics,SBP,Blood pressure,
+
+@&#ABSTRACT@&#
+ObjectiveThis paper introduces a model that predicts future changes in systolic blood pressure (SBP) based on structured and unstructured (text-based) information from longitudinal clinical records.MethodFor each patient, the clinical records are sorted in chronological order and SBP measurements are extracted from them. The model predicts future changes in SBP based on the preceding clinical notes. This is accomplished using least median squares regression on salient features found using a feature selection algorithm.ResultsUsing the prediction model, a correlation coefficient of 0.47 is achieved on unseen test data (p<.0001). This is in contrast to a baseline correlation coefficient of 0.39.
+
+@&#INTRODUCTION@&#
+The primary goal of this research is to demonstrate that the output of an NLP system capable of automatically producing annotations like the ones provided by the organizers of the i2b2/UTHealth 2014 challenge [1] can be used to predict future medical events. Systems with the ability to predict future medical events based on electronic medical records (EMRs) could be used to suggest that patients and medical professionals pay closer attention to certain risk factors and events associated with the condition(s) the system is designed to predict. In this paper, a model that predicts future changes in systolic blood pressure (SBP) using time sensitive information is presented and evaluated. Such a system could help doctors recognize when to add or change medications and let patients know they should change their eating or exercise habits, among other possibilities. The presented model is novel in the sense that it is the first to predict changes in blood pressure using a feature space that explicitly takes into account the amount of time between the observation of feature values and the prediction date. Similar models that use different features, but similar feature representations may be effective for predicting other medical outcomes given appropriate training data.
+
+@&#CONCLUSIONS@&#

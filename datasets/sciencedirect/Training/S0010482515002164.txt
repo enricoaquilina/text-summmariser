@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Multimodal data and machine learning for surgery outcome prediction in complicated cases of mesial temporal lobe epilepsy
+
+@&#HIGHLIGHTS@&#
+Machine learning with multimodal data can accurately predict postsurgical outcome in patients with drug resistant mesial temporal lobe epilepsy.Features resulting from quantitative analysis of structural MRI and intracranial EEG are informative predictors of postsurgical outcome.Least-square support vector machine with radial basis function kernel resulted in optimal prediction.Clinical factors such as family history of epilepsy and duration of epilepsy significantly affect the chance of seizure freedom post epilepsy surgery.
+
+@&#KEYPHRASES@&#
+Mesial temporal epilepsy,Surgical outcome prediction,Supervised learning,Mutual information,
+
+@&#ABSTRACT@&#
+BackgroundThis study sought to predict postsurgical seizure freedom from pre-operative diagnostic test results and clinical information using a rapid automated approach, based on supervised learning methods in patients with drug-resistant focal seizures suspected to begin in temporal lobe.MethodWe applied machine learning, specifically a combination of mutual information-based feature selection and supervised learning classifiers on multimodal data, to predict surgery outcome retrospectively in 20 presurgical patients (13 female; mean age±SD, in years 33±9.7 for females, and 35.3±9.4 for males) who were diagnosed with mesial temporal lobe epilepsy (MTLE) and subsequently underwent standard anteromesial temporal lobectomy. The main advantage of the present work over previous studies is the inclusion of the extent of ipsilateral neocortical gray matter atrophy and spatiotemporal properties of depth electrode-recorded seizures as training features for individual patient surgery planning.ResultsA maximum relevance minimum redundancy (mRMR) feature selector identified the following features as the most informative predictors of postsurgical seizure freedom in this study’s sample of patients: family history of epilepsy, ictal EEG onset pattern (positive correlation with seizure freedom), MRI-based gray matter thickness reduction in the hemisphere ipsilateral to seizure onset, proportion of seizures that first appeared in ipsilateral amygdala to total seizures, age, epilepsy duration, delay in the spread of ipsilateral ictal discharges from site of onset, gender, and number of electrode contacts at seizure onset (negative correlation with seizure freedom). Using these features in combination with a least square support vector machine (LS-SVM) classifier compared to other commonly used classifiers resulted in very high surgical outcome prediction accuracy (95%).ConclusionsSupervised machine learning using multimodal compared to unimodal data accurately predicted postsurgical outcome in patients with atypical MTLE.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

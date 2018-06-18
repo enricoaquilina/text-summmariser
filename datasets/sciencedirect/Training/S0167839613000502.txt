@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+
+
+@&#HIGHLIGHTS@&#
+Two special syzygies for complex rational curves.A fast algorithm to compute a μ-basis for complex rational curves.An algorithm to determine if a real rational curve has a complex rational parametrization.
+
+@&#KEYPHRASES@&#
+Complex rational curve,Singularity,Syzygy,μ-Basis,
+
+@&#ABSTRACT@&#
+We present a fast algorithm for finding a μ-basis for any rational planar curve that has a complex rational parametrization. We begin by identifying two canonical syzygies that can be extracted directly from any complex rational parametrization without performing any additional calculations. For generic complex rational parametrizations, these two special syzygies form a μ-basis for the corresponding real rational curve. In those anomalous cases where these two canonical syzygies do not form a μ-basis, we show how to quickly calculate a μ-basis by performing Gaussian elimination on these two special syzygies. We also present an algorithm to determine if a real rational planar curve has a complex rational parametrization. Examples are provided to illustrate our methods.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

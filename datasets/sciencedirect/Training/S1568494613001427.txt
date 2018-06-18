@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Predicting algorithmic complexity through structure analysis and compression
+
+@&#HIGHLIGHTS@&#
+Input size is a poor metric for predicting algorithm runtime on NP-hard problems.The compressed size of the input is a much better basis for predicting algorithm runtime.We devise a genetic algorithm for compressing a graph by evolving a compact description of its structure.Compression with our algorithm yields better runtime prediction, compared to general compression programs.
+
+@&#KEYPHRASES@&#
+Algorithm complexity,Compression,Genetic algorithm,Graph coloring,#SAT,
+
+@&#ABSTRACT@&#
+The complexity of an algorithm is usually specified by the maximum number of steps made by the algorithm, as a function of the size of the input. However, as different inputs of equal size can yield dramatically different algorithm runtime, the size of the input is not always an appropriate basis for predicting algorithm runtime. In this paper, we argue that the compressed size of the input is more appropriate for this purpose. In particular, we devise a genetic algorithm for compressing a graph by finding the most compact description of its structure, and we demonstrate how the compressed size of the problem instance correlates with the runtime of an exact algorithm for two hard combinatorial problems (graph coloring and Boolean satisfiability).
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

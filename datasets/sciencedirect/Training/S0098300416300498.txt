@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Gamra: Simple meshing for complex earthquakes
+
+@&#HIGHLIGHTS@&#
+We present Gamra, a freely available tool for realistic earthquake modeling.Gamra uses a novel method to model faults without conforming meshes.Gamra scales to the largest problems using parallel adaptive mesh refinement.We document performance with a high precision model of the Mw 7.3 Landers earthquake.
+
+@&#KEYPHRASES@&#
+Immersed Interface Method,Earthquakes,Fault systems,Elastostatics,Adaptive mesh refinement,Parallel computing,
+
+@&#ABSTRACT@&#
+The static offsets caused by earthquakes are well described by elastostatic models with a discontinuity in the displacement along the fault. A traditional approach to model this discontinuity is to align the numerical mesh with the fault and solve the equations using finite elements. However, this distorted mesh can be difficult to generate and update. We present a new numerical method, inspired by the Immersed Interface Method (Leveque and Li, 1994), for solving the elastostatic equations with embedded discontinuities. This method has been carefully designed so that it can be used on parallel machines on an adapted finite difference grid. We have implemented this method in Gamra, a new code for earth modeling. We demonstrate the correctness of the method with analytic tests, and we demonstrate its practical performance by solving a realistic earthquake model to extremely high precision.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

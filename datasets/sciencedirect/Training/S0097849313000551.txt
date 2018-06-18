@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Evaluating 3D spatial pyramids for classifying 3D shapes
+
+@&#HIGHLIGHTS@&#
+We introduce the 3D spatial pyramid representation for 3D shape categorization.This pyramid representation repeatedly subdivides a cube inscribed in the 3D shape.Then, a weighted sum of histogram of visual word occurrences is computed.Different types of kernels are integrated into the approach for training a SVM.Results on publicly available benchmarks have been reported.
+
+@&#KEYPHRASES@&#
+3D shape recognition,3D spatial pyramids,3D SURF descriptors,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+3D shape classification is a fundamental task to access existing 3D models on the level of object categories. This is specially important, if we take into account that the number of 3D models is growing rapidly, due to the fast evolution in both graphics hardware and software for 3D model acquisition and manipulation (e.g.[1–4]).Recently, a novel approach, the 3D Spatial Pyramid Matching Kernel (3DSPMK) [5], has been introduced for object recognition in point clouds. Inspired by this work, we extend the original approach to be used in the context of category-level 3D shape recognition. First, we generalize the formulation of the 3DSPMK to arbitrary kernels, note that in [5] only the Histogram Intersection Kernel (HIK) is considered. This way, we propose a holistic representation for 3D shapes defining a general 3D Spatial Pyramid (3DSP) decomposition which can be used with multiple kernels, such as the extended Gaussian Kernel with theχ2distance. Note these kernels have shown promising results in image categorization [6].We formulate a discriminative approach for recognizing 3D shape categories which is depicted in Fig. 1. We start extracting 3D local descriptors (e.g.3D SURF [7] descriptors) from 3D shapes. These descriptors are then quantized, e.g. using K-means, so as to obtain a 3D visual vocabulary. Essentially, we build a Bag-of-Words (BoW) representation [8,9], which is a popular strategy for representing images, within the context of image categorization. Therefore, this visual vocabulary is used to represent the shapes following a BoW approach. The 3DSP repeatedly subdivides a cube inscribed in the 3D shape, and computes a weighted sum of histogram of visual word occurrences at increasingly fine sub-volumes. Selective volume decomposition strategies are used, as in [5], which drastically reduce the volume to consider, while the performance does not decrease.In order to offer to the research community a clear benchmark for establishing further comparisons among different 3D shape categorization methods, we also propose an elaborate experimental setup using different publicly available datasets (SHREC'12 [10], Princeton Shape Benchmark [11], TOSCA [12] and Sumner[13]). We perform a thorough evaluation of our novel approach on this experimental setup.The rest of the paper is organized as follows. Section 2 describes related work. The 3DSP is detailed in Section 3. The experimental setup and results are presented in Sections 4 and 5, respectively. We conclude in Section 6.
+
+@&#CONCLUSIONS@&#

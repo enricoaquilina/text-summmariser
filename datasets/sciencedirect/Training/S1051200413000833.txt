@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Multistage A2LVQ architecture and implementation for image compression
+
+@&#HIGHLIGHTS@&#
+We implement two hardware architectures, i.e., A2 Lattice Vector Quantization (LVQ) and Multistage A2LVQ (MA2LVQ).Implementations are based on Field-Programmable Gate Array (FPGA).A multistage A2LVQ (MA2LVQ) architecture is implemented based on single A2LVQ.
+
+@&#KEYPHRASES@&#
+A2 lattice,FPGA,VLSI architecture,Vector quantization,
+
+@&#ABSTRACT@&#
+This paper presents the implementation of two hardware architectures, i.e., A2 Lattice Vector Quantization (LVQ) and Multistage A2LVQ (MA2LVQ), using a Field-Programmable Gate Array (FPGA). First, the renowned LVQ quantizer by Conway and Sloane is implemented followed by a low-complexity A2LVQ based on a new A2LVQ algorithm. It is revealed that the implementation requires high number of multiplier circuits. Then the implementation of a low-complexity A2LVQ is presented. This implementation uses only the first quadrant of the A2 lattice Voronoi region formed by W and T regions. This paper also presents the implementation of a multistage A2LVQ (MA2LVQ) with an architecture built from successive A2 quantizer blocks. Synthesis results show that the execution time of the low-complexity A2LVQ reaches up to 35.97 ns. The MA2LVQ is implemented using both low-complexity A2LVQ and ordinary A2 architectures. The system with the former architecture utilizes less logic and register elements by 47%.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

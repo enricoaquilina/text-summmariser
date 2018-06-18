@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Word segmentation and pronunciation extraction from phoneme sequences through cross-lingual word-to-phoneme alignment
+
+@&#HIGHLIGHTS@&#
+Human translations guided language discovery for speech processing.Pronunciation extraction for non-written languages using cross-lingual information.Alignment model Model 3P for cross-lingual word-to-phoneme alignment.Algorithm to deduce phonetic transcriptions of words from Model 3P alignments.Analysis of appropriate source languages based on efficient evaluation measures.
+
+@&#KEYPHRASES@&#
+Pronunciation dictionary,Non-written languages,Lexical language discovery,Under-resourced languages,Speech-to-speech translation,Word segmentation,
+
+@&#ABSTRACT@&#
+In this paper, we study methods to discover words and extract their pronunciations from audio data for non-written and under-resourced languages. We examine the potential and the challenges of pronunciation extraction from phoneme sequences through cross-lingual word-to-phoneme alignment. In our scenario a human translator produces utterances in the (non-written) target language from prompts in a resource-rich source language. We add the resource-rich source language prompts to help the word discovery and pronunciation extraction process. By aligning the source language words to the target language phonemes, we segment the phoneme sequences into word-like chunks. The resulting chunks are interpreted as putative word pronunciations but are very prone to alignment and phoneme recognition errors. Thus we suggest our alignment model Model 3P that is particularly designed for cross-lingual word-to-phoneme alignment. We present two different methods (source word dependent and independent clustering) that extract word pronunciations from word-to-phoneme alignments and compare them. We show that both methods compensate for phoneme recognition and alignment errors. We also extract a parallel corpus consisting of 15 different translations in 10 languages from the Christian Bible to evaluate our alignment model and error recovery methods. For example, based on noisy target language phoneme sequences with 45.1% errors, we build a dictionary for an English Bible with a Spanish Bible translation with 4.5% OOV rate, where 64% of the extracted pronunciations contain no more than one wrong phoneme. Finally, we use the extracted pronunciations in an automatic speech recognition system for the target language and report promising word error rates – given that pronunciation dictionary and language model are learned completely unsupervised and no written form for the target language is required for our approach.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

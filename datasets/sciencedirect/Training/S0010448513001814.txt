@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Precise convex hull computation for freeform models using a hierarchical Gauss map and a Coons bounding volume hierarchy
+
+@&#HIGHLIGHTS@&#
+Present an interactive-speed algorithm for computing the precise convex hull of freeform geometric models.Employing two pre-built data structures, a hierarchical Gauss map and a Coons bounding volume hierarchy, we develop an efficient culling technique that can eliminate the majority of redundant surface patches.Construct the precise convex hull boundary using numerical methods.
+
+@&#KEYPHRASES@&#
+Convex hulls,Freeform surfaces,Support distance,Upper envelope,Stereographic projection,Tritangent,Developable scroll,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+Convex hull computation has a long history of development and it plays an important role in the design of many efficient geometric algorithms  [1]. Algorithms for convex objects are usually more efficient than for non-convex ones. Consequently, geometric tests on convex hulls are often applied beforehand to filter out simple cases where no further computation is needed for general non-convex objects. For example, the shape matching between two convex hulls is typically a necessary condition for the matching between two objects under comparison.To the best of our knowledge, there is no previous interactive-speed algorithm for computing the convex hull of freeform geometric models. In this work, we present an efficient solution to this problem using two pre-built data structures: one for a hierarchy of bilinear surface approximations and the other for a hierarchy of unit normal bounds on the Gaussian sphere.A simple way of characterizing the convex hull boundary is as a set of surface points which are extremal along each normal direction  [2–4]. The support distance function, mapping each surface point to the inner product of the position vector and the unit normal vector, is an equivalent way of characterizing the extremality condition. Using the upper envelope of the support distance functions, Kim et al.  [3] developed a real-time convex hull algorithm for planar freeform curves. We take a similar approach, but the main difference is in the hierarchical representations of the surface approximations and the Gaussian map.The main contributions of this work can be summarized as follows:–A simple technique is introduced that constructs an approximate convex hull boundary as color-encoded images of the upper envelope using graphics rendering hardware.An efficient interior culling algorithm is proposed that can eliminate the majority of redundant surface patches.The implemented algorithm can compute the convex hull of freeform geometric models in an interactive speed.
+
+@&#CONCLUSIONS@&#
+In this paper, we have presented an interactive-speed algorithm for computing the convex hull of freeform surface models. We have reformulated the convex hull computation as a simple problem of constructing the upper envelope of support distance functions defined by the given surfaces. Using a CBVH for freeform surfaces and their normal cones and a hierarchical tessellation of the Gaussian sphere, we have shown that an efficient convex hull algorithm can be developed while greatly improving both the efficiency and robustness of the previous algorithm. In the future work, we plan to apply the convex hull algorithm to the dual of freeform surfaces and compute the kernel of freeform models  [16].

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Modeling piecewise helix curves from 2D sketches
+
+@&#HIGHLIGHTS@&#
+Our method reconstructs a piecewise helix curve from a 2D sketch.Helices are computed such that their projection matches the 2D curve.An optimization is performed to minimize the tangent discontinuity of the helices.
+
+@&#KEYPHRASES@&#
+3D reconstruction,Piecewise helix,Sketch-based modeling,
+
+@&#ABSTRACT@&#
+We describe a method for a reconstructing piecewise helix curve from its 2D sketch. The system takes as input a hand-drawn polygonal curve and generates a piecewise helix curve such that its orthogonal projection matches the input curve. The first step is an algorithm to generate a set of helices such that their orthogonal projection approximates the input curve. This step is followed by a global optimization to minimize the tangent discontinuity of the junctions of the helices while keeping the fitting error small.
+
+@&#INTRODUCTION@&#
+Helices are curves whose curvature and torsion are constant. These curves are very common in nature and among man-made objects: hair curls, coiled phone cords, spring coils, tendrils of climbing plants, etc. In this paper, we present a method to fit a curve which is the orthogonal projection of a piecewise helix curve to a 2D polygonal curve provided by the user. The main difficulty resides in the fact that the helix and the curve that is the projection of the helix have different curvature.
+
+@&#CONCLUSIONS@&#

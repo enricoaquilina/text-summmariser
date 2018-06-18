@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Multi-criteria robust design of a JIT-based cross-docking distribution center for an auto parts supply chain
+
+@&#HIGHLIGHTS@&#
+Involve discrete-event simulation, robust optimization and bootstrapping.Integrate RSM and LHS for robust design to implement JIT in auto industry.Tackle multiple performance metrics and identify optimal SC configuration.Result in robust solutions with smaller variability and stable outputs.
+
+@&#KEYPHRASES@&#
+Cross docking,Supply chain simulation,Robust optimization,Response surface methodology,Latin hypercube sampling,Bootstrapping,
+
+@&#ABSTRACT@&#
+We present a solution framework based on discrete-event simulation and enhanced robust design technique to address a multi-response optimization problem inherent in logistics management. The objective is to design a robust configuration for a cross-docking distribution center so that the system is insensitive to the disturbances of supply uncertainty, and provides steady parts supply to downstream assembly plants. In the proposed approach, we first construct a simulation model using factorial design and central composite design (CCD), and then identify the models that best describe the relationship between the simulation responses and system factors. We employ the response surface methodology (RSM) to identify factor levels that would maximize system potential.To make the system immune to factors that could adversely affect performance, we propose a robust design approach by incorporating Latin hypercube sampling and take the noise factors (disturbances) into account. Due to the need of accommodating multiple performance measures and to ensure all responses stay within the desired targets, we adapt Derringer–Suich’s desirability function to determine the optimal operating conditions. Finally, we use bootstrapping to compare the results obtained by the classic RSM and the proposed robust design. The proposed model helps the studied auto parts supply chain to develop insights into the system dynamics, and to identify the operating setting that minimize the impact of supply uncertainty on the performance of the cross-docking facility.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

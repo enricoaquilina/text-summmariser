@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Refining a Bayesian Network using a Chain Event Graph
+
+@&#HIGHLIGHTS@&#
+It is demonstrated on a real health study how the CEG can refine an initial BN analysis.Equivalent scoring methods allow for direct comparison between models.The CEG leads to higher scoring models from which more refined conclusions are made.
+
+@&#KEYPHRASES@&#
+Chain Event Graphs,Bayesian Networks,Bayesian model selection,Causality,
+
+@&#ABSTRACT@&#
+The search for a useful explanatory model based on a Bayesian Network (BN) now has a long and successful history. However, when the dependence structure between the variables of the problem is asymmetric then this cannot be captured by the BN. The Chain Event Graph (CEG) provides a richer class of models which incorporates these types of dependence structures as well as retaining the property that conclusions can be easily read back to the client. We demonstrate on a real health study how the CEG leads us to promising higher scoring models and further enables us to make more refined conclusions than can be made from the BN. Further we show how these graphs can express causal hypotheses about possible interventions that could be enforced.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

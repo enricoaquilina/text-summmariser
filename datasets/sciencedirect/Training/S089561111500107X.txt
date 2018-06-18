@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Mass-spring systems for simulating mitral valve repair using 3D ultrasound images
+
+@&#HIGHLIGHTS@&#
+We present a mass-spring model for simulating mitral valve repair.The patient-specific model geometry is based on pre-surgical 3D TEE images.We use a rest-length estimation algorithm for modeling of the tendinous cords.A comparison with post-surgical 3D TEE images proves the feasibility of our approach.Our simulation is faster than comparable state-of-the-art finite-element simulations.
+
+@&#KEYPHRASES@&#
+Mitral valve annuloplasty,Patient-specific anatomy,Mass-spring model,Image-based therapy planning,
+
+@&#ABSTRACT@&#
+Mitral valve (MV) diseases are among the most common types of heart diseases, while heart diseases are the most common cause of death worldwide. MV repair surgery is connected to higher survival rates and fewer complications than the total replacement of the MV, but MV repair requires extensive patient-specific therapy planning. The simulation of MV repair with a patient-specific model could help to optimize surgery results and make MV repair available to more patients. However, current patient-specific simulations are difficult to transfer to clinical application because of time-constraints or prohibitive requirements on the resolution of the image data. As one possible solution to the problem of patient-specific MV modeling, we present a mass-spring MV model based on 3D transesophageal echocardiographic (TEE) images already routinely acquired for MV repair therapy planning. Our novel approach to the rest-length estimation of springs allows us to model the global support of the MV leaflets through the chordae tendinae without the need for high-resolution image data. The model is used to simulate MV annuloplasty for five patients undergoing MV repair, and the simulated results are compared to post-surgical TEE images. The comparison shows that our model is able to provide a qualitative estimate of annuloplasty surgery. In addition, the data suggests that the model might also be applied to simulating the implantation of artificial chordae.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+The mass-spring MV model presented here is a first step in improving surgery planning for MV repair surgery. Our model is based on 3D TEE image data, which is already routinely acquired and used for surgery planning. While further research is necessary to fully judge the capability of our model for the simulation of MV repair surgery, the results of our comparison show that annuloplasty simulation with a mass-spring model based on 3D TEE image data is feasible.Marcus Schreckenberg and Georg Schummers are employed at TomTec Imaging Systems GmbH (Unterschleißheim, Germany). Stephan Skornitzke was employed at TomTec Imaging Systems GmbH (Unterschleißheim, Germany) during part of this research. The other authors declare no conflicts of interest.

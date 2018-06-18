@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Automatic generation of LEGO building instructions from multiple photographic images of real objects
+
+@&#HIGHLIGHTS@&#
+Even beginners are able to build realistic complex LEGO models.Our system allows reconstruction of portable large scale models with color information.Easy adjustment of the trade-off between model strength and the total number of bricks is possible.
+
+@&#KEYPHRASES@&#
+3D reconstruction,LEGO,Shape from silhouette,Simulated annealing,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+LEGO has attracted many people, as a toy, as a hobby, even as an educational tool for all generations all over the world. However, the design and construction of large scale LEGO models is not easy for beginners. Here we define “large scale” models as those consisting of 1000–10,000 bricks. The upper limit comes from the portability of the models. We present a method for reconstructing a LEGO model from several two dimensional (2D) images of a complex object taken from different views so that even beginners are able to build realistic complex models. The data acquisition system consists of a camera on a tripod and a computer-controlled turntable, as shown in Fig. 1. We employ the shape from silhouette (SFS) method that reconstructs an octree voxel-based 3D model with color information from images. In addition, we employ a unit voxel with an edge length ratio of 5:5:6, which is the ratio used for a unit LEGO brick, instead of the 1:1:1 ratio used in the traditional SFS method. The resulting solid voxel model, consisting of unit voxels with edge length ratios of 5:5:6, are then converted to a hollow LEGO model consisting of larger bricks with interior supports based on the stochastic global optimization method, simulated annealing (SA). The hollowed LEGO models are in average 30% lighter than the solid ones and have strength for portability.This paper makes the following contributions:•We introduce a novel system to reconstruct portable large scale LEGO models with color information from 2D images of complex objects using SFS and by exploring the search space using SA.Our algorithm allows for easy adjustment of the trade-off between model strength and the total number of bricks used for construction. This leads us to design a lighter model without losing its strength for portability.The remaining part of this paper is organized as follows. In Section  2, we review related work. In Section  3, we present a method to reconstruct a solid LEGO model consisting of unit LEGO bricks from several 2D images. The solid LEGO model is converted to a hollow model consisting of larger bricks using SA in Section  4. The energy functionals used in the SA are discussed in Section  5. In Section  6, we demonstrate the effectiveness of our method using some complex examples. Finally, we conclude the paper in Section  7.
+
+@&#CONCLUSIONS@&#

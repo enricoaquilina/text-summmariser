@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Purely vision-based segmentation of web pages for assistive technology
+
+@&#HIGHLIGHTS@&#
+We use a novel vision-based method to analyze the layout of a web page.Our method produces a hierarchical segmentation of the page reflecting its structure.Vision-based methods are not sensitive to implementation language or complexity.The visual presentation of a page provides rich information about semantic structure.This structure can help create modified presentations for users with assistive needs.
+
+@&#KEYPHRASES@&#
+Webpage segmentation,Edge detection,Assistive technology for the visually impaired,the ageing population and those with cognitive deficit,
+
+@&#ABSTRACT@&#
+We propose a system for analyzing the structure of a web page based on purely visual information, rather than on implementation details. This is advantageous because regardless of the complexity of the underlying implementation, the web page is designed to be easily interpreted visually. Our method produces a hierarchical segmentation reflecting the visual structure of the rendered page. This rich information about the presentation of the web page can be used by other systems which produce alternate presentations more suitable for users with visual or cognitive disabilities.
+
+@&#INTRODUCTION@&#
+We begin with a general overview of our proposed research into vision-based segmentation of web pages, clarifying the anticipated benefit for users with assistive needs. We then focus more specifically on the computer vision research, highlighting the main elements of what we are proposing and their intended contribution.
+
+@&#CONCLUSIONS@&#

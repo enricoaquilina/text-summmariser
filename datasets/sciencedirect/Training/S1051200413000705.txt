@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+New generalized conversion method of the MDCT to MDST coefficients in the frequency domain for arbitrary symmetric windowing function
+
+@&#HIGHLIGHTS@&#
+Generalized conversion method of MDCT to MDST coefficients directly in the frequency domain for arbitrary symmetric windowing function is proposed.Given MDCT coefficients of three consecutive blocks, MDST coefficients are obtained by combining MDCT coefficients via conversion matrices.The conversion matrices have very regular structure and matrix-vector products are reduced to simple analytical formulas.
+
+@&#KEYPHRASES@&#
+Modified discrete cosine transform,Modified discrete sine transform,Modulated complex lapped transform,Exact conversion method,Approximate conversion method,
+
+@&#ABSTRACT@&#
+A new generalized conversion method of the MDCT to MDST coefficients directly in the frequency domain is proposed for arbitrary symmetric windowing function. Based on the compact block matrix representation of the MDCT and MDST filter banks, on their properties and on relations among transform sub-matrices, a relation in the matrix-vector form between the MDCT and MDST coefficients in the frequency domain is derived. Given MDCT coefficients of three consecutive data blocks at a decoder, the MDST coefficients of the current data block can be obtained by combining the MDCT coefficients of the previous, current and next blocks via conversion matrices. Since the forms of conversion matrices depend on the employed windowing function, a specific solution for each windowing function is derived. Because the conversion matrices have a very regular structure, the matrix-vector products are reduced to simple analytical formulas. The new generalized conversion method is more efficient and structurally simpler both in terms of arithmetic complexity and memory requirements compared to existing exact frequency domain-based conversion methods. Although the new generalized conversion method enables us to compute the exact MDST coefficients only in specified one or more frequency ranges, the computation of complete set of MDST coefficients still requires a high number of arithmetic operations. As an alternative, an efficient and flexible approximate conversion method is constructed. With properly selected parameters it can produce acceptable approximated results with much lower computational complexity. Therefore, the approximate conversion method has a potential to be used in many MDCT-based audio decoders, and particularly at resource-limited and low-cost decoders for spectral analysis to obtain the magnitude and phase information.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

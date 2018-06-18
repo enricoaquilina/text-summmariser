@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Covariate adjustment of cumulative incidence functions for competing risks data using inverse probability of treatment weighting
+
+@&#HIGHLIGHTS@&#
+We use inverse probability of treatment weighting, a propensity score based technique, for covariate adjustment of the cumulative incidence functions in competing risk analysis.This method requires no assumption about the form of the cumulative incidence functions and the interpretation of the adjusted cumulative incidence functions is intuitively appealing.We developed a SAS macro to make the method readily usable.
+
+@&#KEYPHRASES@&#
+Competing risks,Multiple-outcome data,Cumulative incidence function,Subdistribution function,Inverse probability of treatment weighting,Propensity score,
+
+@&#ABSTRACT@&#
+In observational studies without random assignment of the treatment, the unadjusted comparison between treatment groups may be misleading due to confounding. One method to adjust for measured confounders is inverse probability of treatment weighting. This method can also be used in the analysis of time to event data with competing risks. Competing risks arise if for some individuals the event of interest is precluded by a different type of event occurring before, or if only the earliest of several times to event, corresponding to different event types, is observed or is of interest. In the presence of competing risks, time to event data are often characterized by cumulative incidence functions, one for each event type of interest. We describe the use of inverse probability of treatment weighting to create adjusted cumulative incidence functions. This method is equivalent to direct standardization when the weight model is saturated. No assumptions about the form of the cumulative incidence functions are required. The method allows studying associations between treatment and the different types of event under study, while focusing on the earliest event only. We present a SAS macro implementing this method and we provide a worked example.
+
+@&#INTRODUCTION@&#
+In observational studies without random assignment of the treatment, the unadjusted comparison between treatment groups may be misleading due to confounding. One method to adjust for measured confounders is inverse probability of treatment weighting [1,2]. This general approach has been applied in many settings, e.g., to adjust survival curves for time to event data [3].In time to event analysis, competing risks may be a concern. They arise if for some individuals the event of interest is precluded by a different type of event occurring before, or if only the earliest of several times to event, corresponding to different event types, is observed or is of interest. In the presence of competing risks, the data may be characterized by the cumulative incidence functions, one for each event type.In this paper, we describe the use of inverse probability of treatment weighting to create adjusted cumulative incidence functions, we present a SAS macro implementing this method and provide a worked example.
+
+@&#CONCLUSIONS@&#

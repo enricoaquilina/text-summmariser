@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Using natural language processing to extract mammographic findings
+
+@&#HIGHLIGHTS@&#
+We developed and evaluated a rule-based natural language processing system.The NLP system extracts mammographic findings from free-text mammography reports.Manual review showed that the NLP system performs reasonably well.We developed confidence flags to facilitate further manual review.The NLP system was implemented entirely in SAS Base with SAS code available.
+
+@&#KEYPHRASES@&#
+Natural language processing,SAS-based,Evaluation,Mammographic findings,
+
+@&#ABSTRACT@&#
+ObjectiveStructured data on mammographic findings are difficult to obtain without manual review. We developed and evaluated a rule-based natural language processing (NLP) system to extract mammographic findings from free-text mammography reports.Materials and MethodsThe NLP system extracted four mammographic findings: mass, calcification, asymmetry, and architectural distortion, using a dictionary look-up method on 93,705 mammography reports from Group Health. Status annotations and anatomical location annotation were associated to each NLP detected finding through association rules. After excluding negated, uncertain, and historical findings, affirmative mentions of detected findings were summarized. Confidence flags were developed to denote reports with highly confident NLP results and reports with possible NLP errors. A random sample of 100 reports was manually abstracted to evaluate the accuracy of the system.ResultsThe NLP system correctly coded 96–99 out of our sample of 100 reports depending on findings. Measures of sensitivity, specificity and negative predictive values exceeded 0.92 for all findings. Positive predictive values were relatively low for some findings due to their low prevalence.DiscussionOur NLP system was implemented entirely in SAS Base, which makes it portable and easy to implement. It performed reasonably well with multiple applications, such as using confidence flags as a filter to improve the efficiency of manual review. Refinements of library and association rules, and testing on more diverse samples may further improve its performance.ConclusionOur NLP system successfully extracts clinically useful information from mammography reports. Moreover, SAS is a feasible platform for implementing NLP algorithms.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+Our SAS-based NLP system performed well in automatically processing free-text mammography reports and accurately identifying four categories of mammographic findings. Our results suggest that mammographic findings can be successfully extracted from free-text mammography reports using NLP implemented in SAS Base.

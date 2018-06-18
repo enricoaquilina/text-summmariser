@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Identifying high-cost patients using data mining techniques and a small set of non-trivial attributes
+
+@&#HIGHLIGHTS@&#
+We used data mining techniques to build predictive models to identify very high-cost patients.A refined Medical Expenditure Panel Survey dataset of 31,704 records was modeled.CHAID was the top performing predictive model.Created a set of 5 non-trivial attributes to identify the top 5% of high cost patients.The results of this study can improve the delivery of health services.
+
+@&#KEYPHRASES@&#
+Healthcare expenditures,Predictive models,Data mining,Decision tree,Medical Expenditure Panel Survey,
+
+@&#ABSTRACT@&#
+In this paper, we use data mining techniques, namely neural networks and decision trees, to build predictive models to identify very high-cost patients in the top 5 percentile among the general population. A large empirical dataset from the Medical Expenditure Panel Survey with 98,175 records was used in our study. After pre-processing, partitioning and balancing the data, the refined dataset of 31,704 records was modeled by Decision Trees (including C5.0 and CHAID), and Neural Networks. The performances of the models are analyzed using various measures including accuracy, G-mean, and Area under ROC curve. We concluded that the CHAID classifier returns the best G-mean and AUC measures for top performing predictive models ranging from 76% to 85%, and 0.812 to 0.942 units, respectively. We also identify a small set of 5 non-trivial attributes among a primary set of 66 attributes to identify the top 5% of the high cost population. The attributes are the individual׳s overall health perception, age, history of blood cholesterol check, history of physical/sensory/mental limitations, and history of colonic prevention measures. The small set of attributes are what we call non-trivial and does not include visits to care providers, doctors or hospitals, which are highly correlated with expenditures and does not offer new insight to the data. The results of this study can be used by healthcare data analysts, policy makers, insurer, and healthcare planners to improve the delivery of health services.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this research, we built multiple data mining models to predict very high-cost individuals in the top 5 percentile among General populations in the MEPS dataset. The CHAID decision tree classifier performs more accurate, and returns higher G-mean and AUC values compared to other classifiers including C5 decision trees and neural networks. We also identified the following 5 attributes as the small set of attributes to proactively predict very high-cost percentile (top 5 percentile of costs) instances among the general population (ranked according to their estimating power and relevance in the final model): RTHLTH: perceived health status; AGE: age of the individual in years; ANYLIM: presence of any limitation (physical, sensory, or cognitive) in individual; BOWEL: time elapsed since last sigmoidoscopy/colonoscopy; and CHOLCK: time elapsed since last blood cholesterol check. This small set of attributes includes non-trivial, but easy-to-survey measures of self-perception of health, age, along with two preventive health indicators (history of blood cholesterol checks, and colonic preventive interventions) and presence or absence of any physical, sensory, or cognitive limitations. Consequently, the results of this study are useful for policy makers, health planners, and insurers to proactively plan the delivery of healthcare services.

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Curve design with more general planar Pythagorean-hodograph quintic spiral segments
+
+@&#HIGHLIGHTS@&#
+Earlier characterisations of PH quintic spirals are generalised to avoid an endpoint of zero curvature.The analysis allows the design of C-shaped PH quintic curves without flatspots.Techniques for designing fair curves using these new spiral segments are presented.
+
+@&#KEYPHRASES@&#
+Pythagorean-hodograph quintic,Spiral,Bézier curve,
+
+@&#ABSTRACT@&#
+Spiral segments are useful in the design of fair curves. They are important in CAD/CAM applications, the design of highway and railway routes, trajectories of mobile robots and other similar applications. The quintic Pythagorean-hodograph (PH) curve discussed in this article is polynomial; it has the attractive properties that its arc-length is a polynomial of its parameter, and the formula for its offset is a rational algebraic expression. This paper generalises earlier results on planar PH quintic spiral segments and examines techniques for designing fair curves using the new results.
+
+@&#INTRODUCTION@&#
+Curvature continuous curves with curvature extrema only at specified locations are desirable for applications such as the design of highway or railway routes, or the trajectories of mobile robots. Such curves are referred to as being fair (Farin, 1997). Fair curves and surfaces are also desirable in the design of consumer products and several other computer-aided design (CAD) and computer-aided geometric design (CAGD) applications (Sapidis, 1994).Spirals are fair because they have no internal curvature extrema. The cubic Bézier and Pythagorean-hodograph (PH) quintic spirals were developed as polynomial alternatives to the clothoid (Walton and Meek, 1996a, 1996b). The Pythagorean-hodograph curve, introduced by Farouki and Sakkalis (1990), has the attractive properties that its arc-length is a polynomial of its parameter, and the formula for its offset is a rational algebraic expression. This makes it more suitable than other parametric polynomial curves for applications such as highway design, in which convenient expressions for the arc-length and offsets of curves are useful. PH quintics have been proposed in path planning for mobile robots (Bruyninckx and Reynaerts, 1997).The original PH quintic spiral (Walton and Meek, 1996b) has since been generalised in Farouki (1997), Walton and Meek (1998, 2007). These spirals have a point of zero curvature at one endpoint. A further generalisation which is more flexible than those, and which is not restricted to having a point of zero curvature at an endpoint, is now proposed; it is similar to the generalised cubic spiral segment presented in Walton and Meek (2012). Techniques for designing fair curves using these more general PH quintic spiral segments are also presented.Assuming, without loss of generality, that a spiral of non-negative curvature is desired, the designer is presented with regions for placing control points. The control points may be placed to obtain a spiral of decreasing curvature with or without a point of zero curvature at its endpoint, or a spiral of increasing curvature from a point with a given curvature.
+
+@&#CONCLUSIONS@&#

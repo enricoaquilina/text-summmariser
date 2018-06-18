@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Automation of a high risk medication regime algorithm in a home health care population
+
+@&#HIGHLIGHTS@&#
+Automated algorithm that predicts re-hospitalization risks for elderly patients.Created tool that automatically maps patient drug data to coding standards.Designed tools for easy replication by different health care information systems.Achieved accurate results that matched manual study of same patient population.
+
+@&#KEYPHRASES@&#
+Rehospitalization,Avoidable readmission,High Risk Medication Regimen,Home health care,Algorithm,RXNorm,
+
+@&#ABSTRACT@&#
+ObjectiveCreate an automated algorithm for predicting elderly patients’ medication-related risks for readmission and validate it by comparing results with a manual analysis of the same patient population.Materials and methodsOutcome and Assessment Information Set (OASIS) and medication data were reused from a previous, manual study of 911 patients from 15 Medicare-certified home health care agencies. The medication data was converted into standardized drug codes using APIs managed by the National Library of Medicine (NLM), and then integrated in an automated algorithm that calculates patients’ high risk medication regime scores (HRMRs). A comparison of the results between algorithm and manual process was conducted to determine how frequently the HRMR scores were derived which are predictive of readmission.ResultsHRMR scores are composed of polypharmacy (number of drugs), Potentially Inappropriate Medications (PIM) (drugs risky to the elderly), and Medication Regimen Complexity Index (MRCI) (complex dose forms, instructions or administration). The algorithm produced polypharmacy, PIM, and MRCI scores that matched with 99%, 87% and 99% of the scores, respectively, from the manual analysis.DiscussionImperfect match rates resulted from discrepancies in how drugs were classified and coded by the manual analysis vs. the automated algorithm. HRMR rules lack clarity, resulting in clinical judgments for manual coding that were difficult to replicate in the automated analysis.ConclusionThe high comparison rates for the three measures suggest that an automated clinical tool could use patients’ medication records to predict their risks of avoidable readmissions.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+An integrated mathematical model for solving dynamic cell formation problem considering operator assignment and inter/intra cell layouts
+
+@&#HIGHLIGHTS@&#
+Developing a new mathematical model for integrating dynamic cell formation problem.Linearizing the proposed model by employing a number of auxiliary variables.Solving the model by a multi-objective vibration damping optimization algorithm.Comparing the MOVDO algorithm with MOSA algorithm by six multi-objective criteria.Applying Taguchi method for parameter setting.
+
+@&#KEYPHRASES@&#
+Dynamic cell formation,Operator assignment,Intra/inter cell layouts,Machine duplication,Multi-objective planning,Meta-heuristic algorithms,
+
+@&#ABSTRACT@&#
+The aim of this paper is to present an integrated mathematical model to solve the dynamic cell formation problem considering operator assignment and inter/intra cell layouts problems with machine duplication, simultaneously. The proposed model includes three objectives which the first objective seeks to minimize inter/intra cell part movements and machine relocation, the second objective minimizes machine and operator related costs and the third objective maximizes consecutive forward flows ratio. In order to validate the proposed model, a numerical example is presented and solved by the sum weighted method. Due to NP-hardness of the model, two meta-heuristics namely multi-objective simulated annealing (MOSA) and multi-objective vibration damping optimization (MOVDO) present to solve the proposed model. Finally, two algorithms have been compared using multi-objective criteria.
+
+@&#INTRODUCTION@&#
+Group Technology (GT) is a manufacturing philosophy based on grouping parts and machines together with respect to their similarities in production processes, functionalities, geometry, etc. Cellular manufacturing system (CMS) is an application of group technology in which parts and machines should be assigned to production cells related to their similarities in production process, design, etc. The designing of a CMS includes four main steps which each of them can be treated as a separate problem: The first decision is cell formation (CF) problem which concerns with grouping parts and machines in order to minimize some objectives such as inter and intra-cell movements. The second problem is finding the optimal layout of machines within cells and cells within the shop floor. The third problem is part scheduling problem within cells in order to minimize the total process completion time. The fourth problem is a resource assignment problem (such as operator assignment, etc.) in order to minimize some objectives such as training, hiring, firing, and salary costs. Reduction in product life cycle and variation in product mix and demands creates dynamic condition in the manufacturing systems. Therefore, an optimal cell design in a period may not be optimal for remaining periods in a dynamic environment. To overcome into the disadvantages of the traditional cellular manufacturing system, the concept of a dynamic cellular manufacturing system (DCMS) is presented. DCMS refers to the reconfiguration of manufacturing cells, including part families and machines group in each period.
+
+@&#CONCLUSIONS@&#

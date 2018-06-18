@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Active learning based segmentation of Crohns disease from abdominal MRI
+
+@&#HIGHLIGHTS@&#
+We propose an interactive method combining semi supervised learning (SSL) and active learning (AL) for segmenting Crohns disease affected regions in MRI.A novel query strategy for AL has been proposed that makes use of context information to identify query samples.Compared to fully supervised methods we obtain high segmentation accuracy with fewer samples and lesser computation time.Our method has the potential to be used in scenarios which pose difficulties in obtaining large numbers of accurately labeled data.
+
+@&#KEYPHRASES@&#
+Crohns disease,Segmentation,Semi supervised classification,Active learning,Graph cuts,Label query,
+
+@&#ABSTRACT@&#
+This paper proposes a novel active learning (AL) framework, and combines it with semi supervised learning (SSL) for segmenting Crohns disease (CD) tissues from abdominal magnetic resonance (MR) images. Robust fully supervised learning (FSL) based classifiers require lots of labeled data of different disease severities. Obtaining such data is time consuming and requires considerable expertise. SSL methods use a few labeled samples, and leverage the information from many unlabeled samples to train an accurate classifier. AL queries labels of most informative samples and maximizes gain from the labeling effort. Our primary contribution is in designing a query strategy that combines novel context information with classification uncertainty and feature similarity. Combining SSL and AL gives a robust segmentation method that: (1) optimally uses few labeled samples and many unlabeled samples; and (2) requires lower training time. Experimental results show our method achieves higher segmentation accuracy than FSL methods with fewer samples and reduced training effort.
+
+@&#INTRODUCTION@&#
+Crohns disease (CD) affects the digestive tract, and can be debilitating if not detected timely [1]. Early detection can help in rapid diagnosis, reduce time and cost for therapy planning, and improve quality of life of patients. The current reference standard for CD diagnosis is colonoscopy [2] which is invasive and poses the risk of bowel perforation, thus leading to exploration of non-invasive imaging techniques to assess CD e.g., magnetic resonance imaging (MRI) [3–5], ultrasound and computed tomography (CT) [6].In previous work we proposed a fully automatic machine learning (ML) method for detecting and segmenting CD from MRI [7,8]. The success of a robust automated system using fully supervised learning (FSL) depends upon the availability of sufficient numbers of correctly labeled samples covering a wide range of disease severities. Obtaining such data is challenging because: (1) finding qualified experts is difficult; and (2) manual annotations are time consuming. Under the above constraints we propose an active learning (AL) framework that queries the labels of training samples that would contribute most in designing a robust classifier. An important component of active learning systems is the query strategy to select the most “informative” sample. An excellent review of different query strategies is given in [9]. Compared to fully supervised methods our work aims to obtain higher segmentation accuracy using fewer informative samples.
+
+@&#CONCLUSIONS@&#

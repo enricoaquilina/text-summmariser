@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Integrated projects planning in IS departments: A multi-period multi-project selection and assignment approach with a computerized implementation
+
+@&#HIGHLIGHTS@&#
+The paper is an inter-disciplinary research of applying OR in projects management.Address a sustainability issue of handling continuous IS project demands in contemporary IT departments.Features mixed-integer-programming model to optimize the selection and assignment of projects on a multi-period, multi-project basis.It innovatively considers the losses due to unselecting or delaying projects in each time of selection and assignment.It implements a computerized solution that automatically enables the sustainability of continuous and cumulative selections and assignments.
+
+@&#KEYPHRASES@&#
+Project management,Information system (IS) development projects,Projects selection and assignment,Multi-project multi-period,Mixed integer programming,
+
+@&#ABSTRACT@&#
+This paper highlights the subject of integrated projects planning (IPP) in contemporary IS departments, and presents a multi-period, multi-project selection and assignment approach (MPPA) to assist the departments in handling continuous project-based IS requests. The MPPA features a model to optimize the selection and assignment of IS projects. In the scope of multi-project, multi-period planning, the model innovatively considers the losses due to (1) the accumulated postponement of a previously unselected IS request and (2) the expected delay of ongoing projects when inserting a new project request. The MPPA also features an event-based decisional process for cumulative selection and assignment on a multi-period basis. Due to the complex and contextual nature of data in this paper, a computerized system is implemented for aiding the execution of the model and the process. The paper reports on an industrial case for a demonstration of the proposed work. Finally the paper compares the MPPA with related work to summarize the value and role it may play in the IPP context.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

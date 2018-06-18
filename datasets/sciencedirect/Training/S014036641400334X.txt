@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Probabilistic inference-based service level objective-sensitive virtual network reconfiguration
+
+@&#HIGHLIGHTS@&#
+A probabilistic inference based SLO sensitive VN reconfiguration mechanism is proposed.Cause-effect relationships between service QoS metrics and VN stress states being modelled as Bayesian network.The problem of reconfiguration points localisation is abstracted into finding the most probable explanation.We improve existing VNR’s effectiveness by adding virtual node and virtual link swapping mechanism.
+
+@&#KEYPHRASES@&#
+Probabilistic inference,SLO assurance,Virtual network,Virtual network reconfiguration,
+
+@&#ABSTRACT@&#
+Network virtualization enables multiple service providers to share the same physical infrastructure, and allows physical substrate network (SN) resources to be used in the form of a virtual network (VN). However, there are many obstacles to the application of this technology. One of the more challenging is the reconfiguration of SN-embedded VNs to adapt to varying demands. To address this problem, we propose a service level objective (SLO)-sensitive VN reconfiguration (VNR) method. A Bayesian network learning and probabilistic reasoning-based approach is proposed to automatically localise reconfiguration points and generate VN resource requests. To determine an optimal reconfiguration solution, we design a heuristic VNR algorithm with a virtual node and virtual link swapping strategy. We validate and evaluate this algorithm by conducting experiments in a high-fidelity emulation environment. Our results show that the proposed approach can effectively reconfigure a VN to adapt to a changed SLO. A comparison shows that our reconfiguration algorithm outperforms existing solutions.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this work, we proposed an SLO-sensitive VNR mechanism, and implemented a heuristic VNR algorithm using virtual node migration and swapping strategies. In particular, we designed an effective BN model and probabilistic inference-based RP localisation technique for the automatic generation of VNRRs.To demonstrate the effectiveness of this concept, we designed and implemented the proposed algorithms by extending the VN management component of cloudstack [9]. These results were obtained in a high-fidelity emulation environment that was built by deploying the network performance-sensitive vehicle assistance service platform on Mininet [37] through cloudstack. Some usage configurations and experimental results were presented in Section 3. To evaluate the efficiency of our approach, we tested the mechanism on services deployed in a high-fidelity VN emulation environment, and compared our VNR algorithm with existing approaches.The experimental results show that our approach is effective and beneficial for both SPs and InPs. However, there is still room for improvement in terms of the accuracy of SLO-sensitive RP localisation. In future work, we will research this problem by implementing multiple probabilistic inference algorithms and compare the accuracy of RP generation in VNs.

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+An energy saving audio compression scheme for wireless multimedia sensor networks using spatio-temporal partial discrete wavelet transform
+
+@&#HIGHLIGHTS@&#
+Energy saving data compression for WMSNs with randomly deployed nodes.Energy is primarily saved by exploiting spatial and temporal correlation together.It is further saved by proposing a tree based routing which ensures unidirectional data flow toward the sink.A lossless encoding scheme is proposed to save energy further.
+
+@&#KEYPHRASES@&#
+Wireless multimedia sensor network,Compression,Partial discrete wavelet transform (PDWT),Spatio-temporal Partial discrete wavelet transform (STPDWT),Spatio-temporal Partial discrete wavelet transform with Encoding (STPDWTE),Tree based routing,
+
+@&#ABSTRACT@&#
+Due to strict inherent limitations in terms of processing power, storage and bandwidth, data processing is a challenge in the wireless multimedia sensor networks. In this paper, we provide an energy-saving audio data compression technique for such a network using lifting based partial discrete wavelet transform (PDWT). Unlike existing implementation of such a lifting based PDWT, we exploit both spatial and temporal correlation of data together, with an objective to save energy while achieving acceptable signal-to-noise ratio (SNR). We subsequently design a tree based routing scheme and an encoding scheme to be used with the proposed compression scheme with a target to reduce energy further. Finally, the design feasibility along with simulation results, including statistical analysis is presented to evaluate efficacy of the scheme in terms of two conflicting parameters viz. energy consumption and SNR. The comparative results confirm our scheme’s supremacy over a few competing schemes.
+
+@&#INTRODUCTION@&#
+The availability of low-cost hardware and advancement in short range radio communication has enabled the development of wireless multimedia sensor networks (WMSNs). The WMSNs can process multimedia data such as video and audio streams, still images collected from the application area [1,3]. Energy is one of the scarcest resources [4] in such networks. In-network processing is one of the techniques to save energy and data compression is one of the implementing techniques of in-network processing.Generally, the sensor nodes are densely spaced and therefore, the sensory data are bound to be spatially correlated. On the other hand, in the majority of real time signal processing (e.g. audio signal) applications, high temporal correlation exists [2] in addition to spatial correlation. Typically in the continuous monitoring application, e.g. road-traffic pollution control, sensory data comprises of both spatially and temporally correlated data. We consider such a continuous monitoring application domain. The various transform techniques (e.g. DWT, DCT) usually exploit spatial correlation of data. However, in order to save energy further while maintaining quality retrieval of compressed data, in presence of both types of correlation, the obvious choice is to have compression technique, which exploits spatial and temporal correlation of data together.
+
+@&#CONCLUSIONS@&#

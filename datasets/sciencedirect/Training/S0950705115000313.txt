@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Support image set machine: Jointly learning representation and classifier for image set classification
+
+@&#HIGHLIGHTS@&#
+We propose a joint method for image set representation and classification.Learning parameters of representation and classifier are unified in one objective.Learning of image set representation and classifier are regularized by each other.Our method reduces the time complexity of classifying set image set significantly.
+
+@&#KEYPHRASES@&#
+Image set classification,Support vector machine,Joint image set representation,Fast iterative shrinkage-thresholding,Supervised learning,
+
+@&#ABSTRACT@&#
+In this paper, we investigate the problem of classifying an image set of an object, and develop a novel image set representation and classification algorithm. We propose to represent an image set by a joint representation method using both an affine hull of its image samples and a combination of its reference images, and further classify it by a linear classification function from its representation. A unified objective function is formulated to learn both the representation and classifier parameters. Similar to support vector machine, the hinge losses and the squaredℓ2norm of the image set classifier are minimized simultaneously in the objective. Moreover, the differences between the two different representations are also minimized. The objective function is optimized with respect to representation and classifier parameters alternately in an iterative algorithm. The proposed algorithm is named as support image set machine (SupISMac) because it takes advantage of support vector machine formulation to learn an image set classifier. The experiments on two different image set classification benchmark databases show that SupISMac not only outperforms the state-of-the-art image set classification methods, but also reduces the running time of test procedures significantly.
+
+@&#INTRODUCTION@&#
+In traditional computer vision and pattern recognition problems, a data sample is usually a single image. Single image-based pattern recognition have many applications, such as face recognition [1–3], object recognition [4–6] and scene recognition [7,8]. In this type of problems, the recognition is usually conducted from a single image. Although multiple images may be used to learn a boundary between different classes in the training procedure, one single image is usually used to represent a data sample. Recently, with the rapid development of video technology, one data sample can be represent by a set of images in a video sequence, and the problem of learning from image set is proposed [9–11]. In this problem, instead of classifying a single image, we aim to classify a set of images of one object or scene to a known class. The advantage of using image set as a data sample is that the images in an image set contain complementary information, and we can also explorer the temporal relationship among different images in one image set. However, traditional image representation and classification methods cannot be directly applied to image set classification problems, and novel methods are to be developed. In this paper, we investigate the problem of classifying image sets, and propose a novel supervised learning algorithm to this problem.
+
+@&#CONCLUSIONS@&#

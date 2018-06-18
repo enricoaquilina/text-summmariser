@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Real-time computer-generated integral imaging and 3D image calibration for augmented reality surgical navigation
+
+@&#HIGHLIGHTS@&#
+A new graphics pipeline for computer-generated integral imaging is presented for autostereoscopic 3D image surgical overlay.An automatic 3D image calibration paradigm for removing the distortion of 3D images is proposed.The undistorted 3D image after the calibration yields sub-millimeter geometric accuracy.A novel AR device for 3D image surgical overlay is presented based on the proposed methods.A phantom application simulating oral and maxillofacial surgery was performed which has confirmed the usability of the AR system.
+
+@&#KEYPHRASES@&#
+Integral imaging,3D image calibration,Augmented reality,Surgical navigation,Stereo tracking,
+
+@&#ABSTRACT@&#
+Autostereoscopic 3D image overlay for augmented reality (AR) based surgical navigation has been studied and reported many times. For the purpose of surgical overlay, the 3D image is expected to have the same geometric shape as the original organ, and can be transformed to a specified location for image overlay. However, how to generate a 3D image with high geometric fidelity and quantitative evaluation of 3D image's geometric accuracy have not been addressed. This paper proposes a graphics processing unit (GPU) based computer-generated integral imaging pipeline for real-time autostereoscopic 3D display, and an automatic closed-loop 3D image calibration paradigm for displaying undistorted 3D images. Based on the proposed methods, a novel AR device for 3D image surgical overlay is presented, which mainly consists of a 3D display, an AR window, a stereo camera for 3D measurement, and a workstation for information processing. The evaluation on the 3D image rendering performance with 2560×1600 elemental image resolution shows the rendering speeds of 50–60 frames per second (fps) for surface models, and 5–8 fps for large medical volumes. The evaluation of the undistorted 3D image after the calibration yields sub-millimeter geometric accuracy. A phantom experiment simulating oral and maxillofacial surgery was also performed to evaluate the proposed AR overlay device in terms of the image registration accuracy, 3D image overlay accuracy, and the visual effects of the overlay. The experimental results show satisfactory image registration and image overlay accuracy, and confirm the system usability.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

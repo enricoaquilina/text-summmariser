@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Comparative analysis of targeted metabolomics: Dominance-based rough set approach versus orthogonal partial least square-discriminant analysis
+
+@&#HIGHLIGHTS@&#
+The DRSA was used to analyze metabolomics data and induce diagnostic decision rules.The OPLS-DA and DRSA revealed a high concordance between discriminant metabolites.The OPLS-DA and DRSA provide complementary models to understand the pathophysiological ways.Strong decision rules have identified relevant condition–decision relationships.
+
+@&#KEYPHRASES@&#
+Metabolomics,OPLS-DA,Dominance-based rough set approach,Bayesian confirmation,Diagnosis prediction,Amyotrophic lateral sclerosis,
+
+@&#ABSTRACT@&#
+BackgroundMetabolomics is an emerging field that includes ascertaining a metabolic profile from a combination of small molecules, and which has health applications. Metabolomic methods are currently applied to discover diagnostic biomarkers and to identify pathophysiological pathways involved in pathology. However, metabolomic data are complex and are usually analyzed by statistical methods. Although the methods have been widely described, most have not been either standardized or validated. Data analysis is the foundation of a robust methodology, so new mathematical methods need to be developed to assess and complement current methods. We therefore applied, for the first time, the dominance-based rough set approach (DRSA) to metabolomics data; we also assessed the complementarity of this method with standard statistical methods. Some attributes were transformed in a way allowing us to discover global and local monotonic relationships between condition and decision attributes. We used previously published metabolomics data (18 variables) for amyotrophic lateral sclerosis (ALS) and non-ALS patients.ResultsPrincipal Component Analysis (PCA) and Orthogonal Partial Least Square-Discriminant Analysis (OPLS-DA) allowed satisfactory discrimination (72.7%) between ALS and non-ALS patients. Some discriminant metabolites were identified: acetate, acetone, pyruvate and glutamine. The concentrations of acetate and pyruvate were also identified by univariate analysis as significantly different between ALS and non-ALS patients. DRSA correctly classified 68.7% of the cases and established rules involving some of the metabolites highlighted by OPLS-DA (acetate and acetone). Some rules identified potential biomarkers not revealed by OPLS-DA (beta-hydroxybutyrate). We also found a large number of common discriminating metabolites after Bayesian confirmation measures, particularly acetate, pyruvate, acetone and ascorbate, consistent with the pathophysiological pathways involved in ALS.ConclusionDRSA provides a complementary method for improving the predictive performance of the multivariate data analysis usually used in metabolomics. This method could help in the identification of metabolites involved in disease pathogenesis. Interestingly, these different strategies mostly identified the same metabolites as being discriminant. The selection of strong decision rules with high value of Bayesian confirmation provides useful information about relevant condition–decision relationships not otherwise revealed in metabolomics data.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

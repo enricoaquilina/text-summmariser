@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Development of InSb dry etch for mid-IR applications
+
+@&#HIGHLIGHTS@&#
+Chlorine-free low-temperature dry etch of MBE grown InSb on GaAs60° positive sloped or nearly vertical etch depending on maskNon-selective process etching through Insb, GaSb and GaAsLow damage process with potential to replace standard InSb wet etch
+
+@&#KEYPHRASES@&#
+Inductive coupled plasma,Etching,III–V semiconductors,InSb,GaSb,Microfabrication,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+In the medium infrared (mid-IR) wavelength range, indium antimonide (InSb), has a high potential for sensing applications and InSb-based Focal Plane Arrays (FPAs) have been demonstrated [1] and commercialised. InSb patterning techniques typically utilise wet-chemical etching, with solutions based on citric acid (C6H8O7), water (H2O) and hydrogen peroxide (H2O2) being established wet etchants for antimonides [2]. However, the introduction of a consistent and reliable dry etch process could improve several drawbacks encountered with wet etching, such as uniformity and galvanic corrosion issues [3] and the fact that its isotropic nature also limits the minimum pixel size and the fill factor of fabricated detector arrays. Dry etching of InSb was reported in several publications [4–6], and in most cases was achieved through an inductively coupled plasma (ICP) process involving chlorine-containing compounds such as BCl3 and Cl2[7,8]. However, their use for etching of InSb causes the formation of highly non-volatile indium chloride (InCl3) by-products, which require temperatures in excess of 200°C to be successfully purged. InSb epi-structures grown by Molecular Beam Epitaxy (MBE) on gallium arsenide (GaAs) substrates, which have been subject of increased research interest in recent years, cannot withstand such high temperatures, since antimony desorption phenomena are triggered and result in material degradation causing poor operation of the fabricated devices. In a similar way, the material can deteriorate if it is subject to strong radio frequency (RF) plasmas. These widely reported issues [9–11] make fabrication on MBE-grown InSb particularly challenging. Here we report on a new dry etch process which was successfully used on MBE-grown InSb without related damage. Furthermore, two different etch profiles were obtained depending on the type of mask used.The structure of this work is the following: Section 2 describes the epi-structure of the material used and the development of technique presented. Section 3 discusses the main results, with the conclusions drawn from them presented in Section 4.
+
+@&#CONCLUSIONS@&#
+We developed a low-temperature chlorine-free dry etch process suitable for etching of MBE-grown InSb layers. The process proved its non-selectivity by etching through the entire material stack, consisting of InSb, GaSb and GaAs layers. A positively sloped etched profile was obtained if reflowed AZ4562 photoresist was used as a mask, whereas the use of hard masks (HSQ, SiNx) provided a nearly vertical etch. InSb PDs fabricated by standard wet etch techniques were compared to devices where the mesa was dry etched, and the developed process was found not to hinder the device conduction or its photoresponse. The developed process is thought to have the potential to replace the standard wet etch techniques used in antimonide fabrication.

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+An informatics framework for the standardized collection and analysis of medication data in networked research
+
+@&#HIGHLIGHTS@&#
+Medication coding and classification tasks have different requirements.Various medication coding and classification systems exist.Heterogeneous studies complicate a standard approach to handling medication data.Classification systems can support data retrieval and analysis.A reference classification system can support standardized analysis approaches.
+
+@&#KEYPHRASES@&#
+Medication terminological systems,Drug classification,Standards,Data coordinating centers,Data coding,Data analysis,
+
+@&#ABSTRACT@&#
+Medication exposure is an important variable in virtually all clinical research, yet there is great variation in how the data are collected, coded, and analyzed. Coding and classification systems for medication data are heterogeneous in structure, and there is little guidance for implementing them, especially in large research networks and multi-site trials. Current practices for handling medication data in clinical trials have emerged from the requirements and limitations of paper-based data collection, but there are now many electronic tools to enable the collection and analysis of medication data. This paper reviews approaches to coding medication data in multi-site research contexts, and proposes a framework for the classification, reporting, and analysis of medication data. The framework can be used to develop tools for classifying medications in coded data sets to support context appropriate, explicit, and reproducible data analyses by researchers and secondary users in virtually all clinical research domains.
+
+@&#INTRODUCTION@&#
+Standardized coding and classification of medication data enable comparability within and across research studies and can bridge clinical and research networks and applications. However, there is currently no explicit standards-based process for organizing granular medication codes (e.g., “acetaminophen”, “Tylenol”, or “acetaminophen 325 mg oral tablet”) into classes defined by various drug properties (e.g., “antipyretic” or “prostaglandin receptor antagonists”). Such a process is badly needed to ensure efficient, reproducible classification and analysis.While property-based drug classification seems straightforward, there is ambiguity in the definitions of classes in coded data sets (e.g., “Does the class ‘antibiotics’ in this analysis include topical antibiotics?”), new indications (“Is Donnatol™ included as a seizure medication in this analysis?”), and new products (“Is the recently approved drug Ravicti™ included in the group of urea cycle disorder medications in this data set?”). Comprehensive reference terminology valid across the spectrum of clinical domains can ensure that the class memberships used in categorical analyses are explicit and easily reproducible, enabling comparability of different data sets. In this paper, we examine current approaches, propose a framework for standard medication coding and classification systems, and identify needed research and tools.
+
+@&#CONCLUSIONS@&#

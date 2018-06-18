@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Publishing data from electronic health records while preserving privacy: A survey of algorithms
+
+@&#HIGHLIGHTS@&#
+Discusses the major privacy threats that data publishing entails.Presents the privacy models that have been designed for data protection.Surveys over 45 privacy algorithms for publishing patient specific data.Discusses promising directions for future research in data privacy.
+
+@&#KEYPHRASES@&#
+Privacy,Electronic health records,Anonymization,Algorithms,Survey,
+
+@&#ABSTRACT@&#
+The dissemination of Electronic Health Records (EHRs) can be highly beneficial for a range of medical studies, spanning from clinical trials to epidemic control studies, but it must be performed in a way that preserves patients’ privacy. This is not straightforward, because the disseminated data need to be protected against several privacy threats, while remaining useful for subsequent analysis tasks. In this work, we present a survey of algorithms that have been proposed for publishing structured patient data, in a privacy-preserving way. We review more than 45 algorithms, derive insights on their operation, and highlight their advantages and disadvantages. We also provide a discussion of some promising directions for future research in this area.
+
+@&#INTRODUCTION@&#
+Electronic Medical Record/ Electronic Health Record (EMR/EHR) systems are increasingly adopted to collect and store various types of patient data, which contain information about patients’ demographics, diagnosis codes, medication, allergies, and laboratory test results [22,90,63]. For instance, the use of EMR/EHR systems, among office-based physicians, increased from 18% in 2001 to 72% in 2012 and is estimated to exceed 90% by the end of the decade [56].Data from EMR/EHR systems are increasingly disseminated, for purposes beyond primary care, and this has been shown to be a promising avenue for improving research [63]. This is because it allows data recipients to perform large-scale, low-cost analytic tasks, which require applying statistical tests (e.g., to study correlations between BMI and diabetes), data mining tasks, such as classification (e.g., to predict domestic violence [107]) and clustering (e.g., to control epidemics [117]), or query answering. To facilitate the dissemination and reuse of patient-specific data and help the advancement of research, a number of repositories have been established, such as the Database of Genotype and Phenotype (dbGaP) [89], in the U.S., and the U.K. Biobank [104], in the United Kingdom.
+
+@&#CONCLUSIONS@&#
+In this work, we presented a survey of privacy algorithms that have been proposed for publishing structured patient data. We reviewed more than 45 privacy algorithms, derived insights on their operation, and highlighted their advantages and disadvantages. Subsequently, we provided a discussion of some promising directions for future research in this area.

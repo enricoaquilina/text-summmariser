@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Approaches to interpreter composition
+
+@&#HIGHLIGHTS@&#
+We present a viable Python/Prolog composition and show four different implementations each using a different composition style.We present the first experiment designed to help understand the effects of different composition styles upon performance.We thoroughly analyse and discuss the results of the experiment, breaking down the impact that each composition style has on performance.
+
+@&#KEYPHRASES@&#
+Language composition,Virtual machines,
+
+@&#ABSTRACT@&#
+In this paper, we compose six different Python and Prolog VMs into 4 pairwise compositions: one using C interpreters, one running on the JVM, one using meta-tracing interpreters, and one using a C interpreter and a meta-tracing interpreter. We show that programs that cross the language barrier frequently execute faster in a meta-tracing composition, and that meta-tracing imposes a significantly lower overhead on composed programs relative to mono-language programs.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this paper we aimed to further our understanding of which style of composition leads to the best run-time performance. By composing Python and Prolog, we hope to have chosen a difficult scenario that gives an indication of the worst-case in terms of performance and engineering effort. Although we must be careful not to over-generalise our experiences, our results are fairly clear and validate hypothesis H1. Meta-tracing led to a composed VM which at least holds its own with, and generally beats significantly, other styles of composition. The composition was no more difficult to implement than the next fastest style of composition, which required interfacing at the C level.Our current assumption is that this pattern is likely to be repeated for most languages which are naturally suited to meta-tracing. However, languages which block cross-language inlining will perform poorly. Fortunately, our experiences with Pyrolog suggest that interpreters for such languages can be easily tweaked such that meta-tracing can inline across the language boundary. An open question is how our results may apply to languages less suited to meta-tracing. For example, in isolation, a traditional static C compiler is likely to beat a meta-tracing C interpreter in most cases. As our results have shown, the cost of repeatedly crossing the language boundary can outweigh the performance characteristics of individual interpreters. A validation of this can be seen in [43] which uses dynamic partial-evaluation of self-optimising interpreters – an approach similar in intent to meta-tracing – to show that composing a C interpreter with Ruby can give good results. This leads us to suggest that perhaps the most important factor in determining which interpreter composition should be used is the frequency with which one expects users to cross the language boundary: if the answer is ‘not often’, then the implementation choice may not be hugely important; if ‘often’, then meta-tracing (or a similar approach) may well be the best choice, irrespective of the individual languages in the composition.Finally, while our work is pitched in the context of language composition, much of the results and insights will be applicable to cross-language libraries. This is relatively common-place on the JVM (e.g. Scala calling Java), and in many dynamically typed languages (e.g. Ruby calling C). Our results give a good understanding of how moving to different language implementation styles effects performance in such cases.

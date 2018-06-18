@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+A postscript on aggregate Farrell efficiencies
+
+@&#HIGHLIGHTS@&#
+Aggregation of output- and input-oriented technical efficiency indices.Aggregation weights under constant returns to scale technology.Interchange of input- and output-based aggregation weights.
+
+@&#KEYPHRASES@&#
+Data envelopment analysis,Efficiency,Aggregation,Constant returns to scale technologies,
+
+@&#ABSTRACT@&#
+In this note we derive alternative weighting schemes that complement those of Färe and Zelenyuk (2003) for consistent aggregation of Farrell efficiencies when the technology exhibits (global) constant returns to scale.
+
+@&#INTRODUCTION@&#
+In his seminal paper Farrell (1957) introduced the notion of productive efficiency using an input-oriented model with a single output and a constant returns to scale technology common to all firms. He also referred to structural and industry efficiency and for the latter suggested that it can be derived by aggregating individual technical efficiency scores with output shares as weights. Førsund and Hjalmarsson (1979) criticized his approach for not having a straightforward interpretation in the sense that the resulting aggregate measure does not reflect potential input savings as the individual efficiency measures do for micro units. Torgersen, Førsund, and Kittelsen (1996), on the other hand, wondered whether actual or potential output shares should be used as weights. In the light of recent results by Färe and Zelenyuk (2003, 2007) and Färe and Grosskopf (2004, pp. 115–119) the above questions seem admissible since aggregation consistency requires (a) output-oriented (input-oriented) efficiency indices to be aggregated using output-based (input-based) shares as weights and (b) actual (potential) shares to be used for technical (allocative) inefficiency indices.In this note we argue that, given his model assumptions, Farrell (1957) was not wrong in suggesting aggregation of input-oriented technical inefficiency indices with output shares as weights to obtain industry efficiency, if he had referred to potential output shares. As we show next, under (global) constant returns to scale and assuming that all constituent firms face the same input and output prices, input-based shares are equal to potential output-based shares and output-based shares are equal to potential input-based shares. Under these circumstances, we can interchange input-based with potential output-based weights when aggregating input-oriented technical efficiency indices and output-based with potential input-based weights when aggregating output-oriented technical efficiency indices without loss of aggregation consistency.
+
+@&#CONCLUSIONS@&#
+In this note we derive alternative weighting schemes that complement those of Färe and Zelenyuk (2003) for consistent aggregation of Farrell efficiencies when the technology exhibits (global) constant returns to scale. It is shown that in this case we can interchange input-based with potential output-based weights when aggregating input-oriented technical efficiency indices and output-based with potential input-based weights when aggregating output-oriented technical efficiency indices without loss of aggregation consistency. Thus, input-oriented efficiency scores should be aggregated using either input-based shares or potential output-based shares and vice versa for the output-oriented efficiency scores.

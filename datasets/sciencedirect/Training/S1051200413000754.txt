@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Enhancing minimum spanning tree-based clustering by removing density-based outliers
+
+@&#HIGHLIGHTS@&#
+A fast minimum spanning tree (MST)-based clustering methodology that is robust to density-based outliers is proposed for large high-dimensional data sets.The approach relies on a modified version of an index-based search structure called iDistance to provide an efficient clustering mechanism by an integration of MST construction and density-based outlier removal.The performance of the proposed algorithms is demonstrated on a number of small low-dimensional and large high-dimensional data sets with respect to several state-of-the-art clustering algorithms.
+
+@&#KEYPHRASES@&#
+Clustering,Minimum spanning tree-based clustering algorithms,Density-based clustering algorithms,Indexing structures,Density-based outliers,
+
+@&#ABSTRACT@&#
+Traditional minimum spanning tree-based clustering algorithms only make use of information about edges contained in the tree to partition a data set. As a result, with limited information about the structure underlying a data set, these algorithms are vulnerable to outliers. To address this issue, this paper presents a simple while efficient MST-inspired clustering algorithm. It works by finding a local density factor for each data point during the construction of an MST and discarding outliers, i.e., those whose local density factor is larger than a threshold, to increase the separation between clusters. This algorithm is easy to implement, requiring an implementation of iDistance as the only k-nearest neighbor search structure. Experiments performed on both small low-dimensional data sets and large high-dimensional data sets demonstrate the efficacy of our method.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

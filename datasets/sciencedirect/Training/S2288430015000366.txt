@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Multicriteria shape design of an aerosol can
+
+@&#HIGHLIGHTS@&#
+We model the aerosol can.We developed an algorithm to solve multicriteria optimization problem.We solve our industrial problem with our developed algorithm.We proposed a new profiles for the bottom of the aerosol can which satisfying the customers requirements.
+
+@&#KEYPHRASES@&#
+Multicriteria optimization problem,Normal boundary intersection,Radial basis function metamodel,Nash equilibria,Kalai-Smorodinsky equilibria,
+
+@&#ABSTRACT@&#
+One of the current challenges in the domain of the multicriteria shape optimization is to reduce the calculation time required by conventional methods. The high computational cost is due to the high number of simulation or function calls required by these methods. Recently, several studies have been led to overcome this problem by integrating a metamodel in the overall optimization loop. In this paper, we perform a coupling between the Normal Boundary Intersection – NBI – algorithm with Radial Basis Function – RBF – metamodel in order to have a simple tool with a reasonable calculation time to solve multicriteria optimization problems. First, we apply our approach to academic test cases. Then, we validate our method against an industrial case, namely, shape optimization of the bottom of an aerosol can undergoing nonlinear elasto-plastic deformation. Then, in order to select solutions among the Pareto efficient ones, we use the same surrogate approach to implement a method to compute Nash and Kalai–Smorodinsky equilibria.
+
+@&#INTRODUCTION@&#
+Structural multidisciplinary shape optimization – MDO – is known to demand costly computational resources, notably when one seeks to identify the Pareto front, one of the most relevant MDO tools. To overcome this obstacle, it is classical to couple methods for the Pareto capture with metamodels aimed at cheap costs evaluation [1–5]. There are two possible couplings between methods to identify the set of Pareto optimal solutions, and metamodels: The first idea is to lead optimization with the dedicated algorithms (NBI or others) and use an updated metamodel for a certain number of evaluations until finding the solutions (strong coupling). The second idea is to lead optimization with the metamodel and only do the exact calculations of the metamodel-obtained solutions (weak coupling).In our work, the Normal Boundary Intersection (NBI) method [6–8] and the radial basis function (RBF) metamodel [10–14] are used to build our algorithm (NBI RBF) using a weak coupling. The implemented algorithm is validated against mathematical test-cases, and then used to perform a multicriteria shape optimization of structures which undergo highly nonlinear deformations. We compare the results obtained for different a priori discretizations of the Pareto fronts. We also address the problem of selecting solutions among the Pareto optimal ones by using a Nash game approach [22–26] and a Kalai–Smorodinsky one [19–21].
+
+@&#CONCLUSIONS@&#

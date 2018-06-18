@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Kinematic skeleton extraction from 3D articulated models
+
+@&#HIGHLIGHTS@&#
+A kinematic skeleton extraction method for articulated bodies is proposed.It is a hybrid approach combining topology-based and geometry-based methods.It does not require manually-chosen feature points or markers.It is independent of both postures and the number of branches of the model.The results can be directly applied to the character rigging.
+
+@&#KEYPHRASES@&#
+Skeleton extraction,Character animation,Pose-independence,Morse theory,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+The 1D skeleton of an object provides an intuitive abstraction for both shape recognition and manipulation. A good skeleton should be simple enough to provide a glimpse of the overall structure while preserving a certain level of detail. Because of its importance and usefulness, there have been many previous studies designed to obtain a robust and efficient method for extracting a skeleton from a given object. Strictly speaking, however, the 1D skeleton can be classified into two different categories: the curve skeleton and the kinematic skeleton (or bone skeleton). The former provides an understanding of the abstract structure of the given shape. The latter is used as a tool to control the animation or the deformation of its corresponding model.Many existing skeleton extraction methods  [1–4] focus on the curve skeleton. In this case, most nodes are optional nodes which make the resulting skeleton smoother. For the kinematic skeleton, however, all nodes should be carefully chosen because they become the joints for animating characters. Thus, the direct conversion (downsampling, for example) from the curve skeleton is not a simple task in the sense that it may produce redundant joints  [2]. Moreover, the joints can be classified into two different categories. Joints such as the shoulder and the hip introduce a branch on the skeleton. Ideas based on topological features such as the Reeb graph and the Morse complex are suitable for detecting such joints. On the other hand, joints including the elbow and the knee do not invoke a “split” of the skeleton because they are characterized solely by geometric features such as angle, curvature, and thickness. Therefore, it is desirable to handle them independently. We call the former topological joints and the latter geometric joints, respectively.In this paper, we propose a fully automatic, pose-independent method to extract the kinematic skeleton of an articulated model. It is a hybrid approach, and addresses topological and geometric joints from different points of view. It does not require any type of manually-defined markers or feature points and is free from assumptions concerning the poses of the given model or the number of branches (including legs, arms, and tails). Experiments show that our algorithm is also efficient with respect to time. The process takes less than five seconds for the model with 33,827 vertices and 18 terminal branches.
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Implementation of a web based universal exchange and inference language for medicine: Sparse data, probabilities and inference in data mining of clinical data repositories
+
+@&#HIGHLIGHTS@&#
+The Q-UEL language has been extended to traditional public health analysis.Traditional and inference probabilities are compared and co-presented.Enforcing coherence as Bayes Rule and marginal summation is described.Simple worked examples of clinical decision support are given.Methods of testing predictive capability are discussed.
+
+@&#KEYPHRASES@&#
+Universal exchange language,Dirac notation,Bayes,Watson,Electronic health record,Public health reporting,Probability theory,Zeta function,Cognitive computing,
+
+@&#ABSTRACT@&#
+We extend Q-UEL, our universal exchange language for interoperability and inference in healthcare and biomedicine, to the more traditional fields of public health surveys. These are the type associated with screening, epidemiological and cross-sectional studies, and cohort studies in some cases similar to clinical trials. There is the challenge that there is some degree of split between frequentist notions of probability as (a) classical measures based only on the idea of counting and proportion and on classical biostatistics as used in the above conservative disciplines, and (b) more subjectivist notions of uncertainty, belief, reliability, or confidence often used in automated inference and decision support systems. Samples in the above kind of public health survey are typically small compared with our earlier “Big Data” mining efforts. An issue addressed here is how much impact on decisions should sparse data have. We describe a new Q-UEL compatible toolkit including a data analytics application DiracMiner that also delivers more standard biostatistical results, DiracBuilder that uses its output to build Hyperbolic Dirac Nets (HDN) for decision support, and HDNcoherer that ensures that probabilities are mutually consistent. Use is exemplified by participating in a real word health-screening project, and also by deployment in a industrial platform called the BioIngine, a cognitive computing platform for health management.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

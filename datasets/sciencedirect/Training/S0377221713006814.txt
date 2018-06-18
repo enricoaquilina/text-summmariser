@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Optimal single machine scheduling of products with components and changeover cost
+
+@&#HIGHLIGHTS@&#
+We study scheduling products with subassemblies on a single machine.We derive structural results that characterize optimal schedules.We show that optimal schedules can be derived from a recurrent sequence of schedules.These optimal schedules can be implemented before total demand is known.
+
+@&#KEYPHRASES@&#
+Scheduling,Single machine,Components,Flow time,Changeover cost,
+
+@&#ABSTRACT@&#
+We consider the problem of scheduling products with components on a single machine, where changeovers incur fixed costs. The objective is to minimize the weighted sum of total flow time and changeover cost. We provide properties of optimal solutions and develop an explicit characterization of optimal sequences, while showing that this characterization has recurrent properties. Our structural results have interesting implications for practitioners, primarily that the structure of optimal sequences is robust to changes in demand.
+
+@&#INTRODUCTION@&#
+The problem of scheduling products with changeovers on a common resource, like a single machine, exists in many manufacturing settings. For instance, a machine processes different types of circuit boards by inserting components (cf. Coffman, Nozari, & Yannakakis, 1989), or a paper machine is capable of producing different grades of paper (cf. Magnanti & Vachani, 1990). One common feature of these problems is that products of the same type are often grouped to form batches. A changeover is incurred whenever the machine is switched over to process a different batch of products. The resulting sequencing and batching decisions are then made based on a number of possible criteria, including for example, total flow time, total changeover cost, number of late products, etc.This paper considers a setting where a manufacturer fabricates multiple types of components on a single machine that are ultimately assembled into identical products. A fixed cost is incurred whenever there is a changeover from one component to another. A component is immediately available for assembly after its completion. Our objective is to determine an optimal sequence (involving both sequencing and batching decisions) that minimizes the weighted sum of total flow time and changeover cost.We show that there exists a series of recurrent optimal sequences, and we obtain closed-form solutions for the integer batch sizes in these sequences. Based on the proven properties and the existence of the recurrent optimal sequences, we provide an explicit characterization of optimal sequences for any size problem. We also show that when there is a changeover cost, rather than a changeover time, the optimal sequence exhibits a constant-batch-size pattern. This result is especially interesting given that the algorithms of Coffman et al. (1989), who consider the same setting but use changeover time rather than cost, lead to non-increasing batch sizes in the optimal sequences.The rest of the paper is organized as follows. In Section 2, we review the related literature. In Section 3, we introduce the formulation of the problem. Section 4 describes the major results about the properties and a characterization of optimal sequences. Managerial implications of our solution are discussed in Section 5.
+
+@&#CONCLUSIONS@&#

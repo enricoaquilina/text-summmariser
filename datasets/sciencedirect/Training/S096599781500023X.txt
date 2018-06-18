@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Thin crack observation in a reinforced concrete bridge pier test using image processing and analysis
+
+@&#HIGHLIGHTS@&#
+An image analysis method for crack observation in a concrete pier is proposed.This method manifests concrete cracks before there became visible to the naked eyes.We present the procedures, flowchart, and software implementation of this method.
+
+@&#KEYPHRASES@&#
+Thin crack,Crack observation,Image analysis,Reinforced concrete,Structural experiments,Surface strain measurement,
+
+@&#ABSTRACT@&#
+In reinforced concrete (RC) structural experiments, the development of concrete surface cracks is an important factor of concern to experts. One conventional crack observation method is to suspend a test at a few selected testing steps and send inspectors to mark pen strokes on visible cracks, but this method is dangerous and labor intensive. Many image analysis methods have been proposed to detect and measure the dark shadow lines of cracks, reducing the need for manual pen marking. However, these methods are not applicable for thin cracks, which do not present clear dark lines in images.This paper presents an image analysis method to capture thin cracks and minimize the requirement for pen marking in reinforced concrete structural tests. The paper presents the mathematical models, procedures, and limitations of our image analysis method, as well as the analysis flowchart, the adopted image processing and analysis methods, and the software implementation. Finally, the results of applying the proposed method in full-scale reinforced concrete bridge experiments are presented to demonstrate its performance. Results demonstrate that this method can capture concrete surface cracks even before dark crack lines visible to the naked eye appear.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

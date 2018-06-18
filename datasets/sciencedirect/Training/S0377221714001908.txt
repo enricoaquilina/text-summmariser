@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+The Red–Blue transportation problem
+
+@&#HIGHLIGHTS@&#
+Red–Blue TP, a new generalization of the transportation problem is presented.It is motivated by a patient assignment problem in hospitals.The problem’s complexity is established and two IP formulations are given.Three 1/2-approximation algorithms are presented for a maximization variant.A computational study discusses performance with respect to problem characteristics.
+
+@&#KEYPHRASES@&#
+Transportation problem,Exclusionary constraints,Complexity,Approximation,Integer programming,
+
+@&#ABSTRACT@&#
+This paper considers the Red–Blue Transportation Problem (Red–Blue TP), a generalization of the transportation problem where supply nodes are partitioned into two sets and so-called exclusionary constraints are imposed. We encountered a special case of this problem in a hospital context, where patients need to be assigned to rooms. We establish the problem’s complexity, and we compare two integer programming formulations. Furthermore, a maximization variant of Red–Blue TP is presented, for which we propose a constant-factor approximation algorithm. We conclude with a computational study on the performance of the integer programming formulations and the approximation algorithms, by varying the problem size, the partitioning of the supply nodes, and the density of the problem.
+
+@&#INTRODUCTION@&#
+Consider the well-known Transportation Problem (TP): given is a set of supply nodes S, each with supplyai(i∈S), a set of demand nodes D, each with demandbj(j∈D), with∑i∈Sai=∑j∈Dbj, and a bipartite graph (S∪D,E), with a given costcijfor each edge(i,j)∈E, where E is not necessarily complete. The question is how to send the flow from supply nodes to the demand nodes such that total cost is minimal. In this paper, we generalize this problem by associating a color, either red or blue, to each supply node. Thus, the set of supply nodes is partitioned into two sets R (red) and B (blue) such thatS=R∪B, andR∩B=∅. The additional requirement is that the set of supply nodes that actually supply a demand node should all have the same color. In other words, a demand node is only allowed to receive flow from supply nodes that are either all red or all blue. We refer to these constraints as color constraints. Obviously, the resulting problem is a generalization of the transportation problem since if all supply nodes have the same color, the TP arises. We will refer to our problem as the Red–Blue Transportation Problem (Red–Blue TP).In Section 1.1 we discuss the practical application that motivated our study, followed by related literature in Section 1.2.
+
+@&#CONCLUSIONS@&#

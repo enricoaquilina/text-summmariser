@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Autoregressive causal relation: Digital filtering approach to causality measures in frequency domain
+
+@&#HIGHLIGHTS@&#
+Problem of causal relations in frequency domain among time series is studied.A novel measure for evaluation of causal relations is suggested.Unlike existing methods, it is based on systematic use of power spectral density.It decomposes diagonal elements of a spectral matrix in direct causal route.The advantage is the direct physical interpretation of the strength of relations.
+
+@&#KEYPHRASES@&#
+Autoregressive processes,Frequency domain analysis,Brain modeling,Electroencephalography,
+
+@&#ABSTRACT@&#
+A novel measure of the Autoregressive Causal Relation based on a multivariate autoregressive model is proposed. It reveals the strength of the connections among a simultaneous time series and also the direction of the information flow. It is defined in the frequency domain, similar to the formerly published methods such as: Directed Transfer Function, Direct Directed Transfer Function, Partial Directed Coherence, and Generalized Partial Directed Coherence. Compared to the Granger causality concept, frequency decomposition extends the possibility to reveal the frequency rhythms participating on the information flow in causal relations.The Autoregressive Causal Relation decomposes diagonal elements of a spectral matrix and enables a user to distinguish between direct and indirect causal relations. The main advantage lies in its definition using power spectral densities, thus allowing for a clear interpretation of strength of causal relation in meaningful physical terms.The causal measures can be used in neuroscience applications like the analysis of underlying structures of brain connectivity in neural multichannel time series during different tasks measured via electroencephalography or functional magnetic resonance imaging, or other areas using the multivariate autoregressive models for causality modeling like econometrics or atmospheric physics but this paper is focused on theoretical aspects and model data examples in order to illustrate a behavior of methods in known situations.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

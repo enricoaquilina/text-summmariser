@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A novel approach for nurse rerostering based on a parallel algorithm
+
+@&#HIGHLIGHTS@&#
+We propose a parallel algorithm to solve the Nurse Rerostering Problem.A unique problem decomposition allows an efficient parallelization.Our parallel algorithm provides the same quality 15 × faster than the sequential one.The source code of the parallel algorithm is on https://github.com/CTU-IIG/NRRPGpu.
+
+@&#KEYPHRASES@&#
+Nurse rerostering problem,Personnel/human resources rescheduling,List-based heuristic,Parallel/GPU algorithm,Homogeneous/heterogeneous model,
+
+@&#ABSTRACT@&#
+This paper addresses the Nurse Rerostering Problem (NRRP) that arises when a roster is disrupted by unexpected circumstances. The objective is to find a feasible roster having the minimal number of changes with respect to the original one. The problem is solved by a parallel algorithm executed on a graphics processing unit (GPU) to significantly accelerate its performance. To the best of our knowledge, this is the first parallel algorithm solving the NRRP on GPU. The core concept is a unique problem decomposition allowing efficient parallelization. Two parallel algorithms, homogeneous and heterogeneous, are proposed (available online), and their performance evaluated on benchmark datasets in terms of quality of the results compared to the state-of-the-art results and speedup. In general, higher acceleration was obtained by the homogeneous model with speedup 12.6 and 17.7 times on the NRRP dataset with 19 and 32 nurses respectively. These results encourage further research on parallel algorithms to solve Operational Research problems.
+
+@&#INTRODUCTION@&#
+This paper is focused on an NP-hard combinatorial problem that occurs in healthcare (Clark, Moule, Topping, & Serpell, 2015). Practically, work of nurses in every hospital is organized into shifts and, therefore, a roster has to be created to determine the assignment of shifts to nurses in a given planning horizon. However, the roster usually has to be changed during the planning horizon, e.g. if a nurse gets sick. The original roster must then be modified to ensure sufficient healthcare service. Typically, the roster is not completely rebuilt, since nurses affected by roster disruptions have to cancel or reschedule their already planned free time activities, which is very unpopular, and may significantly increase personnel costs. Therefore, the criterion typically involves minimization of the number of changes relative to the original roster. A suitable solution arrived at manually may take hours, which is unacceptable when the solution must be found quickly. The problem is known as the nurse rerostering problem (NRRP), and this paper presents a parallel approach that solves the NRRP faster and with the same quality as conventional sequential approaches.
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Identifying direct miRNA–mRNA causal regulatory relationships in heterogeneous data
+
+@&#HIGHLIGHTS@&#
+We propose an integrated method to infer direct miRNA–mRNA causal regulatory relationships.We investigate miRNA and TF regulation and causal feedforward patterns of TF–miRNA–mRNA.We evaluate the method on an EMT data set.
+
+@&#KEYPHRASES@&#
+MicroRNA,mRNA,Causal regulatory relationships,Epithelial–mesenchymal transition,Causal feedforward patterns,
+
+@&#ABSTRACT@&#
+Discovering the regulatory relationships between microRNAs (miRNAs) and mRNAs is an important problem that interests many biologists and medical researchers. A number of computational methods have been proposed to infer miRNA–mRNA regulatory relationships, and are mostly based on the statistical associations between miRNAs and mRNAs discovered in observational data. The miRNA–mRNA regulatory relationships identified by these methods can be both direct and indirect regulations. However, differentiating direct regulatory relationships from indirect ones is important for biologists in experimental designs. In this paper, we present a causal discovery based framework (called DirectTarget) to infer direct miRNA–mRNA causal regulatory relationships in heterogeneous data, including expression profiles of miRNAs and mRNAs, and miRNA target information. DirectTarget is applied to the Epithelial to Mesenchymal Transition (EMT) datasets. The validation by experimentally confirmed target databases suggests that the proposed method can effectively identify direct miRNA–mRNA regulatory relationships. To explore the upstream regulators of miRNA regulation, we further identify the causal feedforward patterns (CFFPs) of TF–miRNA–mRNA to provide insights into the miRNA regulation in EMT. DirectTarget has the potential to be applied to other datasets to elucidate the direct miRNA–mRNA causal regulatory relationships and to explore the regulatory patterns.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

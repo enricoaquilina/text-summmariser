@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Extracting important information from Chinese Operation Notes with natural language processing methods
+
+@&#HIGHLIGHTS@&#
+A novel information extraction strategy for Chinese free-text EMR is proposed.Both rule-base method and sequential labeling method (CRF) are explored.Totally, 12 important data elements related to hepatic carcinomas are extracted.Two boundary matching strategies (exact, overlapped) are introduced for evaluation.This work provides some insights for Chinese natural language processing.
+
+@&#KEYPHRASES@&#
+Clinical operation notes,Information extraction,Chinese EMR,Conditional random fields,
+
+@&#ABSTRACT@&#
+Extracting information from unstructured clinical narratives is valuable for many clinical applications. Although natural Language Processing (NLP) methods have been profoundly studied in electronic medical records (EMR), few studies have explored NLP in extracting information from Chinese clinical narratives. In this study, we report the development and evaluation of extracting tumor-related information from operation notes of hepatic carcinomas which were written in Chinese. Using 86 operation notes manually annotated by physicians as the training set, we explored both rule-based and supervised machine-learning approaches. Evaluating on unseen 29 operation notes, our best approach yielded 69.6% in precision, 58.3% in recall and 63.5% F-score.
+
+@&#INTRODUCTION@&#
+Clinical documents contain a wealth of information for medical study. It has been advocated that electronic medical record (EMR) adoption is a key to solving problems related to quality of care, clinical decision support, and reliable information flow among individuals and departments participating in patient care [1]. But a large part of EMRs’ data is saved in an unstructured textual format (such as discharge summaries and progress reports) which presents a big challenge for automated text mining. Manually annotating such narratives by domain experts is definitely a time consuming and error-prone process. Therefore, extracting relevant data elements from clinical narratives constitutes a basic enabling technology to unlock the knowledge within and support more advanced reasoning applications such as diagnosis explanation, disease progression modeling, and intelligent analysis of the effectiveness of treatment [2].Recent years we have seen rapid adoption of hospital information system across China and medical documents in Chinese are accumulating fast. Realizing the potential of Chinese EMRs is a burgeoning field of research. A lot of approaches have been developed for English medical language processing, but studies focusing on Chinese are relatively limited. In this paper we have tried both rule-based method and sequential labeling algorithm which have been applied on English successfully. The structured representation of medical concepts and values could enable physicians a quick abstraction of patients’ pathological status and also offers great convenience for large scale analysis. The results can also provide us with a lot of insights on how to design extracting models according to Chinese own characteristics.
+
+@&#CONCLUSIONS@&#

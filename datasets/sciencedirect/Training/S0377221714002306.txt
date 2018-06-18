@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Construction of asymmetric copulas and its application in two-dimensional reliability modelling
+
+@&#HIGHLIGHTS@&#
+Introduced a method of constructing asymmetric copulas.Discovered the existence of tail dependence of two-dimensional reliability data.Applied the proposed method to warranty data analysis.
+
+@&#KEYPHRASES@&#
+Copula,Tail dependence,Warranty,Two-dimensional reliability data,Asymmetric,
+
+@&#ABSTRACT@&#
+Copulas offer a useful tool in modelling the dependence among random variables. In the literature, most of the existing copulas are symmetric while data collected from the real world may exhibit asymmetric nature. This necessitates developing asymmetric copulas that can model such data. In the meantime, existing methods of modelling two-dimensional reliability data are not able to capture the tail dependence that exists between the pair of age and usage, which are the two dimensions designated to describe product life. This paper proposes a new method of constructing asymmetric copulas, discusses the properties of the new copulas, and applies the method to fit two-dimensional reliability data that are collected from the real world.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

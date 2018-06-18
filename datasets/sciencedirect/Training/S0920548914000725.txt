@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Modular design of an open-source, networked embedded system
+
+@&#HIGHLIGHTS@&#
+The paper shows how to design an open-source, networked embedded system.It integrates a real-time fieldbus, TCP/IP connectivity and USB mass storage.The design emphasizes modularity and ease of portability to similar systems.The software easily fits into the internal memory of low-cost microcontrollers.
+
+@&#KEYPHRASES@&#
+Open-source software,Embedded systems,Distributed systems,
+
+@&#ABSTRACT@&#
+The ever increasing hardware capabilities typical of modern microcontrollers make it easier to add more and more functions to embedded systems, even for relatively low-end ones. In turn, this raises new requirements on their ﬁrmware, focusing on aspects like adherence to international and industrial standards, modularity, portability, fast time to market, and integration of diverse software components.This paper shows, by means of a case study, how to design a full-ﬂedged networked embedded system using only open-source components, including a small-scale real-time operating system. In addition, it highlights how different components addressed key design issues, like inter-task synchronization and communication.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

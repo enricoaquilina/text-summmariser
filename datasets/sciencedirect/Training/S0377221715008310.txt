@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Accuracy of mortgage portfolio risk forecasts during financial crises
+
+@&#HIGHLIGHTS@&#
+Comparison of forecast and realized US sub-prime mortgage default rates.Auto-regressive adjustment of default probability forecasts improves accuracy.Value-at-Risk sufficiency in all crises periods under quarterly forecasting.
+
+@&#KEYPHRASES@&#
+Bayesian estimation,Maximum likelihood estimation,Model risk,Mortgage,Value-at-risk,
+
+@&#ABSTRACT@&#
+This paper explores whether factor based credit portfolio risk models are able to predict losses in severe economic downturns such as the recent Global Financial Crisis (GFC) within standard confidence levels. The paper analyzes (i) the accuracy of default rate forecasts, and (ii) whether forecast downturn percentiles (Value-at-Risk, VaR) are sufficient to cover default rate outcomes over a quarterly and an annual forecast horizon. Uninformative maximum likelihood and informative Bayesian techniques are compared as they imply different degrees of uncertainty.We find that quarterly VaR estimates are generally sufficient but annual VaR estimates may be insufficient during economic downturns. In addition, the paper develops and analyzes models based on auto-regressive adjustments of scores, which provide a higher forecast accuracy. The consideration of parameter uncertainty and auto-regressive error terms mitigates the shortfall.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

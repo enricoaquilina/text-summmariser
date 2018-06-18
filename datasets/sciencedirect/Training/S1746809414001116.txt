@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Detection of emotions in Parkinson's disease using higher order spectral features from brain's electrical activity
+
+@&#HIGHLIGHTS@&#
+Computational framework for classifying PD patients compared to HC using emotional information.Bispectrum features across ALL frequency bands are better than individual frequency bands.Higher frequency bands play a more important role in emotional activities.PD patients showed emotional impairments, particularly for negative emotions.Dynamic processes underlying the EEG recording that are less complex for PD patients.
+
+@&#KEYPHRASES@&#
+Electroencephalogram,Emotion recognition,Parkinson's disease,Bispectrum,Support vector machine,
+
+@&#ABSTRACT@&#
+ObjectiveNon-motor symptoms in Parkinson's disease (PD) involving cognition and emotion have been progressively receiving more attention in recent times. Electroencephalogram (EEG) signals, being an activity of central nervous system, can reflect the underlying true emotional state of a person. This paper presents a computational framework for classifying PD patients compared to healthy controls (HC) using emotional information from the brain's electrical activity.ApproachEmotional EEG data were obtained from 20 PD patients and 20 healthy age-, gender- and education level-matched controls by inducing the six basic emotions of happiness, sadness, fear, anger, surprise and disgust using multimodal (audio and visual) stimuli. In addition, participants were asked to report their subjective affect. Because of the nonlinear and dynamic nature of EEG signals, we utilized higher order spectral features (specifically, bispectrum) for analysis. Two different classifiers namely K-Nearest Neighbor (KNN) and Support Vector Machine (SVM) were used to investigate the performance of the HOS based features to classify each of the six emotional states of PD patients compared to HC. Ten-fold cross-validation method was used for testing the reliability of the classifier results.Main resultsFrom the experimental results with our EEG data set, we found that (a) classification performance of bispectrum features across ALL frequency bands is better than individual frequency bands in both the groups using SVM classifier; (b) higher frequency band plays a more important role in emotion activities than lower frequency band; and (c) PD patients showed emotional impairments compared to HC, as demonstrated by a lower classification performance, particularly for negative emotions (sadness, fear, anger and disgust).SignificanceThese results demonstrate the effectiveness of applying EEG features with machine learning techniques to classify the each emotional state difference of PD patients compared to HC, and offer a promising approach for detection of emotional impairments associated with other neurological disorders.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

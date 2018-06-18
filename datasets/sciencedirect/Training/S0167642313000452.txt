@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+The CancerGrid experience: Metadata-based model-driven engineering for clinical trials
+
+@&#HIGHLIGHTS@&#
+Summary, philosophy, and lessons of the CancerGrid project and follow-ons.Software support for cancer clinical trials, and similar data collection exercises.Metadata support, to enable subsequent meta-analysis.Model-driven generation of software artefacts to run trial.Four case studies.
+
+@&#KEYPHRASES@&#
+Metadata,ISO/IEC11179,Semantic frameworks,Model-driven engineering,Clinical informatics,Electronic government,
+
+@&#ABSTRACT@&#
+The CancerGrid approach to software support for clinical trials is based on two principles: careful curation of semantic metadata about clinical observations, to enable subsequent data integration, and model-driven generation of trial-specific software artefacts from a trial protocol, to streamline the software development process. This paper explains the approach, presents four varied case studies, and discusses the lessons learned.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

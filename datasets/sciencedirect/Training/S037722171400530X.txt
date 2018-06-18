@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+An adaptive stochastic knapsack problem
+
+@&#HIGHLIGHTS@&#
+We consider a stochastic knapsack problem withntypes of items and each has infinite supply.Stochastic dynamic programming method is applied in evaluating the optimal value function.When only two types of items available, there exists an optimal policy.A straightforward heuristic policy for generalngives good performance.
+
+@&#KEYPHRASES@&#
+Decision process,Dynamic programming,Stochastic knapsack,
+
+@&#ABSTRACT@&#
+We consider a stochastic knapsack problem in which the event of overflow results in the problem ending with zero return. We assume that there are n types of items available where each type has infinite supply. An item has an exponentially distributed random weight with a known mean depending on its type and the item’s value is proportional to its weight with a given factor depending on the item’s type. We have to make a decision on each stage whether to stop, or continue to put an item of a selected type in the knapsack. An item’s weight is learned when placed to the knapsack. The objective of this problem is to find a policy that maximizes the expected total values. Using the framework of dynamic programming, the optimal policy is found whenn=2and a heuristic policy is suggested forn>2.
+
+@&#INTRODUCTION@&#
+In the classic knapsack problem, given a set of items whose values and weights are deterministic, the objective is to find a subset of items to put in the knapsack in order to maximize the total values without incurring overflow. The knapsack problem and its variants have many applications in such areas as transportation scheduling, projects selection, resource allocation/management, and others.This paper considers the zero return if broken (ZRB) knapsack problem. In ZRB knapsack problem, an item’s weight is unknown before being put in but follows a known distribution; its value per unit weight is given and determined by the item’s type. It’s assumed that once the knapsack is broken from breaching the capacity constraint, all the existing items in the knapsack are wiped out without any salvage value, i.e., no additional items can be inserted into the now empty knapsack and we stop there. The ZRB knapsack problem is an adaptive stochastic knapsack problem, for which a policy is defined as a schedule to put in items sequentially which adapts to the information feedback on the updated system state. The objective is to find a policy which maximizes the expected total return.The ZRB knapsack problem can be applied in the situations where breaking knapsack triggers the wipeout effect, e.g., over-utilization of the credit line freezes account actions; medicine over-dosing negates the desired function, etc. Another application is in space exploration where loading over the capacity limit of a space craft leads to total lost of all on-board cargos. The ZRB knapsack problem is also important as its optimal expected return provides a lower bound on the optimal expected return in any adaptive knapsack problem which yields the same return as in our model when stopping occurs before the knapsack reaches capacity but where the return when the knapsack’s capacity is exceeded is any arbitrary nonnegative function of the sequence of types and values of the items in the knapsack.
+
+@&#CONCLUSIONS@&#

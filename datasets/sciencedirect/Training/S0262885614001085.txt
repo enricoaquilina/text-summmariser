@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Local circular patterns for multi-modal facial gender and ethnicity classification
+
+@&#HIGHLIGHTS@&#
+We investigate multi-modal (2D+3D) facial gender and ethnicity classification.We propose a novel local descriptor, LCP, to capture both 2D and 3D facial clues.LCP is more discriminative and more robust to noise than LBP-like features.Combing both modalities improves results in gender and ethnicity classification.We achieve competitive performance compared to state of the art in such tasks.
+
+@&#KEYPHRASES@&#
+Soft biometrics,Multi-modal facial gender and ethnicity classification,Local descriptor,Decision level fusion,
+
+@&#ABSTRACT@&#
+Gender and ethnicity are both key demographic attributes of human beings and they play a very fundamental and important role in automatic machine based face analysis, therefore, there has been increasing attention for face based gender and ethnicity classification in recent years. In this paper, we present an effective and efficient approach on this issue by combining both boosted local texture and shape features extracted from 3D face models, in contrast to the existing ones that only depend on either 2D texture or 3D shape of faces. In order to comprehensively represent the difference between different genders or ethnicities, we propose a novel local descriptor, namely local circular patterns (LCP). LCP improves the widely utilized local binary patterns (LBP) and its variants by replacing the binary quantization with a clustering based one, resulting in higher discriminative power as well as better robustness to noise. Meanwhile the following Adaboost based feature selection finds the most discriminative gender- and race-related features and assigns them with different weights to highlight their importance in classification, which not only further raises the performance but reduces the time and memory cost as well. Experimental results achieved on the FRGC v2.0 and BU-3DFE datasets clearly demonstrate the advantages of the proposed method.
+
+@&#INTRODUCTION@&#
+Gender and ethnicity11We use “race” and “ethnicity” interchangeably here as the same concept is expressed by both terms in the previous literature.clues are two of the most fundamental and important demographic attributes of human beings, which remain unchanged all through lifetime. While people can easily recognize the gender and ethnicity of each other through their facial appearances, it is still a non-trivial problem for computers. Automatic face-based gender and ethnicity classification has promising applications in Human Computer Interaction (HCI), Business Intelligence (BI), surveillance, video and image retrieval, database indexing, and can provide useful information for face recognition.
+
+@&#CONCLUSIONS@&#

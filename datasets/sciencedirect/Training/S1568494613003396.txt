@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Fuzzy logic system based prediction effort: A case study on the effects of tire parameters on contact area and contact pressure
+
+@&#HIGHLIGHTS@&#
+A novel nonlinear soft computing approach for prediction of contact area and contact pressure.This study presents a promising soft computing method toward predicting nonlinear soil–wheel interactions.This study calls attention to a superior modeling tool (FES) due to simplicity, robustness, accuracy and inexpensiveness and dealing with multivariate input and outputs wherein conventional methods fail.This study is a contribution to experts and researchers included but not limited in realms of agricultural engineering, energy management, machine designers and environmental studies.
+
+@&#KEYPHRASES@&#
+Fuzzy logic system,Contact area,Contact pressure,Soil bin,Prediction model,
+
+@&#ABSTRACT@&#
+Various methodologies of artificial intelligence have been recently used for estimating performance parameters of soil working machines and off-road vehicles. Due to nonlinear and stochastic features of soil–wheel interactions, application of knowledge-based Mamdani max–min fuzzy expert system for estimation of contact area and contact pressure is described in this paper. Fuzzy logic model was constructed by use of the experience of contact area and contact pressure utilizing data obtained from series of experimentations in soil bin facility and a single-wheel tester. Two paramount tire parameters: wheel load and tire inflation pressure are the input variables for our model, each has five membership functions. As a fundamental aspect of the fuzzy logic based prediction systems, a set of fuzzy if-then rules were used in accordance with fuzzy logic principles. 25 linguistic if-then rules were included to develop a complicated highly intelligent predicting model based on Centroid method at defuzzification stage. The model performance was assessed on the basis of several statistical quality criteria. Mean relative error lower than 10%, satisfactory scattering around unity-slope line (T), and high coefficient of determination, R2, were obtained by the fuzzy logic model proposed in this study.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Cladograms with Path to Event (ClaPTE): A novel algorithm to detect associations between genotypes or phenotypes using phylogenies
+
+@&#HIGHLIGHTS@&#
+Novel method identifies associated mutations, accounting for common ancestry.Controls false positive rates when a multiple hypothesis correction is applied.Computationally efficient method, suitable for large data sets.
+
+@&#KEYPHRASES@&#
+Phylogenetics,Correlated evolution,Genotype-phenotype association,Genetic simulation,Drug resistance,Influenza evolution,HIV evolution,Protein evolution,
+
+@&#ABSTRACT@&#
+BackgroundAssociations between genotype and phenotype provide insight into the evolution of pathogenesis, drug resistance, and the spread of pathogens between hosts. However, common ancestry can lead to apparent associations between biologically unrelated features. The novel method Cladograms with Path to Event (ClaPTE) detects associations between character-pairs (either a pair of mutations or a mutation paired with a phenotype) while adjusting for common ancestry, using phylogenetic trees.MethodsClaPTE tests for character-pairs changing close together on the phylogenetic tree, consistent with an associated character-pair. ClaPTE is compared to three existing methods (independent contrasts, mixed model, and likelihood ratio) to detect character-pair associations adjusted for common ancestry. Comparisons utilize simulations on gene trees for: HIV Env, HIV promoter, and bacterial DnaJ and GuaB; and case studies for Oseltamavir resistance in Influenza, and for DnaJ and GuaB. Simulated data include both true-positive/associated character-pairs, and true-negative/not-associated character-pairs, used to assess type I (frequency of p-values in true-negatives) and type II (sensitivity to true-positives) error control.Results and conclusionsClaPTE has competitive sensitivity and better type I error control than existing methods. In the Influenza/Oseltamavir case study, ClaPTE reports no new permissive mutations but detects associations between adjacent (in primary sequence) amino acid positions which other methods miss. In the DnaJ and GuaB case study, ClaPTE reports more frequent associations between positions both from the same protein family than between positions from different families, in contrast to other methods. In both case studies, the results from ClaPTE are biologically plausible.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

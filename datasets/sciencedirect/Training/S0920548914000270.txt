@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+SCPN modeling and comparative performance evaluation of bussed and crossbar-based switched fabric CAN
+
+@&#HIGHLIGHTS@&#
+SCPN models of Switched Fabric and Bussed CAN Network are presented using timed colored Petri nets.We evaluate and verify Switched Fabric and Bussed CAN Network using CPNTools.We compare Switched Fabric and Bussed CAN Network models to extract network performance metrics.
+
+@&#KEYPHRASES@&#
+Switched-fabric CAN network,CAN controller,Switch fabric,Network performance metrics,Comparison,CPN Tools,
+
+@&#ABSTRACT@&#
+In recent years, there has been a growth in a category of performance-critical distributed embedded systems and applications. These systems gain complexity when they are equipped with many microcontrollers which oversee many electronic control units (ECU). High performance and predictability are the main criteria of choice for any large-scale networked system dependent on real-time data processing and analysis. Switched-fabric networks can provide fast and highly scalable hardware solutions and are now being increasingly used in distributed systems.In this paper, SCPN models of switched fabric and bussed CAN network are presented using timed colored Petri nets. These models are then evaluated and verified for the desired properties using CPN Tools. Comparison is then applied to both of the models to extract information on network performance metrics.
+
+@&#INTRODUCTION@&#
+The demand for sophisticated embedded systems requires the use of different communicating entities (nodes) interact with each other. The growth of these systems requires more and more complex interaction [1]. A dedicated network bus is used for connecting sensors, actuators in vehicles, humanoid robots, networking fields, manufacture plants, etc… Many serial buses were developed by car makers like MOST, J1850, SAE J1708, Byteflight, LIN and CAN (controller area network)[2]. Most of them are specific to manufacturers and are not standardized. It is widely known that control area network (CAN) is one of the most popular field buses [3] used in real-time [4], distributed and parallel processing [5,6].More than 400million nodes were sold worldwide. It is used in those applications that require fast and reliable communication [7]. Nowadays, more sophisticated buses offer higher speed to satisfy the high bandwidth required for modern vehicles, suitable for x-by-wire application. They are concurrent to CAN networks like FlexRay [8], which recently appeared, and RTethernet. In contrast the usage of FlexRay [9] is not widely used due to its complex specification and high cost. Current parallel bus-based [10] solutions present some problems. In fact, it's known that the physical separation of cards is limited to usually less than 3ft. There are also limited bandwidths, throughput, high protocol overhead and no deterministic performance. To reduce system life-cycle cost to ease system upgrades, the current solutions require the re-architecturing of the software. The need for the availability (redundant buses, cards or entirely redundant systems) requires complex failover logistics and expensive hardware duplication. The use of switch fabric [11] provides new “net-centric” distributed systems that are much easier to scale, make fault-tolerant and upgrade.
+
+@&#CONCLUSIONS@&#

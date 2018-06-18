@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A graph based approach to hierarchical image over-segmentation
+
+@&#HIGHLIGHTS@&#
+A new approach to segment partitioning for superpixel segmentation is proposed.A new objective function optimized with graph cuts is proposed.The algorithm produces compact and regular superpixels of high quality.Comparable results with contemporary algorithms are achieved.
+
+@&#KEYPHRASES@&#
+Segmentation,Superpixels,Graph cuts,
+
+@&#ABSTRACT@&#
+The problem of image segmentation is formulated in terms of recursive partitioning of segments into subsegments by optimizing the proposed objective function via graph cuts. Our approach uses a special normalization of the objective function, which enables the production of a hierarchy of regular superpixels that adhere to image boundaries. To enforce compactness and visual homogeneity of segments a regularization strategy is proposed. Experiments on the Berkeley dataset show that the proposed algorithm is comparable in its performance to the state-of-the-art superpixel methods.
+
+@&#INTRODUCTION@&#
+The goal of image segmentation is to assign to each pixel a label that corresponds to a class of potential objects. It helps to find a convenient representation for further analysis by localizing image objects and boundaries. There are two common approaches to image segmentation. The first aims at extracting regions belonging to a given set of possible objects. The second aims at extracting segments of unknown object classes by grouping pixels that are similar in color, texture, etc.The first approach maximizes the probability that each pixel receives the correct label. The simplest method is to use a sliding window classifier that estimates the label of each pixel based on its local neighborhood. More advanced approaches take into account the coherence (neighboring pixels tend to have similar labels) [1,2] and semantic context [3]. They often use probabilistic graphical models, e.g. CRF [4]. In this case, their structure is represented by a graph, where image pixels are the vertices, and the edges define the dependencies between pixels. Efficient segmentation is then possible when the edges help to assign similar labels to the vertices.The second approach aims at extracting the most likely image objects with as few segments as possible. Superpixel algorithms have become popular for solving this kind of problems. They partition images into many relatively small segments. Superpixel segmentation helps to reduce image dimensionality with minimal loss of information and offers an easy way to leverage long-range pixels interdependencies. Regularity and ability to adhere to image boundaries make superpixels a convenient tool for calculating local image descriptors.Common requirements to superpixel algorithms are:1.Performance. Superpixel segmentation is often used as a preprocessing tool. It, therefore, should take less time than is required for further processing.Consistency. Superpixels boundaries should be consistent with image objects boundaries.Compactness and regularity. For many applications superpixels should be of similar size and more or less convex shape. Such superpixels help to extract better local descriptors and have fewer neighbors.
+
+@&#CONCLUSIONS@&#

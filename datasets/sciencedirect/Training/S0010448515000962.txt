@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Analytic methods for geometric modeling via spherical decomposition
+
+@&#HIGHLIGHTS@&#
+We propose a grid-free discretization scheme for analytic geometric modeling.Solids are approximated with countable unions of 3D balls cut from 4D cones.The unions turn into 3D slices of 4D Minkowski sums of knots and a template cone.The Minkowski formulation embeds well into cross-correlations between solids.The analytic formulation follows using convolution algebra and Fourier Transform.
+
+@&#KEYPHRASES@&#
+Analytic methods,Shape correlation,Spherical sampling,Fourier transform,Collision detection,
+
+@&#ABSTRACT@&#
+Analytic methods are emerging in solid and configuration modeling, while providing new insights into a variety of shape and motion related problems by exploiting tools from group morphology, convolution algebras, and harmonic analysis. However, most convolution-based methods have used uniform grid-based sampling to take advantage of the fast Fourier transform (FFT) algorithm. We propose a new paradigm for more efficient computation of analytic correlations that relies on a grid-free discretization of arbitrary shapes as countable unions of balls, in turn described as sublevel sets of summations of smooth radial kernels at adaptively sampled ‘knots’. Using a simple geometric lifting trick, we interpret this combination as a convolution of an impulsive skeletal density and primitive kernels with conical support, which faithfully embeds into the convolution formulation of interactions across different objects. Our approach enables fusion of search-efficient combinatorial data structures prevalent in time-critical collision and proximity queries with analytic methods popular in path planning and protein docking, and outperforms uniform grid-based FFT methods by leveraging nonequispaced FFTs. We provide example applications in formulating holonomic collision constraints, shape complementarity metrics, and morphological operations, unified within a single analytic framework.
+
+@&#INTRODUCTION@&#
+Analytic modeling relies on describing shape and configuration pointsets as sublevel sets of functions and formulating fundamental operations (e.g., pertaining to detecting collisions, similarity, complementarity, or symmetry) in terms of correlations between those functions. For example, Minkowski operations [1] that are central to mathematical morphology are formalized as convolutions of constituent functions and computed efficiently in the Fourier domain  [2]. Minkowski operations have been used extensively to formulate important problems in robot path planning  [3], mechanism workspace design  [4], virtual reality (graphics/haptics)  [5,6], protein docking  [7], packaging and nesting  [8], and more. Unfortunately, their combinatorial computation even for 3D polyhedral objects quickly becomes impractical with increasing number of polygons  [2]. This can be alleviated using classical FFTs  [9] for numerical implementation of convolutions, which take advantage of uniform spatial sampling. However, this and several related correlation-based problems can be solved more efficiently by using a spherical decomposition of the shape and nonuniform FFTs  [10]. Here we briefly review the roots of the main ideas, with a focus on collision detection (CD) and shape complementarity (SC) literature.
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Methods for strategic liner shipping network design
+
+@&#HIGHLIGHTS@&#
+Liner shipping networks should be designed in an integrated way.Integrated network design entails fleet design, ship scheduling and cargo routing.Integrated shipping network design can yield substantial cost savings.
+
+@&#KEYPHRASES@&#
+Transportation,Liner shipping,Network design,Scheduling,
+
+@&#ABSTRACT@&#
+In this paper the combined fleet-design, ship-scheduling and cargo-routing problem with limited availability of ships in liner shipping is considered. A composite solution approach is proposed in which the ports are first aggregated into port clusters to reduce the problem size. When the cargo flows are disaggregated, a feeder service network is introduced to ship the cargo within a port cluster. The solution method is tested on a problem instance containing 58 ports on the Asia–Europe trade lane of Maersk. The best obtained profit gives an improvement of more than 10% compared to the reference network based on the Maersk network.
+
+@&#INTRODUCTION@&#
+Seaborne shipping is the most important mode of transport in international trade. More than 80% of the international trade in 2010 is transported over sea (UNCTAD, 2010). In comparison to other modes of freight transport, like truck, aircraft, train and pipeline, ships are preferred for moving large amounts of cargo over long distances.In the shipping market, three types of operations are distinguished: tramp shipping, industrial shipping and liner shipping (Lawrence, 1972). Tramp ships do not have a fixed schedule and are used for immediate deliveries where the most profitable freight is available. Therefore, the activities in tramp shipping are very irregular. In industrial shipping the cargo owner controls the ship and the objective becomes to minimize the cost of shipping. In liner shipping, ships follow a fixed route within a fixed time schedule; this is most common in the container trade.The decision making in liner shipping can be distinguished on three different levels: the strategic, tactical and operational planning levels (Agarwal & Ergun, 2008). In the strategic planning level the optimal fleet-design is determined. This means that both the optimal number of ships in a fleet and the optimal ship sizes are determined in this level. This stage is very important, because the capital and operating cost in the (liner) shipping industry are very high. The ship-scheduling problem is solved in the tactical planning level. In this level, the service network is designed by creating ship routes and allocating the available ships to these routes. Finally, in the operational planning stage, it is determined which cargo is transported and which route(s) are used to ship the cargo. This problem is also referred to as the cargo-routing problem. The decisions made in a planning level influence the decision making in the other levels. Therefore, it could be profitable to solve the problems on the different levels simultaneously.
+
+@&#CONCLUSIONS@&#

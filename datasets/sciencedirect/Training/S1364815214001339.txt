@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Conditional bivariate probability function for source identification
+
+@&#HIGHLIGHTS@&#
+New method for source detection using ambient data time series.Possible to detect many more sources than previous methods.Inferences made based on emissions data.Comparison with an advanced Gaussian model.
+
+@&#KEYPHRASES@&#
+Receptor model,Source identification,Air quality data,Dispersion model,Air pollution,Openair,
+
+@&#ABSTRACT@&#
+In this paper a new receptor modelling method is developed to identify and characterise emission sources. The method is an extension of the commonly used conditional probability function (CPF). The CPF approach is extended to the bivariate case to produce a conditional bivariate probability function (CBPF) plot using wind speed as a third variable plotted on the radial axis. The bivariate case provides more information on the type of sources being identified by providing important dispersion characteristic information. By considering intervals of concentration, considerably more source information can be revealed that is absent in the basic CPF or CBPF. We demonstrate the application of the approach by considering an area of high source complexity, where many new sources can be identified and characterised compared with currently used techniques. Dispersion model simulations are undertaken to verify the approach. The technique has been made available through the openair R package.The methods described in this work are available as part of software called openair. The openair software is freely available as an R package. Details on installing R and optional packages including openair can be found at R Core Team (2014) and http://www.r-project.org. R will run on Microsoft Windows, linux and Apple Mac computers. No special hardware is required to run openair other than a standard desktop computer. Some large data sets or complex analyses may require a 64-bit platform. Ref: R Core Team (2014). R: A language and environment for statistical computing. RFoundation for Statistical Computing, Vienna, Austria. URL http://www.R-project.org/.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+This study has combined two approaches commonly used for source identification in receptor modelling. The Conditional Probability Function provides a simple but effective way in identifying major source directions and the bivariate polar plot provides additional information on how sources disperse. The latter can therefore help to discriminate different source types through their wind speed dependence. Combining these two techniques provides a new method termed the Conditional Bivariate Probability Function (CBPF).The CBPF has been developed further to consider intervals in the concentration of a species. It is found that sources tend to occupy clear concentration intervals, which allows many more sources to be identified than was previously possible. For example, a distant but large point source might not be identified using a basic CPF or bivariate plot but can be identified in a lower discrete concentration range of the CBPF. The approach can therefore provide a more comprehensive understanding of a very wide range of sources affecting a particular monitoring site. In the application used in this study, distant point sources of SO2 could be identified which were not apparent previously; and nearby sources from an integrated steelworks could be better disaggregated. The identification of an increased number of sources was also shown using an advanced Gaussian plume model.

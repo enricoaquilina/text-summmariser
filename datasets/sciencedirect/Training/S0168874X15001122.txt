@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Efficient 3D analysis of laminate structures using ABD-equivalent material models
+
+@&#HIGHLIGHTS@&#
+A new method for efficient 3D FEA of laminated composite structures.Any laminated composite structure may be replaced by a phantom ABD-equivalent material.The new method gives identical results at greatly reduced cost whenever assumption of lamination theories apply.The approach may be easily implemented in any existing FEA system.The method is fully implemented in a mesh free system and validated by extensive numerical experiments.
+
+@&#KEYPHRASES@&#
+Composite,Laminate,Finite element method,Material model,
+
+@&#ABSTRACT@&#
+Laminate composites are widely used in automotive, aerospace, and increasingly in consumer industries, due to their reduced weight and superior structural properties. However, structural analysis of complex laminate structures remains challenging. 2D finite element methods based on plate/shell theories may be accurate and efficient, but they generally do not apply to the whole structure and require identification and preprocessing of the regions where the underlying assumptions hold. Fully automated structural analysis using solid 3D elements with sufficiently high order basis functions is possible in principle, but is rarely practiced due to the significant increase in the cost of computational integration over a large number of laminate plies.We propose a procedure to replace the original laminate by much simpler new virtual material models. These virtual material models, under the usual assumptions made in lamination theory, have the same constitutive relationship as the corresponding 2D plate model of the original laminate, but require only a small fraction of computational integration costs in 3D FEA. We describe implementation of 3D FEA using these material models in a meshfree system using second order B-spline basis functions. Finally, we demonstrate their validity by showing agreement between computed and known results for standard problems.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

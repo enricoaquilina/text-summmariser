@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Automatic brain tumour detection and neovasculature assessment with multiseries MRI analysis
+
+@&#HIGHLIGHTS@&#
+Automated RCBV perfusion map assessment is important in brain tumour diagnosis.Use of T1W, CE-T1W and FLAIR images enable RCBV analysis in suspected areas.Simultaneous analysis of various images yields tumour, edema and white matter.The results of automatic segmentations correspond well to manual delineations.
+
+@&#KEYPHRASES@&#
+Brain tumour,Image segmentation,Perfusion maps,Magnetic resonance imaging,Computer aided diagnosis,
+
+@&#ABSTRACT@&#
+In this paper a novel multi-stage automatic method for brain tumour detection and neovasculature assessment is presented. First, the brain symmetry is exploited to register the magnetic resonance (MR) series analysed. Then, the intracranial structures are found and the region of interest (ROI) is constrained within them to tumour and peritumoural areas using the Fluid Light Attenuation Inversion Recovery (FLAIR) series. Next, the contrast-enhanced lesions are detected on the basis of T1-weighted (T1W) differential images before and after contrast medium administration. Finally, their vascularisation is assessed based on the Regional Cerebral Blood Volume (RCBV) perfusion maps. The relative RCBV (rRCBV) map is calculated in relation to a healthy white matter, also found automatically, and visualised on the analysed series. Three main types of brain tumours, i.e. HG gliomas, metastases and meningiomas have been subjected to the analysis. The results of contrast enhanced lesions detection have been compared with manual delineations performed independently by two experts, yielding 64.84% sensitivity, 99.89% specificity and 71.83% Dice Similarity Coefficient (DSC) for twenty analysed studies of subjects with brain tumours diagnosed.
+
+@&#INTRODUCTION@&#
+Brain tumours belong to the group of tumours the most difficult to be treated as they often affect areas where the treatment of choice, namely the total tumour resection, is virtually impossible. Correct decisions concerning surgery, radiotherapy and chemotherapy planning strictly depend on the accuracy of tumour segmentation performed by a radiologist [1–3]. The task consists of outlining the suspected areas on each image, comparing and assessing the regions on multiple magnetic resonance (MR) series, marking the reference regions for calculations, etc. While some tasks can be partially automated (transferring the outline to an another slice) or even whole tumour detection, yet manual work is still required. This is especially difficult in the case of irregular shapes to be outlined (i.e. white matter). This work done manually is a tedious and time-consuming task. Therefore, the assistance to radiologists in the process of brain tumour segmentation and assessment in MR images proves to be extremely vital.
+
+@&#CONCLUSIONS@&#

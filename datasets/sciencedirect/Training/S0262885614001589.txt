@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Attribute-based learning for gait recognition using spatio-temporal interest points
+
+@&#HIGHLIGHTS@&#
+A new gait feature is extracted from a raw gait video directly.The proposed gait feature extraction is performed in the spatio-temporal domain.The attribute-based learning is used to enhance the SVM-based gait classification.The proposed method has outstanding performances under changes of clothing types.The proposed method has outstanding performances under changes of carry conditions.
+
+@&#KEYPHRASES@&#
+Gait recognition,Human identification,Spatio-temporal,Attribute-based learning,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+Gait recognition has been studied broadly in a surveillance perspective because it is capable of identifying humans at a distance by inspecting their walking manners. A large number of gait recognition methods have been developed and published, which can be roughly divided into two categories: 1) model-based methods [1–10]; 2) model-free methods [11–22]. These methods require a pre-processing to extract gait appearances such as shape contours, silhouettes, skeletons, and body joints for further gait analysis. This pre-processing will consume additional computing time. It may also extract incomplete gait appearances which will negatively influence performances of gait analyses in later stages. Also, these gait appearances are sensitive to variations and partial occlusions caused by several factors such as carrying a bag and varying a type of clothes [23].
+
+@&#CONCLUSIONS@&#

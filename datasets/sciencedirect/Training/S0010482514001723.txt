@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Visualizing in vivo brain neural structures using volume rendered feature spaces
+
+@&#HIGHLIGHTS@&#
+Interactive visualization software for 3D microscope images is developed.A new transfer function design using volume rendered feature spaces is proposed.Multidimensional features are directly utilized for volume exploration.Two-photon microscope images of live mice are applied to the developed software.Soma, dendrites and apical dendrites are visualized using 3D feature spaces.
+
+@&#KEYPHRASES@&#
+Volume visualization,Feature analysis,Neural structures,Two-photon microscopy,
+
+@&#ABSTRACT@&#
+BackgroundDendrites of cortical neurons are widely spread across several layers of the cortex. Recently developed two-photon microscopy systems are capable of visualizing the morphology of neurons within deeper layers of the brain and generate large amounts of volumetric imaging data from living tissue.MethodFor visual exploration of the three-dimensional (3D) structure of dendrites and the connectivity among neurons in the brain, we propose a visualization software and interface for 3D images based on a new transfer function design using volume rendered feature spaces. This software enables the visualization of multidimensional descriptors of shape and texture extracted from imaging data to characterize tissue. It also allows the efficient analysis and visualization of large data sets.ResultsWe apply and demonstrate the software to two-photon microscopy images of a living mouse brain. By applying the developed visualization software and algorithms to two-photon microscope images of the mouse brain, we identified a set of feature values that distinguish characteristic structures such as soma, dendrites and apical dendrites in mouse brain. Also, the visualization interface was compared to conventional 1D/2D transfer function system.ConclusionsWe have developed a visualization tool and interface that can represent 3D feature values as textures and shapes. This visualization system allows the analysis and characterization of the higher-dimensional feature values of living tissues at the micron level and will contribute to new discoveries in basic biology and clinical medicine.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+This paper proposed a visualization software and interface for 3D microscopic images using the generation of a 3D feature space and a color and opacity interface using volume rendered feature spaces. It allows for the total observation of multiple indices of shape and texture included in the volume data. It also provides an environment in which the user can achieve the desired visualization while interactively and intuitively setting the parameters for multidimensional transfer functions. However, with the feature values used in this study, it was not possible to clearly visualize the microstructures in the white matter or the complex end structures of the apical dendrites. By optimizing visualization algorithms and interfaces that can handle feature values of three dimensions or more, we aim to establish visualization systems that contribute to new discoveries in biology, medicine and molecular modeling through the analysis of feature values of tissue at the micron level.The authors report no conflicts of interest.

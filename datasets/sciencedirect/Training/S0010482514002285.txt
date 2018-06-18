@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Quantifying subtle locomotion phenotypes of Drosophila larvae using internal structures based on FIM images
+
+@&#HIGHLIGHTS@&#
+We extend the range of applications of the recently published FIM imaging technique.We demonstrate how to integrate internal organs into locomotion phenotyping.Rolling behavior is automatically quantified based on the trachea (located dorsal).Maximal muscle contractions are detected based on gaps between muscle fibers.Proof-of-principle: internal structures visible in FIM images can be utilized.
+
+@&#KEYPHRASES@&#
+Neuroscience,Frustrated Total Internal Reflection (FTIR),FTIR-based Imaging Method (FIM),Internal organs,Drosophila larva,Trachea,Peristalsis,Rolling behavior,Histogram analysis,Clustering,
+
+@&#ABSTRACT@&#
+Quantitative analysis of behavioral traits requires precise image acquisition and sophisticated image analysis to detect subtle locomotion phenotypes. In the past, we have established Frustrated Total Internal Reflection (FTIR) to improve the measurability of small animals like insects. This FTIR-based Imaging Method (FIM) results in an excellent foreground/background contrast and even internal organs and other structures are visible without any complicated imaging or labeling techniques. For example, the trachea and muscle organizations are detectable in FIM images. Here these morphological details are incorporated into phenotyping by performing cluster analysis using histogram-based statistics for the first time. We demonstrate that FIM enables the precise quantification of locomotion features namely rolling behavior or muscle contractions. Both were impossible to quantify automatically before. This approach extends the range of FIM applications by enabling advanced automatic phenotyping for particular locomotion patterns.
+
+@&#INTRODUCTION@&#
+Quantitative behavioral studies have become an integral subject of biological research [1]. Examples for crawling animals like worms, larvae, beetles or flies are Drosophila melanogaster larvae [2–5], adult flies [6–8], the nematode Caenorhabditis elegans[9–11] and planarian [12]. The possibility of automated computer-based image acquisition and motion analysis facilitates high-throughput experiments [13,14] and complex experimental constructions [15–17]. The range of extractable locomotion features and the precision of the quantitative readout depend on the image acquisition technique (i.e. the overall hardware setup) and the subsequent locomotion feature extraction (i.e. the tracking software).
+
+@&#CONCLUSIONS@&#

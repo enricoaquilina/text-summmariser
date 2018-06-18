@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Tracking hand rotation and various grasping gestures from an IR camera using extended cylindrical manifold embedding
+
+@&#HIGHLIGHTS@&#
+A new cylindrical manifold embedding is proposed for tracking view and posture variation of hand shapes.The cylindrical manifold is extended to cover shape variations in different grasping style gestures.Tracking of hand shape variations with hand rotations in different type of grasping gestures from IR camera image is presented.
+
+@&#KEYPHRASES@&#
+Tracking,Manifold embedding,Inferred image,Hand gesture recognition,Style decomposition,Conceptual manifold embedding,
+
+@&#ABSTRACT@&#
+This paper presents a new approach for tracking hand rotation and various grasping gestures through an infrared camera. For the complexity and ambiguity of an observed hand shape, it is difficult to simultaneously estimate hand configuration and orientation from a silhouette image of a grasping hand gesture. This paper proposes a dynamic shape model for hand grasping gestures using cylindrical manifold embedding to analyze variations of hand shape in different hand configurations between two key hand poses and in simultaneous circular view change by hand rotation. An arbitrary hand shape between two key hand poses from any view can be generated using a cylindrical manifold embedding point after learning nonlinear generative models from the embedding space to the corresponding hand shape observed. The cylindrical manifold embedding model is extended to various grasping gestures by decomposing multiple cylindrical manifold embeddings through grasping style analysis. Grasping hand gestures with simultaneous hand rotation are tracked using particle filters on the manifold space with grasping style estimation. Experimental results for synthetic and real data indicate that the proposed model can accurately track various grasping gestures with hand rotation. The proposed approach may be applied to advanced user interfaces in dark environments by using images beyond the visible spectrum.
+
+@&#INTRODUCTION@&#
+Many studies have examined natural human–computer interactions in virtual environments, augmented reality, smart devices, and games [1,2]. The hand is one of the most effective interaction tools because of its dexterous functionality in communication and manipulation [3,4]. For useful human–computer interactions using hand gestures, it is important to accurately track hand pose without the use of gloves or other devices. A hand configuration is a kinematic hand model represented by joint angles independent of global transformations or rotations. A hand shape is defined by a combination of hand configuration and orientation. In addition to hand configuration, its rotation and global translation provide useful information for understanding hand gestures. In a manipulative hand gesture, a hand rotation parameter may provide additional useful information about object manipulation.
+
+@&#CONCLUSIONS@&#

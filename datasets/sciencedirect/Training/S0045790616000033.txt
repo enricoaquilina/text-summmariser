@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+The role of facial asymmetry in recognizing age-separated face images
+
+@&#HIGHLIGHTS@&#
+Facial asymmetry based approach is proposed to classify age-separated face images.Facial asymmetry is measured and evaluated across temporal variations.A 3 D matching-scores space is built using holistic, local and asymmetric features.SVM is used as classifier to separate genuine and imposter classes in score space.Results show better performance of proposed approach compared to existing methods.
+
+@&#KEYPHRASES@&#
+Facial asymmetry,Temporal variations,Matching-score space,Holistic features,Densely sampled asymmetric features,Local features,
+
+@&#ABSTRACT@&#
+Graphical abstractImage, graphical abstract
+
+@&#INTRODUCTION@&#
+Human face contains a number of recognition-specific clues including age, gender, race and expressions. Over the past five decades, several face recognition algorithms have been proposed in the literature. Currently, face recognition of age-separated face images is receiving continuous attention of research community. The major challenge in recognition of age-separated face images is to extract such discriminatory information, which can reduce matching-scores gap between gallery and corresponding probe images. Facial temporal variations are highly complex in nature due to number of factors including facial asymmetry. Although facial asymmetry has been used in previous face recognition studies [1–6], yet these studies lack facial asymmetry evaluation across temporal variations and its discriminatory role in recognizing age-separated face images. Motivated by this fact, we aim at: (1) evaluating facial asymmetry with small and large temporal variations; and (2) combining asymmetric facial features along with holistic (PCA) [7] and local feature descriptors (LBP) [8] to exploit the discriminatory information for recognition of age-separated face images.
+
+@&#CONCLUSIONS@&#
+We presented a facial asymmetry based approach to recognize age-separated face images. Each face image was represented by extracting existing PCA and LBP based features along with newly proposed DSAF features. Matching scores of respective feature vectors were then combined in proposed matching-score space (MSS) to discriminate between genuine and imposter classes, using support vector machine (SVM) as a classifier. In conclusion, firstly it is observed that facial asymmetry is an intrinsic facial feature, which can be used to recognize age-separated face images. Secondly, it is deduced that the proposed matching-score space based approach yields better recognition results compared to those of individual matching scores of PCA, LBP, and weighted DSAF features. Thirdly, the proposed approach is more adaptable to recognize age-separated face images with reduced computational time, compared to some existing state-of-the-art methods. Finally, the recognition results suggest that it is more difficult to recognize face images with large temporal variations compared to those with small temporal variations, due to change in facial features with increasing age.Change of facial asymmetry with progression of age and its role in recognition of age-separated face images is still a challenging problem in our view and needs continued focus of research community. Future works include the development of similar procedure using 3D facial data. Modeling facial asymmetric variations in facial age simulation process can be another direction to be sought.

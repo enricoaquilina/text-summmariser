@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Design and implementation of a realtime co-processor for denoising Fiber Optic Gyroscope signal
+
+@&#HIGHLIGHTS@&#
+Algorithm for denoising of Fiber Optics Gyroscope sensor signal is proposed.Hardware architecture of the algorithm is developed.The resource utilization of the proposed algorithm is compared with DWT and Kalman filter.Co-processor of the proposed algorithm is developed.An acceleration of 65× over software implementation is obtained using the developed co-processor.
+
+@&#KEYPHRASES@&#
+Kalman filter,Allan variance analysis,Field programmable gate array,Auxiliary processing unit,System on chip,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

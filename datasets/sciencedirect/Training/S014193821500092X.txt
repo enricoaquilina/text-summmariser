@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Visual comfort enhancement in stereoscopic 3D images using saliency-adaptive nonlinear disparity mapping
+
+@&#HIGHLIGHTS@&#
+Visual comfort enhancement in stereoscopic 3D images.Saliency-adaptive disparity maps to maintain the saliency influence.Nonlinear disparity mapping to minimize disparity distortion.Virtual view generation based on DIBR.Keeping the overall viewing image quality.
+
+@&#KEYPHRASES@&#
+Stereoscopic 3D (S3D) displays,Visual comfort enhancement,Saliency-adaptive,Salient region,Nonlinear disparity mapping,Depth-image-based-rendering (DIBR),
+
+@&#ABSTRACT@&#
+Perceptually salient regions have a significant effect on visual comfort in stereoscopic 3D (S3D) images. The conventional method of obtaining saliency maps is linear combination, which often weakens the saliency influence and distorts the original disparity range significantly. In this paper, we propose visual comfort enhancement in S3D images using saliency-adaptive nonlinear disparity mapping. First, we obtain saliency-adaptive disparity maps with visual sensitivity to maintain the disparity-based saliency influence. Then, we perform nonlinear disparity mapping based on a sigmoid function to minimize disparity distortions. Finally, we generate visually comfortable S3D images based on depth-image-based-rendering (DIBR). Experimental results demonstrate that the proposed method successfully improves visual comfort in S3D images by producing comfortable S3D images with high mean opinion score (MOS) while keeping the overall viewing image quality.
+
+@&#INTRODUCTION@&#
+Stereoscopic three-dimensional (S3D) media provides a more life-like and visually immersive viewing experience, and is regarded as a next generation media [1]. With the rapid advances in the multimedia technology, users can easily access S3D contents even at home. However, for their great success, the viewing safety, especially visual comfort of S3D contents should be ensured, which becomes a growing issue of concern. Visual discomfort in S3D images is often induced by several factors [2,3] such as excessive disparities, fast changes in disparity, disparity distribution, depth inconsistency, perceptual and cognitive inconsistency, the accommodation–vergence conflict, the mismatches in the left and right images, depth cue conflicts. It is necessary to improve the visual comfort in S3D images.
+
+@&#CONCLUSIONS@&#
+Visual discomfort has serious impact on the viewer’s experience in S3D images. To address the visual discomfort problem, we have proposed a visual comfort enhancement method using sensitivity-weighted saliency-adaptive nonlinear disparity mapping. Based on human visual perception, salient regions are more attractive than non-salient ones for viewers. Moreover, there exist sensitive and insensitive regions to HVS. Thus, we take both visual saliency and sensitivity into consideration as an indicator for nonlinear disparity mapping. Through the sensitivity-weighted saliency-adaptive nonlinear disparity mapping based on a sigmoid function, sensitive-salient discomfort regions are more compressed, while the other regions are less compressed. Therefore, the proposed method successfully compresses the excessive disparities while maintaining the comfortable disparities as much as possible. The experimental results demonstrate that the proposed method effectively improves visual comfort in S3D images.

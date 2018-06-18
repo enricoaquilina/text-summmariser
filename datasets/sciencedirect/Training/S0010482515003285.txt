@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Dynamics of the HPA axis and inflammatory cytokines: Insights from mathematical modeling
+
+@&#HIGHLIGHTS@&#
+A 5-D model of the interaction between the HPA axis and immune system is introduced.This work models the dynamics of TNF-a, IL-6, ACTH and cortisol in LPS injection.The model captures the main qualitative features of cytokine and hormone dynamics.The role of HPA axis in transition from acute to prolonged inflammation is analyzed
+
+@&#KEYPHRASES@&#
+Mathematical model,Immune system,Nervous system,Hypothalamic-pituitary-adrenal (HPA) axis,Inflammatory cytokines,
+
+@&#ABSTRACT@&#
+In the work presented here, a novel mathematical model was developed to explore the bi-directional communication between the hypothalamic-pituitary-adrenal (HPA) axis and inflammatory cytokines in acute inflammation. The dynamic model consists of five delay differential equations 5D for two main pro-inflammatory cytokines (TNF-α and IL-6) and two hormones of the HPA axis (ACTH and cortisol) and LPS endotoxin. The model is an attempt to increase the understanding of the role of primary hormones and cytokines in this complex relationship by demonstrating the influence of different organs and hormones in the regulation of the inflammatory response. The model captures the main qualitative features of cytokine and hormone dynamics when a toxic challenge is introduced. Moreover, in this work a new simple delayed model of the HPA axis is introduced which supports the understanding of the ultradian rhythm of HPA hormones both in normal and infection conditions. Through simulations using the model, the role of key inflammatory cytokines and cortisol in transition from acute to persistent inflammation through stability analysis is investigated. Also, by employing a Markov chain Monte Carlo (MCMC) method, parameter uncertainty and the effects of parameter variations on each other are analyzed. This model confirms the important role of the HPA axis in acute and prolonged inflammation and can be a useful tool in further investigation of the role of stress on the immune response to infectious diseases.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

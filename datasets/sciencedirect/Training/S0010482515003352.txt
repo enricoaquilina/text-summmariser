@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Manifold ranking based scoring system with its application to cardiac arrest prediction: A retrospective study in emergency department patients
+
+@&#HIGHLIGHTS@&#
+We develop a novel manifold ranking based risk scoring system.We apply the novel scoring system for the prediction of cardiac arrest in emergency department patients.The risk scoring system is designed to handle both balanced and imbalanced datasets.
+
+@&#KEYPHRASES@&#
+Cardiac arrest,Machine learning,Scoring system,Manifold ranking,Emergency medicine,
+
+@&#ABSTRACT@&#
+BackgroundThe recently developed geometric distance scoring system has shown the effectiveness of scoring systems in predicting cardiac arrest within 72h and the potential to predict other clinical outcomes. However, the geometric distance scoring system predicts scores based on only local structure embedded by the data, thus leaving much room for improvement in terms of prediction accuracy.MethodsWe developed a novel scoring system for predicting cardiac arrest within 72h. The scoring system was developed based on a semi-supervised learning algorithm, manifold ranking, which explores both the local and global consistency of the data. System evaluation was conducted on emergency department patients׳ data, including both vital signs and heart rate variability (HRV) parameters. Comparison of the proposed scoring system with previous work was given in terms of sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV).ResultsOut of 1025 patients, 52 (5.1%) met the primary outcome. Experimental results show that the proposed scoring system was able to achieve higher area under the curve (AUC) on both the balanced dataset (0.907 vs. 0.824) and the imbalanced dataset (0.774 vs. 0.734) compared to the geometric distance scoring system.ConclusionsThe proposed scoring system improved the prediction accuracy by utilizing the global consistency of the training data. We foresee the potential of extending this scoring system, as well as manifold ranking algorithm, to other medical decision making problems. Furthermore, we will investigate the parameter selection process and other techniques to improve performance on the imbalanced dataset.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

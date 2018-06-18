@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Improving angular speed uniformity by reparameterization
+
+@&#HIGHLIGHTS@&#
+Introduce the angular speed uniformity as a quality measure of parameterizations.Propose a method to compute uniform reparameterizations.Prove that only straight lines have uniform rational parameterizations.Design an algorithm to find the optimal reparameterization with the same degree.Establish specific results for quadratic and certain cubic Bézier curves.
+
+@&#KEYPHRASES@&#
+Parametric plane curve,Angular speed uniformity,Uniform parameterization,Optimally uniform rational parameterization,Optimal Möbius transformation,
+
+@&#ABSTRACT@&#
+We introduce the notion of angular speed uniformity as a quality measure for parameter-izations of plane curves and propose an algorithm to compute uniform reparameterizations for quadratic and cubic curves. We prove that only straight lines have uniform rational parameterizations. For any plane curve other than lines, we show how to find a rational reparameterization that has the maximum uniformity among all the rational parameterizations of the same degree. We also establish specific results for quadratic and certain cubic Bézier curves.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

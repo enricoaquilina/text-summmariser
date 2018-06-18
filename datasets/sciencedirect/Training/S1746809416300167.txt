@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Reconstruction of EEG from limited channel acquisition using estimated signal correlation
+
+@&#HIGHLIGHTS@&#
+KLT computed using all channels of EEG captures the inter-channel correlation.Correlation learnt is used to reconstruct channels not recorded in a test session.Estimation of missing or noisy channels and 10-10 channels from 10-20 recordings.Average NMSE is less than 1.0% when only a few channels (≤ 6) are predicted.Useful in sleep studies for predicting disconnected channels and in wireless EEG.
+
+@&#KEYPHRASES@&#
+Correlated signals,Karhunen–Loeve Transform,Electroencephalography,Motor-imagery tasks,Compressed sensing,Convex optimization,EEG electrode placement,
+
+@&#ABSTRACT@&#
+Nearby scalp channels in multi-channel EEG data exhibit high correlation. A question that naturally arises is whether it is required to record signals from all the electrodes in a group of closely spaced electrodes in a typical measurement setup. One could save on the number of channels that are recorded, if it were possible to reconstruct the omitted channels to the accuracy needed for identifying the relevant information (say, spectral content in the signal), required to carry out a preliminary diagnosis. We address this problem from a compressed sensing perspective and propose a measurement and reconstruction scheme. Working with publicly available EEG database, we have demonstrated that up to 12 channels in the 10-10 system of electrode placement can be estimated within an average error of 2% from recordings of the remaining channels. As a limiting case, all the channels of the 10-10 system can be estimated using recordings on the sparser 10-20 system within an error of less than 20% in each of the significant bands: delta, theta, beta and alpha.
+
+@&#INTRODUCTION@&#
+Nearby scalp channels of multi-channel EEG exhibit high correlation because EEG signals are not produced in the scalp or the neurons (brain) directly under the recording electrodes. Instead, as suggested in [1], they are a consequence of partial synchrony of local field potentials from distinct cortical domains – each domain, in the simplest case, being a patch of cortex of unknown extent. At any electrode, the EEG recording is a weighted linear mixture of underlying cortical source signals. The strong correlations observed between EEG recordings at nearby electrodes can be attributed to the spatial mixing of EEG source signals by volume conduction. Significant research effort has gone into exploring the correlation between EEG recordings at electrodes on different areas of the scalp. Heavy correlation, as high as 0.9, has been reported between anterior–posterior EEG signals in the alpha band in [2–4]. Very high coherence in the delta band has been reported in [5] between posterior temporal lobe regions. Interhemispheric coherence in the gamma band has been studied in normal adults in [6]. Existence of very high correlation, between temporal regions of the human brain, in the alpha band has been reported in [7].
+
+@&#CONCLUSIONS@&#

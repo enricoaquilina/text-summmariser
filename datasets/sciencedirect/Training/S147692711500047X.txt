@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Genetic Bee Colony (GBC) algorithm: A new gene selection method for microarray cancer classification
+
+@&#HIGHLIGHTS@&#
+We improved the ABC algorithm by adding a uniform crossover operation in the onlooker phase.We increased the number of scout bees to two.We adopted a mutation operation during the replacement process at the scout bee phase.
+
+@&#KEYPHRASES@&#
+Microarray,Gene selection,Feature selection,Cancer classification,Gene expression profile,Filter method,Artificial Bee Colony,ABC,MRMR,
+
+@&#ABSTRACT@&#
+Naturally inspired evolutionary algorithms prove effectiveness when used for solving feature selection and classification problems. Artificial Bee Colony (ABC) is a relatively new swarm intelligence method. In this paper, we propose a new hybrid gene selection method, namely Genetic Bee Colony (GBC) algorithm. The proposed algorithm combines the used of a Genetic Algorithm (GA) along with Artificial Bee Colony (ABC) algorithm. The goal is to integrate the advantages of both algorithms. The proposed algorithm is applied to a microarray gene expression profile in order to select the most predictive and informative genes for cancer classification. In order to test the accuracy performance of the proposed algorithm, extensive experiments were conducted. Three binary microarray datasets are use, which include: colon, leukemia, and lung. In addition, another three multi-class microarray datasets are used, which are: SRBCT, lymphoma, and leukemia. Results of the GBC algorithm are compared with our recently proposed technique: mRMR when combined with the Artificial Bee Colony algorithm (mRMR-ABC). We also compared the combination of mRMR with GA (mRMR-GA) and Particle Swarm Optimization (mRMR-PSO) algorithms. In addition, we compared the GBC algorithm with other related algorithms that have been recently published in the literature, using all benchmark datasets. The GBC algorithm shows superior performance as it achieved the highest classification accuracy along with the lowest average number of selected genes. This proves that the GBC algorithm is a promising approach for solving the gene selection problem in both binary and multi-class cancer classification.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

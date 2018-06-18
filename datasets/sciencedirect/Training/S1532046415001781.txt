@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Risk factor detection for heart disease by applying text analytics in electronic medical records
+
+@&#HIGHLIGHTS@&#
+Risk factor detection in electronic medical records (EMR) was automated.Existing tools and techniques were leveraged to build detection systems.A general binary classification system was used to extract various risk factors.Additional classifiers were built for subsets of target risk factors.The hybrid approach combining our systems achieved F-score of 0.92.
+
+@&#KEYPHRASES@&#
+Medical records,Risk assessment,Natural language processing,Text classification,
+
+@&#ABSTRACT@&#
+In the United States, about 600,000 people die of heart disease every year. The annual cost of care services, medications, and lost productivity reportedly exceeds 108.9billion dollars. Effective disease risk assessment is critical to prevention, care, and treatment planning. Recent advancements in text analytics have opened up new possibilities of using the rich information in electronic medical records (EMRs) to identify relevant risk factors. The 2014 i2b2/UTHealth Challenge brought together researchers and practitioners of clinical natural language processing (NLP) to tackle the identification of heart disease risk factors reported in EMRs. We participated in this track and developed an NLP system by leveraging existing tools and resources, both public and proprietary. Our system was a hybrid of several machine-learning and rule-based components. The system achieved an overall F1 score of 0.9185, with a recall of 0.9409 and a precision of 0.8972.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+To participate in Track 2 of the 2014 i2b2/UTHealth Challenge, we leveraged existing techniques and resources. We were able to demonstrate that the hot-spot technique used in prior i2b2 Challenges could be successfully adapted to this challenge. Combining hot-spot features with nQuiry [20,22], MedEx [23], Weka [24] (RIPPER [21]), LibSVM [26], and Stanford NER [27] to develop three type of classifiers: the general classifier, the dedicated smoking status classifier, and the sequence-labeling-based classifier. The general classifier with the smoker status classifier achieved an F-score of 0.9180 with a precision of 0.9010 and a recall of 0.9356. After supplementing results from the sequence-labeling-based classifier, the performance measures were improved for some of the target categories with different degrees. Over all, our final system merging different approaches achieved an F-score of 0.9185 with a precision of 0.8972 and a recall of 0.9409.The authors declare that there are no conflicts of interest.

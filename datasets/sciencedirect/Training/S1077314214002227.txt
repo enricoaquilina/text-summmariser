@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Matching-constrained active contours with affine-invariant shape prior
+
+@&#HIGHLIGHTS@&#
+Object matching and active contour is combined for achieving automatic object segmentation.The key technique is a novel affine-invariant interior-points-to-shape relation.A constrained optimization model is proposed to unify the computational framework.A projected-gradient decent algorithm is derived to solve the proposed model.
+
+@&#KEYPHRASES@&#
+Automatic object segmentation,Active contour,Object matching,Affine invariance,Matching-constrained active contour,Interior-points-to-shape relation,
+
+@&#ABSTRACT@&#
+In the object segmentation by active contours, an initial contour provided by user is often required. This paper extends the conventional active contour model by incorporating feature matching in the formulation for automatic object segmentation, yielding a novel matching-constrained active contour. The key to our formulation is a mathematical model of the relationship between interior feature points and object shape, called the interior-points-to-shape relation. According to this interior-points-to-shape relation, we are able to achieve the automatic object segmentation in two steps. Specifically, we are able to estimate the object boundary position given the matched interior feature points. Afterwards, we are able to further optimize the boundary position in the active contour framework. To obtain a unified optimization model for this task, we additionally formulate the matching score as a constraint to active contour model, resulting in our matching-constrained active contour. We also derive the projected-gradient descent equations to solve the constrained optimization. In the experiments, we show that our method achieves automatic object segmentation, and it clearly outperforms the related methods.
+
+@&#INTRODUCTION@&#
+Automatic object segmentation is desirable in many higher level computer vision tasks. Active contour model is one of the most well-known models for object segmentation. However, it generally requires the user to provide a contour curve sufficiently close to the object boundary to initiate the segmentation. Hence, the existing segmentation frameworks of active contours are generally semi-automatic. In Fig. 1, we show how the initialization affects the result of conventional affine shape prior based active contour [6,40].
+
+@&#CONCLUSIONS@&#

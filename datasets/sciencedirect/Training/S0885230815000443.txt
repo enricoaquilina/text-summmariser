@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Application of continuous state Hidden Markov Models to a classical problem in speech recognition
+
+@&#HIGHLIGHTS@&#
+We outline a model in which dynamic properties are explicit components.These dynamic properties reflect the smooth motion of speech articulators.We construct an optimal algorithm for decoding a signal satisfying the model.The underlying principle is that of the continuous state Hidden Markov Model.We show that the algorithm achieves its aims in an experiment on toy data.
+
+@&#KEYPHRASES@&#
+Speech recognition,Hidden Markov Model,Recognition by synthesis,
+
+@&#ABSTRACT@&#
+This paper describes an optimal algorithm using continuous state Hidden Markov Models for solving the HMS decoding problem, which is the problem of recovering an underlying sequence of phonetic units from measurements of smoothly varying acoustic features, thus inverting the speech generation process described by Holmes, Mattingly and Shearme in a well known paper (Speech synthesis by rule. Lang. Speech 7 (1964)).
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this paper we have outlined a model for sonorant speech based on that of Holmes, Mattingly and Shearme and we have developed an optimal algorithm for extracting information from the dynamics implied by it. We have validated the algorithm in experiments on toy data and we have shown how it can be extended to capture other important effects. Along the way we have shown that the dynamical structure of speech is imperfectly preserved by direct use of cepstral measurements.Questions for further consideration are:•How accurately can sonorant speech be modelled by piecewise linear formant frequencies and loudnesses?What should we do about non-sonorant sounds (such as unvoiced consonants)?How can we measure the acoustic features we need?Or if we cannot measure them reliably, can we modify the algorithm to incorporate them as a hidden layer?

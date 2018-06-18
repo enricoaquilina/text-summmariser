@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Visual multiple-secret sharing for flexible general access structure by random grids
+
+@&#HIGHLIGHTS@&#
+This flexible general access structure VSS scheme is appropriate for wide use.The paper outlines how the scheme can be extended for multiple secrets.The performance and the security of the scheme are theoretically analyzed.This method serves special cases like (2, n), (n, n), and (k, n).
+
+@&#KEYPHRASES@&#
+Random grids,Visual secret sharing,Visual cryptography,General access structures,
+
+@&#ABSTRACT@&#
+For visual secret sharing (VSS), general access structure (GAS), which can freely define the qualified set and the forbidden set, provides dealers the ability to share secret information with the qualified set but not the forbidden set. In previous studies, the proposed GAS schemes have focused on strong GAS, but it has retained restrictions and inconvenience in some secret-sharing scenarios. Recently, the random-grid-based VSS (RG-based VSS) technique has aimed to overcome the problem of pixel expansion from which the visual-cryptography-based VSS (VC-based VSS) techniques usually suffer. This paper presents a flexible GAS VSS scheme by RG that is appropriate for wide use and that serves special cases like (2, n), (n, n), and (k, n). The paper also outlines how the scheme can be extended for multiple secrets. The performance and the security of the scheme are theoretically analyzed.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+Although VC-based VSS is one of the important image secret-sharing approaches, its innate disadvantages make RG-based VSS a better candidate. Moreover, strong GAS VSS sometimes has restrictions, so it is not always suitable for VSS applications. Thus, it is worthwhile to propose a flexible GAS RG-based VSS scheme. This paper proposes a flexible GAS RG-based VSS scheme that can encode a secret image into n noisy random grids such that the random grids defined in the qualified set can be stacked to recover the original secret image, but the grids defined in the forbidden set not.The main contributions of the proposed scheme are that it achieves the goals of (1) flexible GAS RG-based VSS, (2) MS-GAS RG-based VSS, (3) removing the problem of pixel expansion, and (4) avoiding the complex design of codebooks. The previous (n, n) and (2, n) schemes are special cases of the proposed GAS version, as is the (k, n) threshold VSS.

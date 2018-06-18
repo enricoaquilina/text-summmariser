@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+New complexity results for parallel identical machine scheduling problems with preemption, release dates and regular criteria
+
+@&#HIGHLIGHTS@&#
+We study preemptive parallel identical machine scheduling problems with release dates.Solutions having a permutation flow shop structure are dominant.Completion times of all jobs can be ordered in an optimal solution.We provide new results on polynomially solvable problems.
+
+@&#KEYPHRASES@&#
+Scheduling,Identical machines,Preemptive problems,Dominant structure,Agreeability,Common due date,
+
+@&#ABSTRACT@&#
+In this paper, we are interested in parallel identical machine scheduling problems with preemption and release dates in case of a regular criterion to be minimized. We show that solutions having a permutation flow shop structure are dominant if there exists an optimal solution with completion times scheduled in the same order as the release dates, or if there is no release date. We also prove that, for a subclass of these problems, the completion times of all jobs can be ordered in an optimal solution. Using these two results, we provide new results on polynomially solvable problems and hence refine the boundary betweenPandNPfor these problems.
+
+@&#INTRODUCTION@&#
+The problem considered in this paper can be expressed as follows: there are n independent jobs 1,2,…,n and m identical machines M1,M2,…,Mm. Each job has a processing time pjand can be processed on any machine, but only on one machine at a time. Preemption is allowed, meaning that a job can be interrupted and resumed on an other machine. There exists a release date rjfor each job j, i.e. no job can start before its release date. We are interested in minimizing a regular (i.e. non-decreasing) function f. Usually, f is either∑fjor max fj, fjbeing any regular function of the completion time Cjof job j. Using the standard scheduling classification (Graham et al., 1989), this problem is denoted P∣pmtn,rj∣f.
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Optimizing conformality of NURBS surfaces by general bilinear transformations
+
+@&#HIGHLIGHTS@&#
+We give explicit representations of the general bilinear reparameterized surfaces.A scheme is given to construct the general bilinear reparameterized NURBS surfaces.An optimization method is given to improve the conformality of NURBS surfaces.
+
+@&#KEYPHRASES@&#
+NURBS surfaces,General bilinear transformation,Conformal mapping,Rendering,Tessellation,
+
+@&#ABSTRACT@&#
+The conformality of NURBS surfaces greatly affects the results of rendering and tessellation applications. To improve the conformality of NURBS surfaces, an optimization algorithm using general bilinear transformations is presented in this paper. The conformality energy is first formulated and its numerical approximation is then constructed using the composite simpson’s rule. The initial general bilinear transformation is obtained by approximating the conformal mapping of its 3D discretized mesh using a least square method, which is further optimized by the Levenberg–Marquardt method. Examples are given to show the performance of our algorithm for rendering and tessellation applications.[B01(s1)B01(t1)B01(s1)B11(t1)B11(s1)B01(t1)B11(s1)B11(t1)−B01(s1)B11(t1)u1−B11(s1)B01(t1)u1−B11(s1)B11(t1)u1⋮⋮⋮⋮⋮⋮⋮B01(sk)B01(tk)B01(sk)B11(tk)B11(sk)B01(tk)B11(sk)B11(tk)−B01(sk)B11(tk)uk−B11(sk)B01(tk)uk−B11(sk)B11(tk)uk⋮⋮⋮⋮⋮⋮⋮B01(sM)B01(tM)B01(sM)B11(tM)B11(sM)B01(tM)B11(sM)B11(tM)−B01(sM)B11(tM)uM−B11(sM)B01(tM)uM−B11(sM)B11(tM)uM]
+
+@&#INTRODUCTION@&#
+Freeform surfaces play an increasingly important role in contemporary Computer Aided Design (CAD). The results of most surface algorithms  [1–13] for surface rendering (e.g. texture mapping), tessellation and blending applications are highly dependent on the surface parameterization. A NURBS surface has an intrinsic rational piecewise polynomial mapping from the 3D surface to the 2D parameter domain (see Fig. 1). By surface reparameterizations  [14,11–13], the surface may have infinitely many different parameterizations. Depending on where and how it will be used, one may need to find a suitable or optimal parameterization out of the infinitely many, or to convert the given parameterization into another (more) suitable one  [14,11–13]. In many applications, such as texture mapping, surface tessellation, surface matching and registration, it is highly desirable that the parameterization is shape preserving (conformal) i.e. maps an elementary circle of the parameter domain to an elementary circle of the surface. At the same time, the surface modifications (changing the surface control points and/or weights) and surface fitting in reverse engineering both may introduce NURBS surfaces with parameterizations far from being conformal. From our point of view, the lack of conformal parameterizations is the bottleneck for NURBS surfaces to achieve high quality results for rendering and tessellation applications. Moreover, a conformal parameterization will lead to more robust and stable computations for derivative based algorithms such as surface intersection, curvature computation, and so on  [1,6,9,11].
+
+@&#CONCLUSIONS@&#

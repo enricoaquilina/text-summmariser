@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+People re-identification across non-overlapping cameras using group features
+
+@&#HIGHLIGHTS@&#
+People is grouped based on the spatio-temporal features of their trajectories.From people groups, new group features for people re-identification are extracted.The group features can be employed with any kind of existing appearance features.Experiments demonstrated that the group features improve people re-identification.
+
+@&#KEYPHRASES@&#
+People re-identification,Non-overlapping cameras,People grouping,
+
+@&#ABSTRACT@&#
+This paper proposes methods for people re-identification across non-overlapping cameras. We improve the robustness of re-identification by using additional group features acquired from the groups of people detected by each camera. People are grouped by discriminatively classifying the spatio-temporal features of their trajectories into those of grouped people and non-grouped people. Thereafter, three group features are obtained in each group and utilized with other general features of each person (e.g., color histogram, transit time between cameras, etc.) for people re-identification. Our experimental results have demonstrated improvements in people grouping and people re-identification when our proposed methods have been applied to a public dataset.
+
+@&#INTRODUCTION@&#
+Tracking via non-overlapping distributed cameras is crucial for efficient monitoring of people activities over a wide area. Such tracking can be achieved using re-identification methods across multiple cameras following visual tracking in each field of view.In general, people re-identification in a surveillance scenario should be performed not by recognition using high-level image features, such as face recognition, but by low-level feature matching. This is because image regions of people captured by general surveillance cameras are typically too small for high-level recognition techniques to be applicable.To improve people re-identification, we propose new features extracted from the group of people detected. The group of people (i.e., each rectangle shown in Fig. 1) is regarded as a set of people who are cohered based on the similarity of their relative positions and trajectories. Under the assumption that people in the same group are, in general, observed together even in different cameras,11This assumption is reasonable, for example, in indoor scenes where routes among cameras are limited (e.g. corridors in a building) and nearby cameras between which most pedestrians walk along similar trajectories.the new features of each group are employed for people re-identification. To improve the accuracy of re-identification, our proposed method combines the proposed group features with traditional image cues that represent the appearance of each person.The main contributions of this paper are summarized below.•People grouping using spatio-temporal features of their trajectories: Our proposed spatio-temporal features and classification scheme achieve people grouping such that (i) the co-occurrence of different features are expressed and (ii) noisy and ambiguous features are removed.People re-identification using group features: The group features are represented by the trajectories of people in each group and the number of these people, as well as the image cues of people in the group.
+
+@&#CONCLUSIONS@&#

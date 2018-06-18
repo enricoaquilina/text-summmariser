@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A robust aCGH data recovery framework based on half quadratic minimization
+
+@&#HIGHLIGHTS@&#
+A general framework for recovering multisample aCGH data.The solution of proposed formulation is given by Half Quadratic (HQ) methods.The proposed framework accommodates different robust M-estimators.Using Accelerated Proximal Gradient (APG) for speeding up the convergence rate.Numerous experimental results on simulated datasets with non-Gaussian noise to evaluate the robustness of the proposed framework.
+
+@&#KEYPHRASES@&#
+Cancer,CNV,aCGH,Half quadratic,Correntropy,
+
+@&#ABSTRACT@&#
+This paper presents a general half quadratic framework for simultaneous analysis of the whole array comparative genomic hybridization (aCGH) profiles in a data set. The proposed framework accommodates different M-estimation loss functions and two underlying assumptions for aCGH profiles of a data set: sparsity and low rank. Using M-estimation loss functions, this framework is more robust to various types of noise and outliers. The solution of the proposed framework is given by half quadratic (HQ) minimization. To hasten this procedure, accelerated proximal gradient (APG) is utilized. Experimental results support the robustness of the proposed framework in comparison to the state-of-the-art algorithms.
+
+@&#INTRODUCTION@&#
+Finding chromosomal aberrations is an important key to prognosticating and diagnosing various diseases such as cancer. Traditionally, finding these aberrations was accomplished by clinical scientists who were able to detect very little, subtle changes. However, the amount of material aberrations may be too small to be detected by a scientist under a microscope.Array comparative genomic hybridization (aCGH) is a significant advancement in technology that can detect any small chromosome imbalance that cannot be detected by looking down a microscope. In fact, aCGH is a major approach for discovering copy number variations (CNVs). A CNV is defined as an alteration (gain or loss) in copies of a DNA segment [1].The main challenge for detecting breakpoints is that aCGH profiles are highly corrupted by large noise and recovering true CNVs from noisy measurement cannot be done by simply thresholding the raw profiles. As a result, Manifold methods were proposed to recover true aCGH data from noisy measurements.
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Inventory performance under staggered deliveries and autocorrelated demand
+
+@&#HIGHLIGHTS@&#
+It is common to plan once per week or month, but to receive deliveries every day.This causes fill rate, availability, and inventory costs to change cyclically.We provide the inventory-optimal ordering policy and safety stock setting.Autocorrelation, lead time, and long order cycles can degrade inventory performance.We also identify the optimal order cycle length when an audit cost is present.
+
+@&#KEYPHRASES@&#
+Inventory,Autoregressive demand,Order-up-to-policy,Staggered deliveries,Planning cycles,
+
+@&#ABSTRACT@&#
+Production plans often span a whole week or month, even when independent production lots are completed every day and service performance is tallied daily. Such policies are said to use staggered deliveries, meaning that the production rate for multiple days are determined at a single point in time. Assuming autocorrelated demand, and linear inventory holding and backlog costs, we identify the optimal replenishment policy for order cycles of length P. With the addition of a once-per-cycle audit cost, we optimize the order cycle length P* via an inverse-function approach. In addition, we characterize periodic inventory costs, availability, and fill rate. As a consequence of staggering deliveries, the inventory level becomes cyclically heteroskedastic. This manifests itself as ripples in the expected cost and service levels. Nevertheless, the cost-optimal replenishment policy achieves a constant availability by using time-varying safety stocks; this is not the case with suboptimal constant safety stock policies, where the availability fluctuates over the cycle.
+
+@&#INTRODUCTION@&#
+Our paper is motivated by a recent experience with two manufacturers who planned on a weekly basis. One of the manufacturers had a local customer, just a few hours away by truck. The other manufacturer had a customer on another continent, six weeks away by container ship. Production and distribution planning in each case was conducted once per week in SAP, which automated the order-up-to (OUT) replenishment policy calculations. For the manufacturer with the remote customer, products were loaded into 40-feet containers that were dispatched at the end of the week. This matches well the literature on periodic review inventory systems, such as the base stock policy and the OUT policy.For the manufacturer with the local customer, whilst production and distribution plans where still generated at the start of the week, daily production lots were loaded onto trucks that were dispatched to the local customer at the end of each day. Here we have a planning cycle of one week, and an inventory inspection period of one day. This scenario, with mismatched order cycles and inspection periods, is quite popular in the just-in-time / lean environment. Nevertheless, this phenomenon has received little attention and is not well understood. The case when goods can be received every day, but when orders may be placed only once every P days is called staggered deliveries.
+
+@&#CONCLUSIONS@&#

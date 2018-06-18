@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A two-step automatic sleep stage classification method with dubious range detection
+
+@&#HIGHLIGHTS@&#
+A two-step classifier for automatic sleep staging is proposed.The system provides two outputs: non-dubious and dubious classification.The dubious epochs are tagged and re-assigned according to a post-processing step.The system indicates to an expert physician which results need revision.The accuracy of non-dubious classification for wake and REM is around 97%.
+
+@&#KEYPHRASES@&#
+Automatic sleep scoring,Misclassifications detection,Subjects׳ variability,Dubious range,Clinical applications,
+
+@&#ABSTRACT@&#
+BackgroundThe limitations of the current systems of automatic sleep stage classification (ASSC) are essentially related to the similarities between epochs from different sleep stages and the subjects׳ variability. Several studies have already identified the situations with the highest likelihood of misclassification in sleep scoring. Here, we took advantage of such information to develop an ASSC system based on knowledge of subjects׳ variability of some indicators that characterize sleep stages and on the American Academy of Sleep Medicine (AASM) rules.MethodsAn ASSC system consisting of a two-step classifier is proposed. In the first step, epochs are classified using support vector machines (SVMs) spread into different nodes of a decision tree. In the post-processing step, the epochs suspected of misclassification (dubious classification) are tagged, and a new classification is suggested. Identification and correction are based on the AASM rules, and on misclassifications most commonly found/reported in automatic sleep staging. Six electroencephalographic and two electrooculographic channels were used to classify wake, non-rapid eye movement (NREM) sleep – N1, N2 and N3, and rapid eye movement (REM) sleep.ResultsThe proposed system was tested in a dataset of 14 clinical polysomnographic records of subjects suspected of apnea disorders. Wake and REM epochs not falling in the dubious range, are classified with accuracy levels compatible with the requirements for clinical applications. The suggested correction assigned to the epochs that are tagged as dubious enhances the global results of all sleep stages.ConclusionsThis approach provides reliable sleep staging results for non-dubious epochs.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

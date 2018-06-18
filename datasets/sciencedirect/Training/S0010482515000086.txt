@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Monitoring eating habits using a piezoelectric sensor-based necklace
+
+@&#HIGHLIGHTS@&#
+Piezoelectric sensors in the lower trachea are viable for detection of food intake.Accelerometers for activity recognition can reduce the false positive rate of detected swallows.Classification can be performed between several food types using Bayes classifiers.
+
+@&#KEYPHRASES@&#
+Piezoelectric sensor,Wireless Health,Nutrition,Necklace,
+
+@&#ABSTRACT@&#
+Maintaining appropriate levels of food intake and developing regularity in eating habits is crucial to weight loss and the preservation of a healthy lifestyle. Moreover, awareness of eating habits is an important step towards portion control and weight loss. In this paper, we introduce a novel food-intake monitoring system based around a wearable wireless-enabled necklace.The proposed necklace includes an embedded piezoelectric sensor, small Arduino-compatible microcontroller, Bluetooth LE transceiver, and Lithium-Polymer battery. Motion in the throat is captured and transmitted to a mobile application for processing and user guidance. Results from data collected from 30 subjects indicate that it is possible to detect solid and liquid foods, with an F-measure of 0.837 and 0.864, respectively, using a naive Bayes classifier. Furthermore, identification of extraneous motions such as head turns and walking are shown to significantly reduce the false positive rate of swallow detection.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

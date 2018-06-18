@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A two-stage feature selection method with its application
+
+@&#HIGHLIGHTS@&#
+A two-stage selection algorithm combining IG and BPSO for foreign fiber data.IG can filter noisy features and the BPSO can select the highly discriminating features.The experiments show that our method can find the subsets with small size and high accuracy.The optimum subsets are significant for online detection based on machine vision of foreign fibers in cotton.
+
+@&#KEYPHRASES@&#
+Foreign fibers,Feature selection,Information gain,Binary particle swarm optimization,
+
+@&#ABSTRACT@&#
+Graphical abstractImage, graphical abstract
+
+@&#INTRODUCTION@&#
+Foreign fibers in cotton refer to non-cotton fibers and dyed fibers, such as hairs, binding ropes, plastic films, candy wrappers, and polypropylene twines, etc. The foreign fibers in cotton, especially in lint, will seriously affect the quality of the final cotton textile products, even low content of foreign fibers in cotton [1,2].To reduce the harm of foreign fiber in cotton textile products, online detection systems based on machine vision have been studied for evaluating the quality of the cotton in recent years [2–5]. In such systems, the classification of foreign fibers in cotton is the basic and key technology, which is closely related to system's performance. To improve the accuracy of classification and efficiency of systems, finding the optimum feature sets with the small size and high accuracy is essential because they not only simplify the design of classifier, but also improve the efficiency of online detection. It is a feature selection (FS) problem in nature.FS is the technique of selecting a subset of relevant features for building robust learning models, which is commonly used in machine learning. FS aims at simplifying a feature set by reducing its dimensionality and identifying relevant underlying features without sacrificing predictive accuracy [6]. Unfortunately, finding the optimal feature subsets has been proved to be NP-hard [7] so that a number of FS algorithms are proposed to find the near optimal solutions in smaller amount of time. These methods are generally divided into three categories: the filter approach, the wrapper approach and the embedded method. In the first category, the filter approaches are first utilized to select the subsets of features before the learning algorithms are applied. On the other hand, the wrapper approaches [8] utilize the learning algorithms as a fitness function and search for the best subsets of features in the space of all feature subsets. Besides the filters and wrappers, the embedded methods incorporate variable selection as a part of the training process, and feature relevance is obtained analytically from the objective of the learning model [9].
+
+@&#CONCLUSIONS@&#

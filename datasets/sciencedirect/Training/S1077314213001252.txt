@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+A coarse-to-fine IP-driven registration for pose estimation from single ultrasound image
+
+@&#HIGHLIGHTS@&#
+We propose a method for pose estimation from single ultrasound image.We propose a 3D registration method using implicit polynomial (IP) model.We improve the robustness, accuracy and computational efficiency for registration by a coarse-to-fine process with multiple IPs from low degree to high degree.
+
+@&#KEYPHRASES@&#
+Ultrasound (US) image,Pose estimation,3D image registration,Implicit polynomial,
+
+@&#ABSTRACT@&#
+A fast registration making use of implicit polynomial (IP) models is helpful for the real-time pose estimation from single clinical free-hand Ultrasound (US) image, because it is superior in the areas such as robustness against image noise, fast registration without enquiring correspondences, and fast IP coefficient transformation. However it might lead to the lack of accuracy or failure registration.In this paper, we present a novel registration method based on a coarse-to-fine IP representation. The approach starts from a high-speed and reliable registration with a coarse (of low degree) IP model and stops when the desired accuracy is achieved by a fine (of high degree) IP model. Over the previous IP-to-point based methods our contributions are: (i) keeping the efficiency without requiring pair-wised correspondences, (ii) enhancing the robustness, and (iii) improving the accuracy. The experimental result demonstrates the good performance of our registration method and its capabilities of overcoming the limitations of unconstrained freehand ultrasound data, resulting in fast, robust and accurate registration.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this paper, we extend our previous method, correspondences free registration with single IP model, to a new coarse-to-fine registration driven by the multiple IPs of incremental degrees. The better performance is achieved by two aspects: (i) The registration robustness and computational efficiency are improved by initial coarse registration with IP of low degree, since no extra IP surface appears and low cost of transformation for the IP and (ii) the registration accuracy is improved by IP of high-degree, due to the local details are representable for the IP.In general, the proposed method is has the potential for real-time US image pose estimation because of four main advantages: (i) IP representation is robust against US image noise. (ii) IP transformation can be performed faster than transformation of data sets, since the number of data sets is often large extracted from US images. (iii) Thanks to IP gradient flows, the registration procedure can be performed by simple steepest descent-based minimization without time-consuming calculation of point-wise correspondences. (iv) The coarse-to-fine algorithm improves the robustness and accuracy than single IP registration.

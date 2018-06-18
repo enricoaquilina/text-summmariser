@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Integrating new classes on the fly in evolving fuzzy classifier designs and their application in visual inspection
+
+@&#HIGHLIGHTS@&#
+Evolving fuzzy classifiers being able to integrate new event types in visual inspection on-line and on-the-fly.Class decomposition strategy for fast and stable integration of new classes.Generalized fuzzy rules for a more compact representation of classes.Analysis of the impact of new classes on the already established classifiers’ decision boundaries.Estimation of the expected change in classifier's accuracy.Single-pass active learning for reducing operator's annotation effort during on-line visual inspection.
+
+@&#KEYPHRASES@&#
+Evolving (fuzzy) classifiers,Integration of new classes on the fly,On-line visual inspection,All-pairs decomposition,Class imbalance,Expected change in classifier accuracy,
+
+@&#ABSTRACT@&#
+In this paper, we address the problem of integrating new classes on the fly into on-line classification systems. The main focus is on visual inspection tasks, although the concepts proposed in this paper can easily be applied to any other on-line classification systems. We use evolving fuzzy classifiers (EFCs), which can adapt their structure and update their parameters in incrementally due to embedded on-line adaptable classifier learning engines. We consider two different model architectures — classical single model and an all-pairs approach that uses class information to decompose the classification problem into several smaller sub-problems. The latter technique is essential for establishing new classes quickly and efficiently in the classifier, and for reducing class imbalance. Methodological novelties are (i) making appropriate structural changes in the EFC whenever a new class appears while operating in a single-pass incremental manner and (ii) estimating the expected change in classifier accuracy on the older classes. The estimation is based on an analysis of the impact of new classes on the established decision boundaries. This is important for operators, who are already familiar with an established classifier, the accuracy of which is known. The new concepts are evaluated in a real-world visual inspection scenario, where the main task is to classify event types which may occur dynamically on micro-fluidic chips and may reduce their quality. The results show stable performance of established classifiers and efficient (low number of samples requested) as well as fast integration (steeply rising accuracy curves) of new event types (classes).
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

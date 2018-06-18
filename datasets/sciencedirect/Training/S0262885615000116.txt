@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Facial landmarking for in-the-wild images with local inference based on global appearance
+
+@&#HIGHLIGHTS@&#
+The problem of facial landmark detection in unconstrained conditions is tackled.A new way of constructing per-landmark response maps is proposed.The method is based on the selection at test time of globally similar images.We use local Gaussian process regression for inference.
+
+@&#KEYPHRASES@&#
+Facial landmarking,Regression,Part-based models,Gaussian processes,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+We have proposed new method for facial landmarking that is particularly suited for dealing with the highly varying nature of in-the-wild images. In particular, our work lies within the part-based models, and focuses on improving the quality of the response maps obtained from local appearance. In the first place, we have corroborated that regressors are suitable for constructing precise response maps and, at the same time, we have identified one problem downgrading performance for such approaches. Our solution combines a local regression framework with a measure that captures global image similarity, and has the ability to perform inference with models specific to the test sample at hand. Several experiments confirm the improvement attained by such approach when combined with two state of the art shape alignment strategies. Furthermore, we provide extensive comparisons with the state-of-the-art methods. Finally, we also provide cross-dataset experiments that show that our results generalise well to unseen data.

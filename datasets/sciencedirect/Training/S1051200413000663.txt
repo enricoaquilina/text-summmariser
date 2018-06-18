@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Communication controller and control unit design for Qi wireless power transfer
+
+@&#HIGHLIGHTS@&#
+Analysis and novel architecture for new industry standard for wireless power transfer.Hardware design architecture for wireless power transfer control.Discussion on design parameter for implementation optimization presented.Small area and low power consumption for mobile devises.First prototype design compliant with industry defined standard.
+
+@&#KEYPHRASES@&#
+Architecture,Communication control,Packet data transfer,Wireless power standard,Qi,
+
+@&#ABSTRACT@&#
+Qi, the wireless power standard, has been proposed to allow low power systems to receive power through wireless inductive power transfer. The standard outlines the essential, desired and optional requirements for developing the wireless power transfer platform. In this paper, we present the design and implementation results of communication controller for guided positioning single transmitter–single receiver wireless power transfer platform. Apart from the basic design, additional processing and data storage capability is introduced to make the design adaptive in terms of response time and the size of control data transfer. The method of estimating the amount of power transfer is modified to reduce design complexity and internal power consumption of power transmitter and receiver. The implementation results help to access the ratio of power transferred to resource utilization and the ratio of power transferred to power consumed in simplistic wireless power transfer platform.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

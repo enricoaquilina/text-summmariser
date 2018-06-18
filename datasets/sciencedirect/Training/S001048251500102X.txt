@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Development of a novel imaging informatics-based system with an intelligent workflow engine (IWEIS) to support imaging-based clinical trials
+
+@&#HIGHLIGHTS@&#
+A system with an integrated workflow engine to support imaging-based clinical trials.Deployment and modification of a data management system without extensive programming.Medical Imaging features are integrated together with informatics data management.Evaluated by a phase I rehabilitation clinical trial with imaging studies.
+
+@&#KEYPHRASES@&#
+Imaging-based clinical trials,Workflow engine,System framework,Imaging informatics system,
+
+@&#ABSTRACT@&#
+Imaging based clinical trials can benefit from a solution to efficiently collect, analyze, and distribute multimedia data at various stages within the workflow. Currently, the data management needs of these trials are typically addressed with custom-built systems. However, software development of the custom-built systems for versatile workflows can be resource-consuming. To address these challenges, we present a system with a workflow engine for imaging based clinical trials. The system enables a project coordinator to build a data collection and management system specifically related to study protocol workflow without programming. Web Access to DICOM Objects (WADO) module with novel features is integrated to further facilitate imaging related study. The system was initially evaluated by an imaging based rehabilitation clinical trial. The evaluation shows that the cost of the development of system can be much reduced compared to the custom-built system. By providing a solution to customize a system and automate the workflow, the system will save on development time and reduce errors especially for imaging clinical trials.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

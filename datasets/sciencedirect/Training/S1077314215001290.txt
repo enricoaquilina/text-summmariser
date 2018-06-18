@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Uncertainty analysis of the DLT-Lines calibration algorithm for cameras with radial distortion
+
+@&#HIGHLIGHTS@&#
+Uncertainty analysis for the Direct Linear Transformation based camera calibration.Direct Linear Transformation (DLT) specialized to cameras with square pixels.Flexible DLT by combining more constraints based on a Gauss–Newton formulation.Calibration uncertainty back-projection to the ground plane.Using indoor or outdoor scene data instead of conventional calibration patterns.
+
+@&#KEYPHRASES@&#
+DLT-Lines,Camera calibration,Error propagation,uncertainty analysis,
+
+@&#ABSTRACT@&#
+3D metric data of environmental structures is nowadays present in many information sources (maps, GIS) and can be easily acquired with modern depth sensing technology (RGBD, laser). This wealth of information can be readily used for single view calibration of 2D cameras with radial distortion, provided that image structures can be matched with the 3D data. In this paper we present an analysis of the level of accuracy that can be obtained when such calibration is performed with the 2D–3D DLT-Lines algorithm. The analysis propagates uncertainty in the detection of features at the image level to camera pose, and from there to 3D reconstruction. The analytic error propagation expressions are derived using first order uncertainty models, and are validated with Monte Carlo simulations in a virtual indoor environment. The method is general and can be applied to other calibration methods, as long as explicit or implicit expressions can be derived for the transformation from image coordinates to 3D reconstruction. We present results with real data for two applications: i) the 3D reconstruction of an outdoors building for which 3D information is given by a map, observed by a mobile phone camera; and ii) the uncertainty in the localization at the floor plane of points observed by a fixed camera calibrated by a robot equipped with an RGBD camera navigating in a typical indoor environment.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this work we presented uncertainty analysis for two in-situ camera calibration methodologies, namely DLT-Lines and DLT-Lines with radial distortion. We provide analytical solutions to uncertainty propagation from errors on the input data to the estimated parameters and empirically verify the validity of the analysis with Monte Carlo simulations. From the uncertainty in the projection matrix we derive (i) the uncertainty in intrinsic and extrinsic parameters, including radial distortion, and (ii) the uncertainty of 3D points in the ground plane.We tested our methodologies both in a virtual environment with ground truth and with real cameras. In particular we demonstrated uncertainty propagation to the camera location and to points in the ground plane.In the future work we will focus in finding structures that allow lower variances in the camera parameters. We also will focus in finding points and lines that increase the accuracy of the calibration.

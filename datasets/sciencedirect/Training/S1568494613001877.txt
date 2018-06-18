@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Optimal wind turbines placement within a distribution market environment
+
+@&#HIGHLIGHTS@&#
+A hybrid optimization method for optimal allocation of wind turbines in distribution networks is proposed.Jointly maximizing the net present value related to wind turbines investment and the social welfare.Combining the genetic algorithm (GA) and the market-based optimal power flow (OPF).Using the GA to choose the optimal size and the market-based OPF to determine the optimal number of WTs.Modeling load and wind uncertainties through hourly time-series analysis.
+
+@&#KEYPHRASES@&#
+Wind turbines,Social welfare maximization,Genetic algorithm,Net present value,
+
+@&#ABSTRACT@&#
+This paper proposes a hybrid optimization method for optimal allocation of wind turbines (WTs) that combines genetic algorithm (GA) and market-based optimal power flow (OPF). The method jointly maximizes net present value (NPV) related to WTs investment made by WTs’ developers and social welfare (SW) considering different combinations of wind generation and load demand over a year. The GA is used to choose the optimal size while the market-based OPF to determine the optimal number of WTs at each candidate bus. The stochastic nature of both load demand and wind power generation is modeled by hourly time series analysis. The effectiveness of the method is demonstrated with an 84-bus 11.4kV radial distribution system.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

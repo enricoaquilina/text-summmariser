@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Using Arden Syntax Medical Logic Modules to reduce overutilization of laboratory tests for detection of bacterial infections—Success or failure?
+
+@&#HIGHLIGHTS@&#
+We investigated CDSS effects on ICU laboratory orders using an ON–OFF–ON–OFF design.The CDSS was based on a rule set encoded in Arden Syntax.We observed a strong, but short-lived reduction of overutilization by 18%.A lasting effect will require improved CPOE integration of the CDSS.
+
+@&#KEYPHRASES@&#
+Clinical decision support system,Procalcitonin,Overutilization,Underutilization,Arden Syntax,
+
+@&#ABSTRACT@&#
+ObjectiveBacterial infections frequently cause prolonged intensive care unit (ICU) stays. Repeated measurements of the procalcitonin (PCT) biomarker are typically used for early detection and follow up of bacterial infections and sepsis, but those PCT measurements are costly. To avoid overutilization, we developed and evaluated a clinical decision support system (CDSS) in Arden Syntax which computes necessary and preventable PCT orders.MethodsThe CDSS implements a rule set based on the latest PCT value, the time period since this measurement, and the PCT trend scenario. We assessed the CDSS effects on the daily rate of ordered PCT tests within a prospective study having two ON and two OFF phases in a surgical ICU. In addition, we performed interviews with the participating physicians to investigate their experience with the CDSS advice.ResultsPrior to the deployment of the CDSS, 22% of the performed PCT tests were potentially preventable according to the rule set. During the first ON phase the daily rate of ordered PCT tests per patient decreased significantly from 0.807 to 0.662. In subsequent OFF, ON and OFF phases, however, PCT utilization reached again daily rates of 0.733, 0.803, and 0.792, respectively. The interviews demonstrated that the physicians were aware of the problem of PCT overutilization, which they primarily attributed to acute time constraints. The responders assumed that the majority of preventable measurements are indiscriminately ordered for patients during longer ICU stays.ConclusionWe observed an 18% reduction of PCT tests within the first four weeks of CDSS support in the investigated ICU. This reduction may have been influenced by raised awareness of the overutilization problem; the extent of this influence cannot be determined in our study design. No reduction of PCT tests could be observed during the second ON phase. The physician interviews indicated that time critical ICU situations can prevent extensive reflection about the necessity of individual tests. In order to achieve an enduring effect on PCT utilization, we will have to proceed to electronic order entry.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

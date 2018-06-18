@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Robust simultaneous positive data clustering and unsupervised feature selection using generalized inverted Dirichlet mixture models
+
+@&#HIGHLIGHTS@&#
+An algorithm for simultaneous clustering, feature selection and outliers is proposed.The proposed approach is based on finite generalized inverted Dirichlet mixture.An approach for model selection using minimum message length is developed.The model is applied to the challenging problems of visual scenes and objects clustering.
+
+@&#KEYPHRASES@&#
+Positive data,Generalized inverted Dirichlet,Finite mixture,Feature selection,Outliers,Model selection,Images clustering,
+
+@&#ABSTRACT@&#
+The discovery, extraction and analysis of knowledge from data rely generally upon the use of unsupervised learning methods, in particular clustering approaches. Much recent research in clustering and data engineering has focused on the consideration of finite mixture models which allow to reason in the face of uncertainty and to learn by example. The adoption of these models becomes a challenging task in the presence of outliers and in the case of high-dimensional data which necessitates the deployment of feature selection techniques. In this paper we tackle simultaneously the problems of cluster validation (i.e. model selection), feature selection and outliers rejection when clustering positive data. The proposed statistical framework is based on the generalized inverted Dirichlet distribution that offers a more practical and flexible alternative to the inverted Dirichlet which has a very restrictive covariance structure. The learning of the parameters of the resulting model is based on the minimization of a message length objective incorporating prior knowledge. We use synthetic data and real data generated from challenging applications, namely visual scenes and objects clustering, to demonstrate the feasibility and advantages of the proposed method.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A risk evaluation approach for authorization decisions in social pervasive applications
+
+@&#HIGHLIGHTS@&#
+A new risk indicator model to evaluate security risks associated with information sharing on social pervasive applications.A risk indicator value can be predicted by assessing a number of risk attributes using a neurofuzzy technique.The proposed model was implemented successfully in a case study at a university campus.An effective approach in predicting security risks and in deciding up on them about disclosure decisions in social pervasive applications.
+
+@&#KEYPHRASES@&#
+Security risks,Authorization,Social networks,Social Network Services (SNS),Social pervasive applications,Neuro-fuzzy systems,
+
+@&#ABSTRACT@&#
+Graphical abstractImage, graphical abstract
+
+@&#INTRODUCTION@&#
+The recent technological IT-developments in pervasive telecommunication networks and devices have paved the way for what is known as pervasive computing leading to the deployment of ubiquitous services [1–3]. Further, the introduction of the latest technology of smart phones with GPS capabilities led to a complete set of location-based services (LBS) in addition to social network sites (SNSs) and associated pervasive applications.There is no doubt that privacy and security can represent challenges for the adoption of social pervasive applications [4]. Most scientific literature in this domain assumed the non-trustworthiness of unknown entities by default and thus the conventional approach was to block all requests coming from unknown entities to sensitive information using technological approaches such as cryptographic solutions and access control mechanisms [5,6]. Social pervasive applications are considered highly dynamic and data rich environments with lots of possibilities for the exposure of users’ sensitive data. In this context, users’ authorizations decisions are of dynamic nature and should take into consideration the limited computing resources of pervasive devices and limited bandwidth of pervasive networks.Most research, in social networks, has focused on interactions among users while a few researches have considered third party application interactions [7]. In this paper, we propose an autonomous approach to risk management that takes into consideration user interactions as well as other entities’ interactions based on a risk indicator model. The paper is organized as follows: in the next section, we elaborate on related work. Then, we introduce the proposed model. Then, we present a case study followed by a discussion of the obtained results and performance evaluation. Finally, we conclude the paper highlighting potential future work.
+
+@&#CONCLUSIONS@&#

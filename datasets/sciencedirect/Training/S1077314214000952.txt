@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Sampson distance based joint estimation of multiple homographies with uncalibrated cameras
+
+@&#HIGHLIGHTS@&#
+Practitioners typically estimate multiple homographies separately.Separate estimation does not enforce inter-homography constraints.We jointly estimate homographies so that all constraints are satisfied.Enforcing inter-homography constraints improves accuracy considerably.Our cost function operates directly on image points via the Sampson distance.
+
+@&#KEYPHRASES@&#
+Multiple homographies,Parameter estimation,Maximum likelihood,Sampson distance,Latent variables,
+
+@&#ABSTRACT@&#
+Two images of a scene consisting of multiple flat surfaces are related by a collection of homography matrices. Practitioners typically estimate these homographies separately thereby violating inherent inter-homography constraints that arise naturally out of the rigid geometry of the scene. We demonstrate that through a suitable choice of parametrisation multiple homographies can be jointly estimated in a manner so as to satisfy all inter-homography constraints. Unlike the cost functions used previously for solving this problem, our cost function does not correspond to fitting one set of homography matrices to another set of homography matrices. Instead, we utilise the Sampson distance for homography matrix estimation and operate directly on image data points. By using the Sampson distance and working directly on data points, we expedite the application of a vast amount of knowledge that already exists for Sampson-distance-based single homography or fundamental matrix estimation. The estimation framework reported in this paper establishes a new baseline for joint multiple homography estimation and at the same time raises intriguing new research questions. The work may be of interest to a broad range of researchers who require the estimation of homography matrices with uncalibrated cameras as part of their solution.
+
+@&#INTRODUCTION@&#
+Whether one is planning to autonomously land a spacecraft on a distant planet, generate three-dimensional maps of the earth, or augment the environment with virtual characters, one will need to understand how different images of the same scene are related. A fundamental result in multiple view geometry states that if a scene consists of a flat surface, then the coordinates of any pair of corresponding points in two images are related by a homography matrix[11]. If a scene consists of multiple flat surfaces, such as buildings in an urban environment, then multiple homography matrices (one for each plane) are needed to adequately relate corresponding points in two images (see Fig. 1).When multiple homography matrices are required, practitioners typically estimate them separately [12]. This paper argues that multiple homography matrices should not be estimated separately, but rather should be estimated jointly. Estimating homography matrices separately fails to ensure that the matrices satisfy inter-homography constraints that arise naturally due to the rigidity of the planar scene. Through extensive experiments we show that estimating homography matrices jointly so that they satisfy all inter-homography constraints leads to considerably more accurate results.
+
+@&#CONCLUSIONS@&#

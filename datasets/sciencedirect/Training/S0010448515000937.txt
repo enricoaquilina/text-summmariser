@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Efficient data-parallel tree-traversal for BlobTrees
+
+@&#HIGHLIGHTS@&#
+We show how to improve BlobTree traversal time by one order of magnitude.We demonstrate how to incorporate Warp Transformations within the BlobTree into new traversal.The performance is measured on computer generated and hand built models.
+
+@&#KEYPHRASES@&#
+BlobTree,Tree traversal,Acceleration,
+
+@&#ABSTRACT@&#
+The hierarchical implicit modelling paradigm, as exemplified by the BlobTree, makes it possible to support not only Boolean operations and affine transformations, but also various forms of blending and space warping. Typically, the resulting solid is converted to a boundary representation, a triangle mesh approximation, for rendering. These triangles are obtained by evaluating the corresponding implicit function (field) at the samples of a dense regular three-dimensional grid and by performing a local iso-surface extraction at each voxel. The performance bottleneck of this rendering process lies in the cost of the tree traversal (which typically must be executed hundreds of millions of times) and in the cost of applying the inverses of the space transformations associated with some of the nodes of the tree to the grid samples.Tree pruning is commonly used to reduce the number of samples for which the field value must be computed. Here, we propose a complementary strategy, which reduces the costs of both the traversal and of applying the inverses of the blending and warping transformations that are associated with each evaluation.Without blending or warping, a BlobTree can be reduced to a CSG tree only containing Boolean nodes and affine transformations, which can be reordered to increase memory coherence. Furthermore, the cumulative effects of the affine transformations can be precomputed via matrix multiplication. We propose extensions of these techniques from CSG trees to the fully general BlobTrees. These extensions are based on tree reordering, bottom-up traversal, and caching of the combined matrix for uninterrupted runs of affine transformations in the BlobTree.We show that these new techniques result in an order of magnitude performance improvement for rendering large BlobTrees on modern Single Program Multiple Data (SPMD) devices.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

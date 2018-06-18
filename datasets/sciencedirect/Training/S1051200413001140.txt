@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Key-dependent 3D model hashing for authentication using heat kernel signature
+
+@&#HIGHLIGHTS@&#
+We model 3D model-based hashing with robustness, uniqueness, security, and spaciousness.Our algorithm is a key parameter-dependent hash function.Multi-scale HKS vectors are used for the feature vector of the intermediate hash.Parameter refinement further improves the robustness, uniqueness, and spaciousness.Security analysis shows the high differential entropy of our hash.
+
+@&#KEYPHRASES@&#
+3D model hashing,Heat kernel signature,Authentication,Copy detection,Multimedia security,
+
+@&#ABSTRACT@&#
+Multimedia-based hashing is considered an important technique for achieving authentication and copy detection in digital contents. However, 3D model hashing has not been as widely used as image or video hashing. In this study, we develop a robust 3D mesh-model hashing scheme based on a heat kernel signature (HKS) that can describe a multi-scale shape curve and is robust against isometric modifications. We further discuss the robustness, uniqueness, security, and spaciousness of the method for 3D model hashing. In the proposed hashing scheme, we calculate the local and global HKS coefficients of vertices through time scales and 2D cell coefficients by clustering HKS coefficients with variable bin sizes based on an estimated L2 risk function, and generate the binary hash through binarization of the intermediate hash values by combining the cell values and the random values. In addition, we use two parameters, bin center points and cell amplitudes, which are obtained through an iterative refinement process, to improve the robustness, uniqueness, security, and spaciousness further, and combine them in a hash with a key. By evaluating the robustness, uniqueness, and spaciousness experimentally, and through a security analysis based on the differential entropy, we verify that our hashing scheme outperforms conventional hashing schemes.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

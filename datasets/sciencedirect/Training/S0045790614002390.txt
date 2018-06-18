@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Discreet verification of user identity in pervasive computing environments using a non-intrusive technique
+
+@&#HIGHLIGHTS@&#
+A user-centric, unobtrusive approach for verifying the user’s identity is proposed.The approach uses knowledge about the user’s behaviour to infer their identity.The approach uses a simple numerical algorithm to assert the user’s identity.
+
+@&#KEYPHRASES@&#
+Pervasive computing,Identity management systems,Identity verification,Behaviour inference,
+
+@&#ABSTRACT@&#
+This paper presents a new approach for verifying user identity in pervasive environments using a non-intrusive behaviour tracking technique that offers minimum interruption to the user’s activities. The technique, termed Non-intrusive Identity Assertion System (NIAS), uses knowledge of how the user uses the environment’s services to infer their identity. The technique monitors user behaviour through identifying certain types of activity without the need for detailed tracking of user behaviour, thus minimising intrusion on the user’s normal activities. The technique was evaluated using a simulated environment to assess its reliability. Simulation results show that the technique can be applied in various situations such as strict and relaxed security settings by applying different security policies. They also show that the technique is particularly effective where the environment has a mixture of high and low security resources in which case reliability could exceed 99%.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+NIAS is an approach for identity verification in pervasive environments based on using history of previous access to resources as a means for asserting the user’s identity before access control rules are applied. In NIAS, identity verification is a process of monitoring users as they attempt to access the environment’s resources and converting this knowledge into a numeric value (assertion value) that represents the system’s confidence about the user’s identity. This value is used to update the system’s confidence as the user performs a known activity or otherwise. An integral component within NIAS is the assertion policy that uses the assertion value to decide whether the user can be trusted to access the resource or not. The assertion policy consists of a number of parameters whose collective values determine the nature of the policy applied for the environment.Using a simulated environment, NIAS has been validated using a number of tests and evaluations. The purpose of the tests was to tune the system’s parameters for a number of assertion policies. This has been accomplished successfully and a number of settings have been suggested and presented as guidelines for recommended assertion policies. The purpose of the evaluations was to measure the system’s reliability for various types of environment. The evaluation showed that the approach is successful in verifying user identity with high degree of reliability, exceeding 99% in certain situations.In comparison to other identity verification methods, NIAS offers a user-centric approach that is less intrusive, yet scalable and dynamic. The main limitation of NIAS is the time it takes initially to build the system’s knowledge of its users. To overcome this limitation, the work could be extended in the future by adding a prediction element to the approach based on the user’s context information.

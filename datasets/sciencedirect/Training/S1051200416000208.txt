@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Local tri-directional patterns: A new texture feature descriptor for image retrieval
+
+@&#HIGHLIGHTS@&#
+A new feature descriptor called local tri-directional pattern has been proposed.The proposed method makes use of directional information using local intensities.This feature descriptor is composed of a local pattern and a magnitude pattern.The proposed method has been applied on texture and face image databases.
+
+@&#KEYPHRASES@&#
+Local tri-directional pattern,Local binary pattern,Feature extraction,Texture feature,
+
+@&#ABSTRACT@&#
+Texture is a prominent feature of image and very useful in feature extraction for image retrieval application. Statistical and structural patterns have been proposed for image retrieval and browsing. In the proposed work, a new texture feature descriptor is developed. The proposed method uses local intensity of pixels based on three directions in the neighborhood and named as the local tri-directional pattern (LTriDP). Also, one magnitude pattern is merged for better feature extraction. The proposed method is tested on three databases, in which first two, Brodatz texture image database and MIT VisTex database are texture image databases and third one is the AT&T face database. Further, the effectiveness of the proposed method is proven by comparing it with existing algorithms for image retrieval application.
+
+@&#INTRODUCTION@&#
+Many techniques for image retrieval have been developed in the past few years due to extreme increment in digital images. Large image database and retrieval of similar images became a direct and real world problem. Many kinds of features exist in the image, and texture is one of them. Texture is a powerful feature of an image that can be recognized in a form of small repeated patterns. There are many types of texture, e.g., artificial texture, original texture, rough texture, silky texture, etc. Texture is mostly contained in images of rocks, leaves, grass, woods, walls, etc. Even in natural images different types of texture exist. Many local features have been proposed by researchers in past few years. Local features extract the information regarding to local objects in the image or local intensity of pixels. Local patterns consider the neighboring pixels to extract the local information in the image. Most of the local patterns proposed by researchers, were uniform for all neighboring pixels. A very few patterns utilized the pixel information based on the direction. This work is mainly concentrated on a direction based local pattern which can provide better features with respect to uniform local patterns. Extensive surveys of content based image retrieval are presented in past few years [1,2].
+
+@&#CONCLUSIONS@&#

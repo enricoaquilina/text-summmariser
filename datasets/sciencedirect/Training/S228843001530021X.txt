@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Computational design of an automotive twist beam
+
+@&#HIGHLIGHTS@&#
+We model the automotive twist beam.We developed an algorithm to solve multicriteria optimization problem.We solve our industrial problem with our developed algorithm.New profiles of the twist beam are proposed.
+
+@&#KEYPHRASES@&#
+Automotive twist beam,Multicriteria design,Free form deformation,Normal boundary intersection,Radial basis function,
+
+@&#ABSTRACT@&#
+In recent years, the automotive industry has known a remarkable development in order to satisfy the customer requirements. In this paper, we will study one of the components of the automotive which is the twist beam. The study is focused on the multicriteria design of the automotive twist beam undergoing linear elastic deformation (Hooke׳s law). Indeed, for the design of this automotive part, there are some criteria to be considered as the rigidity (stiffness) and the resistance to fatigue. Those two criteria are known to be conflicting, therefore, our aim is to identify the Pareto front of this problem. To do this, we used a Normal Boundary Intersection (NBI) algorithm coupling with a radial basis function (RBF) metamodel in order to reduce the high calculation time needed for solving the multicriteria design problem. Otherwise, we used the free form deformation (FFD) technique for the generation of the 3D shapes of the automotive part studied during the optimization process.
+
+@&#INTRODUCTION@&#
+In the automotive industry, and particularly, in the shape design optimization field, the most of problems faced are multicriteria ones. Indeed, one way to solve these problems is to identify the Pareto front. To do this, there are often two issues to confront, the first one is how to reduce the computational time required by the conventional methods used to solve this kind of optimization problem, and the second one is how can we generate the 3D shapes of the automotive part studied in the optimization process. To overcome the first issue, it is necessary to couple methods for capturing the Pareto front with metamodels aimed at cheap costs’ evaluations. For the second issue, there are several versions of FFD technique used to do this [1–3].The Twist beam suspension (Fig. 1) is widely used as rear wheel suspension systems for front wheel driven passenger vehicles, it is composed of several components such as swing or trailing arms, bushings and the twist beam which is the object of our study.For our work, we focus on optimizing the shape of a twist beam undergoing linear elastic deformation (Hooke׳s law) [4–6] to improve certain mechanical criteria such as the rigidity and the resistance to fatigue of this automotive part (Fig. 1). Firstly, for the identification of the Pareto front with a reasonable calculation time, we use the (NBI RBF) algorithm built using a coupling between the NBI method [7–10] and the RBF metamodel [11–15], the idea is to lead optimization with the metamodel and only do the exact evaluations of the metamodel obtained solutions [16–20]. Secondly, for the generation of 3D shapes during the optimization process, we use a developed version of the free form deformation technique using radial basis functions (FFD RBF) [21–23].
+
+@&#CONCLUSIONS@&#

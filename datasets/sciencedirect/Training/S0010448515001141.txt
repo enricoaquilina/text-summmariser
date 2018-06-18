@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Generalizing bicubic splines for modeling and IGA with irregular layout
+
+@&#HIGHLIGHTS@&#
+Bi-3 tensor-product splines are complemented by bi-4 splines near irregular points.The vertices of the irregular quad mesh serve as spline-like control points.The resulting surfaces have a good distribution of highlight lines.The resulting surfaces have a increased smoothness and reproduction at irregular points.
+
+@&#KEYPHRASES@&#
+Geometric continuity,Extraordinary point,Iso-geometric analysis,Guide surface,Biquartic,Spline surface,
+
+@&#ABSTRACT@&#
+Quad meshes can be interpreted as tensor-product spline control meshes as long as they form a regular grid, locally. We present a new option for complementing bi-3 splines by bi-4 splines near irregularities in the mesh layout, where less or more than four quadrilaterals join. These new generalized surface and IGA (isogeometric analysis) elements have as their degrees of freedom the vertices of the irregular quad mesh. From a geometric design point of view, the new construction distinguishes itself from earlier work by a notably better distribution of highlight lines. From the IGA point of view, increased smoothness and reproduction at the irregular point yield fast convergence.
+
+@&#INTRODUCTION@&#
+A key task in extending tensor-product splines to more general control nets is buildingn-sided multi-spline caps that smoothly glue togethernindividual tensor-product splines. Such spline caps are central both for building geometrically smooth (Gk) free-form surfaces with irregular points, where less or more than four tensor-product patches join together—and to define the physical domain and the analysis functions for iso-parametric  [1] or isogeometric analysis (IGA)  [2] in the presence of irregular points.The contribution of this paper is a new•polynomial piecewise tensor-product cap construction of degree bi-4 thatG1smoothly joins together bi-3 (bi-cubic) splines,results in a good highlight line distribution, better forn=3and some highernthan the curvature continuous bi-7 caps of  [3] andyields high-order convergent IGA elements, one per vertex of the input quad mesh, for solving higher-order partial differential equations, such as thin shell problems.
+
+@&#CONCLUSIONS@&#

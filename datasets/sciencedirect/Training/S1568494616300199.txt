@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+A note on “Fully fuzzy fixed charge multi-item solid transportation problem”
+
+@&#HIGHLIGHTS@&#
+To point out that the existing approach [Applied Soft Computing, 27 (2015) 77–91] is based on some mathematical incorrect assumptions.To illustrate the mathematical incorrect assumptions considered in the existing approach.To point out that the existing approach [Applied Soft Computing, 27 (2015) 77–91] and the existing method [Applied Mathematical Modelling, 35 (2011) 817–823] cannot be compared.
+
+@&#KEYPHRASES@&#
+
+
+@&#ABSTRACT@&#
+Giri et al. [P.K. Giri, M.K. Maiti, M. Maiti, Fully fuzzy fixed charge multi-item solid transportation problem, Applied Soft Computing, 27 (2015) 77–91] proposed an approach for solving mathematical programming of fully fuzzy fixed charge multi-item solid transportation problems (FFFCMISTP) and claimed that it is better to use their proposed approach as compared to the existing method [A. Kumar, J. Kaur, P. Singh, A new method for solving fully fuzzy linear programming problems, Applied Mathematical Modelling, 35 (2011) 817–823]. The aim of this note is to point out that Giri et al. have used some mathematical incorrect assumptions in their proposed approach and hence the claim of Giri et al. is not valid.In crisp environment, if A≤B or A≥B then there always exist non-negative real numbers C and D such that A+C=B or A−D=B. However, in fuzzy environment ifA˜≤B˜orA˜≥B˜then there does not always exist non-negative fuzzy numbersC˜andD˜such thatA˜+C˜=B˜orA˜−D˜=B˜.It can be easily verified that (3, 5, 6)<(5, 6, 9) and (10, 11, 13)>(4, 6, 7) but there does not exist any fuzzy numbersC˜andD˜such that(3,5,6)+C˜=(5,6,9)or(10,11,13)−D˜=(4,6,7).Since, Giri et al. [1] have transformed the fuzzy inequality constraints of problem (P1)[1, Section 4.2, Eqs. (2)–(6)] into fuzzy equality constraints of problem (P2) by considering the mathematically incorrect propertyA˜≤B˜⇒A˜+C˜=B˜andA˜≥B˜⇒A˜−D˜=B˜.So, Giri et al. [1, Section 5.1, pp. 82] approach is valid only for those particular type of FFFCMISTP in which the inequality constraints of problem (P1) can be transformed into equality constraints of problem (P2) by adding/subtracting fuzzy slack/surplus variables.(P1)MinimizeZ˜=∑i=1M∑j=1N∑k=1K∑p=1P{C˜ijkp1⊗x˜ijkp}+∑i=1M∑j=1N∑k=1K{f˜ijkyijk}subject to∑j=1N∑k=1Kx˜ijkp≤A˜ip(i=1,2,…,M;p=1,2,…,P),∑i=1M∑k=1Kx˜ijkp≥B˜jp(j=1,2,…,N;p=1,2,…,P),∑i=1M∑j=1N∑p=1Px˜ijkp≤E˜k(k=1,2,…,K),x˜ijkp≥0˜((i,j,k,p)=1,2,…(M,N,K,P)).(P2)MinimizeZ˜=∑i=1M∑j=1N∑k=1K∑p=1P{C˜ijkp1⊗x˜ijkp}+∑i=1M∑j=1N∑k=1K{f˜ijkyijk}subject to∑j=1N∑k=1Kx˜ijkp+s˜ip=A˜ip(i=1,2,…,M;p=1,2,…,P),∑i=1M∑k=1Kx˜ijkp−t˜jp=B˜jp(j=1,2,…,N;p=1,2,…,P),∑i=1M∑j=1N∑p=1Px˜ijkp+u˜k=E˜k(k=1,2,…,K),(x˜ijkp,s˜ip,t˜jp,u˜k)≥0˜.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+On the basis of present study, it can be concluded that the fuzzy inequality constraints of fuzzy mathematical problem (P1) cannot always be transformed into fuzzy equality constraints. Hence, the existing method [2] which is applicable only for fully fuzzy linear programming problems with equality constraints can neither be applied for solving fuzzy mathematical problem (P1) nor can be compared with the approach of Giri et al. [1, Section 5.1, pp. 82] which is applicable only for particular type of FFFCMISTP with inequality constraints.

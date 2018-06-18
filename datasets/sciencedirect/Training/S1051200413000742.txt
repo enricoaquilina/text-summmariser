@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Bit plane modification for improving MSE-near optimal DPCM-based block truncation coding
+
+@&#HIGHLIGHTS@&#
+I propose a bit plane modification algorithm to improve MSE-near optimal DPCM-BTC.The proposed algorithm is performed non-iteratively.The proposed algorithm outperforms other methods in terms of PSNR.The proposed algorithm provides much higher perceived quality.The perceived quality is confirmed by using PSNR-HVS-M that reflects the human visual system.
+
+@&#KEYPHRASES@&#
+Quantizer optimization,Differential pulse code modulation,Block truncation coding,Error diffusion,
+
+@&#ABSTRACT@&#
+A hybrid method of block truncation coding (BTC) and differential pulse code modulation (DPCM) offers better visual quality than the standard BTC for small block sizes due to its inherent multitone representation. Recently, a two-level quantizer design method has been proposed to increase the coding performance of the DPCM-BTC framework. However, the design method is near optimal in the sense that its coding performance depends on the initial bit plane patterns. In this paper, we propose a bit plane modification (BPM) algorithm to achieve further performance improvement. The BPM algorithm, inspired by error diffusion, effectively distributes large quantization error at a certain pixel to its neighboring pixels having small quantization errors by changing partial bit patterns. Experimental results show that the proposed algorithm successfully achieves much higher coding performance than various conventional BTC methods. The average PSNR performance of the proposed method is 2.31 dB, 5.15 dB, and 5.15 dB higher than that of BTC, DPCM-BTC, and a recently developed BTC scheme using error diffusion and bilateral filtering, respectively.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

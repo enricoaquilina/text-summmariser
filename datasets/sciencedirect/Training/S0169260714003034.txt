@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Automatic information timeliness assessment of diabetes web sites by evidence based medicine
+
+@&#HIGHLIGHTS@&#
+The proposed method predicts the time period that a given content belongs to.The archives of high quality diabetes web sites between 2006 and 2013 were utilized.The method's accuracy is 65% in detecting the timeliness according to years.The accuracy increases when detecting timeliness according to time intervals.
+
+@&#KEYPHRASES@&#
+Content-based retrieval,Diabetes,Medical information systems,Timeliness analysis,
+
+@&#ABSTRACT@&#
+Studies on health domain have shown that health websites provide imperfect information and give recommendations which are not up to date with the recent literature even when their last modified dates are quite recent. In this paper, we propose a framework which assesses the timeliness of the content of health websites automatically by evidence based medicine. Our aim is to assess the accordance of website contents with the current literature and information timeliness disregarding the update time stated on the websites.The proposed method is based on automatic term recognition, relevance feedback and information retrieval techniques in order to generate time-aware structured queries. We tested the framework on diabetes health web sites which were archived between 2006 and 2013 by Archive-it using American Diabetes Association's (ADA) guidelines. The results showed that the proposed framework achieves 65% and 77% accuracy in detecting the timeliness of the web content according to years and pre-determined time intervals respectively. Information seekers and web site owners may benefit from the proposed framework in finding relevant and up-to-date diabetes web sites.
+
+@&#INTRODUCTION@&#
+Since online content is used as an indispensable/essential source of information on health issues, the accuracy, completeness and timeliness of websites have become more of an issue for information seekers. The studies have shown that health recommendations on web sites vary in quality and many users fail to access reliable and accurate information on world wide web [1,2]. Information seekers are generally suggested to check the last update dates and the presence of any broken links in order to gain insight about the currency of a web page [1]. On the other hand, although many web sites have accurate information, recent update dates and no broken links, they may still provide outdated information [2].In this paper, we propose a framework which automatically assesses the content of health web sites and predicts the time period that a given content belongs to. This system can serve both information seekers and website owners. Information seekers can evaluate the timeliness of health web pages easily and they can eliminate those that are not up-to-date. Website owners can utilize the proposed system to assess the currency of their web page contents automatically according to the latest research without reviewing the literature. The framework can also aid web site owners and information seekers to identify the specifics of content that are not in line with the recent literature.
+
+@&#CONCLUSIONS@&#

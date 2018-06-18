@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Effective contact measures
+
+@&#HIGHLIGHTS@&#
+Introduces a new concept of effective contact measure as an approximation of surface contact area.Proposes 3 new concepts of effective contact measures.Discusses application to alignment problems.
+
+@&#KEYPHRASES@&#
+Contact area,Measure,Curvature,Approximation,
+
+@&#ABSTRACT@&#
+Contact area is an important geometric measurement in many physical systems. It is also difficult to compute due to its extreme sensitivity to infinitesimal perturbations. In this paper, we propose a new concept called an effective contact measure, which acts as a smooth version of contact area. Effective contact measures incorporate a notion of scale into the definition of contact area, allowing one to consider the degree of contact at different sizes. We show how effective contact measures can yield useful statistics for a number of applications, including analysis of multiphase materials and docking/alignment problems.
+
+@&#INTRODUCTION@&#
+Let us say that a pair of solids,S,T⊆Rnare in contact if their closures intersect but not their interiors11We use the symbolsκ,ι,δto denote closure, interior and boundary operators respectively. We call a bounded set a solid if it is compact and regular;S=κιS.:(κS∩κT)≠0̸(ιS∩ιT)=0̸.IfSandTare in contact, then define their contact area to be the(n−1)-Hausdorff measure of their intersection:μn−1(S∩T).The goal of this paper is to study some approximations of contact area and their computations. In these approximations, we will consider both perturbation of the shapes and the situation where the shapes are nearly in contact (i.e. they may be slightly separated or interpenetrating, violating the strict contact condition).
+
+@&#CONCLUSIONS@&#

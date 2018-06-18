@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Node-coupling clustering approaches for link prediction
+
+@&#HIGHLIGHTS@&#
+The novel node coupling clustering methods for link prediction are proposed.A new node coupling degree metric is proposed.The node coupling information and clustering information are used.Experimental evaluation about the effectiveness of our methods is presented.
+
+@&#KEYPHRASES@&#
+Link prediction,Node-coupling clustering,Data mining,Big data,
+
+@&#ABSTRACT@&#
+Due to the potential important information in real world networks, link prediction has become an interesting focus of different branches of science. Nevertheless, in “big data” era, link prediction faces significant challenges, such as how to predict the massive data efficiently and accurately. In this paper, we propose two novel node-coupling clustering approaches and their extensions for link prediction, which combine the coupling degrees of the common neighbor nodes of a predicted node-pair with cluster geometries of nodes. We then present an experimental evaluation to compare the prediction accuracy and effectiveness between our approaches and the representative existing methods on two synthetic datasets and six real world datasets. The experimental results show our approaches outperform the existing methods.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+In this paper, we propose node-coupling clustering approaches and their extensions for link prediction. Our approaches not only combine the coupling degrees of the common neighbor nodes with the clustering information of a network but also consider the different roles of nodes for predicting links. Experiments on two synthetic and six real datasets have shown that our approaches have comparatively good prediction results. Specifically, our approaches capture the clustering information of a network using the clustering coefficient of every node, which requires low time complexity. As a result, our approaches are very suitable for large-scale networks.In the future research work, we plan to test our approaches in massive datasets and datasets from different domains. Furthermore, we also plan to evaluate the effectiveness of our approaches for bipartite networks and weighted networks.

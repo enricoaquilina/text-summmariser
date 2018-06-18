@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Comparison of automatic summarisation methods for clinical free text notes
+
+@&#HIGHLIGHTS@&#
+Eight automatic text summarisation methods are described and tested.Word space models of distributional semantics are used in five of the presented methods.A composition based summarisation method outperforms the other considered methods.The utilised automatic evaluation approach is shown to correlate with manual evaluation.
+
+@&#KEYPHRASES@&#
+Automatic text summarisation,Summarisation evaluation,Distributional semantics,Word space models,Clinical text processing,Electronic health records,
+
+@&#ABSTRACT@&#
+ObjectiveA major source of information available in electronic health record (EHR) systems are the clinical free text notes documenting patient care. Managing this information is time-consuming for clinicians. Automatic text summarisation could assist clinicians in obtaining an overview of the free text information in ongoing care episodes, as well as in writing final discharge summaries. We present a study of automated text summarisation of clinical notes. It looks to identify which methods are best suited for this task and whether it is possible to automatically evaluate the quality differences of summaries produced by different methods in an efficient and reliable way.Methods and materialsThe study is based on material consisting of 66,884 care episodes from EHRs of heart patients admitted to a university hospital in Finland between 2005 and 2009. We present novel extractive text summarisation methods for summarising the free text content of care episodes. Most of these methods rely on word space models constructed using distributional semantic modelling. The summarisation effectiveness is evaluated using an experimental automatic evaluation approach incorporating well-known ROUGE measures. We also developed a manual evaluation scheme to perform a meta-evaluation on the ROUGE measures to see if they reflect the opinions of health care professionals.ResultsThe agreement between the human evaluators is good (ICC=0.74, p<0.001), demonstrating the stability of the proposed manual evaluation method. Furthermore, the correlation between the manual and automated evaluations are high (> 0.90 Spearman's rho). Three of the presented summarisation methods (‘Composite’, ‘Case-Based’ and ‘Translate’) significantly outperform the other methods for all ROUGE measures (p<0.05, Wilcoxon signed-rank test and Bonferroni correction).ConclusionThe results indicate the feasibility of the automated summarisation of care episodes. Moreover, the high correlation between manual and automated evaluations suggests that the less labour-intensive automated evaluations can be used as a proxy for human evaluations when developing summarisation methods. This is of significant practical value for summarisation method development, because manual evaluation cannot be afforded for every variation of the summarisation methods. Instead, one can resort to automatic evaluation during the method development process.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

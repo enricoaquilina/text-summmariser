@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A time and space complexity reduction for coevolutionary analysis of trees generated under both a Yule and Uniform model
+
+@&#HIGHLIGHTS@&#
+Introduces a more efficient data structure for coevolutionary analysis.Presents the first sub quadratic space approach for cophylogenetic reconstruction.Provides a logarithmic time complexity reduction for cophylogenetic reconstruction.
+
+@&#KEYPHRASES@&#
+Coevolution,Phylogeny,Tree topology,NP-Hard,
+
+@&#ABSTRACT@&#
+The topology or shape of evolutionary trees and their unbalanced nature has been a long standing area of interest in the field of phylogenetics. Coevolutionary analysis, which considers the evolutionary relationships between a pair of phylogenetic trees, has to date not considered leveraging this unbalanced nature as a means to reduce the complexity of coevolutionary analysis. In this work we apply previous analyses of tree shapes to improve the efficiency of inferring coevolutionary events. In particular, we use this prior research to derive a new data structure for inferring coevolutionary histories. Our new data structure is proven to provide a reduction in the time and space required to infer coevolutionary events. It is integrated into an existing framework for coevolutionary analysis and has been validated using both synthetic and previously published biological data sets. This proposed data structure performs twice as fast as algorithms implemented using existing data structures with no degradation in the algorithm's accuracy. As the coevolutionary data sets increase in size so too does the running time reduction provided by the newly proposed data structure. This is due to our data structure offering a logarithmic time and space complexity improvement. As a result, the proposed update to existing coevolutionary analysis algorithms outlined herein should enable the inference of larger coevolutionary systems in the future.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

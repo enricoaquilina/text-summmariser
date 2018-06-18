@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Approaching human level facial landmark localization by deep learning
+
+@&#HIGHLIGHTS@&#
+We show how to achieve state-of-the-art facial landmark localization by CNN.The system's performance is improved by deeper network.We show our system's performance is close to human.
+
+@&#KEYPHRASES@&#
+Facial landmark localization,Deep learning,Convolutional neural network,
+
+@&#ABSTRACT@&#
+In this paper we present our solution to the 300 Faces in the Wild Facial Landmark Localization Challenge. We demonstrate how to achieve very competitive localization performance with a simple deep learning based system. Human study is conducted to show that the accuracy of our system has been very close to human performance. We discuss how this finding would affect our future direction to improve our system.
+
+@&#INTRODUCTION@&#
+Reliable face recognition crucially depends on accurate and robust face alignment. Good alignment enables the face recognizer to be robust against pose and expression change [1,2]. Facial landmark localization seeks to detect a set of predefined key points on a human face. It attracts intense interest from both the industry and the research community.Despite rapid progress in this area, facial landmark localization in uncontrolled settings remains an unsolved problem. The major challenge comes from the large variations in the facial images (see Fig. 1for example of images used in our experiments). The head can have large yaw or pitch angles. The lightening condition can be extreme. In addition, some of the images are of low quality. The resolution can be low. The image can be blurry or corrupted. When viewed locally, some of the facial landmarks are difficult to be recognized. Even humans have to use the global context to identify a point.The major requirement of face alignment is robustness. The landmark localizer must return a set of reasonable point coordinates however the image is corrupted. Even if a point is not visible, it is typical for face recognizers to demand that the landmark localizer should “guess” a position for the point so that some global measurements (e.g. the rotation of the face) can be made. This poses great challenge to the landmark localizer.The most straightforward way to solve the landmark localization problem is to view it as an image-based regression problem. The input is the RGB image. The outputs are the coordinate values. Any image-based regressor can be plugged in. This framework is capable of giving very promising result if the regressor is powerful enough. In our solution we use a CNN (Convolutional Neural Network) Cascade. There are two key ingredients in our solution:•Deep network. To increase robustness, we used significantly deeper networks compared to previous works [3,4].Coarse-to-fine prediction. Using multiple CNNs in a coarse-to-fine manner improves accuracy.However, obtaining good quality training data is difficult and expensive. We conduct human study to investigate human's ability to locate key points in an image. Then we discuss how our findings would influence our future direction to improve the system.
+
+@&#CONCLUSIONS@&#

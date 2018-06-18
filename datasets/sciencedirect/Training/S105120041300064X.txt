@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A hybrid evolutionary approach to segmentation of non-stationary signals
+
+@&#HIGHLIGHTS@&#
+Recognition of physiological signal patters involving non-stationarity.The non-stationary signal patterns are partitioned into variable size stationary segments.Deterministic features are recognized using Kalman filter.Indeterministic features are estimated using fractal dimensions.A revolutionary approach is proposed to determine the best feature sets.
+
+@&#KEYPHRASES@&#
+Non-stationary signal,Adaptive segmentation,Kalman filter,Fractal dimension,Evolutionary algorithm,Genetic algorithm,Imperialist competitive algorithm,
+
+@&#ABSTRACT@&#
+Automatic segmentation of non-stationary signals such as electroencephalogram (EEG), electrocardiogram (ECG) and brightness of galactic objects has many applications. In this paper an improved segmentation method based on fractal dimension (FD) and evolutionary algorithms (EAs) for non-stationary signals is proposed. After using Kalman filter (KF) to reduce existing noises, FD which can detect the changes in both the amplitude and frequency of the signal is applied to reveal segments of the signal. In order to select two acceptable parameters of FD, in this paper two authoritative EAs, namely, genetic algorithm (GA) and imperialist competitive algorithm (ICA) are used. The proposed approach is applied to synthetic multi-component signals, real EEG data, and brightness changes of galactic objects. The proposed methods are compared with some well-known existing algorithms such as improved nonlinear energy operator (INLEO), Varriʼs and wavelet generalized likelihood ratio (WGLR) methods. The simulation results demonstrate that segmentation by using KF, FD, and EAs have greater accuracy which proves the significance of this algorithm.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

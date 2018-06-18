@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Rotation-minimizing Euler-Rodrigues rigid-body motion interpolants
+
+@&#HIGHLIGHTS@&#
+A characterization of degree 7 PH curves with rotation-minimizing Euler–Rodrigues frames is developed.The characterization is used to formulate a system of equations for interpolating initial/final positions and orientations of a rigid body by a rational rotation-minimizing motion.The system incorporates two free parameters for shape optimization of the solutions.Solutions exist for data sets that admit no RRMF quintic interpolants.Although these curves are of slightly higher degree, their rational rotation-minimizing frames are of lower degree than for RRMF quintics.
+
+@&#KEYPHRASES@&#
+Pythagorean-hodograph curves,Euler–Rodrigues frame,Rotation-minimizing frame,Quaternions,Hopf map,Spatial motion planning,
+
+@&#ABSTRACT@&#
+A characterization for spatial Pythagorean-hodograph (PH) curves of degree 7 with rotation-minimizing Euler–Rodrigues frames (ERFs) is determined, in terms of one real and two complex constraints on the curve coefficients. These curves can interpolate initial/final positionspiandpfand orientational frames(ti,ui,vi)and(tf,uf,vf)so as to define a rational rotation-minimizing rigid body motion. Two residual free parameters, that determine the magnitudes of the end derivatives, are available for optimizing shape properties of the interpolant. This improves upon existing algorithms for quintic PH curves with rational rotation-minimizing frames (RRMF quintics), which offer no residual freedoms. Moreover, the degree 7 PH curves with rotation-minimizing ERFs are capable of interpolating motion data for which the RRMF quintics do not admit real solutions. Although these interpolants are of higher degree than the RRMF quintics, their rotation-minimizing frames are actually of lower degree (6 versus 8), since they coincide with the ERF. This novel construction of rational rotation-minimizing motions may prove useful in applications such as computer animation, geometric sweep operations, and robot trajectory planning.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

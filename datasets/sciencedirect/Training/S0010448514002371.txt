@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Identifying and constructing elemental parts of shafts based on conditional random fields model
+
+@&#HIGHLIGHTS@&#
+Our work improves the level of semantic understanding of 2D projections in 3D solids reconstruction.It is the first trial to formulate the parts identification task into a classification problem.We employ an advanced classification model, CRFs, to identify the elemental parts.
+
+@&#KEYPHRASES@&#
+3D reconstruction,Shafts,Semantic information,Conditional random fields (CRFs) model,
+
+@&#ABSTRACT@&#
+Semantic information is very important for understanding 2D engineering drawings. However, this kind of information is implicit so that it is hard to be extracted and understood by computers. In this paper, we aim to identify the semantic information of shafts from their 2D drawings, and then reconstruct the 3D models. The 2D representations of shafts are diverse. By analyzing the characteristics of 2D drawings of shafts, we find that there is always a view which represents the projected outline of the shaft, and each loop in this view corresponds to an elemental part. The conditional random fields (CRFs) model is a classification technique which can automatically integrate various features, rather than manually organizing of heuristic rules. We first use a CRFs model to identify elemental parts with semantic information. The 3D elemental parts are then constructed by a parameters template method. Compared with the existing 3D reconstruction methods, our approach can obtain both geometrical information and semantic information of each part of shafts from 2D drawings. Several examples are provided to demonstrate that our algorithm can accurately handle diverse 2D drawings of shafts.
+
+@&#INTRODUCTION@&#
+2D engineering drawings have been taken as a standard language to carry out mechanical designs since the 19th century  [1]. From then on, many engineering drawings have been accumulated which are useful for design reuse. Currently, they still play a key role in engineering practices since many product designs are definitively represented in the format of 2D engineering drawings. Moreover, many small to medium size manufacturing companies directly use the 2D CAD software to do design work. However, 3D solid models have become more useful CAD tools  [2] for visualization, modification and some other operations in downstream computer-aided manufacturing processes  [3]. Considering that much of the existing product design documentation is described by 2D engineering drawings, it is necessary to convert them to 3D solid models.
+
+@&#CONCLUSIONS@&#

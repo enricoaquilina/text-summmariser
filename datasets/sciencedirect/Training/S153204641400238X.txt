@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Usability standards meet scenario-based design: Challenges and opportunities
+
+@&#HIGHLIGHTS@&#
+Scenarios are day in the life descriptions, designed to represent user needs.Their use for medical device certification differs from user-centred design practice.We investigated this discrepancy and provide recommendations for their application.Scenarios elicit variations in use and difference between actual and intended practice.
+
+@&#KEYPHRASES@&#
+User-Computer interface,Multidisciplinary communication,Medical device design,Software design,
+
+@&#ABSTRACT@&#
+The focus of this paper is on the challenges and opportunities presented by developing scenarios of use for interactive medical devices. Scenarios are integral to the international standard for usability engineering of medical devices (IEC 62366:2007), and are also applied to the development of health software (draft standard IEC 82304-1). The 62366 standard lays out a process for mitigating risk during normal use (i.e. use as per the instructions, or accepted medical practice). However, this begs the question of whether “real use” (that which occurs in practice) matches “normal use”. In this paper, we present an overview of the product lifecycle and how it impacts on the type of scenario that can be practically applied. We report on the development and testing of a set of scenarios intended to inform the design of infusion pumps based on “real use”. The scenarios were validated by researchers and practitioners experienced in clinical practice, and their utility was assessed by developers and practitioners representing different stages of the product lifecycle.These evaluations highlighted previously unreported challenges and opportunities for the use of scenarios in this context. Challenges include: integrating scenario-based design with usability engineering practice; covering the breadth of uses of infusion devices; and managing contradictory evidence. Opportunities included scenario use beyond design to guide marketing, to inform purchasing and as resources for training staff. This study exemplifies one empirically grounded approach to communicating and negotiating the realities of practice.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A method for the acquisition of ontology-based user profiles
+
+@&#HIGHLIGHTS@&#
+The algorithm introduces simulated annealing to hierarchical clustering in the construction of user ontologies.The k-nearest-neighbor query method is combined with branch-and-bound search algorithm in the maintenance of user ontology.The method has less human intervention in creating user profiles and can make user profiles more strong expressive.
+
+@&#KEYPHRASES@&#
+Information retrieval,User profile,Semantic Web,Ontology,User ontology,Optimization,
+
+@&#ABSTRACT@&#
+User profiles play an important role in information retrieval system. In this paper, we propose a novel method for the acquisition of ontology-based user profiles. In the method, the ontology-based user profiles can maintain the representations of personal interest. In addition, user ontologies can be automatically constructed. The method can make user profiles strong expressive and less manually interfered.
+
+@&#INTRODUCTION@&#
+The ability of facilitating users to achieve useful information is more and more important for information retrieval systems. User profiles can represent personal interests. These representations can be utilized for information retrieval. User profiles can be leveraged to recommend the truly valuable information to the users.Generally, there are two major methods of collecting user profiles [1]. Firstly, preprocessing is a method done with a questionnaire. This method is time consuming for users. Secondly, automatic collection is based on the interaction between the user and the system. When a user frequently uses a system, the cost of automatic collection is not more expensive than that of preprocessing [1]. However, when a user rarely uses a system, it is difficult for the system to represent the user’s personal interests. To solve this problem, the user has to repeat a similar procedure for each system and therefore this increases user burden [1].With emergence of Semantic Web, user ontology has more opportunities to improve user profiles. User ontology can share information between systems. Even if a user rarely uses a system, the system may share relevant information in other systems and represent the user’s personal interests. However, manual ontology construction is a time-consuming and expensive task. Thus, we propose a method called OUPA (Ontology-based User Profiles Acquisition) to acquire user-profiles through the construction of user ontologies. In the OUPA method, the ontology-based user profiles can maintain the representations of personal interest. In addition, user ontologies can be automatically constructed to avoid the problem of time consuming and expensive manual construction task using manual ontology building.
+
+@&#CONCLUSIONS@&#

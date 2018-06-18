@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A computational approach to body mass index prediction from face images
+
+@&#HIGHLIGHTS@&#
+A computational approach is developed for BMI prediction in face images for the first time.Our work can validate the psychology study results on a large scale database.Our computational approach can be useful for smart health.
+
+@&#KEYPHRASES@&#
+Body mass index (BMI),Facial features,BMI prediction,Machine vision,Large database,
+
+@&#ABSTRACT@&#
+Human faces encode plenty of useful information. Recent studies in psychology and human perception have found that facial features have relations to human weight or body mass index (BMI). These studies focus on finding the correlations between facial features and the BMI. Motivated by the recent psychology studies, we develop a computational method to predict the BMI from face images automatically. We formulate the BMI prediction from facial features as a machine vision problem, and evaluate our approach on a large database with more than 14,500 face images. A promising result has been obtained, which demonstrates the feasibility of developing a computational system for BMI prediction from face images at a large scale.
+
+@&#INTRODUCTION@&#
+Human faces contain a number of cues, e.g., identity, emotional expression, age, gender, ethnicity, attractiveness, personality traits, and so on. Decoding facial cues has been the subject of speculation for centuries [1]. It has attracted much attention from psychologists, sociologists, and computer scientists for decoding the useful information from faces.In this paper, we want to “decode” the information of body mass index (BMI) from single face images. BMI is a measure of body fat based on body height and weight for an individual. Gallagher et al. [2] showed that BMI is representative of body fatness.BMI is also an important visual characteristic to describe a person. BMI is a widely used measure of adiposity in humans, especially for the overweight issue. Andrew et al. [3] revealed that BMI is associated with the risk of some common adult cancers.To compute an individual's BMI, the traditional method is usually to measure both the body weight and height. Thus some tools are required, such as a ruler and a scale.Given an individual's height and weight, the calculation of body mass index (BMI) is given by [4]:BMI=weightkgheightm2orweightlb×703heightin2depending on the units to use, e.g., meter (m) for height and kilogram (kg) for weight, or inch (in) for height and pond (lb) for weight. According to the values of BMI, people are divided into four categories: underweight, normal, overweight, and obese [5]. The BMI categories and the range of values in each category are shown in Table 1. Also, Fig. 1shows some face examples in the different categories according to their BMI values.
+
+@&#CONCLUSIONS@&#

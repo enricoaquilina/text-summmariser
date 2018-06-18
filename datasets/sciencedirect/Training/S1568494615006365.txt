@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Design and optimization of a modified Sierpinski fractal antenna for broadband applications
+
+@&#HIGHLIGHTS@&#
+Modified Sierpinski: change of existing Sierpinski shape of microstrip antenna.Curve fitting is the graphical analysis by which the behavior between certain design parameters of the antenna can be visually and numerically analyzed.Particle swarm optimization is the individual element called the particles form a swarm, all particles attains one initial position randomly at the start and then they fly through the genotypic space to find the optimal solution of the problem.
+
+@&#KEYPHRASES@&#
+Modified Sierpinski,Broadband,Curve fitting,Particle swarm optimization,
+
+@&#ABSTRACT@&#
+Immense understanding of antenna designers illustrate that a general microstrip antenna demonstrate low efficiency. Various techniques have been adopted to improve the performance characteristics of microstrip antenna. This paper deals with the optimization of Sierpinski fractal antenna structure by utilizing the particle swarm optimization (PSO) and curve fitting method. The required data for optimization and fitting the curve has been obtained by varying different design parameters of the proposed antenna. Electromagnetic solver Ansoft HFSS 13.0 is used for generating the parametric data. The MATLAB curve fitting tool is referred for developing the equations which exhibits the relations between the parameters of proposed antenna design. Particle swarm optimization technique is then applied to find the optimum values of the design parameters for the bandwidth enhancement of proposed antenna. Curve fitting based optimized design represents the remarkable improvement in the bandwidth of conventional microstrip line fed Sierpinski fractal antenna for broadband applications.
+
+@&#INTRODUCTION@&#
+The demand of the high speed services in the wireless communication era; particularly in the field of mobile communication, data communication, voice, video etc. has increased due to recent developments. Current wireless data services are focussed to meet the requirements of the system for accessing information at a high data rate. Antenna plays a vital role in the wireless devices, multiband and broadband antennas draw attention of researchers. Different communication systems are exploring the broadband antennas for performance enhancement. Capacity of the wireless communication link can be increased by deploying the broadband antennas at the transmitter and/or receiver end [1,2]. Several methodologies have been adopted to develop the broadband antennas as aperture coupled antennas, PIFA (planar inverted-F antennas) antennas, layered patch antennas and monopole antennas. Most of these antennas are fabricated with a large ground plane on the opposite side of substrate material which increases the cost. The coaxial feed connector probe is generally used to excite the patch, which comes from the ground side penetrated through substrate via hole. This arrangement of feeding increases the fabrication complexity as well as disturbs the conformability of antenna. Edge fed connector assembly, i.e. CPW-fed antennas and partial ground plane antennas gain popularity to reduce the above addressed shortcomings.
+
+@&#CONCLUSIONS@&#

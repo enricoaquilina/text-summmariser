@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Stochastic bottom–up fixation prediction and saccade generation
+
+@&#HIGHLIGHTS@&#
+Introducing a stochastic model for simulating eye movementsImplementing the proposed modelImplementing an algorithm for predicting saccades and fixations
+
+@&#KEYPHRASES@&#
+Saccadic eye movement,Fixation prediction,Saliency,Scanpaths,
+
+@&#ABSTRACT@&#
+In this article, a novel technique for fixation prediction and saccade generation will be introduced. The proposed model simulates saccadic eye movement to incorporate the underlying eye movement mechanism into saliency estimation. To this end, a simple salience measure is introduced. Afterwards, we derive a system model for saccade generation and apply it in a stochastic filtering framework. The proposed model will dynamically make a saccade toward the next predicted fixation and produces saliency maps. Evaluation of the proposed model is carried out in terms of saccade generation performance and saliency estimation. Saccade generation evaluation reveals that the proposed model outperforms inhibition of return. Also, experiments signify integration of eye movement mechanism into saliency estimation boosts the results. Finally, comparison with several saliency models shows the proposed model performs aptly.
+
+@&#INTRODUCTION@&#
+The role of eye movements in visual attention has been a subject of dispute for years. The argument on the importance of saccadic eye movements in visual perception dates back to the late 1960s. At that point, a group of scientists considered it of no use, while another group supported the essential role of saccadic eye movements in visual perception. Recent studies show that saccadic eye movements play a major role in visual attention [1].Saccadic eye movements help to keep the object of interest in the center of vision and prevent sensory adaptation. Although saccadic head movements can be a replacement in the absence of eye movements, lack of any of these movements can result in temporal blindness [2]. This gives the intuition that saccadic movements (in the head or eye) might provide a sampling mechanism for the brain to perform visual perception.We know that saccades occur during prolonged visual fixation. Recent studies show that saccades also happen during visual search, and their dynamics is under the influence of visual stimulation and viewing task [3]. Tatler and Vincent [4] provide evidence that eye movement information (e.g. saccade length and saccade duration) has great contribution to human perception and incorporating it into a model can improve prediction of where a human choose to fixate. This provides enough motivation for proposing a method for simulating saccadic eye movements and predicting fixation points.
+
+@&#CONCLUSIONS@&#

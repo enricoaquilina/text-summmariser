@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Measuring the potential of augmented reality in civil engineering
+
+@&#HIGHLIGHTS@&#
+Well-formed digital models, such as BIM, are a prerequisite for construction AR.Augmented reality can contribute to the understanding of project documentation.Construction AR needs to be developed in parallel with conventional methods.Construction AR can help better understand construction 3D models.
+
+@&#KEYPHRASES@&#
+Augmented reality,Mobile computing,Computer integrated design,Computer integrated engineering,Civil engineering,Project documentation,Building information modelling,BIM,
+
+@&#ABSTRACT@&#
+Recently building information models have substantially improved the explicit semantic content of design information. Information models are used to integrate the initial phases of project development. On the construction site, however, the designs are still mostly represented as line-based paper drawings or projections on portable displays. A generic technology that can integrate information and situate it in time, place and context is augmented reality. The specific research issues addressed are (1) does augmented reality have a potential use in civil engineering, (2) how big – in comparison to other technologies - is this potential and (3) what are the main barriers to its adoption. The generic research issue was to develop a methodology for evaluation of potentials of technology. A prototype was built. It was tested on a real construction site to evaluate the potential of its use using the action-research method. A set of structured interviews with potential users was then conducted to compare the prototype to conventional presentation methods. Using this methodology it has been found out that augmented reality is expected to be as big a step as the transition from 2D line drawings to photorealistic 3D projections. The main barrier to the adoption is immature core virtual reality technology, conservative nature of construction businesses and size of building information models.
+
+@&#INTRODUCTION@&#
+Tools for designing in construction have evolved through history. Pens, pencils and paper have been replaced with CAD (computer aided design) and BIM (building information modelling) software. Engineers, builders, planners and contractors also use various domain specific software to support their work. A priority for construction informatics research and practice has been to effectively integrate the construction processes using information technology [12]. Adequate standards, e.g. Industry Foundation Classes (IFC), have the potential of solving the problem of interoperability of software and representation of information in designing [15].While the design phase is largely digitised and increasingly integrated around BIM, for a complete digitalisation of construction industry, structured information models would need to be available on construction site where the information is used to shape material world. However, on the construction site the IT infrastructure is not readily available. Things began to change with the introduction of mobile computing [10]. The field is still evolving.
+
+@&#CONCLUSIONS@&#

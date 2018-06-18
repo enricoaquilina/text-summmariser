@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+A probabilistic approach for automated discovery of perturbed genes using expression data from microarray or RNA-Seq
+
+@&#HIGHLIGHTS@&#
+Automated analysis of high throughput data for disease gene and biomarker discovery.Network based analysis using probability of change for gene expression.Analysis of coherent path level changes in regulation in response to complex disease.Biomarkers with high precision and accuracy of classification.
+
+@&#KEYPHRASES@&#
+Biomarker discovery,Probabilistic modeling,Network analysis,Microarrays,RNA-Seq,Genomics,Breast cancer,Complex disease,Robust,Signaling and regulatory network,
+
+@&#ABSTRACT@&#
+BackgroundIn complex diseases, alterations of multiple molecular and cellular components in response to perturbations are indicative of disease physiology. While expression level of genes from high-throughput analysis can vary among patients, the common path among disease progression suggests that the underlying cellular sub-processes involving associated genes follow similar fates. Motivated by the interconnected nature of sub-processes, we have developed an automated methodology that combines ideas from biological networks, statistical models, and game theory, to probe connected cellular processes. The core concept in our approach uses probability of change (POC) to indicate the probability that a gene’s expression level has changed between two conditions. POC facilitates the definition of change at the neighborhood, pathway, and network levels and enables evaluation of the influence of diseases on the expression. The ‘connected’ disease-related genes (DRG) identified display coherent and concomitant differential expression levels along paths.ResultsRNA-Seq and microarray breast cancer subtyping expression data sets were used to identify DRG between subtypes. A machine-learning algorithm was trained for subtype discrimination using the DRG, and the training yielded a set of biomarkers. The discriminative power of the biomarkers was tested using an unseen data set. Biomarkers identified overlaps with disease-specific identified genes, and we were able to classify disease subtypes with 100% and 80% agreement with PAM50, for microarray and RNA-Seq data set respectively.ConclusionsWe present an automated probabilistic approach that offers unbiased and reproducible results, thus complementing existing methods in DRG and biomarker discovery for complex diseases.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

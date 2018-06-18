@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+An opportunistic routing based on symmetrical traffic distribution in vehicular networks
+
+@&#HIGHLIGHTS@&#
+An opportunistic routing algorithm is proposed for the urban scenarios in VANETs. The algorithm is composed of two phases: intersection and next hop selection phases.The type of vehicular distribution is used to evaluate the routes in the network.Vehicle's driving path is also used to select the next hop.Packet delivery, packet loss & packet e2e delay are used to evaluate the protocols.Our algorithm shows better performance compared to the other well-known protocols.
+
+@&#KEYPHRASES@&#
+Vehicular ad-hoc network,Opportunistic routing,Driving path,Data delivery ratio,Vehicular distribution,
+
+@&#ABSTRACT@&#
+Graphical abstractImage, graphical abstract
+
+@&#INTRODUCTION@&#
+Nowadays vehicles become able to use wireless communication technology. Hence, vehicular ad hoc network (VANET) arises. VANET is a special type of mobile ad-hoc network (MANET) in which vehicles act as nodes. Unlike MANET, vehicles move on predefined roads; their velocity depends on the speed signs and they also have to follow traffic signs and traffic signals [1]. There are numerous applications for VANETs and they can be used for different purposes, such as improving safety (accident avoidance, incident notification), driving enhancement (congestion monitoring, parking space allocation) and commercial services (business, entertainment) [2].The main challenge of these kinds of applications is how to maintain persistent connection among vehicle nodes to transmit data from source to destination via wireless multi-hop transmission or carry-and-forward techniques. One of the key research topics is to design effective data delivery schemes. Therefore, some research works have been conducted on this topic recently. Among the existing schemes, some works focus on selecting a candidate intersection to forward data according to the density of vehicles on the road in city environment, such as VADD [3]. However, not only the density but also the distribution of vehicles on the road can affect the node's connectivity.On the other hand, some research works have shown that human trajectories show a high degree of temporal and spatial regularity [4,5].Most of trips made by the drivers are repetitive and formed by traveling between a limited number of sources and destinations. Therefore, vehicular driving paths are predictable [6] and using this predictability in data forwarding can improve connectivity in VANETs.In this study, driving path predictability, vehicular density and their way of distribution over the road are used to propose an Opportunistic routing, based on Symmetrical Traffic Distribution (OSTD) for data delivery improvement.The rest of the paper is organized as follows: In Section 2, different routing protocols in vehicular ad hoc networks are briefly introduced. OSTD is presented in Section 3, and is evaluated by a simulation study in Section 4. Finally, Section 5 concludes the paper.
+
+@&#CONCLUSIONS@&#

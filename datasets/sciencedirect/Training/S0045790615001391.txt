@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Rotation and scale invariant hybrid image descriptor and retrieval
+
+@&#HIGHLIGHTS@&#
+A rotation and scale invariant hybrid descriptor is proposed for content based image retrieval.Color and textural data are used to construct the descriptor.Color is encoded by quantizing RGB color space into 64 shades.Texture is extracted using 5 rotation invariant structuring element.
+
+@&#KEYPHRASES@&#
+Structure element,Rotation-invariant descriptor,Scale-invariant descriptor,Texture analysis,Content-based image retrieval,Color quantization,
+
+@&#ABSTRACT@&#
+Accurate image retrieval is required to index and retrieve large number of images from huge databases. In this paper, an efficient approach is presented to encode the color and textural features of images from the local neighborhood of each pixel. The color features are extracted by quantizing the RGB color space into a single channel with reduced number of shades. The texture information is encoded with structuring patterns generated from the locally structured elements chosen as a basis. Color and textural features are fused together to construct the inherently rotation and scale-invariant hybrid image descriptor (RSHD). This fusion is carried out by extracting textural cues over each shade independently. RSHD has been tested on the Corel dataset and experimental results suggest that RSHD outperforms state-of-the-art descriptors. The performance of the RSHD is promising under rotation and scaling. It can also be effectively used under more complex image transformations.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

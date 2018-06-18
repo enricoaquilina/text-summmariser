@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+The LIR space partitioning system applied to the Stokes equations
+
+@&#HIGHLIGHTS@&#
+We present an efficient approach to numerically solve the Stokes equations.The LIR-tree is used as adaptive data structure for spatial partitioning.We introduce a conservative cellular structure to discretize the Stokes equations.The method is compared to other state of the art solvers to verify the results.The method has very low memory requirements and is very fast.
+
+@&#KEYPHRASES@&#
+LIR-tree,Stationary Stokes equations,Direct numerical simulation,
+
+@&#ABSTRACT@&#
+We introduce a novel approach to solve the stationary Stokes equations on very large voxel geometries. One main idea is to coarsen a voxel geometry in areas where velocity does not vary much while keeping the original resolution near the solid surfaces. For spatial partitioning a simplified LIR-tree is used which is a generalization of the Octree and KD-tree. The other main idea is to arrange variables in a way such that each cell is able to satisfy the Stokes equations independently. Pressure and velocity are discretized on staggered grids. But instead of using one velocity variable on the cell surface we introduce two variables. The discretization of momentum and mass conservation yields a small linear system (block) per cell that allows to use the block Gauss–Seidel algorithm as iterative solver. We compare our method to other solvers and conclude superior performance in runtime and memory for high porosity geometries.
+
+@&#INTRODUCTION@&#
+Simulation of materials received great attention in the last decades. Expensive and time-consuming construction of prototypes used in real experiments can be replaced by virtual material design and simulation of physical equations. Numerical simulations are suited for material engineering. They can be accomplished in a short amount of time and are considerably cheaper than real experiments. The spatial size of simulated domains can range from the nanometer- to the meter-scale. Engineers are interested in effective material properties (e.g., permeability) of virtual materials or computed tomographies.The permeability (in fluid mechanics) can be predicted based on the stationary Stokes equations. Velocity and pressure are considered to vary in space only but not in time. Numerical computations allow to determine effective permeability and point-wise values based on CT images or discretized analytical descriptions. Better resolution of 3D images improves the quality of these predictions dramatically.Efficient memory approaches and fast algorithms are needed to solve the Stokes equations on very large domains. We use a simplified version of the LIR-tree as the data structure for discretization that is described in [11] and [10]. In this paper, we introduce an efficient numerical approach to solve the stationary Stokes equations suited for LIR-trees. The method is called conservative cellular structure and reduces the number of tree traversals to a minimum.
+
+@&#CONCLUSIONS@&#
+The combination of LIR-tree and conservative cellular structure allows to numerically solve the Stokes equations on very large voxel geometries. In high porosity geometries we need 10 times less runtime and memory compared to other state of the art solvers. In low porous geometries we need 10 times less memory and have similar runtimes compared to the other methods.

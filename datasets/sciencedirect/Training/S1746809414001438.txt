@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Coarse-to-fine dot array marker detection with accurate edge localization for stereo visual tracking
+
+@&#HIGHLIGHTS@&#
+We present a coarse-to-fine dot array marker detection algorithm which can extract dot features with high accuracy and low uncertainty.Sub-pixel edge point localization of the dot contour is performed by searching the zero-crossing in the convolution with a Laplacian-of-Gaussian kernel.The marker detection algorithm yielded a feature detection error of less than 0.1 pixel with real-time performance.The uncertainties in both localizing static 2-D dot features and 3-D pose tracking were obviously reduced by performing the sub-pixel localization.
+
+@&#KEYPHRASES@&#
+Marker detection,Dot feature,Sub-pixel edge localization,Image filtering,Stereo tracking,
+
+@&#ABSTRACT@&#
+We present a coarse-to-fine dot array marker detection algorithm which can extract dot features with high accuracy and low uncertainty. The contribution of this paper is twofold: one is a configurable dot array marker detection framework which enables real-time multi-marker tracking with compact marker size (coarse detection); the other is a closed-form sub-pixel edge localization method including the formulation and the implementation (fine localization). The marker pattern together with the dot contours is detected in a fast but coarse way for efficiency consideration, using simple thresholding and hierarchical contour analysis. If the marker pattern matches with one of predefined marker descriptors, sub-pixel edge point localization of the dot contour is performed within the detected marker region by searching the zero-crossing in the convolution of the marker image with a Laplacian-of-Gaussian (LoG) kernel. A closed-form solution is proposed to localize the “true” edge point in a 3×3 neighborhood of a candidate pixel by solving a quartic equation. The dot center is finally extracted by ellipse fitting and re-ordered according to an orientation indicator. The algorithm was evaluated against both synthetic and real image data, and also in real applications where stereo visual trackers were implemented using the proposed marker detection algorithm. Experimental results show that (1) the marker detection algorithm yielded a feature detection error of less than 0.1 pixel with real-time performance; (2) the uncertainties in both localizing static 2-D dot features and 3-D pose tracking were obviously reduced by performing the sub-pixel localization; and (3) the feasibility of the marker tracking under stereo laparoscopic views was confirmed in an in vivo animal experiment.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

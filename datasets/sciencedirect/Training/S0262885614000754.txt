@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Coupled person orientation estimation and appearance modeling using spherical harmonics
+
+@&#HIGHLIGHTS@&#
+Estimation of a person's orientation, 3D shape and texture from overlapping camerasSpherical harmonics are used as low-dimensional 3D shape- and texture-representation.Spherical harmonics properties allow to cope with orientation estimation elegantly.Outperformance of orientation estimation methods that use a fixed 3D shape model
+
+@&#KEYPHRASES@&#
+Person appearance modeling,Orientation estimation,Spherical harmonics,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+A person's overall body orientation (i.e. rotation around 3D torso major axis, facing direction) conveys important information about the person's current activity and focus of attention. In this paper, we focus on the estimation of overall person body orientation from few, overlapping cameras. To obtain a more accurate orientation estimate, we jointly estimate it with a 3D shape and texture representation of a person's torso-head, under a rigidity assumption. By projection onto a basis of Spherical Harmonics (SH), a low dimensional appearance model is created that can cope with object deformations while retaining the spatial information captured in a textured 3D representation. By comparing the texture model of the person at consecutive points in time, the relative body orientation can be estimated elegantly by using the properties of the SH. This in turn allows to update the 3D shape and texture model of a person.Apart from facilitating an accurate orientation estimate, the proposed 3D shape and texture model furthermore has the potential to offer improved track disambiguation in a multiple person scenario, compared to less descriptive 2D view-based models. The 3D representation could also provide an initialization for applications aiming at full articulated 3D pose recovery.The remainder of this paper is organized as follows. In Section 2, we discuss the related work. Section 3 starts with an overview of the proposed approach and the basic properties of spherical harmonics. Thereafter, it describes the estimation of texture, orientation, and shape in alternating fashion. In Section 4, we present experimental results on both artificial and real-world datasets. We conclude and suggest directions for future work in Section 5.
+
+@&#CONCLUSIONS@&#

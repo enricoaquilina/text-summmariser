@@ -1,0 +1,17 @@
+@&#MAIN-TITLE@&#
+Production phase and ultimate pit limit design under commodity price uncertainty
+
+@&#HIGHLIGHTS@&#
+An innovative application of OR in open pit mine planning and design is proposed.It implements minimum cut algorithm for pit design considering price uncertainty.A new smoothing splines algorithm models the price uncertainty.A case study demonstrates the application of the proposed stochastic framework.A comparison with existing methods confirms improved economic value.
+
+@&#KEYPHRASES@&#
+Uncertainty modelling,Production planning,Open pit mine,Minimum cut algorithm,Smoothing spline,
+
+@&#ABSTRACT@&#
+Open pit mine design optimization under uncertainty is one of the most critical and challenging tasks in the mine planning process. This paper describes the implementation of a minimum cut network flow algorithm for the optimal production phase and ultimate pit limit design under commodity price or market uncertainty. A new smoothing splines algorithm with sequential Gaussian simulation generates multiple commodity price scenarios, and a computationally efficient stochastic framework accommodates the joint representation and processing of the mining block economic values that result from these commodity price scenarios. A case study at an existing iron mining operation demonstrates the performance of the proposed method, and a comparison with conventional deterministic approach shows a higher cumulative metal production coupled with a 48% increase in the net present value (NPV) of the operation.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#
+This paper presented an uncertainty-based production-phase design and ultimate pit limit method that implements maximum flow algorithm. As distinct from a single constant metal price value over the life of an operation, as used in conventional pit optimization, multiple price scenarios, applicable to different production periods, were integrated into the stochastic framework. The proposed method shows that integrating commodity price uncertainty within the context of a minimum cut network flow model is relatively simple to both develop and solve. This work also contributes a method for generating the simulated realizations of iron price values. This was achieved by estimating the trend using a smoothing splines model and simulating the residual values using a sequential Gaussian simulation algorithm. The computational efficiency of the proposed method encourages the incorporation of commodity price uncertainties into the optimization process for large scale operations. An application of this innovative approach at an iron ore mining operation generated consistently- sized phases within the ultimate pit limit, a 6 percent larger pit, and critically, a 48 percent higher net present value as compared to the conventional methods for production-phase and ultimate pit limit design.

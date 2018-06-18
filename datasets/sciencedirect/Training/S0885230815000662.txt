@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+State of the art in statistical methods for language and speech processing
+
+@&#HIGHLIGHTS@&#
+The purpose of this contribution is to review the state of the art in both areas, statistical methods and speech processing.Point out the top trends in statistical modelling across a wide range of problems and identify their most salient characteristics.The paper concludes with some prognostications regarding the likely impact on the field going forward.
+
+@&#KEYPHRASES@&#
+Statistical methods for language processing,Speech processing,
+
+@&#ABSTRACT@&#
+Recent years have seen rapid growth in the deployment of statistical methods for computational language and speech processing. The current popularity of such methods can be traced to the convergence of several factors, including the increasing amount of data now accessible, sustained advances in computing power and storage capabilities, and ongoing improvements in machine learning algorithms. The purpose of this contribution is to review the state of the art in both areas, point out the top trends in statistical modelling across a wide range of problems, and identify their most salient characteristics. The paper concludes with some prognostications regarding the likely impact on the field going forward.
+
+@&#INTRODUCTION@&#
+Statistical methods can be thought of as a way to leverage information primarily extracted from available raw data rather than derived from a priori expert knowledge. Over the past decade, such approaches have enjoyed rapidly increasing popularity in the field of computational language and speech processing. A wide spectrum of machine learning techniques have now been deployed to address the full complement of problems to be solved, from speech recognition and natural language modelling to information retrieval and text summarisation. This enthusiasm for statistical methods is the consequence of two main developments: (i) the explosion in the amount of data newly accessible, largely due to new social behaviours, societal transformations, as well as the vast spread of software systems and (ii) a steady reduction in the cost of computing and storage resources, which makes it possible to process increasingly large quantities of data with a reasonable amount of time and money.
+
+@&#CONCLUSIONS@&#

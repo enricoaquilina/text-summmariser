@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Feature subset selection applied to model-free gait recognition
+
+@&#HIGHLIGHTS@&#
+A feature selection framework is proposed to achieve high performance model-free gait recognition.The feature selection mechanism relies on the Random Forest algorithm.Regions selected are more robust to covariates while reducing the computational cost.Panoramic gait recognition is achieved under covariate conditions.
+
+@&#KEYPHRASES@&#
+Feature selection,Gait recognition,Model-free,Panoramic,Random forest,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+Many researchers believe that gait contains information regarding both the gender and identity of a person. The first psychological evidence in support of the above fact was provided by [21]. The main task involved in gait recognition is the selection of appropriate features, one that can extract as much information from the gait sequence. In the start temporal based features, specifically the ones that represent the entire gait trajectory were intuitively believed to represent gait and perform recognition effectively. But despite their success, after large data sets like CASIA Set B [38], Gait Human ID challenge [32], SOTON Database [35], and OU-ISIR Database [29] were introduced, the research community started shifting their interest towards robust static representations [28,17,8] as they are more compact and not computationally expensive.Broadly, one can classify the different approaches for gait recognition in two categories: model-based and model-free. The model free approach considers the motion of human body holistically, and features are computed without considering the underlying structure. As compared to model-based approach, one requires significantly lesser amount of computational power but the feature space which one gets is more correlated and has more dimensions. On the other hand, the model based approach measures parameters concerning kinematic data or tries to fit the parameters to a human model. The advantage of a model based approach is that the feature space dimension is really low, but one of its down sides is high computational complexity. Johansson's experiment [21] pointed out to the fact that one does not require entire structural information for recognition of a person. This significant result motivated the research community to explore various possibilities in the context of model free features. This is the reason that motivates us to evaluate our feature selection framework on model-free features.
+
+@&#CONCLUSIONS@&#

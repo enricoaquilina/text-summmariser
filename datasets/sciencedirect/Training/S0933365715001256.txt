@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Data-driven knowledge acquisition, validation, and transformation into HL7 Arden Syntax
+
+@&#HIGHLIGHTS@&#
+Facilitating physicians to acquire the clinical knowledge.Data-driven knowledge acquisition and validation approach provides baseline for standard base knowledge creation.Three phase knowledge acquisition from clinical dataset increase adaption of clinical decision support system.Create sharable clinical knowledge using HL7 Arden Syntax and HL7 vMR.
+
+@&#KEYPHRASES@&#
+Knowledge acquisition,Knowledge validation,Prediction models,Clinical guidelines,Clinical decision support systems,HL7 Arden Syntax,
+
+@&#ABSTRACT@&#
+ObjectiveThe objective of this study is to help a team of physicians and knowledge engineers acquire clinical knowledge from existing practices datasets for treatment of head and neck cancer, to validate the knowledge against published guidelines, to create refined rules, and to incorporate these rules into clinical workflow for clinical decision support.Methods and materialsA team of physicians (clinical domain experts) and knowledge engineers adapt an approach for modeling existing treatment practices into final executable clinical models. For initial work, the oral cavity is selected as the candidate target area for the creation of rules covering a treatment plan for cancer. The final executable model is presented in HL7 Arden Syntax, which helps the clinical knowledge be shared among organizations. We use a data-driven knowledge acquisition approach based on analysis of real patient datasets to generate a predictive model (PM). The PM is converted into a refined-clinical knowledge model (R-CKM), which follows a rigorous validation process. The validation process uses a clinical knowledge model (CKM), which provides the basis for defining underlying validation criteria. The R-CKM is converted into a set of medical logic modules (MLMs) and is evaluated using real patient data from a hospital information system.ResultsWe selected the oral cavity as the intended site for derivation of all related clinical rules for possible associated treatment plans. A team of physicians analyzed the National Comprehensive Cancer Network (NCCN) guidelines for the oral cavity and created a common CKM. Among the decision tree algorithms, chi-squared automatic interaction detection (CHAID) was applied to a refined dataset of 1229 patients to generate the PM. The PM was tested on a disjoint dataset of 739 patients, which gives 59.0% accuracy. Using a rigorous validation process, the R-CKM was created from the PM as the final model, after conforming to the CKM. The R-CKM was converted into four candidate MLMs, and was used to evaluate real data from 739 patients, yielding efficient performance with 53.0% accuracy.ConclusionData-driven knowledge acquisition and validation against published guidelines were used to help a team of physicians and knowledge engineers create executable clinical knowledge. The advantages of the R-CKM are twofold: it reflects real practices and conforms to standard guidelines, while providing optimal accuracy comparable to that of a PM. The proposed approach yields better insight into the steps of knowledge acquisition and enhances collaboration efforts of the team of physicians and knowledge engineers.
+
+@&#INTRODUCTION@&#
+
+
+@&#CONCLUSIONS@&#

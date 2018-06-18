@@ -1,0 +1,16 @@
+@&#MAIN-TITLE@&#
+Developing a contactless palmprint authentication system by introducing a novel ROI extraction method
+
+@&#HIGHLIGHTS@&#
+A novel unrestricted, contactless palmprint image acquisition device is developed.A novel model-based ROI extraction method, robust to the small errors is proposed.A contactless palmprint DB is constituted by collecting 1752 images from 145 subjects.The images in DB have pose, rotation, position variations and cluttered backgrounds.The results achieved by the proposed system are encouraging: 0.277% EER and 99.488% RR.
+
+@&#KEYPHRASES@&#
+Contactless palmprint authentication system,Model-based ROI extraction,Palm direction estimation by nonlinear regression,Contactless palm database,AAM-based palm segmentation,
+
+@&#ABSTRACT@&#
+Graphical abstract
+
+@&#INTRODUCTION@&#
+The recent research attention focused on the improvement of palmprint recognition systems can be ascribed to its commercialization potentials in real-world biometric applications. As a result, most of the end-users of this technology seek to deploy secure, accurate, hygienic biometric identification solutions. A contactless palmprint acquisition device can be the ultimate solution to alleviate such hygiene concerns. For this reason, the trend has been toward the contactless acquisition devices and developing robust approaches for contactless hand-based biometrics [1–4].This paper presents a novel contactless palmprint recognition system with a novel region of interest (ROI) extraction method. The users present their hands without touching any guidance peripheral. Furthermore, there is no limitation about the scene behind the users' hand.
+
+@&#CONCLUSIONS@&#
